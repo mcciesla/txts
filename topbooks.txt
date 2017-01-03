@@ -1,0 +1,513 @@
+Stanislaw Lem - Glos Pana
+Umberto Eco - Jmeno ruze
+Witold Gombrowicz - Ferdydurke
+John Ronald Ruel Tolkien - Lord of The Rings
+Cormac McCarthy - The Road
+----------------
+Stanislaw Lem - Solaris
+              - Proznia Doskonala
+              - Cyberiada
+              - Pamietnik znaleziony w wannie
+              - Dzienniki gwiazdowe
+Franz Kafka - Zamek
+Umberto Eco - Foucaultovo kyvadlo
+Witold Gombrowicz - Kosmos
+John Ronald Ruel Tolkien - Hobbit
+George R. R. Martin - A Song of Ice and Fire
+Jorge Luis Borges - Pierre Menard, Author of the Quixote
+                  - The Lottery in Babylon 
+----------------
+Stanislaw Lem - Niezwyciezony
+              - Kongres Futurologiczny
+              - Sledztwo
+              - Golem
+              - Bajki robotów
+Franz Kafka - Proces
+Jorge Luis Borges - Tlon, Uqbar, Orbis Tertius
+----------------
+----------------
+Henryk Sienkiewicz - Latarnik
+Czeslaw Milosz - Dolina Issy
+Zofia Nalkowska - Medaliony
+Stanislaw Lem - Wysoki Zamek
+Ernest Hemingway - Stary czlowiek i morze
+Karel Capek - Matka
+Josef Skvorecky - Zbabelci
+Bohumil Hrabal - Prilis hlucna samota
+----------------
+--------------------------------------------------------------------------------
+SCIENCE :
+	FILOZOFIA:
+		Filozofia Logiki ; George S. Boolos , Susan Haack , Ian Hacking , Jean van Heijenoort , Gilbert Ryle , Gila Sher , Leslie H. Tharp , Hao Wang
+    FIZYKA:
+        Wybrane zagadnienia z astronomii ; Jerzy Marek Kreiner
+        Zaklady specialni teorie relativity - ucebni text pro vyuku fyziky v I. rocniku gymnazia ; Josef Fuka , Jan Marsák , Eva Tomanová
+        Zákonné měřící jednotky SI ; Vítkovické stavby Ostrava
+    INFORMATYKA:
+        AI:
+        	NN:
+        		Lower Bounds for the Computational Power of Networks of Spiking Neurons ; Wolfgang Maass
+        Hry s pocitacem ; Stanislav Vejmola
+        Principy počítačů ; Václav Jirovský
+    MATEMATYKA:
+        LOGIKA: 
+            Logika a logiky ; Jaroslav Peregrin
+            Od jazyka k logice - Filozofický úvod do moderní logiky ; Vladimír Svoboda , Jaroslav Peregrin 
+POP.SCIENCE :
+    AKWARIUM:
+        Moje akvárium ; Karl-Heinz Tschiesche
+    BIOLOGIA:
+        NEUROLOGIA:
+            Zdumiewajaca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
+        Červená královna - sexualita a vyvoj lidske prirozenosti ; Matt Ridley
+        Genom ; Matt Ridley
+        Geny a osobnost - biologicke zaklady psychiky cloveka ; Dean Hamer , Peter Copeland
+        Granice Życia ; John Postgate
+        Natura umysłów ; Daniel C. Dennett
+        Nejblizsí příbuzní ; Roger Fouts , Stephen Tukel Mills
+        Opowiadania O Zwierzętach ; Jadwiga Wernerowa
+        Problemy Biologii ; John Maynard Smith
+        Ryba v nas , Cesta tri a pul miliardy let dlouhou historii lidskeho tela ; Neil Shubin
+        Rzeka genów ; Richard Dawkins
+        The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
+        The Greatest Show On Earth ; Richard Dawkins
+        The Language Instinct - How the Mind Creates Language ; Steven Pinker
+        Tomás objavuje prírodu ; Gérard Grée , Alain Grée
+        Wspinaczka Na Szczyt Nieprawdopodobieństwa ; Richard Dawkins
+        Życie , Nieautoryzowana Biografia ; Richard Fortey
+    CHAOS:
+        Granice Złożonosci , poszukiwania porzadku w chaotycznym swiecie ; Peter Coveney , Roger Highfield
+    EKONOMIA:
+        Misbehaving - The Making of Behavioural Economics ; Richard H. Thaler
+        Nudge - Improving decisions about health, wealth and happiness ; Richard H. Thaler , Cass Sunstein
+        U Progu XXI Wieku ; Paul Kennedy
+    ENCYKLOPEDIE:
+        Moja pierwsza encyklopedia ; Simone Lamblin
+    FILOZOFIA:
+    	  The God Delusion ; Richard Dawkins
+        Poszukiwanie jezyka doskonalego ; Umberto Eco
+    FIZYKA:
+        ASTRONOMIA:
+            Galaktyki ; Robert Estalella
+            Planety i Księżyce ; Robert Estalella
+        Boska Czastka - jesli wszechswiat jest odpowiedzia, jak brzmi pytanie ; Leon Lederman , Dick Teresi
+        Czarne Dziury i Wszechswiat ; Igor Nowikow
+        Energia Atomu ; K.Gładkow
+        Fizyka Podróży Międzygwiezdnych ; Lawrence M. Krauss
+        Galaktyki ; Robert Estalella
+        Kosmiczna Przygoda Człowieka Madrego ; Michał Heller
+        Krótka Historia Czasu ; Stephen W. Hawking
+        Kwark i Jaguar ; Murray Gell-Mann
+        Mister Tompkins W Krainie Czarów ; George Gamow
+        Ostatnie Trzy Minuty ; Paul Davies
+        Planety i ksiezyce ; Robert Estalella  
+        Poczatek Wszechswiata ; John D. Barrow
+        Struktura Vesmiru - cas, prostor a povaha reality ; Brian Greene
+        Sztuczne Słońce ; Gleb Anfiłow
+        To Explain The World - The Discovery of Modern Science ; Steven Weinberg
+        Tváří v tvář ; Steven Weinberg
+        W Poszukiwaniu Kota Schrödingera ; John Gribbin
+        W Poszukiwaniu Nieskończonosci , na tropie tajemnic wszechswiata ; Gordon Fraser , Egil Lillestol , Inge Sellevag
+    HISTORIA:
+        100 Najwybitniejszych Uczonych Wszech Czasów ; John Simmons
+        100 Nejvlivnějsích vojevůdců světa ; Michael Lee Lanning
+        A short account of the Destruction of the Indies ; Bartolome de las Casas
+        Agresja Amerykańska w Wietnamie ; Marian Wolin
+        Antické Černomoří ; Radislav Hošek , Jan Bouzek
+        Arménie – tři tisíce let dějin a kultůry ; Burchard Brentjes
+        Asýrie - od městského státu k řísi ; Jana Pečírková
+        Berlin 1945 ; Stanisław Komornicki
+        Bily orel, ruda hvezda ; Norman Davies
+        Bitwa Jutlandzka 1916 ; Zbigniew Flisowski
+        Bitwa o Skalbmierz 1944 ; Tadeusz Jurga
+        Bitwy Morskie ; Edmund Kosiarz
+        Burza Nad Pacyfikiem Tom II ; Zbigniew Flisowski
+        Concertina ; Olgierd Terlecki
+        Dějepis pro I. ročník gymnázií ; Tomás Jílek a kol.
+        Dějiny Byzance ; Bohumila Zástěrová a kol.
+        Dějiny Japonska ; Zdeňka Vasiljevová
+        Dobytí říše Inků ; John Hemming
+        Duel v Pacifiku ; Hrowe H. Saunders
+        Dynastie Świata ; John E. Morby
+        Dzieje Grecji ; N.G.L. Hammond
+        Dzieje dawnych Turków ; Lew Gumilow
+        Dzieje Rzymu ; Max Cary , Howard Hayes Scullard
+        Fidel & Che - A revolutionary friendship ; Simon Reid-Henry
+        Foiničané ; Sabatino Moscati
+        Fridrich Barbarossa , císař a rytíř ; Ferdinand Opll
+        Guderian - Tankový generál ; Kenneth Macksey
+        Historia Powszechna - Starożytnosć ; Józef Wolski
+        Hunové ; Edward Arthur Thompson
+        Indiański Napoleon Gór Skalistych ; Arkady Fiedler , Marek Fiedler
+        KG-200 bez tajemnic ; Andrzej Fryszkiewicz
+        Khmerové ; Ian Mabbett , David Chandler
+        Klasicke Recko ; Michael Grant
+        Kolumbova flotila ; Helena Skodova , Eduard Skoda , Vojtech Kubista
+        Královská tazení ve starém Orientu - Od Sinuheta k Nabukadnezarovi ; Alfred Jepsen
+        Kronika Rzymu i Cesarstwa Rzymskiego ; Aleksander Krawczuk
+        Křížové výpravy ; Antony Bridge
+        Leyte 1944 ; Zbigniew Flisowski
+        Lukullus ; Arthur Keaveney
+        Maurové a Evropa ; Hans Kaufmann
+        Mezopotamie - Pocatky mest ; Gwendolyn Leick
+        Midway 1942 ; Maciej Borkowski
+        Mity pięciu częsci swiata ; Tadeusz Margul
+        Mocarstwa swiata - narodziny, rozkwit, upadek ; Paul Kennedy
+        Na Końcu Włoskiego Buta ; Michał Czartoryski
+        O Krakowie Ci ja! - Historia Krakowa inaczej ; Antoni Wasilewski
+        Objavovanie Ameriky ; Nicholas Hordern , Simon Dresner , Martin Hillman
+        Od Odry do Łaby ; Kazimierz Kaczmarek
+        Oddział Majora Hubala ; Tadeusz Jurga
+        Okinawa ; Simon Foster
+        Oktawian August - Ojciec Chrzestny Europy ; Richard Holland
+        Pacifik v plamenech ; Milos Hubáček
+        Plachetnice ; Karl-Heinz Wieland
+        Poczet Cesarzy Rzymskich ; Aleksander Krawczuk
+        Poczet Wielkich Mistrzów Krzyżackich ; Paweł Pizuński
+        Pomnik w Kalkówce ; Tadeusz Jurga
+        Przedmurze Starówki ; Bogusław Szumski
+        Ród Indian Algonkinów ; Arkady Fiedler , Marek Fiedler
+        Rýžoviště zlata a doly drahokamů ; Abu L-Hasan 'Alí Al-Mas'údí
+        Římané v Germánii ; Reinhard Wolters
+        Říše Inků ; Victor W. von Hagen
+        Sedm Kleopater ; Anna Świderková
+        Serce Azji ; Bogdan Składanek , Maria Składanek
+        Stanisław Lem - Zivotopis ; Pavel Weigel
+        Starověká Indie ; Zbavitel D.
+        Starożytne Cywilizacje ; John Haywood
+        Starożytny Bliski Wschód ; Daniel Arnoud
+        Svět helénismu ; Pavel Oliva
+        Syn Smoka , fragmenty Zapisków Historyka ; Sy-ma Ts´ien
+        Thrákové ; Jan Bouzek
+        Tiberius - pohnutý zivot císaře ; Roger Caratini
+        Tvář helenistického světa ; Anna Świderková
+        Tybet - zarys historii kultury ; David Snellgrove , Hugh Richardson
+        Války rudého muže ; Miloslav Stingl
+        Velikani francouzske vedy ; Eric Sartori
+        Velka nastenna mapa svetovych dejin ; Edward Hull
+        Vítězství v Barmě ; David Rooney
+        W czasach Majów , Azteków i Inków , Ameryka od pierwszych ludzi do Krzysztofa Kolumba ; Louis-René Nougier
+        Walki po Niesky 1945 ; Kazimierz Kaczmarek
+        Wielcy Indianie Ameryki Północnej ; Zbigniew Teplicki
+        Wielkie dni malej floty ; Jerzy Pertek
+        Zamach na Koppego ; Tadeusz Jurga
+        Zdravi Vas Caesar - Jak se zilo ve starem Rime ; Joachim Fernau
+        Zrod střední a východní Evropy , mezi Byzancí a Římem ; Frantisek Dvorník
+        Zrození Řecka ; Michael Grant
+        Zidé v římském světě ; Michael Grant
+    INFORMATYKA:
+        Časovaná bomba roku 2000 ; Richard Krejčí
+        Sztuczna Inteligencja ; Witold Marciszewski
+        Sztuczny Mózg - To Już Nie Fantazje ; Andrzej Buller
+        Swiadomosć Komputerów ; Józef Kloch
+    LINGWIATYKA:
+        Rise slova - Jazykove dejiny sveta ; Nicholas Ostler
+    LITERATURA:
+    	  Ars Poetica ; Jorge Luis Borges
+        Fantastyka i futurologia ; Stanislaw Lem
+        Filozofia przypadku ; Stanislaw Lem
+	MATEMATYKA:
+	    Velká Fermatová věta ; Simon Singh
+    PEDAGOGIKA:
+        Wspólnie Odkrywamy swiat ; Maria Wilczkowa
+        Cvičení pro děti při vadném drzení těla ; Eva Haladová
+    PODRÓŻE:
+        Asfaltowy Saloon ; Waldemar Łysiak
+        Dzikie Banany ; Arkady Fiedler
+        Ostrovy lidojedů ; Miloslav Stingl
+        Ryby spiewaja w Ukajali ; Arkady Fiedler
+        Zdobywamy Amazonkę ; Arkady Fiedler
+        Zwierzęta z lasu dziewiczego ; Arkady Fiedler
+        Wspinaczka ; Anatolij Bukriejew , G. Weston DeWalt
+        W Ussuryjskim Kraju ; Wladimir K. Arsenjew
+        Kukuczka - opowiesc o najslynniejszym polskim himalaiscie ; Dariusz Kortko , Marcin Pietraszewski
+    PSYCHOLOGIA:
+        Thinking Fast and Slow ; Daniel Kahneman
+    SOCIOLOGIA:
+        Outliers - The Story of Success ; Malcolm Gladwell
+        The Better Angels of Our Nature - A History of Violence and Humanity ; Steven Pinker
+    TURYSTYKA:
+    	  Pohyb v neledovcových velehorách ; Alexander Krsko
+    	  Karpatské hry ;  Miloslav Nevrlý
+    WOJSKOWOSĆ:
+        SAMOLOTY:
+            Atlas vojenské techniky - Vrtulníky ; Michal Zdobinský
+            Lotnictwo Wojskowe Swiata , ilustrowany przeglad sił powietrznych swiata ; Lindsay Peacock
+            Lotniskowce II Wojny Swiatowej ; Krzysztof Zalewski
+            McDonnell Douglas AH-64 Apache ; Bob Munro
+            Northrop B-2 Bomber ; Doug Richardson
+            Współczesne Samoloty Rozpoznawcze ; Doug Richardson
+        MARYNARKA:
+            Marynarki Wojenne Swiata , ilustrowany przeglad flot wojennych swiata ; David Miller
+        Tajemství odhaleno ; Jiří Blecha
+    Nez přijde vakovlk ; Pavel Houser
+    Siedem sensacji w nauce ; Marek Płużański
+    Věda kontra iracionalita 2 ; SISYFOS a AV ČR
+    Vzpoura genů ; Pavel Houser
+OTHER :
+    HUMOR:
+        Murphyho zákony a osobní počítače ; Karl Wagner
+        Darwinovy ceny , evoluce v praxi ; Wendy Northcutt
+    PRAWO: 
+        Člověk za volantem , učebnice pro autoskoly
+    SACHY:
+        Tarrasch, ucitel sachovych generaci ; Vratislav Hora
+    100 + 1 karetních her ; Vojtěch Omasta , Slavomír Ravik
+    Dzień , W Którym Przybyli Bogowie ; Erich Von Däniken
+    Gry Komputerowe 97 Bez Tajemnic ; Piotr Gawrysiak i kol.
+    Guinessova kniha rekordů 1988
+    Mała Biblia Dla Dzieci ; Pat Alexander
+    Mój zbiór opowiesci biblijnych ; International Bible Students Association
+    Pravidla pro hru Canasta ; F.Kolár
+    Svět záhad Arthura C. Clarka A-Z od Atlantidy k Zombie ; Simon Welfare , John Fairley
+    Twoja młodosć korzystaj z niej jak najlepiej ; International Bible Students Association
+    Vádemékum pro kazdou zivotní situaci od kočárku do důchodu aneb průvodce zivotem ; Česká pojistovna
+    Wszyscy Jestesmy Dziećmi Bogów ; Erich Von Däniken
+    Z Powrotem Do Gwiazd ; Erich Von Däniken
+    Plachetnice ; Karl-Heinz Wieland
+--------------------------------------------------------------------------------
+Aldiss , Brian - Superhračky vydrzí celé léto - CZ
+			   - Superhračky, kdyz přijde zima - CZ
+			   - Superhračky v dalsích ročních obdobích - CZ
+			   - Nové apogeum - CZ
+			   - III - CZ
+			   - Stará mytologie - CZ
+			   - Bez hlavy - CZ
+			   - Hovězí - CZ
+			   - Nic v zivotě nestačí - CZ
+			   - Matematická zálezitost - CZ
+			   - Stopka - CZ
+			   - Tři druhy samoty - CZ
+			   - Steppenpferd - CZ
+			   - Poznávací schopnost a zárovka - CZ
+			   - Temná společnost - CZ
+			   - Galaxie Z - CZ
+			   - Zázraky utopie - CZ
+			   - Stát se motýlem - CZ
+			   - Bělejsí Mars - CZ
+Bahdaj , Adam - Pilot i Ja - O
+Bonatti , Walter - The Mountains of My Life - EN
+Borges , Jorge Luis - The Book of Imaginary Beings - EN
+					- Obecné dějiny hanebnosti - CZ
+					- Muz z růzového nározí - CZ
+					- Teologem i po smrti - CZ
+					- Komnata soch - CZ
+					- Příběh dvou muzů, kteří měli sen - CZ
+					- Podvedený čaroděj - CZ
+					- Inkoustové zrcadlo - CZ
+					- Muhammadův dvojník - CZ
+					- Velkodusný nepřítel - CZ
+					- Ars Poetica - EN
+					- Fictions - EN
+                        - The Garden of Forking Paths - EN
+                            - Tlon, Uqbar, Orbis Tertius - EN
+                            - Pierre Menard, Author of the Quixote - EN
+                            - The Circular Ruins - EN
+                            - The Lottery in Babylon - EN
+                            - A Survey of the Works of Herbert Quain - EN
+                            - The Library of Babel - EN
+                            - The Garden of Forking Paths - EN
+                        - Artifices - EN
+                            - Funes, His Memory - EN
+                            - The Shape of the Sword - EN
+                            - The Theme of the Traitor and the Hero - EN
+                            - Death and the Compass - EN
+                            - The Secret Miracle - EN
+                            - Three Versions of Judas - EN
+                            - The End - EN
+                            - The Cult of the Phoenix - EN
+                            - The South - EN 
+					- The Aleph - EN
+                        - The Aleph - EN
+    				        - The Immortal - EN
+    					    - The Dead Man - EN
+        					- The Theologians - EN
+        					- Story of the Warrior and the Captive Maiden - EN
+        					- A Biography of Tadeo Isidoro Cruz (1829-1874) - EN
+        					- Emma Zunz - EN
+        					- The House of Asterion - EN
+        					- The Other Death - EN
+        					- Deutsches Requiem - EN
+        					- Averroes' Search - EN
+        					- The Zahir - EN
+        					- The Writing of God - EN
+        					- Ibn-Hakam al-Bokhari, Murdered in His Labyrinth - EN
+        					- The Two Kings and the Two Labyrinths - EN
+        					- The Wait - EN
+        					- The Man on the Threshold - EN
+        					- The Aleph - EN
+                        - The Maker - EN
+                            - The Maker - EN
+                            - Dreamtigers - EN
+                            - A Dialog About a Dialog - EN
+                            - Toenails - EN
+                            - Covered Mirrors - EN
+                            - Argumentum Ornithologicum - EN
+                            - The Captive - EN
+                            - The Mountebank - EN
+                            - Delia Elena San Marco - EN
+                            - A Dialog Between Dead Men - EN
+                            - The Plot - EN
+                            - A Problem - EN
+                            - The Yellow Rose - EN
+                            - The Witness - EN
+                            - Martin Fierro - EN
+                            - Mutations - EN
+                            - Parable of Cervantes and the Quixote - EN
+                            - Paradiso, XXXI, 108 - EN
+                            - Parable of the Palace - EN
+                            - Everything and Nothing - EN
+                            - Ragnarok - EN
+                            - Inferno, I, 32 - EN
+                            - Borges and I - EN
+                        - Museum - EN
+                            - On Exactitude and Science - EN
+                            - In Memoriam, J.F.K. - EN
+Brooks , Max - World War Z - O
+Brzechwa , Jan - Na Straganie - O
+               - Na Wyspach Bergamutach - O
+               - Szelmostwa Lisa Witalisa - O
+Burgess , Anthony - Clockwork Orange - O
+Carrol , Lewis - Through the Looking Glass - O
+			   - Alice's Adventures in Wonderland - O
+Chmielewski , Henryk Jerzy - Tytus, Romek i A'Tomek Ksiega I - O
+Clark , Arthur C. - Miasto i Gwiazdy - POL
+Conrad , Joseph - Heart of Darkness - O
+Czerkawska , Maria - Żółte Chodaczki - O
+Dabrowska , Maria - Noce i Dnie - O
+Defoe , Daniel - Robinson Crusoe - CZ
+Dick , Philip K. - Ubik - O
+                 - Sni androidi o elektrickych oveckach - CZ
+Eco , Umberto - Diariusz najmniejszy - POL
+              - Jméno růze - CZ
+              - Foucaultovo kyvadlo - CZ
+              - Tajemniczy plomien krolowej Loany - POL
+Feynman , Richard Phillips - Snad ti nedělají starosti cizí názory - CZ
+					       - To nemyslíte vázně pane Feynamane - CZ
+Fuks , Ladislav - Spalovač mrtvol - O
+Glut , Donald F. ; Lucas , George - Hvezdne valky , Imperium vraci uder - CZ 
+Golding , William - Lord of the Flies - O
+Gombrowicz , Witold - Przewodnik po filozofii w szesć godzin i kwadrans - POL
+                    - Ferdydurke - O
+                    - Kosmos - O
+Gree , Alain ; Gree Gerard - Tomas objavuje prirodu - SVK
+Hillary , Edmund - Pohled z vrcholu - CZ
+Huxley , Aldous - Brave New World - O
+Joyce , James - Dubliners - O
+Kafka , Franz - Zamek - POL
+              - Proces - POL
+Keyes , Daniel - Flowers for Algernon - O
+Kierst , Jerzy - Czy to Kraków - O
+Kownacka , Maria - Ogródek - O
+Krakauer , Jon - Into Thin Air , A personal account of the Everest disaster - O
+               - Into The Wild - O
+Kraszewski , Józef Ignacy - Chata za Wsia - O
+Kukuczka , Jerzy - Moj pionowy swiat - O
+Le Guin , Ursula K. - The Dispossessed - O
+                    - The Left Hand of Darkness - O
+                    - A Wizard of Earthsea - O
+                    - The Tombs of Atuan - O
+                    - The Farthest Shore - O
+                    - Tehanu - O
+                    - The Word for World is Forest - O
+                    - Rocannon's World - O
+                    - Planet of Exile - O
+                    - City of Illusions - O 
+Lem , Stanisław - Bajki robotów - O
+				- Cyberiada - O 
+				- Człowiek z Marsa - O
+                - Dylematy - O
+                - Dzienniki Gwiazdowe - O
+                - Eden - O
+                - Glos Pana - O
+                - Fantastyka i Futurologia - O
+                - Filozofia Przypadku - O
+                - Katar - O
+                - Kongres Futurologiczny - O
+                - Niezwyciężony - O
+                - Okamgnienie - O
+                - Opowiesci o pilocie Pirxie - O
+                - Pamiętnik Znaleziony w Wannie - O
+                - Próżnia Doskonała - O
+                - Rasa drapiezcow - O
+                - Sex Wars - O
+                - Solaris - O
+                - Summa Technologiae - CZ
+                - Sledztwo - O
+                - Swiat Na Krawędzi , ze Stanislawem Lemem rozmawia Tomasz Fialkowski - O
+                - Tajemnica Chińskiego Pokoju - O
+                - Tako rzecze Lem , ze Stanislawem Lemem rozmawia Stanislaw Beres - O
+                - Rasa Drapieżców - O
+                - Teksty Ostatnie - O
+Ławicki , Jerzy - Uważaj , Uważaj - O
+Machiavelli , Niccolo - Vladar - CZ
+Macourek , Milos ; Saudek , Kaja - Peruansky denik - O 
+Martin , George R.R. - A Clash of Kings - O
+                     - A Feast for Crows - O
+                     - A Storm of Swords - O
+                     - Dreamsongs , A Rretrospective Book One - O
+May , Karel - Já , náčelník Apačů - CZ
+            - Mahdi - CZ
+McCarthy, Cormac - The Road - O
+Messner , Reinhold - Az na konec světa , výpravy v Himálaji a v Karakoramu - CZ
+                   - Cho Oyu , tyrkysova bohyne - CZ
+                   - Moje Zycie na Krawedzi - POL
+                   - Cervena svetlice na Nanga Parbatu - CZ 
+Miłosz , Czesław - Ziemia Ulro - O
+Mitchell , David - Cloud Atlas - O
+Neff , Ondrej ; Saudek , Kaja - Arnal & dva draci zuby - O
+Nesvadba , Josef ; Saudek , Kaja - Po stopach snezneho muze - O
+Niven , Larry - Ringworld - O
+Okudzava , Bulat - Zrusené divadlo - CZ
+Orwell , George - 1984 - O
+Packard , Edward - Vesmirny upir - CZ
+Pavloskova , Karin - Gronsko , "Takussagut" - O
+Pleva , Josef V. - Robinson Crusoe - O
+Poe , Edgar Allan - The Fall of the House of Usher - O
+					The Oval Portrait - O
+					The Gold-Bug - O
+					The Black Cat - O
+					Ligeia - O
+					The Masque of the Red Death - O
+					William Wilson - O
+					The Murders in the Rue Morgue - O
+					The Purloined Letter - O
+Pratchett , Terry - Thud! - O
+Rowling , J.K. - Harry Potter and the Philosopher's Stone - O
+               - Harry Potter and the Chamber of Secrets - O
+			   - Harry Potter and the Prisoner of Azkaban - O
+			   - Harry Potter and the Goblet of Fire - O
+			   - Harry Potter and the Order of the Phoenix - O
+			   - Harry Potter and the Half-Blood Prince - O
+			   - Harry Potter and the Deathly Hallows - O
+Saint-Exupéry , Antoine de - Malý princ - CZ
+Slowacki , Juliusz - S vámi jsem život žil ... - CZ
+Stapledon , Olaf - Last and First Men - O
+                 - Star Maker - O 
+Steinbeck , John - Of Mice and Men - O
+Strugačtí, Arkadij a Boris - Piknik u cesty - CZ
+Tolkien , John Ronald Ruel - The Hobbit - O
+                           - The Lord of the Rings - O
+                           - The Children of Húrin - O
+                           - Silmarillion - O
+                           - Unfinished Tales - O
+Tuwim , Julian - Cuda i Dziwy - O
+               - Wiersze Skandaliczne - O
+Twain , Mark - Przygody Hucka - POL
+             - Przygody Tomka Sawyera - POL
+Verne , Jules - Děti kapitána Granta - CZ
+              - Dva roky prázdnin - CZ
+              - Dwadziescia Tysięcy Mil Podmorskiej Żeglugi - POL
+Vysockij , Vladimir - Nepiju sám - CZ
+Waltari , Mika - Trylogia Rzymska - POL
+Weigel J. , Saudek , Kaja - Lips Tullian - Stribrny poklad - O
+                                         - Konec Sahrbergovy bandy - O
+Wernerowa , Jadwiga - Opowiadania o zwierzetach - O
+Żeromski , Stanisław - Wierna Rzeka - O
+--
+HIST TODO
+Fidel & Che - A revolutionary friendship
+?Indiański Napoleon Gór Skalistych
+Kolumbova flotila
+?O Krakowie Ci ja!
+?Ród Indian Algonkinów
