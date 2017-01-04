@@ -84,8 +84,9 @@ POP.SCIENCE :
     ENCYKLOPEDIE:
         Moja pierwsza encyklopedia ; Simone Lamblin
     FILOZOFIA:
-    	  The God Delusion ; Richard Dawkins
+    	The God Delusion ; Richard Dawkins
         Poszukiwanie jezyka doskonalego ; Umberto Eco
+        Przewodnik po filozofii w szesc godzin i kwadrans ; Witold Gombrowicz
     FIZYKA:
         ASTRONOMIA:
             Galaktyki ; Robert Estalella
@@ -285,6 +286,8 @@ Aldiss , Brian - Superhračky vydrzí celé léto - CZ
 			   - Zázraky utopie - CZ
 			   - Stát se motýlem - CZ
 			   - Bělejsí Mars - CZ
+Alexander , Pat - Mala Biblia dla dzieci - POL
+Badalska , Wiera - Przepraszam, smoku - O
 Bahdaj , Adam - Pilot i Ja - O
 Bonatti , Walter - The Mountains of My Life - EN
 Borges , Jorge Luis - The Book of Imaginary Beings - EN
@@ -373,11 +376,13 @@ Carrol , Lewis - Through the Looking Glass - O
 Chmielewski , Henryk Jerzy - Tytus, Romek i A'Tomek Ksiega I - O
 Clark , Arthur C. - Miasto i Gwiazdy - POL
 Conrad , Joseph - Heart of Darkness - O
+Cooper , James Fenimore - Pionierowie - POL
 Czerkawska , Maria - Żółte Chodaczki - O
 Dabrowska , Maria - Noce i Dnie - O
 Defoe , Daniel - Robinson Crusoe - CZ
 Dick , Philip K. - Ubik - O
                  - Sni androidi o elektrickych oveckach - CZ
+Dvoracek , Karel - O utopcach - POL
 Eco , Umberto - Diariusz najmniejszy - POL
               - Jméno růze - CZ
               - Foucaultovo kyvadlo - CZ
@@ -392,10 +397,14 @@ Gombrowicz , Witold - Przewodnik po filozofii w szesć godzin i kwadrans - POL
                     - Kosmos - O
 Gree , Alain ; Gree Gerard - Tomas objavuje prirodu - SVK
 Hillary , Edmund - Pohled z vrcholu - CZ
+Horecka , Frantisek - Janek i skarb - POL
 Huxley , Aldous - Brave New World - O
+Jahn , Metodej - O zgubionym pierscionku - POL
 Joyce , James - Dubliners - O
+Jura , Fr. ; Jura , J. - O Ondraszku - POL
 Kafka , Franz - Zamek - POL
               - Proces - POL
+Kahn , James - Powrot Jedi - POL
 Keyes , Daniel - Flowers for Algernon - O
 Kierst , Jerzy - Czy to Kraków - O
 Kownacka , Maria - Ogródek - O
@@ -446,6 +455,7 @@ Martin , George R.R. - A Clash of Kings - O
                      - A Feast for Crows - O
                      - A Storm of Swords - O
                      - Dreamsongs , A Rretrospective Book One - O
+Martinek , Vojtech - O slonecznej pannie - POL
 May , Karel - Já , náčelník Apačů - CZ
             - Mahdi - CZ
 McCarthy, Cormac - The Road - O
@@ -455,13 +465,16 @@ Messner , Reinhold - Az na konec světa , výpravy v Himálaji a v Karakoramu - 
                    - Cervena svetlice na Nanga Parbatu - CZ 
 Miłosz , Czesław - Ziemia Ulro - O
 Mitchell , David - Cloud Atlas - O
+Morcinek , Gustaw - O tym, jak Zuzanka poszla w kumy do utopcow - POL
 Neff , Ondrej ; Saudek , Kaja - Arnal & dva draci zuby - O
 Nesvadba , Josef ; Saudek , Kaja - Po stopach snezneho muze - O
 Niven , Larry - Ringworld - O
 Okudzava , Bulat - Zrusené divadlo - CZ
+Ondrusz , Jozef - O dobrej Hance i zlej Hanie - POL
 Orwell , George - 1984 - O
 Packard , Edward - Vesmirny upir - CZ
 Pavloskova , Karin - Gronsko , "Takussagut" - O
+Petrus , Jan - Zlotoglowy waz - POL
 Pleva , Josef V. - Robinson Crusoe - O
 Poe , Edgar Allan - The Fall of the House of Usher - O
 					The Oval Portrait - O
@@ -473,6 +486,7 @@ Poe , Edgar Allan - The Fall of the House of Usher - O
 					The Murders in the Rue Morgue - O
 					The Purloined Letter - O
 Pratchett , Terry - Thud! - O
+Rohel , Jan - Maryczka i pan podziemi - POL
 Rowling , J.K. - Harry Potter and the Philosopher's Stone - O
                - Harry Potter and the Chamber of Secrets - O
 			   - Harry Potter and the Prisoner of Azkaban - O
@@ -481,20 +495,40 @@ Rowling , J.K. - Harry Potter and the Philosopher's Stone - O
 			   - Harry Potter and the Half-Blood Prince - O
 			   - Harry Potter and the Deathly Hallows - O
 Saint-Exupéry , Antoine de - Malý princ - CZ
+Salichova , Helena - O sloneczku i ksiezycu - POL
+Slama , Frantisek - Spiacy rycerze - POL
 Slowacki , Juliusz - S vámi jsem život žil ... - CZ
+Smeja , Fran. - Pierwszy szynkarz - POL
 Stapledon , Olaf - Last and First Men - O
                  - Star Maker - O 
 Steinbeck , John - Of Mice and Men - O
 Strugačtí, Arkadij a Boris - Piknik u cesty - CZ
+Szklarski , Alfred - Tomek w Krainie Kangurow - O
+                   - Tajemnicza Wyprawa Tomka - O
+                   - Tomek w Gran Chaco - O
+                   - Tomek na Tropach Yeti - O
+                   - Tomek na Wojennej Sciezce - O
+Tenn , William - W otchlani, wsrod umarlych - POL
+               - Moje potrojne ja - POL
+               - Wyzwolenie Ziemi - POL
+               - Kazda kocha Irvinga Bommera - POL
+               - Flirgelflip - POL
+               - Najemcy - POL
+               - Kustosz - POL
+Tetens , Liboslav - Tanecznica - POL 
 Tolkien , John Ronald Ruel - The Hobbit - O
                            - The Lord of the Rings - O
                            - The Children of Húrin - O
                            - Silmarillion - O
                            - Unfinished Tales - O
+Trenecky , Ladislav - Kopalnia z kudlatymi gornikami - POL
+Tuwim , Irena - Co okret wiezie - O
 Tuwim , Julian - Cuda i Dziwy - O
                - Wiersze Skandaliczne - O
+               - Wiersze dla dzieci - O
 Twain , Mark - Przygody Hucka - POL
              - Przygody Tomka Sawyera - POL
+Ulcak , Ladislav - Skarb pod Hukwaldskim zamkiem - POL
 Verne , Jules - Děti kapitána Granta - CZ
               - Dva roky prázdnin - CZ
               - Dwadziescia Tysięcy Mil Podmorskiej Żeglugi - POL
