@@ -15,6 +15,11 @@ Long (over 2 weeks) :
             - http://visitcentralbalkan.net/en/pages/read/t:tourism/c:itinerary/s:hiking/p:information-1/o:international-hiking-trail-e3-kom-emine
             - 700 km
 Short (3-5 days) :
+        Grauspitz a Schesaplana
+            - Grauspitz - nejvyssi vrchol Liechtensteinu - 2599m - http://www.summitpost.org/grauspitz/151118
+            - Schesaplana - 2964m - http://www.summitpost.org/schesaplana/154384
+            - 3-4 days
+            - po ceste Klettersteig Saulakopf - http://www.bergsteigen.com/klettersteig/vorarlberg/raetikon/klettersteig-saulakopf
         Ortler Alps - The Traverse of the 13 Peaks
             - http://www.summitpost.org/ortler-alps-the-traverse-of-the-13-peaks/952321
             - 13 peaks over 3000m
@@ -46,12 +51,70 @@ Weekend (2-3 days) :
         Achensee 5-gipfel Klettersteig
             - http://www.bergsteigen.com/klettersteig/tirol/rofan-gebirge/achensee-5-gipfel-klettersteig
             - 2-4 days
-            - v pripade 3-4 dni jeste plus - Dalfazer Wasserfall - Klettersteig Buchau - http://www.bergsteigen.com/klettersteig/tirol/rofan-gebirge/dalfazer-wasserfall-klettersteig-buchau
-            - v pripade 3-4 dni jeste plus - Klettersteig Reintalersee - http://www.bergsteigen.com/klettersteig/tirol/rofan-gebirge/klettersteig-reintalersee
+            - v pripade 3-4 dni jeste plus Dalfazer Wasserfall - Klettersteig Buchau - http://www.bergsteigen.com/klettersteig/tirol/rofan-gebirge/dalfazer-wasserfall-klettersteig-buchau
+            - v pripade 3-4 dni jeste plus Klettersteig Reintalersee - http://www.bergsteigen.com/klettersteig/tirol/rofan-gebirge/klettersteig-reintalersee
+        Tajakante Klettersteig
+            - 2 days
+            - http://www.bergsteigen.com/klettersteig/tirol/wetterstein-gebirge-und-mieminger-kette/tajakante-klettersteig
+            - pri nastupu plus Seeben Klettersteig - http://www.bergsteigen.com/klettersteig/tirol/wetterstein-gebirge-und-mieminger-kette/seeben-klettersteig
     VHT :
-        Hochkonig 
+        Raxgruppe
+            - http://www.summitpost.org/rax/154184
+            - 2 days
+            - 2007m
+            - plus jeden z klettersteigu :
+                                    - Königschusswand Steig Klettersteig - http://www.bergsteigen.com/klettersteig/niederoesterreich/rax-schneeberg-gruppe/koenigschusswand-steig-klettersteig
+                                    - Hans von Haidsteig - http://www.bergsteigen.com/klettersteig/niederoesterreich/rax-schneeberg-gruppe/hans-von-haidsteig
+        Hochschwab Massif
+            - 2277m
+            - 2-4 days
+            - http://www.summitpost.org/hochschwab-massif/316500
+            - hrebenovka
+            - v pripade 3-4 dni jeste plus Kaiser-Franz-Joseph Klettersteig-Seemauer - http://www.bergsteigen.com/klettersteig/steiermark/hochschwab-gruppe/kaiser-franz-joseph-klettersteig-seemauer
+        Grosser Priel
+            - 2515m
+            - 2-3 days
+            - http://www.summitpost.org/grosser-priel/344293
+            - vystup pres Bert-Rinesch-Klettersteig - http://www.bergsteigen.com/klettersteig/oberoesterreich/totes-gebirge/bert-rinesch-klettersteig
+            - v pripade 3 dni vystup na Spitzmauer - http://www.summitpost.org/spitzmauer/959982
+        Leoganger Steinberge 
+            - https://en.wikipedia.org/wiki/Leogang_Mountains
+            - https://www.youtube.com/watch?v=pFlftjPm9vg
+            - 2-3 days
+            - 2634m
+            - vystup pres Leoganger Süd Klettersteig - http://www.bergsteigen.com/klettersteig/salzburg/loferer-und-leoganger-steinberge/leoganger-sued-klettersteig
+        Hohe Munde 
+            - 2662m
+            - 2 days
+            - http://www.summitpost.org/hohe-munde/154107
+            - plus Adler Klettersteig - http://www.bergsteigen.com/klettersteig/tirol/wetterstein-gebirge-und-mieminger-kette/adler-klettersteig
+        Hochkonig  
+            - 2941m
             - http://www.summitpost.org/hochk-ouml-nig/152119
             - 2-4 days
             - plus Konigsjodler Klettersteig - http://www.bergsteigen.com/klettersteig/salzburg/berchtesgadener-alpen/koenigsjodler-klettersteig
-            - pri delsi ture (3-4 dny) vystup na Schonfeldspitze - http://www.summitpost.org/sch-nfeldspitze/562825    
-        
+            - pri delsi ture (3-4 dny) vystup na Schonfeldspitze - http://www.summitpost.org/sch-nfeldspitze/562825
+        Jubilaumsgrat
+            - 2-3 days
+            - http://www.summitpost.org/jubil-umsgrat/454503
+            - vystup na Zugspitze 2962m - http://www.summitpost.org/zugspitze/150322
+            - podle casu pri sestupu s Alpspitze moznost pridat Mauerläufersteig Klettersteig Alpspitze - http://www.bergsteigen.com/klettersteig/bayern/wetterstein-gebirge-und-mieminger-kette/mauerlaeufersteig-klettersteig-alpspitze
+        Parseierspitze
+            - 2-4 days
+            - 3036m
+            - v pripade 3-4 dni jeste plus Imster Klettersteig - http://www.bergsteigen.com/klettersteig/tirol/lechtaler-alpen/imster-klettersteig
+        Hochalmspitze
+            - 2-3 days
+            - 3360m
+            - http://www.summitpost.org/hochalmspitze/151720
+            - po ceste Säuleck Klettersteig - http://www.bergsteigen.com/klettersteig/kaernten/ankogel-gruppe/saeuleck-klettersteig
+            - prechod hrebene Detmolder Grat mezi Sauleckem a Hochalmspitze - http://www.summitpost.org/south-ridge-detmolder-grat/161718
+            - v pripade casu navic moznost Fallbach Klettersteig - http://www.bergsteigen.com/klettersteig/kaernten/ankogel-gruppe/fallbach-klettersteig
+Lyze : 
+        Zillertal
+            - klettersteigy v okoli :
+                    - Klettersteig Talbach - http://www.bergsteigen.com/klettersteig/tirol/tuxer-alpen/klettersteig-talbach
+                    - Nasenwand Klettersteig Ginzling - http://www.bergsteigen.com/klettersteig/tirol/zillertaler-alpen/nasenwand-klettersteig-ginzling
+                    - Zimmereben Klettersteig - http://www.bergsteigen.com/klettersteig/tirol/tuxer-alpen/zimmereben-klettersteig
+                    - Pfeilspitzwand Klettersteig - http://www.bergsteigen.com/klettersteig/tirol/tuxer-alpen/pfeilspitzwand-klettersteig
+ 
