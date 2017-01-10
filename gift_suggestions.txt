@@ -75,11 +75,8 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Keys to Great Writing - Stephen Wilbers
       - UNIX and Linux System Administration Handbook -  Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
     Stanislaw Lem 
-                - Glos Pana
-                - Niezwyciezony
                 - Astronauci
                 - Oblok Magellana
-                - Sledztwo
                 - Pamietnik znaleziony w wannie
                 - Powrot z gwiazd
                 - Doskonala proznia
