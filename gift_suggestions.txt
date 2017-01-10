@@ -1,0 +1,94 @@
+books - Life's Ratchet - Peter M. Hoffmann
+      - The Vital Question: Energy, Evolution, and the Origins of Complex Life - Nick Lane
+      - The History of Western Philosophy - Bertrand Russell
+      - Black Robe - Brian Moore
+      - The Beginning of Infinity - David Deutsch
+      - Speaking Our Minds - Thom Scott-Phillips
+      - Radical Enlightenment - Jonathan Israel
+      - Purely Functional Data Structures - Chris Okasaki
+      - How to Solve It - George Pólya
+      - Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian, Tom Griffiths
+      - Nanga Parbat Pilgrimage: The Lonely Challenge - Hermann Buhl
+      - Hermann Buhl Climbing Without Compromise - Reinhold Messner, Horst Hofler
+      - The Blank Slate - Steven Pinker
+      - Feynman Lectures On Computation - Richard P. Feynman
+      - Who’s #1? The Science of Rating and Ranking - Amy Langville , Carl Meyer
+      - Haskell Programming from first principles - Christopher Allen, Julie Moronuki
+      - The Haskell Road to Logic, Maths and Programming - Kees Doets, Jan van Eijck
+      - The Little Schemer - Daniel P. Friedman, Matthias Felleisen
+      - The Seasoned Schemer - Daniel P. Friedman, Matthias Felleisen
+      - Artificial Intelligence for Humans, Volume 1: Fundamental Algorithms - Jeff Heaton
+      - Artificial Intelligence for Humans, Volume 2: Nature-Inspired Algorithms - Jeff Heaton
+      - Artificial Intelligence for Humans, Volume 3: Deep Learning and Neural Networks - Jeff Heaton
+      - Types and Programming Languages - Benjamin C. Pierce
+      - Conquistadors of the Useless - Lionel Terray 
+      - The Nurture Assumption - Judith Rich Harris
+      - Moby Dick - Herman Melville
+      - No Two Alike - Judith Rich Harris
+      - Sapiens: A Brief History of Humankind - Yuval Noah Harari
+      - Words On The Move: Why English Won’t, and Can’t, Sit Still (Like, Literally) - John McWhorter 
+      - To Mock a Mockingbird: And Other Logic Puzzles - Raymond M. Smullyan
+      - Selected Papers on Computer Science - Donald E. Knuth
+      - Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Jay Sussman
+      - Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronal R. Rivest, Clifford Stein
+      - The Reasoned Schemer - Daniel P. Friedman, William E. Byrd, Oleg Kiselyov
+      - The Little MLer - Matthias Felleisen, Daniel P. Friedman
+      - The Little Prover - Daniel P. Friedman, Carl Eastlund
+      - An Introduction to the Theory of Numbers - G. H. Hardy , E. M. Wright
+      - Categories for the Working Mathematician - Saunders Mac Lane
+      - Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory - Joseph E. Stoy
+      - In Praise of Forgetting : Historical Memory and Its Ironies - David Rieff
+      - Information Theory and Coding - Norman Abramson
+      - Linear and Nonlinear Programming - David G. Luenberger
+      - Programming in D - Ali Cehreli
+      - Learning D - Michael Parker
+      - Programming Pearls - Jon Bentley
+      - More Programming Pearls - Jon Bentley
+      - Algorithms - Robert Sedgewick, Kevin Wayne
+      - A Discipline of Programming - Edsger W. Dijkstra
+      - The Algortihm Design Manual - Steven S. Skiena
+      - Compilers: Principles, Techniques, and Tools, Alfred V. Aho, Monica S. Lam, Ravi Sethi and Jeffrey D. Ullman
+      - Combinatorial Problems and Exercises - Laszlo Lovasz
+      - Real World Haskell - Bryan O'Sullivan, John Goerzen, Donald Bruce Stewart
+      - D Web Development - Kai Nacke
+      - Lying - Sam Harris
+      - Proofs without Words: Exercises in Visual Thinking - Roger B. Nelsen
+      - Proofs Without Words II: More Exercises in Visual Thinking - Roger B. Nelsen
+      - The Implementation of Functional Programming Languages - Simon L. Peyton Jones 
+      - Expert C Programming: Deep C Secrets - Peter Van Der Linden
+      - Pure, White and Deadly - John Yudkin
+      - From Logic Programming to Prolog - Krzysztof Apt
+      - Effective Modern C++ - Scott Meyers
+      - Exceptional C++ - Herb Sutter
+      - More Exceptional C++ - Herb Sutter
+      - Exceptional C++ Style - Herb Sutter
+      - C++ Coding Standards - Herb Sutter, Andrei Alexandrescu
+      - C++ Templates: The Complete Guide - David Vandevoorde, Nicolai M. Josuttis
+      - The Design and Evolution of C++ - Bjarne Stroustrup
+      - Interactive Theorem Proving and Program Development - Yves Bertot, Pierre Castéran
+      - The Standard C Library - P.L.Plauger
+      - The C Programming Language - Brian W.Kernighan, Dennis M. Ritchie
+      - Hacker's Delight - Henry S. Warren
+      - Compiling with Continuations - Andrew W. Appel
+      - A Course in Number Theory and Cryptography - Neal Koblitz
+      - C: A Reference Manual - Samuel P. Harbison, Guy L. Steele Jr.
+      - Keys to Great Writing - Stephen Wilbers
+      - UNIX and Linux System Administration Handbook -  Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
+    Stanislaw Lem 
+                - Glos Pana
+                - Niezwyciezony
+                - Astronauci
+                - Oblok Magellana
+                - Sledztwo
+                - Pamietnik znaleziony w wannie
+                - Powrot z gwiazd
+                - Doskonala proznia
+                - Wielkosc urojona
+                - Katar
+                - Golem XIV
+                - Fiasko
+                - Pokoj na Ziemi 
+movies - The Act of Killing - Joshua Oppenheimer 
+       - The Look of Silence - Joshua Oppenheimer 
+       - Joseph Campbell and the Power of Myth
+       - Meru
