@@ -7758,7 +7758,7 @@ Księstwo Połockie
     Światopełk II Michał		                            ?
     Izjasław II			                                    ?
   Bibliografia :
-      Dynastie Świata  
+      Dynastie Świata
 
 Pont
   Mitrydates                                       	    337/6-302/1 ( wg A.Č. )
@@ -10531,6 +10531,65 @@ Tanjore
   Bibliografia :
       Říše slova - Jazykové dějiny světa
 
+Teby
+  Pentheus        	                                    ? ( wg T.H.S. i Z.Ř. i K.Ř. )
+  Kadmos          	                                    1493-1459 ( wg V.N..S.D. )
+      		                                              ok.1350/1380 ( wg D.G. )
+      			                                            ? ( wg M.P.C.Ś. i Z.Ř. i K.Ř. )
+  Polydoros       	                                    1459-1430
+  Labdakos        	                                    1430-1388
+  Amfion           	                                    1388-ok.1360
+  Laios               	                                ok.1360-ok.1330 ( wg V.N.M.S.D. )
+      			                                            ? ( wg K.Ř. )
+  Kreon              	                                  ok.1330-ok.1300 ( wg V.N.M.S.D. )
+      		                                              ? ( wg K.Ř. )
+  Oidipus           	                                  ok.1300-ok.1245 ( wg V.N.M.S.D. )
+      			                                            ? ( wg K.Ř. )
+  Thersandros	                                          ok.1245-ok.1200
+  Tesamenes    	                                        ok.1200-ok.1150
+  Xanthos          	                                    ok.1150-ok.1115
+  Eteokles		                                          ? ( wg K.Ř. )
+  Polyneikes	                                          ? ( wg K.Ř. )
+  Lykos		                                              ? ( wg K.Ř. )
+  Uwagi :
+      Wszystko oprócz oznaczonego wg V.N.M.S.D.
+  Bibliografia :
+      Velká nástěnná mapa světových dějin
+      Dzieje Grecji
+      Tvář helenistického světa
+      Mity pięciu części świata
+      Zrození Řecka
+      Klasické Řecko
+
+Tesaloniki
+  Królestwo Tesaloniki ( Dom z Monferratu )
+    Bonifacy        		                                1204-1207 ( wg D.Ś. )
+      		         		                                  ?-1207 ( Bonifác z Montferratu wg D.B. )
+    Demetrios		                                        1207-1224 ( wg D.Ś. )
+  Cesarstwo Tesaloniki ( Dynastia Angelos )
+    Teodor       		                                    1224-1230 ( wg D.Ś. )
+      		     		                                      1224-1229 ( Theodoros wg D.B. )
+    Manuel       		                                    1230-1237 ( wg D.Ś. )
+      		     		                                      1229-ok.1237 ( wg D.B. )
+    Jan              		                                1237-1244 ( wg D.Ś. )
+      		     		                                      ok.1237-1244 ( Ioannes wg D.B. )
+    Demetrios   		                                    1244-1246 ( wg D.Ś. i D.B. ) ( Démétrios Angelos wg E.P. )
+  Bibliografia :
+      Dynastie Świata
+    	Dějiny Byzance
+      Encyklopedie panovníků
+
+Tesalia
+  Aleuas                  	                            ok.625 p.n.e. ( wg D.G. )
+  Antiochos		                                          ? ( wg K.Ř. )
+  Thargelia		                                          przed 490-? ( wg K.Ř. )
+  Jazon                    	                            374-370 ( wg D.G. ) ( Iason wg K.Ř. )
+  Ioannes Dukas		                                      ? ( wg D.B. )
+  Bibliografia :
+      Dzieje Grecji
+      Dějiny Byzance
+      Klasické Řecko
+
 Texcoco
   Bibliografia :
       Říše slova - Jazykové dějiny světa
@@ -10711,6 +10770,46 @@ Ujgurzy
     Mangli					                                    przed 865-?
   Bibliografia :
       Dzieje dawnych Turków
+
+Królestwo Wandalów
+  Fredbal                           			              ?-417 n.e. ( wg K.R.I.C.R. )
+  Dynastia Hasdingów
+    Gunderich          					                        przed 418-? ( wg K.R.I.C.R. )
+    Genzeryk ( Genseryk , Geiseryks , Ginseryk )	      439-477 ( wg D.Ś. )
+                                               					ok.429-? ( wg P.C.R. )
+      		             					                        przed 455-? ( wg D.R. )
+      								                                  przed 429-po 462 ( Gaisaryk wg K.R.I.C.R. )
+      								                                  przed 440-po 461 ( Geiserich wg H. )
+      								                                  przed 429-po 455 ( Geiserich wg D.B. )
+    Huneryk             					                      477-484
+    Guntamund        					                          484-496
+    Trasamund         					                        496-523
+    Hilderyk             					                      523-530 ( wg D.Ś. )
+      								                                  ?-530 ( Hilderich wg D.B. )
+    Geilamar            					                      530-533 ( wg D.Ś. )
+      								                                  ?-533 ( Gelimer wg D.B. )
+  Uwagi :
+      Wszystko oprócz oznaczonego D.Ś.
+  Bibliografia :
+      Dynastie Świata
+      Poczet Cesarzy Rzymskich
+      Dzieje Rzymu
+      Kronika Rzymu i Cesarstwa Rzymskiego
+      Hunové
+      Dějiny Byzance
+
+Weimar
+  Księstwo Weimaru
+    Dynastia Wettinów
+      Karol August       	                              1758-1815
+  Wielkie Księstwo Weimaru
+    Dynastia Wettinów
+      Karol August         	                            1815-1828
+      Karol Fryderyk      	                            1828-1853
+      Karol Aleksander	                                1853-1901
+      Wilhelm Ernest     	                              1901-1918
+  Bibliografia :
+      Dynastie Świata
 
 Wenecja
   Orso                                  	              726-737
@@ -11094,6 +11193,37 @@ Wielkie Hatti ( Karkemisz )
   Pisiris                    	                          ok.738
   Bibliografia :
       Starożytny Bliski Wschód
+
+Wietnam
+  Królestwo Wietnamu
+    Dynastia Nguyen
+      Gia Long ( Nguyen Phúc-Anh )       	              1802-1806
+  Cesarstwo Wietnamu
+    Dynastia Nguyen
+      Gia Long ( Nguyen Phúc-Anh )	                    1806-1820
+      Minh Mang                                  	      1820-1841 ( wg D.Ś. )
+      					         	                              ? ( wg K. )
+      Thieu Tri                                      	  1841-1847
+      Tu Dúc                                         	  1847-1883
+      Duc Dúc                                       	  1883
+      Hiep Hoà                                      	  1883
+      Kien Phúc                                     	  1883-1884
+      Hàm Nghi                                     	    1884-1885
+      Dong Khánh                                 	      1885-1889
+      Thành Thái                                   	    1889-1907
+      Duy Tân                                        	  1907-1916
+      Khai Dinh                                     	  1916-1925
+      Bao Dai                                         	1926-1945
+  Bao Dai           				                            1949-1955
+  Wietnam Południowy
+  Wietnam Północny
+    Quang Trung				                                  1788-po 1789 ( wg E.P. )
+  Uwagi :
+      Wszystko oprócz oznaczonego wg D.Ś.
+  Bibliografia :
+      Dynastie Świata
+      Khmerové
+      Encyklopedie panovníků
 
 Wizygoci ( Terwingowie )
   Rausimod                  	                          ok.323 n.e. ( wg D.R. )
