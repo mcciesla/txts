@@ -1,28 +1,85 @@
 Long (over 2 weeks) :
-        Cesta SNP 
-            - http://cestasnp.sk/
-            - https://sk.wikipedia.org/wiki/Cesta_hrdinov_SNP
-            - 720-750 km
-        Grande Traversata delle Alpi
-            - https://en.wikipedia.org/wiki/Grande_Traversata_delle_Alpi
-            - 1000 km
-            - 55 days
-        Alta Via dei Monti Liguri
-            - https://en.wikipedia.org/wiki/Alta_Via_dei_Monti_Liguri
-            - 440 km
-            - 44 days
-        International Hiking Trail E3 - Kom – Emine
-            - http://visitcentralbalkan.net/en/pages/read/t:tourism/c:itinerary/s:hiking/p:information-1/o:international-hiking-trail-e3-kom-emine
-            - 700 km
         Glówny Szlak Beskidzki
             - https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Beskidzki
             - http://czerwonyszlak.republika.pl/
             - 496km
             - 20 days
+        The Skye Trail
+            - https://www.walkhighlands.co.uk/skye/skye-trail.shtml
+            - 7 days
+            - 128km
+        The Cowal Way + The Three Lochs Way
+            - 90 + 57 km
+            - 6 + 4 days
+            - https://www.walkhighlands.co.uk/argyll/cowal-way.shtml
+            - https://www.walkhighlands.co.uk/lochlomond/three-lochs-way.shtml
+            - da se prodlouzit o - The Rob Roy Way
+                                                - 155km
+                                                - https://www.walkhighlands.co.uk/rob-roy-way.shtml
+                                                - 8 days
+        The West Highland Way
+            - 151km
+            - 8 days
+            - https://www.walkhighlands.co.uk/west-highland-way.shtml
+            - da se prodlouzit o - The East Highland Way
+                                                    - https://www.walkhighlands.co.uk/east-highland-way.shtml
+                                                    - 134km
+                                                    - + 7 days
+            - nebo alternativne se da prodlouzit o - The Great Glen Way
+                                                            - 117 km
+                                                            - https://www.walkhighlands.co.uk/great-glen-way.shtml
+                                                            - + 6 days
         Glówny Szlak Sudecki
             - https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Sudecki
             - 440km 
+        Cesta SNP 
+            - http://cestasnp.sk/
+            - https://sk.wikipedia.org/wiki/Cesta_hrdinov_SNP
+            - 720-750 km
+        Alta Via dei Monti Liguri
+            - https://en.wikipedia.org/wiki/Alta_Via_dei_Monti_Liguri
+            - 440 km
+            - 44 days
+            - prehnany casovy odhad - spis cca 25 days
+        The Southern Upland Way
+            - https://www.walkhighlands.co.uk/southern-upland-way.shtml
+            - 341km
+            - 12 days
+            - na zacatku se da prodlouzit o - The Ayrshire Coastal Path
+                                                             - https://www.walkhighlands.co.uk/glasgow/ayrshire-coastal-path.shtml
+                                                             - 147km
+                                                             - + 12 days
+            - na konci se da prodlouzit o - Berwickshire Coastal Path
+                                                    - https://www.walkhighlands.co.uk/borders/berwickshire-coastal-path.shtml
+                                                    - 48km
+                                                    - + 4 days
+        The Scottish National Trail
+            - https://www.walkhighlands.co.uk/scottish-national-trail.shtml
+            - 864km
+            - 40 days
+        Grande Traversata delle Alpi
+            - https://en.wikipedia.org/wiki/Grande_Traversata_delle_Alpi
+            - 1000 km
+            - 55 days
+        International Hiking Trail E3 - Kom – Emine
+            - http://visitcentralbalkan.net/en/pages/read/t:tourism/c:itinerary/s:hiking/p:information-1/o:international-hiking-trail-e3-kom-emine
+            - 700 km
+        The Cape Wrath Trail
+            - https://www.walkhighlands.co.uk/cape-wrath-trail.shtml
+            - 14 days
 Short (3-5 days) :
+        Zimni nebo letni prechod Nizkych Tater
+            - 2044m
+            - zima 5 days, leto 4 days 
+            - http://www.treking.cz/treky/nizke-tatry-na-sneznicich.htm
+        Zimni prechod Munti Rodneii
+            - 2279m
+            - 3-4 days
+            - http://www.summitpost.org/muntii-rodnei-group/153956
+        Munti Rodnei a Munti Suhardului
+            - 5-6 days
+            - http://www.summitpost.org/muntii-rodnei-group/153956
+            - https://cs.wikipedia.org/wiki/Suhard
         Grauspitz a Schesaplana
             - Grauspitz - nejvyssi vrchol Liechtensteinu - 2599m - http://www.summitpost.org/grauspitz/151118
             - Schesaplana - 2964m - http://www.summitpost.org/schesaplana/154384
@@ -43,7 +100,7 @@ Short (3-5 days) :
             - http://www.summitpost.org/ortler-ortles/150723
             - plus Tabaretta Klettersteig - http://www.bergsteigen.com/klettersteig/trentino-suedtirol/ortler-alpen/tabaretta-klettersteig
         Weissmiesgruppe
-            - 2-3 days
+            - 3-4 days
             - Lagginhorn 
                     - 4010m
                     - http://www.summitpost.org/lagginhorn/150308
@@ -59,6 +116,15 @@ Short (3-5 days) :
             - v pripade vice lidi - Weissmies
                                             - 4023m
                                             - http://www.summitpost.org/weissmies/150231
+        Nadelhorn
+            - http://www.summitpost.org/nadelhorn/150634
+            - 4327m
+            - 3-4 days
+            - ve vice lidech moznost prejit Nadelgrat - http://www.summitpost.org/nadelgrat/150211
+            - jinak prechod pres 
+                                - http://www.summitpost.org/gross-bigerhorn/368063
+                                - http://www.summitpost.org/balfrin/151947
+                                - http://www.summitpost.org/ulrichshorn/150635
 Weekend (2-3 days) : 
     Klettersteig :
         Dachstein Superferrata
@@ -89,6 +155,13 @@ Weekend (2-3 days) :
             - http://www.bergsteigen.com/klettersteig/tirol/wetterstein-gebirge-und-mieminger-kette/tajakante-klettersteig
             - pri nastupu plus Seeben Klettersteig - http://www.bergsteigen.com/klettersteig/tirol/wetterstein-gebirge-und-mieminger-kette/seeben-klettersteig
     VHT :
+        Zimni prechod Krkonos
+            - 2-3 days
+            - 1602m
+        Zimni prechod Male Fatry
+            - http://www.treking.cz/archiv/clanek2.htm?full_discussion=true
+            - 2 days
+            - 1708m
         Raxgruppe
             - http://www.summitpost.org/rax/154184
             - 2 days
