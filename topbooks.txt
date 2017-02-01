@@ -15,7 +15,7 @@ Witold Gombrowicz - Kosmos
 John Ronald Ruel Tolkien - Hobbit
 George R. R. Martin - A Song of Ice and Fire
 Jorge Luis Borges - Pierre Menard, Author of the Quixote
-                  - The Lottery in Babylon 
+                  - The Lottery in Babylon
 ----------------
 Stanislaw Lem - Niezwyciezony
               - Kongres Futurologiczny
@@ -50,9 +50,9 @@ SCIENCE :
         Hry s pocitacem ; Stanislav Vejmola
         Principy počítačů ; Václav Jirovský
     MATEMATYKA:
-        LOGIKA: 
+        LOGIKA:
             Logika a logiky ; Jaroslav Peregrin
-            Od jazyka k logice - Filozofický úvod do moderní logiky ; Vladimír Svoboda , Jaroslav Peregrin 
+            Od jazyka k logice - Filozofický úvod do moderní logiky ; Vladimír Svoboda , Jaroslav Peregrin
 POP.SCIENCE :
     AKWARIUM:
         Moje akvárium ; Karl-Heinz Tschiesche
@@ -101,7 +101,7 @@ POP.SCIENCE :
         Kwark i Jaguar ; Murray Gell-Mann
         Mister Tompkins W Krainie Czarów ; George Gamow
         Ostatnie Trzy Minuty ; Paul Davies
-        Planety i ksiezyce ; Robert Estalella  
+        Planety i ksiezyce ; Robert Estalella
         Poczatek Wszechswiata ; John D. Barrow
         Struktura Vesmiru - cas, prostor a povaha reality ; Brian Greene
         Sztuczne Słońce ; Gleb Anfiłow
@@ -222,6 +222,7 @@ POP.SCIENCE :
         Wspinaczka ; Anatolij Bukriejew , G. Weston DeWalt
         W Ussuryjskim Kraju ; Wladimir K. Arsenjew
         Kukuczka - opowiesc o najslynniejszym polskim himalaiscie ; Dariusz Kortko , Marcin Pietraszewski
+        Dersu Uzala ; Wladimir K. Arsenjew
     PSYCHOLOGIA:
         Thinking Fast and Slow ; Daniel Kahneman
     SOCIOLOGIA:
@@ -249,7 +250,7 @@ OTHER :
     HUMOR:
         Murphyho zákony a osobní počítače ; Karl Wagner
         Darwinovy ceny , evoluce v praxi ; Wendy Northcutt
-    PRAWO: 
+    PRAWO:
         Člověk za volantem , učebnice pro autoskoly
     SACHY:
         Tarrasch, ucitel sachovych generaci ; Vratislav Hora
@@ -319,7 +320,7 @@ Borges , Jorge Luis - The Book of Imaginary Beings - EN
                             - Three Versions of Judas - EN
                             - The End - EN
                             - The Cult of the Phoenix - EN
-                            - The South - EN 
+                            - The South - EN
 					- The Aleph - EN
                         - The Aleph - EN
     				        - The Immortal - EN
@@ -390,7 +391,7 @@ Eco , Umberto - Diariusz najmniejszy - POL
 Feynman , Richard Phillips - Snad ti nedělají starosti cizí názory - CZ
 					       - To nemyslíte vázně pane Feynamane - CZ
 Fuks , Ladislav - Spalovač mrtvol - O
-Glut , Donald F. ; Lucas , George - Hvezdne valky , Imperium vraci uder - CZ 
+Glut , Donald F. ; Lucas , George - Hvezdne valky , Imperium vraci uder - CZ
 Golding , William - Lord of the Flies - O
 Gombrowicz , Witold - Przewodnik po filozofii w szesć godzin i kwadrans - POL
                     - Ferdydurke - O
@@ -421,9 +422,9 @@ Le Guin , Ursula K. - The Dispossessed - O
                     - The Word for World is Forest - O
                     - Rocannon's World - O
                     - Planet of Exile - O
-                    - City of Illusions - O 
+                    - City of Illusions - O
 Lem , Stanisław - Bajki robotów - O
-				- Cyberiada - O 
+				- Cyberiada - O
 				- Człowiek z Marsa - O
                 - Dylematy - O
                 - Dzienniki Gwiazdowe - O
@@ -450,7 +451,7 @@ Lem , Stanisław - Bajki robotów - O
                 - Teksty Ostatnie - O
 Ławicki , Jerzy - Uważaj , Uważaj - O
 Machiavelli , Niccolo - Vladar - CZ
-Macourek , Milos ; Saudek , Kaja - Peruansky denik - O 
+Macourek , Milos ; Saudek , Kaja - Peruansky denik - O
 Martin , George R.R. - A Clash of Kings - O
                      - A Feast for Crows - O
                      - A Storm of Swords - O
@@ -462,7 +463,7 @@ McCarthy, Cormac - The Road - O
 Messner , Reinhold - Az na konec světa , výpravy v Himálaji a v Karakoramu - CZ
                    - Cho Oyu , tyrkysova bohyne - CZ
                    - Moje Zycie na Krawedzi - POL
-                   - Cervena svetlice na Nanga Parbatu - CZ 
+                   - Cervena svetlice na Nanga Parbatu - CZ
 Miłosz , Czesław - Ziemia Ulro - O
 Mitchell , David - Cloud Atlas - O
 Morcinek , Gustaw - O tym, jak Zuzanka poszla w kumy do utopcow - POL
@@ -500,7 +501,7 @@ Slama , Frantisek - Spiacy rycerze - POL
 Slowacki , Juliusz - S vámi jsem život žil ... - CZ
 Smeja , Fran. - Pierwszy szynkarz - POL
 Stapledon , Olaf - Last and First Men - O
-                 - Star Maker - O 
+                 - Star Maker - O
 Steinbeck , John - Of Mice and Men - O
 Strugačtí, Arkadij a Boris - Piknik u cesty - CZ
 Szklarski , Alfred - Tomek w Krainie Kangurow - O
@@ -515,7 +516,7 @@ Tenn , William - W otchlani, wsrod umarlych - POL
                - Flirgelflip - POL
                - Najemcy - POL
                - Kustosz - POL
-Tetens , Liboslav - Tanecznica - POL 
+Tetens , Liboslav - Tanecznica - POL
 Tolkien , John Ronald Ruel - The Hobbit - O
                            - The Lord of the Rings - O
                            - The Children of Húrin - O

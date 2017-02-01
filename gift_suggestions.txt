@@ -1,6 +1,8 @@
 books - Life's Ratchet - Peter M. Hoffmann
       - The Vital Question: Energy, Evolution, and the Origins of Complex Life - Nick Lane
       - The History of Western Philosophy - Bertrand Russell
+      - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
+      - Dynasties of the World: A Chronological and Genealogical Handbook - John E. Morby
       - Black Robe - Brian Moore
       - The Beginning of Infinity - David Deutsch
       - Speaking Our Minds - Thom Scott-Phillips
@@ -21,12 +23,12 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Artificial Intelligence for Humans, Volume 2: Nature-Inspired Algorithms - Jeff Heaton
       - Artificial Intelligence for Humans, Volume 3: Deep Learning and Neural Networks - Jeff Heaton
       - Types and Programming Languages - Benjamin C. Pierce
-      - Conquistadors of the Useless - Lionel Terray 
+      - Conquistadors of the Useless - Lionel Terray
       - The Nurture Assumption - Judith Rich Harris
       - Moby Dick - Herman Melville
       - No Two Alike - Judith Rich Harris
       - Sapiens: A Brief History of Humankind - Yuval Noah Harari
-      - Words On The Move: Why English Won’t, and Can’t, Sit Still (Like, Literally) - John McWhorter 
+      - Words On The Move: Why English Won’t, and Can’t, Sit Still (Like, Literally) - John McWhorter
       - To Mock a Mockingbird: And Other Logic Puzzles - Raymond M. Smullyan
       - Selected Papers on Computer Science - Donald E. Knuth
       - Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Jay Sussman
@@ -54,7 +56,7 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Lying - Sam Harris
       - Proofs without Words: Exercises in Visual Thinking - Roger B. Nelsen
       - Proofs Without Words II: More Exercises in Visual Thinking - Roger B. Nelsen
-      - The Implementation of Functional Programming Languages - Simon L. Peyton Jones 
+      - The Implementation of Functional Programming Languages - Simon L. Peyton Jones
       - Expert C Programming: Deep C Secrets - Peter Van Der Linden
       - Pure, White and Deadly - John Yudkin
       - From Logic Programming to Prolog - Krzysztof Apt
@@ -74,7 +76,7 @@ books - Life's Ratchet - Peter M. Hoffmann
       - C: A Reference Manual - Samuel P. Harbison, Guy L. Steele Jr.
       - Keys to Great Writing - Stephen Wilbers
       - UNIX and Linux System Administration Handbook -  Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
-    Stanislaw Lem 
+    Stanislaw Lem
                 - Astronauci
                 - Oblok Magellana
                 - Pamietnik znaleziony w wannie
@@ -84,8 +86,8 @@ books - Life's Ratchet - Peter M. Hoffmann
                 - Katar
                 - Golem XIV
                 - Fiasko
-                - Pokoj na Ziemi 
-movies - The Act of Killing - Joshua Oppenheimer 
-       - The Look of Silence - Joshua Oppenheimer 
+                - Pokoj na Ziemi
+movies - The Act of Killing - Joshua Oppenheimer
+       - The Look of Silence - Joshua Oppenheimer
        - Joseph Campbell and the Power of Myth
        - Meru
