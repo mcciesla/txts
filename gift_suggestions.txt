@@ -9,6 +9,7 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Radical Enlightenment - Jonathan Israel
       - Purely Functional Data Structures - Chris Okasaki
       - How to Solve It - George Pólya
+      - Colossus - Dennis Feltham Jones
       - Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian, Tom Griffiths
       - Nanga Parbat Pilgrimage: The Lonely Challenge - Hermann Buhl
       - Hermann Buhl Climbing Without Compromise - Reinhold Messner, Horst Hofler
