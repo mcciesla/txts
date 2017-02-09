@@ -1,6 +1,5 @@
 Stanislaw Lem - Glos Pana
 Umberto Eco - Jmeno ruze
-Witold Gombrowicz - Ferdydurke
 John Ronald Ruel Tolkien - Lord of The Rings
 Cormac McCarthy - The Road
 ----------------
@@ -12,6 +11,7 @@ Stanislaw Lem - Solaris
 Franz Kafka - Zamek
 Umberto Eco - Foucaultovo kyvadlo
 Witold Gombrowicz - Kosmos
+                  - Ferdydurke
 John Ronald Ruel Tolkien - Hobbit
 George R. R. Martin - A Song of Ice and Fire
 Jorge Luis Borges - Pierre Menard, Author of the Quixote
@@ -34,7 +34,7 @@ Ernest Hemingway - Stary czlowiek i morze
 Karel Capek - Matka
 Josef Skvorecky - Zbabelci
 Bohumil Hrabal - Prilis hlucna samota
-----------------
+James Fenimore Cooper - Piecioksiag
 --------------------------------------------------------------------------------
 SCIENCE :
 	FILOZOFIA:
@@ -223,6 +223,8 @@ POP.SCIENCE :
         W Ussuryjskim Kraju ; Wladimir K. Arsenjew
         Kukuczka - opowiesc o najslynniejszym polskim himalaiscie ; Dariusz Kortko , Marcin Pietraszewski
         Dersu Uzala ; Wladimir K. Arsenjew
+        Rio de Oro ; Arkady Fiedler
+        Gara jaka ; Desmond Varaday
     PSYCHOLOGIA:
         Thinking Fast and Slow ; Daniel Kahneman
     SOCIOLOGIA:
@@ -288,8 +290,11 @@ Aldiss , Brian - Superhračky vydrzí celé léto - CZ
 			   - Stát se motýlem - CZ
 			   - Bělejsí Mars - CZ
 Alexander , Pat - Mala Biblia dla dzieci - POL
+Athanas , Verne - Przeprawa przez most - POL
 Badalska , Wiera - Przepraszam, smoku - O
 Bahdaj , Adam - Pilot i Ja - O
+Baxter , George Owen - Pokusa - POL
+                     - Droga do San Triste - POL
 Bonatti , Walter - The Mountains of My Life - EN
 Borges , Jorge Luis - The Book of Imaginary Beings - EN
 					- Obecné dějiny hanebnosti - CZ
@@ -368,16 +373,23 @@ Borges , Jorge Luis - The Book of Imaginary Beings - EN
                             - On Exactitude and Science - EN
                             - In Memoriam, J.F.K. - EN
 Brooks , Max - World War Z - O
+Brown , Dale - Srebrna wieza - POL
+Brown , Will C. - Kowboj Kolumb - POL
 Brzechwa , Jan - Na Straganie - O
                - Na Wyspach Bergamutach - O
                - Szelmostwa Lisa Witalisa - O
 Burgess , Anthony - Clockwork Orange - O
+Burroughs , Edgar Rice - Powrot Tarzana - POL
 Carrol , Lewis - Through the Looking Glass - O
 			   - Alice's Adventures in Wonderland - O
 Chmielewski , Henryk Jerzy - Tytus, Romek i A'Tomek Ksiega I - O
 Clark , Arthur C. - Miasto i Gwiazdy - POL
 Conrad , Joseph - Heart of Darkness - O
 Cooper , James Fenimore - Pionierowie - POL
+                        - Jezioro Smierci - POL
+                        - Mlody orzel - POL
+                        - Tropiciel sladow - POL
+                        - Szpieg - POL
 Czerkawska , Maria - Żółte Chodaczki - O
 Dabrowska , Maria - Noce i Dnie - O
 Defoe , Daniel - Robinson Crusoe - CZ
@@ -388,8 +400,11 @@ Eco , Umberto - Diariusz najmniejszy - POL
               - Jméno růze - CZ
               - Foucaultovo kyvadlo - CZ
               - Tajemniczy plomien krolowej Loany - POL
+Evarts , Hal George - Ostatnia woda - POL
 Feynman , Richard Phillips - Snad ti nedělají starosti cizí názory - CZ
 					       - To nemyslíte vázně pane Feynamane - CZ
+Foreman , L. L. - Dyszle na polnoc - POL
+Foster , Bennett - Truciciel - POL
 Fuks , Ladislav - Spalovač mrtvol - O
 Glut , Donald F. ; Lucas , George - Hvezdne valky , Imperium vraci uder - CZ
 Golding , William - Lord of the Flies - O
@@ -397,22 +412,33 @@ Gombrowicz , Witold - Przewodnik po filozofii w szesć godzin i kwadrans - POL
                     - Ferdydurke - O
                     - Kosmos - O
 Gree , Alain ; Gree Gerard - Tomas objavuje prirodu - SVK
+Grey , Zane - Osiol Tappana - POL
+Guthrie , A. B. - Gorski lek - POL
+Harte , Bret - Pocalunek - POL
+Haycox , Ernest - Dylizans do Lordsburga - POL
+Henry , O. - Ksiezniczka i puma - POL
+Herlihy , James Leo - Nocny kowboj - POL
 Hillary , Edmund - Pohled z vrcholu - CZ
 Horecka , Frantisek - Janek i skarb - POL
 Huxley , Aldous - Brave New World - O
 Jahn , Metodej - O zgubionym pierscionku - POL
+Jansky , Filip - Nebesti jezdci - O
 Joyce , James - Dubliners - O
 Jura , Fr. ; Jura , J. - O Ondraszku - POL
 Kafka , Franz - Zamek - POL
               - Proces - POL
 Kahn , James - Powrot Jedi - POL
+Kantor , Mackinlay - Niezwykly powrot - POL
 Keyes , Daniel - Flowers for Algernon - O
 Kierst , Jerzy - Czy to Kraków - O
+Kinnan-Rawlings , Marjorie - Roczniak - POL
+Koreywo , Marek - Ludzie na Ksiezycu - O
 Kownacka , Maria - Ogródek - O
 Krakauer , Jon - Into Thin Air , A personal account of the Everest disaster - O
                - Into The Wild - O
 Kraszewski , Józef Ignacy - Chata za Wsia - O
 Kukuczka , Jerzy - Moj pionowy swiat - O
+L'Amour , Louis - Srebrny kanion - POL
 Le Guin , Ursula K. - The Dispossessed - O
                     - The Left Hand of Darkness - O
                     - A Wizard of Earthsea - O
@@ -449,6 +475,12 @@ Lem , Stanisław - Bajki robotów - O
                 - Tako rzecze Lem , ze Stanislawem Lemem rozmawia Stanislaw Beres - O
                 - Rasa Drapieżców - O
                 - Teksty Ostatnie - O
+Lofting , Hugh - Doktor Dolittle i zielona kanarzyca - POL
+London , Jack - Syn Slonca - POL
+              - Jerry z wysp - POL
+              - Corka sniegow - POL
+Loomis , Noel M. - Kiedy dzieci placza z glodu - POL
+Lucas , George - Gwiezdne wojny - POL
 Ławicki , Jerzy - Uważaj , Uważaj - O
 Machiavelli , Niccolo - Vladar - CZ
 Macourek , Milos ; Saudek , Kaja - Peruansky denik - O
@@ -459,6 +491,16 @@ Martin , George R.R. - A Clash of Kings - O
 Martinek , Vojtech - O slonecznej pannie - POL
 May , Karel - Já , náčelník Apačů - CZ
             - Mahdi - CZ
+            - Old Surehand - POL
+            - Blekitno-purpurovy Matuzalem - POL
+            - Derwisz - POL
+            - Karawana niewolnikow - POL
+            - Pustynia zaglady - POL
+            - Przez kraine Skipetarow - POL
+            - Czarny mustang - POL
+            - Vinnetouovi dedicove - CZ
+            - Duch Llana Estacada - CZ
+            - V zemi draka - CZ
 McCarthy, Cormac - The Road - O
 Messner , Reinhold - Az na konec světa , výpravy v Himálaji a v Karakoramu - CZ
                    - Cho Oyu , tyrkysova bohyne - CZ
@@ -469,12 +511,17 @@ Mitchell , David - Cloud Atlas - O
 Morcinek , Gustaw - O tym, jak Zuzanka poszla w kumy do utopcow - POL
 Neff , Ondrej ; Saudek , Kaja - Arnal & dva draci zuby - O
 Nesvadba , Josef ; Saudek , Kaja - Po stopach snezneho muze - O
+Nienacki , Zbigniew - Pan samochodzik i templariusze - O
+                    - Niesamowity dwor - O
 Niven , Larry - Ringworld - O
+Nohejl , Bohumil - Objavovanie planety Michovice - SVK
 Okudzava , Bulat - Zrusené divadlo - CZ
 Ondrusz , Jozef - O dobrej Hance i zlej Hanie - POL
 Orwell , George - 1984 - O
 Packard , Edward - Vesmirny upir - CZ
+Patchett , Mary Elwyn - Brumby - POL
 Pavloskova , Karin - Gronsko , "Takussagut" - O
+Pendexter , Hugh - Lata walki - POL
 Petrus , Jan - Zlotoglowy waz - POL
 Pleva , Josef V. - Robinson Crusoe - O
 Poe , Edgar Allan - The Fall of the House of Usher - O
@@ -487,6 +534,13 @@ Poe , Edgar Allan - The Fall of the House of Usher - O
 					The Murders in the Rue Morgue - O
 					The Purloined Letter - O
 Pratchett , Terry - Thud! - O
+Prus , Boleslaw - Faraon - O
+Przymanowski , Janusz - Czterej pancerni i pies - O
+Pyle , Howard - Wesole przygody Robin Hooda - POL
+Raine , William Macleod - Ostatnie ostrzezenie - POL
+Rhodes , Eugene Manlove - Za ta pustynia - POL
+Roberts , Fred - Wyklety z Rio Grande - POL
+               - Walka o honor - POL
 Rohel , Jan - Maryczka i pan podziemi - POL
 Rowling , J.K. - Harry Potter and the Philosopher's Stone - O
                - Harry Potter and the Chamber of Secrets - O
@@ -497,18 +551,25 @@ Rowling , J.K. - Harry Potter and the Philosopher's Stone - O
 			   - Harry Potter and the Deathly Hallows - O
 Saint-Exupéry , Antoine de - Malý princ - CZ
 Salichova , Helena - O sloneczku i ksiezycu - POL
+Sanders , Charles Wesley - Czarny gosc - POL
+                         - Smierc na rozdrozu - POL
 Slama , Frantisek - Spiacy rycerze - POL
 Slowacki , Juliusz - S vámi jsem život žil ... - CZ
 Smeja , Fran. - Pierwszy szynkarz - POL
 Stapledon , Olaf - Last and First Men - O
                  - Star Maker - O
 Steinbeck , John - Of Mice and Men - O
+Stevenson , R. L. - Wyspa skarbow - POL
 Strugačtí, Arkadij a Boris - Piknik u cesty - CZ
+Swift , Jonathan - Podroze Gulliwera - POL
+Szczepanska , Nora - Ucho wodza - O
 Szklarski , Alfred - Tomek w Krainie Kangurow - O
                    - Tajemnicza Wyprawa Tomka - O
                    - Tomek w Gran Chaco - O
                    - Tomek na Tropach Yeti - O
                    - Tomek na Wojennej Sciezce - O
+Szklarski , Alfred; Szklarska , Krystyna - Zloto gor czarnych - O
+Sulc , Ludovit - Anekdoty lidove Francie - O 
 Tenn , William - W otchlani, wsrod umarlych - POL
                - Moje potrojne ja - POL
                - Wyzwolenie Ziemi - POL
@@ -517,12 +578,16 @@ Tenn , William - W otchlani, wsrod umarlych - POL
                - Najemcy - POL
                - Kustosz - POL
 Tetens , Liboslav - Tanecznica - POL
+Thomas , Craig - Firefox - POL
+               - Odzyskac Firefoxa - POL
+Thompson , Thomas - Mlode prawo w Cimarron Crossing - POL
 Tolkien , John Ronald Ruel - The Hobbit - O
                            - The Lord of the Rings - O
                            - The Children of Húrin - O
                            - Silmarillion - O
                            - Unfinished Tales - O
 Trenecky , Ladislav - Kopalnia z kudlatymi gornikami - POL
+Trzaska , Aleksander - Klub Masztalskiego, tom piaty - O
 Tuwim , Irena - Co okret wiezie - O
 Tuwim , Julian - Cuda i Dziwy - O
                - Wiersze Skandaliczne - O
@@ -530,19 +595,30 @@ Tuwim , Julian - Cuda i Dziwy - O
 Twain , Mark - Przygody Hucka - POL
              - Przygody Tomka Sawyera - POL
 Ulcak , Ladislav - Skarb pod Hukwaldskim zamkiem - POL
+Uminski , Wladyslaw - Wedrowiec lesny - O
+Van Tilburg Clark , Walter - Indianska studnia - POL 
 Verne , Jules - Děti kapitána Granta - CZ
               - Dva roky prázdnin - CZ
               - Dwadziescia Tysięcy Mil Podmorskiej Żeglugi - POL
+              - Robur Zdobywca - POL
+              - Pan swiata - POL
+              - Pilot dunajskich statkow - POL
 Vysockij , Vladimir - Nepiju sám - CZ
 Waltari , Mika - Trylogia Rzymska - POL
+Weber , Joe - Kryptonim Shadow - POL
 Weigel J. , Saudek , Kaja - Lips Tullian - Stribrny poklad - O
                                          - Konec Sahrbergovy bandy - O
 Wernerowa , Jadwiga - Opowiadania o zwierzetach - O
+Wernic , Wieslaw - Slonce Arizony - O
+Westerman , P. F. - Poklad ze San Marco - CZ
+White , Ch. P. - Smecka planin - CZ
+White , Stewart Edward - Zlota zyla - POL
+Wormser , Richard - Mysliwy - POL
+Wyspianski , Stanislaw - Wesele - O
 Żeromski , Stanisław - Wierna Rzeka - O
 --
 HIST TODO
 Fidel & Che - A revolutionary friendship
-?Indiański Napoleon Gór Skalistych
 Kolumbova flotila
 ?O Krakowie Ci ja!
 ?Ród Indian Algonkinów
