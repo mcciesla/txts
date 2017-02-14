@@ -162,6 +162,10 @@ Ajmarowie
   Bibliografia :
       Války rudého muže
 
+Ajneja
+  Bibliografia :
+      Dzieje Grecji
+
 Ajodhia
   Dasiaratha		                                        ?
   Bharata			                                          ?
@@ -1077,6 +1081,10 @@ Argos
       Zrození Řecka
       Klasické Řecko
       Říše slova - Jazykové dějiny světa
+
+Aricja
+  Bibliografia :
+      Dzieje Grecji
 
 Arka
   Bibliografia :
@@ -2197,6 +2205,10 @@ Babilonia
       Mezopotámie - počátky měst
       Říše slova - Jazykové dějiny světa
 
+Badachszan
+  Bibliografia :
+      Dzieje dawnych Turków
+
 Ta´ifa Badajoz
   Dynastia Aftasydów
   Bibliografia :
@@ -2544,6 +2556,10 @@ Bebrykowie
   Bibliografia :
       Thrákové
 
+Bejrut
+  Bibliografia :
+      Starożytne Cywilizacje
+
 Belgia
   Królestwo Belgii
     Dynastia Sachsen-Coburg-Gotha
@@ -2559,12 +2575,20 @@ Belgia
       Velká nástěnná mapa světových dějin
       Říše slova - Jazykové dějiny světa
 
+Księstwo Benevento
+  Bibliografia :
+      Dějiny Byzance
+
 Bengalia ( Bengal )
   Szaszanka    	                                        ok.600-ok.633 ( wg S.I. )
   Szudża-szah	                                          ? ( wg T.Z.H.K. )
   Bibliografia :
       Starověká Indie
       Tybet - zarys historii kultury
+
+Benin
+  Bibliografia :
+      Mity pięciu części świata
 
 Wielkie Księstwo Bergu
   Joachim Napoleon Murat          	                    1806-1808
@@ -2615,6 +2639,10 @@ Bhrgukaczczha
     Dadda I                                             ok.600 n.e.
   Bibliografia :
       Starověká Indie
+
+Bhutan
+  Bibliografia :
+      Tybet - zarys historii kultury
 
 Biała Chorwacja
   Svetmalik ( Svatopluk )                               ?
@@ -2668,10 +2696,26 @@ Bit Agusi ( Gusi )
   Bibliografia :
       Kralovská tažení ve starém Orientu
 
+Bit Dakkuri ( Dakkuri )
+  Bibliografia :
+      Starożytny Bliski Wschód
+
 Bit Gabbar ( Bit-Gabari )
   Chajani                                               ok.853 p.n.e.
   Bibliografia :
       Kralovská tažení ve starém Orientu
+
+Bit Jakini ( Bít-Jakín )
+  Marduk-apal-iddina      	                            ? ( wg A.O.M.S.K.Ř. )
+  Marduk-apal-iddina	                                  przed 703-? ( wg A.O.M.S.K.Ř. )
+      				                                          ? ( Marduk-apla-iddina II wg M.P.M. )
+  Bibliografia :
+      Asýrie - od městského státu k říši
+      Mezopotámie - počátky měst
+
+Bit Zamani
+  Bibliografia :
+      Starożytny Bliski Wschód
 
 Bitynia
   Doidalsés                           	                przed 435-? ( wg T. )
@@ -2743,6 +2787,10 @@ Bít-Amukkáni
   Bibliografia :
       Asýrie - od městského státu k říši
 
+Bit-Zette
+  Bibliografia :
+      Foiničané
+
 Bizancjum
   Ariston		                                            przed 513-po 512 ( wg Z.Ř. )
   Pauzaniasz	                                          ? ( wg D.G. )
@@ -2754,6 +2802,19 @@ Bizancjum
 Królestwo Bnam
   Bibliografia :
       Říše slova - Jazykové dějiny světa
+
+Boecja
+  Ogyges                                                1796-1764
+  Bibliografia :
+      Velká nástěnná mapa světových dějin
+
+Bolonia
+  Bibliografia :
+      Fridrich Barbarossa – císař a rytíř
+
+Bornu
+  Bibliografia :
+      Mocarstwa Świata
 
 Królestwo Bosporańskie
   Archeanaktydzi
@@ -2889,6 +2950,22 @@ Bośnia
       Dynastie Świata
       Dějiny Byzance
       Encyklopedie panovníků
+
+Księstwo Bourbonnais
+  Dynastia burbońska
+    Ludwik I                   	                        1310-1342
+    Piotr I                        	                    1342-1356
+    Ludwik II Dobry       	                            1356-1410
+    Jan I                           	                  1410-1434
+    Karol I                       	                    1434-1456
+    Jan II                          	                  1456-1488
+    Karol II                      	                    1488
+    Piotr II z Beaujeu	                                1488-1503
+    Zuzanna                      	                      1503-1521
+  Linia na Montpensier
+    Karol III                      	                    1505-1527
+  Bibliografia :
+      Dynastie Świata
 
 Księstwo Brabancji
   Dynastia z Louvain
@@ -3036,6 +3113,16 @@ Księstwo Bretanii
   Bibliografia :
       Dynastie Świata
 
+Breukowie
+  Bato		                                              ok.6 n.e.
+  Bibliografia :
+      Tiberius – Pohnutý život císaře
+
+Biskupstwo Brixen
+  Hartmann		                                          przed 1158-1164
+  Bibliografia :
+      Fridrich Barbarossa – císař a rytíř
+
 Księstwo Brunszwiku
   Starsza linia na Brunszwiku
     Albrecht I Wielki      	                            1252-1279
@@ -3089,6 +3176,11 @@ Księstwo Brunszwiku i Lüneburga
   Bibliografia :
       Dynastie Świata
 
+Brygantowie
+  Kartymandua                                           ok.49-ok.70
+  Bibliografia :
+      Dzieje Rzymu
+
 Brytania
   Caswallon                   	                        ok.80-ok.50 ( wg V.N.M.S.D. )
       			    	                                      ?-ok.55 ( Kasywelanus wg D.R. )
@@ -3132,6 +3224,11 @@ Chanat Buchary
   Said Alim-chan             	                          ok.1918
   Bibliografia :
       Serce Azji
+
+Buganda
+  Mutesa I ( Mtesa I )	                                1857-1884
+  Bibliografia :
+      Encyklopedie panovníků
 
 Bułgaria
   1.państwo bułgarskie
@@ -3379,6 +3476,10 @@ Caere
       Dzieje Rzymu
       Zrození Řecka
 
+Księstwo Capua ( Kapua )
+  Bibliografia :
+      Dějiny Byzance
+
 Królestwo Cashel i Munsteru
   Conall Corc                                 	        ok.450 n.e.
   Nad Froich                            	              ?
@@ -3454,6 +3555,12 @@ Królestwo Cashel i Munsteru
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Encyklopedie panovníků
 
+Celtowie
+  Bolgios         	                                    przed 279-? ( Belgios wg S.H. )
+  Brennos       	                                      przed 279-? ( wg S.H. )
+  Bibliografia :
+      Svět helénismu
+
 Celtyberowie
   Divorix                                               ?
   Bibliografia :
@@ -3464,6 +3571,29 @@ Chalkis
   Foxos		                                              ?
   Bibliografia :
       Zrození Řecka
+
+Chamat
+  Irchuleni		                                          ok.853 p.n.e.
+  Zakir          	                                      ok.805
+  Enil            	                                    ok.738
+  Bibliografia :
+      Kralovská tažení ve starém Orientu
+
+Chattina ( Unku )
+  Bibliografia :
+      Asýrie - od městského státu k říši
+
+Chattowie
+  Adgandestrius                                         przed 19 n.e.-? ( wg Ř.V.G. )
+  Arpa			                                            ? ( wg T.P.Ž.C. )
+  Bibliografia :
+      Římané v Germánii
+      Tiberius – Pohnutý život císaře
+
+Chazarowie
+  Chanat Chazarski
+  Bibliografia :
+      Dějiny Byzance
 
 Chersonez Tracki
   Miltiades         	                                  ok.559 p.n.e. ( wg A.Č. )
@@ -3494,6 +3624,15 @@ Cheruskowie
       Historia Powszechna – Starożytność
       Římané v Germánii
       Tiberius – Pohnutý život císaře
+
+Chieri
+  Bibliografia :
+      Fridrich Barbarossa – císař a rytíř
+
+Chile
+  José Miguel Carrera	                                  1811 n.e.-?
+  Bibliografia :
+      Encyklopedie panovníků
 
 Chimú
   Bibliografia :
@@ -5326,6 +5465,10 @@ Księstwo Dolnej Lotaryngii
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Křížové výpravy
 
+Dolonkowie
+  Bibliografia :
+      Thrákové
+
 Dominikana
   Rafael L. Trujillo                                    ?
   Bibliografia :
@@ -5370,6 +5513,16 @@ Księstwo Duklja ( Diokleia )
   Bibliografia :
       Dějiny Byzance
 
+Dvin
+  Abul Asfar                                            ?
+  Bibliografia :
+      Dějiny Byzance
+
+Dżajeszthapura
+  Išvarakumára                                          ?
+  Bibliografia :
+      Khmerové
+
 Dżungarowie
   Ba´atur                   	                          1634-1654 ( wg T.Z.H.K. )
   Galdan                 	                              1644-1697 ( wg H.C. )
@@ -5390,6 +5543,10 @@ Dżurhumidzi
   Al-Harith Młodszy	                                    ?
   Bibliografia :
       Rýžoviště zlata a doly drahokamů
+
+Dżuzdan
+  Bibliografia :
+      Dzieje dawnych Turków
 
 Królestwo East-Anglii
   Uffa           	                                      570-578 ( wg V.N.M.S.D. )
@@ -5423,6 +5580,10 @@ Królestwo East-Anglii
       Velká nástěnná mapa světových dějin
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Encyklopedie panovníků
+
+Ebla
+  Bibliografia :
+      Kralovská tažení ve starém Orientu
 
 Eburonowie
   Ambioryks                                             ok.54 p.n.e.
@@ -5489,6 +5650,10 @@ Efez
       Dzieje Grecji
       Starożytne Cywilizacje
       Zrození Řecka
+
+Egina
+  Bibliografia :
+      Dzieje Grecji
 
 Egipt
   Wczesna Epoka Dynastyczna
@@ -6562,6 +6727,22 @@ Euboja
   Bibliografia :
       Zrození Řecka
 
+Euesperides
+  Bibliografia :
+      Dzieje Grecji
+
+Faenza
+  Bibliografia :
+      Fridrich Barbarossa – císař a rytíř
+
+Fajstos
+  Bibliografia :
+      Starożytne Cywilizacje
+
+Falerie
+  Bibliografia :
+      Kronika Rzymu i Cesarstwa Rzymskiego
+
 Faros
   Demetriusz                                            przed 219 p.n.e.-?
   Bibliografia :
@@ -7121,6 +7302,10 @@ Gabie
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
 
+Gaeta
+  Bibliografia :
+      Dějiny Byzance
+
 Galacja
   Dejotaros	                                            przed 74 p.n.e.-? ( wg L. )
   Dejotaros	                                            52-po 47 ( wg D.R. )
@@ -7223,6 +7408,10 @@ Genewa
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
 
+Republika Genui
+  Bibliografia :
+      Dějepis pro I. ročník gymnázií
+
 Gepidzi
   Ardaryk		                                            ok.453 n.e. ( wg P.C.R. )
       		 	                                            przed 447-po 455 ( Ardarich wg H. )
@@ -7313,6 +7502,10 @@ Imperium Ghurydów
       Starověká Indie
       Encyklopedie panovníků
 
+Girsu
+  Bibliografia :
+      Starożytne Cywilizacje
+
 Glingu
   Geser ( Ge-sar )                                      ?
   Bibliografia :
@@ -7339,6 +7532,10 @@ Gordyene
   Zarbienos   	                                        ?
   Bibliografia :
       Lukullus
+
+Gortys
+  Bibliografia :
+      Zrození Řecka
 
 Królestwo Granady ( Ta´ifa Granada )
   Ziriovci
@@ -7384,6 +7581,10 @@ Grecja
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
+
+Grenada
+  Bibliografia :
+      Mocarstwa Świata
 
 Gruzja
   Guaram Bagratyda	                                    przed 589 n.e.-? ( wg D.D.T. )
@@ -7470,10 +7671,18 @@ Gutium
       Starożytny Bliski Wschód
       Mezopotámie - počátky měst
 
+Guzana
+  Bibliografia :
+      Zrození Řecka
+
 Gúrdżartrá
   Szíluka                                               ok.720 n.e.
   Bibliografia :
       Starověká Indie
+
+Gwinea
+  Bibliografia :
+      Mocarstwa Świata
 
 Księstwo Gwynedd
   Cadwallon Lawhir                	                    ok.500-ok.517
@@ -7664,6 +7873,10 @@ Hama
   Bibliografia :
       Foiničané
 
+Hamat
+  Bibliografia :
+      Starożytny Bliski Wschód
+
 Hanower
   Elektorat Hanoweru
     Ernest August		                                    1679-1698 ( wg D.Ś. )
@@ -7799,6 +8012,10 @@ Heniochowie
   Anchiale(o,a)s                                        ok.110 n.e.
   Bibliografia :
       Antické Černomoří
+
+Heraja
+  Bibliografia :
+      Dzieje Grecji
 
 Herakleja Pontyjska
   Dionizjos                                             ok.331 p.n.e.
@@ -8045,6 +8262,10 @@ Hira
   Bibliografia :
       Rýžoviště zlata a doly drahokamů
 
+Histiaja
+  Bibliografia :
+      Dzieje Grecji
+
 Hiszpania
   Królestwo Hiszpanii
     Dynastia habsburska
@@ -8226,6 +8447,14 @@ Huryci ( Hurri )
   Bibliografia :
       Starożytny Bliski Wschód
 
+Hysiaj
+  Bibliografia :
+      Dzieje Grecji
+
+Ialysos
+  Bibliografia :
+      Zrození Řecka
+
 Iberowie
   Farnabazo(a,e)s		                                    ok.37 p.n.e. ( wg A.Č. )
   Farasmanes                	                          ok.30 n.e. ( wg A.Č. )
@@ -8248,6 +8477,10 @@ Icenowie
       Velká nástěnná mapa světových dějin
       Kronika Rzymu i Cesarstwa Rzymskiego
       Říše slova - Jazykové dějiny světa
+
+Idalion
+  Bibliografia :
+      Foiničané
 
 Państwo Il-Chanów
   Dynastia Czyngizydów
@@ -8303,10 +8536,18 @@ Królestwo Illirii
       Kronika Rzymu i Cesarstwa Rzymskiego
       Svět helénismu
 
+Imola
+  Bibliografia :
+      Fridrich Barbarossa – císař a rytíř
+
 Indie
   Bibliografia :
       Mocarstwa Świata
       Říše slova - Jazykové dějiny světa
+
+Indonezja
+  Bibliografia :
+      Mocarstwa Świata
 
 Imperium Inków
   Pachacuti           		                              1438-1471 ( wg D.Ś. i Ř.I. i O.A. )
@@ -8580,6 +8821,10 @@ Italia
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
       Encyklopedie panovníků
+
+Państwo Ito
+  Bibliografia :
+      Dějiny Japonska
 
 Izrael
   Królestwo Izraela
@@ -9205,6 +9450,10 @@ Jugosławia
       100 nejvlivnějších vojevůdců světa
       Mocarstwa Świata
 
+Jüepan
+  Bibliografia :
+      Dzieje dawnych Turków
+
 Kabala
   ´Anbasta Jednooki		                                  ?
   Bibliografia :
@@ -9397,6 +9646,10 @@ Kalinga
   Bibliografia :
       Starověká Indie
 
+Kallipolis
+  Bibliografia :
+      Dzieje Grecji
+
 Kamarina
   Hippokrates                                           498-495
   Bibliografia :
@@ -9423,10 +9676,18 @@ Kambodża
       Dynastie Świata
       Khmerové
 
+Kammanu
+  Bibliografia :
+      Starożytny Bliski Wschód
+
 Kampowie
   Atahualpa Apo Inka                                    przed 1742-po 1752
   Bibliografia :
       Války rudého muže
+
+Kanada
+  Bibliografia :
+      Mocarstwa Świata
 
 Królestwo Kandyjskie
   Rádžasinha II                                         ?
@@ -9438,6 +9699,11 @@ Kanjakubdża
     Pratihara		                                        ?
     Bibliografia :
         Rýžoviště zlata a doly drahokamů
+
+Kao'czang ( Turfan )
+  C'ü Wen-t'aj		                                      przed 630-po 640
+  Bibliografia :
+      Dzieje dawnych Turków
 
 Kapadocja
   Ariarates I                                           350-322 ( wg D.Ś.  )
@@ -9497,6 +9763,10 @@ Karatepe
   Asitawandas                                           ok.750 p.n.e.
   Bibliografia :
       Dzieje Grecji
+
+Kara-Kojunłu
+  Bibliografia :
+      Encyklopedie panovníků
 
 Kardia
   Hekataios                                             przed 323-?
@@ -9684,10 +9954,12 @@ Kaszmir
       Dzieje Grecji
       Dzieje dawnych Turków
 
-Katana
-  Mamerkos                                              ?
+Katana ( Catania )
+  Mamerkos                                              ok.340 p.n.e. ( wg F. )
+                                                        ? ( wg D.G. )
   Bibliografia :
       Dzieje Grecji
+      Foiničané
 
 Katanum
   Amatpiel                                              ok.1750 p.n.e.
@@ -10851,6 +11123,10 @@ Kuszszara
       Arménie
       Starożytny Bliski Wschód
 
+Kuti
+  Bibliografia :
+      Asýrie - od městského státu k říši
+
 Kuturgurzy
   Zabergan	                                            przed 558-po 559
   Bibliografia :
@@ -10887,6 +11163,10 @@ Kyzikos
   Aristagoras	                                          przed 513-po 512
   Bibliografia :
       Zrození Řecka
+
+Lachisz
+  Bibliografia :
+      Starożytne Cywilizacje
 
 Lagasz
   En.hengal                              	              ok.2600-ok.2575 ( wg S.B.W. )
@@ -11032,6 +11312,10 @@ Królestwo Laiginu ( Leinsteru )
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Říše slova - Jazykové dějiny světa
 
+Lampsakos
+  Bibliografia :
+      Dzieje Grecji
+
 Laos
   Šrídévaníka                                           ? ( wg Ř.S.J.Ď.S. )
   Królestwo Laosu
@@ -11106,6 +11390,11 @@ Latium
   Bibliografia :
       Velká nástěnná mapa světových dějin
       Zdraví Vás Caesar
+
+Lawata
+  ´Abdalmalik ibn Marwan		                            ?
+  Bibliografia :
+      Rýžoviště zlata a doly drahokamů
 
 Lazowie
   Malassa                                               ok.110 n.e.
@@ -11341,6 +11630,18 @@ Litwa
   Bibliografia :
       Dynastie Świata
       Zrod střední a východní Evropy
+
+Lokry Epizefyryjskie
+  Bibliografia :
+      Dzieje Grecji
+
+Lokry Opunckie
+  Bibliografia :
+      Dzieje Grecji
+
+Lokryda Ozolska
+  Bibliografia :
+      Dzieje Grecji
 
 Królestwo Longobardów
   Alboin                   	                            569-572 ( wg D.Ś. )
@@ -11608,6 +11909,10 @@ Cesarstwo Łacińskie
       Křížové výpravy
       Dějiny Byzance
       Encyklopedie panovníků
+
+Łotwa
+  Bibliografia :
+      Mocarstwa Świata
 
 Łużyce Dolne
   Dietrich II		                                        przed 1179-?
@@ -11912,6 +12217,11 @@ Majowie
       Války rudého muže
       Encyklopedie panovníků
 
+Ta´ifa Malaga
+  Dynastia Hammudytów ( Hammudovci )
+  Bibliografia :
+      Maurové a Evropa
+
 Malawia
   Jaszodharman          	                              ok.530-ok.540
   Kumáragupta		                                        ?
@@ -11988,6 +12298,10 @@ Mały Pölü ( Gilgit )
   Bibliografia :
       Dzieje dawnych Turków
 
+Państwo Mamertynów
+  Bibliografia :
+      Historia Powszechna – Starożytność
+
 Królestwo Man
   Godred I Crovan		                                    1079-1095
   Lagman                                  	            1095-1096
@@ -12017,6 +12331,10 @@ Mannai ( Mannea )
   Bibliografia :
       Starożytny Bliski Wschód
       Asýrie - od městského státu k říši
+
+Mantinea ( Mantineja )
+  Bibliografia :
+      Dzieje Grecji
 
 Mantua
   Luigi                  		                            1328-1360
@@ -12164,10 +12482,18 @@ Maroko
       Mocarstwa Świata
       Encyklopedie panovníků
 
+Maroneja
+  Bibliografia :
+      Dzieje Grecji
+
 Massageci
   Tomiris                                               ok.530 p.n.e.
   Bibliografia :
       Serce Azji
+
+Massilia
+  Bibliografia :
+      Dzieje Grecji
 
 Masyliowie
   Gaj		                                                ?
@@ -12178,6 +12504,17 @@ Państwo Matabelów
   Mzilikazi ( Moselekatse ) 	                          ?-1868 n.e.
   Bibliografia :
       Encyklopedie panovníků
+
+Mataram
+  Erlangga ( Airlangga ) 	                              1019-ok.1045
+  Bibliografia :
+      Encyklopedie panovníků
+
+Mathura
+  Ugrasena	                                            ?
+  Kansa		                                              ?
+  Bibliografia :
+      Mity pięciu części świata
 
 Królestwo Maukharijów
   Iszanavarman		                                      ?
@@ -12248,6 +12585,16 @@ Imperium Maurjów
       Svět helénismu
       Encyklopedie panovníků
       Říše slova - Jazykové dějiny světa
+
+Mausura
+  Abu l-Mundhir ´Umar	                                  ?
+  Bibliografia :
+      Rýžoviště zlata a doly drahokamů
+
+Mazowsze
+  Maslav                                                ?
+  Bibliografia :
+      Zrod střední a východní Evropy
 
 Mbau
   Banuve           	                                    ?
@@ -12388,6 +12735,10 @@ Państwo Medów Cykurtyjskich
   Bibliografia :
       Arménie
 
+Megalopolis
+  Bibliografia :
+      Svět helénismu
+
 Megara
   Theagenes	                                            ok.625 p.n.e. ( wg D.G. )
       		          	                                  ok.630 ( wg S.C. )
@@ -12396,6 +12747,10 @@ Megara
       Dzieje Grecji
       Starożytne Cywilizacje
       Zrození Řecka
+
+Megiddo
+  Bibliografia :
+      Starożytne Cywilizacje
 
 Księstwo Meklemburgii
   Przybysław               	                            1160-1178
@@ -12481,6 +12836,10 @@ Melitene ( Meliddu , Meliddi , Malatya )
       Kralovská tažení ve starém Orientu
       Dějiny Byzance
 
+Emirat Mentesze
+  Bibliografia :
+      Dějiny Byzance
+
 Królestwo Mercji
   Crida               	                                586-593 ( wg V.N.M.S.D. )
   Wibba             	                                  593-615 ( wg V.N.M.S.D. )
@@ -12532,6 +12891,14 @@ Merkici
   Bibliografia :
       Imperium Mongolskie
 
+Meroe
+  Bibliografia :
+      Starożytne Cywilizacje
+
+Merw
+  Bibliografia :
+      Dzieje dawnych Turków
+
 Messenia
   Kresfontes                                            ok.1120 p.n.e.
   Bibliografia :
@@ -12542,6 +12909,10 @@ Mesyna ( Zankle )
   Hippo         	                                      ok.340
   Bibliografia :
       Foiničané
+      Dzieje Grecji
+
+Metapontion
+  Bibliografia :
       Dzieje Grecji
 
 Milet
@@ -12766,6 +13137,10 @@ Vojvodství Moldavské
   Bibliografia :
       Karpatské hry
 
+Molossis
+  Bibliografia :
+      Dzieje Grecji
+
 Królestwo Molossów
   Neoptolemos	                                          ? ( wg Z.Ř. )
   Tharyps          	                                    ? ( wg S.K. )
@@ -12786,6 +13161,10 @@ Księstwo Mołdawii i Wołoszczyzny
   Aleksander Jan Cuza                                   1859-1866
   Bibliografia :
       Dynastie Świata
+
+Mon
+  Bibliografia :
+      Khmerové
 
 Księstwo Monako
   Dynastia Grimaldi
@@ -12953,6 +13332,11 @@ Mugisz
   Idrimi		                                            ?
   Bibliografia :
       Starożytny Bliski Wschód
+
+Mukurra
+  Kabri ibn Surur	                                      ?
+  Bibliografia :
+      Rýžoviště zlata a doly drahokamů
 
 Multan
   Abu l-Lahab al-Munabbih		                            ?
@@ -14882,6 +15266,10 @@ Pisa
       Zrození Řecka
       Klasické Řecko
 
+Plateje
+  Bibliografia :
+      Dzieje Grecji
+
 Pohaj ( P´ohai )
   Cicik Czung Siang	                                    ?
   Bibliografia :
@@ -15107,6 +15495,10 @@ Pont
       Tiberius – Pohnutý život císaře
       Říše slova - Jazykové dějiny světa
 
+Populonia
+  Bibliografia :
+      Zrození Řecka
+
 Portugalia
   Hrabstwo Portugalii
     Dynastia burgundzka
@@ -15177,12 +15569,20 @@ Portugalia
       Maurové a Evropa
       Encyklopedie panovníků
 
+Poseidonia
+  Bibliografia :
+      Zrození Řecka
+
 Potawatomiowie
   Washee                      	                        ? ( wg V.R.M. )
   Shabbona		                                          przed 1810 n.e.-? ( wg W.I.A.P. )
   Bibliografia :
       Wielcy Indianie Ameryki Północnej
       Války rudého muže
+
+Potidai
+  Bibliografia :
+      Dzieje Grecji
 
 Konfederacja Powhatana
   Powhatan ( Wahunsonacock )	                          przed 1590-po 1614 ( wg O.A. )
@@ -15227,6 +15627,14 @@ Państwo Pratiharów
   Mahéndrapála II		                                    942-?
   Bibliografia :
       Starověká Indie
+
+Preneste ( Praeneste )
+  Bibliografia :
+      Kronika Rzymu i Cesarstwa Rzymskiego
+
+Priene
+  Bibliografia :
+      Zrození Řecka
 
 Hrabstwo Prowansji
   Dynastia barcelońska
@@ -15291,6 +15699,10 @@ Królestwo Pugam
   Bibliografia :
       Říše slova - Jazykové dějiny světa
 
+Pydna
+  Bibliografia :
+      Dzieje Grecji
+
 Pylos
   Nestor               	                                ? ( wg D.R. i S.C. i Z.Ř. )
   Neleus         	                                      ok.1280 p.n.e. ( wg D.G. )
@@ -15317,6 +15729,10 @@ Quimbajowie
   Bibliografia :
       Války rudého muže
 
+Królewstwo Quito
+  Bibliografia :
+      Objavovanie Ameriky
+
 Rabi´a
   Abu Mansur Biszr		                                  ?
   Bibliografia :
@@ -15330,6 +15746,14 @@ Raki-Raki
 Ramanathapuram ( Ramnadu )
   Bibliografia :
       Říše slova - Jazykové dějiny světa
+
+Rarotonga
+  Bibliografia :
+      Mity pięciu części świata
+
+Księstwo Raszka
+  Bibliografia :
+      Dějiny Byzance
 
 Ratyzbona
   Eberhard 	                                            ?-1167 n.e.
@@ -15361,6 +15785,14 @@ Ripa Thraciae
   Rhaskuporis III                                       ok.12 n.e.
   Bibliografia :
       Antické Černomoří
+
+Risaba
+  Bibliografia :
+      Foiničané
+
+Królewstwo Rjukju
+  Bibliografia :
+      Dějiny Japonska
 
 Rodos
   Tlepolemos                                            ?
@@ -17656,6 +18088,14 @@ Silla
       Historia Chin
       Říše slova - Jazykové dějiny světa
 
+Simiru
+  Bibliografia :
+      Foiničané
+
+Simurrum
+  Bibliografia :
+      Starożytne Cywilizacje
+
 Sindh
   Dáhar                                                 ok.708 n.e.
   Bibliografia :
@@ -17688,6 +18128,10 @@ Sirakowie
   Arifarne(o,a)s                                        ok.310 p.n.e.
   Bibliografia :
       Antické Černomoří
+
+Siris
+  Bibliografia :
+      Dzieje Grecji
 
 Siuksowie ( Sioux )
   Żelazny Jastrząb		                                  ?
@@ -17740,7 +18184,15 @@ Siung Nu ( Hiung Nu , Xiongnu )
   Bibliografia :
       Historia Chin
 
+Siunik
+  Bibliografia :
+      Arménie
+
 Skiathos
+  Bibliografia :
+      Dzieje Grecji
+
+Skolos
   Bibliografia :
       Dzieje Grecji
 
@@ -17776,11 +18228,27 @@ Sogd
   Bibliografia :
       Serce Azji
 
+Królestwo Soissons ( Seussonów )
+  Bibliografia :
+      Starożytne Cywilizacje
+
+Sokoto
+  Bibliografia :
+      Mocarstwa Świata
+
 Soli
   Filokypros	                                          ?
   Aristokypros	                                        ?-497
   Bibliografia :
       Zrození Řecka
+
+Solos
+  Bibliografia :
+      Dzieje Grecji
+
+Somalia
+  Bibliografia :
+      Mocarstwa Świata
 
 Królestwo Sparty
   Menelaos                	                            ok.1200 p.n.e. ( wg D.G. )
@@ -17958,6 +18426,10 @@ Księstwo Spoleto
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
 
+Królestwo sPu-hrangs
+  Bibliografia :
+      Tybet - zarys historii kultury
+
 Sri Lanka ( Cejlon )
   Rawana			                                          ? ( wg M.P.C.Ś. )
   Dévánámpija Tissa	                                    247-207 ( wg E.P. )
@@ -18086,10 +18558,22 @@ Królestwo Suazi
   Bibliografia :
       Dynastie Świata
 
+Subartu
+  Bibliografia :
+      Starożytne Cywilizacje
+
+Suchu
+  Bibliografia :
+      Kralovská tažení ve starém Orientu
+
 Sudan
   Abbúd Ibráhím                                         1963-1964
   Bibliografia :
       Encyklopedie panovníků
+
+Suhi
+  Bibliografia :
+      Starożytny Bliski Wschód
 
 Królestwo Sussexu
   Ella            	                                    491-514
@@ -18586,6 +19070,10 @@ Szri Widżaja
       Starověká Indie
       Říše slova - Jazykové dějiny světa
 
+Szubria
+  Bibliografia :
+      Asýrie - od městského státu k říši
+
 Szugnan
   Bibliografia :
       Dzieje dawnych Turków
@@ -18833,6 +19321,10 @@ Tahiti
   Bibliografia :
       Mity pięciu części świata
 
+Tai
+  Bibliografia :
+      Historia Chin
+
 Tainowie
   Anakaona		                                          przed 1492-po 1493 ( wg V.R.M. )
   Hathuey                	                              przed 1505-1512 ( wg V.R.M. )
@@ -18897,6 +19389,10 @@ Tajlandia
 Taksila
   Bibliografia :
       Svět helénismu
+
+Tali
+  Bibliografia :
+      Historia Chin
 
 Tamassos
   Admesu                                                ok.650 p.n.e.
@@ -19071,6 +19567,10 @@ Thamudydzi
 Thermon
   Bibliografia :
       Dzieje Grecji
+
+Ti
+  Bibliografia :
+      Historia Chin
 
 Tiahuanaco
   Bibliografia :
