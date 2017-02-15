@@ -4,6 +4,7 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Dynasties of the World: A Chronological and Genealogical Handbook - John E. Morby
       - Black Robe - Brian Moore
+      - Category Theory in Context - Emily Riehl
       - The Beginning of Infinity - David Deutsch
       - Speaking Our Minds - Thom Scott-Phillips
       - Radical Enlightenment - Jonathan Israel
