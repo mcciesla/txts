@@ -419,6 +419,7 @@ Haycox , Ernest - Dylizans do Lordsburga - POL
 Henry , O. - Ksiezniczka i puma - POL
 Herlihy , James Leo - Nocny kowboj - POL
 Hillary , Edmund - Pohled z vrcholu - CZ
+Hofman , Ota - Pan Tau a tisic zazraku - O
 Horecka , Frantisek - Janek i skarb - POL
 Huxley , Aldous - Brave New World - O
 Jahn , Metodej - O zgubionym pierscionku - POL
@@ -501,6 +502,7 @@ May , Karel - Já , náčelník Apačů - CZ
             - Vinnetouovi dedicove - CZ
             - Duch Llana Estacada - CZ
             - V zemi draka - CZ
+            - Do zeme mandarinu - CZ
 McCarthy, Cormac - The Road - O
 Messner , Reinhold - Az na konec světa , výpravy v Himálaji a v Karakoramu - CZ
                    - Cho Oyu , tyrkysova bohyne - CZ
@@ -556,6 +558,7 @@ Sanders , Charles Wesley - Czarny gosc - POL
 Slama , Frantisek - Spiacy rycerze - POL
 Slowacki , Juliusz - S vámi jsem život žil ... - CZ
 Smeja , Fran. - Pierwszy szynkarz - POL
+Smith , Wilbur - Reka bohu - CZ
 Stapledon , Olaf - Last and First Men - O
                  - Star Maker - O
 Steinbeck , John - Of Mice and Men - O
@@ -569,7 +572,7 @@ Szklarski , Alfred - Tomek w Krainie Kangurow - O
                    - Tomek na Tropach Yeti - O
                    - Tomek na Wojennej Sciezce - O
 Szklarski , Alfred; Szklarska , Krystyna - Zloto gor czarnych - O
-Sulc , Ludovit - Anekdoty lidove Francie - O 
+Sulc , Ludovit - Anekdoty lidove Francie - O
 Tenn , William - W otchlani, wsrod umarlych - POL
                - Moje potrojne ja - POL
                - Wyzwolenie Ziemi - POL
@@ -596,7 +599,7 @@ Twain , Mark - Przygody Hucka - POL
              - Przygody Tomka Sawyera - POL
 Ulcak , Ladislav - Skarb pod Hukwaldskim zamkiem - POL
 Uminski , Wladyslaw - Wedrowiec lesny - O
-Van Tilburg Clark , Walter - Indianska studnia - POL 
+Van Tilburg Clark , Walter - Indianska studnia - POL
 Verne , Jules - Děti kapitána Granta - CZ
               - Dva roky prázdnin - CZ
               - Dwadziescia Tysięcy Mil Podmorskiej Żeglugi - POL
@@ -615,10 +618,10 @@ White , Ch. P. - Smecka planin - CZ
 White , Stewart Edward - Zlota zyla - POL
 Wormser , Richard - Mysliwy - POL
 Wyspianski , Stanislaw - Wesele - O
+Zacek , Jiri - Aprilova skola - O
 Żeromski , Stanisław - Wierna Rzeka - O
 --
 HIST TODO
 Fidel & Che - A revolutionary friendship
 Kolumbova flotila
 ?O Krakowie Ci ja!
-?Ród Indian Algonkinów
