@@ -413,6 +413,14 @@ Aleppo ( Jamchad )
       Dějiny Byzance
       Encyklopedie panovníků
 
+Algonkinowie
+  Ród Czajczaj
+    Orli Puch                                           ?
+  Ród Ałaszisz
+  Marcel Czajczaj                                       przed 1980-?
+  Bibliografia :
+      Ród Indian Algonkinów
+
 Almeria
   Chajrán		                                            ?-1028
   Zuhajr              	                                ?
@@ -7352,6 +7360,7 @@ Francja
 			  	                                              przed 1674 -? ( wg B.M. )
 			     	                                            1661-1715 ( marzec-? ) ( wg M.Ś. )
 				                                                przed 1670-? ( Ludvík XIV wg V.F.V. )
+                                                        przed 1697-? ( wg R.I.A. )
       Ludwik XV         	                              1715-1774  ( wg V.N.M.S.D. i D.Ś. i Tapsella )
 			     	                                            ok.1738 ( wg 100.N.V.S. )
 				                                                ? ( wg 100.N.U.W. i M.Ś. ) ( Ludvík XV wg V.F.V. )
@@ -7438,6 +7447,7 @@ Francja
 			Klasické Řecko
       Poszukiwanie języka doskonałego
       Říše slova - Jazykové dějiny světa
+      Ród Indian Algonkinów
 
 Wielkie Księstwo Frankfurtu
   Karol Teodor Dalberg                                  1810-1813
@@ -9091,6 +9101,7 @@ Liga Irokezów
     Aroghyideek(a)                                   	  ?
     Thayendanegea ( Joseph Brant )	                    1770-1807 ( ?-24.11. ) ( wg W.I.A.P. )
       					    	                                  ? ( Thayendanega wg V.R.M. )
+    Hendrick                                            ok.1760 ( wg R.I.A. )
     Klan Wilków
       Tehowaghwengaraghkwin ( Nicklaus Brant )		      przed 1742-1748
   Uwagi :
@@ -9098,6 +9109,7 @@ Liga Irokezów
   Bibliografia :
       Wielcy Indianie Ameryki Północnej
       Války rudého muže
+      Ród Indian Algonkinów
 
 Isin
   Iszbi-Erra             	                              2017-1985 ( Eszbi-Irra lub Eszbi-erra  wg S.B.W. ) ( wg D.Ś. ) ( Iszbierra wg S.C. )
@@ -15256,6 +15268,7 @@ Ottawowie
   Pontiac                    	                          1755-1769 ( wg W.I.A.P. )
                                                  	      przed 1762-1769 ( wg V.R.M. )
       				                                          przed 1763-1769 ( wg E.P. )
+                                                        przed 1764-? ( wg R.I.A. )
   Macatepilesis		                                      przed 1763-?
   Chavinon                	                            przed 1763-?
   Breton                     	                          przed 1763-?
@@ -15266,6 +15279,7 @@ Ottawowie
       Wielcy Indianie Ameryki Północnej
       Války rudého muže
       Encyklopedie panovníků
+      Ród Indian Algonkinów
 
 Konfederacja Ottawów , Potawatomiów i Czippewejów
   Pontiac                                               1755 n.e.-?
@@ -19009,7 +19023,7 @@ Siuksowie ( Sioux )
     Ta-tan-ka-psico                                    	?-1860 n.e.
     Ta-Tan-Ka-Yo-Tan-Ka ( Ta-Tan-Ka-I-Yo-Ta-Ke )        1860-1890 ( ?-14.12. ) ( Tatanka Yokanta ( Siedzący Byk , Tatanka Yotanka ) wg W.I.A.P. )
       			                                    		  	przed 1876-1890 ( Sedící býk wg V.R.M. )
-                                                        ? ( Sitting Bull wg I.N.G.S. )
+                                                        ? ( Sitting Bull wg I.N.G.S. i R.I.A. )
     Deszcz W Twarz               					              przed 1876-? ( wg W.I.A.P. ) ( Dešťová tvář wg V.R.M. )
     Żółć							   	                              przed 1876-po 1888
     Gall							   	                              przed 1876-? ( wg V.R.M. )
@@ -19022,6 +19036,7 @@ Siuksowie ( Sioux )
       Wielcy Indianie Ameryki Północnej
       Války rudého muže
       Indiański Napoleon Gór Skalistych
+      Ród Indian Algonkinów
 
 Siung Nu ( Hiung Nu , Xiongnu )
   Mao Tun ( Mei Tei )                                   ok.200 p.n.e.
@@ -21481,13 +21496,14 @@ Wampanoagowie
       				    	                                    przed 1620-ok.1662 ( Wesamequina wg W.I.A.P. )
       					                                        ? ( Massoit wg V.R.M. )
   Aleksander ( Wamsutta )        	                      1662-? ( wg W.I.A.P. )
-  Philip ( Metacomet, Met´a-com )	                      przed 1675-? ( wg O.A. )
+  Philip ( Metacomet, Met´a-com )	                      przed 1675-? ( wg O.A. ) ( Metacom ( Król Filip ) wg R.I.A. )
       				         	                                przed 1671-1676 ( ?-12.8. ) ( Pometacom wg W.I.A.P. )
       				         	                                przed 1675-po 1676 ( Metacom wg V.R.M. )
   Bibliografia :
       Objavovanie Ameriky
       Wielcy Indianie Ameryki Północnej
       Války rudého muže
+      Ród Indian Algonkinów
 
 Królestwo Wandalów
   Fredbal                           			              ?-417 n.e. ( wg K.R.I.C.R. )
@@ -22367,7 +22383,7 @@ Zimarra
   Bibliografia :
       Foiničané
 
-Zirih-Garan   
+Zirih-Garan
 
 Państwo Zirydów
   Bibliografia : Říše slova - Jazykové dějiny světa
@@ -22609,5 +22625,6 @@ Bibliografia :
 		[67] Poszukiwanie języka doskonałego , Umberto Eco , 2013
     [68] Říše slova - Jazykové dějiny světa , Nicholas Ostler , 2005
     [69] Indiański Napoleon Gór Skalistych , Arkady Fiedler , Marek Fiedler , 1991
+    [70] Ród Indian Algonkinów , Arkady Fiedler , Marek Fiedler , 1984
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
