@@ -6,14 +6,17 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Black Robe - Brian Moore
       - Category Theory in Context - Emily Riehl
       - The Beginning of Infinity - David Deutsch
+      - Kronika Slovanu - Helmold z Bosau
       - Speaking Our Minds - Thom Scott-Phillips
       - Radical Enlightenment - Jonathan Israel
       - Purely Functional Data Structures - Chris Okasaki
       - How to Solve It - George Pólya
+      - Stehovani narodu a sever Evropy - Jarmila Bednarikova
       - Colossus - Dennis Feltham Jones
       - Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian, Tom Griffiths
       - Nanga Parbat Pilgrimage: The Lonely Challenge - Hermann Buhl
       - Hermann Buhl Climbing Without Compromise - Reinhold Messner, Horst Hofler
+      - Dejiny Sasu - Widukind z Corvey
       - The Blank Slate - Steven Pinker
       - Feynman Lectures On Computation - Richard P. Feynman
       - Who’s #1? The Science of Rating and Ranking - Amy Langville , Carl Meyer
@@ -26,6 +29,8 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Artificial Intelligence for Humans, Volume 3: Deep Learning and Neural Networks - Jeff Heaton
       - Types and Programming Languages - Benjamin C. Pierce
       - Conquistadors of the Useless - Lionel Terray
+      - Dejiny Indie - Jaroslav Strnad
+      - Dejiny Libye - Eduard Gombar
       - The Nurture Assumption - Judith Rich Harris
       - Moby Dick - Herman Melville
       - No Two Alike - Judith Rich Harris
