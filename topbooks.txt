@@ -60,6 +60,7 @@ POP.SCIENCE :
         NEUROLOGIA:
             Zdumiewajaca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
         Červená královna - sexualita a vyvoj lidske prirozenosti ; Matt Ridley
+        Entomologie w obrazcich ; Vitalij Tanasijcuk
         Genom ; Matt Ridley
         Geny a osobnost - biologicke zaklady psychiky cloveka ; Dean Hamer , Peter Copeland
         Granice Życia ; John Postgate
@@ -124,6 +125,7 @@ POP.SCIENCE :
         Bitwy Morskie ; Edmund Kosiarz
         Burza Nad Pacyfikiem Tom II ; Zbigniew Flisowski
         Concertina ; Olgierd Terlecki
+        Czarne wampuny glosza wojne ; Jan Szczepanski
         Dějepis pro I. ročník gymnázií ; Tomás Jílek a kol.
         Dějiny Byzance ; Bohumila Zástěrová a kol.
         Dějiny Japonska ; Zdeňka Vasiljevová
@@ -210,29 +212,39 @@ POP.SCIENCE :
 	MATEMATYKA:
 	    Velká Fermatová věta ; Simon Singh
     PEDAGOGIKA:
-        Wspólnie Odkrywamy swiat ; Maria Wilczkowa
         Cvičení pro děti při vadném drzení těla ; Eva Haladová
+        Wspólnie Odkrywamy swiat ; Maria Wilczkowa
     PODRÓŻE:
         Asfaltowy Saloon ; Waldemar Łysiak
+        Az na konec světa , výpravy v Himálaji a v Karakoramu ; Reinhold Messner
+        Cervena svetlice na Nanga Parbatu ; Reinhold Messner
+        Cho Oyu , tyrkysova bohyne ; Reinhold Messner
+        Dersu Uzala ; Wladimir K. Arsenjew
         Dzikie Banany ; Arkady Fiedler
+        Gara jaka ; Desmond Varaday
+        Gronsko , "Takussagut" ; Karin Pavloskova
+        Into The Wild ; Jon Krakauer
+        Into Thin Air , A personal account of the Everest disaster ; Jon Krakauer
+        Karpatské hry ;  Miloslav Nevrlý
+        Kukuczka - opowiesc o najslynniejszym polskim himalaiscie ; Dariusz Kortko , Marcin Pietraszewski
+        Moj pionowy swiat - Jerzy Kukuczka
+        Moje Zycie na Krawedzi ; Reinhold Messner
+        The Mountains of My Life ; Walter Bonatti
         Ostrovy lidojedů ; Miloslav Stingl
+        Pohled z vrcholu - Edmund Hillary
+        Rio de Oro ; Arkady Fiedler
         Ryby spiewaja w Ukajali ; Arkady Fiedler
+        W Ussuryjskim Kraju ; Wladimir K. Arsenjew
+        Wspinaczka ; Anatolij Bukriejew , G. Weston DeWalt
         Zdobywamy Amazonkę ; Arkady Fiedler
         Zwierzęta z lasu dziewiczego ; Arkady Fiedler
-        Wspinaczka ; Anatolij Bukriejew , G. Weston DeWalt
-        W Ussuryjskim Kraju ; Wladimir K. Arsenjew
-        Kukuczka - opowiesc o najslynniejszym polskim himalaiscie ; Dariusz Kortko , Marcin Pietraszewski
-        Dersu Uzala ; Wladimir K. Arsenjew
-        Rio de Oro ; Arkady Fiedler
-        Gara jaka ; Desmond Varaday
     PSYCHOLOGIA:
         Thinking Fast and Slow ; Daniel Kahneman
     SOCIOLOGIA:
-        Outliers - The Story of Success ; Malcolm Gladwell
         The Better Angels of Our Nature - A History of Violence and Humanity ; Steven Pinker
+        Outliers - The Story of Success ; Malcolm Gladwell
     TURYSTYKA:
     	  Pohyb v neledovcových velehorách ; Alexander Krsko
-    	  Karpatské hry ;  Miloslav Nevrlý
     WOJSKOWOSĆ:
         SAMOLOTY:
             Atlas vojenské techniky - Vrtulníky ; Michal Zdobinský
@@ -250,8 +262,10 @@ POP.SCIENCE :
     Vzpoura genů ; Pavel Houser
 OTHER :
     HUMOR:
-        Murphyho zákony a osobní počítače ; Karl Wagner
+        Anekdoty lidove Francie ; Ludovit Sulc
         Darwinovy ceny , evoluce v praxi ; Wendy Northcutt
+        Klub Masztalskiego, tom piaty ; Aleksander Trzaska
+        Murphyho zákony a osobní počítače ; Karl Wagner
     PRAWO:
         Člověk za volantem , učebnice pro autoskoly
     SACHY:
@@ -262,116 +276,114 @@ OTHER :
     Guinessova kniha rekordů 1988
     Mała Biblia Dla Dzieci ; Pat Alexander
     Mój zbiór opowiesci biblijnych ; International Bible Students Association
+    Plachetnice ; Karl-Heinz Wieland
     Pravidla pro hru Canasta ; F.Kolár
     Svět záhad Arthura C. Clarka A-Z od Atlantidy k Zombie ; Simon Welfare , John Fairley
     Twoja młodosć korzystaj z niej jak najlepiej ; International Bible Students Association
     Vádemékum pro kazdou zivotní situaci od kočárku do důchodu aneb průvodce zivotem ; Česká pojistovna
     Wszyscy Jestesmy Dziećmi Bogów ; Erich Von Däniken
     Z Powrotem Do Gwiazd ; Erich Von Däniken
-    Plachetnice ; Karl-Heinz Wieland
 --------------------------------------------------------------------------------
-Aldiss , Brian - Superhračky vydrzí celé léto - CZ
-			   - Superhračky, kdyz přijde zima - CZ
-			   - Superhračky v dalsích ročních obdobích - CZ
-			   - Nové apogeum - CZ
-			   - III - CZ
-			   - Stará mytologie - CZ
-			   - Bez hlavy - CZ
-			   - Hovězí - CZ
-			   - Nic v zivotě nestačí - CZ
-			   - Matematická zálezitost - CZ
-			   - Stopka - CZ
+Aldiss , Brian - Bez hlavy - CZ
+               - Bělejsí Mars - CZ
+               - Galaxie Z - CZ
+               - Hovězí - CZ
+               - III - CZ
+               - Matematická zálezitost - CZ
+               - Nic v zivotě nestačí - CZ
+               - Nové apogeum - CZ
+               - Poznávací schopnost a zárovka - CZ
+               - Stará mytologie - CZ
+               - Stát se motýlem - CZ
+               - Steppenpferd - CZ
+               - Stopka - CZ
+               - Superhračky, kdyz přijde zima - CZ
+               - Superhračky v dalsích ročních obdobích - CZ
+               - Superhračky vydrzí celé léto - CZ
+               - Temná společnost - CZ
 			   - Tři druhy samoty - CZ
-			   - Steppenpferd - CZ
-			   - Poznávací schopnost a zárovka - CZ
-			   - Temná společnost - CZ
-			   - Galaxie Z - CZ
 			   - Zázraky utopie - CZ
-			   - Stát se motýlem - CZ
-			   - Bělejsí Mars - CZ
-Alexander , Pat - Mala Biblia dla dzieci - POL
 Athanas , Verne - Przeprawa przez most - POL
 Badalska , Wiera - Przepraszam, smoku - O
 Bahdaj , Adam - Pilot i Ja - O
-Baxter , George Owen - Pokusa - POL
-                     - Droga do San Triste - POL
-Bonatti , Walter - The Mountains of My Life - EN
-Borges , Jorge Luis - The Book of Imaginary Beings - EN
-					- Obecné dějiny hanebnosti - CZ
-					- Muz z růzového nározí - CZ
-					- Teologem i po smrti - CZ
-					- Komnata soch - CZ
-					- Příběh dvou muzů, kteří měli sen - CZ
-					- Podvedený čaroděj - CZ
-					- Inkoustové zrcadlo - CZ
-					- Muhammadův dvojník - CZ
-					- Velkodusný nepřítel - CZ
-					- Ars Poetica - EN
-					- Fictions - EN
-                        - The Garden of Forking Paths - EN
-                            - Tlon, Uqbar, Orbis Tertius - EN
-                            - Pierre Menard, Author of the Quixote - EN
-                            - The Circular Ruins - EN
-                            - The Lottery in Babylon - EN
-                            - A Survey of the Works of Herbert Quain - EN
-                            - The Library of Babel - EN
-                            - The Garden of Forking Paths - EN
-                        - Artifices - EN
-                            - Funes, His Memory - EN
-                            - The Shape of the Sword - EN
-                            - The Theme of the Traitor and the Hero - EN
-                            - Death and the Compass - EN
-                            - The Secret Miracle - EN
-                            - Three Versions of Judas - EN
-                            - The End - EN
-                            - The Cult of the Phoenix - EN
-                            - The South - EN
-					- The Aleph - EN
+Baxter , George Owen - Droga do San Triste - POL
+                     - Pokusa - POL
+Borges , Jorge Luis - The Aleph - EN
                         - The Aleph - EN
-    				        - The Immortal - EN
-    					    - The Dead Man - EN
-        					- The Theologians - EN
-        					- Story of the Warrior and the Captive Maiden - EN
-        					- A Biography of Tadeo Isidoro Cruz (1829-1874) - EN
-        					- Emma Zunz - EN
-        					- The House of Asterion - EN
-        					- The Other Death - EN
-        					- Deutsches Requiem - EN
-        					- Averroes' Search - EN
-        					- The Zahir - EN
-        					- The Writing of God - EN
-        					- Ibn-Hakam al-Bokhari, Murdered in His Labyrinth - EN
-        					- The Two Kings and the Two Labyrinths - EN
-        					- The Wait - EN
-        					- The Man on the Threshold - EN
-        					- The Aleph - EN
+                            - The Aleph - EN
+                            - Averroes' Search - EN
+                            - A Biography of Tadeo Isidoro Cruz (1829-1874) - EN
+                            - The Dead Man - EN
+                            - Deutsches Requiem - EN
+                            - Emma Zunz - EN
+                            - The House of Asterion - EN
+                            - Ibn-Hakam al-Bokhari, Murdered in His Labyrinth - EN
+                            - The Immortal - EN
+                            - The Man on the Threshold - EN
+                            - The Other Death - EN
+                            - Story of the Warrior and the Captive Maiden - EN
+                            - The Theologians - EN
+                            - The Two Kings and the Two Labyrinths - EN
+                            - The Wait - EN
+                            - The Writing of God - EN
+                            - The Zahir - EN
                         - The Maker - EN
-                            - The Maker - EN
-                            - Dreamtigers - EN
-                            - A Dialog About a Dialog - EN
-                            - Toenails - EN
-                            - Covered Mirrors - EN
                             - Argumentum Ornithologicum - EN
+                            - Borges and I - EN
                             - The Captive - EN
-                            - The Mountebank - EN
+                            - Covered Mirrors - EN
                             - Delia Elena San Marco - EN
+                            - A Dialog About a Dialog - EN
                             - A Dialog Between Dead Men - EN
-                            - The Plot - EN
-                            - A Problem - EN
-                            - The Yellow Rose - EN
-                            - The Witness - EN
+                            - Dreamtigers - EN
+                            - Everything and Nothing - EN
+                            - Inferno, I, 32 - EN
+                            - The Maker - EN
                             - Martin Fierro - EN
+                            - The Mountebank - EN
                             - Mutations - EN
                             - Parable of Cervantes and the Quixote - EN
-                            - Paradiso, XXXI, 108 - EN
                             - Parable of the Palace - EN
-                            - Everything and Nothing - EN
+                            - Paradiso, XXXI, 108 - EN
+                            - The Plot - EN
+                            - A Problem - EN
                             - Ragnarok - EN
-                            - Inferno, I, 32 - EN
-                            - Borges and I - EN
+                            - Toenails - EN
+                            - The Witness - EN
+                            - The Yellow Rose - EN
                         - Museum - EN
-                            - On Exactitude and Science - EN
                             - In Memoriam, J.F.K. - EN
+                            - On Exactitude and Science - EN
+                    - Ars Poetica - EN
+                    - The Book of Imaginary Beings - EN
+                    - Fictions - EN
+                        - Artifices - EN
+                            - The Cult of the Phoenix - EN
+                            - Death and the Compass - EN
+                            - The End - EN
+                            - Funes, His Memory - EN
+                            - The Secret Miracle - EN
+                            - The Shape of the Sword - EN
+                            - The South - EN
+                            - The Theme of the Traitor and the Hero - EN
+                            - Three Versions of Judas - EN
+                        - The Garden of Forking Paths - EN
+                            - The Circular Ruins - EN
+                            - The Garden of Forking Paths - EN
+                            - The Library of Babel - EN
+                            - The Lottery in Babylon - EN
+                            - Pierre Menard, Author of the Quixote - EN
+                            - A Survey of the Works of Herbert Quain - EN
+                            - Tlon, Uqbar, Orbis Tertius - EN
+                    - Inkoustové zrcadlo - CZ
+                    - Komnata soch - CZ
+                    - Muhammadův dvojník - CZ
+                    - Muz z růzového nározí - CZ
+					- Obecné dějiny hanebnosti - CZ
+                    - Podvedený čaroděj - CZ
+                    - Příběh dvou muzů, kteří měli sen - CZ
+					- Teologem i po smrti - CZ
+					- Velkodusný nepřítel - CZ
 Brooks , Max - World War Z - O
 Brown , Dale - Srebrna wieza - POL
 Brown , Will C. - Kowboj Kolumb - POL
@@ -380,25 +392,25 @@ Brzechwa , Jan - Na Straganie - O
                - Szelmostwa Lisa Witalisa - O
 Burgess , Anthony - Clockwork Orange - O
 Burroughs , Edgar Rice - Powrot Tarzana - POL
-Carrol , Lewis - Through the Looking Glass - O
-			   - Alice's Adventures in Wonderland - O
+Carrol , Lewis - Alice's Adventures in Wonderland - O
+               - Through the Looking Glass - O
 Chmielewski , Henryk Jerzy - Tytus, Romek i A'Tomek Ksiega I - O
 Clark , Arthur C. - Miasto i Gwiazdy - POL
 Conrad , Joseph - Heart of Darkness - O
-Cooper , James Fenimore - Pionierowie - POL
-                        - Jezioro Smierci - POL
+Cooper , James Fenimore - Jezioro Smierci - POL
                         - Mlody orzel - POL
-                        - Tropiciel sladow - POL
+                        - Pionierowie - POL
                         - Szpieg - POL
+                        - Tropiciel sladow - POL
 Czerkawska , Maria - Żółte Chodaczki - O
 Dabrowska , Maria - Noce i Dnie - O
 Defoe , Daniel - Robinson Crusoe - CZ
-Dick , Philip K. - Ubik - O
-                 - Sni androidi o elektrickych oveckach - CZ
+Dick , Philip K. - Sni androidi o elektrickych oveckach - CZ
+                 - Ubik - O
 Dvoracek , Karel - O utopcach - POL
 Eco , Umberto - Diariusz najmniejszy - POL
-              - Jméno růze - CZ
               - Foucaultovo kyvadlo - CZ
+              - Jméno růze - CZ
               - Tajemniczy plomien krolowej Loany - POL
 Evarts , Hal George - Ostatnia woda - POL
 Feynman , Richard Phillips - Snad ti nedělají starosti cizí názory - CZ
@@ -408,9 +420,9 @@ Foster , Bennett - Truciciel - POL
 Fuks , Ladislav - Spalovač mrtvol - O
 Glut , Donald F. ; Lucas , George - Hvezdne valky , Imperium vraci uder - CZ
 Golding , William - Lord of the Flies - O
-Gombrowicz , Witold - Przewodnik po filozofii w szesć godzin i kwadrans - POL
-                    - Ferdydurke - O
+Gombrowicz , Witold - Ferdydurke - O
                     - Kosmos - O
+                    - Przewodnik po filozofii w szesć godzin i kwadrans - POL
 Gree , Alain ; Gree Gerard - Tomas objavuje prirodu - SVK
 Grey , Zane - Osiol Tappana - POL
 Guthrie , A. B. - Gorski lek - POL
@@ -418,7 +430,6 @@ Harte , Bret - Pocalunek - POL
 Haycox , Ernest - Dylizans do Lordsburga - POL
 Henry , O. - Ksiezniczka i puma - POL
 Herlihy , James Leo - Nocny kowboj - POL
-Hillary , Edmund - Pohled z vrcholu - CZ
 Hofman , Ota - Pan Tau a tisic zazraku - O
 Horecka , Frantisek - Janek i skarb - POL
 Huxley , Aldous - Brave New World - O
@@ -426,8 +437,8 @@ Jahn , Metodej - O zgubionym pierscionku - POL
 Jansky , Filip - Nebesti jezdci - O
 Joyce , James - Dubliners - O
 Jura , Fr. ; Jura , J. - O Ondraszku - POL
-Kafka , Franz - Zamek - POL
-              - Proces - POL
+Kafka , Franz - Proces - POL
+              - Zamek - POL
 Kahn , James - Powrot Jedi - POL
 Kantor , Mackinlay - Niezwykly powrot - POL
 Keyes , Daniel - Flowers for Algernon - O
@@ -435,21 +446,18 @@ Kierst , Jerzy - Czy to Kraków - O
 Kinnan-Rawlings , Marjorie - Roczniak - POL
 Koreywo , Marek - Ludzie na Ksiezycu - O
 Kownacka , Maria - Ogródek - O
-Krakauer , Jon - Into Thin Air , A personal account of the Everest disaster - O
-               - Into The Wild - O
 Kraszewski , Józef Ignacy - Chata za Wsia - O
-Kukuczka , Jerzy - Moj pionowy swiat - O
 L'Amour , Louis - Srebrny kanion - POL
-Le Guin , Ursula K. - The Dispossessed - O
-                    - The Left Hand of Darkness - O
-                    - A Wizard of Earthsea - O
-                    - The Tombs of Atuan - O
+Le Guin , Ursula K. - City of Illusions - O
+                    - The Dispossessed - O
                     - The Farthest Shore - O
-                    - Tehanu - O
-                    - The Word for World is Forest - O
-                    - Rocannon's World - O
+                    - The Left Hand of Darkness - O
                     - Planet of Exile - O
-                    - City of Illusions - O
+                    - Rocannon's World - O
+                    - Tehanu - O
+                    - The Tombs of Atuan - O
+                    - A Wizard of Earthsea - O
+                    - The Word for World is Forest - O
 Lem , Stanisław - Bajki robotów - O
 				- Cyberiada - O
 				- Człowiek z Marsa - O
@@ -466,7 +474,7 @@ Lem , Stanisław - Bajki robotów - O
                 - Opowiesci o pilocie Pirxie - O
                 - Pamiętnik Znaleziony w Wannie - O
                 - Próżnia Doskonała - O
-                - Rasa drapiezcow - O
+                - Rasa Drapieżców - O
                 - Sex Wars - O
                 - Solaris - O
                 - Summa Technologiae - CZ
@@ -474,75 +482,77 @@ Lem , Stanisław - Bajki robotów - O
                 - Swiat Na Krawędzi , ze Stanislawem Lemem rozmawia Tomasz Fialkowski - O
                 - Tajemnica Chińskiego Pokoju - O
                 - Tako rzecze Lem , ze Stanislawem Lemem rozmawia Stanislaw Beres - O
-                - Rasa Drapieżców - O
                 - Teksty Ostatnie - O
 Lofting , Hugh - Doktor Dolittle i zielona kanarzyca - POL
-London , Jack - Syn Slonca - POL
+London , Jack - Corka sniegow - POL
               - Jerry z wysp - POL
-              - Corka sniegow - POL
+              - Syn Slonca - POL
 Loomis , Noel M. - Kiedy dzieci placza z glodu - POL
 Lucas , George - Gwiezdne wojny - POL
 Ławicki , Jerzy - Uważaj , Uważaj - O
 Machiavelli , Niccolo - Vladar - CZ
 Macourek , Milos ; Saudek , Kaja - Peruansky denik - O
 Martin , George R.R. - A Clash of Kings - O
+                     - Dreamsongs , A Rretrospective Book One - O
                      - A Feast for Crows - O
                      - A Storm of Swords - O
-                     - Dreamsongs , A Rretrospective Book One - O
 Martinek , Vojtech - O slonecznej pannie - POL
-May , Karel - Já , náčelník Apačů - CZ
+May , Karel - Blekitno-purpurovy Matuzalem - POL
+            - Czarny mustang - POL
+            - Derwisz - POL
+            - Do zeme mandarinu - CZ
+            - Duch Llana Estacada - CZ
+            - Já , náčelník Apačů - CZ
+            - Karawana niewolnikow - POL
             - Mahdi - CZ
             - Old Surehand - POL
-            - Blekitno-purpurovy Matuzalem - POL
-            - Derwisz - POL
-            - Karawana niewolnikow - POL
-            - Pustynia zaglady - POL
+            - Pousti a prerii - CZ
             - Przez kraine Skipetarow - POL
-            - Czarny mustang - POL
-            - Vinnetouovi dedicove - CZ
-            - Duch Llana Estacada - CZ
+            - Pustynia zaglady - POL
             - V zemi draka - CZ
-            - Do zeme mandarinu - CZ
+            - Vinnetou - CZ
+            - Vinnetouovi dedicove - CZ
+            - Zavet Vinnetoua - CZ
 McCarthy, Cormac - The Road - O
-Messner , Reinhold - Az na konec světa , výpravy v Himálaji a v Karakoramu - CZ
-                   - Cho Oyu , tyrkysova bohyne - CZ
-                   - Moje Zycie na Krawedzi - POL
-                   - Cervena svetlice na Nanga Parbatu - CZ
 Miłosz , Czesław - Ziemia Ulro - O
 Mitchell , David - Cloud Atlas - O
 Morcinek , Gustaw - O tym, jak Zuzanka poszla w kumy do utopcow - POL
+Morrell , David - Rambo , pro pritele (III) - CZ
+Muller , Jaroslav - Pratele zeleneho udoli - O
 Neff , Ondrej ; Saudek , Kaja - Arnal & dva draci zuby - O
+Nemecek , Jaroslav ; Hojka , Stanislav - Ctyrlistek , Cesta kolem sveta - O
+Nemecek , Jaroslav ; Novy , Tomas - Ctyrlistek , Zachrante Lidusku - O
 Nesvadba , Josef ; Saudek , Kaja - Po stopach snezneho muze - O
-Nienacki , Zbigniew - Pan samochodzik i templariusze - O
-                    - Niesamowity dwor - O
+Nienacki , Zbigniew - Niesamowity dwor - O
+                    - Pan samochodzik i templariusze - O
 Niven , Larry - Ringworld - O
 Nohejl , Bohumil - Objavovanie planety Michovice - SVK
+Novakova , Zuzana - Natalie neni sama - O
 Okudzava , Bulat - Zrusené divadlo - CZ
 Ondrusz , Jozef - O dobrej Hance i zlej Hanie - POL
 Orwell , George - 1984 - O
 Packard , Edward - Vesmirny upir - CZ
 Patchett , Mary Elwyn - Brumby - POL
-Pavloskova , Karin - Gronsko , "Takussagut" - O
 Pendexter , Hugh - Lata walki - POL
 Petrus , Jan - Zlotoglowy waz - POL
 Pleva , Josef V. - Robinson Crusoe - O
-Poe , Edgar Allan - The Fall of the House of Usher - O
-					The Oval Portrait - O
-					The Gold-Bug - O
-					The Black Cat - O
-					Ligeia - O
-					The Masque of the Red Death - O
-					William Wilson - O
-					The Murders in the Rue Morgue - O
-					The Purloined Letter - O
+Poe , Edgar Allan - The Black Cat - O
+                  - The Fall of the House of Usher - O
+                  - The Gold-Bug - O
+                  - Ligeia - O
+                  - The Masque of the Red Death - O
+                  - The Murders in the Rue Morgue - O
+				  -	The Oval Portrait - O
+                  - The Purloined Letter - O
+				  - William Wilson - O
 Pratchett , Terry - Thud! - O
 Prus , Boleslaw - Faraon - O
 Przymanowski , Janusz - Czterej pancerni i pies - O
 Pyle , Howard - Wesole przygody Robin Hooda - POL
 Raine , William Macleod - Ostatnie ostrzezenie - POL
 Rhodes , Eugene Manlove - Za ta pustynia - POL
-Roberts , Fred - Wyklety z Rio Grande - POL
-               - Walka o honor - POL
+Roberts , Fred - Walka o honor - POL
+               - Wyklety z Rio Grande - POL
 Rohel , Jan - Maryczka i pan podziemi - POL
 Rowling , J.K. - Harry Potter and the Philosopher's Stone - O
                - Harry Potter and the Chamber of Secrets - O
@@ -566,35 +576,33 @@ Stevenson , R. L. - Wyspa skarbow - POL
 Strugačtí, Arkadij a Boris - Piknik u cesty - CZ
 Swift , Jonathan - Podroze Gulliwera - POL
 Szczepanska , Nora - Ucho wodza - O
-Szklarski , Alfred - Tomek w Krainie Kangurow - O
-                   - Tajemnicza Wyprawa Tomka - O
-                   - Tomek w Gran Chaco - O
+Szklarski , Alfred - Tajemnicza Wyprawa Tomka - O
                    - Tomek na Tropach Yeti - O
                    - Tomek na Wojennej Sciezce - O
+                   - Tomek w Gran Chaco - O
+                   - Tomek w Krainie Kangurow - O
 Szklarski , Alfred; Szklarska , Krystyna - Zloto gor czarnych - O
-Sulc , Ludovit - Anekdoty lidove Francie - O
-Tenn , William - W otchlani, wsrod umarlych - POL
-               - Moje potrojne ja - POL
-               - Wyzwolenie Ziemi - POL
+Tenn , William - Flirgelflip - POL
                - Kazda kocha Irvinga Bommera - POL
-               - Flirgelflip - POL
-               - Najemcy - POL
                - Kustosz - POL
+               - Moje potrojne ja - POL
+               - Najemcy - POL
+               - W otchlani, wsrod umarlych - POL
+               - Wyzwolenie Ziemi - POL
 Tetens , Liboslav - Tanecznica - POL
 Thomas , Craig - Firefox - POL
                - Odzyskac Firefoxa - POL
 Thompson , Thomas - Mlode prawo w Cimarron Crossing - POL
-Tolkien , John Ronald Ruel - The Hobbit - O
+Tolkien , John Ronald Ruel - The Children of Húrin - O
+                           - The Hobbit - O
                            - The Lord of the Rings - O
-                           - The Children of Húrin - O
                            - Silmarillion - O
                            - Unfinished Tales - O
 Trenecky , Ladislav - Kopalnia z kudlatymi gornikami - POL
-Trzaska , Aleksander - Klub Masztalskiego, tom piaty - O
 Tuwim , Irena - Co okret wiezie - O
 Tuwim , Julian - Cuda i Dziwy - O
-               - Wiersze Skandaliczne - O
                - Wiersze dla dzieci - O
+               - Wiersze Skandaliczne - O
 Twain , Mark - Przygody Hucka - POL
              - Przygody Tomka Sawyera - POL
 Ulcak , Ladislav - Skarb pod Hukwaldskim zamkiem - POL
@@ -603,14 +611,14 @@ Van Tilburg Clark , Walter - Indianska studnia - POL
 Verne , Jules - Děti kapitána Granta - CZ
               - Dva roky prázdnin - CZ
               - Dwadziescia Tysięcy Mil Podmorskiej Żeglugi - POL
-              - Robur Zdobywca - POL
               - Pan swiata - POL
               - Pilot dunajskich statkow - POL
+              - Robur Zdobywca - POL
 Vysockij , Vladimir - Nepiju sám - CZ
 Waltari , Mika - Trylogia Rzymska - POL
 Weber , Joe - Kryptonim Shadow - POL
-Weigel J. , Saudek , Kaja - Lips Tullian - Stribrny poklad - O
-                                         - Konec Sahrbergovy bandy - O
+Weigel J. , Saudek , Kaja - Lips Tullian - Konec Sahrbergovy bandy - O
+                                         - Stribrny poklad - O
 Wernerowa , Jadwiga - Opowiadania o zwierzetach - O
 Wernic , Wieslaw - Slonce Arizony - O
 Westerman , P. F. - Poklad ze San Marco - CZ
@@ -622,6 +630,5 @@ Zacek , Jiri - Aprilova skola - O
 Żeromski , Stanisław - Wierna Rzeka - O
 --
 HIST TODO
-Fidel & Che - A revolutionary friendship
 Kolumbova flotila
 ?O Krakowie Ci ja!
