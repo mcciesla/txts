@@ -47,6 +47,10 @@ SCIENCE :
         AI:
         	NN:
         		Lower Bounds for the Computational Power of Networks of Spiking Neurons ; Wolfgang Maass
+        PROGRAMMING LANGUAGES
+          C++ - programovací jazyk ; Bjarne Stroustrup
+          The D Programming Language ; Andrei Alexandrescu
+          Modern C++ Design - Generic Programming and Design Patterns Applied ; Andrei Alexandrescu
         Hry s pocitacem ; Stanislav Vejmola
         Principy počítačů ; Václav Jirovský
     MATEMATYKA:
