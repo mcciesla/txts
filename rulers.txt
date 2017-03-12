@@ -3571,6 +3571,7 @@ Królestwo Burgundów
     Gundachar            	                              411-436 ( wg D.Ś. i Tapsella )
       			 	                                          przed 435-437 ( wg H. )
       				                                          ?-436 ( Gundahar wg E.P. )
+                                                        ok.450 ( Gundaharius wg S.M. )
     Gundowech          	                                436-474 ( wg D.Ś. )
                                                   	    436-473 ( Gunderyk wg Tapsella )
       		                	                            ?-473 ( Gundewig wg K.R.I.C.R. )
@@ -3591,6 +3592,7 @@ Królestwo Burgundów
       Kronika Rzymu i Cesarstwa Rzymskiego
       Hunové
       Encyklopedie panovníků
+      Severské mýty
 
 Burjaci
 
@@ -5427,6 +5429,8 @@ Dandariowie
 
 Dania
   Skiold			                                          ok.40 p.n.e.-ok.1 n.e. ( wg V.N.M.S.D. )
+  Fróði                                                 ? ( wg S.M. )
+  Hrólf Tyčka                                           ? ( wg S.M. )
   Księstwo Danii
     Sigurd                  	                          794-824 ( wg V.N.M.S.D. )
       				                                          ? ( wg Z.S.A.V.E. )
@@ -5562,6 +5566,7 @@ Dania
       Fridrich Barbarossa – císař a rytíř
       Encyklopedie panovníků
       Říše slova - Jazykové dějiny světa
+      Severské mýty
 
 Księstwo Deheubarth
   Rhodri Mawr                    	                      872-878
@@ -5916,6 +5921,7 @@ Królestwo East-Anglii
   Athelstan     	                                      ok.828-837
   Ethelweard	                                          ok.837-850
   Edmund       	                                        855-870 ( wg Tapsella i E.P. )
+                                                        ?-870 ( wg S.M. )
   Guthrum      	                                        880-890
   Eric              	                                  890-902
   Uwagi :
@@ -5924,6 +5930,7 @@ Królestwo East-Anglii
       Velká nástěnná mapa světových dějin
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Encyklopedie panovníků
+      Severské mýty
 
 Ebla
   Bibliografia :
@@ -7544,6 +7551,7 @@ Frankowie
       Sigibert I                      	                561-575 ( wg Tapsella, D.Ś. i V.N.M.S.D. )
       					                                        przed 565-? ( Siegesbert wg D.D.T. )
       Chilperyk I                   	                  561-584 ( wg Tapsella , D.Ś. i V.N.M.S.D. i E.P. )
+                                                        ok.550 ( Chilperich wg S.M. )
       Guntram                       	                  561-593 ( wg D.Ś. )
       	    				                                    561-596 ( wg V.N.M.S.D. )
           					                                    561-592 ( wg Tapsella )
@@ -7614,6 +7622,7 @@ Frankowie
       Encyklopedie panovníků
       Dzieje dawnych Turków
       Říše slova - Jazykové dějiny světa
+      Severské mýty
 
 Królestwo Franków Wschodnich
   Dynastia Karolingów
@@ -8859,6 +8868,7 @@ Hunowie
       					                                        przed 441-453 ( wg S.C. )
       					                                        ? ( wg D.D.T. )
                                                         435-453 ( Attila wg Ř.S.J.Ď.S. )
+                                                        ?-451 ( wg S.M. )
   Ellak                                           	    ? ( wg H. )
   Érnach		              	                            przed 456-po 459 ( wg H. )
   Dengizich		          	                              przed 456-469 ( wg H. )
@@ -8876,6 +8886,7 @@ Hunowie
       Dějiny Byzance
       Zrod střední a východní Evropy
       Dzieje dawnych Turków
+      Severské mýty
 
 Huroni ( Wyandotowie )
   Orontony                                              przed 1747 n.e.-? ( wg V.R.M. )
@@ -14803,18 +14814,22 @@ Królestwo Norwegii
   Eystein                     	                        700-730
   Halfdan II                 	                          730-784
   Gudrod Gierstade	                                    784-824
-  Halfdan III                	                          824-863
+  Halfdan III                	                          824-863 ( wg V.N.M.S.D. )
+                                                        ? ( Hálfdan Černý wg S.M. )
   Dynastia z Vestfold
     Harald I Pięknowłosy                  	            858-928 ( wg D.Ś. )
                                                         863-934 ( wg V.N.M.S.D. )
                                                         ok.870-940 ( wg Tapsella )
       						                                      ok.860-933 ( Harald I Krásnovlasý wg E.P. )
+                                                        ok.900 ( Harald Krásnovlasý wg S.M. )
     Eryk I Krwawy Topór                 		            928-933 ( wg D.Ś. )
                                                         934-936 ( wg V.N.M.S.D. )
                                                         ok.940-ok.945 ( wg Tapsella )
+                                                        ? ( Erik Krvavá Sekyra wg S.M. )
     Haakon I Dobry                           	          933-959 ( wg D.Ś. )
                                                         936-963 ( wg V.N.M.S.D. )
                                                         ok.945-ok.960 ( wg Tapsella )
+                                                        ?-960 ( Hájon Mocný wg S.M. )
     Harald II Szara Opończa              	              959-974 ( wg D.Ś. )
                                                         963-977 ( wg V.N.M.S.D. )
                                                         ok.960-ok.970 ( wg Tapsella )
@@ -14905,6 +14920,7 @@ Królestwo Norwegii
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Zrod střední a východní Evropy
       Encyklopedie panovníků
+      Severské mýty
 
 Norymberga
   Dynastia Hohenzollernów
@@ -15333,7 +15349,7 @@ Osroene
       Dzieje Rzymu
 
 Ostrogoci ( Greutungowie )
-  Ermanaryk          	                                  ok.350 n.e. ( wg A.Č. )
+  Ermanaryk          	                                  ok.350 n.e. ( wg A.Č. ) ( Ermanarich wg S.M. )
       				                                          ? ( Ermanarich wg M.A.E. )
       		         		                                  ?-374 (Ermanarich wg K.R.I.C.R. )
                                            		          przed 375-? (Ermanarich wg H. )
@@ -15391,6 +15407,7 @@ Ostrogoci ( Greutungowie )
       Zrod střední a východní Evropy
       Encyklopedie panovníků
       Židé v římském světě
+      Severské mýty
 
 Ottawowie
   Pontiac                    	                          1755-1769 ( wg W.I.A.P. )
@@ -20135,6 +20152,7 @@ Szwajcaria
       Fidel & Che - A Revolutionary Friendship
 
 Królestwo Szwecji
+  Olaf Kálačka                                          ? ( wg S.M. )
   Gorm                         		                      714-750
   Ragnor Lodbrog       		                              750-ok.825
   Regnard Lobrick       		                            ok.825-ok.865
@@ -20145,7 +20163,7 @@ Królestwo Szwecji
       				 	                                        ? ( Erik Vítězný wg Z.S.A.V.E. )
       					                                        970-994 ( Erik VII Vítězný wg E.P. )
     Olaf Skötkonung      		                            995-1022 ( wg D.Ś. i Tapsella )
-                                                     		994 -1026 ( wg V.N.M.S.D. )
+                                                     		994-1026 ( wg V.N.M.S.D. )
       			     		                                    995-1024 ( Olaf Skotkonung wg Z.S.A.V.E. )
       					                                        przed 1000-? ( Olof Skottkonung wg E.P. )
     Anund ( Jakub )       		                          1022-1050 ( wg D.Ś. i Tapsella )
@@ -20285,6 +20303,7 @@ Królestwo Szwecji
       Encyklopedie panovníků
       Bílý orel, rudá hvězda
       Velikáni francouzské vědy
+      Severské mýty
 
 Państwo Szyrwanszachów
   Muhammad ibn Jazid		                                ? ( wg R.Z.A.D.D. )
@@ -22809,5 +22828,6 @@ Bibliografia :
     [70] Ród Indian Algonkinów , Arkady Fiedler , Marek Fiedler , 1984
     [71] Fidel & Che - A Revolutionary Friendship , Simon Reid-Henry , 2007
     [72] Czarne wampuny głoszą wojnę , Jan Szczepański , 1970
+    [73] Severské mýty , R. I. Page , 2007
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
