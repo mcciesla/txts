@@ -141,6 +141,7 @@ POP.SCIENCE :
         Guderian - Tankový generál ; Kenneth Macksey
         Historia Powszechna - Starożytnosć ; Józef Wolski
         Hunové ; Edward Arthur Thompson
+        Huryci ; Maciej Popko
         Indiański Napoleon Gór Skalistych ; Arkady Fiedler , Marek Fiedler
         KG-200 bez tajemnic ; Andrzej Fryszkiewicz
         Khmerové ; Ian Mabbett , David Chandler
@@ -400,6 +401,7 @@ Conrad , Joseph - Heart of Darkness - O
 Cooper , James Fenimore - Jezioro Smierci - POL
                         - Mlody orzel - POL
                         - Pionierowie - POL
+                        - Poslední mohykán - CZ
                         - Szpieg - POL
                         - Tropiciel sladow - POL
 Czerkawska , Maria - Żółte Chodaczki - O
@@ -407,6 +409,7 @@ Dabrowska , Maria - Noce i Dnie - O
 Defoe , Daniel - Robinson Crusoe - CZ
 Dick , Philip K. - Sni androidi o elektrickych oveckach - CZ
                  - Ubik - O
+Dušková , Danielle - Žák Voříšek má radary - O
 Dvoracek , Karel - O utopcach - POL
 Eco , Umberto - Diariusz najmniejszy - POL
               - Foucaultovo kyvadlo - CZ
@@ -505,6 +508,7 @@ May , Karel - Blekitno-purpurovy Matuzalem - POL
             - Já , náčelník Apačů - CZ
             - Karawana niewolnikow - POL
             - Mahdi - CZ
+            - Na Río de la Plata - CZ
             - Old Surehand - POL
             - Pousti a prerii - CZ
             - Przez kraine Skipetarow - POL
@@ -519,6 +523,7 @@ Mitchell , David - Cloud Atlas - O
 Morcinek , Gustaw - O tym, jak Zuzanka poszla w kumy do utopcow - POL
 Morrell , David - Rambo , pro pritele (III) - CZ
 Muller , Jaroslav - Pratele zeleneho udoli - O
+Naha , Ed - Robocop 2 - CZ
 Neff , Ondrej ; Saudek , Kaja - Arnal & dva draci zuby - O
 Nemecek , Jaroslav ; Hojka , Stanislav - Ctyrlistek , Cesta kolem sveta - O
 Nemecek , Jaroslav ; Novy , Tomas - Ctyrlistek , Zachrante Lidusku - O
@@ -568,7 +573,8 @@ Sanders , Charles Wesley - Czarny gosc - POL
 Slama , Frantisek - Spiacy rycerze - POL
 Slowacki , Juliusz - S vámi jsem život žil ... - CZ
 Smeja , Fran. - Pierwszy szynkarz - POL
-Smith , Wilbur - Reka bohu - CZ
+Smith , Wilbur - Řeka bohů - CZ
+               - Řeka bohů II - CZ
 Stapledon , Olaf - Last and First Men - O
                  - Star Maker - O
 Steinbeck , John - Of Mice and Men - O

@@ -18,6 +18,7 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Hermann Buhl Climbing Without Compromise - Reinhold Messner, Horst Hofler
       - Dejiny Sasu - Widukind z Corvey
       - The Blank Slate - Steven Pinker
+      - Type-driven Development with Idris - Edwin Brady
       - Feynman Lectures On Computation - Richard P. Feynman
       - Who’s #1? The Science of Rating and Ranking - Amy Langville , Carl Meyer
       - Haskell Programming from first principles - Christopher Allen, Julie Moronuki
