@@ -11,6 +11,11 @@ Abchazowie
 
 ´Abilidzi
 
+Abina
+  Ariwana                                               ?
+  Bibliografia :
+      Huryci
+
 Aborigenowie
   Latynus		                                            ?
   Bibliografia :
@@ -114,6 +119,11 @@ Ahhijawa ( Achajowie )
   Bibliografia :
       Starożytny Bliski Wschód
 
+Ailanum
+  Masumatal                                             ?
+  Bibliografia :
+      Huryci
+
 Królestwo Ailech
   Eogan mac Niall                          		          ?-466 n.e.
   Muiredach                                   		      466-?
@@ -197,7 +207,7 @@ Akad ( Agade )
                                                         ok.1805-ok.1760 ( wg V.N.M.S.D. )
      				      	                                    ok.2340-ok.2310 ( wg S.B.W. )
 				      	                                        ok.2276 ( wg K.T.V.S.O. )
-				           	                                    ? ( wg D.P.I.R.G. i Z.Ř. ) ( Sargon I Akkadský wg E.P. )
+				           	                                    ? ( wg D.P.I.R.G. i Z.Ř. ) ( Sargon I Akkadský wg E.P. ) ( wg Hur. )
         				      	                                ok.2316-2280 ( Szarrukin wg H.P.S. )
 					                                              2340-2284 ( wg M.P.M. )
                                                         ok.2300 ( Sargon I ( Šarrukín ) wg Ř.S.J.Ď.S. )
@@ -206,16 +216,18 @@ Akad ( Agade )
 					                                              ? ( Rímuš wg M.P.M. )
   Manisztuszu                               	          2269-2255 ( wg D.Ś. ) ( Manisztusu wg S.C. )
 				     	                                          ok.2260-ok.2250 ( Man-isztuszu wg S.B.W. )
-					                                              ? ( Man-ištúšu wg M.P.M. )
+					                                              ? ( Man-ištúšu wg M.P.M. ) (  Manisztusu wg Hur.)
   Naram-Suen ( Naramsin )	                              2254 -2218 ( wg D.Ś. i S.C. )
 				     	                                          po 2250-2223 ( Naram-Sin wg S.B.W. )
                                                         ok.1760-ok.1735 ( wg V.N.M.S.D. )
 				         	                                      ? ( wg H.P.S. )
 					                                              2260-2225 ( Narám-sín wg M.P.M. )
+                                                        ok.2125 ( Naramsin wg Hur. )
   Urzababa             		                              ? ( wg S.C. )
   Szar-kali-szarri                          	          2217-2193 ( wg D.Ś. ) ( Szarkalliszarri wg S.C. )
 				     	                                          ok.2270-ok.2260 ( wg S.B.W. )
 					                                              ok.2223-2198 ( Šar-kali-šarrí wg M.P.M. )
+                                                        ? ( Szarkaliszarri wg Hur. )
   Igigi                                           	    ok.2250-ok.2240 ( wg S.B.W. )
 					                                              ? ( wg D.Ś. )
   Nanijum                                     	        ok.2240-ok.2230 ( wg S.B.W. )
@@ -243,14 +255,16 @@ Akad ( Agade )
 			Encyklopedie panovníků
 			Mezopotámie - počátky měst
       Říše slova - Jazykové dějiny světa
+      Huryci
 
 Akarnania
   Bibliografia :
       Dzieje Grecji
 
 Akko
+  Szatatna                                              ?
   Bibliografia :
-      Foiničané
+      Huryci
 
 Akragas
   Falaris              	                                ? ( wg D.G. i H.P.S. ) ( Falarides wg Z.Ř. )
@@ -273,6 +287,11 @@ Aksum
   Zoskales          	                                  ok.62 n.e.
   Bibliografia :
       Dzieje Rzymu
+
+Akszapu
+  Indaruta                                              ?
+  Bibliografia :
+      Huryci
 
 Patriarchat Akwilei
   Pilgrim		                                            przed 1158 n.e.-?
@@ -315,7 +334,7 @@ Alalah ( Alalach )
   Ammitakum	                                            ok.1695 p.n.e.-?
   Ilimilimma I     	                                    ok.1555-ok.1540
   Idrimi           	                                    ok.1540-ok.1485 ( wg S.B.W. )
-      			                                            ? ( wg S.C. )
+      			                                            ? ( wg S.C. i Hur. )
   Adad-nirari      	                                    ok.1485-ok.1480
   Nikmepa        	                                      ok.1480-ok.1470
   Ilimilimma II   	                                    ok.1470-?
@@ -324,6 +343,7 @@ Alalah ( Alalach )
   Bibliografia :
       Starożytny Bliski Wschód
       Starożytne Cywilizacje
+      Huryci
 
 Alamanowie
   Chnodomar	                                            ok.357 n.e.
@@ -394,28 +414,26 @@ Ta´ifa Albarracen
   Bibliografia :
       Maurové a Evropa
 
-Aleppo ( Jamchad )
-  Jarimlim              	                              ok.1770 p.n.e. ( wg S.C. )
-  Nikmepa             	                                ok.1695-ok.1685
-  Irkabtum             	                                ok.1685-ok.1660
-  Jarim-Lim           	                                ok.1660-ok.1645
-  Hammu-rabi II    	                                    ok.1645-ok.1595
-  Abba-el               	                              ok.1595-ok.1550
-  Ilimilimma          		                              ok.1550-?
-  Talmi-Szarruma  	                                    ok.1325
+Aleppo ( Halab )
+  Szarrael                                              ? ( wg Hur. )
+  Abba-el               	                              ok.1595-ok.1550 ( wg S.B.W. )
+                                                        ? ( Abbael wg Hur )
+  Ilimilimma          		                              ok.1550-? ( wg S.B.W. )
+                                                        ok.1500 ( Ililimma wg Hur. )
+  Talmi-Szarruma  	                                    ok.1325 ( wg S.B.W. )
+                                                        ? ( Talmiszarruna ( Halpaziti ) wg Hur. )
+  Telipinus                                             ok.1325 ( wg Hur. )
   Emirat Aleppa
     Dynastia Hamdanidów
       Saif-ad-Daulah	                                  944 n.e. -? ( wg D.B. )
     Dynastia Mirdasydów
       Zengi                     	                      przed 1144 -? ( wg D.B. )
       Nuraddin Zengi		                                1146-1174 ( wg D.B. ) ( Núr ad-Dín wg E.P. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg S.B.W.
   Bibliografia :
       Starożytny Bliski Wschód
-      Starożytne Cywilizacje
       Dějiny Byzance
       Encyklopedie panovníků
+      Huryci
 
 Algieria
   Ahmed Ben Bella                                       przed 1963-1965 ( ?.3.-?.6. )
@@ -482,6 +500,11 @@ Ta´ifa Alpuente
   Kásimovci
   Bibliografia :
       Maurové a Evropa
+
+Alsze ( Alzi )
+  Ehliteszub                                            ok.1225 p.n.e.
+  Bibliografia :
+      Huryci
 
 ´Alwa
 
@@ -554,14 +577,22 @@ Amul ( Mu )
       Dzieje dawnych Turków
 
 Amurru
-  Abd(i)-aszirta  	                                    ok.1400-ok.1370
-  Aziru               	                                ok.1370-ok.1320
-  Du-Teszub    	                                        ok.1320-ok.1310
-  Duppi-Teszub	                                        ok.1310-ok.1300
-  Benteszina     	                                      ok.1300-ok.1265
-  Sausgamuwa  	                                        ok.1265-?
+  Abd(i)-aszirta  	                                    ok.1400-ok.1370 ( wg S.B.W. )
+                                                        ok.1350 ( Abdiaszirta wg Hur. )
+  Aziru               	                                ok.1370-ok.1320 ( wg S.B.W. )
+                                                        ok.1325 ( wg Hur. )
+  Du-Teszub    	                                        ok.1320-ok.1310 ( wg S.B.W. )
+  Ariteszub                                             ? ( wg Hur. )
+  Duppi-Teszub	                                        ok.1310-ok.1300 ( wg S.B.W. )
+                                                        ? ( Tuppiteszub wg Hur. )
+  Benteszina     	                                      ok.1300-ok.1265 ( wg S.B.W. )
+                                                        przed 1275-? i ? ( wg Hur. )
+  Szapili                                               ? ( wg Hur. )
+  Sausgamuwa  	                                        ok.1265-? ( wg S.B.W. )
+                                                        ? ( Szauszkamuwa wg Hur. )
   Bibliografia :
       Starożytny Bliski Wschód
+      Huryci
 
 Amyklaj
   Bibliografia :
@@ -1322,9 +1353,12 @@ Arpad
       Starożytny Bliski Wschód
       Asýrie - od městského státu k říši
 
-Królestwo Arrapcha ( Nuzi , Kirkúk )
+Królestwo Arrapcha ( Arrapha , Nuzi , Kirkúk )
+  Kibiteszub                                            ?
+  Ithija                                                ?
+  Muszteja                                              ?
   Bibliografia :
-      Starożytny Bliski Wschód
+      Huryci
 
 Arthamanowie
   Amýnandros                                            ?
@@ -1465,32 +1499,35 @@ Asyria
       				      	                                  ? ( Erišum I wg A.O.M.S.K.R. i M.P.M. )
   Ikunum                                	              ? ( wg D.Ś. ) ( Ikúnum wg A.O.M.S.K.R. )
                                                       	1900-? ( wg S.B.W. )
-  Sargon I ( Szarru-kin I )        	                    ? ( wg D.Ś. i A.O.M.S.K.R. )
+  Sargon I ( Szarru-kin I )        	                    ? ( wg D.Ś. i A.O.M.S.K.R. i Hur. )
                                                         ok.1890-ok.1880 ( wg S.B.W. )
   Puzur-Aszur II                      	                ? ( wg D.Ś. ) ( Puzur-Aššur wg A.O.M.S.K.R. )
           	                                            ok.1880-ok.1850 ( wg S.B.W. )
-  Naram-Sin 			                                      ? ( wg D.Ś. ) ( Naram-Sín wg A.O.M.S.K.R. )
+  Naram-Sin 			                                      ? ( wg D.Ś. ) ( Naram-Sín wg A.O.M.S.K.R. ) ( Naramsin wg Hur. )
       				    	                                    ok.1850-ok.1820 ( wg S.B.W. )
   Eriszum II   			                                    ? ( wg D.Ś. ) ( Erišum II wg A.O.M.S.K.R. )
       				    	                                    1819-1815 ( Eriszu II wg S.B.W. )
+                                                        ?-1749 ( wg Hur. )
   Szamszi-Adad I                        	              1813-1781 ( wg D.Ś. ) ( Szamsziadad wg S.C. ) ( Šamší-Adad I wg A.O.M.S.K.R. i M.P.M. )
       				    	                                    1814 -1782 ( Szamszi-Addu I wg S.B.W. )
       				    	                                    1815-1782 ( wg K.T.V.S.O. )
       				    	                                    ok.1748-1716 ( wg H.P.S. )
       				    	                                    1820-1800 ( wg V.N.M.S.D. )
       					                                        ? ( Šamši-adad I wg E.P. )
+                                                        1749-1717 ( Szamsziadad I wg Hur. )
   Iszme-Dagan I                          	              1780-1741 ( wg D.Ś. )
       				    	                                    1781-1742 ( wg S.B.W. )
       				    	                                    ok.1781-ok.1740 ( Iszmedagan wg S.C. )
                                                         ok.1850-1820 ( wg V.N.M.S.D. )
       					                                        ? ( Išme-Dagan wg A.O.M.S.K.R. i M.P.M. )
+                                                        1717-1677 ( Iszmedagan wg Hur. )
   Ilakabkabu                                	          1800-ok.1780 ( wg V.N.M.S.D. )
   Ilu-Ba                                        	      1750-ok.1730 ( wg V.N.M.S.D. )
   Bell-Kabkabu                           	              1700-1650 ( wg V.N.M.S.D. )
   Mut-Aszkur			                                      ?	( wg D.Ś. )
   Rimusz				                                        ?	( wg D.Ś. )
   Asinum				                                        ?	( wg D.Ś. )
-  Aszur-Dugul			                                      ?	( wg D.Ś. )
+  Aszur-Dugul			                                      ?	( wg D.Ś. ) ( Aszurdugul wg Hur. )
   Aszur-apla-idi			                                  ?	( wg D.Ś. )
   Nasir-Sin			                                        ?	( wg D.Ś. )
   Sin-namir			                                        ?	( wg D.Ś. )
@@ -1549,6 +1586,7 @@ Asyria
       				     	                                    przed 1472-? ( Aššur-nádin-achché wg A.O.M.S.K.R. )
       				     	                                    ok.1520-ok.1500 ( wg V.N.M.S.D. )
       					                                        ? ( Aššur-nádin-achché wg M.P.M. )
+                                                        ok.1430 ( Aszurnadinahhe I wg Hur. )
   Enlil-nasir II                              	        1430-1425 ( wg D.Ś. )
       				     	                                    1432-1427 ( wg S.B.W. )
   Aszur-nirari II                           	          1424 -1418 ( wg D.Ś. )
@@ -1571,6 +1609,7 @@ Asyria
       				     	                                    1364-1328 ( wg K.T.V.S.O. )
       				     	                                    1365-1330 ( Aššur-uballit I wg A.O.M.S.K.R. )
       					                                        ok.1365-1330 ( Aššur-uballit I wg M.P.M. )
+                                                        ok.1325 ( Aszuruballit I wg Hur. )
   Enlil-nirari                                 	        1327-1318 ( wg D.Ś. )
                                                         1370-1350 ( wg V.N.M.S.D. )
       				     	                                    1329-1320 ( wg S.B.W. )
@@ -1583,16 +1622,19 @@ Asyria
       				                                          1307-1275 ( wg S.B.W. i A.O.M.S.K.R. ) ( Adad-nárárí I wg M.P.M. )
       				     	                                    1306-1274 ( Adadnirari I wg K.T.V.S.O. )
       					                                        ok.1305-1274 ( Adadnirári I wg E.P. )
+                                                        1295-1264 ( Adadnirari I wg Hur. )
   Szalmaneser I                            	            1273-1244 ( wg D.Ś. ) ( Salmanasar wg S.C. )
                                                         1300-1271 ( wg V.N.M.S.D. )
       				     	                                    1274-1245 ( Szalmanu-aszared I wg S.B.W. ) ( Salmanassar I wg A.O.M.S.K.R. i M.P.M. )
       				     	                                    1274-1244 ( Salmanassar I wg K.T.V.S.O. )
       				     	                                    1265-1235 ( Salmanassar I wg H.P.S. )
+                                                        1263-1234 ( Salmanasar I wg Hur. )
   Tukulti-Ninurta I                       	            1243-1207 ( wg D.Ś. ) ( Tukultininurta I wg S.C. )
                                                         1271-1240 ( wg V.N.M.S.D. )
       				     	                                    1244-1208 ( wg S.B.W. ) ( Tukultí-Ninurta I wg A.O.M.S.K.R. i M.P.M. )
       				     	                                    1244-1207 ( Tukultininurta I wg K.T.V.S.O. )
       				     	                                    1235-1198 ( Tukulti-Ninurta wg H.P.S. )
+                                                        1233-1197 ( Tukultininurta I wg Hur. )
   Bel-kudurri-ussur                      	              1240-1220 ( wg V.N.M.S.D. )
   Ninurta-apil-eszarra                   	              1220-1200 ( wg V.N.M.S.D. )
   Aszur-nadin-apli                        	            1206-1203 ( wg D.Ś. )
@@ -1617,7 +1659,7 @@ Asyria
   Aszur-resz-iszi(ilim) I               	              1132-1115 ( wg D.Ś. )
       				     	                                    1133-1116 ( wg S.B.W. ) ( Aššur-réša-iši I wg A.O.M.S.K.R. )
                                                         1150-1120 ( wg V.N.M.S.D. )
-  Tiglat-Pilesar I                          	          1114-1076 ( wg D.Ś. ) ( Tiglatpilesar I wg A.O.M.S.K.R. i M.P.M. )
+  Tiglat-Pilesar I                          	          1114-1076 ( wg D.Ś. ) ( Tiglatpilesar I wg A.O.M.S.K.R. i M.P.M. i Hur. )
                                                         1120-ok.1100 ( wg V.N.M.S.D. )
       				     	                                    1115-1077 ( Tukulti-apil-Eszara I wg S.B.W. ) ( wg K.T.V.S.O. )
       				     	                                    1112-1074 ( wg F. )
@@ -1641,7 +1683,7 @@ Asyria
   Aszur-rad-amar                          	            ok.1050 ( wg V.N.M.S.D. )
   Aszurnasirpal I                          	            1049-1031 ( wg D.Ś. )
       				     	                                    1050-1032 ( Aszur-nasir-apli I wg S.B.W. )
-      				   	                                      ? ( Aššur-násir-apal wg A.O.M.S.K.R. )
+      				   	                                      ? ( Aššur-násir-apal wg A.O.M.S.K.R. ) ( Aszurnasirapli wg Hur. )
   Szalmaneser II                           	            1030-1019 ( wg D.Ś. )
       				     	                                    1031-1020 ( Szulmanu-aszared II wg S.B.W. )
   Aszur-nirari IV                          	            1018-1013 ( wg D.Ś. )
@@ -1654,7 +1696,7 @@ Asyria
       				      	                                  972-968 ( wg S.B.W. )
   Tiglat-Pilesar II                          	          966-935 ( wg D.Ś. i K.T.V.S.O. )
       				      	                                  967-935 ( Tukulti-apil-Eszara wg S.B.W. )
-  Aszur-dan II                               	          934-912 ( wg D.Ś. i S.B.W. i K.T.V.S.O. ) ( Aszurdan II wg S.C. ) ( Aššur-dán II wg A.O.M.S.K.R. )
+  Aszur-dan II                               	          934-912 ( wg D.Ś. i S.B.W. i K.T.V.S.O. ) ( Aszurdan II wg S.C. i Hur. ) ( Aššur-dán II wg A.O.M.S.K.R. )
                                                       	930-911 ( wg V.N.M.S.D. )
   Adad-nirari II                             	          911-891 ( wg D.Ś. i S.B.W. , III wg V.N.M.S.D. , K.T.V.S.O. i A.O.M.S.K.R. ) ( Adadnirari II wg S.C. ) ( Adad-nárárí wg Ř.S.J.Ď.S. )
       					                                        909-889 ( Adadnirári II wg E.P. )
@@ -1663,7 +1705,7 @@ Asyria
   Aszurnasirpal II                         	            883-859 ( wg D.Ś. i K.T.V.S.O. ) ( Aszur-nasir-apli II wg S.B.W. ) ( Assurnasirpal II wg F. i H.P.S. ) ( Aszurnasirpali II wg S.C. ) ( Aššurnasirpal II wg A.O.M.S.K.R. i M.P.M. )
                                                         885-860 ( wg V.N.M.S.D. )
       					                                        884-859 ( Aššurnasirpal wg Z.Ř. )
-  Szalmaneser III                          	            858-824 ( wg D.Ś. ) ( Szulmanu-aszared III wg S.B.W. ) ( Salmanassar III wg K.T.V.S.O. i S.C. i H.P.S. i A.O.M.S.K.R. )
+  Szalmaneser III                          	            858-824 ( wg D.Ś. ) ( Szulmanu-aszared III wg S.B.W. ) ( Salmanassar III wg K.T.V.S.O. i S.C. i H.P.S. i A.O.M.S.K.R. ) ( Salmanasar III wg Hur. )
                              			     	                858/9-824 ( Salmanasar III wg F. )
                                                         860-825 ( II wg V.N.M.S.D. )
       					                                        859-824 ( Šalmaneser III wg Z.Ř. )
@@ -1694,6 +1736,7 @@ Asyria
       				       	                                  745-727 ( wg K.T.V.S.O. ) ( Tiglatpilesar III wg F. i H.P.S. i Z.Ř. )
       				       	                                  745-728 ( Tiglatpilesar III wg A.O.M.S.K.R. )
       					                                        ? ( Tiglatpilesar III wg M.P.M. )
+                                                        przed 742-? ( Tiglatpilesar III wg Hur. )
   Szalmaneser V                    	                    726-722 ( wg D.Ś. ) ( Szulmanu-aszared V wg S.B.W. ) ( Salmanassar V wg K.T.V.S.O. i F. ) ( Salmanasar V wg S.C. )
                                                         ok.730-ok.720 ( IV wg V.N.M.S.D. )
       				      	                                  727-722 ( Salmanassar V wg H.P.S. )
@@ -1702,6 +1745,7 @@ Asyria
       				      	                                  722-705 ( wg H.P.S. i A.O.M.S.K.R. i Z.Ř. )
       				      	                                  przed 713-? ( wg T. )
       					                                        przed 722-po 721 ( wg Ž.V.Ř.S. )
+                                                        przed 714-? ( wg Hur. )
   Sennacherib                             	            704-681 ( wg D.Ś. i  S.C. ) ( Sin-ahe-eriba wg S.B.W. ) ( Sinacherib wg K.T.V.S.O. i A.O.M.S.K.R. i Ř.S.J.Ď.S. )
                                                         705-681 ( wg V.N.M.S.D. i Z.Ř. ) ( Sinacherib wg F. i M.P.M. ) ( Sanheryb wg H.P.S. ) ( Sancherib wg T. )
       					                                        przed 701-? ( Sancheríb wg Ž.V.Ř.S. )
@@ -1717,6 +1761,7 @@ Asyria
       				      	                                  668-632 ( wg K.T.V.S.O. )
       				      	                                  668-ok.627 ( Asurbanipal wg S.C. )
       				      	                                  669-ok.630 ( Assurbanipal wg H.P.S. )
+                                                        ? ( Asurbanipal wg Hur. )
   Aszur-etil-ilani                            	        626-? ( wg D.Ś. )
                                                         620-ok.610 ( wg V.N.M.S.D. )
       				       	                                  630-623 ( Aszur-etel-ilani wg S.B.W. )
@@ -1750,6 +1795,7 @@ Asyria
       Zrození Řecka
       Mezopotámie - počátky měst
       Říše slova - Jazykové dějiny světa
+      Huryci
 
 Aszanti
   Bibliografia :
@@ -1768,6 +1814,10 @@ Aszdod
       Starożytny Bliski Wschód
       Kralovská tažení ve starém Orientu
       Foiničané
+
+Asztata
+  Bibliografia :
+      Huryci
 
 As-Sab´u Buldan
 
@@ -2072,6 +2122,12 @@ Imperium Azteków
       A Short Account Of The Destruction Of The Indies
       Říše slova - Jazykové dějiny světa
 
+Azuhinum
+  Tahiszatili                                           ok.2125 p.n.e.
+  Szaduszarri                                           ?
+  Bibliografia :
+      Huryci
+
 Babilonia
   1.dynastia Babilonu ( amurycka )
     Sumu-abum        	                                  1894-1881 ( wg D.Ś. i S.B.W. )
@@ -2084,7 +2140,7 @@ Babilonia
     Sin-muballit             	                          1812-1793 ( wg D.Ś. i S.B.W. ) ( Sín-muballit wg M.P.M. )
     Hammurapi        	                                  1792-1750 ( wg D.Ś. i S.B.W. ) ( Chammurabi wg K.T.V.S.O. i E.P. ) ( Hammurabi wg S.C. ) ( Chammurapi wg M.P.M. )
       			 	                                          ok.1800 ( wg D.P.I.R.G. )
-                                                	      1728-1686 ( Hammurapi wg H.P.S. )
+                                                	      1728-1686 ( Hammurapi wg H.P.S. ) ( Hammurabi wg Hur. )
       				                                          ? ( Chammurapi wg A.O.M.S.K.R. )
                                                         ok.1750 ( Chammurapi wg Ř.S.J.Ď.S. )
     Samsu-iluna         	                              1749-1712 ( Szamszu-iluna wg S.B.W. ) ( wg D.Ś. i M.P.M. ) ( Samsuiluna wg S.C. )
@@ -2092,6 +2148,7 @@ Babilonia
     Ammi-ditana              	                          1683-1647 ( Ammiditana wg S.B.W. ) ( wg D.Ś. )
     Ammi-saduka		                                      1646-1626 ( Ammisaduka wg S.B.W. ) ( wg D.Ś. ) ( Ammí-saduk wg M.P.M. )
     Samsu-ditana             	                          1625-1595 ( wg D.Ś. i S.B.W. ) ( Samsu-ditána wg M.P.M. )
+                                                        ?-1531 ( Samsuditana wg Hur. )
   Dynastia kasycka
     Gandasz                                           	1729-1704 ( wg D.Ś. )
       						                                      ?-ok.1700 ( wg S.B.W. )
@@ -2108,7 +2165,7 @@ Babilonia
       						                                      ok.1615-ok.1600 ( wg S.B.W. )
     Tiptakzi				                                    ok.1600-ok.1590 ( wg S.B.W. )
     Agum II ( Agukakrime ) 		                          ok.1590-? ( wg S.B.W. )
-      						                                      ? ( Agum-kakrime (II) wg M.P.M. )
+      						                                      ? ( Agum-kakrime (II) wg M.P.M. ) ( Agum II wg Hur. )
     Burna-Buriasz I			                                ?	( wg D.Ś. )
       						                                      ok.1520-ok.1500 ( wg S.B.W. )
     Kasztiliasz III				                              ok.1500-ok.1480 ( wg S.B.W. )
@@ -2127,7 +2184,7 @@ Babilonia
        						                                      1370-1343 ( Burnaburiasz II wg K.T.V.S.O. )
       						                                      1367-1346 ( Burnaburias II wg D.G. )
       						                                      ok.1350 ( Burnaburiáš II wg E.P. )
-      						                                      ? ( Burnaburiaš II wg M.P.M. )
+      						                                      ? ( Burnaburiaš II wg M.P.M. ) ( Burnaburiasz II wg Hur. )
     Kara-hardasz                                   	    1333 ( wg D.Ś. )
       						                                      1347-1346 ( wg S.B.W. )
     Nazi-Bugasz                                    	    1333 ( wg D.Ś. )
@@ -2148,6 +2205,7 @@ Babilonia
     Kasztiliaszu IV                                  	  1232-1225 ( wg D.Ś. )
       					  	                                    1242-1235 ( Kasztiliasz IV wg S.B.W. )
       					          	                            ? ( Kaštiliaš IV wg A.O.M.S.K.R. i M.P.M. )
+                                                        ok.1200 ( Kasztiliasz IV wg Hur. )
     Tukulti-Ninurta I                               	  1225 ( wg D.Ś. )
     Enlil-nadin-szumi                              	    1224 ( wg D.Ś. )
     Kadaszman-Harbe II                          	      1223 ( wg D.Ś. )
@@ -2324,6 +2382,7 @@ Babilonia
       Zrození Řecka
       Mezopotámie - počátky měst
       Říše slova - Jazykové dějiny světa
+      Huryci
 
 Badachszan
   Bibliografia :
@@ -2405,6 +2464,11 @@ Badenia
   Bibliografia :
       Dynastie Świata
       Fridrich Barbarossa – císař a rytíř
+
+Badtibira
+  Dumuzi                                                ?
+  Bibliografia :
+      Huryci
 
 Królestwo Bahmanidów
   Dynastia Bahmanidów
@@ -3595,6 +3659,11 @@ Królestwo Burgundów
       Severské mýty
 
 Burjaci
+
+Burundum
+  Atalszenni                                            ?
+  Bibliografia :
+      Huryci
 
 Byblos
   Abi-szemu             	                              ok.1850 p.n.e. ( wg S.B.W. )
@@ -6228,7 +6297,7 @@ Egipt
       					                	                      1551-1527 ( wg K.T.V.S.O. )
                                                         1550-1525 ( Jahmes wg S.C. )
       						         	                            ? ( wg H.P.S. )
-      Ahmose				         	                          ? ( wg H.P.S. )
+      Ahmose				         	                          ? ( wg H.P.S. i Hur. )
       Dżeserkare Amenhotep ( Amenofis ) I       	      1551-1524 ( wg D.Ś. )
       					                	                      1546-1526 ( wg S.B.W. )
       						  	                                  1527-1507 ( wg K.T.V.S.O. )
@@ -6237,7 +6306,8 @@ Egipt
       Acheperkare Tutmosis I ( Totmes I )          	    1524 -1518 ( wg D.Ś. )
       						  	                                  1526-1512 ( wg S.B.W. )
       						  	                                  ok.1507 ( wg K.T.V.S.O. )
-      						  	                                  1504 -1492 ( wg S.C. )
+      						  	                                  1504-1492 ( wg S.C. )
+                                                        ok.1497-1482 ( Tutmozis I wg Hur. )
       Acheperenre Tutmosis II ( Totmes II )        	    1518-1504 ( wg D.Ś. )
       						   	                                  1512-1504 ( wg S.B.W. )
       Makare Hatszepsut                                	1503-1483 ( wg D.Ś. )
@@ -6248,22 +6318,25 @@ Egipt
           						   	                              1490-1436 ( wg K.T.V.S.O. )
       						   	                                  ok.1491-1436 ( Tutmose III wg H.P.S. )
       						   	                                  przed 1472-? ( Thutmose III wg A.O.M.S.K.R. )
+                                                        1479-1425 ( Tutmozis III wg Hur. )
       Acheprure Amenhotep II                           	1453-1419 ( wg D.Ś. )
       						   	                                  1450-1425 ( wg S.B.W. )
       						   	                                  1438-1412 ( wg K.T.V.S.O. )
       						    	                                ok.1450 ( wg F. )
+                                                        1428-1400 ( wg Hur. )
       Mencheprure Tutmosis IV ( Totmes IV )     	      1419-1386 ( wg D.Ś. )
          							                                  1425-1417 ( wg S.B.W. )
          							                                  1412-1403 ( wg K.T.V.S.O. )
          							                                  1401-1391 ( wg S.C. )
           							                                ok.1409-1400 ( Tutmose IV wg H.P.S. )
+                                                        1400-1390 ( Tutmozis IV wg Hur. )
       Nebmare Amenhotep III                            	1386-1349 ( wg D.Ś. )
       						    	                                1417-1379 ( wg S.B.W. )
       						    	                                1403-1365 ( wg K.T.V.S.O. )
       						    	                                1412-1376 ( wg D.G. )
       						    	                                1391-1353 ( wg S.C. )
       						    	                                ok.1400 ( wg H.P.S. )
-      						    	                                ok.1350 ( wg A.O.M.S.K.R. )
+      						    	                                ok.1350 ( wg A.O.M.S.K.R. ) ( Mimmurija ( Nimmurija ) wg Hur. )
                                                         ? ( Amenofis III wg Ř.S.J.Ď.S. )
       Nefercheprure Amenhotep IV ( Echnaton )	          1350-1334 ( wg D.Ś. )
       						    	                                1379-1362 ( wg S.B.W. )
@@ -6271,11 +6344,12 @@ Egipt
       						    	                                1353-1335 ( wg S.C. )
       							                                    ? ( wg H.P.S. i A.O.M.S.K.R. ) ( Achnaton wg E.P. i Ž.V.Ř.S. i M.P.M. )
                                                         ok.1330 ( Achnaton wg Ř.S.J.Ď.S. )
+                                                        ok.1325 ( wg Hur. )
       Anchcheprure Semenchkare                      	  1336-1334 ( wg D.Ś. )
       Nebcheprure Tutanchamon                         	1334-1325 ( wg D.Ś. )
       						    	                                1361-1352 ( Tutankhamon wg S.B.W. )
       						    	                                1347-1337 ( wg K.T.V.S.O. )
-      							                                    ? ( Tutanchaton wg S.C. ) ( Tutankamon wg H.P.S. ) ( wg E.P. i Ž.V.Ř.S. )
+      							                                    ? ( Tutanchaton wg S.C. ) ( Tutankamon wg H.P.S. ) ( wg E.P. i Ž.V.Ř.S. i Hur. )
       Chepercheprure Aji                               	1325-1321 ( wg D.Ś. )
       						    	                                1352-1348 ( Ai wg S.B.W. )
       							                                    ? ( wg E.P. )
@@ -6283,12 +6357,12 @@ Egipt
       						    	                                1348-1320 ( wg S.B.W. )
       						    	                                1329-1306 ( wg K.T.V.S.O. )
       						    	                                1319-1307 ( wg S.C. ) ( Haremheb wg E.P. )
-      						         	                            ? ( wg H.P.S. )
+      						         	                            ? ( wg H.P.S. i Hur. )
     19.dynastia ( tebańska )
       Menpehtire Ramzes I        	                      1293-1291 ( wg D.Ś. )
       					                                        1319-1317 ( wg S.B.W. )
       					                                        przed 1307-? ( Ramesse I wg E.P. )
-      Menmare Seti I                  	                1291-1279 ( wg D.Ś. )
+      Menmare Seti I                  	                1291-1279 ( wg D.Ś. i Hur. )
       					                                        1317-1304 ( wg S.B.W. )
       				                                          1305-1290 ( Sethi I wg K.T.V.S.O. )
       					                                        1306-1290 ( wg S.C. )
@@ -6300,6 +6374,7 @@ Egipt
       					                                        1291-1224 ( wg H.P.S. )
       					                                        1290-1224 ( wg S.C. )
       					                                        przed ok.1300-? ( Ramesse II wg E.P. )
+                                                        przed 1275-? ( wg Hur. )
       Bienre Merenptah            	                    1212-1202 ( wg D.Ś. )
       					                                        1238-1209 ( Merneptach wg S.B.W. )
                                                         1224-1214 ( wg K.T.V.S.O. )
@@ -6317,7 +6392,7 @@ Egipt
       					       	                                1194 -1163 ( wg S.C. )
       					       	                                ok.1195-po 1163 ( wg H.P.S. )
       					       	                                1204 -1173 ( wg B.M. )
-      					         	                              ? ( Ramesse III wg A.O.M.S.K.R. )
+      					         	                              ? ( Ramesse III wg A.O.M.S.K.R. ) ( wg Hur. )
       					       	                                przed 1186-? ( Ramses III wg T. )
                                                         przed ok.1179-po ok.1176 ( Ramesse III wg Ř.S.J.Ď.S. )
       Hekamare Ramzes IV                     	          1151-1145 ( wg D.Ś. )
@@ -6750,6 +6825,7 @@ Egipt
       Poszukiwanie języka doskonałego
       Říše slova - Jazykové dějiny světa
       Fidel & Che - A Revolutionary Friendship
+      Huryci
 
 Egrisi
   Bibliografia :
@@ -6766,6 +6842,11 @@ Ekteniowie
   Ogyges		                                            ?
   Bibliografia :
       Zrození Řecka
+
+Elahut
+  Szukrumteszub                                         ?
+  Bibliografia :
+      Huryci
 
 Elam
   Peli		       			                                  ok.2525-ok.2500
@@ -6785,6 +6866,7 @@ Elam
   Kindattu                         			                ok.1940-ok.1920
   Indattu-In-Szuszinak     			                        ok.1910-ok.1900
   Kedorlaomer                  			                    ok.1940-ok.1900 ( wg V.N.M.S.D. )
+                                                        ? ( wg Hur. )
   Tan-Ruhuratir                			                    ok.1900-ok.1880
   Indattu II                        			              ok.1880-ok.1870
   Eparti                             			              ok.1870-ok.1850
@@ -6857,6 +6939,7 @@ Elam
       Starożytne Cywilizacje
       Asýrie - od městského státu k říši
       Mezopotámie - počátky měst
+      Huryci
 
 Elatea
   Bibliografia :
@@ -7009,11 +7092,13 @@ Esznunna
   Ibal-piel II        	                                ok.1800
   Bilalama         	                                    ?
   Ibalpiel           	                                  ok.1770 ( wg S.C. )
+  Ibalael                                               ? ( wg Hur. )
   Uwagi :
       Wszystko oprócz oznaczonego wg S:B.W.
   Bibliografia :
       Starożytny Bliski Wschód
       Starożytne Cywilizacje
+      Huryci
 
 Etiopia
   Aso			                                              ? ( wg M.P.C.Ś. )
@@ -8167,6 +8252,11 @@ Księstwo Gwynedd
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Říše slova - Jazykové dějiny světa
 
+Haburatum
+  Nanibszawiri                                          ?
+  Bibliografia :
+      Huryci
+
 Haeduowie
   Sacrovirus		                                        ?
   Bibliografia :
@@ -8392,6 +8482,12 @@ Królestwo Hasmonejskie
       Židé v římském světě
       Říše slova - Jazykové dějiny světa
 
+Hassu
+  Aniszhurbi                                            ?
+  Bibliografia :
+      Huryci
+
+
 Haszymidzkie Królestwo Jordanii
   Dynastia Haszymidów
     ´Abd Allah	                                        1949-1951
@@ -8429,6 +8525,11 @@ Ha´apai
     Jerzy Tupou I                                       ok.1820 n.e.
   Bibliografia :
       Dynastie Świata
+
+Hebron
+  Szuwardata                                            ?
+  Bibliografia :
+      Huryci
 
 Heftalici
   Toramána         	                                    ok.500 n.e. ( wg S.I. )
@@ -8592,6 +8693,7 @@ Królestwo Hetytów
       			      	                                    ok.1600 ( Labarnasz I wg H.P.S. )
     Hattuszili                   	                      ok.1650 ( wg D.Ś. )
       			      	                                    ok.1650-ok.1620 ( Hattusili I wg S.B.W. )
+                                                        ? ( Hattusilis I wg Hur. )
     Muwattalis                 	                        ok.1650-1620 ( wg S.C. )
     Murszili I                   	                      ?-1590 ( wg D.Ś. )
       			      	                                    ok.1620-ok.1590 ( Mursili I wg S.B.W. )
@@ -8601,15 +8703,18 @@ Królestwo Hetytów
       				                                          ok.1610-1593 ( Muršiliš I wg E.P. )
       				                                          przed 1595-? ( Muršili I wg M.P.M. )
                                                         przed 1594-? ( Muršili wg Ř.S.J.Ď.S. )
+                                                        przed 1531-? ( Mursilis I wg Hur. )
     Hantili I                     	                    1590-? ( wg D.Ś. )
       			      	                                    ok.1590-1560 ( wg S.B.W. )
+                                                        ok.1500 ( Hantilis I wg Hur. )
     Zidanta I                    	                      ? ( wg D.Ś. )
       		                                              ok.1560-ok.1550 ( wg S.B.W. )
-    Ammuna                	                            ? ( wg D.Ś. )
+                                                        ok.1460 ( Zidantas I wg Hur. )
+    Ammuna                	                            ? ( wg D.Ś. ) ( Ammunas wg Hur. )
       			      	                                    ok.1550-ok.1540 ( wg S.B.W. )
     Huzzija I		                                        ?	( wg D.Ś. )
       			      	                                    ok.1540-ok.1530 ( wg S.B.W. )
-    Telipinu		                                        ?	( wg D.Ś. )
+    Telipinu		                                        ?	( wg D.Ś. ) ( Telipinus wg Hur. )
       			      	                                    ok.1530 ( Telebinu wg S.B.W. )
     Alluwamna               	                          ?-1525 ( wg D.Ś. )
       			     	                                      ok.1490-ok.1485 ( wg S.B.W. )
@@ -8623,21 +8728,27 @@ Królestwo Hetytów
     Tudhalija I                   	                    1430-1406 ( wg D.Ś. )
       			        	                                  ok.1450-ok.1440 ( Tuthalija I wg S.B.W. )
       			        	                                  1420-1400 ( Tuthalijas I wg S.C. )
+                                                        ? ( Tuthalijas I wg Hur. )
     Arnuwanda I                	                        1410-1386 ( wg D.Ś. )
       			         	                                  ok.1440-ok.1425
+                                                        ? ( Arnuwandas I wg Hur. )
     Tudhalija II                  	                    1385-1381 ( wg D.Ś. )
       			         	                                  ok.1425-ok.1415 ( Tuthalija-tuhkanti II wg S.B.W. )
+                                                        ? ( Tuthalijas II wg Hur. )
     Hattuszili II                	                      1380-1358 ( wg D.Ś. )
       			         	                                  ok.1415-ok.1400 ( Hattusili II wg S.B.W. )
+                                                        ? ( Hattusilis II wg Hur. )
     Tuthalija III                  	                    ok.1400-ok.1380 ( wg S.B.W. )
       			         	                                  ok.1400 ( wg A. )
+                                                        ? ( Tuthalijas III ( Taszmiszarri ) wg Hur. )
     Szuppiluliuma I          	                          1357-1323  ( wg D.Ś. )
                                                         ok.1370 ( wg A.Č. )
       			          	                                ok.1380-1346 ( Suppiliuliuma I wg S.B.W. )
       			          	                                ok.1370-1336 ( wg K.T.V.S.O. )
-      			          	                                1344 -1322 ( Suppiluliumas I wg S.C. )
+      			          	                                1344-1322 ( Suppiluliumas I wg S.C. )
       			          	                                1380-1346 ( Szubbiluliuma wg H.P.S. )
       				                                          ? ( Šuppiluliumaš wg E.P. )
+                                                        1355-1320 ( Suppiluliuma I wg Hur. )
     Arnuwanda II             	                          1322 ( wg D.Ś. )
       			          	                                ok.1345 ( wg S.B.W. )
     Murszili II                    	                    1321-1297 ( wg D.Ś. )
@@ -8646,26 +8757,31 @@ Królestwo Hetytów
       			          	                                ok.1350-1320 ( Mursilis II wg D.G. )
       				                                          ok.1334-1305 ( Muršiliš II wg E.P. )
                                                         ok.1353-ok.1325 ( Muršili II wg Ř.S.J.Ď.S. )
+                                                        ? ( Mursilis II wg Hur. )
     Muwatalli ( Mutawali )	                            1296-1271 ( wg D.Ś. )
       			          	                                1315-1296 ( wg S.B.W. )
                                                        	ok.1300-1285 ( Muvatallisz wg K.T.V.S.O. )
       			          	                                1295-1271 ( Muwattalis II wg S.C. )
       			          	                                1315-1290 ( wg H.P.S. )
       				                                          ok.1306-1290 ( Muvattalliš wg E.P. )
+                                                        przed 1275-? ( Muwatalis ( Szarriteszub ) wg Hur. )
     Murszili III                  	                    1270-1264 ( wg D.Ś. )
-    Urhi-Teszub              	                          1296-1280 ( wg S.B.W. )
+                                                        ? ( Mursilis III ( Urhiteszub ) wg Hur. )
+                  	                                    1296-1280 ( Urhi-Teszub wg S.B.W. )
     Hattuszili III                	                    1263-1245 ( wg D.Ś. )
       			                                            1289-1265 ( Hattusili III wg S.B.W. )
       			          	                                ok.1278-1250  ( Chattuszili III wg K.T.V.S.O. )
-      			          	                                ok.1250 ( Hattusilis II wg S.C. )
+      			          	                                ok.1250 ( Hattusilis II wg S.C. ) ( Hattusilis III wg Hur. )
       				                                          przed 1290-? ( Chattušilliš III wg E.P. )
       			          	                                1281-1250 ( Hattusilis wg H.P.S. )
     Tudhalija III               	                      1244-1220 ( wg D.Ś. )
       			          	                                1265-1235 ( Tuthalija IV wg S.B.W. )
+                                                        ok.1225 ( Tuthalijas IV wg Hur. )
     Arnuwanda III            	                          1219-1218 ( wg D.Ś. )
       			          	                                1235-1215 ( wg S.B.W. )
     Szuppiluliuma II         	                          1217-1200 ( wg D.Ś. )
       			         	                                  1215-1187 ( Suppiliuliuma III wg S.B.W. )
+  Tahurwailis                                           ? ( wg Hur. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś. i S.B.W.
   Bibliografia :
@@ -8680,6 +8796,7 @@ Królestwo Hetytów
       Encyklopedie panovníků
       Mezopotámie - počátky měst
       Říše slova - Jazykové dějiny světa
+      Huryci
 
 Królestwo Hidżazu
   Dynastia Haszymidów
@@ -9203,7 +9320,7 @@ Liga Irokezów
 
 Isin
   Iszbi-Erra             	                              2017-1985 ( Eszbi-Irra lub Eszbi-erra  wg S.B.W. ) ( wg D.Ś. ) ( Iszbierra wg S.C. )
-      				                                          ? ( Išbi-Erra wg M.P.M. )
+      				                                          ? ( Išbi-Erra wg M.P.M. ) ( Iszbierra wg Hur. )
   Szu-iliszu             	                              1984-1975
   Iddin-Dagan         	                                1974-1954
   Iszme-Dagan        	                                  1953-1935 ( wg D.Ś. i S.B.W. )
@@ -9234,6 +9351,7 @@ Isin
       Starożytny Bliski Wschód
       Starożytne Cywilizacje
       Mezopotámie - počátky měst
+      Huryci
 
 Królestwo Islandii
   Chrystian X                                           1918-1944
@@ -9258,6 +9376,11 @@ Ismirika
   Bibliografia :
       Starożytny Bliski Wschód
 
+Isuwa
+  Ehliszarruma                                          ok.1225
+  Bibliografia :
+      Huryci
+
 Isztunda
   Tuchamme                                              przed 738-po 732
   Bibliografia :
@@ -9265,10 +9388,11 @@ Isztunda
 
 Itaka
   Odyseusz         	                                    ok.1200 p.n.e. ( wg D.G. )
-      			                                            ? ( Odysseus wg Z.Ř. )
+      			                                            ? ( Odysseus wg Z.Ř. ) ( wg Hur. )
   Bibliografia :
       Dzieje Grecji
       Zrození Řecka
+      Huryci
 
 Italia
   Berengar I z Friulu       	                          888-924 ( wg D.Ś. )
@@ -9413,10 +9537,31 @@ Jamato ( Jamatai )
   Bibliografia :
       Dějiny Japonska
 
-Jamhad
-  Jarim-Lim I		                                        ?
+Jamhad ( Jamchad )
+  Sumuepuh                                              ok.1750 p.n.e. ( wg Hur. )
+  Jarim-Lim I         	                                ok.1770 ( Jarimlim wg S.C. )
+                                                        ? ( wg S.B.W. )
+                                                        ok.1700 ( Jarimlim I wg Hur. )
+  Hammurabi I                                           ok.1700 ( Hammurapi wg Hur. )
+  Abbael                                                ? ( wg Hur. )
+  Jarimlim II                                           ? ( wg Hur. )
+  Nikmepa             	                                ok.1695-ok.1685 ( wg S.B.W. )
+                                                        ? ( wg Hur. )
+  Irkabtum             	                                ok.1685-ok.1660 ( wg S.B.W. )
+                                                        ? ( wg Hur. )
+  Jarim-Lim           	                                ok.1660-ok.1645 ( wg S.B.W. )
+                                                        ? ( Jarimlim III wg Hur. )
+  Hammu-rabi II    	                                    ok.1645-ok.1595 ( wg S.B.W. )
+                                                        ? ( Hammurabi II ( Hammurapi ) wg Hur. )
   Bibliografia :
       Starożytny Bliski Wschód
+      Starożytne Cywilizacje
+      Huryci
+
+Januammu
+  Piridaswa                                             ?
+  Bibliografia :
+      Huryci
 
 Japonia
   Okres Yamato
@@ -9770,6 +9915,7 @@ Jen-Mu Żung
       Historia Chin
 
 Jerozolima
+  Arauna                                                ? ( wg Hur. )
   Melchisedech			                                    ? ( wg Ž.V.Ř.S. )
   Dom z Boulogne
     Gotfryd z Bouillon        		                      1099-1100 ( wg D.Ś. i V.N.M.S.D. )
@@ -9827,6 +9973,7 @@ Jerozolima
       Dějiny Byzance
       Zrod střední a východní Evropy
       Židé v římském světě
+      Huryci
 
 Królestwo Jordanii
   Dynastia Haszymidów
@@ -9977,9 +10124,12 @@ Królestwo Kadambów
       Starověká Indie
 
 Kadesz
-  Dadusza                                               ok.1750 p.n.e.
+  Dadusza                                               ok.1750 p.n.e. ( wg S.B.W. )
+  Szutatarra                                            ok.1350-ok.1325 ( wg Hur. )
+  Aitakama                                              ok.1325 ( wg Hur. )
   Bibliografia :
       Starożytny Bliski Wschód
+      Huryci
 
 Kahlan
   As´ad ibn Ali                                         898-920
@@ -10242,6 +10392,11 @@ Królestwo Kandyjskie
 
 Kanem
 
+Kanesz
+  Warsama                                               ?
+  Bibliografia :
+      Huryci
+
 Kangły
 
 Kanjakubdża
@@ -10314,6 +10469,12 @@ Kara Kitaj
   Je-Lü Ta-Szy                                          ?
   Bibliografia :
       Historia Chin
+
+Karahar
+  Tiszatal                                              ?
+  Zardamu                                               ?
+  Bibliografia :
+      Huryci
 
 Karakkuk ( Kaja )
   Bibliografia :
@@ -10551,8 +10712,10 @@ Katana ( Catania )
 
 Katanum
   Amatpiel                                              ok.1750 p.n.e.
+                                                        ? ( Amutpiel wg Hur. )
   Bibliografia :
       Starożytne Cywilizacje
+      Huryci
 
 Katar
   Szejkanat Kataru
@@ -10574,9 +10737,15 @@ Królestwo Kathmandu
   Bibliografia :
       Tybet - zarys historii kultury
 
-Katna
+Katmuhi
+  Kundiphalie                                           ok.925 p.n.e.
   Bibliografia :
-      Říše slova - Jazykové dějiny světa
+      Huryci
+
+Katna ( Katana )
+  Akizzi                                                ?
+  Bibliografia :
+      Huryci
 
 Kazachowie
   Chakk-Nazar	                                          1538-1580
@@ -10827,6 +10996,11 @@ Kikapu ( Kickapoo )
   Bibliografia :
       Czarne wampuny głoszą wojnę
 
+Kimasz
+  Rasziszi                                              ok.2000 p.n.e.
+  Bibliografia :
+      Huryci
+
 Kimmerowie
   Tuszpa                                      	        ? ( wg T. )
   Tugdammu ( Lygdamis )		                              ok.650 p.n.e. ( wg S.B.W. )
@@ -10889,10 +11063,17 @@ Kition
       Foiničané
 
 Kizzuwatna
-  Isputahsu	                                            ok.1540-1520
-  Pilia                 	                              ok.1475
+  Isputahsu	                                            ok.1540-1520 ( wg S.B.W. )
+                                                        ? ( wg Hur. )
+  Pilia ( Pillija )                	                    ok.1475 ( wg S.B.W. )
+                                                        ok.1460 ( Pallija wg Hur. )
+  Sunassura I                                           ok.1350 ( wg Hur. )
+  Eheja                                                 ? ( wg Hur. )
+  Pattatisu                                             ? ( wg Hur. )
+  Sunassura II                                          ? ( wg Hur. )
   Bibliografia :
       Starożytny Bliski Wschód
+      Huryci
 
 Klazomenai
   Bibliografia :
@@ -11897,7 +12078,7 @@ Lagasz
   Eannatum                              	              2454-2425 ( wg D.Ś. )
           					                                    ok.2500-ok.2485 ( E.ana.tum wg S.B.W. )
       					                                        ok.2400 ( wg E.P. ) ( Ennatum wg S.C. )
-      					                                        ? ( wg M.P.M. )
+      					                                        ? ( wg M.P.M. ) ( Eanatum wg Hur. )
   Enannatum I                          	                2424 2405 ( wg D.Ś. )
                   					                            ok.2485-ok.2465 ( En.ana.tum I wg S.B.W. )
       					                                        ? ( Enannatum wg M.P.M. )
@@ -11949,6 +12130,7 @@ Lagasz
       Encyklopedie panovníků
       Mezopotámie - počátky měst
       Říše slova - Jazykové dějiny světa
+      Huryci
 
 Lahore
   Mu´izz-ud-dín Muhammad                                1186 n.e.-?
@@ -12099,6 +12281,7 @@ Larsa
                                                	        ok.1760-ok.1690 ( wg V.N.M.S.D. )
                                                	        ok.1800 ( Rimsin wg K.T.V.S.O. )
       				                                          przed 1821-po 1794 ( Rím-Sín wg M.P.M. )
+                                                        ?-1697 ( Rimsin wg Hur. )
   Rimsin II               	                            ok.1742 ( wg S.C. )
   Bibliografia :
       Dynastie Świata
@@ -12107,6 +12290,7 @@ Larsa
       Kralovská tažení ve starém Orientu
       Starożytne Cywilizacje
       Mezopotámie - počátky měst
+      Huryci
 
 Las
   Bibliografia :
@@ -12606,7 +12790,7 @@ Luksemburg
       Dynastie Świata
       Monarchs , Rulers , Dynasties and Kingdoms of the World
 
-Lulubi
+Lulubi ( Lullubum )
   Anu-banini		                                        ?
   Bibliografia :
       Starożytny Bliski Wschód
@@ -13122,6 +13306,11 @@ Mały Pölü ( Gilgit )
   Bibliografia :
       Dzieje dawnych Turków
 
+Mama
+  Anumhorbi ( Anumherwa )                               ?
+  Bibliografia :
+      Huryci
+
 Państwo Mamertynów
   Bibliografia :
       Historia Powszechna – Starożytność
@@ -13195,6 +13384,11 @@ Marathowie
   Bibliografia :
       Encyklopedie panovníků
 
+Mardaman
+  Tiszulme                                              ?
+  Bibliografia :
+      Huryci
+
 Margiana
   Frada                                                 ?-521 ( ?-27.11. )
   Bibliografia :
@@ -13205,12 +13399,14 @@ Mari
   Jaggid-Lim                    	                      ok.1850 ( wg S.B.W. )
       				                                          ? ( wg M.P.M. )
   Jahdun-Lim                   	                        ok.1825-1810 ( wg S.B.W. ) ( Jachdunlim wg E.P. )
+                                                        ?-ok.1730 ( Jahdunlim wg Hur. )
   Jasme-adad                 	                          ok.1810 ( wg S.B.W. )
       				                                          ok.1780 ( Jasmachadad wg S.C. )
       				                                          ? ( Jasmach-addu wg M.P.M. )
   Zimri-Lim                      	                      1782-1759 ( wg S.B.W. )
       			        	                                  1779-1757 ( wg S.C. )
       				                                          ? ( Zimrí-Lim wg M.P.M. )
+                                                        ok.1715-1693 ( Zimrilim wg Hur. )
   Uwagi :
       Wszystko oprócz oznaczonego wg S.B.W.
   Bibliografia :
@@ -13218,6 +13414,7 @@ Mari
       Starożytne Cywilizacje
       Encyklopedie panovníků
       Mezopotámie - počátky měst
+      Huryci
 
 Królestwo Marinidów
   Dynastia Marinidów
@@ -13585,8 +13782,9 @@ Megara
       Zrození Řecka
 
 Megiddo
+  Piridija                                              ?
   Bibliografia :
-      Starożytne Cywilizacje
+      Huryci
 
 Księstwo Meklemburgii
   Przybysław               	                            1160-1178
@@ -13813,27 +14011,42 @@ Miśnia
       Dynastie Świata
       Fridrich Barbarossa – císař a rytíř
 
-Mitanni ( Hanigalbat , Chanigalbat )
-  Kirta                   			                        ok.1600-ok.1580
-  Szuttarna            			                            ok.1580-ok.1530
-  Barattarna ( Parattarna )		                          ok.1530-ok.1500
-  Parsatattar          		                              ok.1500-ok.1490
+Mitanni ( Hanigalbat , Chanigalbat , Haligalbat , Maitani , Habingalbat )
+  Kirta                   			                        ok.1600-ok.1580 ( wg S.B.W. )
+                                                        ? ( wg Hur. )
+  Szuttarna            			                            ok.1580-ok.1530 ( wg S.B.W. )
+                                                        ? ( Szuttarna I wg Hur. )
+  Barattarna ( Parattarna )		                          ok.1530-ok.1500 ( wg S.B.W. )
+                                                        ok.1460 ( Parattarna I wg Hur. )
+  Parsatattar          		                              ok.1500-ok.1490 ( wg S.B.W. )
+                                                        ? ( Parsatatar wg Hur. )
   Szauszszatar       		                                ok.1490-ok.1440 ( wg S.B.W. )
       				                                          ok.1400 ( Szauszatar wg S.C. )
+                                                        ? ( Szausztatar wg Hur. )
+  Parattarna II                                         ? ( wg Hur. )
   Artatama I          			                            ok.1440-ok.1415 ( wg S.B.W. )
       					                                        ok.1400 ( Artatam I wg S.C. )
-  Szuttarna II        			                            ok.1415-ok.1385
+                                                        ok.1390 ( wg Hur. )
+  Szuttarna II        			                            ok.1415-ok.1385 ( wg S.B.W. )
+                                                        ? ( wg Hur. )
+  Artaszumara                                           ?-ok.1365 ( wg Hur. )
   Tuszratta            			                            ok.1385-ok.1355 ( wg S.B.W. )
       				                                          ok.1345 ( Tuszrata wg S.C. )
       					                                        ok.1350 ( Tušratta wg M.P.M. )
                                                         ok.1350-? ( Tušratta wg Ř.S.J.Ď.S. )
+                                                        ok.1365-1322 ( Tuiszeratta wg Hur. )
   Artatama II        			                              ok.1355-ok.1345
   Szuttarna III                       	                ok.1345-ok.1330
-  Mattiwaza          			                              ok.1330-ok.1300
-  Szattuara            			                            ok.1300-ok.1290
-  Wasahatta          			                              ok.1290-ok.1245 ( wg S.B.W. )
-      					                                        ? ( Vasašata wg A.O.M.S.K.R. )
+                                                        ok.1320 ( wg Hur. )
+  Mattiwaza ( Szattiwaza )         			                ok.1330-ok.1300 ( wg S.B.W. )
+                                                        ok.1320 ( Kiliteszub wg Hur. )
+  Szattuara            			                            ok.1300-ok.1290 ( wg S.B.W. )
+                                                        ok.1275 ( Szattuara I wg Hur. )
+  Wasahatta ( Wasaszatta )                              ok.1290-ok.1245 ( wg S.B.W. )
+      					                                        ? ( Vasašata wg A.O.M.S.K.R. ) ( wg Hur. )
+  Szattuara II                                          ok.1250 ( wg Hur. )
   Arnuwanda III   			                                ok.1245-?
+  Ariteszub                                             ok.1200 ( wg Hur. )
   Uwagi :
       Wszystko oprócz oznaczonego wg S.B.W.
   Bibliografia :
@@ -13842,6 +14055,7 @@ Mitanni ( Hanigalbat , Chanigalbat )
       Asýrie - od městského státu k říši
       Mezopotámie - počátky měst
       Říše slova - Jazykové dějiny světa
+      Huryci
 
 Mitylena
   Myrsilos      	                                      ? ( wg S.C. )
@@ -14190,10 +14404,13 @@ Mthethwa
 
 Mugan
 
-Mugisz
-  Idrimi		                                            ?
+Mugisz ( Mukisz )
+  Idrimi		                                            ok.1460 p.n.e. ( wg Hur. )
+                                                        ? ( wg S.B.W. )
+  Nikmepa                                               ok.1450 ( wg Hur. )
   Bibliografia :
       Starożytny Bliski Wschód
+      Huryci
 
 Mukurra
   Kabri ibn Surur	                                      ?
@@ -14324,6 +14541,10 @@ Naksos
       Encyklopedie panovníků
       Zrození Řecka
 
+Namar
+  Bibliografia :
+      Huryci
+
 Namur
   Hrabstwo Namur
     Berengar                    	                      907-932
@@ -14396,6 +14617,11 @@ Nawahowie
   Manuelito                                             ?
   Bibliografia :
       Wielcy Indianie Ameryki Północnej
+
+Nawar
+  Atalszen                                              ?
+  Bibliografia :
+      Huryci
 
 Królestwo Nawarry
   Dynastia Inigo
@@ -14667,6 +14893,12 @@ Niemcy
       Guderian tankový generál
       Klasické Řecko
 
+Nija
+  Takuwa                                                ok.1325 p.n.e.
+  Akitteszub                                            ok.1325
+  Bibliografia :
+      Huryci
+
 Nikaragua
   Bibliografia :
       Mocarstwa Świata
@@ -14675,6 +14907,11 @@ Nikaragua
 Nina
   Bibliografia :
       Starożytne Cywilizacje
+
+Niniwa
+  Tiszatal                                              ?
+  Bibliografia :
+      Huryci
 
 Nipmukowie
   Mottoonas(a)                                          przed 1675-1676 ( ?-lipiec )
@@ -14970,6 +15207,14 @@ Nubia
   Hurgonafor                                            ?
   Bibliografia :
       Sedm Kleopater
+
+Nuhaszsze
+  Szarrupszi                                            ok.1350 p.n.e.
+  Tette                                                 ok.1325
+  Addunirari                                            ok.1325
+  Urhiteszub                                            ok.1250
+  Bibliografia :
+      Huryci
 
 Nukarda
 
@@ -15555,6 +15800,11 @@ Państwo Pandjów
 Pantikapaion
   Bibliografia :
       Svět helénismu
+
+Papanhi
+  Kiliteszub                                            ok.1100 p.n.e.
+  Bibliografia :
+      Huryci
 
 Papua-Nowa Gwinea
   Bibliografia :
@@ -19113,13 +19363,24 @@ Silla
       Historia Chin
       Říše slova - Jazykové dějiny světa
 
+Simanum ( Simarnum )
+  Puszam                                                ?
+  Bibliografia :
+      Huryci
+
 Simiru
   Bibliografia :
       Foiničané
 
 Simurrum
+  Baba                                                  ok.2125 p.n.e.
+  Puttimatal                                            ok.2125
+  Tabbandarah                                           ok.2000
+  Kiribulme                                             ?
+  Zabazuna                                              ?
+  Iddisuen                                              ?
   Bibliografia :
-      Starożytne Cywilizacje
+      Huryci
 
 Sindh
   Dáhar                                                 ok.708 n.e.
@@ -19627,10 +19888,12 @@ Królestwo Sussexu
   Bibliografia :
       Velká nástěnná mapa světových dějin
 
-Suza
-  Kamniskires                                           ok.147 p.n.e.
+Suza ( Susa )
+  Szupram                                               ? ( wg Hur. )
+  Kamniskires                                           ok.147 p.n.e. ( wg S.K. )
   Bibliografia :
       Sedm Kleopater
+      Huryci
 
 Suzdal
   Księstwo Suzdalskie
@@ -20449,6 +20712,11 @@ Tali
   Bibliografia :
       Historia Chin
 
+Tall Taannach
+  Piriamasda                                            ?
+  Bibliografia :
+      Huryci
+
 Tamassos
   Admesu                                                ok.650 p.n.e.
   Bibliografia :
@@ -20521,7 +20789,7 @@ Teby
   Pentheus        	                                    ? ( wg T.H.S. i Z.Ř. i K.Ř. )
   Kadmos          	                                    1493-1459 ( wg V.N..S.D. )
       		                                              ok.1350/1380 ( wg D.G. )
-      			                                            ? ( wg M.P.C.Ś. i Z.Ř. i K.Ř. )
+      			                                            ? ( wg M.P.C.Ś. i Z.Ř. i K.Ř. i Hur. )
   Polydoros       	                                    1459-1430
   Labdakos        	                                    1430-1388
   Amfion           	                                    1388-ok.1360
@@ -20546,6 +20814,7 @@ Teby
       Mity pięciu części świata
       Zrození Řecka
       Klasické Řecko
+      Huryci
 
 Tegea
   Agapenor	                                            ?
@@ -21012,6 +21281,11 @@ Tunhuang
   Bibliografia :
       Tybet - zarys historii kultury
 
+Tunip
+  Irteszub                                              ok.1450 p.n.e.
+  Bibliografia :
+      Huryci
+
 Tun-sun
   Bibliografia :
       Khmerové
@@ -21072,6 +21346,11 @@ Turioj
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
 
+Turkisz
+  Kiklipatal                                            ?
+  Bibliografia :
+      Huryci
+
 Turkmenia
   Bibliografia :
       Svět helénismu
@@ -21080,6 +21359,12 @@ Turkmenowie
   Iskender		                                          ?
   Bibliografia :
       Arménie
+
+Turukku
+  Lidaja                                                ?
+  Zazija                                                ok.1700 p.n.e.
+  Bibliografia :
+      Huryci
 
 Hrabstwo Turyngii
   Ludvík II                	                            ?
@@ -21240,7 +21525,9 @@ Ugarit
   Ammistamru I		                                      ok.1400-ok.1385
   Nikmadu II                 	                          ok.1385-ok.1340 ( wg S.B.W. )
       				                                          ok.1350 ( Niqmadu II wg E.P. )
-  Ar-Khalb                    	                        ok.1290
+                                                        ok.1325 ( wg Hur. )
+  Ar-Khalb                    	                        ok.1290 ( wg S.B.W. )
+                                                        ? ( Arhalba wg Hur. )
   Nikmepa                     	                        1336-1265
   Ammistamru               	                            ok.1265-ok.1255
   Ibiranu                        	                      ok.1255-ok.1210
@@ -21250,6 +21537,7 @@ Ugarit
   Bibliografia :
       Starożytny Bliski Wschód
       Encyklopedie panovníků
+      Huryci
 
 Ujgurzy
   Szycien-sycin		                                      ?
@@ -21279,6 +21567,11 @@ Ujgurzy
     Mangli					                                    przed 865-?
   Bibliografia :
       Dzieje dawnych Turków
+
+Ukulzat
+  Takipszarri                                           ok.1325 p.n.e.
+  Bibliografia :
+      Huryci
 
 Ukumani
   Bibliografia :
@@ -21385,6 +21678,11 @@ Państwo Upaguptów
   Bibliografia :
       Starověká Indie
 
+Upe
+  Piriawaza                                             ?
+  Bibliografia :
+      Huryci
+
 Ur
   1.dynastia z Ur
     Enšakušan		                                        ? ( wg M.P.M. )
@@ -21409,55 +21707,67 @@ Ur
     Ur-Nammu               	                            2112-2095 ( wg D.Ś. ) ( Urnammu wg S.C. )
       			       	                                    2111-2094 ( Ur.Nammu wg S.B.W. )
       				                                          ok.2113-2096 ( Ur-nammu wg M.P.M. )
+                                                        ? ( Urnammu wg Hur. )
     Szulgi                      	                      2094-2047 ( wg D.Ś. i S.C. ) ( Šulgi wg M.P.M. )
       			       	                                    2093-2046 ( wg S.B.W. )
+                                                        ok.2000 ( wg Hur. )
     Amar-Suena           	                              2046-2038 ( wg D.Ś. )
        			       	                                    2045-2037 ( wg S.B.W. )
       			       	                                    ok.2040 ( Amarsuen wg S.C. )
       			                                            ok.2046-2038 ( Amar-sín wg M.P.M. )
+                                                        ? ( Amarsuen wg Hur. )
     Szu-Suen                	                          2037-2029 ( wg D.Ś. )
       			       	                                    2036-2028 ( Szu-Sin wg S.B.W. )
       				                                          ok.2037-2027 ( Šú-sín wg M.P.M. )
+                                                        ? ( Szusin wg Hur. )
     Ibbi-Suen                	                          2028-2004 ( wg D.Ś. ) ( Ibbisin wg S.C. )
       			       	                                    2027-2003 ( Ibbi-Sin wg S.B.W. )
       				                                          ok.2027-2003 ( Ibbisín wg E.P. )
       				                                          ok.2026-2004 ( Ibbi-sín wg M.P.M. )
+                                                        ? ( Ibbisin wg Hur. )
   Bibliografia :
       Dynastie Świata
       Starożytny Bliski Wschód
       Starożytne Cywilizacje
       Encyklopedie panovníků
       Mezopotámie - počátky měst
+      Huryci
 
 Uranopolis
   Alexarchos                                            ?
   Bibliografia :
       Tvář helenistického světa
 
-Urartu
+Urartu ( Biainili )
   Biasnili                  	                          ? ( wg A. )
-  Arame                   	                            ? ( wg A. )
+  Arame ( Aramu )                   	                  860-840 ( wg Hur. )
+                                                        ? ( wg A. )
   Lutiptri                   	                          ok.870-ok.850 ( wg S.B.W. )
   Sarduri I                	                            832-825 ( wg S.B.W. i A.Č. )
       		              	                              844-828 ( Sardur I wg A. )
       		              	                              ok.832 ( wg S.C. )
+                                                        840-825 ( wg Hur. )
   Iszpuini                  	                          824-806 ( wg S.B.W. i A.Č. )
       		              	                              828-810 ( Iszpuinis wg A. )
       		              	                              ok.825-810 ( Ispuini I wg S.C. )
+                                                        ? ( wg Hur. )
   Menua                    	                            805-788 ( wg S.B.W. i A.Č. )
       		              	                              810-785 ( wg A. i S.C. )
+                                                        ? ( wg Hur. )
   Argiszti I                	                          787-766 ( wg S.B.W. i A.Č. )
       				                                          785-753 ( wg A. )
       				                                          ok.785-763 ( wg S.C. )
+                                                        ? ( wg Hur. )
   Sarduri II                	                          765-733 ( wg S.B.W. i A.Č. )
       				                                          753-735 ( Sardur II wg A. )
       				                                          ok.763-734 ( wg S.C. )
       				                                          ? ( Sardur II wg H.P.S. )
+                                                        760-730 ( wg Hur. )
       				                                          przed 735-? ( wg A.O.M.S.K.R. )
   Rusa I                 		                            730-714 ( wg A.Č. ) ( Rusa wg S.B.W. )
       				                                          735-713 ( wg A. )
       				                                          ok.710 ( wg S.C. )
-      				                                          przed 714-? ( wg A.O.M.S.K.R. )
+      				                                          przed 714-? ( wg A.O.M.S.K.R. i Hur. )
   Rusa II                    	                          678-? ( wg A.Č. )
                                                  	      ?-po 654 ( wg S.B.W. )
                                                      	  ? ( wg A. i A.O.M.S.K.R. )
@@ -21473,6 +21783,13 @@ Urartu
       Historia Powszechna – Starożytność
       Asýrie - od městského státu k říši
       Zrození Řecka
+      Huryci
+
+Urbilum
+  Nanibatal                                             ?
+  Kitatal                                               ?
+  Bibliografia :
+      Huryci
 
 Urbino
   Hrabstwo Urbino
@@ -21504,9 +21821,22 @@ Urísa
       Starověká Indie
 
 Urkisz
-  Tisz-adal		                                          ?
+  Szatarmata                                            ? ( wg Hur. )
+  Atalszen                                              ? ( wg Hur. )
+  Tisz-adal	( Tiszatal )                                ? ( wg S.B.W. i Hur. )
   Bibliografia :
       Starożytny Bliski Wschód
+      Huryci
+
+Urrahinasz
+  Szaditeszub                                           ok.1100 p.n.e.
+  Bibliografia :
+      Huryci
+
+Urszu
+  Szennam                                               ?
+  Bibliografia :
+      Huryci
 
 Urugwaj
   Bibliografia :
@@ -21531,6 +21861,7 @@ Uruk
   Utu.hengal                   	                        ok.2115-ok.2100 ( wg S.B.W. )
       			     	                                      2119-2113 ( wg S.C. )
       				                                          ? ( Utuchegal wg M.P.M. )
+                                                        ok.2050 ( Utuhengal wg Hur. )
   Belat-Sunat                  	                        ok.2100-ok.2060 ( wg V.N.M.S.D. )
   Sinmuballit                   	                      ok.2060-ok.1995 ( wg V.N.M.S.D. )
   Sin-kaszid                    	                      1865-1845
@@ -21551,6 +21882,7 @@ Uruk
       Starożytne Cywilizacje
       Mity pięciu części świata
       Mezopotámie - počátky měst
+      Huryci
 
 Usanata ( Usnatu )
   Bibliografia :
@@ -22179,11 +22511,18 @@ Sułtanat Wielkich Seldżuków
       Říše slova - Jazykové dějiny světa
 
 Wielkie Hatti ( Karkemisz )
-  Ini-Teszub		                                        ok.950 p.n.e.
-  Sangar                   	                            ok.870-po 853
-  Pisiris                    	                          ok.738
+  Pijassilis ( Szarrikuszuh )                           ok.1325 p.n.e. ( wg Hur. )
+  Sahurunuwa                                            ? ( wg Hur. )
+  Initeszub                                             ? ( wg Hur. )
+  Talmiteszub                                           ? ( wg Hur. )
+  Ku(n)ziteszub                                         ok.1200 ( wg Hur. )
+  Initeszub                                             ok.1100 ( wg Hur. )
+  Ini-Teszub		                                        ok.950 ( wg S.B.W. )
+  Sangar                   	                            ok.870-po 853 ( wg S.B.W. )
+  Pisiris                    	                          ok.738 ( wg S.B.W. )
   Bibliografia :
       Starożytny Bliski Wschód
+      Huryci
 
 Księstwo Wielkomorawskie
   Mojmír I                  	                          po 833 n.e.-? ( wg D.P.I.R.G. )
@@ -22591,6 +22930,11 @@ Zimarra
   Bibliografia :
       Foiničané
 
+Ziribaszni
+  Artamania                                             ?
+  Bibliografia :
+      Huryci
+
 Zirih-Garan
 
 Państwo Zirydów
@@ -22723,7 +23067,7 @@ Państwo Zyjadydów
       				                                          1030-1010 ( wg S.B.W. )
                                                  	      1012-1004 ( wg K.T.V.S.O. )
       				                                          ok.1020-1006 ( wg S.C. )
-      			    	                                      ? ( wg H.P.S. i Ž.V.Ř.S. )
+      			    	                                      ? ( wg H.P.S. i Ž.V.Ř.S. i Hur. )
     Dawid                  	                            1010-970 ( wg D.Ś. i S.B.W. )
                                                  	      1055-1015 ( wg V.N.M.S.D. )
                                                  	      1004-965 ( wg K.T.V.S.O. )
@@ -22731,7 +23075,7 @@ Państwo Zyjadydów
       				                                          ok.950 ( wg D.G. )
       				                                          ok.1006-965 ( wg S.C. )
       				                                          ok.1000-ok.985 ( wg H.P.S. )
-      				                                          ? ( David wg Ž.V.Ř.S. )
+      				                                          ? ( David wg Ž.V.Ř.S. ) ( wg Hur. )
     Salomon		                                          970-931 ( wg D.Ś. i S.B.W. )
                                                  	      1015-975 ( wg V.N.M.S.D. )
                                                  	      965-926 ( wg K.T.V.S.O. )
@@ -22754,6 +23098,7 @@ Państwo Zyjadydów
       Ostrovy lidojedů
       Židé v římském světě
       A Short Account Of The Destruction Of The Indies
+      Huryci
 
 Bibliografia :
     [1] Monarchs , Rulers , Dynasties and Kingdoms of the World , R.F.Tapsell , 1984
@@ -22829,5 +23174,6 @@ Bibliografia :
     [71] Fidel & Che - A Revolutionary Friendship , Simon Reid-Henry , 2007
     [72] Czarne wampuny głoszą wojnę , Jan Szczepański , 1970
     [73] Severské mýty , R. I. Page , 2007
+    [74] Huryci , Maciej Popko , 2005
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
