@@ -32,6 +32,7 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Conquistadors of the Useless - Lionel Terray
       - Dejiny Indie - Jaroslav Strnad
       - Dejiny Libye - Eduard Gombar
+      - Let Over Lambda - Doug Hoyte
       - The Nurture Assumption - Judith Rich Harris
       - Moby Dick - Herman Melville
       - No Two Alike - Judith Rich Harris
