@@ -11657,7 +11657,8 @@ Kościół
       		       					                              1198-1216 ( ?-16.7. ) ( wg K.V. )
       						                                      przed 1204-? ( Inocenc III wg E.P. )
     Honoriusz III ( Cencio Savelli )                   	1216-1227
-    Grzegorz IX  ( Ugolini di Segni )                  	1227-1241
+    Grzegorz IX  ( Ugolini di Segni )                  	1227-1241 ( wg Tapsella i V.N.M.S.D. )
+                                                        ? ( wg M.N.C. )
     Celestyn IV ( Goffredo Castiglione )              	1241-1243 ( wg Tapsella )
     Innocenty IV ( Sinibaldo de´ Fieschi )   		        1241-1254 ( wg V.N.M.S.D. )
                                                         1243-1254 ( wg Tapsella )
@@ -11688,7 +11689,8 @@ Kościół
     Benedykt XI ( Niccolo Boccasini )                  	1303-1305
     Klement V ( Raymond Bertrand de Got )            	  1303-1313 ( wg V.N.M.S.D. )
                                                         1305-1316 ( wg Tapsella )
-    Jan XXII ( Jacques Dueze )                        	1316-1334
+    Jan XXII ( Jacques Dueze )                        	1316-1334 ( wg Tapsella i V.N.M.S.D. )
+                                                        przed 1320-? ( wg M.N.C. )
     Mikołaj V ( Pietro di Corbara )                    	1328-1330 ( wg Tapsella )
     Benedykt XII ( Jacques Fournier )                 	1334-1342
     Klement VI ( Pierre Roger de Beaufort )           	1342-1352
@@ -11721,11 +11723,12 @@ Kościół
     Mikołaj V ( Tommaso Parentucelli )                 	1447-1455
     Kalikst III ( Alonso Borgia )                      	1455-1458
     Pius II ( Aeneas Silvio de´ Piccolomini )        	  1458-1464 ( wg V.N.M.S.D. i Tapsella )
-      						     	                                ? ( wg Ř.V.G. )
+      						     	                                ? ( wg Ř.V.G. i M.N.C. )
     Paweł II  ( Pietro Barbo )                        	1464 -1471
     Sykstus IV ( Francesco della Rovere )             	1471-1484 ( wg Tapsella )
       						    	                                ? ( wg K.R.I.C.R. )
-    Innocenty VIII ( Giovanni Battista Cibo )          	1484-1492
+    Innocenty VIII ( Giovanni Battista Cibo )          	1484-1492 ( wg Tapsella i V.N.M.S.D. )
+                                                        ? ( wg M.N.C. )
     Aleksander VI ( Rodrigo Borgia )                   	1492-1503 ( wg Tapsella i V.N.M.S.D. )
       							                                    ? ( Alexandr VI wg Z.V.C. )
       							                                    przed 1493-? ( Alexander VI wg A.S.A.O.T.D.O.T.I. )
@@ -11829,6 +11832,7 @@ Kościół
       A Short Account Of The Destruction Of The Indies
       Poszukiwanie języka doskonałego
       Říše slova - Jazykové dějiny světa
+      Młot Na Czarownice
 
 Kotyora
   Bibliografia :
@@ -23067,7 +23071,7 @@ Państwo Zyjadydów
       				                                          1030-1010 ( wg S.B.W. )
                                                  	      1012-1004 ( wg K.T.V.S.O. )
       				                                          ok.1020-1006 ( wg S.C. )
-      			    	                                      ? ( wg H.P.S. i Ž.V.Ř.S. i Hur. )
+      			    	                                      ? ( wg H.P.S. i Ž.V.Ř.S. i Hur. i M.N.C. )
     Dawid                  	                            1010-970 ( wg D.Ś. i S.B.W. )
                                                  	      1055-1015 ( wg V.N.M.S.D. )
                                                  	      1004-965 ( wg K.T.V.S.O. )
@@ -23099,6 +23103,7 @@ Państwo Zyjadydów
       Židé v římském světě
       A Short Account Of The Destruction Of The Indies
       Huryci
+      Młot Na Czarownice
 
 Bibliografia :
     [1] Monarchs , Rulers , Dynasties and Kingdoms of the World , R.F.Tapsell , 1984
@@ -23175,5 +23180,6 @@ Bibliografia :
     [72] Czarne wampuny głoszą wojnę , Jan Szczepański , 1970
     [73] Severské mýty , R. I. Page , 2007
     [74] Huryci , Maciej Popko , 2005
+    [75] Młot Na Czarownice , Jakub Sprenger , Henryk Kraemer , Jerzy Szafiański (przedmowa) , 2008
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
