@@ -5,7 +5,6 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Dynasties of the World: A Chronological and Genealogical Handbook - John E. Morby
       - Black Robe - Brian Moore
       - Category Theory in Context - Emily Riehl
-      - The Beginning of Infinity - David Deutsch
       - Kronika Slovanu - Helmold z Bosau
       - Speaking Our Minds - Thom Scott-Phillips
       - Radical Enlightenment - Jonathan Israel
@@ -28,8 +27,6 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Artificial Intelligence for Humans, Volume 1: Fundamental Algorithms - Jeff Heaton
       - Artificial Intelligence for Humans, Volume 2: Nature-Inspired Algorithms - Jeff Heaton
       - Artificial Intelligence for Humans, Volume 3: Deep Learning and Neural Networks - Jeff Heaton
-      - Types and Programming Languages - Benjamin C. Pierce
-      - Conquistadors of the Useless - Lionel Terray
       - Dejiny Indie - Jaroslav Strnad
       - Dejiny Libye - Eduard Gombar
       - Let Over Lambda - Doug Hoyte
