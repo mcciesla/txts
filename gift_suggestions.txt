@@ -16,7 +16,6 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Nanga Parbat Pilgrimage: The Lonely Challenge - Hermann Buhl
       - Hermann Buhl Climbing Without Compromise - Reinhold Messner, Horst Hofler
       - Dejiny Sasu - Widukind z Corvey
-      - The Blank Slate - Steven Pinker
       - Type-driven Development with Idris - Edwin Brady
       - Feynman Lectures On Computation - Richard P. Feynman
       - Who’s #1? The Science of Rating and Ranking - Amy Langville , Carl Meyer
@@ -31,7 +30,6 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Dejiny Libye - Eduard Gombar
       - Let Over Lambda - Doug Hoyte
       - The Nurture Assumption - Judith Rich Harris
-      - Moby Dick - Herman Melville
       - No Two Alike - Judith Rich Harris
       - Sapiens: A Brief History of Humankind - Yuval Noah Harari
       - Words On The Move: Why English Won’t, and Can’t, Sit Still (Like, Literally) - John McWhorter
