@@ -225,6 +225,7 @@ POP.SCIENCE :
         Až na konec světa , výpravy v Himálaji a v Karakoramu ; Reinhold Messner
         Červená světlice na Nanga Parbatu ; Reinhold Messner
         Cho Oyu , tyrkysová bohyně ; Reinhold Messner
+        Conquistadors of the Useless - From The Alps To Annapurna ; Lionel Terray
         Dersu Uzala ; Wladimir K. Arsenjew
         Dzikie Banany ; Arkady Fiedler
         Gara jaka ; Desmond Varaday
@@ -233,7 +234,7 @@ POP.SCIENCE :
         Into Thin Air , A personal account of the Everest disaster ; Jon Krakauer
         Karpatské hry ;  Miloslav Nevrlý
         Kukuczka - opowieść o najsłynniejszym polskim himalaiście ; Dariusz Kortko , Marcin Pietraszewski
-        Mój pionowy świat - Jerzy Kukuczka
+        Mój pionowy świat ; Jerzy Kukuczka
         Moje Życie na Krawędzi ; Reinhold Messner
         The Mountains of My Life ; Walter Bonatti
         Ostrovy lidojedů ; Miloslav Stingl
@@ -393,17 +394,66 @@ Borges , Jorge Luis - The Aleph - EN
                     - Příběh dvou mužů, kteří měli sen - CZ
 					- Teologem i po smrti - CZ
 					- Velkodušný nepřítel - CZ
+Broniewski , Władysław - Dla dzieci - O
+                            - Na narodziny wnuczki - O
+                            - Pierwiosnek - O
+                            - Pierwszy motylek - O
+                            - Kominiarz - O
+                            - Śmigus - O
+                            - Słowik - O
+                            - Liście kasztanu - O
+                            - W ogródku Zosi - O
+                            - Tramwaj - O
+                            - Parowóz - O
+                            - Grany w zielone - O
+                            - Wakacje - O
+                            - Za wsią Lipki - O
+                            - Powódź - O
+                            - Wróżby - O
+                            - Kukułka - O
+                            - Zajączki - O
+                            - Jarzębina - O
+                            - Sam do szkoły - O
+                            - Literki - O
+                            - Teczka Zosi - O
+                            - Pożar - O
+                            - W parku - O
+                            - Odlot bocianów - O
+                            - Samolot - O
+                            - Zbieramy kasztany - O
+                            - Jesień - O
+                            - Babie lato - O
+                            - Wiewiórka - O
+                            - Liście - O
+                            - Dębowe liście - O
+                            - Zegary - O
+                            - Jesienny wiatr - O
+                            - Zaduszki - O
+                            - Świerk - O
+                            - Sklepik spółdzielczy - O
+                            - Opatrujemy okna - O
+                            - Płot w zimie - O
+                            - Wróbelki zimą - O
+                            - Choinki - O
+                            - Narty - O
+                            - Tłusty czwartek - O
 Brooks , Max - World War Z - O
 Brown , Dale - Srebrna wieża - POL
 Brown , Will C. - Kowboj Kolumb - POL
 Brzechwa , Jan - Na Straganie - O
                - Na Wyspach Bergamutach - O
                - Szelmostwa Lisa Witalisa - O
+               - Bajka o królu - O
+               - Sójka - O
+               - Kaczki - O
 Burgess , Anthony - Clockwork Orange - O
 Burroughs , Edgar Rice - Powrót Tarzana - POL
 Carrol , Lewis - Alice's Adventures in Wonderland - O
                - Through the Looking Glass - O
 Chmielewski , Henryk Jerzy - Tytus, Romek i A'Tomek Księga I - O
+                           - Tytus, Romek i A'Tomek Księga XVII - O
+Christa , Janusz - Kajtek i Koko , Śladem białego wilka - O 
+                 - Kajtek i Koko , Duch bunkra - O 
 Clark , Arthur C. - Miasto i Gwiazdy - POL
 Conrad , Joseph - Heart of Darkness - O
 Cooper , James Fenimore - Jezioro Śmierci - POL
@@ -428,12 +478,65 @@ Feynman , Richard Phillips - Snad ti nedělají starosti cizí názory - CZ
 					       - To nemyslíte vázně pane Feynamane - CZ
 Foreman , L. L. - Dyszle na północ - POL
 Foster , Bennett - Truciciel - POL
+Frey , Ruth - Długi pochód - POL
+                - Wzburzenie w czasie Święta Szałasów - POL
+                - Tumult w świątyni - POL
+                - Wielki przykład - POL
+                - Noc nad Jerozolimą - POL
+                - Długi pochód - POL
+                - Ten, który potrafił obdarowywać - POL
+                - ...A strażnicy upadli na ziemię - POL
+                - Spotkanie u grobu - POL
+                - Człowiek, który nie mógł uwierzyć - POL
+                - Dwie godziny za Jerozolimą - POL
+                - Spotkanie nad jeziorem - POL
+                - Wielkie zbiegowisko - POL
+                - Żyj księgą - POL
+                - Twórca pokoju - POL
 Fuks , Ladislav - Spalovač mrtvol - O
 Glut , Donald F. ; Lucas , George - Hvězdné války , Impérium vrací úder - CZ
 Golding , William - Lord of the Flies - O
 Gombrowicz , Witold - Ferdydurke - O
                     - Kosmos - O
                     - Przewodnik po filozofii w sześć godzin i kwadrans - POL
+Gorzechowska , Jadwiga - Poszedł Marek na jarmarek , Kołysanki i śpiewki dla małych dzieci - O
+                            - Czyja to gąseczka - O
+                            - Gdzie to idziesz Kubiku - O
+                            - Kołomajki - O
+                            - Rozala - O
+                            - Mam tych śpiewek - O
+                            - Od Krakowa jadę - O
+                            - Luli, luli, mój Karliczku - O
+                            - Śpij, Karliczku, śpij - O
+                            - Zaszło jasne słonko - O
+                            - Luli, mój malutki - O
+                            - Śpij, Kasiu - O
+                            - Lulaj, lulaj - O
+                            - Kołysz mi się, kołysz - O
+                            - Oj, nie świeć, mój miesiączku - O
+                            - A, a, kotki dwa - O
+                            - Bzi, bzi, bzi, bzianka - O
+                            - Zaśnijże mi, dziecię - O
+                            - Awa, awa - O
+                            - Za góreczką, niedaleczko - O
+                            - Klimta, klimta, klimtaczek - O
+                            - Pstra sroczka, pstra - O
+                            - Poszedł Marcin na rynek - O
+                            - A na tej góreczce - O
+                            - Zając orał - O
+                            - Na zielonej łące - O
+                            - Ślimaczku, ślimaczku - O
+                            - Poszedł Marek - O
+                            - Kizia-mizia - O
+                            - Koci, koci - O
+                            - A w miseczce dziurka - O
+                            - Tu, tu, tu kokoszka - O
+                            - Siwy koń pije - O
+                            - Chodziła czapla po desce - O
+                            - Tańcowały dwa Michały - O
+                            - A tańcujże, Grzela - O
+                            - Zielona murawa - O
+                            - A gdzie ten Kusy Jan - O
 Gree , Alain ; Gree Gerard - Tomáš objavuje prírodu - SVK
 Grey , Zane - Osioł Tappana - POL
 Guthrie , A. B. - Górski lek - POL
@@ -459,13 +562,32 @@ Kincl , Jaromír; Krum , Gustav - Tarzanův návrat - O
 Kinnan-Rawlings , Marjorie - Roczniak - POL
 Kochanowski , Jan - Odprawa posłów greckich - O
                   - Treny - O
+Konopnicka , Maria - Za tą głębią, za tym brodem... - O
+                        - W polu - O
+                        - Nasze kwiaty - O
+                        - Jabłonka - O
+                        - Deszczyk - O
+                        - Kukułeczka - O
+                        - Na pastwisku - O
+                        - Odlot - O
+                        - Jesienią - O
+                        - Zajączek - O
+                        - Świerszczyk - O
+                        - Zła zima - O
+                        - Ślizgawka - O
+                        - Rzeka - O
+                        - Sanna - O
+                        - Zmarzlak - O
 Koreywo , Marek - Ludzie na Księżycu - O
 Kownacka , Maria - Ogródek - O
 Krasicki , Ignacy - Mikołaja Doświadczyńskiego przypadki - O
 Krasiński , Zygmunt - Nie-Boska komedia - O
-Kraszewski , Józef Ignacy - Chata za Wsią - O
-                          - Stara Baśń - O
+Kraszewski , Józef Ignacy - Chata za wsią - O
+                          - Stara baśń - O
                           - Zygmuntowskie czasy - O
+Krzemieniecka , Lucyna - Z przygód Krasnala Hałabały - O
+Kulmowa , Joanna - Wiersze dla Kaji - O
+                        - 
 L'Amour , Louis - Srebrny kanion - POL
 Le Guin , Ursula K. - City of Illusions - O
                     - The Dispossessed - O
@@ -511,6 +633,7 @@ Lucas , George - Gwiezdne wojny - POL
 Ławicki , Jerzy - Uważaj , Uważaj - O
 Machiavelli , Niccolo - Vladař - CZ
 Macourek , Miloš ; Saudek , Kája - Peruánský deník - O
+Makuszyński , Kornel ; Walentynowicz , Marian - 2-ga księga przygód Koziołka-Matołka - O
 Martin , George R.R. - A Clash of Kings - O
                      - Dreamsongs , A Rretrospective Book One - O
                      - A Feast for Crows - O
@@ -539,6 +662,7 @@ Mickiewicz , Adam - Ballady i Romanse - O
                   - Dziady - O
                   - Grażyna - O
                   - Konrad Wallenrod - O
+                  - Pani Twardowska - O
 Miłosz , Czesław - Ziemia Ulro - O
 Mitchell , David - Cloud Atlas - O
 Molier - Skąpiec - POL
@@ -546,6 +670,7 @@ Molier - Skąpiec - POL
 Montaigne , Michel de - Próby - POL
 Morcinek , Gustaw - O tym, jak Zuzanka poszła w kumy do utopców - POL
 Morrell , David - Rambo , pro přítele (III) - CZ
+Mostowicz , Arnold ; Górny , Alfred ; Polch , Bogusław - Tajemnica Piramidy - O
 Muller , Jaroslav - Přátele zeleného údolí - O
 Neff , Ondřej ; Saudek , Kája - Arnal & dva dračí zuby - O
 Němeček , Jaroslav ; Hojka , Stanislav - Čtyřlístek , Cesta kolem světa - O
@@ -565,8 +690,10 @@ Packard , Edward - Vesmírný upír - CZ
 Parandowski , Jan - Mitologia - O
 Patchett , Mary Elwyn - Brumby - POL
 Pendexter , Hugh - Lata walki - POL
+Peterson , Hans - Magnus, Mateusz i Koń - POL
 Petrus , Jan - Złotogłowy wąż - POL
 Pleva , Josef V. - Robinson Crusoe - O
+Pochwalska , Barbara - Drzewa - O
 Poe , Edgar Allan - The Black Cat - O
                   - The Fall of the House of Usher - O
                   - The Gold-Bug - O
@@ -576,11 +703,40 @@ Poe , Edgar Allan - The Black Cat - O
 				  -	The Oval Portrait - O
                   - The Purloined Letter - O
 				  - William Wilson - O
+Porazińska , Janina - Kozucha Kłamczucha - O
 Pratchett , Terry - Thud! - O
 Prus , Bolesław - Faraon - O
 Przymanowski , Janusz - Czterej pancerni i pies - O
 Pyle , Howard - Wesołe przygody Robin Hooda - POL
 Raine , William Macleod - Ostatnie ostrzeżenie - POL
+Ratajczak , Józef - Wierszyki dla Grzesia - O
+                        - Zaklęcia - O
+                        - Wiosna - O
+                        - Spotkanie - O
+                        - Konik polny - O
+                        - Kaczki na stawie - O
+                        - Życie bławatka - O
+                        - Kwiaty małej Idy - O
+                        - Gil - O
+                        - Dom z drzewa - O
+                        - Lato malowane - O
+                        - Wakacyjne marzenie - O
+                        - Na plaży - O
+                        - Lalka na spacerze - O
+                        - Miasto na drzewie - O
+                        - Stary kotek - O
+                        - Mój pies - O
+                        - Jesień - O
+                        - Pytania - O
+                        - Przed snem - O
+                        - W królestwie nocy - O
+                        - Zagubiona rzeka - O
+                        - Kto zliczy - O
+                        - Lalki - O
+                        - Mróz - O
+                        - Mama w zimie - O
+                        - Przygoda z mrozem - O
+                        - Piosenka o królach - O
 Rhodes , Eugene Manlove - Za tą pustynią - POL
 Roberts , Fred - Walka o honor - POL
                - Wyklęty z Rio Grande - POL
@@ -611,6 +767,7 @@ Steinbeck , John - Of Mice and Men - O
 Stevenson , R. L. - Wyspa skarbów - POL
 Strugačtí, Arkadij a Boris - Piknik u cesty - CZ
 Swift , Jonathan - Podróże Gulliwera - POL
+Pawel ; Szarlota - Pióro contra Flamaster - O
 Szczepańska , Nora - Ucho wodza - O
 Szklarski , Alfred - Przygody Tomka na Czarnym Lądzie - O
                    - Tajemnicza Wyprawa Tomka - O
