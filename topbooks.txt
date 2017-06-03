@@ -313,11 +313,19 @@ Aldiss , Brian - Bez hlavy - CZ
                - Temná společnost - CZ
 			   - Tři druhy samoty - CZ
 			   - Zázraky utopie - CZ
+Andersen , Hans Christian - Krzesiwo - POL
+Atemborski , Zbigniew - Deszczowe lato - O
 Athanas , Verne - Przeprawa przez most - POL
 Badalska , Wiera - Przepraszam, smoku - O
 Bahdaj , Adam - Pilot i Ja - O
+              - Malowany ul - O
+Balák, Libor - Za lidmi do pravěku - O
+             - Pokušení - O
+Baranowski , Tadeusz - Skąd się bierze woda sodowa - O
+Batlička , Otakar ; Grbavčic , Jiří - Černý vítr - O
 Baxter , George Owen - Droga do San Triste - POL
                      - Pokusa - POL
+Berwiński , R. - O Księciu Milanie , złym czernuchu i pięknej Welenie - O
 Borges , Jorge Luis - The Aleph - EN
                         - The Aleph - EN
                             - The Aleph - EN
@@ -446,14 +454,21 @@ Brzechwa , Jan - Na Straganie - O
                - Bajka o królu - O
                - Sójka - O
                - Kaczki - O
+               - Zwierzyniec - O
 Burgess , Anthony - Clockwork Orange - O
 Burroughs , Edgar Rice - Powrót Tarzana - POL
 Carrol , Lewis - Alice's Adventures in Wonderland - O
                - Through the Looking Glass - O
 Chmielewski , Henryk Jerzy - Tytus, Romek i A'Tomek Księga I - O
+                           - Tytus, Romek i A'Tomek Księga XI - O
+                           - Tytus, Romek i A'Tomek Księga XIV - O
+                           - Tytus, Romek i A'Tomek Księga XV - O
                            - Tytus, Romek i A'Tomek Księga XVII - O
-Christa , Janusz - Kajtek i Koko , Śladem białego wilka - O 
-                 - Kajtek i Koko , Duch bunkra - O 
+Chodorowska , Anna - Jeszcze jedna kostka cukru - O
+Christa , Janusz - Kajtek i Koko - Śladem białego wilka - O 
+                 - Kajtek i Koko - Duch bunkra - O
+                 - Kajtek i Koko - Chybiony strzał - O
+                 - Kajko i Kokosz - Szkoła latania - O   
 Clark , Arthur C. - Miasto i Gwiazdy - POL
 Conrad , Joseph - Heart of Darkness - O
 Cooper , James Fenimore - Jezioro Śmierci - POL
@@ -463,7 +478,22 @@ Cooper , James Fenimore - Jezioro Śmierci - POL
                         - Szpieg - POL
                         - Tropiciel śladów - POL
 Czerkawska , Maria - Żółte Chodaczki - O
+                                - Żółte Chodaczki - O
+                                - Dla małych pszczółek - O
+                                - Nie obejdzie się bez misia - O
+                                - Wczesnym rankiem - O
+                                - Kogutek - O
+                                - Agnieszka - O
+                                - W ogródku - O
+                                - Potok - O
+                                - Czereśnie - O
+                                - Bratek - O
+                                - O leśnym dziadku - O
+                                - Kołysanka - O
+                                - Na listeczku jaworowym - O
+                                - Pora odlecieć - O
 Dąbrowska , Maria - Noce i Dnie - O
+De Loisel , Regis ; Le Tendre , Serge - Muszla Ramora - POL
 Defoe , Daniel - Robinson Crusoe - CZ
 Dick , Philip K. - Sní androidi o elektrických ovečkách - CZ
                  - Ubik - O
@@ -476,6 +506,11 @@ Eco , Umberto - Diariusz najmniejszy - POL
 Evarts , Hal George - Ostatnia woda - POL
 Feynman , Richard Phillips - Snad ti nedělají starosti cizí názory - CZ
 					       - To nemyslíte vázně pane Feynamane - CZ
+Fiorkiewicz , Janusz ; Nowakowski , Andrzej O. - Doman - Księżniczka Wanda - O 
+                                               - Doman - Pogromca smoka - O
+Foglar , Jaroslav ; Bibr , Josef - Váhy života a smrti - O
+Foglar , Jaroslav ; Čermák , Marko - Záhada hlavolamu - O
+                                   - Stínadla se bouří - O
 Foreman , L. L. - Dyszle na północ - POL
 Foster , Bennett - Truciciel - POL
 Frey , Ruth - Długi pochód - POL
@@ -496,6 +531,7 @@ Frey , Ruth - Długi pochód - POL
 Fuks , Ladislav - Spalovač mrtvol - O
 Glut , Donald F. ; Lucas , George - Hvězdné války , Impérium vrací úder - CZ
 Golding , William - Lord of the Flies - O
+Goldweinová , Daniela ; Zvolský , Jiří - Škapulíř , šáteček a růže , aneb : Tajemství Amálky Poustkové - O
 Gombrowicz , Witold - Ferdydurke - O
                     - Kosmos - O
                     - Przewodnik po filozofii w sześć godzin i kwadrans - POL
@@ -537,8 +573,10 @@ Gorzechowska , Jadwiga - Poszedł Marek na jarmarek , Kołysanki i śpiewki dla 
                             - A tańcujże, Grzela - O
                             - Zielona murawa - O
                             - A gdzie ten Kusy Jan - O
+Grabowski , Jan - Czarna owieczka - O
 Gree , Alain ; Gree Gerard - Tomáš objavuje prírodu - SVK
 Grey , Zane - Osioł Tappana - POL
+Grimm , Wilhelm ; Grimm , Jakub - Złota gąska - POL
 Guthrie , A. B. - Górski lek - POL
 Harte , Bret - Pocałunek - POL
 Haycox , Ernest - Dyliżans do Lordsburga - POL
@@ -546,6 +584,9 @@ Henry , O. - Księżniczka i puma - POL
 Herlihy , James Leo - Nocny kowboj - POL
 Hofman , Ota - Pan Tau a tisíc zázraků - O
 Horečka , František - Janek i skarb - POL
+Horváth , Tibor Cs. - Księga Dżungli - POL
+Horváth , Tibor Cs. ; Jankovics , Marcell - Duch z Canterville - POL
+Horváth , Tibor Cs. ; Zórád , Ernő - Krew Tygrysa - POL 
 Huxley , Aldous - Brave New World - O
 Jan , Metoděj - O zgubionym pierścionku - POL
 Jánský , Filip - Nebeští jezdci - O
@@ -555,6 +596,40 @@ Kafka , Franz - Proces - POL
               - Zamek - POL
 Kahn , James - Indiana Jones a chram zkázy - CZ
              - Powrót Jedi - POL
+Kamieńska , Anna - Słoneczny lizak - O
+                            - Słoneczny lizak - O
+                            - Zwierzątkowa budowa - O
+                            - Zabawa w sklep - O
+                            - Żołnierze - O
+                            - Co będzie na obiad - O
+                            - Pan dymek - O
+                            - Co kto robi ? - O
+                            - Co Paweł lubi , a czego nie lubi ? - O
+                            - Kieszeń Jasia - O
+                            - Niejadek - O
+                            - Plastelina - O
+                            - Mucha - O
+                            - Spacer przedszkolaków - O
+                            - Katastrofa - O
+                            - Uczeń - O
+                            - Ryś i miś - O
+                            - Tajemnice - O
+                            - Skarby - O
+                            - Nad morzem - O
+                            - Drewniane ptaszki - O
+                            - Zegarmistrz - O
+                            - Choinka - O
+                            - Na targu - O
+                            - Las wielki i mały - O
+                            - Kolory - O
+                            - Koncert - O
+                            - Astronauta - O
+                            - Książka - O
+                            - Droga , ścieżka , ścieżyna - O
+                            - Podróże - O
+                            - Koniki - O
+                            - Sen mamy - O
+                            - Sen dziecka - O 
 Kantor , Mackinlay - Niezwykły powrót - POL
 Keyes , Daniel - Flowers for Algernon - O
 Kierst , Jerzy - Czy to Kraków - O
@@ -562,6 +637,13 @@ Kincl , Jaromír; Krum , Gustav - Tarzanův návrat - O
 Kinnan-Rawlings , Marjorie - Roczniak - POL
 Kochanowski , Jan - Odprawa posłów greckich - O
                   - Treny - O
+Kolberg , O - Ojciec i trzej synowie - O
+            - O zapiecku , złotej rybce i pięknej księżniczce - O
+            - O płocie kiełbasianym - O
+            - Świerszcz , wielki prorok - O
+            - Targowa przygoda Bartosza - O
+            - Jak królewicz poznał biedę - O
+            - Jak chłop wygrał zakład z panem - O
 Konopnicka , Maria - Za tą głębią, za tym brodem... - O
                         - W polu - O
                         - Nasze kwiaty - O
@@ -578,8 +660,12 @@ Konopnicka , Maria - Za tą głębią, za tym brodem... - O
                         - Rzeka - O
                         - Sanna - O
                         - Zmarzlak - O
+                   - Na jagody - O
+                   - O Janku Wędrowniczku - O
+                   - Szkolne przygody Pimpusia Sadełko - O
 Koreywo , Marek - Ludzie na Księżycu - O
 Kownacka , Maria - Ogródek - O
+Kozieradzka , Jadwiga - Dzieci taty Abecadła - O
 Krasicki , Ignacy - Mikołaja Doświadczyńskiego przypadki - O
 Krasiński , Zygmunt - Nie-Boska komedia - O
 Kraszewski , Józef Ignacy - Chata za wsią - O
@@ -625,15 +711,20 @@ Lem , Stanisław - Bajki robotów - O
                 - Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś - O
                 - Teksty Ostatnie - O
 Lofting , Hugh - Doktor Dolittle i zielona kanarzyca - POL
+Lomová , Ivana ; Lomová , Lucie - Anča a Pepík na stopě - O
 London , Jack - Córka śniegów - POL
               - Jerry z wysp - POL
               - Syn Słońca - POL
 Loomis , Noel M. - Kiedy dzieci płaczą z głodu - POL
 Lucas , George - Gwiezdne wojny - POL
 Ławicki , Jerzy - Uważaj , Uważaj - O
+Łochocka , Hanna - O wróbelku Elemelku - O
+                 - O pierwszym rogaliku - O
 Machiavelli , Niccolo - Vladař - CZ
 Macourek , Miloš ; Saudek , Kája - Peruánský deník - O
+Makarowa , Tatjana - Dzielny Marcin - POL 
 Makuszyński , Kornel ; Walentynowicz , Marian - 2-ga księga przygód Koziołka-Matołka - O
+                                              - Awantury i wybryki małej małpki Fiki-miki - O
 Martin , George R.R. - A Clash of Kings - O
                      - Dreamsongs , A Rretrospective Book One - O
                      - A Feast for Crows - O
@@ -658,6 +749,7 @@ May , Karel - Błękitno-purpurovy Matuzalem - POL
             - W dżunglach Bengalu - POL
             - Závěť Vinnetoua - CZ
 McCarthy, Cormac - The Road - O
+Mézières , Jean-Claude ; Christin , Pierre - Valerian 4 - Witajcie na Alflololu - O
 Mickiewicz , Adam - Ballady i Romanse - O
                   - Dziady - O
                   - Grażyna - O
@@ -671,6 +763,7 @@ Montaigne , Michel de - Próby - POL
 Morcinek , Gustaw - O tym, jak Zuzanka poszła w kumy do utopców - POL
 Morrell , David - Rambo , pro přítele (III) - CZ
 Mostowicz , Arnold ; Górny , Alfred ; Polch , Bogusław - Tajemnica Piramidy - O
+                                                       - Ludzie i potwory - O
 Muller , Jaroslav - Přátele zeleného údolí - O
 Neff , Ondřej ; Saudek , Kája - Arnal & dva dračí zuby - O
 Němeček , Jaroslav ; Hojka , Stanislav - Čtyřlístek , Cesta kolem světa - O
@@ -678,17 +771,23 @@ Němeček , Jaroslav ; Nový , Tomáš - Čtyřlístek , Zachraňte Lidušku - O
 Něpomňaščaja D. - Velké putování malého Mamutíka - CZ
 Nesvadba , Josef ; Saudek , Kája - Po stopách sněžného muže - O
 Niemcewicz , Julian Ursyn - Powrót Posła - O
+Niemczuk , Jerzy ; Skrzydlewski , Jacek - Wyprawa na Ziemię - O
 Nienacki , Zbigniew - Niesamowity dwór - O
                     - Pan samochodzik i templariusze - O
+Nitsch , K. - O syneczku Staszku , dwunastu zbójcach i czarodziejskim koniu - O
+            - O odważnym Michasiu i pałacowym strachu - O
 Niven , Larry - Ringworld - O
 Nohejl , Bohumil - Objavovanie planety Michovice - SVK
 Nováková , Zuzana - Natalie není sama - O
 Okudžava , Bulat - Zrušené divadlo - CZ
 Ondrusz , Józef - O dobrej Hance i złej Hanie - POL
+Orłoń , Marian - Kartki z ostatniej ławki - O
 Orwell , George - 1984 - O
 Packard , Edward - Vesmírný upír - CZ
 Parandowski , Jan - Mitologia - O
+Parowski , Maciej ; Rodek , Jacek ; Polch , Bogusław - Funky Koval - Jedním dechem - CZ
 Patchett , Mary Elwyn - Brumby - POL
+Pawel ; Szarlota - Pióro contra Flamaster - O
 Pendexter , Hugh - Lata walki - POL
 Peterson , Hans - Magnus, Mateusz i Koń - POL
 Petrus , Jan - Złotogłowy wąż - POL
@@ -703,11 +802,13 @@ Poe , Edgar Allan - The Black Cat - O
 				  -	The Oval Portrait - O
                   - The Purloined Letter - O
 				  - William Wilson - O
+Ponaczewny , Piotr ; Skrzydlewski , Jacek - Kosmiczny detektyw - O
 Porazińska , Janina - Kozucha Kłamczucha - O
 Pratchett , Terry - Thud! - O
 Prus , Bolesław - Faraon - O
 Przymanowski , Janusz - Czterej pancerni i pies - O
 Pyle , Howard - Wesołe przygody Robin Hooda - POL
+Queneau , Raymond - Bajeczka na twoją modłę - POL
 Raine , William Macleod - Ostatnie ostrzeżenie - POL
 Ratajczak , Józef - Wierszyki dla Grzesia - O
                         - Zaklęcia - O
@@ -737,6 +838,7 @@ Ratajczak , Józef - Wierszyki dla Grzesia - O
                         - Mama w zimie - O
                         - Przygoda z mrozem - O
                         - Piosenka o królach - O
+Repko , Jozef ; Mráz , František - Gorazdův posel - O
 Rhodes , Eugene Manlove - Za tą pustynią - POL
 Roberts , Fred - Walka o honor - POL
                - Wyklęty z Rio Grande - POL
@@ -748,10 +850,62 @@ Rowling , J.K. - Harry Potter and the Philosopher's Stone - O
 			   - Harry Potter and the Order of the Phoenix - O
 			   - Harry Potter and the Half-Blood Prince - O
 			   - Harry Potter and the Deathly Hallows - O
+Rykowski , Marcin ; Nowakowski , Andrzej Olaf - Dwa miecze - Zdrada - O
+                                                           - Odsiecz - O
 Saint-Exupéry , Antoine de - Malý princ - CZ
+Sajdok , Gustaw - Zaczarowany młynek - O
+                                - Zaczarowany młynek - O
+                                - Sroka Pigi - O
+                                - Taaaka ryba - O
+                                - Dlaczego świerszcz mieszka za kominem ? - O
+                                - Kruk i żuk - O
+                                - Wiewiórka Agnieszka - O
+                                - Serek i wrona - O
+                                - Dlaczego czapla nosi czapkę ? - O
+                                - Chomik - O
+                                - Mrukotek i Ziarnogryzka - O
+                                - Weselny korowód - O
+                                - Sikoreczka - O
+                                - Przestroga myszce - O
+                                - Dwie zebry - O
+                                - Pech - O
+                                - Kolczyki - O
+                                - Kózka i wózek - O
+                                - Staruszek Fiat - O
+                                - Latawiec - O
+                                - Makowa grzechotka - O
+                                - Felek i kartofelek - O
+                                - Jabłko i Zbyszek - O
+                                - Pomponikowa moda - O
+                                - Dziadek i katar - O
+                                - Paluszkowe dziurki - O
+                                - Hulajnoga - O
+                                - Pawełek i lody - O
+                                - Piaskownica - O
+                                - (Mowią , że z niej ogrodniczka) - O
+                                - (Ruda kita) - O
+                                - (Na wyścigach galopuje) - O
+                                - (Kica , kica, kica) - O
+                                - (Chodzi groźnie uzbrojony) - O
+                                - (Nie fryzjer) - O
+                                - (Nigdy się nie skarży) - O
+                                - (Zastawia sidła) - O
+                                - (Kiedy pieje na grzędzie) - O
+                                - (Na kominie) - O
+                                - (Ciągle paple) - O
+                                - (Wielkie rzeczy) - O
+                                - (Brzęczą sobie i fruwają) - O
+                                - (Gdzie mu tam) - O
+                                - (Czasem po niebie spaceruje) - O
+                                - (Żółtodzioby , w czarnym fraku) - O
+                                - (Kiedy nocą gwiazdy migocą) - O
+                                - (Jedni do niego wzdychają) - O
+                                - (Rankiem góry ozłoci) - O 
+                                - Czarodziejski młynek - O
 Salichová , Helena - O słoneczku i księżycu - POL
 Sanders , Charles Wesley - Czarny gość - POL
                          - Smierć na rozdrożu - POL
+Scisłowski , Włodzimierz ; Mrowiński , Stanisław - Tańczące grządki - O
 Shakespeare , William - Makbet - POL
 Sienkiewicz , Henryk - Potop - O
 Sláma , František - Śpiący rycerze - POL
@@ -761,14 +915,24 @@ Smith , Wilbur - Řeka bohů - CZ
                - Řeka bohů II - CZ
 Sofokles - Antygona - POL
 St. John , Patricia M. - Poklady pod sněhem - CZ
+Stanisławski , Zbigniew ; Lutczyn , Edward - Dawid i Sandy - Tom 1 - Narodziny - O
+                                           - Dawid i Sandy - Tom 2 - Przyjaciele - O
+                                           - Dawid i Sandy - Tom 4 - Wyspa - O
+                                           - Dawid i Sandy - Tom 5 - Labirynt - O 
+Stanisławski , Zbigniew ; Fonfara , Andrzej ; Lutczyn , Edward - Dawid i Sandy - Tom 3 - Sidła - O 
+                                                               - Dawid i Sandy - Tom 6 - Eliksir - O                                           
+Stanisławski , Zbigniew ; Stankiewicz , Lechosław ; Lutczyn , Edward - Dawid i Sandy - Tom 8 - Awantura - O
+                                                                     - Dawid i Sandy - Tom 10 - Samotność - O
+Stanisławski , Zbigniew ; Kasta , Waldemat ; Lutczyn , Edward - Dawid i Sandy - Tom 13 - Ukochany lekarz - O
+                                                              - Dawid i Sandy - Tom 17 - Słońce , słońce - O
 Stapledon , Olaf - Last and First Men - O
                  - Star Maker - O
 Steinbeck , John - Of Mice and Men - O
 Stevenson , R. L. - Wyspa skarbów - POL
 Strugačtí, Arkadij a Boris - Piknik u cesty - CZ
 Swift , Jonathan - Podróże Gulliwera - POL
-Pawel ; Szarlota - Pióro contra Flamaster - O
 Szczepańska , Nora - Ucho wodza - O
+Szelburg-Zarembina , Ewa - Przygody misia - O
 Szklarski , Alfred - Przygody Tomka na Czarnym Lądzie - O
                    - Tajemnicza Wyprawa Tomka - O
                    - Tomek na Tropach Yeti - O
@@ -776,6 +940,9 @@ Szklarski , Alfred - Przygody Tomka na Czarnym Lądzie - O
                    - Tomek w Gran Chaco - O
                    - Tomek w Krainie Kangurów - O
 Szklarski , Alfred; Szklarska , Krystyna - Złoto gór czarnych - O
+Štěpánek , Jan - Válka s mloky - O 
+Świrszczyńska , Anna - Jak myszy zjadły Popiela - O
+                     - O wesołej Ludwiczce - O
 Tenn , William - Flirgelflip - POL
                - Każda kocha Irvinga Bommera - POL
                - Kustosz - POL
@@ -793,6 +960,10 @@ Tolkien , John Ronald Ruel - The Children of Húrin - O
                            - Silmarillion - O
                            - The Story of Kullervo - O
                            - Unfinished Tales - O
+Torbus , Andrzej Krzysztof - O trzech braciach Lechu , Czechu i Rusie - O
+                           - O orle białym i pierwszej stolicy - O
+                           - O Wawelskim Wzgórzu , smoku , Krakowie i Wandzie - O
+                           - Podróż Pana Smoka - O 
 Třenecký , Ladislav - Kopalnia z kudłatymi górnikami - POL
 Tuwim , Irena - Co okręt wiezie - O
 Tuwim , Julian - Cuda i Dziwy - O
@@ -802,6 +973,7 @@ Twain , Mark - Przygody Hucka - POL
              - Przygody Tomka Sawyera - POL
 Ulcak , Ladislav - Skarb pod Hukwaldskim zamkiem - POL
 Umiński , Władysław - Wędrowiec leśny - O
+Van Hamme , Jean ; Rosiński , Grzegorz - Thorgal - Dítě z hvězd - CZ
 Van Tilburg Clark , Walter - Indiańska studnia - POL
 Verne , Jules - Děti kapitána Granta - CZ
               - Dva roky prázdnin - CZ
@@ -810,10 +982,33 @@ Verne , Jules - Děti kapitána Granta - CZ
               - Pilot dunajskich statków - POL
               - Robur Zdobywca - POL
 Vysockij , Vladimir - Nepiju sám - CZ
+                            - Mimochodník - CZ
+                            - Píseň o Rusku - CZ
+                            - K vrcholu - CZ
+                            - Kasandra - CZ
+                            - Píseň o trestním zákoníku - CZ
+                            - Lázeň až doběla - CZ
+                            - Žirafák - CZ
+                            - Dopis z Paříže - CZ
+                            - Píseň výškaře - CZ
+                            - Poprava horské ozvěny - CZ
+                            - Píseň o lazaretu - CZ
+                            - Černý pláště - CZ
+                            - Píseň o práskači - CZ
+                            - Dialog u televize - CZ
+                            - Lukomoří - CZ
+                            - Píseň o šancích - CZ
+                            - Píseň o čase - CZ
+                            - Píseň o nenávisti - CZ
+                            - Koně k nezkrocení - CZ
+                            - Pravda a lež - CZ
+                            - Lodě - CZ
 Waltari , Mika - Trylogia Rzymska - POL
+Wawrowski , F. - O Kasi sierotce i złej macosze - O
 Weber , Joe - Kryptonim Shadow - POL
 Weigel J. , Saudek , Kája - Lips Tullian - Konec Sahrbergovy bandy - O
                                          - Stříbrný poklad - O
+Weinfeld , Stefan ; Wróblewski , Jerzy - Legendy Wyspy Labiryntu - O
 Wernerowa , Jadwiga - Opowiadania o zwierzętach - O
 Wernic , Wiesław - Słońce Arizony - O
 Westerman , P. F. - Poklad ze San Marco - CZ
@@ -822,6 +1017,7 @@ White , Stewart Edward - Złota żyła - POL
 Wormser , Richard - Myśliwy - POL
 Wyspiański , Stanisław - Wesele - O
 Žáček , Jiří - Aprílová škola - O
+Žilák , Petr ; Žilák , Pavel - Podivuhodné případy komisaře Bensona - II. Věštkyně Maa - O
 Żeromski , Stanisław - Wierna Rzeka - O
 --
 HIST TODO
