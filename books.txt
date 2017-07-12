@@ -93,6 +93,7 @@ BIOLOGIA:
     Natura umysłów ; Daniel C. Dennett
     Rzeka genów ; Richard Dawkins
     The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
+    The Blank Slate ; Steven Pinker
     The Language Instinct - How the Mind Creates Language ; Steven Pinker
     Wspinaczka Na Szczyt Nieprawdopodobieństwa ; Richard Dawkins
     Życie , Nieautoryzowana Biografia ; Richard Fortey
@@ -175,6 +176,7 @@ POP.SCIENCE :
         Ryba v nás , Cesta tři a půl miliardy let dlouhou historii lidského těla ; Neil Shubin
         Rzeka genów ; Richard Dawkins
         The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
+        The Blank Slate ; Steven Pinker
         The Greatest Show On Earth ; Richard Dawkins
         The Language Instinct - How the Mind Creates Language ; Steven Pinker
         Tomáš objavuje prírodu ; Gérard Grée , Alain Grée
