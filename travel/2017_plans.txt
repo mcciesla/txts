@@ -271,38 +271,10 @@ Weekend (2-3 days) :
             - Kielce - Palac biskupow krakowskich
             - Ujazd - Zamek Krzyztopor
             - Krzemionki Opatowskie
-            - Gory Swietokrzyskie - Lysica 612m - najwyzszy punkt Lysogor i Gor Swietokrzyskich i Wyzyny Kieleckiej i Wyzyny Malopolskiej i Wyzyn Polskich
-                                  - Opactwo na Swietym Krzyzu
-                                  - Sosnowica 413m - najwyzszy punkt Wzgorz Tumlinskich
-                                  - Klonowka 473m - najwyzszy punkt Pasma Maslowskiego
-                                  - Szczytniak 554m - najwyzszy punkt Pasmo Jeleniowskie
-                                  - Drogosiowa 447m - najwyzwszy punkt Pasma Bielinskiego
-                                  - Patrol 388m - najwyzszy punkt Pasma Zgorskiego
-                                  - Biesak 381m - najwyzszy punkt Pasma Poslowickiego
-                                  - Telegraf 408m - najwyzszy punkt Pasma Dyminskiego
-                                  - Otrocz 372m - najwyzszy punkt Grupy Otrocza i Pasma Daleszyckiego
-                                  - Sikorza 361m - najwyzszy punkt Pasma Brzechowskiego
-                                  - Karczowka 340m - najwyzszy punkt Pasma Kadzielnianskiego
-                                  - Swinia Gora 346m - najwyzszy punkt Wzgorz Szydlowkowskich
-                                  - Gora Dobrzeszowska 368m - najwyzszy punkt Pasma Dobrzeszowskiego
-                                  - Siniewska Gora 449m - najwyzszy punkt Pasma Oblegorskiego
-                                  - Barania Gora 427m - drugi najwyzszy punkt Pasma Oblegorskiego
-                                  - Wlochy 427m - najwyzszy punkt Pasma Cisowskiego
-                                  - Kiel 452m - najwyzszy punkt Pasma Orlowinskiego
-                                  - Jadzwina 361m - najwyzszy punkt Pasma Ocieseckie
-                                  - Zelejowa 372m - najwyzszy punkt Pasma Zelejowskiego
-                                  - Gora Zamkowa 360m - najwyzszy punkt Pasma Checinskiego
-                                  - Glinianki 336m - najwyzszy punkt Grzyw Korzeczkowskich
-                                  - Miejska 332m - najwyzszy punkt Pasma Bolechowickiego
-                                  - Bukowa Gora 484m - najwyzszy punkt Pasma Klonowskiego
-                                  - Kamien Michnowski 435m - najwyzszy punkt Pasma Sieradowickiego
-                                  - Gora Milechowska 335m - najwyzszy punkt Grzab Bolminskich
-                                  - Chelmowa Gora 351m - najwyzszy punkt Pasma Pokrzywianskiego
-                                  - Kota 351 - najwyzszy punkt Pasma Bostowskiego
+            - Gory Swietokrzyskie - Opactwo na Swietym Krzyzu
+                                  - Jaskinia Raj
             - Opatow - Podziemna trasa turystyczna
             - Checiny - Ruiny zamku
-            - Gora Sabianow 353m - najwyzszy punkt Wyzyny Przedborskiej i Pasma Przedborsko-Malogoskiego
-            - Altana 408m - najwyzszy punkt Garbu Gielniowskiego
         Lodz
             - Lodz - Palac Izraela Poznanskiego
                    - Kaplica Scheiblera
@@ -311,8 +283,7 @@ Weekend (2-3 days) :
             - Sulejow - Opactwo cystersow
         Moszna i Gora sw. Anny
             - Palac w Mosznie
-            - Gora sw. Anny 408m - klasztor
-                                 - najwyzszy punkt Chelma i Polnocnej Wyzyny Slaskiej i Wyzyny Slaskiej
+            - Gora sw. Anny - klasztor
         Poznan
             - Poznan - Stare Miasto
                      - Ostrow Tumski
@@ -322,16 +293,12 @@ Weekend (2-3 days) :
             - Kornik - Zamek
         Krakow
             - Tyniec - Opactwo Benedyktynow
-            - Skalka (Grodzisko) 512m - najwyzszy punkt Wyzyny Olkuskiej i Wyzyny Krakowsko-Czestochowskiej i Wyzyny Slasko-Krakowskiej
         Krzeszowice
             - Rudno - Zamek Tenczyn
-                    - Gora Zamkowa 401m - najwyzszy punkt Garbu Tenczynskiego
         Wroclaw
             - Panorama Raclawicka
+        Pustynia Błędowska
         Ogrodzieniec
-            - Gora Zamkowa 504m - najwyzszy punkt Pasma Zborowsko-Ogrodzienieckiego i Wyzyny Ryczowskiej i Wyzyny Czestochowskiej
-            - Straszykowa 494m - najwyzszy punkt Pasma Smolensko-Niegowonickiego
-            - Gora Stodolska 434m
             - Gora Chelm 461m - najwyzszy punkt Garbu Tarnogorskiego i Wyzyny Slaskiej
         Kalisz
             - Kalisz
@@ -344,16 +311,12 @@ Weekend (2-3 days) :
         Klobuck
             - Debowa Gora 285m - najwyzszy punkt Pagor Klobuckich
             - Halda po KRZ im. XX-lecia PRL 341m
-            - Mietna 304m - najwyzszy punkt Wyzyny Wielunskiej
         Bielsko Biala
         Okolice Katowic
             - Halda Skalny 389m - najwyzszy punkt (sztuczny) Garbu Mikolowskiego i Plaskowyzu Katowickiego i Plaskowyzu Bytomsko-Katowickiego i Wyzyny Katowickiej i Wyzyny Slaskiej Poludniowej
             - Gora sw. Wawrzynca 355m - najwyzszy punkt Garbu Mikolowskiego
             - Kosciol na gorze
             - Wzgorze Wandy 357m - najwyzszy punkt Plaskowyzu Murcek i Plaskowyzu Katowickiego i Plaskowyzu Bytomsko-Katowickiego
-            - Balin - Gora Pod Wiankiem 357m - najwyzszy punkt Pagor Jaworznickich
-            - Orzesze - Ramza 325m - najwyzszy punkt Plaskowyzu Rybnickiego
-            - Leverest 390m - najwyzszy punkt Garbu Zabkowickiego
             - Drzezgowiec 318m - najwyzszy punkt Wyzyny Miechowickiej
             - Sosnia Gora 295m - najwyzszy punkt Wyzyny Siemianowickiej
             - Malobadz 305m - najwyzszy punkt Wyzyny Czeladzi
@@ -365,25 +328,12 @@ Weekend (2-3 days) :
             - Grodzisko 345m - najwyzszy punkt Garbu Jaworznickiego
             - Gora Przygon 354m - najwyzszy punkt Garbu Ciezkowickiego
             - Szybowcowa (Strzalba) 337m - najwyzszy punkt Pagor Libiaskich
-        Rybnik
-            - Halda Szarlota 407m - najwyzszy (sztuczny) punkt Plaskowyzu Rybnickiego
         Pyskowice
             - Wapienna Gora 302m - najwyzszy punkt Pogor Sarnowskich
         Myszkow
-            - Markowice - Kota 385 - najwyzszy punkt Progu Woznickiego i Wyzyny Woznicko-Wielunskiej
             - Przewodziszowice - ruiny zamku
-                               - w okolicy ruin zamku najwyzszy punkt Pasma Olsztynsko-Mirowskiego (Wyzyny Mirowsko-Olsztynskiej)
-            - Parchowotka 407m
         Trzebinia
             - Kota 412 - najwyzszy punkt Garbu Czyzowki
-        Ksiaz Wielki
-            - Biala Gora 416m - najwyzszy punkt Wyzyny Miechowskiej i Niecki Nidzianskiej
-            - Kota 368 - najwyzszy punkt Garbu Wodzislawskiego
-        Radomsko
-            - Chelmno 323m - najwyzszy punkt Wzgorz Radomszczanskich
-        Opoczno
-            - Sielecka Gora 285m - najwyzszy punkt Wzgorz Opoczynskich
-            - Diabla Gora 285m - drugi najwyzszy punkt Wzgorz Opoczynskich
         Walbrzych
             - Jawor - Kosciol Pokoju
             - Swidnica - Kosciol Pokoju
