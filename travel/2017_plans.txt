@@ -246,9 +246,8 @@ Weekend (2-3 days) :
             - Nowy Wisnicz - Zamek
         Oswiecim
         Warszawa
-            - Warszawa - Ogrod Saski
-                       - Stare Miasto
-                       - Most Swietokrzyski
+            - Warszawa - Lazienki
+                       - ZOO
             - Nowy Dwor Mazowiecki - Twierdza Modlin
             - Kampinoski Park Narodowy
         Torun
@@ -401,21 +400,8 @@ Weekend (2-3 days) :
             - Rozlog 533m - najwyzszy punkt Wysoczyzny Rybnicy i Pogorza Izerskiego i Pogorza Zachodniosudeckiego
             - Ostrzyca 501m - najwyzszy punkt Wysoczyzny Ostrzyckiej i Pogorza Kaczawskiego
             - Trupien 481m - najwyzszy punkt Pogorza Zlotoryjskiego
-            - Gory Kaczawskie - Okole 714m - najwyzszy punkt Grzbietu Polnocnego
-                              - Skopiec 724m - najwyzszy punkt Grzbietu Poludniowego
-                              - Szybowcowa Gora 561m - najwyzszy punkt Grzbietu Malego
-                              - Poreba 675m - najwyzszy punkt Grzbietu Wschodniego
-            - Gora Gapy 465m - najwyzszy punkt Obnizenia Jeleniej Gory
-            - Grodna 506m - najwyzszy punkt Wzgorz Lomnickich i Kotliny Jeleniogorskiej
-            - Koziniec 462m - najwyzszy punkt Wzgorz Dziwiszowskich
-            - Srednica 622m - najwyzszy punkt Wzgorz Karpnickich
-            - Krzyzna Gora 653m - najwyzszy punkt Gor Sokolich
-            - Skalnik 945m - najwyzszy punkt Rudaw Janowickich
-            - Czolo 874m - najwyzszy punkt Pogorza Karkonoskiego
         Legnica
             - Grodziec 389m - najwyzszy punkt Pogorza Boleslawieckiego
-        Karkonosze
-            - Wielki Szyszak 1506m - najwyzszy punkt Slaskiego Grzbietu
         Lubawka
             - Zadzierna 724m - najwyzszy punkt Bramy Lubawskiej
             - Rog 715m - najwyzszy punkt Zawor
@@ -476,6 +462,7 @@ Weekend (2-3 days) :
         Karlovy Vary
         Marianske Lazne
         Frantiskovy Lazne
+    Niemcy
         Eisriesenwelt Werfen
       Francja
         Conques
