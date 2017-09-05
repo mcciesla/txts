@@ -236,66 +236,82 @@ Weekend (2-3 days) :
             - http://www.summitpost.org/grosses-wiesbachhorn/150852
             - 3564m
             - v pripade 3 dni jeste plus Hohe Dock - https://www.youtube.com/watch?v=wDRheU2jYh0
+                                                   - http://www.bergsteigen.com/klettersteig/salzburg/glockner-gruppe/alpiner-klettersteig-hohe-dock
     Easy trips :
       Polska
         Bochnia
-            - Bochnia
-            - Brzesko - Palac Goetza
-            - Lipnica Dolna - Kosciol sw. Leonarda
-            - Iwkowa - Kosciol Nawiedzenia
-            - Nowy Wisnicz - Zamek
+        Brzesko 
+            - Palac Goetza
+        Lipnica Dolna 
+            - Kosciol sw. Leonarda
+        Iwkowa - Kosciol Nawiedzenia
+        Nowy Wisnicz 
+            - Zamek
         Oswiecim
         Warszawa
-            - Warszawa - Ogrod Saski
-                       - Stare Miasto
-                       - Most Swietokrzyski
-            - Nowy Dwor Mazowiecki - Twierdza Modlin
+            - Lazienki
+            - ZOO
             - Kampinoski Park Narodowy
+        Nowy Dwor Mazowiecki 
+            - Twierdza Modlin
         Torun
-            - Torun - Stare Miasto
-            - Ciechocinek - Teznie
+            - Stare Miasto
+        Ciechocinek 
+            - Teznie
         Kalwaria Zebrzydowska
-            - Kalwaria Zebrzydowska - Sanktuarium pasyjno-maryjne oo.Bernardynow
+            - Sanktuarium pasyjno-maryjne oo.Bernardynow
             - Lanckrona
-        Beskid Zywiecki
-            - Lachowice - Kosciol sw. Piotra i Pawla
-        Orawa
-            - Orawka - Kosciol sw. Jana Chrzciciela
-        Jezioro Czorsztynskie
-            - Debno - Kosciol sw. Michala Archaniola
-            - Grywald - Kosciol sw. Marcina
-            - Niedzica - Zamek
+        Lachowice 
+            - Kosciol sw. Piotra i Pawla
+        Orawka 
+            - Kosciol sw. Jana Chrzciciela
+        Debno 
+            - Kosciol sw. Michala Archaniola
+        Grywald 
+            - Kosciol sw. Marcina
+        Niedzica 
+            - Zamek
         Park Muzakowski
         Tarnowskie Gory
             - kolej z Bytomia do Miasteczka Slaskiego
         Kielce
-            - Kielce - Palac biskupow krakowskich
-            - Ujazd - Zamek Krzyztopor
-            - Krzemionki Opatowskie
-            - Gory Swietokrzyskie - Opactwo na Swietym Krzyzu
-                                  - Jaskinia Raj
-            - Opatow - Podziemna trasa turystyczna
-            - Checiny - Ruiny zamku
+            - Palac biskupow krakowskich
+        Ujazd 
+            - Zamek Krzyztopor
+        Krzemionki Opatowskie
+        Gory Swietokrzyskie 
+            - Opactwo na Swietym Krzyzu
+            - Jaskinia Raj
+        Opatow 
+            - Podziemna trasa turystyczna
+        Checiny 
+            - Ruiny zamku
         Lodz
-            - Lodz - Palac Izraela Poznanskiego
-                   - Kaplica Scheiblera
-                   - Biala Fabryka
-            - Belchatow - Kopania wegla brunatnego
-            - Sulejow - Opactwo cystersow
-        Moszna i Gora sw. Anny
+            - Palac Izraela Poznanskiego
+            - Kaplica Scheiblera
+            - Biala Fabryka
+        Belchatow 
+            - Kopania wegla brunatnego
+        Sulejow 
+            - Opactwo cystersow
+        Moszna
             - Palac w Mosznie
-            - Gora sw. Anny - klasztor
+        Gora sw. Anny 
+            - klasztor
         Poznan
-            - Poznan - Stare Miasto
-                     - Ostrow Tumski
+            - Stare Miasto
+            - Ostrow Tumski
+        Rogalin
             - Palac Raczynskich w Rogalinie
             - Rogalinski Park Krajobrazowy
-            - Gniezno - Archikatedra Naniebowziecia NMP i sw. Wojciecha
-            - Kornik - Zamek
+        Gniezno 
+            - Archikatedra Naniebowziecia NMP i sw. Wojciecha
+        Kornik 
+            - Zamek
         Krakow
             - Tyniec - Opactwo Benedyktynow
-        Krzeszowice
-            - Rudno - Zamek Tenczyn
+        Rudno 
+            - Zamek Tenczyn
         Wroclaw
             - Panorama Raclawicka
         Pustynia Błędowska
@@ -335,103 +351,16 @@ Weekend (2-3 days) :
             - Przewodziszowice - ruiny zamku
         Trzebinia
             - Kota 412 - najwyzszy punkt Garbu Czyzowki
-        Walbrzych
-            - Jawor - Kosciol Pokoju
-            - Swidnica - Kosciol Pokoju
-            - Masyw Slezy - Sleza 717m - najwyzszy punkt Masywu Slezy i Przedgorza Sudeckiego
-            - Popiel 284m - najwyzszy punkt Rowniny Swidnickiej
-            - Janska Gora 253m - najwyzszy punkt Wzgorz Lagiewnickich
-            - Gorzno (Wzgorze Ernesta) 304m - najwyzszy punkt Obnizenia Podsudeckiego
-            - Walbrzych - Zamek Ksiaz
-            - Podziemne miasto Osowka
-            - Chelmiec 851m - najwyzszy punkt Masywu Chelmca
-            - Borowa 853m - najwyzszy punkt Gor Czarnych i Rybnickiego Grzbietu i Gor Walbrzyskich
-            - Gora Krzyzowa 358m - najwyzszy punkt Wzgorz Strzegomskich
-            - Sas 515m - najwyzszy punkt Pogorza Swiebodzickiego i Pogorza Walbrzyskiego i Pogorza Zachodniosudeckiego
-            - Trojgarb 778m - najwyzszy punkt Masywu Trojgarbu i Kraglaka
-            - Gory Kamienne - Waligora 933m - najwyzszy punkt Gor Suchych i Gor Kamiennych
-                            - Lesista Wielka 851m - najwyzszy punkt Pasma Lesistej
-                            - Chojniak 588m - najwyzszy punkt Masywu Chojniaka
-                            - Czuba 660m - najwyzszy punkt Pasma Czarnego Lasu i Czarnego Lasu
+        Jawor 
+            - Kosciol Pokoju
+        Swidnica 
+            - Kosciol Pokoju
+        Walbrzych 
+            - Zamek Ksiaz
+        Podziemne miasto Osowka
         Klodzko
             - Wambierzyce - Bazylika pod wezwaniem Nawiedzenia NMP
-            - Szczeliniec Wielki 919m - najwyzszy punkt Gor Stolowych
-            - Kortunal 676m - najwyzszy punkt Grzbietu Zachodniego Gor Bardzkich
-            - Szeroka Gora 765m - najwyzszy punkt Grzbietu Wschodniego Gor Bardzkich i Gor Bardzkich
-            - Goliniec 524m - najwyzszy punkt Garbu Golinca
-            - Grodczyn 803m - najwyzszy punkt Wzgorz Lewinskich i polskiej czesci Pogorza Orlickiego
-            - Jagodna 985m - najwyzszy punkt Masywu Jagodnej i Gor Bystrzyckich
-            - Czerniec 891m - najwyzszy punkt Masywu Czernca
-            - Kamyk (Bochniak) 711m - najwyzszy punkt Masywu Kamyka
-            - Lomnicka Rownia 890m - najwyzszy punkt Stoliwa glownego Gor Bystrzyckich
-            - Sarnica 552m - najwyzszy punkt Wzgorz Rogowki i Kotliny Klodzkiej
-            - Sikornik 551m - najwyzszy punkt Wysoczyszny Miedzylesia i Kotliny Klodzkiej
-            - Pasterskie Skaly 591m - najwyzszy punkt Wysoczyszny Idzikowej i Kotliny Klodzkiej
-            - Waclawka (Dzialynia) 473m - najwyzszy punkt Wzgorz Bielawskich i Wzgorz Niemczansko-Strzelinskich
-            - Zamkowa Gora (Stolazek) 407m - najwyzszy punkt Wzgorz Krzyzowych
-            - Zguba (Gil) 418m - najwyzszy punkt Wzgorz Gilowskich
-            - Gontowa 377m - najwyzszy punkt Wzgorz Guminskich
-            - Ostra Gora (Ostrosz) 362m - najwyzszy punkt Wzgorz Debowych
-            - Siodlasta (Geba) 384m - najwyzszy punkt Wzgorz Szklarskich
-            - Cierniowa Kopa (Kopka) 384m - najwyzszy punkt Wzgorz Dobrzenieckich
-            - Gora Wapienna 398m - najwyzszy punkt Wzgorz Dobrzenieckich
-            - Komarnik (Zarzycka Gora, Kamiennik) 312m - najwyzszy punkt Wzgorz Lipowych
-            - Gromnik 390m - najwyzszy punkt Wzgorz Strzelinskich
-            - Brzeznica 492m - najwyzszy punkt Obnizenia Otmuchowskiego
-            - Gory Sowie - Wielka Sowa 1015m - najwyzszy punkt Gor Sowich
-                         - Przykrzec 602m - najwyzszy punkt Garbu Dzikowca
-                         - Gontowa 723m - najwyzszy punkt Wzgorz Wyrebinskich
-            - Gardzien 556m - najwyzszy punkt Wzgorz Scinawskich i Obnizenia Scinawki
-            - Wlodzicka Gora 757m - najwyzszy punkt Wzgorz Wlodzickich i Obnizenia Noworudzkiego
-            - Gory Zlote i Gory Bialskie - Postawna 1124(1116)m - najwyzszy punkt Gor Bialskich i polskiej czesci Gor Zlotych
-                                         - Smrk - najwyzszy punkt Rychlebskych hor (Gor Zlotych)
-                                         - Travna hora 1120(1125)m - najwyzszy punkt Belskych vrchu
-            - Kralicky Sneznik 1425m - najwyzszy punkt Masywu Snieznika i polskiej czesci Sudet Wschodnich
-        Zgorzelec i Bogatynia
-            - Kolo Obserwatora 340m - najwyzszy punkt Kotliny Turoszowskiej i Obnizenia Zytawsko-Zgorzeleckiego
-            - Swiniec 378m - najwyzszy punkt Wynioslosci Dzialoszynskiej
-            - Grodziszcze 426m - najwyzszy punkt Wzgorz Zalipianskich
-            - Wyszyny 414m - najwyzszy punkt Wzgorz Zalipianskich
-            - Pastwa 333m - najwyzszy punkt Wysoczyzny Siekierczynskiej
-        Swieradow Zdroj
-            - Wojkowa 502m - najwyzszy punkt Przedgorza Izerskiego i Pogorza Izerskiego
-            - Kamienica 974m - najwyzszy punkt Grzbietu Kamienickiego
-        Jelenia Gora
-            - Wygorzel 518m - najwyzszy punkt Przedgorza Rebiszowskiego i Pogorza Izerskiego i Pogorza Zachodniosudeckiego
-            - Rozlog 533m - najwyzszy punkt Wysoczyzny Rybnicy i Pogorza Izerskiego i Pogorza Zachodniosudeckiego
-            - Ostrzyca 501m - najwyzszy punkt Wysoczyzny Ostrzyckiej i Pogorza Kaczawskiego
-            - Trupien 481m - najwyzszy punkt Pogorza Zlotoryjskiego
-            - Gory Kaczawskie - Okole 714m - najwyzszy punkt Grzbietu Polnocnego
-                              - Skopiec 724m - najwyzszy punkt Grzbietu Poludniowego
-                              - Szybowcowa Gora 561m - najwyzszy punkt Grzbietu Malego
-                              - Poreba 675m - najwyzszy punkt Grzbietu Wschodniego
-            - Gora Gapy 465m - najwyzszy punkt Obnizenia Jeleniej Gory
-            - Grodna 506m - najwyzszy punkt Wzgorz Lomnickich i Kotliny Jeleniogorskiej
-            - Koziniec 462m - najwyzszy punkt Wzgorz Dziwiszowskich
-            - Srednica 622m - najwyzszy punkt Wzgorz Karpnickich
-            - Krzyzna Gora 653m - najwyzszy punkt Gor Sokolich
-            - Skalnik 945m - najwyzszy punkt Rudaw Janowickich
-            - Czolo 874m - najwyzszy punkt Pogorza Karkonoskiego
-        Legnica
-            - Grodziec 389m - najwyzszy punkt Pogorza Boleslawieckiego
-        Karkonosze
-            - Wielki Szyszak 1506m - najwyzszy punkt Slaskiego Grzbietu
-        Lubawka
-            - Zadzierna 724m - najwyzszy punkt Bramy Lubawskiej
-            - Rog 715m - najwyzszy punkt Zawor
-            - Gory Krucze - Szeroka 842m - najwyzszy punkt polskiej czesci Gor Kruczych
-                          - Kralovecky Spicak 881m - najwyzszy punkt Vranich hor
       Czechy 
-        Zlatohorska vrchovina
-            - Pricny vrch 975m - najwyzszy punkt Gor Opawskich (Zlatohorska vrchovina)
-            - Biskupia Kopa 890m - najwyzszy punkt Masywu Biskupiej Kopy i polskiej czesci Gor Opawskich
-            - Srebrna Kopa 785m - najwyzszy punkt polskiej czesci Gor Opawskich
-            - Srednia Kopa 543m - najwyzszy punkt Masywu Gory Parkowej
-            - Olszak 453m - najwyzszy punkt Masywu Olszaka
-            - Dlugota 457m - najwyzszy punkt Masywu Dlugoty
-            - Lipowiec 370m - najwyzszy punkt Masywu Lipowca
-            - Gora Graniczna 541m - najwyzszy punkt Masywu Gory Granicznej
-            - Kalwaria kolo Gieralcic 385m - najwyzszy punkt Przedgorza Paczkowskiego
         Krnov
             - Krnov
         Kromeriz
@@ -476,5 +405,7 @@ Weekend (2-3 days) :
         Karlovy Vary
         Marianske Lazne
         Frantiskovy Lazne
+      Austria
+        Eisriesenwelt Werfen
       Francja
         Conques

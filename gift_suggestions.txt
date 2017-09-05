@@ -59,6 +59,7 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Combinatorial Problems and Exercises - Laszlo Lovasz
       - Real World Haskell - Bryan O'Sullivan, John Goerzen, Donald Bruce Stewart
       - D Web Development - Kai Nacke
+      - The Village Effect - Susan Pinker
       - Lying - Sam Harris
       - Proofs without Words: Exercises in Visual Thinking - Roger B. Nelsen
       - Proofs Without Words II: More Exercises in Visual Thinking - Roger B. Nelsen

@@ -663,6 +663,7 @@ De Loisel , Regis ; Le Tendre , Serge - Muszla Ramora - POL
 Defoe , Daniel - Robinson Crusoe - CZ
 Dick , Philip K. - Sní androidi o elektrických ovečkách - CZ
                  - Ubik - O
+Dumas , Aleksander - Trzej muszkieterowie - POL
 Dušková , Danielle - Žák Voříšek má radary - O
 Dvořáček , Karel - O utopcach - POL
 Eco , Umberto - Diariusz najmniejszy - POL
@@ -784,6 +785,7 @@ Guthrie , A. B. - Górski lek - POL
 Hanzlík , Josef - Copak snídá sníh? - O
                 - Radostné setkání - O
 Harte , Bret - Pocałunek - POL
+Hašek , Jaroslav - Osudy dobrého vojáka Švejka - O
 Haycox , Ernest - Dyliżans do Lordsburga - POL
 Hemingway , Ernest - Stary człowiek i morze - POL
 Henry , O. - Księżniczka i puma - POL
@@ -1144,6 +1146,7 @@ May , Karel - Błękitno-purpurovy Matuzalem - POL
             - Pouští a prérií - CZ
             - Przez krainę Skipetarów - POL
             - Pustynia zagłady - POL
+            - Skarb w Srebrnym jeziorze - POL
             - V zemi draka - CZ
             - Vinnetou - CZ
             - Vinnetouovi dědicové - CZ
@@ -1163,6 +1166,7 @@ Mickiewicz , Adam - Ballady i Romanse - O
                   - Dziady - O
                   - Grażyna - O
                   - Konrad Wallenrod - O
+                  - Pan Tadeusz czyli ostatni zajazd na Litwie - O
                   - Pani Twardowska - O
                   - Powrót taty - O
 Miłosz , Czesław - Dolina Issy - O
@@ -1201,6 +1205,8 @@ Montaigne , Michel de - Próby - POL
                             - O zwyczaju i o tym, aby niełatwo odmieniać istniejące prawo - POL
                             - O żalu - POL
                             - Obyczaje wyspy Cea - POL
+Montgomery , Lucy Maud - Ania z Zielonego Wzgórza - POL
+                       - Ania z Avonlea - POL
 Morcinek , Gustaw - O tym, jak Zuzanka poszła w kumy do utopców - POL
 Morrell , David - Rambo , pro přítele (III) - CZ
 Mostowicz , Arnold ; Górny , Alfred ; Polch , Bogusław - Ludzie i potwory - O
@@ -1480,6 +1486,7 @@ Tuwim , Julian - Wiersze dla dzieci - O
                - Wiersze Skandaliczne - O
 Twain , Mark - Przygody Hucka - POL
              - Przygody Tomka Sawyera - POL
+             - Yankes na dworze króla Artura - POL
 Ulcak , Ladislav - Skarb pod Hukwaldskim zamkiem - POL
 Umiński , Władysław - Wędrowiec leśny - O
 Van Hamme , Jean ; Rosiński , Grzegorz - Thorgal - Dítě z hvězd - CZ
