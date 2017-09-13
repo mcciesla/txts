@@ -48,6 +48,7 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Information Theory and Coding - Norman Abramson
       - Linear and Nonlinear Programming - David G. Luenberger
       - Problems in Philosophy: The Limits of Inquiry - Colin McGinn
+      - Game Engine Black Book: Wolfenstein 3D - Fabien Sanglard
       - Programming in D - Ali Cehreli
       - Learning D - Michael Parker
       - Programming Pearls - Jon Bentley
@@ -67,6 +68,7 @@ books - Life's Ratchet - Peter M. Hoffmann
       - Expert C Programming: Deep C Secrets - Peter Van Der Linden
       - Pure, White and Deadly - John Yudkin
       - From Logic Programming to Prolog - Krzysztof Apt
+      - The Internationalists: How a Radical Plan to Outlaw War Remade the World - Oona A. Hathaway, Scott J. Shapiro
       - Effective Modern C++ - Scott Meyers
       - Exceptional C++ - Herb Sutter
       - More Exceptional C++ - Herb Sutter

@@ -51,6 +51,7 @@ Stanisław Lem - Ananke
 Ursula K. Le Guin - The Dispossessed
 ----------------
 Adam Bahdaj - Pilot i ja
+Andrzej Szczypiorski - Msza za miasto Arras
 Daniel Keyes - Flowers for Algernon
 Jan Brzechwa - Zwierzyniec (as whole collection of poems)
 Janina Porazińska - Kozucha Kłamczucha
@@ -92,6 +93,7 @@ BIOLOGIA:
     Granice Życia ; John Postgate
     Natura umysłów ; Daniel C. Dennett
     Rzeka genów ; Richard Dawkins
+    Sobecký gen ; Richard Dawkins
     The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
     The Blank Slate ; Steven Pinker
     The Language Instinct - How the Mind Creates Language ; Steven Pinker
@@ -109,6 +111,7 @@ FIZYKA:
 HISTORIA:
     A short account of the Destruction of the Indies ; Bartolome de las Casas
     Indiański Napoleon Gór Skalistych ; Arkady Fiedler , Marek Fiedler
+    Monte Cassino ; Melchior Wańkowicz
     Objavovanie Ameriky ; Nicholas Hordern , Simon Dresner , Martin Hillman
     Ród Indian Algonkinów ; Arkady Fiedler , Marek Fiedler
     Zrod střední a východní Evropy , mezi Byzancí a Římem ; František Dvorník
@@ -137,6 +140,8 @@ OTHER:
 READ BOOKS:
 -----------
 SCIENCE :
+    BIOLOGIA:
+        Wierzby - Salix Alba L. Salix fragilis L. ; Stefan Białobok , Krystyna Boratyńska , Adam Boratyński , Janina Borysiak , Władysław Chałupka , Jakub Dolatowski , Janusz B. Faliński , Jarosław Figaj , Maciej Giertych , Andrzej Grzywacz , Alina Hejnowicz , Piotr Kowalik , Janusz Surmiński , Bolesław Suszka , Alfred Szmidt
 	FILOZOFIA:
 		Filozofia Logiki ; George S. Boolos , Susan Haack , Ian Hacking , Jean van Heijenoort , Gilbert Ryle , Gila Sher , Leslie H. Tharp , Hao Wang
     FIZYKA:
@@ -175,11 +180,13 @@ POP.SCIENCE :
         Problemy Biologii ; John Maynard Smith
         Ryba v nás , Cesta tři a půl miliardy let dlouhou historii lidského těla ; Neil Shubin
         Rzeka genów ; Richard Dawkins
+        Sobecký gen ; Richard Dawkins
         The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
         The Blank Slate ; Steven Pinker
         The Greatest Show On Earth ; Richard Dawkins
         The Language Instinct - How the Mind Creates Language ; Steven Pinker
         Tomáš objavuje prírodu ; Gérard Grée , Alain Grée
+        Ve stínu člověka ; Jane van Lawicková-Goodallová
         Wspinaczka Na Szczyt Nieprawdopodobieństwa ; Richard Dawkins
         Zvířata celého světa - Koně, osli a zebry ; Jiří Volf
         Życie , Nieautoryzowana Biografia ; Richard Fortey
@@ -265,6 +272,7 @@ POP.SCIENCE :
         Midway 1942 ; Maciej Borkowski
         Mity pięciu części świata ; Tadeusz Margul
         Mocarstwa świata - narodziny, rozkwit, upadek ; Paul Kennedy
+        Monte Cassino ; Melchior Wańkowicz
         Na Końcu Włoskiego Buta ; Michał Czartoryski
         O Krakowie Ci ja! - Historia Krakowa inaczej ; Antoni Wasilewski
         Objavovanie Ameriky ; Nicholas Hordern , Simon Dresner , Martin Hillman
@@ -379,6 +387,7 @@ OTHER :
         Anekdoty lidové Francie ; Ludovit Sulc
         Darwinovy ceny , evoluce v praxi ; Wendy Northcutt
         Klub Masztalskiego, tom piąty ; Aleksander Trzaska
+        Mezi námi zvířaty ; Jean Effel
         Murphyho zákony a osobní počítače ; Karl Wagner
         Dowcipy o lekarzach ; Dr Raja Korale
     PRAWO:
@@ -386,6 +395,8 @@ OTHER :
     SACHY:
         Tarrasch, učitel šachových generací ; Vratislav Hora
     100 + 1 karetních her ; Vojtěch Omasta , Slavomír Ravik
+    Biblia
+    Biblia w obrazkach dla najmłodszych ; Kenneth N. Taylor
     Dzień , W Którym Przybyli Bogowie ; Erich Von Däniken
     Gry Komputerowe 97 Bez Tajemnic ; Piotr Gawrysiak i kol.
     Guinessova kniha rekordů 1988
@@ -1206,8 +1217,11 @@ Montaigne , Michel de - Próby - POL
                             - O zwyczaju i o tym, aby niełatwo odmieniać istniejące prawo - POL
                             - O żalu - POL
                             - Obyczaje wyspy Cea - POL
-Montgomery , Lucy Maud - Ania z Zielonego Wzgórza - POL
-                       - Ania z Avonlea - POL
+Montgomery , Lucy Maud - Ania z Avonlea - POL
+                       - Ania z Wyspy/Ania na uniwersytecie - POL
+                       - Ania z Zielonego Wzgórza - POL
+                       - Ania ze Złotego Brzegu - POL
+                       - Wymarzony dom Ani - POL
 Morcinek , Gustaw - O tym, jak Zuzanka poszła w kumy do utopców - POL
 Morrell , David - Rambo , pro přítele (III) - CZ
 Mostowicz , Arnold ; Górny , Alfred ; Polch , Bogusław - Ludzie i potwory - O
@@ -1396,6 +1410,7 @@ Strugačtí, Arkadij a Boris - Piknik u cesty - CZ
 Svoboda , Jiří V. - Sáňkování - O
 Swift , Jonathan - Podróże Gulliwera - POL
 Szczepańska , Nora - Ucho wodza - O
+Szczypiorski , Andrzej - Msza za miasto Arras - O
 Szelburg-Zarembina , Ewa - Matka - O
                          - Przygody misia - O
 Szklarski , Alfred - Przygody Tomka na Czarnym Lądzie - O

@@ -239,25 +239,63 @@ Weekend (2-3 days) :
                                                    - http://www.bergsteigen.com/klettersteig/salzburg/glockner-gruppe/alpiner-klettersteig-hohe-dock
     Easy trips :
       Polska
+        Malbork
+            - Marienburg
+        Sekowa
+            - Kosciol pw. sw. Filipa i sw. Jakuba
+        Haczow
+            - Kosciol pw. Wniebowziecia NMP
+        Blizne
+            - Kosciol pw. Wszystkich Swietych
+        Binarowa
+            - Kosciol sw. Michala Archaniola
+        Bialystok
+            - Palac Branickich
         Bochnia
         Brzesko 
             - Palac Goetza
         Lipnica Dolna 
             - Kosciol sw. Leonarda
-        Iwkowa - Kosciol Nawiedzenia
+        Iwkowa 
+            - Kosciol Nawiedzenia
+        Szalowa
+            - Kosciol sw. Michala Archaniola
+        Powroźnik
+            - Kosciol sw. Jakuba Ml. Apostola
+        Trzcinica
+            - Kosciol sw. Doroty
+        Kwiaton
+            - Cerkiew/Kosciol sw. Paraskewy
+        Owczary
+            - Cerkiew Opieki Matki Bożej
+        Radruz
+            - Cerkiew sw. Paraskewy
+        Smolnik
+            - Cerkiew sw. Michala Archaniola
+        Turzansk
+            - Cerkiew sw. Michala Archaniola
+        Gogolow
+            - Kosciol sw. Katarzyny
+        Rzepiennik Biskupi
+            - Kosciol sw. Jana Chrzciciela
+        Brunary
+            - Cerkiew sw. Michala Archaniola
+        Chotyniec
+            - Cerkiew Narodzenia Przenajswietszej Bogurodzicy
         Nowy Wisnicz 
             - Zamek
         Oswiecim
+            - oboz koncentracyjny
+        Kanal Augustowski
+        Bialowieski Park Narodowy
+        Zamosc
+            - stare miasto
         Warszawa
             - Lazienki
             - ZOO
             - Kampinoski Park Narodowy
         Nowy Dwor Mazowiecki 
             - Twierdza Modlin
-        Torun
-            - Stare Miasto
-        Ciechocinek 
-            - Teznie
         Kalwaria Zebrzydowska
             - Sanktuarium pasyjno-maryjne oo.Bernardynow
             - Lanckrona
@@ -278,7 +316,8 @@ Weekend (2-3 days) :
             - Palac biskupow krakowskich
         Ujazd 
             - Zamek Krzyztopor
-        Krzemionki Opatowskie
+        Ostrowiec Swietokrzyski
+            - Krzemionki Opatowskie
         Gory Swietokrzyskie 
             - Opactwo na Swietym Krzyzu
             - Jaskinia Raj
@@ -290,6 +329,7 @@ Weekend (2-3 days) :
             - Palac Izraela Poznanskiego
             - Kaplica Scheiblera
             - Biala Fabryka
+            - zoo
         Belchatow 
             - Kopania wegla brunatnego
         Sulejow 
@@ -315,6 +355,21 @@ Weekend (2-3 days) :
         Wroclaw
             - Panorama Raclawicka
         Pustynia Błędowska
+        Czestochowa
+            - Jasna Gora
+        Olsztyn pod Czestochowa - Ruiny zamku krolewskiego
+        Bielsko Biala
+        Jawor 
+            - Kosciol Pokoju
+        Swidnica 
+            - Kosciol Pokoju
+        Walbrzych 
+            - Zamek Ksiaz
+        Podziemne miasto Osowka
+        Wambierzyce 
+            - Bazylika pod wezwaniem Nawiedzenia NMP
+        Przewodziszowice 
+            - ruiny zamku
         Ogrodzieniec
             - Gora Chelm 461m - najwyzszy punkt Garbu Tarnogorskiego i Wyzyny Slaskiej
         Kalisz
@@ -322,13 +377,9 @@ Weekend (2-3 days) :
             - Goluchow - Zamek
             - Chelmce - Kota 189 - najwyzszy punkt Wzgorz Opatowsko-Malanowskich i Wysoczyzny Kaliskiej
             - Wysocko Wielkie - Kota 189 - najwyzszy punkt Wzgorz Wysockich i Wysoczyzny Kaliskiej
-        Czestochowa
-            - Jasna Gora
-            - Olsztyn - Ruiny zamku krolewskiego
         Klobuck
             - Debowa Gora 285m - najwyzszy punkt Pagor Klobuckich
             - Halda po KRZ im. XX-lecia PRL 341m
-        Bielsko Biala
         Okolice Katowic
             - Halda Skalny 389m - najwyzszy punkt (sztuczny) Garbu Mikolowskiego i Plaskowyzu Katowickiego i Plaskowyzu Bytomsko-Katowickiego i Wyzyny Katowickiej i Wyzyny Slaskiej Poludniowej
             - Gora sw. Wawrzynca 355m - najwyzszy punkt Garbu Mikolowskiego
@@ -346,36 +397,26 @@ Weekend (2-3 days) :
             - Gora Przygon 354m - najwyzszy punkt Garbu Ciezkowickiego
             - Szybowcowa (Strzalba) 337m - najwyzszy punkt Pagor Libiaskich
         Pyskowice
-            - Wapienna Gora 302m - najwyzszy punkt Pogor Sarnowskich
-        Myszkow
-            - Przewodziszowice - ruiny zamku
+            - Wapienna Gora 302m - najwyzszy punkt Pogor Sarnowskich 
         Trzebinia
-            - Kota 412 - najwyzszy punkt Garbu Czyzowki
-        Jawor 
-            - Kosciol Pokoju
-        Swidnica 
-            - Kosciol Pokoju
-        Walbrzych 
-            - Zamek Ksiaz
-        Podziemne miasto Osowka
-        Klodzko
-            - Wambierzyce - Bazylika pod wezwaniem Nawiedzenia NMP
+            - Kota 412 - najwyzszy punkt Garbu Czyzowki      
       Czechy 
         Krnov
             - Krnov
         Kromeriz
             - zamek i ogrod
         Cesky Krumlov
-            - Cesky Krumlov
-            - Holasovice
-        Telc i Slavonice
-            - Telc
-            - Slavonice - domy renesansowe
+            - centrum historyczne
+        Holasovice
+        Telc
+            - centrum historyczne 
+        Slavonice
+            - domy renesansowe
         Trebic
             - Bazylika sw.Prokopa
             - Dzielnica zydowska
         Mikulov
-            - Lednice-Valtice
+        Lednice-Valtice
         Litomysl
             - zamek
         Zdar nad Sazavou
@@ -383,29 +424,131 @@ Weekend (2-3 days) :
         Brno
             - Villa Tugendhat
         Sumperk
-            - Velke Losiny
+        Velke Losiny
+            - papirna
         Trebon
             - stawy
         Cesky Raj
         Hodonin
-            - Mikulcice - ufortyfikowane osiedle z czasow Wielkich Moraw
-            - Kopcany - kosciol sw.Margarety z Antiochii
-        Ostrawa
+        Mikulcice 
+            - ufortyfikowane osiedle z czasow Wielkich Moraw
+        Kopcany 
+            - kosciol sw.Margarety z Antiochii
+        Ostrava
+            - Dolni oblast Vitkovice
+        Straznice
+            - Mezinarodni folklorni festival - Verbunk
+        Vlcnov
+            - Jizda kralu
+        Hlinsko
+            - masopustni obchuzky a masky 
         Litomerice
-            - Litomerice
-            - Terezin - forteca
+        Terezin 
+            - forteca
         Zlin
-            - Luhacovice - kapiele
+        Luhacovice 
+            - kapiele
         Dvur Kralove
             - Zoo
-            - Kuks - rzezby i zamek
+        Kuks 
+            - rzezby i zamek
         Pardubice
-            - Kladruby nad Labem - konie
+        Kladruby nad Labem 
+            - konie
         Zatec
         Karlovy Vary
         Marianske Lazne
         Frantiskovy Lazne
+      Slowacja
+        Kopcany
+            - Kostol svatej Margity
+        Bardejov
+      Wegry
+        Aggtelek National Park
+            - Baradla-Domica cave system
+        Slavec
+            - Gombasecka jaskyna
       Austria
         Eisriesenwelt Werfen
       Francja
         Conques
+        Annecy
+            - stare miasto
+      Ukraina
+        Petrykivka
+            - Petrykivka decorative painting
+        Potylicz
+            - Cerkiew sw. Ducha
+        Zolkiew
+            - Cerkiew pw. sw. Trojcy
+        Drohobycz
+            - Cerkiew pw. sw. Jura
+        Matkiw
+            - Cerkiew Najswietszej Bogurodzicy/sw. Dymitra 
+        Rohatyn
+            - Cerkiew sw. Ducha
+        Werbiaz Nizny
+            - Cerkiew Narodzenia Przenajwietszej Bogurodzicy
+        Uzok
+            - Cerkiew sw. Michala Archaniola
+        Jasina
+            - Cerkiew Wniebowstapienia Panskiego
+        Lwow
+            - Stare Miasto
+        Kijow
+            - Katedra sw. Zofii
+            - Kyiv Pechersk Lavra
+            - Church of the Saviour at Berestovo
+            - St. Cyril's Monastery
+            - Saint Andrew's Church
+        Czerniowce
+            - Residence of Bukovinian and Dalmatian Metropolitans
+        Czernihow
+            - centrum historyczne
+        Kaniv
+            - Taras Shevchenko Tomb and State Historical and Natural Museum
+        Askania-Nova
+        Kamieniec Podolski
+            - zamek
+            - kanyon
+        Uman
+            - Sofiyivsky Park
+        Terpinnya
+            - Kamyana Mohyla
+        Andrushivka
+            - observatory
+        Chornohora
+            - Observatory Bialy Slon on Pip Ivan
+            - primeval beech forest
+        Svydovets
+            - primeval beech forest
+        Kuziy-Trybushany preservation massif
+            - primeval beech forest
+        Uholka and Shyroka Luzhanka preservation massif
+            - primeval beech forest
+        Marmorosh preservation massif
+            - primeval beech forest
+        Mykolaiv
+            observatory
+        Odessa
+            - centrum historyczne
+        Charkow
+            - Derzhprom
+      Rosja
+        Sewastopol
+            - Ruins of Tauric Chersonesos
+        Bakczysaraj
+            - Bakhchisaray Palace
+            - Chufut-Kale
+        Sudak
+            - Complex of the Sudak Fortress Monuments
+        Nauchnyj
+            - Crimean Astrophysical Observatory
+        Simeiz
+            - observatory
+        Mangup-Kale
+            - archeological site
+        Eski-Kermen
+            - archeological site
+      Multi-Country
+        Struve Geodetic Arc
