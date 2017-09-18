@@ -660,7 +660,7 @@ Anglia
       Alfred Wielki     	                              871-899 ( wg D.Ś. i Tapsella )
                                                 	      871-901 ( wg V.N.M.S.D. )
 				                                                ? ( Alfréd Veliký wg Z.S.A.V.E. ) ( Alfréd wg Ř.S.J.Ď.S. )
-      Edward Starszy	                                  899-924 ( wg D.Ś. )
+      Edward Starszy	                                  899-924 ( wg D.Ś. ) ( Edward The Elder wg V.K.T.H.O.H.E. )
 				                                                901-925 ( wg V.N.M.S.D. )
 				                                                899-925 ( wg Tapsella )
       Elfweard               	                          924  ( wg D.Ś. )
@@ -671,13 +671,14 @@ Anglia
       Edmund I         	                                939-946 ( wg D.Ś. i Tapsella )
                                                	        940-946 ( wg V.N.M.S.D. )
 				                                                ?-946 ( Edmund I Nádherný wg E.P. )
+                                                        przed 944-po 945 ( Edmund The Elder wg V.K.T.H.O.H.E. )
       Edred                     	                      946-955
       Edwy                    	                        955-959 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 				                                                ? ( Edwin wg E.P. )
       Edgar Spokojny      		                          957-975  ( wg V.N.M.S.D. i D.Ś. )
                                			                    959-975 ( wg Tapsella )
 					                                              959-975 ( ?-8.7. ) ( Edgar Mírumilovný ( Edgar Pečlivý ) wg E.P. )
-					                                              ? ( wg E.P. )
+					                                              ? ( wg E.P. i V.K.T.H.O.H.E. )
       Edward Święty Męczennik	                          975-978 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 					                                              ? ( Edvard II Mučedník wg E.P. )
       Ethelred II Gnuśny              	                978-1016 ( wg D.Ś. )
@@ -695,6 +696,7 @@ Anglia
       Kanut Wielki                   	                  1016-1035 ( wg D.Ś. i Tapsella )
                                                         1014-1035 ( wg V.N.M.S.D. )
 					                                              1016/7-1035 ( ?-12.11. ) ( Knut I Veliký wg E.P. )
+                                                        1018-1035 ( Cnut Sweynsson The Great wg V.K.T.H.O.H.E. )
       Harold I Zajęcza Stopa    	                      1037-1040 ( wg D.Ś. )
                                                         1035-1040 ( wg V.N.M.S.D. i Tapsella )
 				          	                                    ? ( Harald wg Z.S.A.V.E. )
@@ -704,7 +706,7 @@ Anglia
     Dynastia normandzka
       Wilhelm I Zdobywca   	                            1066-1087 ( wg D.Ś. , V.N.M.S.D. i Tapsella  )
 				         	                                      1066-1087 ( 25.12.-9.9 ) ( wg 100.N.V.S. )
-				         	                                      1066-? ( Vilém Dobyvatel wg D.P.I.R.G. )
+				         	                                      1066-? ( Vilém Dobyvatel wg D.P.I.R.G. ) ( William of Normandy wg V.K.T.H.O.H.E. )
       Wilhelm II Rufus ( Rudy )     	                  1087-1100
       Henryk I                              	          1100-1135 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 				         	                                      przed 1106-? ( Jindřich I wg F.B.C.A.R. )
@@ -722,12 +724,13 @@ Anglia
 			            	                                    1189-1199 ( ?-6.4. ) ( wg 100.N.V.S. )
 			            	                                    przed 1190-1199 ( ?-11.4. )  ( wg K.V. )
       Jan bez Ziemi              	                      1199-1216 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Jan Bezzemek wg D.P.I.R.G. )
-					                                              ? ( Jan I Bezzemek wg E.P. )
+					                                              ? ( Jan I Bezzemek wg E.P. ) ( John wg V.K.T.H.O.H.E. )
                                                         przed 1204-? ( Jan Bezzemek wg Ř.S.J.Ď.S. )
       Henryk III                    	                  1216-1272 ( wg D.Ś. , Tapsella i V.N.M.S.D. )
 			             	                                    przed 1259-1272 ( ?-16.11. ) ( wg 100.N.V.S. )
 					                                              przed 1221-? ( Jindřich III wg E.P. )
                                                         przed 1258-? ( 18.10.-? ) ( Jindřich III wg Ř.S.J.Ď.S. )
+                                                        przed 1236-po 1246 ( Henry III wg V.K.T.H.O.H.E. )
       Edward I                      	                  1272-1307 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 			                                                  1274-1307 ( 19.8.-7.7. ) ( wg 100.N.V.S. )
 					                                              1272-1307 ( ?-7.7. ) ( Eduard I wg E.P. )
@@ -797,10 +800,10 @@ Anglia
       Anna                	                            1702-1714 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 				                                                1702-? ( wg 100.N.V.S. )
 				                                                przed 1705-? ( wg 100.N.U.W. )
-  Protektorat
+  Protektorat ( Cromwell's Protectorate )
     Oliver Cromwell  	                                  1653-1658 ( wg V.N.M.S.D. i D.Ś. )
 			         	                                        1653-1658 ( ?-3.5. ) ( wg 100.N.V.S. )
-                                                    		? ( Cromwell wg W.I.A.P. i T.Z.H.K. )
+                                                    		? ( Cromwell wg W.I.A.P. i T.Z.H.K. ) ( wg V.K.T.H.O.H.E. )
 			         	                                        przed 1655-? ( wg M.Ś. )
     Ryszard Cromwell 	                                  1658-1659 ( wg V.N.M.S.D. i D.Ś. )
 			         	                                        1658-przed 1660 ( wg 100.N.V.S. )
@@ -819,6 +822,7 @@ Anglia
     Dynastia hanowerska
       Jerzy I        	                                  1714-1727 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 		         	                                          1714-? ( wg 100.N.V.S. i M.Ś. )
+                                                        ? ( George I wg V.K.T.H.O.H.E. )
       Jerzy II       	                                  1727-1760 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
 			                                                  ? ( wg W.I.A.P. )
                                                         przed 1749-? ( wg C.W.G.W. )
@@ -833,11 +837,13 @@ Anglia
 			                                                  ? ( wg 100.N.U.W. )
       Jerzy IV    	                                    1820-1830 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 			                                                  ? ( wg W.I.A.P. )
+                                                        przed 1822-? ( George IV wg V.K.T.H.O.H.E. )
       Wilhelm IV	                                      1830-1837
       Wiktoria    	                                    1837-1901 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. )
+			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. ) ( Victoria wg V.K.T.H.O.H.E. )
     Dynastia Sachsen-Coburg-Gotha
-      Edward VII         	                              1901-1910
+      Edward VII         	                              1901-1910 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+                                                        ? ( wg V.K.T.H.O.H.E. )
       Jerzy V                	                          1910-1917
     Dynastia Windsor
       Jerzy V                	                          1917-1936
@@ -876,6 +882,7 @@ Anglia
       Poszukiwanie języka doskonałego
       Říše slova - Jazykové dějiny světa
       Czarne wampuny głoszą wojnę
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Anglowie
 
@@ -7608,9 +7615,9 @@ Wielkie Księstwo Frankfurtu
   Bibliografia :
       Dynastie Świata
 
-Frankowie
+Frankowie ( Franks )
   Kotzilis                        	                    ? ( wg Z.S.A.V.E. )
-  Królestwo Franków
+  Królestwo Franków ( Kingdom of The Franks )
     Faramond		                                        409-428 ( wg V.N.M.S.D. )
     Chlodion           	                                428-447 ( wg V.N.M.S.D. )
     Dynastia Merowingów
@@ -7624,6 +7631,7 @@ Frankowie
       			             	                              przed 481-? ( Chlodvík wg D.B. )
       			             	                              przed 496-? ( Chlodvík wg Ř.V.G. )
                                                         ok.475 ( Chlodvík wg Ř.S.J.Ď.S. )
+                                                        przed ok.485-511 ( wg V.K.T.H.O.H.E. )
       Chlodomer                   	                    511-524
       Teodoryk I                   	                    511-533 ( wg D.Ś. )
           					                                    511-ok.535 ( wg V.N.M.S.D. )
@@ -7689,6 +7697,7 @@ Frankowie
                                                         695-711 ( wg V.N.M.S.D. )
       Dagobert III                  	                  711-715
       Karol Młot                    	                  714-741 ( wg V.N.M.S.D. i R.Z.A.D.D. )
+                                                        przed 732-741 ( Charles Martel wg V.K.T.H.O.H.E. )
       Chilperyk II                  	                  715-721 ( wg D.Ś. i Tapsella )
                                                         715-720 ( wg V.N.M.S.D. )
       Chlotar IV                     	                  717-719 ( wg D.Ś. )
@@ -7698,6 +7707,8 @@ Frankowie
       Karloman                      	                  741-746 ( wg V.N.M.S.D. )
       Childeryk III                 	                  743-751 ( wg D.Ś. i Tapsella )
           				                                      741-752 ( wg V.N.M.S.D. )
+      Charles The Great (Charlemagne)                   768-814 ( wg V.K.T.H.O.H.E. )
+      Louis I The Pious                                 814-840 ( wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg Tapsella , D.Ś. i V.N.M.S.D.
   Bibliografia :
@@ -7713,6 +7724,7 @@ Frankowie
       Dzieje dawnych Turków
       Říše slova - Jazykové dějiny světa
       Severské mýty
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Franków Wschodnich
   Dynastia Karolingów
@@ -7905,6 +7917,12 @@ Gepidzi
   Bibliografia :
       Poczet Cesarzy Rzymskich
       Hunové
+
+Geshur
+  Talmai                                                ?
+  Ammihud                                               ?
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Getowie
   Kothélas               	                              przed 339 p.n.e.-? ( wg T. )
@@ -8991,6 +9009,7 @@ Hunowie
       					                                        ?-453 ( wg D.R. ) ( Attila wg Z.S.A.V.E. )
       					                                        przed 441-453 ( wg S.C. )
       					                                        ? ( wg D.D.T. )
+                                                        przed 436-? ( Attila wg V.K.T.H.O.H.E. )
                                                         435-453 ( Attila wg Ř.S.J.Ď.S. )
                                                         ?-451 ( wg S.M. )
   Ellak                                           	    ? ( wg H. )
@@ -9011,6 +9030,7 @@ Hunowie
       Zrod střední a východní Evropy
       Dzieje dawnych Turków
       Severské mýty
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Huroni ( Wyandotowie )
   Orontony                                              przed 1747 n.e.-? ( wg V.R.M. )
@@ -11411,7 +11431,8 @@ Kościół
   Anastazjusz I                	                        399-401  ( wg Tapsella )
       			    	                                      399-402 ( Anastazy wg K.R.I.C.R. )
   Innocenty I                   	                      401-417 ( wg Tapsella )
-      			    	                                      402-?      ( wg K.R.I.C.R. )
+      			    	                                      402-? ( wg K.R.I.C.R. )
+                                                        ? ( Innocent I wg V.K.T.H.O.H.E. )
   Zosimus                        	                      417-418 ( wg Tapsella )
       			    	                                      ?-418 ( ?-koniec ) ( wg K.R.I.C.R. )
   Bonifacy I                     	                      418-422 ( wg Tapsella )
@@ -11487,7 +11508,7 @@ Kościół
       			         	                                  ? ( Zachariáš wg D.B. )
   Szczepan II                                           752-755 ( wg Tapsella )
       			         	                                  przed 754 -? ( Štěpán II wg D.B. i Z.S.A.V.E. )
-  Państwo Kościelne ( Watykan )
+  Państwo Kościelne ( Watykan, Papal States )
     Szczepan II                                         755-758 ( wg V.N.M.S.D. )
                                                         755-757 ( wg Tapsella )
     Paweł I                                             758-768 ( wg V.N.M.S.D. )
@@ -11520,6 +11541,7 @@ Kościół
       					              	                        ? ( Hadrián II wg Z.S.A.V.E. )
     Jan VIII                                           	872-882 ( wg Tapsella i V.N.M.S.D. )
       							                                    ? ( wg D.B. i Z.S.A.V.E. )
+                                                        przed 878-? ( John VIII wg V.K.T.H.O.H.E. )
     Marcin I                                           	882-884
     Hadrian III                                        	884-885
     Szczepan V                                         	885-891 ( wg Tapsella i V.N.M.S.D. )
@@ -11613,6 +11635,7 @@ Kościół
       							                                    1088-1099 ( marzec-? ) ( wg K.V. )
       						     	                                przed 1095-? ( wg D.P.I.R.G. )
       						     	                                przed 1089-po 1095 ( wg D.B. )
+                                                        przed 1089-po 1090 ( wg V.K.T.H.O.H.E. )
     Paschal II ( Raniero da Bieda )                    	1099-1118 ( wg Tapsella i V.N.M.S.D. )
       						         	                            ? ( Paschalis wg D.B. )
     Teodoryk                                           	1100-1102 ( wg Tapsella )
@@ -11668,11 +11691,12 @@ Kościół
       						                                      przed 1204-? ( Inocenc III wg E.P. )
     Honoriusz III ( Cencio Savelli )                   	1216-1227
     Grzegorz IX  ( Ugolini di Segni )                  	1227-1241 ( wg Tapsella i V.N.M.S.D. )
+                                                        przed 1234-? ( Gregory IX wg V.K.T.H.O.H.E. )
                                                         ? ( wg M.N.C. )
     Celestyn IV ( Goffredo Castiglione )              	1241-1243 ( wg Tapsella )
     Innocenty IV ( Sinibaldo de´ Fieschi )   		        1241-1254 ( wg V.N.M.S.D. )
                                                         1243-1254 ( wg Tapsella )
-      							                                    ? ( Innocenc IV wg D.B. i Z.S.A.V.E. )
+      							                                    ? ( Innocenc IV wg D.B. i Z.S.A.V.E. ) ( Innocent IV wg V.K.T.H.O.H.E. )
     Aleksander IV ( Rinaldo di Segni )                 	1254 -1261
     Urban IV ( Jacques  Pantaleon )                    	1261-1264 ( wg V.N.M.S.D. i D.B. )
                                                     	  1261-1265 ( wg Tapsella )
@@ -11696,9 +11720,11 @@ Kościół
                                                         1294 ( wg Tapsella )
     Bonifacy VIII ( Benedetto Gaetani )                	1294-1303 ( wg V.N.M.S.D. i Tapsella )
       						                                      przed 1295-? ( Bonifác VIII wg E.P. )
+                                                        ? ( Boniface VIII wg V.K.T.H.O.H.E. )
     Benedykt XI ( Niccolo Boccasini )                  	1303-1305
     Klement V ( Raymond Bertrand de Got )            	  1303-1313 ( wg V.N.M.S.D. )
                                                         1305-1316 ( wg Tapsella )
+                                                        1305-? ( Clement V wg V.K.T.H.O.H.E. )
     Jan XXII ( Jacques Dueze )                        	1316-1334 ( wg Tapsella i V.N.M.S.D. )
                                                         przed 1320-? ( wg M.N.C. )
     Mikołaj V ( Pietro di Corbara )                    	1328-1330 ( wg Tapsella )
@@ -11718,6 +11744,7 @@ Kościół
       						      	                              1378-?   ( Kliment VII wg D.B. )
     Bonifacy IX ( Pietro Tamocelli )                   	1389-1404
     Benedykt XIII ( Pedro de Luna )                    	1394-1423 ( wg Tapsella )
+                                                        ? ( Benedict XIII wg V.K.T.H.O.H.E. )
     Innocenty VII ( Cosmato de´ Migliorati )         	  1404 -1406
     Grzegorz XII ( Angelo Correr )                     	1406-1415 ( wg Tapsella )
     Aleksander V ( Petros Philargi )                   	1409-1410 ( wg Tapsella )
@@ -11730,8 +11757,9 @@ Kościół
     Eugeniusz IV ( Gabriele Condulmer )  		            1431-1447 ( wg Tapsella i V.N.M.S.D. )
       						   	                                  ? ( Eugenius IV wg D.B. )
     Feliks V  ( Amadeusz VIII z Savoy )                	1439-1449 ( wg Tapsella )
+                                                        1439-? ( Felix V (Amadeé VIII, Amadeo VIII) wg V.K.T.H.O.H.E. )
     Mikołaj V ( Tommaso Parentucelli )                 	1447-1455
-    Kalikst III ( Alonso Borgia )                      	1455-1458
+    Kalikst III ( Alonso Borgia )                      	1455-1458 ( wg Tapsella i V.N.M.S.D. ) ( Callistus III wg V.K.T.H.O.H.E. )
     Pius II ( Aeneas Silvio de´ Piccolomini )        	  1458-1464 ( wg V.N.M.S.D. i Tapsella )
       						     	                                ? ( wg Ř.V.G. i M.N.C. )
     Paweł II  ( Pietro Barbo )                        	1464 -1471
@@ -11743,6 +11771,7 @@ Kościół
       							                                    ? ( Alexandr VI wg Z.V.C. )
       							                                    przed 1493-? ( Alexander VI wg A.S.A.O.T.D.O.T.I. )
                                                         przed 1493-? ( 3.5.-? ) ( Alexander VI wg Ř.S.J.Ď.S. )
+                                                        1492-? ( Alexander VI (Roderic Llançol de Borja) wg V.K.T.H.O.H.E. )
     Pius III ( Francesco Todoeschini-Piccolomini )  	  1503 ( wg Tapsella )
     Juliusz II ( Giuliano della Rovere )               	1503-1513 ( wg Tapsella i V.N.M.S.D. )
       						        	                            przed 1513-?  ( wg B.M. )
@@ -11789,13 +11818,14 @@ Kościół
       						                                      przed 1691-? ( wg 100.N.U.W. )
     Klement XI ( Gian Francesco Albani )               	1700-1721
     Innocenty XIII ( Michelangelo dei Conti )          	1721-1724
-    Benedykt XIII ( Pietro Francesco Orsini )          	1724 -1730
+    Benedykt XIII ( Pietro Francesco Orsini )          	1724-1730
     Klement XII ( Lorenzo Corsini )                    	1730-1740
     Benedykt XIV ( Prospero Lambertini )               	1740-1758
     Klement XIII ( Carlo Rezzonico )                   	1758-1769
     Klement XIV ( Lorenzo Ganganelli )                 	1769-1775
-    Pius VI ( Gianangelo Braschi )                     	1775-1800
-    Pius VII ( Luigi Barnaba Chiaramonti )             	1800-1823
+    Pius VI ( Gianangelo Braschi )                     	1775-1800 ( wg Tapsella i V.N.M.S.D. )
+                                                        przed 1798-po 1799 (?-28.3.) ( wg V.K.T.H.O.H.E. )
+    Pius VII ( Luigi Barnaba Chiaramonti )             	1800-1823 ( wg Tapsella i V.N.M.S.D. i V.K.T.H.O.H.E. )
     Leon XII ( Annibale della Genga )                 	1823-1829
     Pius VIII ( Francesco Saverio Castiglioni )        	1829-1831
     Grzegorz XVI ( Bartolomeo Alberto Cappellari )	    1831-1846 ( wg Tapsella I V.N.M.S.D. )
@@ -11814,6 +11844,7 @@ Kościół
                                                       	1978 ( wg Tapsella )
     Jan Paweł II ( Karol Wojtyła )                     	1979-? ( wg V.N.M.S.D. )
       							                                    1978-? ( wg Tapsella )
+                                                        ?-2005 ( John Paul II wg V.K.T.H.O.H.E. )
   Uwagi :
       Do Państwa Kościelnego wszystko oprócz oznaczonego wg Tapsella
       Państwo Kościelne wszystko oprócz oznaczonego wg Tapsella i V.N.M.S.D.
@@ -11843,6 +11874,7 @@ Kościół
       Poszukiwanie języka doskonałego
       Říše slova - Jazykové dějiny světa
       Młot Na Czarownice
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Kotyora
   Bibliografia :
@@ -15324,6 +15356,7 @@ Państwo Odoakra
       		      	                                      476-po 480 ( wg S.C. )
       		      	                                      476-? ( 23.8.-? ) ( wg K.R.I.C.R. )
                                         	              ? ( Odoacer wg H. ) ( wg Ž.V.Ř.S. )
+                                                        przed 488-? ( Odoacer wg V.K.T.H.O.H.E. )
   Bibliografia :
       Velká nástěnná mapa světových dějin
       Poczet Cesarzy Rzymskich
@@ -15335,6 +15368,7 @@ Państwo Odoakra
       Římané v Germánii
       Židé v římském světě
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Odrysowie
   główni królowie
@@ -15636,6 +15670,7 @@ Ostrogoci ( Greutungowie )
       		       		                                    ? ( Teodorich Velký wg M.A.E. )
       				                                          przed 481-526 ( Theodorich wg D.B. )
       				                                          493-518 ( Theodorich Veliký wg Ž.V.Ř.S. )
+                                                        przed 488-526 ( Theodoric The Ostrogoth wg V.K.T.H.O.H.E. )
       Atalaryk                	                        526-534 ( wg D.Ś. )
       Amalasunta          	                            534 ( wg D.Ś. )
                                                      	  526-534 ( wg V.N.M.S.D. ) ( Amalasuintha wg D.B. )
@@ -15669,6 +15704,7 @@ Ostrogoci ( Greutungowie )
       Encyklopedie panovníků
       Židé v římském světě
       Severské mýty
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Ottawowie
   Pontiac                    	                          1755-1769 ( wg W.I.A.P. )
@@ -17639,11 +17675,11 @@ Rzym
     								                                    43-? ( początek października -? ) ( wg T.P.Ž.C. )
   Cesarstwo Rzymskie
     Dynastia julijsko-klaudyjska
-      Gaius Julius Caesar Octavianus Augustus          	27 p.n.e. -14 n.e ( 16.1.-19.8. ) ( wg P.C.R. i K.R.I.C.R. i Z.V.C. i T.P.Ž.C. )
-    						          		                          27 p.n.e. -14 n.e. ( Oktawian wg S.C. ) ( wg D.Ś. i A.Č. i Ž.V.Ř.S. ) ( Gajusz Juliusz Cezar Oktawianus wg H.P.S. ) ( wg T.H.S. ) ( August wg O.A.O.C.E. )
-    						          		                          27 p.n.e. -14 n.e. ( ?-14.9. ) ( Gajusz Juliusz Cezar Oktawian wg D.R. )
-                                                        30 p.n.e. -14 n.e. ( wg V.N.M.S.D. i Tapsella )
-    						          		                          31 p.n.e. -14 n.e. ( wg D.P.I.R.G. )
+      Gaius Julius Caesar Octavianus Augustus          	27 p.n.e.-14 n.e ( 16.1.-19.8. ) ( wg P.C.R. i K.R.I.C.R. i Z.V.C. i T.P.Ž.C. )
+    						          		                          27 p.n.e.-14 n.e. ( Oktawian wg S.C. ) ( wg D.Ś. i A.Č. i Ž.V.Ř.S. ) ( Gajusz Juliusz Cezar Oktawianus wg H.P.S. ) ( wg T.H.S. ) ( August wg O.A.O.C.E. ) ( Augustus (Octavius Caesar) wg V.K.T.H.O.H.E. )
+    						          		                          27 p.n.e.-14 n.e. ( ?-14.9. ) ( Gajusz Juliusz Cezar Oktawian wg D.R. )
+                                                        30 p.n.e.-14 n.e. ( wg V.N.M.S.D. i Tapsella )
+    						          		                          31 p.n.e.-14 n.e. ( wg D.P.I.R.G. )
     							       	                              ? ( wg A.O.M.S.K.R. i D.B. i Z.Ř. ) ( Oktavián wg T. )
     						          		                          przed 23 p.n.e.-14 n.e. ( August wg Ř.V.G. )
     						          		                          27 p.n.e.-? ( wg S.H. )
@@ -17703,6 +17739,7 @@ Rzym
     						       	                                81-96 ( 24.10.-18.9. ) ( wg K.R.I.C.R. )
     						    	                                  przed 85-po 89 ( Domitian wg T. )
     							                                      przed 88-? ( Domitián wg K.H. )
+                                                        ? ( Domitian wg V.K.T.H.O.H.E. )
       Lucius Antonius Saturninus ( Saturnin ) 	        88-89 ( wg P.C.R. )
     Dynastia Antoninów
       Marcus Cocceius Nerva ( Marek Kokcejusz Nerwa )	  96-98 ( 18.9.-25.1. ) ( wg P.C.R. i K.R.I.C.R.  )
@@ -17776,6 +17813,7 @@ Rzym
     							      	                              przed 212-? ( wg D.B. )
     							      	                              przed 212-po 213 ( wg Ř.V.G. )
     								                                    ?-217 ( wg Z.V.C. )
+                                                        209-217 ( Caracalla wg V.K.T.H.O.H.E. )
       Marcus Opellius Macrinus 	                        217-218 ( 11.4.-8.6. ) ( Marek Opiliusz Makrynus wg P.C.R. i K.R.I.C.R. )
     							        	                            217-218 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i F. ) ( Marcus Opilius Macrinus wg D.R. ) ( Marek Opeliusz Makrinus wg H.P.S. )
       Marcus Opellius Diadumenianus ( Diadumenian )   	218 ( wiosna ) ( wg P.C.R. )
@@ -17872,7 +17910,7 @@ Rzym
       Lucius Domitius Aurelianus                        270-275 ( wiosna-jesień ) ( Lucjusz Domicjusz Aurelian wg P.C.R. i K.R.I.C.R. )
     								                                    270-275 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i D.R. i S.C. i H.P.S. i Ř.V.G. )
     								                                    przed 271-? ( Aurelián wg T. )
-    								                                    ? ( wg H. i D.B. )
+    								                                    ? ( wg H. i D.B. ) ( Aurelian wg V.K.T.H.O.H.E. )
       Septimius ( Septymiusz )                          270 ( wg P.C.R. )
       Domitianus ( Domicjan )                           270(271) ( wg P.C.R. )
       Urbanus                                           270(271) ( wg P.C.R. )
@@ -17907,6 +17945,7 @@ Rzym
       Gaius Aurelius Valerius Diocletianus              284-305 ( 20.11.-1.5. ) ( Dioklecjan wg P.C.R. i K.R.I.C.R. )	( Dioklecián wg D.B. )
     								                                    284-305 ( wg V.N.M.S.D. , D.Ś. , A.Č. i D.P.I.R.G. i Tapsella i D.R. i S.C. i Ž.V.Ř.S. ) ( Gajusz Aureliusz Diokles wg H.P.S. ) ( Dioklecián wg T. )
     								                                    ? ( Dioklés wg H. ) ( Dioklecián wg T.H.S. )
+                                                        przed 285-? ( Diocletian wg V.K.T.H.O.H.E. )
       Marcus Aurelius Valerius Maximianus ( Maksymian )	286-305 i 307-308 i 309-310 ( wg D.Ś. i A.Č.)
           							                                286-305 i 307-308 i 309 (wiosna-1.5) (wg P.C.R)
           								                              286-305 i 306-308 ( wg Tapsella )
@@ -17958,7 +17997,7 @@ Rzym
           								                              324-337 ( ?-?.10. ) ( Konstantin I Veliký wg D.B. )
                  							                          ? ( Konstantin Veliký wg Z.S.A.V.E. i F.B.C.A.R. )
     								                                    przed 324-po 325 ( Konstantin I wg E.P. )
-                                                        przed 330-? ( Konstantin Veliký wg Ř.S.J.Ď.S. )
+                                                        przed 330-? ( Konstantin Veliký wg Ř.S.J.Ď.S. ) ( Constantine wg V.K.T.H.O.H.E. )
       Valerius Licinianus Licinius 	                    308-324 ( 11.11.-18.9. ) ( Licynian Licyniusz wg P.C.R. i K.R.I.C.R. )
     							  	                                  308-324 ( wg D.R. i E.P. )
     							  	                                  307-324 ( Gaius Flavius Valerius Licinius wg Tapsella )
@@ -18039,7 +18078,7 @@ Rzym
     							                                      383-392 ( Valentinianus II wg D.B. )
     Dynastia Teodozjusza
       Flavius Theodosius ( Teodozjusz I Wielki )		    379-395 ( 19.1.-17.1. ) ( wg P.C.R. i K.R.I.C.R. )
-    							 	                                    379-395 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i R.Z.A.D.D. i S.C. i H.P.S. ) ( Theodosios I Veliký wg D.B. ) ( Theodosius I wg Ž.V.Ř.S. )
+    							 	                                    379-395 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i R.Z.A.D.D. i S.C. i H.P.S. ) ( Theodosios I Veliký wg D.B. ) ( Theodosius I wg Ž.V.Ř.S. i V.K.T.H.O.H.E. )
     							 	                                    przed 395-? ( wg D.P.I.R.G. )
     							 	                                    ?-395 ( Theodosius Velký wg M.A.E. )
     							 	                                    378-395 ( wg D.R. )
@@ -18069,6 +18108,7 @@ Rzym
     								                                    395-423 ( 17.1.-15(27).8. ) ( wg K.R.I.C.R. )
     								                                    przed 408-po 409 ( wg H. )
     								                                    przed 413-? ( wg E.P. )
+                                                        ? ( Honorius wg V.K.T.H.O.H.E. )
       Marcus ( Marek )                                  406 ( wg P.C.R. )
     								                                    406(7) ( wg K.R.I.C.R. )
       Gratianus ( Gracjan )                            	406 ( wg P.C.R. )
@@ -18082,6 +18122,7 @@ Rzym
     								                                    409-421 ( Maksymus wg K.R.I.C.R. )
       Iovinus ( Jowin )                                 411-413 ( ?-wiosna ) ( wg P.C.R. )
     							                                      411-413 ( Jowinus wg K.R.I.C.R. )
+                                                        ok.405 ( Jovinus wg V.K.T.H.O.H.E. )
       Sebastianus ( Sebastian )                         411-412 ( wg P.C.R. )
     								                                    412-413 ( wg K.R.I.C.R. )
       Heraclianus ( Heraklian )                         413 ( wg P.C.R. )
@@ -18096,6 +18137,7 @@ Rzym
     								                                    ?-455 ( wg S.C. )
     								                                    425-455 ( 23.10.-14.3. ) ( wg K.R.I.C.R. )
     								                                    przed 440-po 452 ( Valentinian III wg H. )
+                                                        przed 436-? ( Valentinian III wg V.K.T.H.O.H.E. )
     								                                    423-455 ( Valentinianus III wg D.B. )
       Flavius Ancius Petronius Maximus                  455 ( 17.3.-31.5. ) ( Petroniusz Maksymus wg P.C.R. )
     								                                    455 ( wg V.N.M.S.D. D.Ś. , A.Č. i Tapsella )
@@ -18107,6 +18149,7 @@ Rzym
     								                                    457-461 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i D.R. )
     								                                    457-461 ( 1.4.-? ) ( Majoran wg K.R.I.C.R. )
     								                                    przed 457-po 461 ( Maiorianus wg H. )
+                                                        ? ( Majorian wg V.K.T.H.O.H.E. )
       Libius Severianus Severus ( Libiusz Sewer )       461-465 (19.11.-14.11. ) ( wg P.C.R. )
     								                                    461-465 ( wg V.N.M.S.D. ,  D.Ś. , A.Č. i Tapsella )
     								                                    461-465 ( 19.11.-? ) ( wg K.R.I.C.R. )
@@ -18120,14 +18163,16 @@ Rzym
       Flavius Glycerius ( Gliceriusz )                  473-474 ( 3.3.-czerwiec ) ( wg P.C.R. )
     								                                    473-474 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella )
     								                                    473 ( 3.3.-? ) ( wg K.R.I.C.R. )
-      Julius Nepos ( Juliusz Nepos )                    474 -480 ( 19(24).6.-9.5. ) ( wg P.C.R. i K.R.I.C.R. )
+                                                        ? ( Glycerius wg V.K.T.H.O.H.E. )
+      Julius Nepos ( Juliusz Nepos )                    474-480 ( 19(24).6.-9.5. ) ( wg P.C.R. i K.R.I.C.R. )
     								                                    474-480 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella )
     								                                    przed 475-480 ( wg S.C. )
+                                                        przed 476-? ( wg V.K.T.H.O.H.E. )
     								                                    ? ( Iulius Nepos wg H. )
       Flavius Momyllus Romulus Augustulus               475-476 ( 31.10.-23.8. ) ( Romulus Augustulus wg P.C.R. i K.R.I.C.R. )
     								                                    475-476 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i S.C. )
     								                                    ?-476 ( wg D.R. i D.P.I.R.G. i D.B. i Ř.S.J.Ď.S. ) ( Romulus Augustus wg Ř.V.G. )
-    								                                    ? ( wg H. )
+    								                                    ? ( wg H. ) ( Romulus Augustulus wg V.K.T.H.O.H.E. )
     Cesarstwo Wschodniorzymskie
       Dynastia Teodozjusza
         Flavius Arcadius ( Arkadiusz )            	    395-408 ( 17.1.-1.5. ) ( wg P.C.R. i K.R.I.C.R. )
@@ -18172,7 +18217,7 @@ Rzym
     							                                      518-527 ( wg V.N.M.S.D. , D.Ś. , R.Z.A.D.D. i Tapsella i S.C. ) ( Justinos I wg D.B. )
     							                                      518-527 ( ?-1.8. ) ( Justin I wg E.P. )
         Iustinianus Flavius ( Justynian I Wielki )	    527-565 ( 1.4.-15.11. ) ( wg P.C.R. )
-    							                                      527-565 ( wg V.N.M.S.D. , D.Ś. , R.Z.A.D.D. i Tapsella i S.C. ) ( Justinián I wg D.P.I.R.G. ) ( Iustinianus I wg Ž.V.Ř.S. )
+    							                                      527-565 ( wg V.N.M.S.D. , D.Ś. , R.Z.A.D.D. i Tapsella i S.C. ) ( Justinián I wg D.P.I.R.G. ) ( Iustinianus I wg Ž.V.Ř.S. ) ( Justinian wg V.K.T.H.O.H.E. )
     						      	                                ? ( wg D.R. ) ( Justinianus wg H. ) ( Iustinán wg Z.S.A.V.E. )
                                                         przed 529-? ( Iustinianos wg Ř.S.J.Ď.S. )
     							                                      przed 534 -? ( Justynian wg K.R.I.C.R. )
@@ -18188,12 +18233,13 @@ Rzym
         Mauricius Tiberius ( Maurycjusz )    		        582-602 ( 13.8.-23.11. ) ( wg P.C.R. )
     							                                      582-602 ( wg V.N.M.S.D. , D.Ś. , R.Z.A.D.D. i Tapsella i S.C. ) ( Maurikios wg D.B. i Ž.V.Ř.S. )
     							                                      przed 587-602 ( wg D.D.T. )
+                                                        ok.625 ( Maurice wg V.K.T.H.O.H.E. )
         Fokas ( Fokas )                                 602-610 ( 23.11.-5.10. ) ( wg P.C.R. )
     							                                      602-610 ( wg V.N.M.S.D. , D.Ś. , R.Z.A.D.D. i Tapsella i S.C. i D.B. )
     							                                      ?-610 ( wg D.D.T. )
       Dynastia Herakliuszy
         Heraclius ( Herakliusz )                        610-641 ( 5.10.-11.2. ) ( wg P.C.R. )
-    								                                    610-641( wg V.N.M.S.D. , D.Ś. , R.Z.A.D.D. i Tapsella i S.C. ) ( Héraklios wg Ž.V.Ř.S. )
+    								                                    610-641 ( wg V.N.M.S.D. , D.Ś. , R.Z.A.D.D. i Tapsella i S.C. i V.K.T.H.O.H.E. ) ( Héraklios wg Ž.V.Ř.S. )
              								                            610-641 ( 5.10.-? ) ( Herakleios wg D.B. )
     								                                    przed 626-po 629 ( Herakleios I wg Z.S.A.V.E. )
     								                                    610-po 635 ( wg D.D.T. )
@@ -18226,7 +18272,7 @@ Rzym
         Teodozjusz III                                  715-717 ( wg D.Ś. , R.Z.A.D.D. i Tapsella ) ( Theodosios III wg D.B. )
                                                         716-718 ( wg V.N.M.S.D. )
       Dynastia syryjska
-        Leon III Syryjczyk                	            717-741 ( wg D.Ś. , R.Z.A.D.D. i D.B. ) ( Leo III Isauricus wg Tapsella )
+        Leon III Syryjczyk                	            717-741 ( wg D.Ś. , R.Z.A.D.D. i D.B. ) ( Leo III Isauricus wg Tapsella ) ( Leo III wg V.K.T.H.O.H.E. )
                                                         718-741 ( wg V.N.M.S.D. )
     				         	                                  ? ( Lev III Syrský wg Z.S.A.V.E. )
         Kosmo(e)s		          	                        ? ( wg D.B. )
@@ -18239,7 +18285,7 @@ Rzym
     					                                          ? ( Artabasdos wg D.B. )
         Leon IV Chazaras           	                    775-780
         Konstantyn VI                 	                780-797 ( wg V.N.M.S.D. , D.Ś. , R.Z.A.D.D. i Tapsella ) ( Konstantinos VI wg D.B. )
-        Irena                                	          797-802  ( wg D.Ś. , R.Z.A.D.D. i Tapsella ) ( Irene ( Eirene ) wg D.B. )
+        Irena                                	          797-802 ( wg D.Ś. , R.Z.A.D.D. i Tapsella ) ( Irene ( Eirene ) wg D.B. ) ( Irene wg V.K.T.H.O.H.E. )
                                                         780-790 i 797-802 ( wg V.N.M.S.D. )
     				        	                                  ? ( wg Z.S.A.V.E. )
         Nicefor I                            	          802-811 ( wg V.N.M.S.D. , D.Ś. , R.Z.A.D.D. i Tapsella ) ( Nikeforos I wg D.B. )
@@ -18271,6 +18317,7 @@ Rzym
     					             	                            886-912 ( ?-11.5. ) ( wg D.B. )
                                                         886-911 ( wg V.N.M.S.D. )
     					             	                            przed 911-? ( Lev VI Moudrý wg Z.S.A.V.E. )
+                                                        ? ( Leo The Sixth wg V.K.T.H.O.H.E. )
         Aleksander                                      912-913 ( wg D.Ś. , R.Z.A.D.D. i Tapsella ) ( Alexandros wg D.B. )
         Konstantyn VII Porfirogeneta                   	913-959 ( wg D.Ś. )
     							                                      913-959 ( ?-?.11. ) ( Konstantinos VII Porfyogennetos wg  D.B. )
@@ -18297,6 +18344,7 @@ Rzym
         Bazyli II Bulgaroktonos ( Bułgarobójca )	      976-1025 ( wg D.Ś. i Tapsella )
     						 	                                      976-1025 ( ?-15.12. ) ( Basileios II wg D.B. )
                                                         976-1028 ( wg V.N.M.S.D. ) ( Basileios II wg Z.S.A.V.E. )
+                                                        ? ( Basil II The Bulgar-Slayer wg V.K.T.H.O.H.E. )
         Konstantyn VIII                                 1025-1028 ( wg D.Ś. ) ( Konstantinos VIII wg D.B. )
                                                         976-1028 ( wg V.N.M.S.D. i Tapsella ) ( Konstantin VIII wg Z.S.A.V.E. )
         Roman III Argyros                               1028-1034 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Romanos III Argyros wg D.B. )
@@ -18347,7 +18395,7 @@ Rzym
         Aleksy III                           	          1195-1203 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Alexios III Angelos wg D.B. )
         Aleksy IV                           	          1203-1204 ( wg D.Ś. i Tapsella )
                                                         1203-1204 ( 1.8.-? ) ( wg K.V. ) ( Alexios IV Angeloi wg D.B. )
-        Aleksy V Dukas Murtzuflos	                      1204 ( wg D.Ś. i Tapsella ) ( Alexios V Murtzuflos wg D.B. )
+        Aleksy V Dukas Murtzuflos	                      1204 ( wg D.Ś. i Tapsella ) ( Alexios V Murtzuflos wg D.B. ) ( Alexius V wg V.K.T.H.O.H.E. )
         Nikolaos Kanabos               	                1204 ( wg D.B. )
       Dynastia Laskaris ( Cesarstwo Nicei )
         Teodor I Laskaris 	                            1204-1222 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Theodoros I Laskaris wg D.B. )
@@ -18386,190 +18434,6 @@ Rzym
                                                         1448-1453 ( XIII wg V.N.M.S.D. )
     					                                          ?	( XIII wg D.R. )
     				        	                                  1449-1453 ( ?-29.5. ) ( Konstantinos XI Palaiologos wg D.B. )
-  Święte Cesarstwo Rzymskie
-    Dynastia Karolingów
-      Karol I Wielki ( Charlemagne )	                  800-814 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Karel Veliký wg D.B. )
-    						                                        800-? ( wg D.R. ) ( Karol Wielki wg K.R.I.C.R. i D.D.T. )
-                                                        800-po 813 ( 23/4.12.-? ) ( Karel Veliký wg Z.S.A.V.E. )
-    					      	                                  ? ( Karel Veliký wg F.B.C.A.R. ) ( Karol Wielki wg O.A.O.C.E. )
-      Ludwik I Pobożny                       	          814 -840 ( wg D.Ś. i V.N.M.S.D. )
-                                                        813-840 ( wg Tapsella )
-    						                                        ? ( Ludvík I Pobožný wg E.P. )
-      Lotar I                                          	840-855
-      Ludwik II                                     	  855-875 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-    					      	                                  ? ( Ludvík II wg Z.S.A.V.E. )
-    					                                          przed 870-? ( Ludvík II Němec wg E.P. )
-      Karol II Łysy                               	    875-877 ( wg D.Ś. i Tapsella )
-      Karol III Gruby                           	      881-887 ( wg D.Ś. i V.N.M.S.D. )
-                                                        884 -887 ( wg Tapsella )
-    						                                        ?-888 ( Karel Tlustý wg D.B. ) ( Karel III Tlustý wg E.P. )
-    				     		                                    ? ( Karel III wg Z.S.A.V.E. )
-      Arnulf z Karyntii                         	      887-899 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-    	                                                  ?-899 ( wg Z.S.A.V.E. )
-      Ludwik III Dziecię                      	        900-911 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-    				 		                                        899-914 ( Ludvík Dítě wg Z.S.A.V.E. )
-      Lambert				                                    892-898 ( ?-15.10. ) ( wg E.P. )
-    Dynastia frankońska
-      Konrad I                  	                      911-918 ( wg D.Ś. )
-                                                   	    911-919 ( wg V.N.M.S.D. i Tapsella )
-                                                   	    911-? ( Konrád I wg Z.S.A.V.E. )
-    Dynastia saska
-      Henryk I Ptasznik 	                              919-936 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-    			      	                                      919-? ( Jindřich I Ptáčník wg D.P.I.R.G. )
-    			      	                                      919-936 ( ?.5.-2.7. ) ( Jindřich I Ptáčník wg Z.S.A.V.E. )
-      Otto I Wielki       	                            936-973 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Ota I wg D.P.I.R.G. ) ( Otto I Veliký wg D.B. )
-    			     	                                        ok.936-po 962 ( Otton I wg D.R. )
-    			     	                                        ? ( Oto Veliký wg M.A.E. ) ( Ota Veliký wg F.B.C.A.R. )
-    			     	                                        962-po 968 ( Otto I Veliký wg D.B. )
-    			     	                                        przed 937(962)-973 ( 2.2.-7.5. ) ( Ota I wg Z.S.A.V.E. )
-      Otto II                	                          973-983 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-    				                                            ? ( wg D.B. )
-                                                  	    przed 974 -983 ( Ota II wg Z.S.A.V.E. )
-    				                                            przed 974-? ( Ota II wg E.P. )
-      Otto III                 	                        983-1002 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-    			       	                                      przed 996-1002 ( ?-24.1. ) ( wg D.B. )
-    			         	                                    przed 1000-? ( Otton III wg K.R.I.C.R. )
-    			         	                                    985-1002 ( Ota III wg Z.S.A.V.E. )
-      Henryk II Święty	                                1002-1024 ( wg V.N.M.S.D. , D.Ś. , Z.S.A.V.E. i Tapsella )
-    			          	                                  przed 1006-? ( wg F.B.C.A.R. )
-    Dynastia salicka
-      Konrad II              	                          1024 -1039 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Konrád II wg D.B. i Z.S.A.V.E. )
-    				                                            ? ( Konrád II wg E.P. )
-      Henryk III              	                        1039-1056 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Jindřich III wg D.B. )
-    			         	                                    przed 1039-po 1044 ( Jindřich III wg Z.S.A.V.E. )
-      Henryk IV              	                          1056-1105 ( wg D.Ś. )
-    				                                            1056-1077 i 1080-1107( wg V.N.M.S.D. )
-    				                                            1056-1106 ( wg Tapsella ) ( Jindřich IV wg D.B. )
-    				                                            ok.1088 ( wg K.V. )
-            				                                    ? ( Jindřich IV wg Z.S.A.V.E. )
-    				                                            przed 1077-? ( Jindřich IV wg F.B.C.A.R. )
-      Rudolf Szwabski	                                  1077-1080 (wg V.N.M.S.D. , D.Ś. i Tapsella )
-    			         	                                    1077-? ( Rudolf z Rheinfeldenu wg F.B.C.A.R. )
-      Herman z Salm    	                                1081-1088 ( wg D.Ś. )
-                                      		              1081-1093 ( wg Tapsella )
-      Konrad         	                                  1087-1098 ( wg D.Ś. )
-                                      		              1093-1101 ( wg Tapsella )
-      Henryk V               	                          1105-1125 ( wg D.Ś. )
-    				                                            1107-1125 ( wg V.N.M.S.D. )
-    				                                            1106-1125 ( wg Tapsella )
-    				                                            przed 1122-? ( Jindřich V wg D.B. )
-    				                                            przed 1109-1125 ( Jindřich V wg F.B.C.A.R. )
-    Dynastia z Supplinburga
-      Lotar II Saski	                                  1125-1137 ( wg D.Ś. ) ( III wg Tapsella )
-     			    	                                        1125-1137 ( ?-?.12. ) ( Lothar III wg F.B.C.A.R. )
-                                                   	    1125-1138 ( III wg V.N.M.S.D. )
-    				                                            ? ( Lothar III wg E.P. )
-    Dynastia Hohenstaufów
-      Konrad III                          	            1138-1152 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Konrád III wg D.B. )
-    				    	                                      ok.1147 ( wg K.V. )
-    				    	                                      1127-1135 i 1138-1152 ( 18.12.-jesień i ?-15.2. ) ( Konrád III wg F.B.C.A.R. )
-      Henryk                               	            1147-1150 ( wg D.Ś. )
-    				    	                                      1147-1150 ( ?.3.-? ) ( Jindřich wg F.B.C.A.R. )
-      Fryderyk I Barbarossa   	                        1152-1190 ( ?-czerwiec ) ( wg K.V. )
-    				    	                                      1152-1190 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-    				    	                                      1152-1190 ( 4.3.-10.6. ) ( Fridrich Barbarossa wg F.B.C.A.R. )
-    					                                          ? ( Bedřich I Barbarossa wg M.A.E. ) ( Fridrich Barbarossa wg Z.V.C. )
-    				    	                                      1151-1190 ( Fridrich I Barbarossa wg D.B. )
-    					                                          przed 1189-po 1190 ( Fridrich I Barbarossa wg E.P. )
-      Henryk VI                          	              1190-1197 ( wg D.Ś. i Tapsella i K.V. )
-                                                        1190-1198 ( wg V.N.M.S.D. )
-    				    	                                      przed 1194 -po 1196 ( Jindřich VI wg D.B. )
-    				    	                                      1169-po 1197 ( 15.8.-? ) ( Jindřich VI wg F.B.C.A.R. )
-    					                                          ? ( Jindřich VI wg Z.V.C. )
-      Filip Szwabski                   	                1198-1208 ( wg V.N.M.S.D. , D.Ś. I Tapsella )
-    					                                          1198-? ( wg F.B.C.A.R. )
-      Fryderyk II                         	            1212-1250 ( wg D.Ś. i Tapsella ) ( Fridrich II wg D.P.I.R.G. ) ( Fridrich II Hohenštaufský wg D.B. )
-                                                        1215-1250 ( wg V.N.M.S.D. )
-    				     	                                      przed 1215-po 1229 ( wg K.V. )
-    				     	                                      ?-1250 ( wg D.R. )
-    				     	                                      1220-1250 ( Bedřich II wg M.A.E. )
-    				        	                                  ? ( Fridrich II wg Z.S.A.V.E. )
-      Henryk                               	            1220-1235 ( wg D.Ś. )
-      Henryk Raspe z Turyngii	                          1246-1247 ( wg D.Ś. i Tapsella )
-      Wilhelm z Holandii            	                  1247-1256 ( wg D.Ś. i Tapsella )
-      Konrad IV                          	              1250-1254 ( wg D.Ś. i Tapsella )
-                                                        1250-1273 ( wg V.N.M.S.D. )
-      Ryszard z Kornwalii          	                    1257-1272 ( wg D.Ś. i Tapsella )
-      Alfons z Kastylii                	                1257-1284 ( wg D.Ś. )
-                                                		    1257-1273 ( wg Tapsella )
-    Dynastia Welfów
-      Otto IV z Brunszwiku      	                      1198-1218 ( wg D.Ś. i Tapsella )
-                                                        1198-? ( Ota wg F.B.C.A.R. )
-                                                        1208-1215 ( wg V.N.M.S.D. )
-    Dynastia habsburska
-      Rudolf I                        	                1273-1291 ( wg D.Ś. i Tapsella )
-                                                        1273-1292 ( wg V.N.M.S.D. )
-    			             	                                1273-? ( Rudolf Habsburský wg M.A:E. )
-    				        	                                  ? ( Rudolf Habsburský wg D.P.I.R.G. ) ( Rudolf I Habsburský wg Z.S.A.V.E. )
-      Albrecht I Austriacki    	                        1298-1308 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-    			                      	                      ? ( Albrecht Habsburský wg D.P.I.R.G. )
-      Albrecht II Austriacki	                          1438-1439 ( wg D.Ś. )
-                                                        1437-1439 ( wg V.N.M.S.D. i Tapsella )
-      Fryderyk III                  	                  1440-1493 ( wg D.Ś. i Tapsella )
-                                                        1439-1492 ( wg V.N.M.S.D. )
-    			                                              1440-? ( Fridrich II Habsburský wg D.B. )
-      Maksymilian I              	                      1493-1519 ( wg D.Ś. i Tapsella )
-                                                        1492-1519 ( wg V.N.M.S.D. )
-    			              	                              ?-1519 ( Maximilián wg M.A.E. )
-    			              	                              1508-1519 ( wg M.Ś. )
-    				       	                                    ? ( Maxmilián I wg Ř.V.G. )
-      Karol V                         	                1519-1558 ( wg D.Ś. i Tapsella i D.Ř.I. )
-                                                        1519-1556 ( wg V.N.M.S.D. i M.A.E. )
-    			             	                                1519-? ( Karel V wg D.P.I.R.G. )
-    				        	                                  ? ( wg 100.N.U.W. )
-    			             	                                1519-1555 ( wg M.Ś. )
-    					                                          przed 1521-po 1522 ( Karel V wg E.P. )
-    					                                          przed 1520-po 1541 ( Charles V wg A.S.A.O.T.D.O.T.I. )
-                                                        przed 1526-po 1551 ( Karel V wg Ř.S.J.Ď.S. )
-      Ferdynand I                  	                    1558-1564 ( wg D.Ś. i Tapsella )
-                                                        1556-1564 ( wg V.N.M.S.D. )
-    			             	                                1555-1564 ( wg M.Ś. )
-    					                                          1556-1564 ( ?-25.7. ) ( Ferdinand I Habsburský wg E.P. )
-      Maksymilian II             	                      1564 -1576 ( wg V.N.M.S:D. , D.Ś. , Tapsella i M.Ś. )
-      Rudolf II                       	                1576-1612 ( wg V.N.M.S.D. , D.Ś. i Tapsella i M.Ś. )
-    				        	                                  ? ( wg M.A.E. i V.R.M. )
-    			              	                              przed 1599-1612 ( wg 100.N.U.W. )
-      Maciej                           	                1612-1619
-      Ferdynand II                 	                    1619-1637 ( wg V.N.M.S.D. , D.Ś. , Tapsella i M.Ś. )
-      Ferdynand III                	                    1637-1657 ( wg D.Ś. )
-                                                        1637-1658 ( wg V.N.M.S.D. i Tapsella )
-                                                        ? ( wg P.J.D. )
-      Leopold I                      	                  1658-1705 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-    			             	                                przed 1683-po 1685 ( wg M.Ś. )
-    				        	                                  ? ( wg V.R.M. )
-      Józef I                           	              1705-1711
-      Karol VI                        	                1711-1740 ( wg V.N.M.S:D. , D.Ś. i Tapsella )
-    					                                          przed 1712-? ( wg M.Ś. )
-      Maria Teresa                 	                    1740-1745 ( wg V.N.M.S.D. )
-    Dynastia Nassau
-      Adolf             	                              1292-1298
-    Dynastia luksemburska
-      Henryk VII                          	            1308-1313 ( wg D.Ś. i Tapsella )
-                                                        1308-1314 ( wg V.N.M.S.D. )
-    				      	                                    1312-? ( Jindřich VII Lucemburský wg D.B. )
-      Karol IV                              	          1346-1378 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Karel IV wg D.B. )
-      Günther ze Schwarzburga	                          1349 ( wg D.Ś. i Tapsella )
-      Wacław                                	          1378-1400 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-    					                                          ? ( Václav IV wg Z.S.A.V.E. )
-      Zygmunt                              	            1410-1437 ( wg D.Ś. , V.N..S.D. i Tapsella )
-    				      	                                    1433-? ( Zikmund Lucemburský wg D.P.I.R.G. )
-    				                                            przed 1415-? ( Zikmund Lucemburský wg E.P. )
-      Jodok z Moraw                    	                1410-1411 ( wg D.Ś. i Tapsella )
-    Dynastia Wittelsbachów
-      Ludwik IV Bawarski        	                      1314 -1347
-      Fryderyk Austriacki          	                    1314 -1330 ( wg D.Ś. i Tapsella )
-      Fryderyk                            	            1400 ( wg Tapsella )
-      Ruprecht z Palatynatu	                            1400-1410
-      Karol VII Bawarski           	                    1742-1745 ( wg D.Ś. i Tapsella )
-    Dynastia habsbursko-lotaryńska
-      Franciszek I Lotaryński	                          1745-1765 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-    				     	                                      przed 1755-? ( František I Lotrinský wg Ř.V.G. )
-      Józef II                               	          1765-1790
-      Leopold II                          	            1790-1792 ( wg D.Ś. i Tapsella )
-                                                        1790-1794 ( wg V.N.M.S.D. )
-      Franciszek II                      	              1792-1806 ( wg D.Ś. i Tapsella )
-                                                        1794-1806 ( wg V.N.M.S.D. )
-    				     	                                      ?-1806 ( I wg D.R. )
   Uwagi :
       Wszystko oprócz oznaczonego w Królestwo Rzymu wg V.N.M.S.D. i D.R.
       Od Republiki Rzymskiej wszystko oprócz oznaczonego wg D.R. i K.R.I.C.R.
@@ -18580,7 +18444,6 @@ Rzym
       Od Dynastii Justynów wszystko oprócz oznaczonego wg V.N.M.S.D. , D.Ś. , P.C.R. , R.Z.A.D.D. i Tapsella
       Od Filippikosa Bardanesa wszystko oprócz oznaczonego wg V.N.M.S.D. , D.Ś. ,	R.Z.A.D.D. i Tapsella i D.B.
       Od Nicefora II wszystko oprócz oznaczonego wg V.N.M.S.D. , D.Ś. i Tapsella i D.B.
-      Od Świętego Cesartstwa Rzymskiego wsyzstko oprócz oznaczonego wg V.N.M.S.D. ,	D.Ś. i Tapsella
   Bibliografia :
       Antické Černomoří
       Dynastie Świata
@@ -18588,7 +18451,6 @@ Rzym
       Poczet Cesarzy Rzymskich
     	Rýžoviště zlata a doly drahokamů
     	Monarchs , Rulers , Dynasties and Kingdoms of the World
-    	Dobytí říše Inků
     	Křížové výpravy
     	Foiničané
     	100 nejvlivnějších vojevůdců světa
@@ -18597,14 +18459,11 @@ Rzym
     	Dějepis pro I. ročník gymnázií
     	Maurové a Evropa
     	Historia Powszechna – Starożytność
-    	100 Najwybitniejszych Uczonych Wszechczasów
     	Bitwy Morskie
-    	Mocarstwa Świata
     	Asýrie - od městského státu k říši
     	Kronika Rzymu i Cesarstwa Rzymskiego
     	Thrákové
     	Sedm Kleopater
-    	Války rudého muže
     	Hunové
     	Tvář helenistického světa
     	Dějiny Byzance
@@ -18621,12 +18480,12 @@ Rzym
     	Tiberius – Pohnutý život císaře
     	Zrození Řecka
     	Dzieje dawnych Turków
-    	A Short Account Of The Destruction Of The Indies
     	Oktawian August - Ojciec Chrzestny Europy
     	Klasické Řecko
     	Karpatské hry
       Poszukiwanie języka doskonałego
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Sabaudia
   Hrabstwo Sabaudii
@@ -20630,6 +20489,240 @@ Państwo Śungów
       Dynastie Świata
       Starověká Indie
       Encyklopedie panovníků
+
+Święte Cesarstwo Rzymskie
+  Dynastia Karolingów
+    Karol I Wielki ( Charlemagne )	                    800-814 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Karel Veliký wg D.B. ) ( Charles The Great wg V.K.T.H.O.H.E. )
+                                                        800-? ( wg D.R. ) ( Karol Wielki wg K.R.I.C.R. i D.D.T. )
+                                                        800-po 813 ( 23/4.12.-? ) ( Karel Veliký wg Z.S.A.V.E. )
+                                                        ? ( Karel Veliký wg F.B.C.A.R. ) ( Karol Wielki wg O.A.O.C.E. )
+    Ludwik I Pobożny                       	            814-840 ( wg D.Ś. i V.N.M.S.D. )
+                                                        813-840 ( wg Tapsella )
+                                                        ? ( Ludvík I Pobožný wg E.P. )
+                                                        ?-840 ( Louis The Pious wg V.K.T.H.O.H.E. )
+    Lotar I                                          	  840-855 ( wg V.N.M.S.D. i	D.Ś. i Tapsella ) ( Lothar I wg V.K.T.H.O.H.E. )
+    Ludwik II                                     	    855-875 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Louis II wg V.K.T.H.O.H.E. )
+                                                        ? ( Ludvík II wg Z.S.A.V.E. )
+                                                        przed 870-? ( Ludvík II Němec wg E.P. )
+    Karol II Łysy                               	      875-877 ( wg D.Ś. i Tapsella ) ( Charles II The Bald (Charles II) wg V.K.T.H.O.H.E. )
+    Karol III Gruby                           	        881-887 ( wg D.Ś. i V.N.M.S.D. )
+                                                        884-887 ( wg Tapsella )
+                                                        ?-888 ( Karel Tlustý wg D.B. ) ( Karel III Tlustý wg E.P. )
+                                                        ? ( Karel III wg Z.S.A.V.E. )
+                                                        881-888 ( Carolus Pinguis (Charles III Le Gros, Charles The Fat) wg V.K.T.H.O.H.E. )
+    Arnulf z Karyntii                         	        887-899 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        ?-899 ( wg Z.S.A.V.E. )
+    Ludwik III Dziecię                      	          900-911 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        899-914 ( Ludvík Dítě wg Z.S.A.V.E. )
+                                                        900-905 ( Louis The Blind wg V.K.T.H.O.H.E. )
+    Lambert				                                      892-898 ( ?-15.10. ) ( wg E.P. )
+  Dynastia frankońska
+    Konrad I                  	                        911-918 ( wg D.Ś. )
+                                                        911-919 ( wg V.N.M.S.D. i Tapsella )
+                                                        911-? ( Konrád I wg Z.S.A.V.E. )
+  Dynastia saska
+    Henryk I Ptasznik 	                                919-936 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        919-? ( Jindřich I Ptáčník wg D.P.I.R.G. )
+                                                        919-936 ( ?.5.-2.7. ) ( Jindřich I Ptáčník wg Z.S.A.V.E. )
+    Otto I Wielki       	                              936-973 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Ota I wg D.P.I.R.G. ) ( Otto I Veliký wg D.B. )
+                                                        ok.936-po 962 ( Otton I wg D.R. )
+                                                        ? ( Oto Veliký wg M.A.E. ) ( Ota Veliký wg F.B.C.A.R. )
+                                                        962-po 968 ( Otto I Veliký wg D.B. )
+                                                        przed 937(962)-973 ( 2.2.-7.5. ) ( Ota I wg Z.S.A.V.E. )
+                                                        962-973 ( Otto I wg V.K.T.H.O.H.E. )
+    Otto II                	                            973-983 ( wg V.N.M.S.D. , D.Ś. i Tapsella i V.K.T.H.O.H.E. )
+                                                        ? ( wg D.B. )
+                                                        przed 974 -983 ( Ota II wg Z.S.A.V.E. )
+                                                        przed 974-? ( Ota II wg E.P. )
+    Otto III                 	                          983-1002 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        przed 996-1002 ( ?-24.1. ) ( wg D.B. )
+                                                        przed 1000-? ( Otton III wg K.R.I.C.R. )
+                                                        985-1002 ( Ota III wg Z.S.A.V.E. )
+                                                        ? ( wg V.K.T.H.O.H.E. )
+    Henryk II Święty	                                  1002-1024 ( wg V.N.M.S.D. , D.Ś. , Z.S.A.V.E. i Tapsella )
+                                                        przed 1006-? ( wg F.B.C.A.R. )
+  Dynastia salicka
+    Konrad II              	                            1024 -1039 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Konrád II wg D.B. i Z.S.A.V.E. )
+                                                        ? ( Konrád II wg E.P. ) ( Conrad II wg V.K.T.H.O.H.E. )
+                                                        przed 1033-? ( Conrad The Salic wg V.K.T.H.O.H.E. )
+    Henryk III              	                          1039-1056 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Jindřich III wg D.B. )
+                                                        przed 1039-po 1044 ( Jindřich III wg Z.S.A.V.E. )
+    Henryk IV              	                            1056-1105 ( wg D.Ś. )
+                                                        1056-1077 i 1080-1107( wg V.N.M.S.D. )
+                                                        1056-1106 ( wg Tapsella ) ( Jindřich IV wg D.B. )
+                                                        ok.1088 ( wg K.V. )
+                                                        ? ( Jindřich IV wg Z.S.A.V.E. )
+                                                        przed 1077-? ( Jindřich IV wg F.B.C.A.R. )
+    Rudolf Szwabski	                                    1077-1080 (wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        1077-? ( Rudolf z Rheinfeldenu wg F.B.C.A.R. )
+    Herman z Salm    	                                  1081-1088 ( wg D.Ś. )
+                                                        1081-1093 ( wg Tapsella )
+    Konrad         	                                    1087-1098 ( wg D.Ś. )
+                                                        1093-1101 ( wg Tapsella )
+    Henryk V               	                            1105-1125 ( wg D.Ś. )
+                                                        1107-1125 ( wg V.N.M.S.D. )
+                                                        1106-1125 ( wg Tapsella )
+                                                        przed 1122-? ( Jindřich V wg D.B. )
+                                                        przed 1109-1125 ( Jindřich V wg F.B.C.A.R. )
+  Dynastia z Supplinburga
+    Lotar II Saski	                                    1125-1137 ( wg D.Ś. ) ( III wg Tapsella )
+                                                        1125-1137 ( ?-?.12. ) ( Lothar III wg F.B.C.A.R. )
+                                                        1125-1138 ( III wg V.N.M.S.D. )
+                                                        ? ( Lothar III wg E.P. )
+  Dynastia Hohenstaufów
+    Konrad III                          	              1138-1152 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Konrád III wg D.B. )
+                                                        ok.1147 ( wg K.V. )
+                                                        1127-1135 i 1138-1152 ( 18.12.-jesień i ?-15.2. ) ( Konrád III wg F.B.C.A.R. )
+    Henryk                               	              1147-1150 ( wg D.Ś. )
+                                                        1147-1150 ( ?.3.-? ) ( Jindřich wg F.B.C.A.R. )
+    Fryderyk I Barbarossa   	                          1152-1190 ( ?-czerwiec ) ( wg K.V. )
+                                                        1152-1190 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        1152-1190 ( 4.3.-10.6. ) ( Fridrich Barbarossa wg F.B.C.A.R. )
+                                                        ? ( Bedřich I Barbarossa wg M.A.E. ) ( Fridrich Barbarossa wg Z.V.C. )
+                                                        1151-1190 ( Fridrich I Barbarossa wg D.B. )
+                                                        przed 1189-po 1190 ( Fridrich I Barbarossa wg E.P. )
+                                                        1155/62-1190 ( Frederick Barbarossa wg V.K.T.H.O.H.E. )
+    Henryk VI                          	                1190-1197 ( wg D.Ś. i Tapsella i K.V. )
+                                                        1190-1198 ( wg V.N.M.S.D. )
+                                                        przed 1194 -po 1196 ( Jindřich VI wg D.B. )
+                                                        1169-po 1197 ( 15.8.-? ) ( Jindřich VI wg F.B.C.A.R. )
+                                                        ? ( Jindřich VI wg Z.V.C. )
+    Filip Szwabski                   	                  1198-1208 ( wg V.N.M.S.D. , D.Ś. I Tapsella )
+                                                        1198-? ( wg F.B.C.A.R. )
+  Dynastia Welfów
+    Otto IV z Brunszwiku      	                        1198-1218 ( wg D.Ś. i Tapsella )
+                                                        1198-? ( Ota wg F.B.C.A.R. )
+                                                        1208-1215 ( wg V.N.M.S.D. )
+  Dynastia Hohenstaufów
+    Fryderyk II                         	              1212-1250 ( wg D.Ś. i Tapsella ) ( Fridrich II wg D.P.I.R.G. ) ( Fridrich II Hohenštaufský wg D.B. )
+                                                        1215-1250 ( wg V.N.M.S.D. )
+                                                        przed 1215-po 1229 ( wg K.V. )
+                                                        ?-1250 ( wg D.R. )
+                                                        1220-1250 ( Bedřich II wg M.A.E. )
+                                                        1215/20-1250 ( Frederick II (Frederick II of Hohenstaufen) wg V.K.T.H.O.H.E. )
+                                                        ? ( Fridrich II wg Z.S.A.V.E. )
+    Henryk                               	              1220-1235 ( wg D.Ś. )
+    Henryk Raspe z Turyngii	                            1246-1247 ( wg D.Ś. i Tapsella )
+    Wilhelm z Holandii            	                    1247-1256 ( wg D.Ś. i Tapsella )
+    Konrad IV                          	                1250-1254 ( wg D.Ś. i Tapsella )
+                                                        1250-1273 ( wg V.N.M.S.D. )
+                                                        przed 1264-? ( Conrad IV wg V.K.T.H.O.H.E. )
+    Ryszard z Kornwalii          	                      1257-1272 ( wg D.Ś. i Tapsella )
+    Alfons z Kastylii                	                  1257-1284 ( wg D.Ś. )
+                                                        1257-1273 ( wg Tapsella )
+  Dynastia habsburska
+    Rudolf I                        	                  1273-1291 ( wg D.Ś. i Tapsella )
+                                                        1273-1292 ( wg V.N.M.S.D. )
+                                                        1273-? ( Rudolf Habsburský wg M.A:E. )
+                                                        ? ( wg V.K.T.H.O.H.E. ) ( Rudolf Habsburský wg D.P.I.R.G. ) ( Rudolf I Habsburský wg Z.S.A.V.E. )
+  Dynastia Nassau
+    Adolf             	                                1292-1298
+  Dynastia habsburska
+    Albrecht I Austriacki    	                          1298-1308 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        ? ( Albrecht Habsburský wg D.P.I.R.G. )
+  Dynastia luksemburska
+    Henryk VII                          	              1308-1313 ( wg D.Ś. i Tapsella )
+                                                        1308-1314 ( wg V.N.M.S.D. )
+                                                        1312-? ( Jindřich VII Lucemburský wg D.B. )
+  Dynastia Wittelsbachów
+    Ludwik IV Bawarski        	                        1314-1347
+    Fryderyk Austriacki          	                      1314-1330 ( wg D.Ś. i Tapsella )
+  Dynastia luksemburska
+    Karol IV                              	            1346-1378 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Karel IV wg D.B. )
+    Günther ze Schwarzburga	                            1349 ( wg D.Ś. i Tapsella )
+    Wacław                                	            1378-1400 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        ? ( Václav IV wg Z.S.A.V.E. )
+  Dynastia Wittelsbachów
+    Fryderyk                            	              1400 ( wg Tapsella )
+    Ruprecht z Palatynatu	                              1400-1410
+  Dynastia luksemburska
+    Zygmunt                              	              1410-1437 ( wg D.Ś. , V.N..S.D. i Tapsella )
+                                                        1433-? ( Zikmund Lucemburský wg D.P.I.R.G. )
+                                                        przed 1415-? ( Zikmund Lucemburský wg E.P. )
+    Jodok z Moraw                    	                  1410-1411 ( wg D.Ś. i Tapsella )
+  Dynastia habsburska ( House of Habsburg )
+    Albrecht II Austriacki	                            1438-1439 ( wg D.Ś. )
+                                                        1437-1439 ( wg V.N.M.S.D. i Tapsella )
+    Fryderyk III                  	                    1440-1493 ( wg D.Ś. i Tapsella )
+                                                        1439-1492 ( wg V.N.M.S.D. )
+                                                        1440-? ( Fridrich II Habsburský wg D.B. )
+    Maksymilian I              	                        1493-1519 ( wg D.Ś. i Tapsella )
+                                                        1492-1519 ( wg V.N.M.S.D. )
+                                                        ?-1519 ( Maximilián wg M.A.E. )
+                                                        1508-1519 ( wg M.Ś. )
+                                                        ? ( Maxmilián I wg Ř.V.G. ) ( Maximilian von Habsburg (Maximilian I) wg V.K.T.H.O.H.E. )
+    Karol V                         	                  1519-1558 ( wg D.Ś. i Tapsella i D.Ř.I. )
+                                                        1519-1556 ( wg V.N.M.S.D. i M.A.E. )
+                                                        1519-? ( Karel V wg D.P.I.R.G. )
+                                                        ? ( wg 100.N.U.W. )
+                                                        1519-1558/6 ( Charles V wg V.K.T.H.O.H.E. )
+                                                        1519-1555 ( wg M.Ś. )
+                                                        przed 1521-po 1522 ( Karel V wg E.P. )
+                                                        przed 1520-po 1541 ( Charles V wg A.S.A.O.T.D.O.T.I. )
+                                                        przed 1526-po 1551 ( Karel V wg Ř.S.J.Ď.S. )
+    Ferdynand I                  	                      1558-1564 ( wg D.Ś. i Tapsella )
+                                                        1556-1564 ( wg V.N.M.S.D. )
+                                                        1521/56-1564 ( Ferdinand of Habsburg wg V.K.T.H.O.H.E. )
+                                                        1555-1564 ( wg M.Ś. )
+                                                        1556-1564 ( ?-25.7. ) ( Ferdinand I Habsburský wg E.P. )
+    Maksymilian II             	                        1564 -1576 ( wg V.N.M.S:D. , D.Ś. , Tapsella i M.Ś. )
+    Rudolf II                       	                  1576-1612 ( wg V.N.M.S.D. , D.Ś. i Tapsella i M.Ś. )
+                                                        ? ( wg M.A.E. i V.R.M. )
+                                                        przed 1599-1612 ( wg 100.N.U.W. )
+    Maciej                           	                  1612-1619
+    Ferdynand II                 	                      1619-1637 ( wg V.N.M.S.D. , D.Ś. , Tapsella i M.Ś. )
+    Ferdynand III                	                      1637-1657 ( wg D.Ś. )
+                                                        1637-1658 ( wg V.N.M.S.D. i Tapsella )
+                                                        ? ( wg P.J.D. )
+    Leopold I                      	                    1658-1705 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        przed 1683-po 1685 ( wg M.Ś. )
+                                                        ? ( wg V.R.M. ) ( wg V.K.T.H.O.H.E. )
+    Józef I                           	                1705-1711
+    Karol VI                        	                  1711-1740 ( wg V.N.M.S:D. , D.Ś. i Tapsella )
+                                                        przed 1712-? ( wg M.Ś. )
+    Maria Teresa                 	                      1740-1745 ( wg V.N.M.S.D. )
+                                                        ? ( Maria Theresa wg V.K.T.H.O.H.E. )
+  Dynastia Wittelsbachów
+    Karol VII Bawarski           	                      1742-1745 ( wg D.Ś. i Tapsella )
+  Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
+    Franciszek I Lotaryński	                            1745-1765 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        przed 1755-? ( František I Lotrinský wg Ř.V.G. )
+    Józef II                               	            1765-1790 ( wg V.N.M.S.D. ,	D.Ś. i Tapsella )
+                                                        ?-1790 ( Joseph II wg V.K.T.H.O.H.E. )
+    Leopold II                          	              1790-1792 ( wg D.Ś. i Tapsella )
+                                                        1790-1794 ( wg V.N.M.S.D. )
+                                                        ? ( wg V.K.T.H.O.H.E. )
+    Franciszek II                      	                1792-1806 ( wg D.Ś. i Tapsella )
+                                                        1794-1806 ( wg V.N.M.S.D. )
+                                                        ?-1806 ( I wg D.R. )
+                                                        ? ( Francis II wg V.K.T.H.O.H.E. )
+  Uwagi :
+      Wszystko oprócz oznaczonego wg V.N.M.S.D. ,	D.Ś. i Tapsella
+  Bibliografia :
+      Dynastie Świata
+      Velká nástěnná mapa světových dějin
+      Monarchs , Rulers , Dynasties and Kingdoms of the World
+      Dobytí říše Inků
+      Křížové výpravy
+      Dzieje Rzymu
+      Dějepis pro I. ročník gymnázií
+      Maurové a Evropa
+      100 Najwybitniejszych Uczonych Wszechczasów
+      Mocarstwa Świata
+      Kronika Rzymu i Cesarstwa Rzymskiego
+      Sedm Kleopater
+      Války rudého muže
+      Dějiny Byzance
+      Římané v Germánii
+      Zrod střední a východní Evropy
+      Fridrich Barbarossa – císař a rytíř
+      Encyklopedie panovníků
+      Zdraví Vás Caesar
+      Dzieje dawnych Turków
+      A Short Account Of The Destruction Of The Indies
+      Oktawian August - Ojciec Chrzestny Europy
+      Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Ta Jüe
   Bibliografia :
@@ -22680,33 +22773,38 @@ Wizygoci ( Terwingowie )
       		             	                                przed 395-410 ( Alaryk wg K.R.I.C.R. )
       		             	                                przed 409-po 410 ( Alarich wg H. )
                                                	        przed 408-po 410 ( Alarich wg D.B. )
+                                                        przed 410-410 (24.8.-?) ( Alaric wg V.K.T.H.O.H.E. )
     Ataulf                 	                            410-415 ( ?-sierpień ) ( wg P.C.R. )
       		             	                                410-415 ( wg D.Ś. )
                                                	        410-418 ( wg V.N.M.S.D. )
+                                                        ?-415 ( wg V.K.T.H.O.H.E. )
       			     	                                      ? ( wg M.A.E. i H. )
       		             	                                przed 412-415 ( wg K.R.I.C.R. )
-    Sigeryk               	                            415 ( wg D.Ś. i P.C.R. )
+    Sigeryk               	                            415 ( wg D.Ś. i P.C.R. ) ( Sidericus wg V.K.T.H.O.H.E. )
     Wallia                 	                            415-418 ( ?-koniec ) ( wg P.C.R. )
       		             	                                415-418 ( wg D.Ś. i K.R.I.C.R. )
                                                	        418-420 ( wg V.N.M.S.D. )
-      			    	                                      ? ( wg D.B. )
+      			    	                                      ? ( wg D.B. ) ( Vallia wg V.K.T.H.O.H.E. )
     Teodoryk I          	                              418-451 ( ?-czerwiec ) ( wg P.C.R. )
       		              	                              418-451 ( wg D.Ś. ) ( Teoderyk wg K.R.I.C.R. )
                                                 	      420-452 ( wg V.N.M.S.D. )
+                                                        419-451 (?-?.6.) ( Theodoric I (Theodorid) wg V.K.T.H.O.H.E. )
                                                 	      przed 437-451 ( ?-20.6. ) ( Theodorich I wg H. )
-    Torismund          	                                451-453 ( czerwiec-? ) ( wg P.C.R. )
+    Torismund          	                                451-453 ( czerwiec-? ) ( wg P.C.R. ) ( Thorismund wg V.K.T.H.O.H.E. )
       		             	                                451-453 ( wg D.Ś. )
       		             	                                451-? ( Thorismund wg H. )
-    Teodoryk II        	                                453-466  ( wg D.Ś. i P.C.R. )
+    Teodoryk II        	                                453-466  ( wg D.Ś. i P.C.R. ) ( Theodoric II wg V.K.T.H.O.H.E. )
                                                	        452-466 ( wg V.N.M.S.D. )
-    Euryk                  	                            466-484 ( wg D.Ś. ) ( Eurich wg M.A.E. )
+    Euryk                  	                            466-484 ( wg D.Ś. ) ( Eurich wg M.A.E. ) ( Euric (Evaric, Erwig) wg V.K.T.H.O.H.E. )
                                                	        466-483 ( wg V.N.M.S.D. )
                                                	        466-? ( wg P.C.R. )
     Alaryk II             	                            484-507 ( wg D.Ś. )
                                                	        483-506 ( wg V.N.M.S.D. )
+                                                        484-507 (?-wiosna) ( Alaric II wg V.K.T.H.O.H.E. )
     Gezalik               	                            507-511 ( wg D.Ś. )
                                                	        506-511 ( wg V.N.M.S.D. )
-    Amalaryk           	                                511-531
+    Amalaryk           	                                511-531 ( wg D.Ś. i V.N.M.S.D. )
+                                                        ? ( Amalric wg V.K.T.H.O.H.E. )
     Teudis                	                            531-548
     Teudigisel          	                              548-549
     Agila I                	                            549-555 ( wg D.Ś. )
@@ -22760,6 +22858,7 @@ Wizygoci ( Terwingowie )
       Dějiny Byzance
       Římané v Germánii
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Włochy
   Królestwo Włoch
@@ -23215,5 +23314,6 @@ Bibliografia :
     [76] Conquistadors of the Useless - From The Alps To Annapurna , Lionel Terray , 2001
     [77] O Krakowie Ci Ja! , Antoni Wasilewski , 1984
     [78] Kolumbova flotila , Helena a Eduard Škodovi , Vojtěch Kubašta , 1992
+    [79] Vanished Kingdoms - The History of Half-Forgotten Europe , Norman Davies , 2012
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
