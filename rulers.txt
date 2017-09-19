@@ -432,6 +432,8 @@ Alcluith ( Kingdom of The Rock, Dumbarton, Alt Clud )
   Beli II                                               ? ( wg V.K.T.H.O.H.E. )
   Teudebur map Beli ( Tewdwr map Beli )                 ?-752 ( Taudar mac Bili wg V.K.T.H.O.H.E. )
   Dynfwal map Teudebur                                  przed 756-? (1.8.-?) ( wg V.K.T.H.O.H.E. )
+  Arthgal                                               przed 870/1-872 ( wg V.K.T.H.O.H.E. )
+  Rhun map Arthgal                                      ok.872-? ( wg V.K.T.H.O.H.E. )
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -5456,7 +5458,8 @@ Dalriada
     Comgall                                            	ok.506-ok.538
     Gabran                                             	ok.538-559
     Conall mac Comgall                                 	559-574
-    Aedan                                              	574-608
+    Aedan                                              	574-608 ( wg Tapsella )
+                                                        574-po 590 ( Aedan mac Gabrain wg V.K.T.H.O.H.E. )
     Eochaid Buide                                      	608-629
     Connad Cerr                                        	629-?
     Ferchar mac Connad  				                        ?
@@ -5489,11 +5492,14 @@ Dalriada
     Eoganan                                            	ok.842
     Kenneth I                                          	ok.840-842 ( wg D.Ś. )
                                                        	843-858 ( Kenneth mac Alpin wg Tapsella )
+                                                        ?-858 ( Cinead mac Alpin (Kenneth macAlpin) wg V.K.T.H.O.H.E. )
+    Constantine I                                       863-877 ( wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg Tapsella
   Bibliografia :
       Dynastie Świata
       Monarchs , Rulers , Dynasties and Kingdoms of the World
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Damaszek
   Aram-Damaszek
@@ -5564,6 +5570,7 @@ Dania
       				      	                                  995-1035 ( Knut Veliký wg Z.S.A.V.E. )
       					                                        1018-1035 ( ?-12.11. ) ( Knut II Veliký wg E.P. )
                                                         ? ( Knútr wg Ř.S.J.Ď.S. )
+                                                        1018-1035 ( Cnut Sweynsson The Great wg V.K.T.H.O.H.E. )
       Hardeknud ( Hardekanut )	                        1035-1042 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
       					                                        1035-po 1040 ( Hardiknut wg E.P. )
       Magnus Dobry                     	                1042-1046 ( wg D.Ś. )
@@ -5600,6 +5607,7 @@ Dania
       						                                      1182-1202 ( ?-12.11. ) ( Knut VI Valdemarsson wg E.P. )
       Waldemar II Zwycięzca              	              1202-1241 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
       						                                      ? ( Valdemar II Vítězný wg E.P. )
+                                                        ok.1225 ( Valdemar The Victorious wg V.K.T.H.O.H.E. )
       Waldemar Młodszy                       	          1215-1231 ( wg D.Ś. )
       Eryk IV Denar od Pługa                	          1241-1250
       Abel                                              1250-1252
@@ -5674,6 +5682,7 @@ Dania
       Encyklopedie panovníků
       Říše slova - Jazykové dějiny světa
       Severské mýty
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Księstwo Deheubarth
   Rhodri Mawr                    	                      872-878
@@ -5701,7 +5710,7 @@ Księstwo Deheubarth
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
 
-Królestwo Deiry
+Królestwo Deiry ( Kingdom of Deur, Kingdom of Deira )
   Elle                    	                            569-599 ( wg D.Ś. )
                                  	                      ok.560-588 ( wg Tapsella )
   Ethelryk           	                                  599-604 ( wg D.Ś. )
@@ -5916,7 +5925,8 @@ Dreros
       Zrození Řecka
 
 Królestwo Dublinu
-  Olaf I                                           	    856-871
+  Olaf I                                           	    856-871 ( wg Tapsella )
+                                                        przed 870/1-? ( Olaf The White wg V.K.T.H.O.H.E. )
   Ivar I Ragnarson the Boneless	                        871-873
   Eystein Olafson                          	            873-875
   Halfdan Ragnarson                     	              875-877
@@ -5941,8 +5951,11 @@ Królestwo Dublinu
   Ottar Ottarson                           	            1142-1148
   Brodar Thorkellson                     	              1148-1160
   Astell Ragnaldson                       	            1160-1170
+  Uwagi :
+      Wszystko oprócz oznaczonego wg Tapsella
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Księstwo Duklja ( Diokleia )
   Stefan Vojislav                                       ?
@@ -7399,6 +7412,12 @@ Fokida
   Aulis                                                 ok.519/10 p.n.e.
   Bibliografia :
       Dzieje Grecji
+
+Fortriu
+  Nechtan                                               ?-621 n.e.
+  Bridei map Bili                                       przed 685-? (20.5.-?)
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Foxowie ( Fox )
   Bibliografia :
@@ -12417,6 +12436,11 @@ Lemnos
   Bibliografia :
       Dzieje Grecji
 
+Lennox
+  Guallauc                                              przed 590 n.e.-?
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Hrabstwo Lenzburg
   Ulrich IV                	                            ?-1172 n.e. ( ?-lato )
   Ota			                                              1173-?
@@ -14002,6 +14026,7 @@ Królestwo Mercji
   Ethelred II       	                                  879-911
   Ethelfled          	                                  911-918
   Elfwyn             	                                  918-919
+  Athelstan                                             924-939 ( wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś. i Tapsella
       Od Ethelreda II włącznie wszystko oprócz oznaczonego wg D.Ś.
@@ -14010,6 +14035,7 @@ Królestwo Mercji
       Velká nástěnná mapa světových dějin
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Encyklopedie panovníků
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Merkici
   Toktoa                                                ?-1204 n.e. ( ?-jesień )
@@ -15023,7 +15049,7 @@ Księstwo Nitry
 
 Orda Nogajska
 
-Księstwo Normandii
+Księstwo Normandii ( Normandy )
   1.dynastia normandzka
     Rollo ( Robert )                                	  911-925 ( wg D.Ś. )
                                                         911-927 ( wg V.N.M.S.D. )
@@ -15040,6 +15066,7 @@ Księstwo Normandii
     Wilhelm II Zdobywca                          	      1035-1087 ( ?-9.9. ) ( wg 100.N.V.S. )
                                                         1035-1087 ( wg D.Ś. i V.N.M.S.D. )
       					      	                                przed 1066-?  ( Vilém wg D.P.I.R.G. ) ( Wilhelm Zdobywca wg B.M. ) ( Vilém Dobyvatel wg Ř.S.J.Ď.S. )
+                                                        ? ( William of Normandy wg V.K.T.H.O.H.E. )
     Robert II Courte Heuse ( Krótkonogi )	              1087-1106 ( wg D.Ś. i V.N.M.S.D. )
       				                     	                    ok.1096 ( wg K.V. )
     Henryk I                                           	1106-1135 ( wg D.Ś. )
@@ -15063,6 +15090,7 @@ Księstwo Normandii
       Fridrich Barbarossa – císař a rytíř
       Encyklopedie panovníků
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Northumbrii
   Ida                     		                          547-560 ( wg V.N.M.S.D. )
@@ -15082,8 +15110,9 @@ Królestwo Northumbrii
                                   		                  633-641 ( wg Tapsella )
   Oswiu                 		                            642-670 ( wg V.N.M.S.D. i D.Ś. )
                                   		                  641-670 ( wg Tapsella )
-                                                        przed 664-? ( Oswy wg Ř.S.J.Ď.S. )
+                                                        przed 664-? ( Oswy wg Ř.S.J.Ď.S. i V.K.T.H.O.H.E. )
   Ecgfrith              		                            670-685 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        ?-685 (?-20.5.) ( wg V.K.T.H.O.H.E. )
   Aldfrith              		                            686-705 ( wg V.N.M.S.D. i D.Ś. )
                                  		                    685-704 ( wg Tapsella )
   Eadwulf I           		                              705-706 ( wg D.Ś. )
@@ -15095,6 +15124,7 @@ Królestwo Northumbrii
   Ceolwulf            		                              729-737 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
   Eadberht            		                              737-758 ( wg D.Ś. ) ( Eadbert wg Tapsella )
                                             		        737-757 ( wg V.N.M.S.D. )
+                                                        przed 756-756 (1.8.-11.8.) ( wg V.K.T.H.O.H.E. )
   Oswulf               		                              758-759 ( wg D.Ś. )
                                  		                    758 ( wg Tapsella )
   Ethelwald Moll		                                    759-765 ( wg D.Ś. )
@@ -15131,6 +15161,7 @@ Królestwo Northumbrii
       Velká nástěnná mapa světových dějin
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Norwegii
   Olaf                          	                      630-640
@@ -16539,10 +16570,12 @@ Piktowie
     Bridei III                              	          671-692
     Taran                                    	          692-696
     Bridei IV                              	            696-706
-    Nechton                              	              706-724
+    Nechton                              	              706-724 ( wg Tapsella ) ( Nechtan wg V.K.T.H.O.H.E. )
     Drest II                                	          724-726
     Alpin I                                  	          726-728
-    Onuist                                   	          728-761
+    Onuist                                   	          728-761 ( wg Tapsella )
+                                                        729-761 ( Oengus I mac Fergusson wg V.K.T.H.O.H.E. )
+    Talorgen ( Talargan )                               ? ( wg V.K.T.H.O.H.E. )
     Bridei V                                	          761-763
     Ciniod                                   	          763-775
     Alpin II                                 	          775-780
@@ -16551,7 +16584,7 @@ Piktowie
     Talorgen I                             	            785-787
     Canaul                                   	          787-789
     Constantine                           	            789-820
-    Unuist                                    	        820-834
+    Unuist                                    	        820-834 ( wg Tapsella ) ( Oengus II wg V.K.T.H.O.H.E. )
     Drest IV                                 	          834-837
     Talorgen II                             	          834-837
     Uuen ( Eoganan z Dalriady )	                        837-839
@@ -16560,8 +16593,11 @@ Piktowie
     Kineth                                    	        842-843
     Brude                                     	        843-845
     Drust                                      	        845-848
+    Cinaed mac Alpin ( Kenneth macAlpin )               848-858 ( wg V.K.T.H.O.H.E. )
+    Constantine I                                       863-877 ( wg V.K.T.H.O.H.E. )
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Pisa
   Oinomaos	                                            ?
@@ -19781,12 +19817,18 @@ Stany Zjednoczone Ameryki Północnej
 
 Stodoranie
 
-Kingdom of Strathclyde
+Kingdom of Strathclyde ( Cumbria )
+  Ywain map Dynfwal ( Owen of Cumbria )                 przed 927-po 937
+  Dynfwal III                                           przed 944-po 945
+  Eogan II ( Owain The Blind )                          ?-1018
+  Donnchad ( Duncan )                                   ? [king of Scotland Donnchad I]
+  Mael Coluim                                           przed 1054-?
+  David                                                 1113-? [king of Scotland David I]
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Styria
-  Otakar IV         	                                  przed 1180-?
+  Otakar IV         	                                  przed 1180 n.e.-?
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
 
@@ -20171,7 +20213,7 @@ Szian
   Bibliografia :
       Kralovská tažení ve starém Orientu
 
-Królestwo Szkocji
+Szkocja
   Fergus I                 	                            330-305
   Eugenius I             	                              357-377
   Fergus II                	                            404-420
@@ -20214,87 +20256,93 @@ Królestwo Szkocji
     Aed                        	                        876-878 ( wg D.Ś. )
                                   		                  877-878 ( wg Tapsella )
     Giric                       	                      878-889 ( wg D.Ś. )
-    Eochaid                 	                          878-889 ( wg D.Ś. i Tapsella )
-    Donald II                	                          889-900  ( wg D.Ś. )
-    				                                            893-904 ( VI wg V.N.M.S.D. )
-    				                                            889-903 ( wg Tapsella )
-    Konstantyn II          	                            900-943 ( wg D.Ś. )
-    				                                            904-944 ( III wg V.N.M.S.D. )
-    				                                            903-943 ( wg Tapsella )
-    Malcolm I               	                          943-954 ( wg D.Ś. i Tapsella )
-                                                  	    944-953 ( wg V.N.M.S.D. )
-    Indulf ( Gondulf )	                                954-962 ( wg D.Ś. i Tapsella )
-                                                  	    953-961 ( wg V.N.M.S.D. )
-    Duf ( Duff )             	                          962-966  ( wg D.Ś. ) ( Dub wg Tapsella )
-                                                  	    961-965 ( wg V.N.M.S.D. )
-    Culén                      	                        966-971 ( wg D.Ś. i Tapsella )
-                                                  	    965-970 ( wg V.N.M.S.D. )
-    Kenneth II               	                          971-995 ( wg D.Ś. i Tapsella )
-                                                   	    970-994 ( III wg V.N.M.S.D. )
-    Konstantyn III         	                            995-997 ( wg D.Ś. i Tapsella )
-                                                   	    994-995 ( IV wg V.N.M.S.D. )
-    Kenneth III          	                              997-1005 ( wg D.Ś. i Tapsella )
-    Grimus                 	                            995-1003 ( wg V.N.M.S.D. )
-    Malcolm II          	                              1005-1034 ( wg D.Ś. i Tapsella )
-                                              	        1003-1033 ( wg V.N.M.S.D. )
-  Dynastia z Dunkeld
-    Duncan I                           	                1034-1040 ( wg D.Ś. i Tapsella )
-                                                        1033-1039 ( wg V.N.M.S.D. )
-    					                                          ?-1040 ( wg E.P. )
-    Malcolm III                      	                  1058-1093 ( wg D.Ś. i Tapsella )
-                                                        1057-1093 ( wg V.N.M.S.D. )
-    					                                          ? ( wg E.P. i Ř.S.J.Ď.S. )
-    Donald III                         	                1093-1094 i 1094 -1097 ( wg D.Ś. i Tapsella )
-                                                        1093-ok.1095 ( wg V.N.M.S.D. )
-    Duncan II                          	                1094 ( wg D.Ś. i Tapsella )
-    Bán                                    	            ok.1095-1098 ( wg V.N.M.S.D. )
-    Edgar                                 	            1097-1107 ( wg D.Ś. i Tapsella )
-                                                        1098-1107 ( wg V.N.M.S.D. )
-    Aleksander I                      	                1107-1124 ( wg V.N.M.S.D. , Tapsella i D.Ś. )
-    					                                          1107-1124 ( ?-27.4. ) ( Alexandr I wg E.P. )
-    Dawid I Święty                  	                  1124-1153 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( David I wg Ř.S.J.Ď.S. )
-    					                                          1124-1153 ( ?-24.5. ) ( David I wg E.P. )
-    Malcolm IV Dzieweczka	                              1153-1165
-    Wilhelm Lew                     	                  1165-1214
-    Aleksander II                     	                1214-1249 ( wg V.N.M.S.D. , Tapsella i D.Ś. )
-    				                                            1214-1249 ( ?-8.7. ) ( Alexandr II wg E.P. )
-    Aleksander III                    	                1249-1286 ( wg D.Ś. i Tapsella )
-                                                        1249-1285 ( wg V.N.M.S.D. )
-    					                                          1249-1286 ( ?-19.3. ) ( Alexandr III wg E.P. )
-  Dynastia z Moray
-    Macbeth               	                            1040-1057 ( wg D.Ś. i Tapsella )
-                                               	        1039-1057 ( wg V.N.M.S.D. )
-    				                                            1040-1057 ( ?-15.8. ) ( wg E.P. )
-    Lulach                  	                          1057-1058 ( wg D.Ś. i Tapsella )
-  Dynastia norweska
-    Małgorzata           	                              1286-1290 ( wg D.Ś. i Tapsella )
-                                               	        1285-1292 ( wg V.N.M.S.D. )
-  Dynastia Balliol
-    Jan                        	                        1292-1296 ( wg D.Ś. i Tapsella )
-    			 	                                            1290-1296 ( wg 100.N.V.S. )
-    Baliol                    	                        1292-1306 ( wg V.N.M.S.D. )
-    Edward                 	                            1332-1356 ( wg D.Ś. )
-    				                                            1332-1342 ( wg V.N.M.S.D. )
-    				                                            1332-1334 ( wg Tapsella )
-  Dynastia Bruce
-    Robert I           	                                1306-1329
-    Dawid II          		                              1329-1371 ( wg D.Ś. )
-    				                                            1329-1332 i 1342-1371 ( wg V.N.M.S.D. )
-    				                                            1329-1332 i 1334-1371 ( wg Tapsella )
-    				                                            ?-1371 ( ?-22.2. ) ( David II wg E.P. )
-  Dynastia Stewart
-    Robert II           	                              1371-1390
-    Robert III          	                              1390-1406
-    Jakub I              	                              1406-1437 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-    				                                            1406-1437 ( ?-20.2. ) ( wg E.P. )
-    Jakub II             	                              1437-1460 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-    				                                            1437-1460 ( ?-3.8. ) ( wg E.P. )
-    Jakub III            	                              1460-1488
-    Jakub IV            	                              1488-1513
-    Jakub V              	                              1513-1542
-    Maria                  	                            1542-1567
-    Jakub VI             	                              1567-1625
-    Karel I			                                        1625-1649 ( ?-30.1. ) ( wg E.P. )
+  Kingdom of Alba
+    Dynastia Alpina
+      Eochaid                 	                          878-889 ( wg D.Ś. i Tapsella )
+                                                          878-879 ( Eochaid map Rhun wg V.K.T.H.O.H.E. )
+      Donald II                	                          889-900  ( wg D.Ś. )
+      				                                            893-904 ( VI wg V.N.M.S.D. )
+      				                                            889-903 ( wg Tapsella )
+      Konstantyn II          	                            900-943 ( wg D.Ś. ) ( Constantine II wg V.K.T.H.O.H.E. )
+      				                                            904-944 ( III wg V.N.M.S.D. )
+      				                                            903-943 ( wg Tapsella )
+      Malcolm I               	                          943-954 ( wg D.Ś. i Tapsella )
+                                                    	    944-953 ( wg V.N.M.S.D. )
+      Indulf ( Gondulf )	                                954-962 ( wg D.Ś. i Tapsella )
+                                                    	    953-961 ( wg V.N.M.S.D. )
+      Duf ( Duff )             	                          962-966  ( wg D.Ś. ) ( Dub wg Tapsella )
+                                                    	    961-965 ( wg V.N.M.S.D. )
+      Culén                      	                        966-971 ( wg D.Ś. i Tapsella )
+                                                    	    965-970 ( wg V.N.M.S.D. )
+      Kenneth II               	                          971-995 ( wg D.Ś. i Tapsella )
+                                                     	    970-994 ( III wg V.N.M.S.D. )
+      Konstantyn III         	                            995-997 ( wg D.Ś. i Tapsella )
+                                                     	    994-995 ( IV wg V.N.M.S.D. )
+      Kenneth III          	                              997-1005 ( wg D.Ś. i Tapsella )
+      Grimus                 	                            995-1003 ( wg V.N.M.S.D. )
+      Malcolm II          	                              1005-1034 ( wg D.Ś. i Tapsella )
+                                                	        1003-1033 ( wg V.N.M.S.D. )
+                                                          przed 1031-? ( Malcolm I wg V.K.T.H.O.H.E. )
+    Dynastia z Dunkeld
+      Duncan I                           	                1034-1040 ( wg D.Ś. i Tapsella )
+                                                          1033-1039 ( wg V.N.M.S.D. )
+      					                                          ?-1040 ( wg E.P. ) ( Donnchad I (Duncan) wg V.K.T.H.O.H.E. )
+      Malcolm III                      	                  1058-1093 ( wg D.Ś. i Tapsella ) ( Malcolm III Canmore wg V.K.T.H.O.H.E. )
+                                                          1057-1093 ( wg V.N.M.S.D. )
+      					                                          ? ( wg E.P. i Ř.S.J.Ď.S. )
+      Donald III                         	                1093-1094 i 1094 -1097 ( wg D.Ś. i Tapsella )
+                                                          1093-ok.1095 ( wg V.N.M.S.D. )
+      Duncan II                          	                1094 ( wg D.Ś. i Tapsella )
+      Bán                                    	            ok.1095-1098 ( wg V.N.M.S.D. )
+      Edgar                                 	            1097-1107 ( wg D.Ś. i Tapsella )
+                                                          1098-1107 ( wg V.N.M.S.D. )
+      Aleksander I                      	                1107-1124 ( wg V.N.M.S.D. , Tapsella i D.Ś. )
+      					                                          1107-1124 ( ?-27.4. ) ( Alexandr I wg E.P. )
+      Dawid I Święty                  	                  1124-1153 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( David I wg Ř.S.J.Ď.S. )
+      					                                          1124-1153 ( ?-24.5. ) ( David I wg E.P. )
+                                                          ? ( David I wg V.K.T.H.O.H.E. )
+      Malcolm IV Dzieweczka	                              1153-1165
+      Wilhelm Lew                     	                  1165-1214
+      Aleksander II                     	                1214-1249 ( wg V.N.M.S.D. , Tapsella i D.Ś. )
+      				                                            1214-1249 ( ?-8.7. ) ( Alexandr II wg E.P. )
+      Aleksander III                    	                1249-1286 ( wg D.Ś. i Tapsella )
+                                                          1249-1285 ( wg V.N.M.S.D. )
+      					                                          1249-1286 ( ?-19.3. ) ( Alexandr III wg E.P. )
+    Dynastia z Moray
+      Macbeth               	                            1040-1057 ( wg D.Ś. i Tapsella ) ( macBethad mac Findlaich wg V.K.T.H.O.H.E. )
+                                                 	        1039-1057 ( wg V.N.M.S.D. )
+      				                                            1040-1057 ( ?-15.8. ) ( wg E.P. )
+      Lulach                  	                          1057-1058 ( wg D.Ś. i Tapsella )
+  Królestwo Szkocji
+    Dynastia norweska
+      Małgorzata           	                              1286-1290 ( wg D.Ś. i Tapsella )
+                                                 	        1285-1292 ( wg V.N.M.S.D. )
+    Dynastia Balliol
+      Jan                        	                        1292-1296 ( wg D.Ś. i Tapsella )
+      			 	                                            1290-1296 ( wg 100.N.V.S. )
+      Baliol                    	                        1292-1306 ( wg V.N.M.S.D. )
+      Edward                 	                            1332-1356 ( wg D.Ś. )
+      				                                            1332-1342 ( wg V.N.M.S.D. )
+      				                                            1332-1334 ( wg Tapsella )
+    Dynastia Bruce
+      Robert I           	                                1306-1329
+      Dawid II          		                              1329-1371 ( wg D.Ś. )
+      				                                            1329-1332 i 1342-1371 ( wg V.N.M.S.D. )
+      				                                            1329-1332 i 1334-1371 ( wg Tapsella )
+      				                                            ?-1371 ( ?-22.2. ) ( David II wg E.P. )
+    Dynastia Stewart
+      Robert II           	                              1371-1390
+      Robert III          	                              1390-1406
+      Jakub I              	                              1406-1437 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+      				                                            1406-1437 ( ?-20.2. ) ( wg E.P. )
+      Jakub II             	                              1437-1460 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+      				                                            1437-1460 ( ?-3.8. ) ( wg E.P. )
+      Jakub III            	                              1460-1488
+      Jakub IV            	                              1488-1513
+      Jakub V              	                              1513-1542
+      Maria                  	                            1542-1567
+      Jakub VI             	                              1567-1625
+      Karel I			                                        1625-1649 ( ?-30.1. ) ( wg E.P. )
   Uwagi :
       Przed dynastią Alpina wg V.N.M.S.D.
     	Wszystko oprócz oznaczonego wg V.N.M.S.D. , D.Ś. i Tapsella
@@ -20305,6 +20353,7 @@ Królestwo Szkocji
     	100 nejvlivnějších vojevůdců světa
     	Encyklopedie panovníků
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Szoszoni
   Washakie                                              przed 1876 n.e.-?
@@ -21764,7 +21813,8 @@ Królestwo Ulaid ( Ulsteru )
   Demman                                          	    557-572
   Baetan                                              	572-581
   Aed Dub                                           	  581-588
-  Fiachnae Lurgan                              	        588-626
+  Fiachnae Lurgan                              	        588-626 ( wg Tapsella )
+                                                        przed 590-? ( Fiachna wg V.K.T.H.O.H.E. )
   Fiachnae mac Demman                    	              626-627
   Congal Claen                                    	    627-637
   Dunchad                                           	  637-644
@@ -21830,6 +21880,7 @@ Królestwo Ulaid ( Ulsteru )
   Ruaidri                                              	1172-1201
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Umma
   Usz                  	                                ok.2525-ok.2500
@@ -22144,6 +22195,7 @@ Volaterrae
 Votadini ( Guotadin, Gododdin )
   Padarn Pesrut (Paternus of The Red Cloak)             ?
   Morgant                                               przed 590-?
+  Yrfai                                                 ?-600
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -22449,11 +22501,14 @@ Królestwo Wessexu
                                          	              784-800 ( wg V.N.M.S.D. )
   Egbert              	                                802-839 ( wg D.Ś. i Tapsella i E.P. )
                                           	            800-837 ( wg V.N.M.S.D. )
+  Alfred The Great                                      871-899 ( wg V.K.T.H.O.H.E. )
+  Athelstan                                             924-939 ( wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
       Monarchs , Rulers , Dynasties of the World
       Encyklopedie panovníků
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Westfalii
   Dynastia Bonaparte
@@ -23040,7 +23095,8 @@ Yamassee
   Bibliografia :
       Czarne wampuny głoszą wojnę
 
-Królestwo Yorku
+Królestwo Yorku ( Kingdom of York )
+  Ivar Beinlaus                                         867-po 870/1 ( wg V.K.T.H.O.H.E. )
   Halfdan Ragnarson                  	                  875-883
   Guthred                                    	          883-894
   Siegfred                                   	          894-ok.899
@@ -23058,8 +23114,11 @@ Królestwo Yorku
   Edmund                                   	            944-946
   Edred                                       	        946-948
   Eryk Krwawy Topór               	                    948-949 i 952-954
+  Uwagi :
+      Wszystko oprócz oznaczonego wg Tapsella
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Zabid
   Ibrahim ibn Zuad		                                  ?
