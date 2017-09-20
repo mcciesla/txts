@@ -299,7 +299,7 @@ Patriarchat Akwilei
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
 
-Księstwo Akwitanii
+Księstwo Akwitanii ( Duchy of Aquitaine )
   Dynastia z Owernii
     Wilhelm I Pobożny          	                        898-918
   Dynastia z Razes
@@ -1177,6 +1177,11 @@ Państwo Ardawanów
   Bibliografia :
       Rýžoviště zlata a doly drahokamů
 
+County of Ardennes
+  Bovin                                                 ?
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Argentyna
   Perón                                                 przed 1948-1955
   Bibliografia :
@@ -1243,6 +1248,13 @@ Arkadia
   Aleos                                                 ?
   Bibliografia :
       Tvář helenistického světa
+Arles
+  County of Arles
+    Boso The Elder                                      ?-855 n.e.
+    Boso II                                             ? [ruler of Tuscany Boso II]
+    Theobald                                            ?
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Armenia
   Tigranes Erwanduni	                                  ok.550  p.n.e.
@@ -2089,9 +2101,26 @@ Austria
       Velikáni francouzské vědy
       O Krakowie Ci Ja!
 
+County of Autun
+  Richard The Justiciar                                 ? [Duke of Burgundy]
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+County of Auxerre
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+County of Auxonne
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Auzonowie
   Bibliografia :
       Dzieje Rzymu
+
+County of Avallon
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Avanti
   Bibliografia :
@@ -2607,6 +2636,10 @@ Banokowie
   Bibliografia :
       Indiański Napoleon Gór Skalistych
 
+County of Bar
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Hrabstwo Barcelony
   Dynastia z Urgel
     Vifredo I Kędzierzawy                    	          878-897
@@ -2651,6 +2684,8 @@ Republika Batawska
       Mocarstwa Świata
 
 Bawaria
+  Kingdom of Bawaria
+    Louis The German                                    ?-875 n.e. ( wg V.K.T.H.O.H.E. )
   Leopold         	                                    899-ok.940 ( wg V.N.M.S.D. )
   Ludolf            	                                  ? ( wg Z.S.A.V.E. )
   Księstwo Bawarii
@@ -2781,6 +2816,11 @@ Bawaria
       Velká nástěnná mapa světových dějin
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+County of Beaune
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Bebrykowie
   Amykos                                                ?
@@ -3325,7 +3365,7 @@ Brazylia
       Encyklopedie panovníků
       Fidel & Che - A Revolutionary Friendship
 
-Księstwo Bretanii
+Księstwo Bretanii ( Duchy of Brittany )
   Dom z Nantes
     Alan I Krzywobrody	                                937-952
     Drogo                          	                    952-958
@@ -3602,43 +3642,6 @@ Bułgarzy
       Zrod střední a východní Evropy
       Dzieje dawnych Turków
 
-Burgundia
-  Dynastia z Autun
-    Ryszard Sędzia        	                            898-921
-    Rudolf                       	                      921-936 ( wg D.Ś. )
-                                                     	  887-936 ( wg V.N.M.S.D. )
-    Hugo Czarny            	                            936-952
-    Gilbert z Chalon	                                  952-956
-  Dynastia Robertyngów
-    Otto                      	                        956-965
-    Henryk Wielki        	                              965-1002
-    Otto Wilhelm          	                            1002-1005
-  Dynastia Kapetyngów
-    Robert I                	                          1031-1076
-    Hugo I                  	                          1076-1079
-    Odo I Rudy          	                              1079-1102
-    Hugo II                 	                          1102-1143
-    Odo II                   	                          1143-1162
-    Hugo III                	                          1162-1192 ( wg D.Ś. )
-      				                                          ? ( Hugo Burgundský wg F.B.C.A.R. )
-    Odo III                  	                          1192-1218
-    Hugo IV                	                            1218-1272
-    Robert II                	                          1272-1306
-    Hugo V                  	                          1306-1315
-    Odo IV                   	                          1315-1349
-    Filip z Rouvres	                                    1349-1361
-  Dynastia walezyjska
-    Filip Śmiały            	                          1363-1404
-    Jan Nieustraszony   	                              1404-1419
-    Filip Dobry             	                          1419-1467
-    Karol Zuchwały      	                              1467-1477
-  Uwagi :
-      Wszystko oprócz oznaczonego i Dynastii walezyjskiej wg D.Ś.
-  Bibliografia :
-      Dynastie Świata
-      Velká nástěnná mapa světových dějin
-      Fridrich Barbarossa – císař a rytíř
-
 Hrabstwo Burgundii
   Bertold IV	                                          1152-po 1162
   Ota                   	                              1188-?
@@ -3646,6 +3649,15 @@ Hrabstwo Burgundii
       Fridrich Barbarossa – císař a rytíř
 
 Królestwo Burgundii
+  Dynastia Merowingów
+    Guntram ( Gontran, Guntramnus )                     561-592 ( wg V.K.T.H.O.H.E. )
+    Childebert II                                       592-595 ( wg V.K.T.H.O.H.E. )
+    Theuderic II                                        595-613 ( wg V.K.T.H.O.H.E. )
+    Sigebert                                            613 ( wg V.K.T.H.O.H.E. )
+    Clotaire II                                         613-629 ( wg V.K.T.H.O.H.E. )
+    Dagobert                                            629-639 ( wg V.K.T.H.O.H.E. )
+    Clovis II                                           639-655 ( wg V.K.T.H.O.H.E. )
+    Clotaire III                                        655-673 ( wg V.K.T.H.O.H.E. )
   Dynastia Welfów
     Rudolf I                     	                      888-912 ( wg D.Ś. )
                                                        	888-911 ( wg Tapsella )
@@ -3661,6 +3673,54 @@ Królestwo Burgundii
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Księstwo Burgundii ( Duchy of Burgundy )
+  Dynastia z Autun
+    Ryszard Sędzia        	                            898-921 ( wg D.Ś. )
+                                                        ?-921 ( Richard The Justiciar wg V.K.T.H.O.H.E. )
+    Rudolf                       	                      921-936 ( wg D.Ś. )
+                                                     	  887-936 ( wg V.N.M.S.D. )
+                                                        921-923 ( Rudolph (Raoul) wg V.K.T.H.O.H.E. )
+    Hugo Czarny            	                            936-952 ( wg D.Ś. )
+                                                        923-952 ( Hugh The Black wg V.K.T.H.O.H.E. )
+    Gilbert z Chalon	                                  952-956 ( wg D.Ś. ) ( Gisilbert wg V.K.T.H.O.H.E. )
+  Dynastia Robertyngów
+    Otto                      	                        956-965
+    Henryk Wielki        	                              965-1002
+    Otto Wilhelm          	                            1002-1005
+  Dynastia Kapetyngów
+    Robert I                	                          1031-1076 ( wg D.Ś. )
+                                                        ?-1076 ( Robert Le Vieoux wg V.K.T.H.O.H.E. )
+    Hugo I                  	                          1076-1079
+    Odo I Rudy          	                              1079-1102
+    Hugo II                 	                          1102-1143
+    Odo II                   	                          1143-1162
+    Hugo III                	                          1162-1192 ( wg D.Ś. )
+      				                                          ? ( Hugo Burgundský wg F.B.C.A.R. )
+    Odo III                  	                          1192-1218
+    Hugo IV                	                            1218-1272
+    Robert II                	                          1272-1306
+    Hugo V                  	                          1306-1315
+    Odo IV                   	                          1315-1349 ( wg D.Ś. )
+                                                        ?-1350 ( Odo wg V.K.T.H.O.H.E. )
+    Filip z Rouvres	                                    1349-1361 ( wg D.Ś. )
+                                                        1346/50-1361 ( Philippe de Rouvres wg V.K.T.H.O.H.E. )
+  Dynastia walezyjska
+    Filip Śmiały            	                          1363-1404 ( wg D.Ś. )
+                                                        1361-1404 ( Philippe Le Hardi (Philippe de Valois, Philip The Bold) wg V.K.T.H.O.H.E. )
+    Jan Nieustraszony   	                              1404-1419 ( wg D.Ś. ) ( John The Fearless wg V.K.T.H.O.H.E. )
+    Filip Dobry             	                          1419-1467 ( wg D.Ś. )
+                                                        ? ( Philip The Good wg V.K.T.H.O.H.E. )
+    Karol Zuchwały      	                              1467-1477 ( wg D.Ś. ) ( Charles The Bold (Charles Le Téméraire, Karel de Stoute) wg V.K.T.H.O.H.E. )
+  Charles II                                            przed 1512-? ( wg V.K.T.H.O.H.E. ) [Emperor Charles V]
+  Uwagi :
+      Wszystko oprócz oznaczonego wg D.Ś.
+  Bibliografia :
+      Dynastie Świata
+      Velká nástěnná mapa světových dějin
+      Fridrich Barbarossa – císař a rytíř
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Burgundów
   Dynastia Gibichung
@@ -3669,19 +3729,24 @@ Królestwo Burgundów
       			 	                                          przed 435-437 ( wg H. )
       				                                          ?-436 ( Gundahar wg E.P. )
                                                         ok.450 ( Gundaharius wg S.M. )
+                                                        ok.405-? ( Gundahar wg V.K.T.H.O.H.E. )
     Gundowech          	                                436-474 ( wg D.Ś. )
                                                   	    436-473 ( Gunderyk wg Tapsella )
       		                	                            ?-473 ( Gundewig wg K.R.I.C.R. )
+                                                        437-474 ( Gundioc (Gunderic) wg V.K.T.H.O.H.E. )
     Chilperyk              	                            473-486 ( wg P.C.R. i Tapsella )
+                                                        474-480 ( Chilperic I wg V.K.T.H.O.H.E. )
     Godigisel              	                            474-501 ( wg D.Ś. )
                                                   	    473-500 ( wg Tapsella )
     Gundobad             	                              474–516 ( wg D.Ś. )
                                                   	    473-516 ( wg Tapsella )
       			 	                                          473-? ( wg K.R.I.C.R. )
-    Zygmunt Święty	                                    516-523 ( wg D.Ś. )
+                                                        480-516 ( wg V.K.T.H.O.H.E. )
+    Zygmunt Święty	                                    516-523 ( wg D.Ś. ) ( Sigismund wg V.K.T.H.O.H.E. )
                                                   	    516-524 ( wg Tapsella )
     Godomar               	                            523-534 ( wg D.Ś. )
                                                   	    524-532 ( wg Tapsella )
+                                                        523-532/4 ( Gundimar wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
       Poczet Cesarzy Rzymskich
@@ -3690,7 +3755,14 @@ Królestwo Burgundów
       Hunové
       Encyklopedie panovníků
       Severské mýty
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
+Kingdom of Burgundy ( Kingdom of Arles )
+  Rudolph II                                            933-937
+  Conrad Pacificus                                      937-993
+  Rudolf III                                            993-1032
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 Burjaci
 
 Burundum
@@ -3847,6 +3919,10 @@ Chalkis
   Bibliografia :
       Zrození Řecka
 
+County of Chalon
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Chamat
   Irchuleni		                                          ok.853 p.n.e.
   Zakir          	                                      ok.805
@@ -3861,6 +3937,10 @@ Chania
 Chaonowie
   Bibliografia :
       Sedm Kleopater
+
+County of Charolais
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Chattina ( Unku )
   Bibliografia :
@@ -7334,60 +7414,62 @@ Finlandia
   Bibliografia :
       Bílý orel, rudá hvězda
 
-Hrabstwo Flandrii
-  1.dynastia flandryjska
-    Baldwin I Żelazne Ramię	                            864-879 ( wg D.Ś. )
+Flandria
+  Hrabstwo Flandrii
+    1.dynastia flandryjska
+      Baldwin I Żelazne Ramię	                          864-879 ( wg D.Ś. )
                                                         862-879 ( wg Tapsella )
-    Baldwin II Łysy                  	                  879-918
-    Arnulf I Wielki                   	                918-965 ( wg D.Ś. )
+      Baldwin II Łysy                  	                879-918
+      Arnulf I Wielki                   	              918-965 ( wg D.Ś. )
                                                         918-964 ( wg Tapsella )
-    Baldwin III                         	              958-962
-    Arnulf II Młodszy               	                  965-988  ( wg D.Ś. )
+      Baldwin III                         	            958-962
+      Arnulf II Młodszy               	                965-988  ( wg D.Ś. )
                                                         964-988 ( wg Tapsella )
-    Baldwin IV Brodaty           	                      988-1035
-    Baldwin V z Lille               	                  1035-1067
-    Baldwin VI z Mons           	                      1067-1070
-    Arnulf III Nieszczęśliwy    	                      1070-1071
-    Robert I Fryzyjczyk            	                    1071-1093
-    Robert II Jerozolimski        	                    1093-1111 ( wg D.Ś. i Tapsella )
+      Baldwin IV Brodaty           	                    988-1035
+      Baldwin V z Lille               	                1035-1067
+      Baldwin VI z Mons           	                    1067-1070
+      Arnulf III Nieszczęśliwy    	                    1070-1071
+      Robert I Fryzyjczyk            	                  1071-1093
+      Robert II Jerozolimski        	                  1093-1111 ( wg D.Ś. i Tapsella )
                                                         ok.1096 ( wg K.V. )
-    Baldwin VII Hapkin           	                      1111-1119
-  Dynastia duńska
-    Karol Dobry          	                              1119-1127 (wg D.Ś. )
-                                                   	    1119-1128 ( wg Tapsella )
-  Dynastia normandzka
-    Wilhelm Clito             	                        1127-1128  ( wg D.Ś. )
-  Dynastia lotaryńska
-    Thierry z Alzacji        	                          1128-1168 ( wg D.Ś. I Tapsella )
+      Baldwin VII Hapkin           	                    1111-1119
+    Dynastia duńska
+      Karol Dobry          	                            1119-1127 (wg D.Ś. )
+                                                     	  1119-1128 ( wg Tapsella )
+    Dynastia normandzka
+      Wilhelm Clito             	                      1127-1128  ( wg D.Ś. )
+    Dynastia lotaryńska
+      Thierry z Alzacji        	                        1128-1168 ( wg D.Ś. I Tapsella )
                                                         przed 1152-? ( Dietrich wg F.B.C.A.R. )
-    Filip                            	                  1168-1191 ( wg D.Ś. i Tapsella )
-      			       	                                    przed 1180-po 1185 ( wg F.B.C.A.R. )
-  Dynastia z Hainaut
-    Baldwin VIII                	                      1191-1194 ( wg D.Ś. )
-                                                       	1191-1195 ( wg Tapsella )
-    Baldwin IX                   	                      1194 -1205 ( wg D.Ś. )
-                                                       	1195-1205 ( wg Tapsella )
-    Joanna                       	                      1205-1244
-    Ferdynand                  	                        1212-1233 ( wg Tapsella )
-    Tomasz Sabaudzki     	                              1237-1244 ( wg Tapsella )
-    Małgorzata I                	                      1244-1278 ( wg D.Ś. )
-                                                       	1244-1280 ( wg Tapsella )
-  Dynastia z Dampierre
-    Wilhelm z Dampierre	                                1246-1251 ( wg Tapsella )
-    Gwido                          	                    1278-1305 ( wg D.Ś. )
-                                                      	1278-1304 ( wg Tapsella )
-    Robert III z Béthune  	                            1305-1322
-    Ludwik I z Nevers       	                          1322-1346
-    Ludwik II z Male          	                        1346-1384
-    Małgorzata II               	                      1384-1405
-    Jan Nieustraszony      	                            1405-1419 ( wg Tapsella )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg Tapsella i D.Ś.
-  Bibliografia :
-      Dynastie Świata
-      Monarchs , Rulers , Dynasties and Kingdoms of the World
-      Křížové výpravy
-      Fridrich Barbarossa – císař a rytíř
+      Filip                            	                1168-1191 ( wg D.Ś. i Tapsella )
+        			       	                                  przed 1180-po 1185 ( wg F.B.C.A.R. )
+    Dynastia z Hainaut
+      Baldwin VIII                	                    1191-1194 ( wg D.Ś. )
+                                                        1191-1195 ( wg Tapsella )
+      Baldwin IX                   	                    1194-1205 ( wg D.Ś. )
+                                                        1195-1205 ( wg Tapsella )
+      Joanna                       	                    1205-1244
+      Ferdynand                  	                      1212-1233 ( wg Tapsella )
+      Tomasz Sabaudzki     	                            1237-1244 ( wg Tapsella )
+      Małgorzata I                	                    1244-1278 ( wg D.Ś. )
+                                                        1244-1280 ( wg Tapsella )
+    Dynastia z Dampierre
+      Wilhelm z Dampierre	                              1246-1251 ( wg Tapsella )
+      Gwido                          	                  1278-1305 ( wg D.Ś. )
+                                                        1278-1304 ( wg Tapsella )
+      Robert III z Béthune  	                          1305-1322
+      Ludwik I z Nevers       	                        1322-1346
+      Ludwik II z Male          	                      1346-1384
+      Małgorzata II               	                    1384-1405
+      Jan Nieustraszony      	                          1405-1419 ( wg Tapsella )
+    Duchy of Flanders
+    Uwagi :
+        Wszystko oprócz oznaczonego wg Tapsella i D.Ś.
+    Bibliografia :
+        Dynastie Świata
+        Monarchs , Rulers , Dynasties and Kingdoms of the World
+        Křížové výpravy
+        Fridrich Barbarossa – císař a rytíř
 
 Flius
   Bibliografia :
@@ -7424,66 +7506,72 @@ Foxowie ( Fox )
       Czarne wampuny głoszą wojnę
 
 Francja
-  Królestwo Francji
+  Królestwo Zachodniofrankońskie ( West Francia )
     Dynastia Karolingów
       Pepin Krótki                                      751-768 ( wg D.Ś. i Tapsella )
                                                         741-768 ( wg R.Z.A.D.D. )
-                                                       	746-768 ( wg V.N.M.S.D. )
+                                                        746-768 ( wg V.N.M.S.D. )
                                                         754 -768 ( wg 100.N.V.S. )
-				        	                                      751-po 756 ( Pipin Krátký wg D.B. )
-					                                              ? ( Pipin II wg Z.S.A.V.E. )
+                                                        751-po 756 ( Pipin Krátký wg D.B. )
+                                                        ? ( Pipin II wg Z.S.A.V.E. )
       Karloman                      	                  768-771 ( wg V.N.M.S.D. , D.Ś. i Tapsella i 100.N.V.S. i R.Z.A.D.D. )
       Karol I Wielki                 	                  768-814 ( wg V.N.M.S.D. , D.Ś. i Tapsella i R.Z.A.D.D. ) ( Karel Veliký wg D.P.I.R.G. i Ř.S.J.Ď.S. )
-			        		                                      768-814 ( ?-28.1. ) ( wg 100.N.V.S. )
-			         		                                      przed 800-? ( wg D.R. )
-			         		                                      przed 778-814 ( Karel Veliký wg M.A.E. )
-			        		                                      ok.800 ( Karol Wielki wg W.C.M.A.I.I. )
-			        		                                      przed 774 -814 ( Karel Veliký wg D.B. )
-					                                              ? ( Karel Veliký wg M.P.M. ) ( Karol Wielki wg O.A.O.C.E. i P.J.D. )
-					                                              768-? ( Karol Wielki wg D.D.T. )
+                                                        768-814 ( ?-28.1. ) ( wg 100.N.V.S. )
+                                                        przed 800-? ( wg D.R. )
+                                                        przed 778-814 ( Karel Veliký wg M.A.E. )
+                                                        ok.800 ( Karol Wielki wg W.C.M.A.I.I. )
+                                                        przed 774 -814 ( Karel Veliký wg D.B. )
+                                                        ? ( Karel Veliký wg M.P.M. ) ( Karol Wielki wg O.A.O.C.E. i P.J.D. )
+                                                        768-? ( Karol Wielki wg D.D.T. )
       Karol                                  	          781-811 ( wg Tapsella )
       Pepin                                 	          781-810 ( wg Tapsella )
       Ludwik I Pobożny             	                    814-840 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík Pobožný wg D.B. )
                                                         781-840 ( wg Tapsella )
       Bernard                             	            813-817 ( wg Tapsella )
-      Karol II Łysy                         	          840-877 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-                                             	          843-877 ( wg R.Z.A.D.D. )
-					                                              przed 870-? ( Karel II Holý wg E.P. )
+      Karol II Łysy                         	          840-877 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Charles II The Bald wg V.K.T.H.O.H.E. )
+                                                        843-877 ( wg R.Z.A.D.D. )
+                                                        przed 870-? ( Karel II Holý wg E.P. )
                                                         ? ( Karel Holý wg Ř.S.J.Ď.S. )
       Lotar I                                           817-855 ( wg Tapsella )
       Pepin I                                	          817-838 ( wg Tapsella )
       Pepin II                              	          838-848 ( wg Tapsella )
       Lotar II                               	          855-869 ( wg Tapsella )
-					                                              przed 867-869 ( ?-8.8. ) ( Lothar II wg E.P. )
+                                                        przed 867-869 ( ?-8.8. ) ( Lothar II wg E.P. )
       Karol                                  	          855-863 ( wg Tapsella )
       Karloman                           	              876-880 ( wg Tapsella )
       Ludwik                              	            876-882 ( wg Tapsella )
-      Ludwik II Jąkała               	                  877-879 ( wg V.N.M.S.D. , R.Z.A.D.D. i D.Ś. )
-					                                              ? ( Ludvík II wg Z.S.A.V.E. )
-      Ludwik III                         	              879-882 ( wg D.Ś. , R.Z.A.D.D. i Tapsella )
+      Ludwik II Jąkała               	                  877-879 ( wg V.N.M.S.D. , R.Z.A.D.D. i D.Ś. ) ( Louis II The Stammerer wg V.K.T.H.O.H.E. )
+                                                        ? ( Ludvík II wg Z.S.A.V.E. )
+      Ludwik III                         	              879-882 ( wg D.Ś. , R.Z.A.D.D. i Tapsella ) ( Louis III wg V.K.T.H.O.H.E. )
                                                         879-884 ( wg V.N.M.S.D. )
       Karloman                         	                879-884 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        882-884 ( Carloman II wg V.K.T.H.O.H.E. )
       Karol Gruby                   	                  885-888 ( wg V.N.M.S.D. i D.Ś. )
-					                                              884-887 ( III wg R.Z.A.D.D. i Tapsella )
-					                                              ?-888 ( Karel III Tlustý wg E.P. )
+                                                        884-887 ( III wg R.Z.A.D.D. i Tapsella )
+                                                        ?-888 ( Karel III Tlustý wg E.P. )
+                                                        884-888 ( Charles The Fat wg V.K.T.H.O.H.E. )
       Boso z Wienne                 	                  879-887 ( wg Tapsella )
-      Karol III Prostak                 	              893-923 ( wg D.Ś. )
-                                                        893-922 ( wg V.N.M.S.D. )
-					                                              898-923 ( IV wg R.Z.A.D.D. )
-					                                              898-922 ( wg Tapsella )
-      					                                        ? ( Karel III wg Z.S.A.V.E. ) ( Karel III Simplex wg E.P. )
-                                                        przed 911-? ( Karel III Prosťáček wg Ř.S.J.Ď.S. )
-      Zwentibold                           	            895-900 ( wg Tapsella )
-      Ludwik IV Zamorski		                            936-954 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
-			         	                                        przed 942-po 950 ( Ludvík IV wg Z.S.A.V.E. )
-      Lotar                                  	          954 -986
-      Ludwik V Próżniak     	                          986-987
     Dynastia Robertyngów
       Odo                         	                    888-898 ( wg D.Ś. , V.N.M.S.D. i R.Z.A.D.D. )
                                 		                    887-898 ( wg Tapsella )
-				                                                888-898 ( ?-1.1. ) ( Odo Pařížský ( Eudos ) wg E.P. )
+  			                                                888-898 ( ?-1.1. ) ( Odo Pařížský ( Eudos ) wg E.P. )
+    Dynastia Karolingów
+      Karol III Prostak                 	              893-923 ( wg D.Ś. )
+                                                        893-922 ( wg V.N.M.S.D. )
+                                                        898-923 ( IV wg R.Z.A.D.D. )
+                                                        898-922 ( wg Tapsella ) ( Charles III The Simple wg V.K.T.H.O.H.E. )
+                                                        ? ( Karel III wg Z.S.A.V.E. ) ( Karel III Simplex wg E.P. )
+                                                        przed 911-? ( Karel III Prosťáček wg Ř.S.J.Ď.S. )
+      Zwentibold                           	            895-900 ( wg Tapsella )
+    Dynastia Robertyngów
       Robert I                   	                      922-923 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-      Rudolf ( Raul )	                                  923-936
+      Rudolf ( Raul )	                                  923-936 ( wg V.N.M.S.D. , D.Ś. i R.Z.A.D.D. ) ( Rudolph wg V.K.T.H.O.H.E. )
+    Dynastia Karolingów
+      Ludwik IV Zamorski		                            936-954 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        przed 942-po 950 ( Ludvík IV wg Z.S.A.V.E. )
+      Lotar                                  	          954 -986
+      Ludwik V Próżniak     	                          986-987
+  Królestwo Francji
     Dynastia Kapetyngów
       Hugo Kapet           	                            987-996 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
 			 	                                                987-? ( wg D.P.I.R.G. )
@@ -7655,6 +7743,7 @@ Francja
       Říše slova - Jazykové dějiny světa
       Ród Indian Algonkinów
       Conquistadors of the Useless - From The Alps To Annapurna
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Wielkie Księstwo Frankfurtu
   Karol Teodor Dalberg                                  1810-1813
@@ -7914,6 +8003,10 @@ Gandhara
       Rýžoviště zlata a doly drahokamů
 
 Garma
+
+Duchy of Gascony
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Gat
   Achis                                                 ok.1020 p.n.e.
@@ -9472,32 +9565,56 @@ Itaka
       Huryci
 
 Italia
-  Berengar I z Friulu       	                          888-924 ( wg D.Ś. )
-      				                                          888-926 ( wg V.N.M.S.D. )
-      				                                          898-924 ( wg Tapsella )
-  Gwido ze Spoleto         	                            889-894 ( wg D.Ś. i Tapsella )
-      				                                          ? ( Wido ( Guido ) Spoletský wg E.P. )
-  Lambert                        	                      894-898 ( wg D.Ś. i Tapsella )
-      				                                          ? ( wg E.P. )
-  Ludwik Prowansalski	                                  900-905 ( wg D.Ś. )
-                                                	      900-902 ( wg Tapsella )
-  Rudolf Burgundzki        	                            922-926 ( wg D.Ś. i Tapsella )
-  Hugo z Arles                  	                      926-948 ( wg D.Ś. )
-      			                                            926-945 ( wg V.N.M.S.D. )
-      				                                          925-947 ( wg Tapsella )
-      	       			                                    ? ( Hugo Provensálský wg Z.S.A.V.E. ) ( Hugo z Provence wg F.B.C.A.R. )
-  Eberhard                     	                        ? ( wg Z.S.A.V.E. )
-  Lotar                            	                    948-950 ( wg D.Ś. )
-      			                                            945-950 ( II wg V.N.M.S.D. )
-      				                                          947-950 ( wg Tapsella )
-      	      			                                    ? ( Lothar wg Z.S.A.V.E. )
-  Berengar II z Iwrei       	                          950-963 ( wg D.Ś. )
-                                                     	  950-961 ( wg V.N.M.S.D. i Tapsella )
-      			          	                                przed 950-? i 952-? ( Berengar z Ivrey wg Z.S.A.V.E. )
-  Adalbert z Iwrei           	                          950-963 ( wg D.Ś. )
-                                               	        950-961 ( wg Tapsella )
-  Arduin z Ivrey               	                        ? ( wg Z.S.A.V.E. )
-  Jindřich II                   	                      ? ( wg Z.S.A.V.E. )
+  Kingdom of Italy
+    Charles The Fat                                     879-888 ( wg V.K.T.H.O.H.E. ) [King of East Francia]
+    Berengar I z Friulu       	                        888-924 ( wg D.Ś. )
+        				                                        888-926 ( wg V.N.M.S.D. )
+        				                                        898-924 ( wg Tapsella )
+    Gwido ze Spoleto         	                          889-894 ( wg D.Ś. i Tapsella )
+        				                                        ? ( Wido ( Guido ) Spoletský wg E.P. )
+    Lambert                        	                    894-898 ( wg D.Ś. i Tapsella )
+        				                                        ? ( wg E.P. )
+    Ludwik Prowansalski	                                900-905 ( wg D.Ś. )
+                                                  	    900-902 ( wg Tapsella )
+                                                        900-? ( Louis The Blind wg V.K.T.H.O.H.E. )
+    Rudolf Burgundzki        	                          922-926 ( wg D.Ś. i Tapsella )
+    Hugo z Arles                  	                    926-948 ( wg D.Ś. )
+        			                                          926-945 ( wg V.N.M.S.D. )
+        				                                        925-947 ( wg Tapsella )
+        	       			                                  ? ( Hugo Provensálský wg Z.S.A.V.E. ) ( Hugo z Provence wg F.B.C.A.R. )
+                                                        928-933 ( Hugh of Arles wg V.K.T.H.O.H.E. )
+    Eberhard                     	                      ? ( wg Z.S.A.V.E. )
+    Lotar                            	                  948-950 ( wg D.Ś. )
+        			                                          945-950 ( II wg V.N.M.S.D. )
+        				                                        947-950 ( wg Tapsella )
+        	      			                                  ? ( Lothar wg Z.S.A.V.E. )
+    Berengar II z Iwrei       	                        950-963 ( wg D.Ś. )
+                                                       	950-961 ( wg V.N.M.S.D. i Tapsella )
+        			          	                              przed 950-? i 952-? ( Berengar z Ivrey wg Z.S.A.V.E. )
+    Adalbert z Iwrei           	                        950-963 ( wg D.Ś. )
+                                                 	      950-961 ( wg Tapsella )
+    Arduin z Ivrey               	                      ? ( wg Z.S.A.V.E. )
+    Jindřich II                   	                    ? ( wg Z.S.A.V.E. )
+    Frederick Barbarossa                                1154-1190 ( wg V.K.T.H.O.H.E. ) [Emperor Frederick Barbarossa]
+  Italian Republic ( Cisalpine Republic )
+    Napoleon Bonaparte                                  1802-? ( wg V.K.T.H.O.H.E. ) [Emperor of France]
+  Kingdom of Italy ( Regno Italico )
+    Napoleon Bonaparte                                  1806-1814 (?-11.4.) ( wg V.K.T.H.O.H.E. ) [Emperor of France]
+  Królestwo Włoch
+    Wiktor Emanuel II           	                      1861-1878 ( wg V.N.M.S.D. i D.Ś. )
+      			             	                              1861-? ( 18.2.-? ) ( wg 100.N.V.S. )
+                                                        1861-1878 (17.3.-?) ( Vittorio Emanuele II wg V.K.T.H.O.H.E. )
+    Humbert I                         	                1878-1900 ( wg D.Ś. i V.N.M.S.D. ) ( Umberto I Il Buono wg V.K.T.H.O.H.E. )
+    Wiktor Emanuel III		                              1900-1946 ( wg D.Ś. i V.N.M.S.D. ) ( Vittorio Emanuele III wg V.K.T.H.O.H.E. )
+      				       	                                  ? ( wg M.Ś. )
+    Humbert II                        	                1946 ( wg D.Ś. )
+                                                        1946 (?.5.-12.6.) ( Umberto II wg V.K.T.H.O.H.E. )
+  Mussolini                                             ? ( wg F.C.A.R.F. i V.K.T.H.O.H.E. )
+  Italian Republic ( Republica Italiana )
+    Alcide de Gasperi                                   1946-? ( wg V.K.T.H.O.H.E. )
+    Giorgio Napolitano                                  przed 2006-po 2010 ( wg V.K.T.H.O.H.E. )
+    prime ministers
+      Silvio Berlusconi                                 przed 2008-? ( wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -9505,6 +9622,10 @@ Italia
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
       Encyklopedie panovníků
+      100 nejvlivnějších vojevůdců světa
+      Mocarstwa Świata
+      Fidel & Che - A Revolutionary Friendship
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Państwo Ito
   Bibliografia :
@@ -12323,6 +12444,10 @@ Lampsakos
   Bibliografia :
       Dzieje Grecji
 
+County of Langres
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Laos
   Šrídévaníka                                           ? ( wg Ř.S.J.Ď.S. )
   Królestwo Laosu
@@ -12393,6 +12518,10 @@ Larsa
 Las
   Bibliografia :
       Dzieje Grecji
+
+County of Lassois
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Latium
   Janus         	                                      1345-1276
@@ -12697,6 +12826,12 @@ Lokryda Ozolska
   Bibliografia :
       Dzieje Grecji
 
+Lombardia
+  Kingdom of The Lombards
+    Rudolf II                                           923-?
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Królestwo Longobardów
   Alboin                   	                            569-572 ( wg D.Ś. )
                                               	        568-573 ( wg V.N.M.S.D. )
@@ -12754,6 +12889,8 @@ Lotaryngia
   Karel II Holý		                                      ? ( wg E.P. )
   Konrád Rudý            	                              ? ( wg Z.S.A.V.E. )
   Gotfried z Calwu      	                              ? ( wg F.B.C.A.R. )
+  Kingdom of Lotharingia
+    Rudolf II                                           923-? ( wg V.K.T.H.O.H.E. )
   Księstwo Lotaryngii
     Dynastia mozelska
       Fryderyk I          	                            959-978
@@ -12803,6 +12940,7 @@ Lotaryngia
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
       Encyklopedie panovníků
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Lothian ( Lleddiniawn )
   Bibliografia :
@@ -12939,10 +13077,19 @@ Księstwo Lüneburga
   Bibliografia :
       Dynastie Świata
 
+Lübeck
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Lynkos
   Arrabajos                                             ok.424 p.n.e.
   Bibliografia :
       Dzieje Grecji
+
+County of Lyon
+  Boso                                                  ? [King of Lower Burgundy]
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Cesarstwo Łacińskie
   Dynastia flandryjska
@@ -13355,6 +13502,10 @@ Mallia
   Bibliografia :
       Starożytne Cywilizacje
 
+Malta
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Mała Armenia
   Zariadres                   	                        ok.190 p.n.e.
   Kotys                        	                        38 n.e.-? ( wg D.R. )
@@ -13739,6 +13890,10 @@ Mazowsze
   Maslav                                                ?
   Bibliografia :
       Zrod střední a východní Evropy
+
+County of Mâcon
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Mbau
   Banuve           	                                    ?
@@ -14414,6 +14569,10 @@ Mongołowie
       S vámi jsem život žil …
       Říše slova - Jazykové dějiny světa
 
+County of Montbéliard
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Księstwo Montferratu
   Vilém z Montferratu	                                  ?
   Konrád                         	                      ?
@@ -14905,6 +15064,10 @@ Neszasz
 
 Neurowie
 
+County of Nevers
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Nez Percé ( Czute-Pa-Lu )
   Tuekakas ( Józef Starszy )               			       	przed 1855-1871 ( wg W.I.A.P. ) ( Wódz Józef wg I.N.G.S. )
   Adwokat                            			           		przed 1855-po 1873 ( wg W.I.A.P. )
@@ -15049,7 +15212,7 @@ Księstwo Nitry
 
 Orda Nogajska
 
-Księstwo Normandii ( Normandy )
+Księstwo Normandii ( Duchy of Normandy )
   1.dynastia normandzka
     Rollo ( Robert )                                	  911-925 ( wg D.Ś. )
                                                         911-927 ( wg V.N.M.S.D. )
@@ -17002,6 +17165,13 @@ Priene
   Bibliografia :
       Zrození Řecka
 
+Kingdom of Provence ( Kingdom of Lower Burgundy )
+  Boso                                                  879-887
+  Louis The Blind                                       887-928
+  Hugh of Arles                                         928-933 [King of Italy]
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Hrabstwo Prowansji
   Dynastia barcelońska
     Rajmund Berengar I            	                    1112-1131
@@ -17225,6 +17395,7 @@ Rosja
       					    	                                  przed 1695-po 1714 ( wg B.M. )
                                                         przed 1721-? ( Petr I ( Pjotr I ) wg Ř.S.J.Ď.S. )
       					    	                                  1672-1725 ( wg M.Ś. )
+                                                        przed 1716-? ( Peter The Great wg V.K.T.H.O.H.E. )
       Katarzyna I ( Marta Skawrońska )	                1725-1727 ( wg V.N.M.S.D. i D.Ś. )
       					    	                                  ?-1727 ( wg 100.N.U.W. )
       Piotr II Aleksiejewicz                            1727-1730
@@ -17279,6 +17450,7 @@ Rosja
       Arménie – tři tisíce let dějin a kultůry
       Bílý orel, rudá hvězda
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Księstwo Rostowskie
   Dynastia Rurykowiczów
@@ -19164,6 +19336,10 @@ Senegal
   Bibliografia :
       Říše slova - Jazykové dějiny světa
 
+County of Senlis
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Senonowie
   Brennus 		                                          przed 387 p.n.e.-? ( wg Z.V.C. i Ř.V.G. )
                                                         przed 390 p.n.e.-? ( wg Ř.S.J.Ď.S. )
@@ -19175,6 +19351,10 @@ Senonowie
 Państwo Senów
   Bibliografia :
       Starověká Indie
+
+County of Sens
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Serbia
   Księstwo Serbii
@@ -20143,34 +20323,35 @@ Państwo Szalankajanów
   Bibliografia :
       Starověká Indie
 
-Hrabstwo Szampanii
-  Dynastia z Vermandois
-    Robert                   	                          950-975
-    Herbert Młodszy	                                    975-995
-    Stefan I                	                          995-1021
-  Dynastia z Blois
-    Odo I                              	                1021-1037
-    Stefan II                         	                1037-1048
-    Odo II                             	                1048-1066
-    Tybald I                          	                1066-1089
-    Odo III                            	                1089-1093
-    Hugo                               	                1093-1125
-    Tybald II Wielki              	                    1125-1152
-    Henryk I Szczodry          	                        1152-1181 ( wg D.Ś. )
-      					                                        przed 1162-? ( Jindřich z Troyes wg F.B.C.A.R. )
-    Henryk II Młodszy         	                        1181-1197
-    Tybald III                        	                1197-1201
-    Tybald IV Pogrobowiec	                              1201-1253
-    Tybald V                          	                1253-1270
-    Henryk III Gruby             	                      1270-1274
-    Joanna                              	              1274-1305
-  Dynastia francuska
-    Ludwik              	                              1305-1316
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
-  Bibliografia :
-      Dynastie Świata
-      Fridrich Barbarossa – císař a rytíř
+Szampania
+  Hrabstwo Szampanii
+    Dynastia z Vermandois
+      Robert                   	                        950-975
+      Herbert Młodszy	                                  975-995
+      Stefan I                	                        995-1021
+    Dynastia z Blois
+      Odo I                              	              1021-1037
+      Stefan II                         	              1037-1048
+      Odo II                             	              1048-1066
+      Tybald I                          	              1066-1089
+      Odo III                            	              1089-1093
+      Hugo                               	              1093-1125
+      Tybald II Wielki              	                  1125-1152
+      Henryk I Szczodry          	                      1152-1181 ( wg D.Ś. )
+        					                                      przed 1162-? ( Jindřich z Troyes wg F.B.C.A.R. )
+      Henryk II Młodszy         	                      1181-1197
+      Tybald III                        	              1197-1201
+      Tybald IV Pogrobowiec	                            1201-1253
+      Tybald V                          	              1253-1270
+      Henryk III Gruby             	                    1270-1274
+      Joanna                              	            1274-1305
+    Dynastia francuska
+      Ludwik              	                            1305-1316
+    Uwagi :
+        Wszystko oprócz oznaczonego wg D.Ś.
+    Bibliografia :
+        Dynastie Świata
+        Fridrich Barbarossa – císař a rytíř
 
 Królestwo Szang-szung ( Żang-żung )
   Lig-mi-rh(g)ja                                        ?
@@ -20573,6 +20754,11 @@ Cesarstwo Środkowoafrykańskie
   Bokassa I ( Jean-Bédel Bokassa )                      1976-1979
   Bibliografia :
       Dynastie Świata
+
+Królestwo Środkowofrankońskie ( Middle Francia )
+  Lothar I                                              843-858 [Emperor Lothar I]
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Państwo Śungów
   Dynastia Śunga
@@ -21218,6 +21404,10 @@ Toltekowie
   Bibliografia :
       Mity pięciu części świata
 
+County of Tonerre
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Królestwo Tonga
   Dynastia Tupou
     Jerzy Tupou I               	                      1845-1893
@@ -21240,14 +21430,15 @@ Tortona
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
 
-Toskania
+Toskania ( Tuscany )
+  Boso II                                               ? ( wg V.K.T.H.O.H.E. )
   Hrabstwo Toskanii
     Gottfried Lotrinský    	                            ? ( wg F.B.C.A.R. )
     Matylda                     	                      przed 1089n.e.-? ( wg F.B.C.A.R. )
     Jindřich Pyšný          	                          1136-1139 ( wg F.B.C.A.R. )
     Welf VI                     	                      ? ( wg F.B.C.A.R. )
     Filip			                                          ? ( wg F.B.C.A.R. )
-  Wielkie Księstwo Toskanii
+  Wielkie Księstwo Toskanii ( Grand Duchy of Tuscany )
     Cosimo I                   	                        1537-1574
     Francesco I               	                        1574-1587
     Ferdinando I             	                          1587-1609
@@ -21256,20 +21447,25 @@ Toskania
     Ferdinando II            	                          1621-1670
     Cosimo III                	                        1670-1723
     Giovanni Gastone    	                              1723-1737
-    Dynastia habsbursko-lotaryńska
+    Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
       Franciszek II        	                            1737-1765
       Leopold I              	                          1765-1790
-      Ferdynand III        	                            1790-1799 i 1814-1824
-      Leopold II             	                          1824-1859
-      Ferdynand IV        	                            1859-1860
+      Ferdynand III        	                            1790-1799 i 1814-1824 ( wg D.Ś. )
+                                                        przed 1796-1801 i 1815-? (1.7.-? i ?) ( Ferdinando III wg V.K.T.H.O.H.E. )
     Dynastia Bonaparte
-      Maria Anna ( Eliza )	1809-1814
+      Maria Anna ( Eliza )	                            1809-1814 ( wg D.Ś. )
+                                                        1807-1814 (?-po 23.2.) ( Elisa Buonaparte-Bacciochi (Maria-Anna, Elisa) wg V.K.T.H.O.H.E. )
+    Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
+      Leopold II             	                          1824-1859 ( wg D.Ś. ) [Emperor Leopold II]
+                                                        ?-1859 ( wg V.K.T.H.O.H.E. )
+      Ferdynand IV        	                            1859-1860
   Uwagi :
       Wszystko od Wielkiego Księstwa Toskanii oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
       100 Najwybitniejszych Uczonych Wszechczasów
       Fridrich Barbarossa – císař a rytíř
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Tracja
   Diomedes		                                          ? ( wg M.P.C.Ś. )
@@ -21411,6 +21607,10 @@ Troja
 Trojzena
   Bibliografia :
       Dzieje Grecji
+
+County of Troyes
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Hrabstwo Trypolisu
   Dynastia tuluzańska
@@ -21911,6 +22111,12 @@ Upe
   Piriawaza                                             ?
   Bibliografia :
       Huryci
+
+Kingdom of Upper Burgundy
+  Rudolf of Auxerre                                     888-912
+  Rudolph II                                            912-933
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Ur
   1.dynastia z Ur
@@ -22970,22 +23176,6 @@ Wizygoci ( Terwingowie )
       Římané v Germánii
       Říše slova - Jazykové dějiny světa
       Vanished Kingdoms - The History of Half-Forgotten Europe
-
-Włochy
-  Królestwo Włoch
-    Wiktor Emanuel II           	                      1861-1878 ( wg V.N.M.S.D. i D.Ś. )
-      			             	                              1861-? ( 18.2.-? ) ( wg 100.N.V.S. )
-    Humbert I                         	                1878-1900 ( wg D.Ś. i V.N.M.S.D. )
-    Wiktor Emanuel III		                              1900-1946 ( wg D.Ś. i V.N.M.S.D. )
-      				       	                                  ? ( wg M.Ś. )
-    Humbert II                        	                1946 ( wg D.Ś. )
-  Mussolini                                             ? ( wg F.C.A.R.F. )
-  Bibliografia :
-      Dynastie Świata
-      Velká nástěnná mapa světových dějin
-      100 nejvlivnějších vojevůdců světa
-      Mocarstwa Świata
-      Fidel & Che - A Revolutionary Friendship
 
 Włodzimierz
   Księstwo Włodzimierskie
