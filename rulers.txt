@@ -7573,7 +7573,7 @@ Francja
       Ludwik V Próżniak     	                          986-987
   Królestwo Francji
     Dynastia Kapetyngów
-      Hugo Kapet           	                            987-996 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+      Hugo Kapet           	                            987-996 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Hugues Capet wg V.K.T.H.O.H.E. )
 			 	                                                987-? ( wg D.P.I.R.G. )
 				                                                ? ( wg Z.S.A.V.E. i V.F.V. )
       Robert II Pobożny  	                              996-1031 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
@@ -7600,25 +7600,27 @@ Francja
 				                                                1180-po 1187 ( wg F.B.C.A.R. )
                                                         przed 1204-? ( Filip II wg Ř.S.J.Ď.S. )
       Ludwik VIII Lew  	                                1223-1226
-      Ludwik IX Święty  	                              1226-1270 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Ludvík IX Svatý wg D.B. )
+      Ludwik IX Święty  	                              1226-1270 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Ludvík IX Svatý wg D.B. ) ( St. Louis wg V.K.T.H.O.H.E. )
 				                                                przed 1248-1270 ( wg K.V. )
 				                                                ? ( wg 100.N.V.S. )
-      Filip III Śmiały      	                          1270-1285
+      Filip III Śmiały      	                          1270-1285 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+                                                        ? ( Philippe III wg V.K.T.H.O.H.E. )
       Filip IV Piękny      	                            1285-1314 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Filip IV Sličný wg D.P.I.R.G. )
-      Ludwik X Kłótnik  	                              1314 -1316
+      Ludwik X Kłótnik  	                              1314-1316
       Jan I Pogrobowiec	                                1316 ( wg D.Ś. )
-      Filip V Długi           	                        1316-1322
-      Karol IV Piękny    	                              1322-1328
+      Filip V Długi           	                        1316-1322 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Philippe V Capet wg V.K.T.H.O.H.E. )
+      Karol IV Piękny    	                              1322-1328 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Charles IV Capet wg V.K.T.H.O.H.E. )
     Dynastia walezyjska
-      Filip VI                   	                      1328-1350
-      Jan II Dobry           	                          1350-1364
-      Karol V Mądry        	                            1364 -1380
-      Karol VI Szalony    	                            1380-1422 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+      Filip VI                   	                      1328-1350 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Philippe VI Valois wg V.K.T.H.O.H.E. )
+      Jan II Dobry           	                          1350-1364 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Jean II Le Bon wg V.K.T.H.O.H.E. )
+      Karol V Mądry        	                            1364-1380 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Charles V Le Sage wg V.K.T.H.O.H.E. )
+      Karol VI Szalony    	                            1380-1422 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Charles VI Le Fol wg V.K.T.H.O.H.E. )
 			     	                                            ? ( Karel VI wg D.B. )
       Karol VII Zwycięski	                              1422-1461 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
 				                                                1429-po 1456 ( 17.7.-? ) ( wg 100.N.V.S. )
       Ludwik XI               	                        1461-1483 ( wg V.N.M.S.D. , D.Ś. i Tapsella i D.P.I.R.G. )
 				                                                ? ( Ludvík XI wg V.F.V. )
+                                                        przed 1477-? ( Louis XI wg V.K.T.H.O.H.E. )
       Karol VIII                	                      1483-1498 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
 			   	                                              ok.1495 ( wg 100.N.V.S. ) ( Karel VIII wg E.P. )
     Linia orleańska
@@ -7641,13 +7643,13 @@ Francja
 				                                                ? ( wg V.F.V. )
       Henryk III              	                        1574 -1589 ( wg V.N.M .S.D. i D.Ś. i Tapsella )
 				                                                przed 1574-? ( Jindřich III wg V.F.V. )
-    Dynastia burbońska
-      Henryk IV          	                              1589-1610 ( wg V.N.M.S.D. , D.Ś. i Tapsella i M.Ś. )
+    Dynastia burbońska ( The Bourbons )
+      Henryk IV          	                              1589-1610 ( wg V.N.M.S.D. , D.Ś. i Tapsella i M.Ś. ) ( Henri IV wg V.K.T.H.O.H.E. )
 				                                                ? ( Henrich IV wg O.A. )
 				                                                przed 1593-po 1603 ( Jindřich IV wg V.F.V. )
-      Ludwik XIII           	                          1610-1643 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Ludvík XIII wg Ř.S.J.Ď.S. )
+      Ludwik XIII           	                          1610-1643 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Ludvík XIII wg Ř.S.J.Ď.S. ) ( Louis XIII wg V.K.T.H.O.H.E. )
 				                                                ? ( Ludvík XIII wg V.F.V. )
-      Ludwik XIV          	                            1643-1715 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Ludvík XIV wg Ř.S.J.Ď.S. )
+      Ludwik XIV          	                            1643-1715 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Ludvík XIV wg Ř.S.J.Ď.S. ) ( Louis XIV  wg V.K.T.H.O.H.E. )
 			     	                                            ok.1652 ( wg 100.N.V.S. )
 			     	                                            przed 1682-? ( Ľudovít XIV wg O.A. )
 			   	                                              ? ( wg 100.N.U.W. i P.J.D.) ( Louis XIV wg C.O.T.U.F.T.A.T.A. )
@@ -7655,25 +7657,21 @@ Francja
 			     	                                            1661-1715 ( marzec-? ) ( wg M.Ś. )
 				                                                przed 1670-? ( Ludvík XIV wg V.F.V. )
                                                         przed 1697-? ( wg R.I.A. )
-      Ludwik XV         	                              1715-1774  ( wg V.N.M.S.D. i D.Ś. i Tapsella )
+      Ludwik XV         	                              1715-1774  ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Louis XV wg V.K.T.H.O.H.E. )
 			     	                                            ok.1738 ( wg 100.N.V.S. )
 				                                                ? ( wg 100.N.U.W. i M.Ś. ) ( Ludvík XV wg V.F.V. )
-      Ludwik XVI        	                              1774 -1792 ( wg D.Ś. i Tapsella )
+      Ludwik XVI        	                              1774-1792 ( wg D.Ś. i Tapsella )
                                              	          1774-1789 ( wg V.N.M.S.D. )
 				                                                przed 1781-? ( wg 100.N.U.W. )
 				                                                ? ( wg M.Ś. ) ( Ludvík XVI wg V.F.V. )
+                                                        1774-1793 ( Louis XVI wg V.K.T.H.O.H.E. )
       Ludwik XVII           	                          1793-1795 ( wg D.Ś. i V.N.M.S.D. )
-      Ludwik XVIII		                                  1814 -1824 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
-			  	                                              ok.1815 ( wg 100.N.V.S. )
-				                                                ? ( wg 100.N.U.W. i M.Ś. ) ( Ludvík XVIII wg V.F.V. )
-      Karol X               	                          1823-1830 ( wg D.Ś. )
-                                             	          1824 -1830 ( wg V.N.M.S.D. i Tapsella )
-			                                                  ? ( Karel X wg V.F.V. )
   1.Republika
     Konsulat
-      Napoleon Bonaparte	                              1799-1804 ( wg D.Ś. i V.N.M.S.D. i 100.N.V.S. )
+      Napoleon Bonaparte ( Nabuleone Buonaparte )       1799-1804 ( wg D.Ś. i V.N.M.S.D. i 100.N.V.S. )
                                          	              przed 1799-?   ( wg 100.N.U.W. )
 				                                                przed 1800-? ( wg V.F.V. )
+                                                        przed 1800-1805 ( Napoleon (Buonaparti, Napoléon) wg V.K.T.H.O.H.E. )
   Pierwsze Cesarstwo
     Dynastia Bonaparte
       Napoleon I		                                    1804-1814 i 1815 ( wg D.Ś. i V.N.M.S.D. )
@@ -7686,22 +7684,32 @@ Francja
 			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. )
 				                                                przed 1812-? ( Napoleon Bonaparte wg B.O.R.H. )
 				                                                przed 1815-? ( Napoleon wg G.T.G. )
+                                                        1805-1814 i 1815 (?-11.4. i ?-?.6.) ( Napoleon wg V.K.T.H.O.H.E. )
       Napoleon II         	                            1815 ( wg D.Ś. )
   Królestwo Francji
-    Linia orleańska
-      Ludwik Filip I	                                  1830-1848 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+    Dynastia burbońska ( The Bourbons )
+      Ludwik XVIII		                                  1814-1824 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Louis XVIII wg V.K.T.H.O.H.E. )
+                                                        ok.1815 ( wg 100.N.V.S. )
+                                                        ? ( wg 100.N.U.W. i M.Ś. ) ( Ludvík XVIII wg V.F.V. )
+      Karol X               	                          1823-1830 ( wg D.Ś. )
+                                                        1824-1830 ( wg V.N.M.S.D. i Tapsella ) ( Charles X wg V.K.T.H.O.H.E. )
+                                                        ? ( Karel X wg V.F.V. )
+      Linia orleańska
+        Ludwik Filip I	                                1830-1848 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Louis-Philippe wg V.K.T.H.O.H.E. )
             				                                    ? ( Ľudovít Filip wg O.A. )
             				                                    przed 1848-? ( Ludvík Filip wg V.F.V. )
 
   2.Republika
     Ludwik Napoleon Bonaparte	                          1848-1852 ( wg D.Ś. i V.N.M.S.D. )
-  Drugie Cesarstwo
+  Drugie Cesarstwo ( Second Empire )
     Dynastia Bonaparte
       Napoleon III		                                  1852-1870 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( wg Ř.S.J.Ď.S. )
 			       	                                          przed 1869-? ( wg 100.N.U.W. )
 			       	                                          przed 1855-po 1870 ( wg M.Ś. )
 				                                                ? ( wg V.R.M. i K. )
 				                                                przed 1865-1870 ( wg V.F.V. )
+                                                        1852-po 1870 ( wg V.K.T.H.O.H.E. )
+  Third Republic
   Raymond Poincaré	                                    ok.1915 ( wg V.F.V. )
   Alexandre Millerand	                                  przed 1921-? ( wg B.O.R.H. )
   Charles de Gaulle     	                              ? ( wg O.L. i M.Ś. )
@@ -8046,6 +8054,7 @@ Gela
       Klasické Řecko
 
 Genewa
+  County Genevois
   Vilém		                                              przed 1184-po 1188
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
@@ -13086,7 +13095,7 @@ Lynkos
   Bibliografia :
       Dzieje Grecji
 
-County of Lyon
+County of  ( County Lyonnaise )
   Boso                                                  ? [King of Lower Burgundy]
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
@@ -20588,6 +20597,7 @@ Szwabia
   Konrád                                 	              1191-? ( wg F.B.C.A.R. )
   Filip				                                          ? ( wg F.B.C.A.R. )
   Ota                                       	          ? ( wg F.B.C.A.R. )
+  Duchy of Schwabia
   Bibliografia :
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
