@@ -778,7 +778,7 @@ Anglia
                                                         przed 1381-? ( Richard II wg Ř.S.J.Ď.S. )
     Linia Lancaster
       Henryk IV          	                              1399-1413 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-			           	                                      ? ( wg D.B. )
+			           	                                      ? ( wg D.B. ) ( Henry IV wg V.K.T.H.O.H.E. )
                                                         przed 1399-? ( Jindřich IV wg Ř.S.J.Ď.S. )
       Henryk V           	                              1413-1422 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 			  	                                              przed 1415-? ( wg B.M. ) ( Jindřich V wg Ř.S.J.Ď.S. )
@@ -2547,7 +2547,7 @@ Badenia
   Elektorat Badenii
     Dynastia Zähringen
       Karol Fryderyk    	                              1803-1806
-  Wielkie Księstwo Badenii
+  Wielkie Księstwo Badenii ( Duchy of Baden )
     Dynastia Zähringen
       Karol Fryderyk	                                  1806-1811
       Karol                  	                          1811-1818
@@ -5045,6 +5045,10 @@ Chytros
   Bibliografia :
       Foiničané
 
+Cispadane Republic
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Bishopric of Cleves
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
@@ -7054,7 +7058,8 @@ Egipt
   Królestwo Egiptu
     Dynastia Muhammada Alego
       Ahmad Fu´ad ( Fu´ad I )	                          1922-1936
-      Faruk                                 	          1936-1952
+      Faruk                                 	          1936-1952 ( wg D.Ś. i V.N.M.S.D. )
+                                                        przed 1946-? ( Farouk wg V.K.T.H.O.H.E. )
       Fu´ad II                              	          1952-1953 ( wg D.Ś. )
   Nasser                                                przed 1959-po 1964 ( wg F.C.A.R.F. )
   Mubarak                                               przed 2011-? ( wg V.K.T.H.O.H.E. )
@@ -8430,14 +8435,18 @@ Grecja
                                         	              1832-1863 ( 7.5.-? ) ( wg V.N.M.S.D. )
     Dynastia duńska
       Jerzy I               	                          1863-1913 ( 5.6.-? )
-      Konstantyn I	                                    1913-1917 i 1920-1922
+      Konstantyn I	                                    1913-1917 i 1920-1922 ( wg D.Ś. i V.N.M.S.D. )
+                                                        ? ( Constantine I of Sonderburg-Glücksburg wg V.K.T.H.O.H.E. )
       Aleksander        	                              1917-1920
       Jerzy II              	                          1922-1924 i 1935-1947
       Paweł                	                            1947-1964
       Konstantyn II    	                                1964-1973
+  Uwagi :
+      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Grenada
   Bibliografia :
@@ -13063,6 +13072,10 @@ Lindos
   Bibliografia :
       Zrození Řecka
 
+Lithuanian-Byelorussian Republic
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Litwa ( Litva )
   Wielkie Księstwo Litewskie ( Grand Duchy of Litva, Vielkie Knyaztva Litvy, Magnus Ducatus Lithuaniae )
     Dynastia Litawora
@@ -13093,7 +13106,7 @@ Litwa ( Litva )
       August II The Strong                              1697-1733 ( wg V.K.T.H.O.H.E. ) [King of Poland]
       August III                                        1733-1763 ( wg V.K.T.H.O.H.E. ) [King of Poland]
       Stanisław August Poniatowski                      1764-1795 (?-25.11.) ( wg V.K.T.H.O.H.E. ) [King of Poland]
-  Lithuanian Republic
+  Lithuanian Republic ( Republic of Lithuania )
     Antanas Smetona                                     ? ( wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś.
@@ -14191,9 +14204,12 @@ Mausura
       Rýžoviště zlata a doly drahokamů
 
 Mazowsze
-  Maslav                                                ?
+  Maslav                                                ? ( wg Z.S.A.V.E. )
+  Duchy of Mazovia
+    Conrad                                              ok.1225 ( wg V.K.T.H.O.H.E. )
   Bibliografia :
       Zrod střední a východní Evropy
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 County of Mâcon
   Bibliografia :
@@ -15414,8 +15430,9 @@ Neszasz
   Bibliografia :
       Antické Černomoří
 
-County of Neuchatel
+County of Neuchatel ( Neuchâtel )
   Rudolf I                                              ? [Emperor Rudolf I]
+  Frederick I                                           1707-? [King in Prussia]
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -15455,6 +15472,10 @@ Nez Percé ( Czute-Pa-Lu )
       Objavovanie Ameriky
       Wielcy Indianie Ameryki Północnej
       Indiański Napoleon Gór Skalistych
+
+County of Nice
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Niderlandy ( Holandia )
   Dynastia walezyjska
@@ -15819,8 +15840,12 @@ Norymberga
     Fryderyk V         	                                1357-1397
     Jan III                  	                          1397-1420
     Fryderyk VI ( I )	                                  1397-1415
+    Albrecht von Hohenzollern                           przed 1561-1568 ( wg V.K.T.H.O.H.E. )
+  Uwagi :
+      Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Nowa Zelandia
   Bibliografia :
@@ -16168,7 +16193,7 @@ Osagowie
   Bibliografia :
       Czarne wampuny głoszą wojnę
 
-Cesarstwo Osmańskie
+Cesarstwo Osmańskie ( Ottoman Turks )
   Dynastia Osmanli
     Osman I                          	                  1280-1324 ( wg D.Ś. )
                                                         1281-1326 ( wg V.N.M.S.D. i D.B. )
@@ -16192,7 +16217,7 @@ Cesarstwo Osmańskie
     Mehmed II Zdobywca      	                          1444-1446 i 1451-1481 ( wg D.Ś. )
                                                         1451-1481 ( wg V.N.M.S.D. ) ( Mehmed II Dobyvatel wg D.B. )
                                                         ok.1453 ( wg K.V. )
-      					                                        przed 1453-? ( wg M.Ś. ) ( Mehmet wg Ř.S.J.Ď.S. )
+      					                                        przed 1453-? ( wg M.Ś. ) ( Mehmet wg Ř.S.J.Ď.S. ) ( Mehmed The Conqueror wg V.K.T.H.O.H.E. )
     Bayezid II                         	                1481-1512 ( wg D.Ś. i V.N.M.S.D. )
       			              	                            ?-1512 ( wg 100.N.V.S. )
     Selim I Groźny                 	                    1512-1520 ( wg D.Ś. i V.N.M.S.D. )
@@ -16249,6 +16274,7 @@ Cesarstwo Osmańskie
       Dějiny Byzance
       Encyklopedie panovníků
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Osroene
   Partamaspates                                         ?
@@ -17113,6 +17139,18 @@ Phi-Mai
 
 Pieczyngowie
 
+Principality of Piedmont
+  Carlo Emanuele II                                     1638-1675 [Duke of Sabaudia]
+  Vittorio Amadeo II ( Victor Amadeus II )              1675-1730 [King of Sardinia]
+  Carlo Emanuele III                                    1730-1773 [King of Sardinia]
+  Vittorio Amadeo III                                   1773-1796 [King of Sardinia]
+  Vittorio Emanuele I                                   1815-1821 [King of Sardinia]
+  Carlo Il Felice (Charles Le Heureux)                  1821-1831 ( Félix (Carlo Il Feroce, Carlo The Ferocious) wg V.K.T.H.O.H.E. ) [King of Sardinia]
+  Carlo Alberto                                         1831-1849 [King of Sardinia]
+  Vittorio Emanuele II                                  1849-1861 [King of Sardinia]
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Piktowie
   Królestwo Piktów
     Bridei I                              	            ok.556-ok.586
@@ -17377,12 +17415,15 @@ Pomorze Szczecińskie
   Dietrich                       	                      ? ( wg Z.S.A.V.E. )
   Ziemomysl		                                          ? ( wg Z.S.A.V.E. )
   Racibor                   	                          przed 1136 n.e.-? ( wg B.M. )
-  Bogusław                	                            przed 1184 -? ( wg B.M. )
-      	                                                przed 1181-? ( Bogislaw wg F.B.C.A.R. )
+  Duchy of Pomerania
+    Bogusław                	                          przed 1184 -? ( wg B.M. )
+        	                                              przed 1181-? ( Bogislaw wg F.B.C.A.R. )
+                                                        przed 1180-? ( Boguslav III wg V.K.T.H.O.H.E. )
   Bibliografia :
       Bitwy Morskie
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Pont
   Mitrydates                                       	    337/6-302/1 ( wg A.Č. )
@@ -17999,6 +18040,11 @@ Rumunia
 Rusellae
   Bibliografia :
       Zrození Řecka
+
+County of Rügen
+  Albrecht von Hohenzollern                             przed 1561-1568
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Rynchinowie
   Perbund                                               ?
@@ -19209,50 +19255,62 @@ Rzym
       Říše slova - Jazykové dějiny světa
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Sabaudia
-  Hrabstwo Sabaudii
-    Humbert I Białoręki                    	            1000-1048
-    Amadeusz I                                  	      1048-1051
-    Oddo                                            	  1051-1059
-    Piotr I                                           	1059-1078
-    Amadeusz II                                 	      1078-1080
-    Humbert II il Rinforzato              	            1080-1103
-    Amadeusz III                                	      1103-1148
-    Humbert III Błogosławiony         	                1148-1189 ( wg D.Ś. )
+Sabaudia ( Savoie, Savoia )
+  Hrabstwo Sabaudii ( County of Sabaudia, County of Savoy, County of Savoia )
+    Humbert I Białoręki                    	            1000-1048 ( wg D.Ś. )
+                                                        ?-1047 ( Humbertus I (Hupertus I, Umberto Biancamano, Humbert aux Mains Blanches, Humbert of The Whitehand) wg V.K.T.H.O.H.E. )
+    Amadeusz I                                  	      1048-1051 ( wg D.Ś. ) ( Amadeé (Amadeo) wg V.K.T.H.O.H.E. )
+    Oddo                                            	  1051-1059 ( wg D.Ś. )
+                                                        1051-1060 ( Otto I (Oddon I) wg V.K.T.H.O.H.E. )
+    Piotr I                                           	1059-1078 ( wg D.Ś. )
+                                                        1060-1078 ( Pierre I (Pietro) wg V.K.T.H.O.H.E. )
+    Amadeusz II                                 	      1078-1080 ( wg D.Ś. ) ( Amadeé II (Amadeo II) wg V.K.T.H.O.H.E. )
+    Humbert II il Rinforzato              	            1080-1103 ( wg D.Ś. ) ( Humbert II wg V.K.T.H.O.H.E. )
+    Amadeusz III                                	      1103-1148 ( wg D.Ś. ) ( Amadeus III (Amadeé III, Amadeo III) wg V.K.T.H.O.H.E. )
+    Humbert III Błogosławiony         	                1148-1189 ( wg D.Ś. ) ( Humbert III wg V.K.T.H.O.H.E. )
       						                                      przed 1167-po 1185( wg F.B.C.A.R. )
-    Tomasz                                         	    1189-1233
-    Amadeusz IV                                	        1233-1253
-    Bonifacy                                       	    1253-1263
-    Piotr II                                          	1263-1268
-    Filip I                                            	1268-1285
-    Amadeusz V Wielki                      	            1285-1323
-    Edward Szczodry                          	          1323-1329
-    Aimone Spokojny                         	          1329-1343
-    Amadeusz VI Zielony Hrabia       	                  1343-1383
-    Amadeusz VII Czerwony Hrabia	                      1383-1391
-  Księstwo Sabaudii ( Duchy of Savoy )
-    Amadeusz VIII                              	        1391-1440
-    Ludwik                                          	  1440-1465
-    Amadeusz IX Błogosławiony       	                  1465-1472
-    Filibert I Myśliwy                         	        1472-1482
-    Karol I Wojownik                         	          1482-1490
-    Karol Jan Amadeusz                     	            1490-1496
-    Filip II z Bresse                             	    1496-1497
-    Filibert II Piękny                           	      1497-1504
-    Karol II Dobry                               	      1504-1553
-    Emanuel Filibert                            	      1553-1580
-    Karol Emanuel I Wielki                	            1580-1630
+    Tomasz                                         	    1189-1233 ( wg D.Ś. ) ( Thomas I (Tomasso I) wg V.K.T.H.O.H.E. )
+    Amadeusz IV                                	        1233-1253 ( wg D.Ś. ) ( Amadeé IV (AMadeo IV) wg V.K.T.H.O.H.E. )
+    Bonifacy                                       	    1253-1263 ( wg D.Ś. ) ( Boniface wg V.K.T.H.O.H.E. )
+    Piotr II                                          	1263-1268 ( wg D.Ś. ) ( Pierre II The Little Charlemagne (Pietro II The Little Charlemagne) wg V.K.T.H.O.H.E. )
+    Filip I                                            	1268-1285 ( wg D.Ś. ) ( Philippe wg V.K.T.H.O.H.E. )
+    Amadeusz V Wielki                      	            1285-1323 ( wg D.Ś. ) ( Amadeé V The Great (Amadeo V The Great) wg V.K.T.H.O.H.E. )
+    Edward Szczodry                          	          1323-1329 ( wg D.Ś. ) ( Edouard I wg V.K.T.H.O.H.E. )
+    Aimone Spokojny                         	          1329-1343 ( wg D.Ś. ) ( Aymon The Peaceful (Aimone) wg V.K.T.H.O.H.E. )
+    Amadeusz VI Zielony Hrabia       	                  1343-1383 ( wg D.Ś. ) ( Amadeus VI The Green Count wg V.K.T.H.O.H.E. )
+    Amadeusz VII Czerwony Hrabia	                      1383-1391 ( wg D.Ś. ) ( Amadeus VII The Red Count wg V.K.T.H.O.H.E. )
+    Amadeé VIII ( Amadeo VIII )                         1391-1416 ( wg V.K.T.H.O.H.E. ) [Duke of Savoy]
+  Księstwo Sabaudii ( Duchy of Savoy, Duchy of Sabaudia )
+    Amadeusz VIII                              	        1391-1440 ( wg D.Ś. )
+                                                        1416-1440 ( Amadeé VIII (Amadeo VIII) wg V.K.T.H.O.H.E. )
+    Ludwik                                          	  1440-1465 ( wg D.Ś. ) ( Louis wg V.K.T.H.O.H.E. )
+    Amadeusz IX Błogosławiony       	                  1465-1472 ( wg D.Ś. )
+    Filibert I Myśliwy                         	        1472-1482 ( wg D.Ś. )
+    Karol I Wojownik                         	          1482-1490 ( wg D.Ś. )
+    Karol Jan Amadeusz                     	            1490-1496 ( wg D.Ś. )
+    Filip II z Bresse                             	    1496-1497 ( wg D.Ś. )
+                                                        ?-1496 ( Philippe de Bresse wg V.K.T.H.O.H.E. )
+    Filibert II Piękny                           	      1497-1504 ( wg D.Ś. )
+    Karol II Dobry                               	      1504-1553 ( wg D.Ś. )
+    Emanuel Filibert                            	      1553-1580 ( wg D.Ś. ) ( Emanuele-Filiberto wg V.K.T.H.O.H.E. )
+    Karol Emanuel I Wielki                	            1580-1630 ( wg D.Ś. i V.N.M.S.D. )
     Wiktor Amadeusz I                        	          1630-1637 ( wg D.Ś. )
                                                         1630-1638 ( wg V.N.M.S.D. )
     Franciszek Hiacynt                        	        1637-1638 ( wg D.Ś. )
-    Karol Emanuel II                            	      1638-1675
-    Wiktor Amadeusz II                       	          1675-1720
-  Uwagi :
-      Do Emanuela Filiberta wg D.Ś.
+    Karol Emanuel II                            	      1638-1675 ( wg D.Ś. i V.N.M.S.D. ) ( Carlo Emanuele II wg V.K.T.H.O.H.E. ) [Prince of Piedmont]
+    Wiktor Amadeusz II                       	          1675-1720 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1675-1730 ( Vittorio Amadeo II (Victor Amadeus II) wg V.K.T.H.O.H.E. ) [King of Sardinia]
+    Carlo Emanuele III                                  1730-1773 ( wg V.K.T.H.O.H.E. ) [King of Sardinia]
+    Vittorio Amadeo III                                 1773-1796 ( wg V.K.T.H.O.H.E. ) [King of Sardinia]
+    Vittorio Emanuele I                                 1815-1821 ( wg V.K.T.H.O.H.E. ) [King of Sardinia]
+    Carlo Il Felice ( Charles Le Heureux )              1821-1831 ( Félix (Carlo Il Feroce, Carlo The Ferocious) wg V.K.T.H.O.H.E. ) [King of Sardinia]
+    Carlo Alberto                                       1831-1849 ( wg V.K.T.H.O.H.E. ) [King of Sardinia]
+    Vittorio Emanuele II                                1849-1861 ( wg V.K.T.H.O.H.E. ) [King of Sardinia]
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
       Fridrich Barbarossa – císař a rytíř
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Sabinowie
   Tytus Tacjusz                                         przed 753 p.n.e.-?
@@ -20496,6 +20554,10 @@ Styria
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
 
+Bishopric of St.Jean de Maurienne ( Bishopric of Savoy )
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Królestwo Suazi
   Dynastia Nkosi-Dlamini
     Sobhuza I      	                                    1815-1839
@@ -20821,13 +20883,14 @@ Państwo Szalankajanów
       Starověká Indie
 
 Szampania
-  Hrabstwo Szampanii
+  Hrabstwo Szampanii ( County of Champagne )
     Dynastia z Vermandois
       Robert                   	                        950-975
       Herbert Młodszy	                                  975-995
       Stefan I                	                        995-1021
     Dynastia z Blois
-      Odo I                              	              1021-1037
+      Odo I                              	              1021-1037 ( wg D.Ś. )
+                                                        przed 1033-? ( Eudes wg V.K.T.H.O.H.E. )
       Stefan II                         	              1037-1048
       Odo II                             	              1048-1066
       Tybald I                          	              1066-1089
@@ -20849,6 +20912,7 @@ Szampania
     Bibliografia :
         Dynastie Świata
         Fridrich Barbarossa – císař a rytíř
+        Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Szang-szung ( Żang-żung )
   Lig-mi-rh(g)ja                                        ?
@@ -22916,6 +22980,10 @@ Vidéha
   Bibliografia :
       Starověká Indie
 
+County of Vienna
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Państwo Vilcabamba
   Topa Huallpa           	                              1533 ( wg D.Ś. )
   Manco Inca              	                            1533-1545 ( wg D.Ś. i D.Ř.I. )
@@ -23050,6 +23118,10 @@ Wardana
   Wardanchudat                                          ok.709 n.e.
   Bibliografia :
       Serce Azji
+
+Duchy of Warsaw
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Waspurakan
   Gagik I		                                            904-938
@@ -23909,6 +23981,10 @@ Zaragoza
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
+Duchy of Zähringen
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 County of Zeeland
   Charles de Téméraire ( Karel de Stoute )              1467-1477 (?-5.1.) [Duke of Burgundy]
   Bibliografia :
@@ -23999,19 +24075,21 @@ County of Zutphen
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Związek Socjalistycznych Republik Radzeckich
-  Lenin                                                 ? ( wg F.C.A.R.F. )
+Związek Socjalistycznych Republik Radzeckich ( Soviet Union )
+  Lenin                                                 ? ( wg F.C.A.R.F. i V.K.T.H.O.H.E. )
   Józef V. Stalin                       	              przed 1941-1953 ( wg 100.N.V.S. )
     				    	                                      przed 1934 -po 1945 ( wg M.Ś. )
                                                         przed 1953-? ( wg P.J.D. )
                                                         ? ( wg Ř.S.J.Ď.S. i F.C.A.R.F. )
-                                                        ok.1935 ( Stalin wg V.K.T.H.O.H.E. )
+                                                        przed 1939-po 1945 (?-21.1.) ( Stalin wg V.K.T.H.O.H.E. )
   Nikita Chruszczow                	                    1957-1964 ( wg 100.N.V.S. )
     				    	                                      przed 1960-? ( wg M.Ś. )
                                                         przed 1955-1964 ( ?-?.10. ) ( Nikita Khrushchev wg F.C.A.R.F. )
   Leonid Brežněv		                                    ?	( wg B.O.H.R. )
                                                         1964-po 1967 ( ?.10.-? ) ( wg F.C.A.R.F. )
   Michaił Gorbaczow		                                  ? ( wg M.Ś. )
+  presidents
+    Mikhail Kalinin                                     ? ( wg V.K.T.H.O.H.E. )
   Bibliografia :
       100 nejvlivnějších vojevůdců světa
   		Mocarstwa Świata
