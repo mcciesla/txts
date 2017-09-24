@@ -399,13 +399,14 @@ Alba Longa
       Zdraví Vás Caesar
 
 Albania
-  Kingdom of Albania
   Księstwo Albanii
-    Wilhelm ks. Wied       	                            1914 n.e.
-  Królestwo Albanii
-    Zog I ( Ahmed Zogu )	                              1928-1939
+    Wilhelm ks. Wied       	                            1914 n.e. ( wg D.Ś. )
+  Królestwo Albanii ( Kingdom of Albania )
+    Zog I ( Ahmed Zogu )	                              1928-1939 ( wg D.Ś. )
+    Vittorio Emanuele III                               ? ( wg V.K.T.H.O.H.E. ) [King of Italy]
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Albanowie
   Zober                                                 ok.37 p.n.e.
@@ -1044,16 +1045,18 @@ Księstwo Apulii
       Dynastie Świata
       Dějiny Byzance
 
-Królestwo Arabii Saudyjskiej
+Królestwo Arabii Saudyjskiej ( Saudi Arabia )
   Dynastia Saudyjska
     ´Abd al-´Aziz	                                      1932-1953 ( wg D.Ś. )
-    Sa´ud          	                                    1953-1964
+    Sa´ud          	                                    1953-1964 ( wg D.Ś. i V.N.M.S.D. )
+                                                        ? ( Saud wg V.K.T.H.O.H.E. )
     Fajsal          	                                  1964-1975
     Chalid           	                                  1975-1982
     Fahd            	                                  1982-?
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Arabia Szczęśliwa
   Sabos		                                              ?
@@ -5328,16 +5331,18 @@ Czarnogóra
     Dynastia Petrović-Njegoš
       Daniło II	                                        1852-1860
       Mikołaj I    	                                    1860-1910
-  Królestwo Czarnogóry
+  Królestwo Czarnogóry ( Kingdom of Montenegro )
     Dynastia Petrović-Njegoš
       Mikołaj I      	                                  1910-1921
       Daniło I    	                                    1921
       Michał I     	                                    1921-1922
+    Nikola                                              ? ( wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
       Encyklopedie panovníků
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Państwo Czasztany
   Czasztana	                                            ? ( wg S.I. )
@@ -7436,7 +7441,8 @@ Etiopia
       Lydż Ijasu ( Ijasu V )	                          1913-1916
       Zeuditu                          	                1916-1930
       Hajle Sylassje I              	                  1930-1936 i 1941-1974
-  Królestwo Etiopii
+  Królestwo Etiopii ( Kingdom of Abyssinia )
+    Vittorio Emanuele III                               ? ( wg V.K.T.H.O.H.E. ) [King of Italy]
     Dynastia salomońska
       Asfa Uessen          		                          1974-1975
   Uwagi :
@@ -7445,6 +7451,7 @@ Etiopia
       Dynastie Świata
       Encyklopedie panovníků
       Mity pięciu części świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Etna
   Dejnomenes                                            ?
@@ -8750,16 +8757,21 @@ Hajasa
   Bibliografia :
       Arménie
 
-Księstwo Halickie
-  Vladimír		                                          ? ( wg Z.S.A.V.E. i F.B.C.A.R. )
-  Daniel         	                                      ok.1239 n.e. ( wg D.Ś. )
+Halicz
+  Księstwo Halickie ( Principality of Halicz )
+    Vladimír		                                        ? ( wg Z.S.A.V.E. i F.B.C.A.R. )
+    Daniel         	                                    ok.1239 n.e. ( wg D.Ś. )
                                                         ? ( Daniel Haličský wg Z.S.A.V.E. )
-  Jurij Dmitrijevič	                                    1389-1434 ( ?-5.6. ) ( wg E.P. )
+                                                        1245-1253/64 ( Danylo Romanovych Halitsky wg V.K.T.H.O.H.E. )
+    Jurij Dmitrijevič	                                  1389-1434 (?-5.6.) ( wg E.P. )
+  Kingdom of Halicz
+    Danylo Romanovych Halitsky                          1253-1264 ( wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
       Encyklopedie panovníků
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Halikarnas
   Artemizja                                             ok.480 p.n.e.
@@ -11379,7 +11391,7 @@ Księstwo Kijowskie
       				        	                                przed 973-? ( Jaropolk wg Z.S.A.V.E. )
       					                                        972-980 ( Jaropolk I Svjatoslavič wg E.P. )
     Święty Włodzimierz I Wielki    	                    978-1015 ( wg D.Ś. ) ( Vladimír Svjatoslavič wg D.P.I.R.G. )
-                                                        980-1015 ( wg V.N.M.S.D. ) ( Vladimír wg D.B. ) ( Vladimír I Svjatoslavič wg Z.S.A.V.E. ) ( Valdemar (Volodimir) wg V.K.T.H.O.H.E. )
+                                                        980-1015 ( wg V.N.M.S.D. ) ( Vladimír wg D.B. ) ( Vladimír I Svjatoslavič wg Z.S.A.V.E. ) ( Valdemar (Volodimir, Volodymyr The Great) wg V.K.T.H.O.H.E. )
       					                                        ? ( Vladimír I Svjatoslavič wg E.P. )
                                                         przed 988-? ( Vladimír wg Ř.S.J.Ď.S. )
     Światopełk I Przeklęty            	                1015-1019 ( wg D.Ś. )
@@ -12309,6 +12321,10 @@ Kraj Morza
   Bel-ibni                                             	ok.650
   Bibliografia :
       Starożytny Bliski Wschód
+
+Republic of Kraków
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Krannon
   Dynastia Skoparydów
@@ -13279,7 +13295,7 @@ Luhuti
   Bibliografia :
       Starożytny Bliski Wschód
 
-Księstwo Lukki
+Księstwo Lukki ( Lucca )
   Feliks Baciocchi                        	            1805-1814
   Maria Anna ( Eliza ) Bonaparte	                      1805-1814
   Maria Luiza Bourbon                  	                1817-1824
@@ -14156,6 +14172,11 @@ Mauretania
       Zdraví Vás Caesar
       Oktawian August - Ojciec Chrzestny Europy
 
+County of Maurienne
+  Humbert aux Blanches Mains                            ?
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Imperium Maurjów
   Dynastia Maurjów
     Czandragupta Maurja	                                321-297 ( wg D.Ś. i S.I. )
@@ -14301,7 +14322,7 @@ Mediolan
     Matteo II                 	                        1354-1355
     Galeazzo II             	                          1354-1378
     Bernabo                  	                          1354-1385
-  Księstwo Mediolanu
+  Księstwo Mediolanu ( Duchy of Milan )
     Giovanni Galeazzo    		                            1378-1402
     Giovanni Maria         		                          1402-1412
     Filippo Maria            		                        1412-1447
@@ -14696,6 +14717,7 @@ Modena
   Dynastia habsbursko-lotaryńska
     Franciszek IV       	                              1814-1846
     Franciszek V        	                              1846-1859
+  Grand Duchy of Modena
   Uwagi :
       Księstwo Modeny oprócz oznaczonego wg D.Ś.
   Bibliografia :
@@ -15966,7 +15988,7 @@ Obodrzyce
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
 
-Królestwo Obojga Sycylii ( Kingdom of Both Sicilies )
+Królestwo Obojga Sycylii ( Kingdom of The Two Sicilies )
   Dynastia burbońska
     Ferdynand I           	                            1816-1825 ( wg D.Ś. )
     Franciszek I           	                            1825-1830
@@ -16344,6 +16366,10 @@ Ostrogoci ( Greutungowie )
       Severské mýty
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
+Duchy of Oświęcim
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Ottawowie
   Pontiac                    	                          1755-1769 ( wg W.I.A.P. )
                                                  	      przed 1762-1769 ( wg V.R.M. )
@@ -16522,25 +16548,28 @@ Państwo Paramarów
   Bibliografia :
       Starověká Indie
 
-Księstwo Parmy
-  Dynastia Farnese
-    Pier Luigi      	                                  1545-1547
-    Ottavio          	                                  1547-1586
-    Alessandro	                                        1586-1592
-    Ranuccio I     	                                    1592-1622
-    Odoardo        	                                    1622-1646
-    Ranuccio II   	                                    1646-1694
-    Francesco    	                                      1694-1727
-    Antonio         	                                  1727-1731
-  Dynastia Burbońska
-    Karol I          	                                  1731-1736
-    Filip              	                                1748-1765
-    Ferdynand    	                                      1765-1802
-    Karol II         	                                  1847-1849
-    Karol III        	                                  1849-1854
-    Robert           	                                  1854-1859
-  Dynastia habsbursko-lotaryńska
-    Maria Ludwika     	                                1814-1847
+Parma
+  Księstwo Parmy
+    Dynastia Farnese
+      Pier Luigi      	                                1545-1547
+      Ottavio          	                                1547-1586
+      Alessandro	                                      1586-1592
+      Ranuccio I     	                                  1592-1622
+      Odoardo        	                                  1622-1646
+      Ranuccio II   	                                  1646-1694
+      Francesco    	                                    1694-1727
+      Antonio         	                                1727-1731
+    Dynastia Burbońska
+      Karol I          	                                1731-1736
+      Filip              	                              1748-1765
+      Ferdynand    	                                    1765-1802
+    Dynastia habsbursko-lotaryńska
+      Maria Ludwika     	                              1814-1847
+    Dynastia Burbońska
+      Karol II         	                                1847-1849
+      Karol III        	                                1849-1854
+      Robert           	                                1854-1859
+  Grand Duchy of Parma
   Bibliografia :
       Dynastie Świata
 
@@ -19202,6 +19231,7 @@ Rzym
                                                         1448-1453 ( XIII wg V.N.M.S.D. )
     					                                          ?	( XIII wg D.R. )
     				        	                                  1449-1453 ( ?-29.5. ) ( Konstantinos XI Palaiologos wg D.B. )
+  Roman Republic (1848-1849)
   Uwagi :
       Wszystko oprócz oznaczonego w Królestwo Rzymu wg V.N.M.S.D. i D.R.
       Od Republiki Rzymskiej wszystko oprócz oznaczonego wg D.R. i K.R.I.C.R.
@@ -19573,22 +19603,22 @@ Sardynia
   Judgeship of Logudoro
   Judgeship of Arborea
   Królestwo Sardynii ( Kingdom of Sardinia )
-    Wiktor Amadeusz II           	                      1720-1730
-    Karol Emanuel III               	                  1730-1773
-    Wiktor Amadeusz III		                              1773-1796
-    Karol Emanuel IV               	                    1796-1802
-    Wiktor Emanuel I                	                  1802-1821 ( wg D.Ś. )
+    Wiktor Amadeusz II           	                      1720-1730 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1718/20-1730 ( Vittorio Amadeo II (Victor Amadeus II) wg V.K.T.H.O.H.E. )
+    Karol Emanuel III               	                  1730-1773 ( wg D.Ś. i V.N.M.S.D. ) ( Carlo Emanuele III wg V.K.T.H.O.H.E. )
+    Wiktor Amadeusz III		                              1773-1796 ( wg D.Ś. i V.N.M.S.D. ) ( Vittorio Amadeo III wg V.K.T.H.O.H.E. )
+    Karol Emanuel IV               	                    1796-1802 ( wg D.Ś. i V.N.M.S.D. ) ( Carlo Emanuele IV wg V.K.T.H.O.H.E. )
+    Wiktor Emanuel I                	                  1802-1821 ( wg D.Ś. ) ( Vittorio Emanuele I )
                                                         1802-1805 i 1814-1821 ( wg V.N.M.S.D. )
-    Karol Feliks                         	              1821-1831
+    Karol Feliks                         	              1821-1831 ( wg D.Ś. i V.N.M.S.D. ) ( Carlo Il Felice (Charles le Heureux, Félix, Carlo Il Feroce, Carlo The Ferocious) wg V.K.T.H.O.H.E. )
     Linia na Carignano
-      Karol Albert         		                          1831-1849
-    Wiktor Emanuel II                	                  1849-1861
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
+      Karol Albert         		                          1831-1849 ( wg D.Ś. i V.N.M.S.D. ) ( Carlo Alberto wg V.K.T.H.O.H.E. )
+    Wiktor Emanuel II                	                  1849-1861 ( wg D.Ś. i V.N.M.S.D. ) ( Vittorio Emanuele II Il Re Galantuomo (Vittorio Emanuele II The Hero King) wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
       Fridrich Barbarossa – císař a rytíř
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Sarepta
   Bibliografia :
@@ -22004,7 +22034,8 @@ Toskania ( Tuscany )
     Welf VI                     	                      ? ( wg F.B.C.A.R. )
     Filip			                                          ? ( wg F.B.C.A.R. )
   Wielkie Księstwo Toskanii ( Grand Duchy of Tuscany )
-    Cosimo I                   	                        1537-1574
+    Cosimo I                   	                        1537-1574 ( wg D.Ś. )
+                                                        przed 1548-? ( Cosimo I de' Medici wg V.K.T.H.O.H.E. )
     Francesco I               	                        1574-1587
     Ferdinando I             	                          1587-1609
     Cosimo II                 	                        1609-1621 ( wg D.Ś. )
@@ -23275,6 +23306,7 @@ Wenecja
   Alvise Mocenigo IV               	                    1763-1778
   Paolo Renier                            	            1779-1789
   Ludovico Manin                      	                1789-1797
+  Republic of Venice
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
@@ -23330,6 +23362,10 @@ Królestwo Wessexu
       Velká nástěnná mapa světových dějin
       Monarchs , Rulers , Dynasties of the World
       Encyklopedie panovníků
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+West Ukrainian Socialist Republic
+  Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Westfalii
@@ -23978,6 +24014,10 @@ Zaragoza
     Moktadir                                            ?
   Ta´ifa Zaragoza
     Húdovci
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Duchy of Zator
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
