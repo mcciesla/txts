@@ -2053,7 +2053,7 @@ Austria
     Leopold VI Sławny    	                              1198-1230 ( wg D.Ś. i V.N.M.S.D. )
       			         	                                  ok.1217 ( wg K.V. )
     Fryderyk II Bitny       	                          1230-1246
-    Dynastia habsburska
+    Dynastia habsburska ( House of Habsburg )
       Rudolf I                       	                  1276-1282 ( wg D.Ś. )
       Rudolf II                      	                  1282-1283 ( wg D.Ś. )
       Albrecht I                     	                  1282-1298
@@ -2068,56 +2068,60 @@ Austria
       Otto                               	              1330-1339  ( wg D.Ś. )
                                                         1330-1358 ( wg V.N.M.S.D. )
       Rudolf IV Założyciel    	                        1358-1365
-    Linia albertyńska
-      Albrecht III                       	              1365-1395
-      Albrecht IV Cierpliwy      	                      1395-1404 ( wg D.Ś. )
+      Linia albertyńska
+        Albrecht III                       	            1365-1395
+        Albrecht IV Cierpliwy      	                    1395-1404 ( wg D.Ś. )
                                                         1395-1411 ( wg V.N.M.S.D. )
-      Albrecht V                        	              1404-1439 ( wg D.Ś. )
+        Albrecht V                        	            1404-1439 ( wg D.Ś. )
                                                         1411-1439 ( wg V.N.M.S.D. )
-      Władysław Pogrobowiec	                            1440-1457 ( wg D.Ś. )
+        Władysław Pogrobowiec	                          1440-1457 ( wg D.Ś. )
                                                         1439-1457 ( wg V.N.M.S.D. )
-    Linia leopoldyńska
-      Leopold III            	                          1365-1386 ( wg D.Ś. )
-                                                      	1365-1384 ( wg V.N.M.S.D. )
-      Wilhelm                 	                        1386-1406 ( wg D.Ś. )
-                                                   	    1395-1411 ( wg V.N.M.S.D. )
-      Leopold IV Gruby	1386-1411 ( wg D.Ś. )
-    Linia tyrolska
-      Fryderyk IV                	                      1406-1439
-      Zygmunt                     	                    1439-1490
-      Ferdinand I Habsburský	                          1522-1564 ( ?-25.7. ) ( wg E.P. )
-      Ferdynand II               	                      1564-1595
-      Maksymilian III         		                      1602-1618
-      Leopold V                  	                      1619-1632
-      Ferdynand Karol         	                        1632-1662
-      Zygmunt Franciszek		                            1662-1665
-    Linia styryjska
-      Ernest Żelazny               	                    1406-1424
-      Albrecht VI Szczodry		                          1424-1463
-      Fryderyk V                     	                  1424-1493
-      Karol II                           	              1564-1590
-      Ferdynand III                  	                  1590-1619
-    Karol V                    	                        1519-? ( wg M.Ś. )
-      				                                          przed 1542-? ( Karel V wg V.F.V. )
-    Ferdynand I                 	                      ? ( wg M.Ś. )
-      				                                          1521-1564 ( ?-25.7. ) ( Ferdinand I Habsburský wg E.P. )
-    Ferdynand II             	                          1619-1637 ( wg M.Ś. )
-    Leopold I                   	                      przed 1683-po 1685 ( wg M.Ś. )
-    Karol VI                    	                      przed 1716-1740 ( ?-?.10. ) ( wg 100.N.V.S. )
-    Franciszek I              	                        1745-1765 ( wg V.N.M.S.D. )
-    Maria Teresa             	                          1740-1780 ( wg V.N.M.S.D. )
-      			   	                                        przed 1740-po 1762 ( wg M.Ś. )
-    Józef II                      	                    1765-1790 ( wg V.N.M.S.D. )
-    Leopold II                 	                        1790-1794 ( wg V.N.M.S.D. )
-    Franciszek II ( I )		                              1794-1804 ( wg V.N.M.S.D. )
+      Linia leopoldyńska
+        Leopold III            	                        1365-1386 ( wg D.Ś. )
+                                                        1365-1384 ( wg V.N.M.S.D. )
+        Wilhelm                 	                      1386-1406 ( wg D.Ś. )
+                                                     	  1395-1411 ( wg V.N.M.S.D. )
+        Leopold IV Gruby	1386-1411 ( wg D.Ś. )
+      Linia tyrolska
+        Fryderyk IV                	                    1406-1439
+        Zygmunt                     	                  1439-1490
+        Ferdinand I Habsburský	                        1522-1564 ( ?-25.7. ) ( wg E.P. )
+        Ferdynand II               	                    1564-1595
+        Maksymilian III         		                    1602-1618
+        Leopold V                  	                    1619-1632
+        Ferdynand Karol         	                      1632-1662
+        Zygmunt Franciszek		                          1662-1665
+      Linia styryjska
+        Ernest Żelazny               	                  1406-1424
+        Albrecht VI Szczodry		                        1424-1463
+        Fryderyk V                     	                1424-1493
+        Karol II                           	            1564-1590
+        Ferdynand III                  	                1590-1619
+      Karol V                    	                      1519-? ( wg M.Ś. )
+        				                                        przed 1542-? ( Karel V wg V.F.V. )
+      Ferdynand I                 	                    ? ( wg M.Ś. )
+        				                                        1521-1564 ( ?-25.7. ) ( Ferdinand I Habsburský wg E.P. )
+      Ferdynand II             	                        1619-1637 ( wg M.Ś. )
+      Leopold I                   	                    przed 1683-po 1685 ( wg M.Ś. )
+      Karol VI                    	                    przed 1716-1740 ( ?-?.10. ) ( wg 100.N.V.S. )
+      Maria Teresa             	                        1740-1780 ( wg V.N.M.S.D. ) ( Maria Theresa wg V.K.T.H.O.H.E. ) [Empress Maria Teresa]
+        			   	                                      przed 1740-po 1762 ( wg M.Ś. )
+    Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
+      Franciszek I              	                      1745-1765 ( wg V.N.M.S.D. )
+      Józef II                      	                  1765-1790 ( wg V.N.M.S.D. ) [Emperor Joseph II]
+                                                        1780-1790 ( Joseph II wg V.K.T.H.O.H.E. )
+      Leopold II                 	                      1790-1794 ( wg V.N.M.S.D. )
+                                                        1790-1792 ( wg V.K.T.H.O.H.E. )
+      Franciszek II ( I )		                            1794-1804 ( wg V.N.M.S.D. )
+                                                        1792-1835 ( Francis II wg V.K.T.H.O.H.E. )
   Cesarstwo Austriackie
-    Dynastia habsbursko-lotaryńska
+    Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
       Franciszek I           	                          1804-1835 (wg D.Ś. i V.N.M.S.D. )
       			                                            przed 1806-? ( wg D.R. )
-      Ferdynand I             	                        1835-1848 ( wg D.Ś. i V.N.M.S.D. ) ( Ferdinand I Dobrotivý wg E.P. )
-      Franciszek Józef I	                              1848-1916 ( wg D.Ś. i V.N.M.S.D. )
+      Ferdynand I             	                        1835-1848 ( wg D.Ś. i V.N.M.S.D. ) ( Ferdinand I Dobrotivý wg E.P. ) ( Ferdinand I wg V.K.T.H.O.H.E. )
+      Franciszek Józef I	                              1848-1916 ( wg D.Ś. i V.N.M.S.D. ) ( Franz-Josef (Franz-Joseph) wg V.K.T.H.O.H.E. )
       			         	                                  ? ( wg M.Ś. i O.K.C.J. ) ( František Jozef I wg E.P. )
-      Karol I                 	                        1916-1918
+      Karol I                 	                        1916-1918 ( wg D.Ś. i V.N.M.S.D. ) ( Charles wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszyatko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
       Linia Tyrolska i Styryjska wg D.Ś.
@@ -2132,6 +2136,7 @@ Austria
       Encyclopedie panovníků
       Velikáni francouzské vědy
       O Krakowie Ci Ja!
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 County of Autun
   Richard The Justiciar                                 ? [Duke of Burgundy]
@@ -2742,7 +2747,7 @@ Bawaria
     Louis The German                                    ?-875 n.e. ( wg V.K.T.H.O.H.E. )
   Leopold         	                                    899-ok.940 ( wg V.N.M.S.D. )
   Ludolf            	                                  ? ( wg Z.S.A.V.E. )
-  Księstwo Bawarii
+  Księstwo Bawarii ( Duchy of Bavaria )
     Dynastia Luitpoldyngów
       Arnulf                 	                          907-937 ( wg D.Ś. )
       			   	                                        907-937 ( ?-14.7. ) ( wg Z.S.A.V.E. )
@@ -2837,6 +2842,7 @@ Bawaria
       Albrecht V Wielkoduszny   	                      1550-1579
       Wilhelm V Pobożny            	                    1579-1597
       Maksymilian I                     	              1597-1623
+      Georg                                             ? ( wg V.K.T.H.O.H.E. )
   Elektorat Bawarii
     Dynastia Wittelsbachów
       Maksymilian I                  	                  1623-1651
@@ -3357,13 +3363,16 @@ Księstwo Brabancji
 
 Brakchiatowie
 
-Brandenburgia
-  Albrecht I Niedźwiedź	                                1134-1170 ( wg D.Ś. )
+Brandenburgia ( Brandenburg )
+  Margravate of Brandenburg
+    House of Ascania
+      Albrecht I Niedźwiedź	                            1134-1170 ( wg D.Ś. )
       			         	                                  ? ( Albrecht Medvěd wg Z.S.A.V.E. )
+                                                        ?-ok.1170 ( Albert The Bear wg V.K.T.H.O.H.E. )
   Otto I                             	                  1170-1184 ( wg D.Ś. )
       				                                          przed 1180-? ( wg F.B.C.A.R. )
-  Otto II Szczodry           	                          1184-1205
-  Albrecht II                    	                      1205-1220
+  Otto II Szczodry           	                          1184-1205 ( wg D.Ś. )
+  Albrecht II                    	                      1205-1220 ( wg D.Ś. )
   Linia na Salzwedel
     Otto III            	                              1220-1267 ( wg D.Ś. )
                                         	              1220-1266 ( I wg V.N.M.S.D. )
@@ -3391,29 +3400,33 @@ Brandenburgia
   Wacław                        	                      1373-1378 ( wg V.N.M.S.D. )
   Zygmunt                       	                      1378-1388 ( wg V.N.M.S.D. )
   Joszt                           	                    1388-1411 ( wg V.N.M.S.D. )
-  Elektorat Brandenburgii
-    Dynastia Hohenzollernów
+  Elektorat Brandenburgii ( Margravate-Electorate of Brandenburg )
+    Dynastia Hohenzollernów ( Hohenzollern )
       Fryderyk VI ( I )                             	  1397-1440 ( wg D.Ś. )
-                                                        1415-1440 ( wg V.N.M.S.D. )
+                                                        1415-1440 ( wg V.N.M.S.D. ) ( Frederick I wg V.K.T.H.O.H.E. )
       Fryderyk Gruby                              	    1440-1463 ( wg D.Ś. )
-      Fryderyk II Żelazny Margrabia	                    1440-1470
+      Fryderyk II Żelazny Margrabia	                    1440-1470 ( wg V.N.M.S.D. i D.Ś. )
+                                                        1440-1471 ( Frederick II Eisenzahn (Frederick II Irontooth) wg V.K.T.H.O.H.E. )
       Albrecht Achilles                            	    1470-1486 ( wg D.Ś. )
                                                         1470-1476 ( III wg V.N.M.S.D. )
-      Jan Cycero                                      	1486-1499 ( wg D.Ś. )
+                                                        1471-1486 ( wg V.K.T.H.O.H.E. )
+      Jan Cycero                                      	1486-1499 ( wg D.Ś. ) ( Johann Cicero wg V.K.T.H.O.H.E. )
                                                         1476-1499 ( III wg V.N.M.S.D. )
-      Joachim I Nestor                             	    1499-1535
+      Joachim I Nestor                             	    1499-1535 ( wg V.N.M.S.D. i D.Ś. )
+                                                        1491-1535 ( wg V.K.T.H.O.H.E. )
       Jan                                              	1535-1571 ( wg D.Ś. )
-      Joachim II Hektor                           	    1535-1571
-      Jan Jerzy                                       	1571-1598
-      Joachim Fryderyk                           	      1598-1608
+      Joachim II Hektor                           	    1535-1571 ( wg V.N.M.S.D. i D.Ś. ) ( Joachim II Hector wg V.K.T.H.O.H.E. )
+      Jan Jerzy                                       	1571-1598 ( wg V.N.M.S.D. i D.Ś. ) ( Johann Georg wg V.K.T.H.O.H.E. )
+      Joachim Fryderyk                           	      1598-1608 ( wg V.N.M.S.D. i D.Ś. ) ( Joachim III Frederick wg V.K.T.H.O.H.E. )
       Jan Zygmunt                                   	  1608-1620 ( wg D.Ś. )
-                                                        1608-1619 ( wg V.N.M.S.D. )
+                                                        1608-1619 ( wg V.N.M.S.D. ) ( Johann Sigismund wg V.K.T.H.O.H.E. )
       Jerzy Wilhelm                                 	  1620-1640  ( wg D.Ś. )
                                                         1619-1640 ( wg V.N.M.S.D. )
-      Fryderyk Wilhelm Wielki Elektor  	                1640-1688 ( wg V.N.M.S.D. , D.Ś. i M.Ś. )
-      Fryderyk III ( I )                              	1688-1701
+                                                        1619-1640 ( Georg Wilhelm wg V.K.T.H.O.H.E. )
+      Fryderyk Wilhelm Wielki Elektor  	                1640-1688 ( wg V.N.M.S.D. , D.Ś. i M.Ś. ) ( Frederick William I The Great Elector (Friedrich Wilhelm Der Grosser Kurfurst) wg V.K.T.H.O.H.E. )
+      Fryderyk III ( I )                              	1688-1701 ( wg V.N.M.S.D. i D.Ś. )
+                                                        1688-1701 (?-18.1.) ( Friedrich III wg V.K.T.H.O.H.E. ) [King in Prussia Friedrich I]
   Uwagi :
-      Do Linii na Salzwedel wszystko oprócz oznaczonego wg D.Ś.
       Wszystko oprócz oznaczonego od Linii na Salzwedel wg V.N.M.S.D. i D.Ś.
   Bibliografia :
       Dynastie Świata
@@ -3421,6 +3434,7 @@ Brandenburgia
       Mocarstwa Świata
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Braniczowcy
 
@@ -3489,7 +3503,7 @@ Biskupstwo Brixen
 
 Brukterowie
 
-Księstwo Brunszwiku
+Księstwo Brunszwiku ( Duchy of Brunswick )
   Starsza linia na Brunszwiku
     Albrecht I Wielki      	                            1252-1279
     Henry Dziwak        	                              1279-1286
@@ -3516,6 +3530,7 @@ Księstwo Brunszwiku
     Henryk Juliusz     	                                1589-1613
     Fryderyk Ulryk         	                            1613-1634
   Henryk                   	                            1559-1598
+  Heinrich                                              ? ( wg V.K.T.H.O.H.E. )
   Juliusz Ernest         	                              1598-1636
   August Młodszy     	                                  1636-1666
   Rudolf August        	                                1666-1704
@@ -3533,8 +3548,11 @@ Księstwo Brunszwiku
     Jan Albrecht z Meklemburgii-Schwerinu	              1907-1913
   Linia hanowerska
     Ernest August		                                    1913-1918
+  Uwagi :
+      Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Księstwo Brunszwiku i Lüneburga
   Dynastia Welfów
@@ -5428,7 +5446,7 @@ Czechy
       				            	                            1197-1230 ( Přemysl Otakar I wg D.P.I.R.G. )
       Wacław I                                   	      1230-1253
       Przemysł Ottokar II Wielki       	                1253-1278 ( wg D.Ś. i V.N.M.S.D. ) ( Přemysl II Otakar wg D.P.I.R.G. ) ( Přemysl Otakár II wg D.B. )
-      					      	                                ? ( Přemysl Otakar II wg Z.S.A.V.E. )
+      					      	                                ? ( Přemysl Otakar II wg Z.S.A.V.E. ) ( Otakar II (Ottaker II) wg V.K.T.H.O.H.E. )
       Wacław II                                  	      1278-1305 ( wg D.Ś. i V.N.M.S.D. ) ( Václav II wg Z.S.A.V.E. )
       				            	                            1271-1305 ( Václav II wg D.P.I.R.G. )
       Wacław III                                 	      1305-1306 ( wg D.Ś. )
@@ -5458,8 +5476,9 @@ Czechy
       Jerzy z Poděbrad 	                                1458-1471 ( wg D.Ś. ) ( Jiří z Poděbrad wg D.P.I.R.G. i Z.S.A.V.E. )
                                                       	ok.1455-1471 ( wg V.N.M.S.D. )
     Dynastia Jagiellonów
-      Władysław II        	                            1471-1516 ( wg D.Ś. i V.N.M.S.D. ) ( Vladislav II wg D.P.I.R.G. i Z.S.A.V.E. )
-      Ludwik                 	                          1516-1526 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík wg Z.S.A.V.E. )
+      Władysław II        	                            1471-1516 ( wg D.Ś. i V.N.M.S.D. ) ( Vladislav II wg D.P.I.R.G. i Z.S.A.V.E. ) [King of Hungary]
+                                                        ?-1516 ( wg V.K.T.H.O.H.E. )
+      Ludwik                 	                          1516-1526 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík wg Z.S.A.V.E. ) ( Louis II wg V.K.T.H.O.H.E. ) [King of Hungary]
                                                      	  1516-1526 ( ?-29.8. ) ( Ludvík wg D.P.I.R.G. )
       			         	                                  ?-1526 ( ?-29.8. ) ( wg 100.N.V.S. )
   Republika Czeska
@@ -5476,6 +5495,7 @@ Czechy
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
       Encyclopedie panovníků
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Czedi
   Bibliografia :
@@ -6117,6 +6137,10 @@ Dor
   Bader                                                 ok.1065 p.n.e.
   Bibliografia :
       Kralovská tažení ve starém Orientu
+
+Bishopric of Dorpat
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Doudlebowie
 
@@ -7762,26 +7786,27 @@ Francja
                                                         przed 1477-? ( Louis XI wg V.K.T.H.O.H.E. )
       Karol VIII                	                      1483-1498 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
 			   	                                              ok.1495 ( wg 100.N.V.S. ) ( Karel VIII wg E.P. )
-    Linia orleańska
-      Ludwik XII      	                                1498-1515 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
-				                                                ? ( Ludvík XII wg V.F.V. )
-    Linia z Angouleme
-      Franciszek I         	                            1515-1547 ( wg V.N.M.S.D. , D.Ś. , Tapsella i D.P.I.R.G. i M.Ś. )
-				                                                przed 1515-po 1533 ( František I wg O.A. )
-				                                                przed 1519-? ( František I wg M.A.E. )
-				                                                przed 1537-po 1543 ( František I wg V.F.V. )
+      Linia orleańska
+        Ludwik XII      	                              1498-1515 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
+  				                                              ? ( Ludvík XII wg V.F.V. )
+      Linia z Angouleme
+        Franciszek I         	                          1515-1547 ( wg V.N.M.S.D. , D.Ś. , Tapsella i D.P.I.R.G. i M.Ś. )
+  				                                              przed 1515-po 1533 ( František I wg O.A. )
+  				                                              przed 1519-? ( František I wg M.A.E. )
+  				                                              przed 1537-po 1543 ( František I wg V.F.V. )
                                                         ? ( wg P.J.D.)
                                                         przed 1534-po 1539 ( wg Ř.S.J.Ď.S. )
-      Henryk II              	                          1547-1559 ( wg D.Ś. , V.N.M.S.D. i Tapsella i M.Ś. )
-				                                                przed 1559-? ( wg B.M. )
-				                                                przed 1552-? ( Jindřich II wg V.F.V. )
-      Franciszek II		                                  1559-1560 ( wg D.Ś. )
-				                                                ? ( wg V.F.V. )
-      Karol IX                 	                        1560-1574 ( wg D.Ś. i Tapsella )
-                                                	      1559-1574 ( wg V.N.M.S.D. )
-				                                                ? ( wg V.F.V. )
-      Henryk III              	                        1574 -1589 ( wg V.N.M .S.D. i D.Ś. i Tapsella )
-				                                                przed 1574-? ( Jindřich III wg V.F.V. )
+        Henryk II              	                        1547-1559 ( wg D.Ś. , V.N.M.S.D. i Tapsella i M.Ś. )
+  				                                              przed 1559-? ( wg B.M. )
+  				                                              przed 1552-? ( Jindřich II wg V.F.V. )
+        Franciszek II		                                1559-1560 ( wg D.Ś. )
+  				                                              ? ( wg V.F.V. )
+        Karol IX                 	                      1560-1574 ( wg D.Ś. i Tapsella )
+                                                  	    1559-1574 ( wg V.N.M.S.D. )
+  				                                              ? ( wg V.F.V. )
+        Henryk III              	                      1574-1589 ( wg V.N.M .S.D. i D.Ś. i Tapsella )
+  				                                              przed 1574-? ( Jindřich III wg V.F.V. )
+                                                        ? ( Henri de Valois (Henryk Walezy) wg V.K.T.H.O.H.E. )
     Dynastia burbońska ( The Bourbons )
       Henryk IV          	                              1589-1610 ( wg V.N.M.S.D. , D.Ś. i Tapsella i M.Ś. ) ( Henri IV wg V.K.T.H.O.H.E. )
 				                                                ? ( Henrich IV wg O.A. )
@@ -8093,6 +8118,19 @@ Galacja
       Lukullus
       Encyklopedie panovníků
       Říše slova - Jazykové dějiny světa
+
+Kingdom of Galicia and Lodomeria
+  House of Habsburg
+    Maria Theresa                                       1773-1780 [Empress Maria Teresa]
+  House of Habsburg-Lorraine
+    Joseph II                                           1780-1790 [Emperor Joseph II]
+    Leopold II                                          1790-1792 [Emperor Leopold II]
+    Francis II                                          1792-1835 [Cesarz Franciszek II, Cesarz austriacki Franciszek I]
+    Ferdinand I                                         1835-1848 [Cesarz austriacki]
+    Franz-Josef                                         1848-1916 [Cesarz austriacki]
+    Charles                                             1916-1918 [Cesarz austriacki]
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Galicji
   Dynastia z Leonu
@@ -11493,7 +11531,12 @@ Knidos
   Bibliografia :
       Zrození Řecka
 
-Knights od St. John
+Knights of St. John
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Knights of The Sword
+  Gotard Kettler                                        ?-1561 n.e. [Duke of Courland]
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -12281,14 +12324,18 @@ Kroton
   Bibliografia :
       Dzieje Grecji
 
-Chanat Krymski
+Chanat Krymski ( Khanate of Crimea )
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Zakon Krzyżacki
+Zakon Krzyżacki ( Teutonic Order, Teutonic Knights, State of Teutonic Order, Ordensstaat, Order of The Brothers of The Teutonic House of The Virgin Mary in Jerusalem )
   Henryk Walpot                               	        1198-1208 ( 5.3.-5.11. )
   Otto von Kerpen                             	        1209 ( ?-7.2. )
   Henryk von Tunna ( Bart )             	              1209 ( ?.2.-2.6. )
-  Herman von Salza                          	          1210-1239 ( ?-20.3. )
-  Konrad z Turyngii                          	          1240 ( ?-24.12. )
+  Herman von Salza                          	          1210-1239 ( ?-20.3. ) ( wg P.W.M.K. )
+                                                        przed 1226-1239 ( Hermann von Salza wg V.K.T.H.O.H.E. )
+  Konrad z Turyngii                          	          1240 ( ?-24.12. ) ( wg P.W.M.K. )
+                                                        1239-1240 ( Conrad of Thuringia wg V.K.T.H.O.H.E. )
   Gerhard von Malberg                     	            1241-1244 ( ?-7.7. )
   Henryk von Hohenlohe                  	              1244-1250 ( ?.7.-15.7. )
   Günther von Wüllersleben             	                1250-1252 ( jesień-3(4).5. )
@@ -12306,11 +12353,13 @@ Zakon Krzyżacki
   Dytrych von Altenburg                    	            1335-1341 ( 13.5.-6.10. )
   Ludolf König                                   	      1342-1345 ( styczeń-13.12 )
   Henryk Dusemer                              	        1345-1351 ( 13.12.-14.9. )
-  Winrych von Kniprode                    	            1351-1382 ( wrzesień-24.6. )
+  Winrych von Kniprode                    	            1351-1382 ( wrzesień-24.6. ) ( wg P.W.M.K. )
+                                                        1351-1382 ( Winrich von Kniprode wg V.K.T.H.O.H.E. )
   Konrad Zöllner von Rotenstein        	                1382-1390 ( 2.10.-20.8. )
   Konrad von Wallenrod                     	            1391-1393 ( 12.3.-25.7. )
   Konrad von Jungingen                      	          1393-1407 ( 30.11.- 30.3.  )
-  Ulryk von Jungingen                         	        1407-1410 ( 26.6.-lipiec )
+  Ulryk von Jungingen                         	        1407-1410 ( 26.6.-lipiec ) ( wg P.W.M.K. )
+                                                        ?-1410 (?-15.7.) ( Ulrich von Jungingen wg V.K.T.H.O.H.E. )
   Henryk von Plauen                            	        1410-1413 ( 9.11-wrzesień )
   Michał Küchmeister                          	        1414-1422 ( 7.1.-10.3. )
   Paweł von Russdorf                           	        1422-1441 ( 10.3.-2.1. )
@@ -12320,12 +12369,15 @@ Zakon Krzyżacki
   Henryk Reffin von Richtenberg         	              1470-1477 ( ?-20.2. )
   Marcin Truchsess von Wetzhausen	                      1477-1489 ( sierpień-3.1. )
   Jan von Tieffen                                   	  1489-1497 ( wrzesień-25.8. )
-  Fryderyk książę Saski                         	      1498-1510 ( 29.9.-14.12. )
-  Albrecht von Hohenzollern-Ansbach 	                  1511-1525 ( 13.2.-10.4. ) ( wg P.W.M.K. )
+  Fryderyk książę Saski                         	      1498-1510 ( 29.9.-14.12. ) ( wg P.W.M.K. )
+                                                        1497-1510 ( Friedrich von Sachsen wg V.K.T.H.O.H.E. )
+  Albrecht von Hohenzollern-Ansbach 	                  1511-1525 ( 13.2.-10.4. ) ( wg P.W.M.K. ) [Duke of Prussia]
                                                         ? ( wg O.K.C.J. )
+                                                        1510-1525 ( Albrecht von Hohenzollern wg V.K.T.H.O.H.E. )
   Bibliografia :
       Poczet wielkich mistrzów krzyżackich
       O Krakowie Ci Ja!
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Państwo Kszaharatów
   Bhúmaka	                                              ?
@@ -12382,22 +12434,28 @@ Kurion
       Foiničané
       Zrození Řecka
 
-Księstwo Kurlandii
-  Dynastia Kettlerów
-    Gotard Kettler            	                        1562-1587
-    Wilhelm                      	                      1587-1616
-    Fryderyk                     	                      1587-1642
-    Jakub                         	                    1642-1682
-    Fryderyk Kazimierz	                                1682-1698
-    Fryderyk Wilhelm       	                            1698-1711
-    Ferdynand                  	                        1731-1737
-  Dynastia Bironów
-    Ernest Jan Biron     	                              1737-1741 i 1763-1769
-    Piotr                        	                      1769-1795
-  Dynastia saska
-    Karol          		                                  1759-1763
+Kurlandia
+  Bishopric of Courland
+  Księstwo Kurlandii
+    Dynastia Kettlerów
+      Gotard Kettler            	                      1562-1587 ( wg D.Ś. )
+                                                        ?-1587 ( wg V.K.T.H.O.H.E. )
+      Wilhelm                      	                    1587-1616
+      Fryderyk                     	                    1587-1642
+      Jakub                         	                  1642-1682
+      Fryderyk Kazimierz	                              1682-1698
+      Fryderyk Wilhelm       	                          1698-1711
+      Ferdynand                  	                      1731-1737
+    Dynastia Bironów
+      Ernest Jan Biron     	                            1737-1741 i 1763-1769
+      Piotr                        	                    1769-1795
+    Dynastia saska
+      Karol          		                                1759-1763
+  Uwagi :
+      Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Kusz
   Bibliografia :
@@ -13005,26 +13063,44 @@ Lindos
   Bibliografia :
       Zrození Řecka
 
-Litwa
-  Wielkie Księstwo Litewskie
+Litwa ( Litva )
+  Wielkie Księstwo Litewskie ( Grand Duchy of Litva, Vielkie Knyaztva Litvy, Magnus Ducatus Lithuaniae )
     Dynastia Litawora
+      Mindaugas ( Mendog )                              1253-1263 ( Mindoug wg V.K.T.H.O.H.E. )
       Witenes ( Vytenis )             	                1295-1316
-      Gedymin ( Gediminas )      	                      1316-1341
-      Jawnuta ( Jaunutis )            	                1341-1345
-      Olgierd ( Algirdas )              	              1345-1377
+      Gedymin ( Gediminas )      	                      1316-1341 ( wg V.K.T.H.O.H.E. i D.Ś. )
+      Jawnuta ( Jaunutis )            	                1341-1345 ( wg D.Ś. ) ( Yevnut (Ivan) wg V.K.T.H.O.H.E. )
+      Olgierd ( Algirdas )              	              1345-1377 ( wg D.Ś. ) ( Algierdas wg V.K.T.H.O.H.E. )
       Kiejstut ( Kęstutis )              	              1345-1382
-      Jagiełło ( Jogaila )             	                1377-1392 ( wg D.Ś. )
+      Jagiełło ( Jogaila )             	                1377-1392 ( wg D.Ś. ) [King of Poland]
       				       	                                  przed 1386-? ( wg Z.S.A.V.E. )
-      Witold ( Vytautas ) Wielki	                      1392-1430
-      Świdrygiełło ( Švitrigaila )   	                  1430-1432
-      Zygmunt                              	            1432-1440
-      Kazimierz                            	            1440-1492
-      Aleksander                         	              1492-1506
+                                                        1377-1401 ( Władysław Jagiełło (Ladislas-Jagiełło) wg V.K.T.H.O.H.E. )
+      Witold ( Vytautas ) Wielki	                      1392-1430 ( wg D.Ś. )
+                                                        1401-1430 ( wg V.K.T.H.O.H.E. )
+      Świdrygiełło ( Švitrigaila )   	                  1430-1432 ( wg D.Ś. ) ( Svidrigaila wg V.K.T.H.O.H.E. )
+      Zygmunt                              	            1432-1440 ( wg V.K.T.H.O.H.E. i D.Ś. )
+      Kazimierz                            	            1440-1492 ( wg D.Ś. ) ( Kazimierz III Jagiellończyk (Casimir IV Jagiellon, Casimir Jagiellończyk) wg V.K.T.H.O.H.E. ) [King of Poland]
+      Aleksander                         	              1492-1506 ( wg D.Ś. ) ( Alexander wg V.K.T.H.O.H.E. ) [King of Poland]
+      Zygmunt I Stary ( Sigismund The Elder )           1506-1548 ( wg V.K.T.H.O.H.E. ) [King of Poland]
+      Zygmunt II August ( Sigismund-Augustus )          1548-1572 (?-7.7.) ( wg V.K.T.H.O.H.E. ) [King of Poland]
+      Henryk Walezy ( Henri de Valois )                 1573-1574 ( wg V.K.T.H.O.H.E. ) [King of Poland]
+      Stefan Batory ( Istvan Bathory )                  1575/6-1586 ( Stephen Bathory wg V.K.T.H.O.H.E. ) [King of Poland]
+      Zygmunt III Waza ( Sigismund Vasa )               1587-1632 ( Sigismund III Vasa wg V.K.T.H.O.H.E. ) [King of Poland]
+      Władysław IV Waza ( Ladislas IV Vasa )            1632-1648 ( wg V.K.T.H.O.H.E. ) [King of Poland]
+      Jan Kazimierz Waza ( John Casimir Vasa )          1648-1668 ( Jan Kazimierz Vasa wg V.K.T.H.O.H.E. ) [King of Poland]
+      Jan Sobieski                                      1673-1696 ( wg V.K.T.H.O.H.E. ) [King of Poland]
+      Stanisław Leszczyński                             1704-1709 ( wg V.K.T.H.O.H.E. ) [King of Poland]
+      August II The Strong                              1697-1733 ( wg V.K.T.H.O.H.E. ) [King of Poland]
+      August III                                        1733-1763 ( wg V.K.T.H.O.H.E. ) [King of Poland]
+      Stanisław August Poniatowski                      1764-1795 (?-25.11.) ( wg V.K.T.H.O.H.E. ) [King of Poland]
+  Lithuanian Republic
+    Antanas Smetona                                     ? ( wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
       Zrod střední a východní Evropy
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Lo ( Mustang Bhot )
   Bibliografia :
@@ -13149,7 +13225,7 @@ Lotaryngia
       Karol V                                 	        1675-1690
       Leopold                               	          1690-1729
       Franciszek III                      	            1729-1737
-      Stanisław Leszczyński        	                    1737-1766 ( wg D.Ś. )
+      Stanisław Leszczyński        	                    1737-1766 ( wg D.Ś. ) [King of Poland]
                                                         1735-1766 ( Stanislas wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś.
@@ -14769,7 +14845,7 @@ Mongołowie
   Imperium Mongołów
     Czyngis Chan		                                    1206-1227 ( wg D.Ś. i K.V. i H.C. ) ( Czyngis-chan wg T.Z.H.K. )
       			    	                                      ?-1227 ( wg 100.N.V.S. )
-      			       	                                    ? ( wg D.J. ) ( Čingischán wg D.P.I.R.G. ) ( Džingischán wg S.V.J.Ž.Ž. )
+      			       	                                    ? ( wg D.J. ) ( Čingischán wg D.P.I.R.G. ) ( Džingischán wg S.V.J.Ž.Ž. ) ( Gengis Khan wg V.K.T.H.O.H.E. )
           				                                      przed 1220-? ( Džingischán wg D.B. )
       			    	                                      1206-? ( wg H. )
       			    	                                      przed 1224 -? ( Čingischán wg Z.S.A.V.E. )
@@ -14805,6 +14881,7 @@ Mongołowie
       Encyclopedie panovníků
       S vámi jsem život žil …
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 County of Montbéliard
   Bibliografia :
@@ -14863,11 +14940,11 @@ Księstwo Moskiewskie
       Dějiny Byzance
       Encyklopedie panovníků
 
-Wielkie Księstwo Moskiewsko-Włodzimierskie ( Wielkie Księstwo Moskiewskie )
+Wielkie Księstwo Moskiewsko-Włodzimierskie ( Wielkie Księstwo Moskiewskie, Grand Duchy of Moscow )
   Dynastia Rurykowiczów
     Dymitr Doński        	                              1359-1389 ( wg V.N.M.S.D. i D.Ś. )
       			    	                                      przed 1380-? ( Dmitrij wg D.P.I.R.G. ) ( Dimitrij Donský wg Ř.S.J.Ď.S. )
-      				                                          ? ( Dimitrij Ivanovič Donský wg E.P. )
+      				                                          ? ( Dimitrij Ivanovič Donský wg E.P. ) ( Dmitri Donskoy wg V.K.T.H.O.H.E. )
     Wasyl I                   	                        1389-1425 ( wg V.N.M.S.D. i D.Ś. )
       				                                          ? ( Vasilij I Dmitrijevič wg E.P. )
     Wasyl II Ślepy		                                  1425-1462 ( wg V.N.M.S.D. i D.Ś. )
@@ -14876,14 +14953,14 @@ Wielkie Księstwo Moskiewsko-Włodzimierskie ( Wielkie Księstwo Moskiewskie )
       			    	                                      przed 1472-? ( Ivan III wg D.B. )
       				                                          przed 1471-? ( Ivan III Vasilijevič wg E.P. )
                                                         ok.1475 ( wg Ř.S.J.Ď.S. )
+                                                        ?-1505 ( Ivan III The Great wg V.K.T.H.O.H.E. )
     Iwan Młody            	                            1471-1490 ( wg D.Ś. )
       				                                          1471-1490 ( ?-7.3. ) ( Ivan Ivanovič Mladý wg E.P. )
     Wasyl III                 	                        1505-1533 ( wg V.N.M.S.D. i D.Ś. )
       			        	                                  ? ( Vasil III wg D.B. ) ( Vasilij III wg Ř.S.J.Ď.S. )
     Iwan IV Groźny      	                              1533-1547 ( wg V.N.M.S.D. i D.Ś. )
                                                         ?-1547 ( Ivan IV Hrozný wg Ř.S.J.Ď.S. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg V.N.M.S.D. i D.Ś.
+                                                        ? ( Ivan IV Terrible wg V.K.T.H.O.H.E. )
    Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -14891,6 +14968,7 @@ Wielkie Księstwo Moskiewsko-Włodzimierskie ( Wielkie Księstwo Moskiewskie )
       Dějiny Byzance
       Encyklopedie panovníků
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Mosul
   Emirat Mosulu
@@ -16264,6 +16342,10 @@ Konfederacja Ottawów , Potawatomiów i Czippewejów
   Bibliografia :
       Wielcy Indianie Ameryki Północnej
 
+Bishopric of Ösel
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Paekcze
   Songmjong                                             ok.538 n.e.
   Bibliografia :
@@ -17169,81 +17251,94 @@ Polska
       Henryk IV Prawy ( Probus )	                      1288-1290 ( wg D.Ś. )
       Przemysł II                       	              1290-1291 ( wg D.Ś. )
                                                         1289-1296 ( wg V.N.M.S.D. )
+  Dynastia czeska
+    Wacław II              		                          1291-1300 ( wg D.Ś. )
+  Dynastia Piastów
     Władysław I Łokietek           	                    1305-1320 ( wg D.Ś. )
                                                         1296-1320 ( wg V.N.M.S.D. )
       				          	                              ? ( Vladislav I Lokýtek wg Z.S.A.V.E. )
-    Dynastia czeska
-      Wacław II              		                        1291-1300 ( wg D.Ś. )
-  Królestwo Polski
+  Królestwo Polski ( Kingdom of Poland )
     Dynastia Piastów
       Bolesław I Chrobry       	                        1025
       Mieszko II Lambert       	                        1025-1034 ( wg D.Ś. i V.N.M.S.D. )
                                                         przed 1027-po 1031 i przed 1033-1034 ( ? i ?-17.5. ) ( Měšek II Lambert wg Z.S.A.V.E. )
       Bolesław II Śmiały        	                      1076-1079 ( wg D.Ś. )
                                                         1076-1082 ( wg V.N.M.S.D. )
+    Dynastia czeska
+      Wacław II         		                            1300-1305 ( wg D.Ś. )
+                                                        1300-? ( Václav II wg Z.S.A.V.E. )
+    Dynastia Piastów
       Władysław I Łokietek    	                        1320-1333 ( wg D.Ś. i V.N.M.S.D. )
                                                         ? ( Władysław Łokietek wg O.K.C.J. )
-      Kazimierz III Wielki      	                      1333-1370 ( wg D.Ś. i V.N.M.S.D. ) ( Kazimír III Veliký wg D.P.I.R.G. )
+      Kazimierz III Wielki      	                      1333-1370 ( wg D.Ś. i V.N.M.S.D. ) ( Kazimír III Veliký wg D.P.I.R.G. ) ( Casimir The Great (Kazimierz III) wg V.K.T.H.O.H.E. )
       				 	                                        przed 1335-? ( Kazimierz Wielki wg K.R.I.C.R. )
       				 	                                        ?-1370 ( Kazimír Veliký wg Z.S.A.V.E. )
                                                         przed 1335-po 1364 ( Kazimierz Wielki wg O.K.C.J. )
-    Dynastia czeska
-      Wacław II         		                            1300-1305 ( wg D.Ś. )
-      		                		                          1300-? ( Václav II wg Z.S.A.V.E. )
     Dynastia andegaweńska
-      Ludwik          		                              1370-1382 ( wg D.Ś. i V.N.M.S.D. )
+      Ludwik          		                              1370-1382 ( wg D.Ś. i V.N.M.S.D. ) [King of Hungary]
       			      		                                  ? ( Ludvík Veliký wg Z.S.A.V.E. )
+                                                        ?-1382 ( Louis of Anjou wg V.K.T.H.O.H.E. )
       Jadwiga          		                              1383-1399 ( wg D.Ś. )
                                                		      1382-1399 ( wg V.N.M.S.D. )
                                                         ok.1400 ( wg O.K.C.J. )
+                                                        1382-1386 ( wg V.K.T.H.O.H.E. )
     Dynastia Jagiellonów
       Władysław II Jagiełło    	                        1386-1434 ( wg D.Ś. )
                                                         1399-1434 ( wg V.N.M.S.D. )
       					                                        1386-? ( Vladislav II Jagello wg Z.S.A.V.E. )
                                                         przed 1400-? ( Jagiełło wg O.K.C.J. )
-      Władysław III                	                    1434-1444 ( wg D.Ś. )
+                                                        1386-1434 (?.2.-?) ( Jogaila wg V.K.T.H.O.H.E. )
+      Władysław III                	                    1434-1444 ( wg D.Ś. ) ( Władysław III Warneńczyk (Ladislas Of Varna) wg V.K.T.H.O.H.E. )
                                                         1434-1445 ( wg V.N.M.S.D. )
       					                                        przed 1440-1444 ( ?-10.11. ) ( Vladislav II Jagellonský wg D.B. )
       					                                        ?-1444 ( Vladislav III Varnenčík wg Z.S.A.V.E. )
-      Kazimierz IV                 	                    1446-1492
-      Jan I Olbracht                	                  1492-1501 ( wg D.Ś. i V.N.M.S.D. )
+      Kazimierz IV                 	                    1446-1492 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1444/6-1492 ( Kazimierz III Jagiellończyk (Casimir Jagiellon, Casimir Jagiellończyk, Casimir IV Jagiellon) wg V.K.T.H.O.H.E. )
+      Jan I Olbracht                	                  1492-1501 ( wg D.Ś. i V.N.M.S.D. ) ( Jan Olbracht (John I Albert) wg V.K.T.H.O.H.E. )
                                                         przed 1499 ( Olbracht wg O.K.C.J. )
-      Aleksander                    	                  1501-1506
-      Zygmunt I Stary            	                      1506-1548 ( wg D.Ś. i V.N.M.S.D. )
+      Aleksander                    	                  1501-1506 ( wg D.Ś. i V.N.M.S.D. ) ( Alexander wg V.K.T.H.O.H.E. )
+      Zygmunt I Stary            	                      1506-1548 ( wg D.Ś. i V.N.M.S.D. ) ( Sigismund The Elder (Sigismund I) wg V.K.T.H.O.H.E. )
       			              	                            1507-1548 ( wg A. )
       					                                        przed 1520-? ( Zikmund I Starý wg E.P. )
                                                         przed 1525-? (10.5.-?) ( Zygmunt Stary wg O.K.C.J. )
-      Zygmunt II August        	                        1548-1572 ( wg D.Ś. i V.N.M.S.D. )
+      Zygmunt II August        	                        1548-1572 ( wg D.Ś. i V.N.M.S.D. ) ( Sigismund-Augustus (Sigismund II August) wg V.K.T.H.O.H.E. )
       					                                        przed 1571-? ( Zygmunt August wg B.M. )
                                                         ? ( Zygmunt August wg O.K.C.J. )
-    Henryk Walezy                     	                1573-1575
+    Henryk Walezy                     	                1573-1575 ( wg D.Ś. i V.N.M.S.D. ) ( Henri de Valois wg V.K.T.H.O.H.E. ) [King of France]
     Stefan Batory                       	              1576-1586 ( wg D.Ś. )
                                                         1575-1586 ( wg V.N.M.S.D. )
+                                                        1575/6-1586 ( Istvan Bathory (Stephen Bathory) wg V.K.T.H.O.H.E. )
       				                                          przed 1578-? ( Štěpán Báthory wg E.P. )
-    Zygmunt III Waza                 	                  1587-1632 ( wg D.Ś. i V.N.M.S.D. )
+    Zygmunt III Waza                 	                  1587-1632 ( wg D.Ś. i V.N.M.S.D. ) ( Sigismund III Vasa (Sigismund Vasa) wg V.K.T.H.O.H.E. )
                                                         przed 1595-? ( wg O.K.C.J. )
-    Władysław IV                        	              1632-1648 ( wg D.Ś. i V.N.M.S.D. )
+    Władysław IV                        	              1632-1648 ( wg D.Ś. i V.N.M.S.D. ) ( Władysław IV Waza (Ladislas IV Vasa) wg V.K.T.H.O.H.E. )
                                                         ? ( wg O.K.C.J. )
-    Jan II Kazimierz                    	              1648-1668
+    Jan II Kazimierz                    	              1648-1668 ( wg D.Ś. i V.N.M.S.D. ) ( Jan Kazimierz Waza (John Casimir Vasa, Jan Kazimierz Vasa) wg V.K.T.H.O.H.E. )
     Michał Korybut Wiśniowiecki	                        1669-1673 ( wg D.Ś. )
                                                         1669-1674 ( wg V.N.M.S.D. )
     Jan III Sobieski                      	            1674-1696 ( wg D.Ś. )
                                                         1674-1697 ( wg V.N.M.S.D. )
       				         	                                przed 1683-? ( wg M.Ś. ) ( Jan Sobieski wg Z.S.A.V.E. )
                                                         przed 1683-po 1685 ( wg O.K.C.J.)
-    August II Mocny                     	              1697-1704 i 1709-1733 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1673-1696 ( Jan Sobieski wg V.K.T.H.O.H.E. )
+    August II Mocny                     	              1697-1704 i 1709-1733 ( wg D.Ś. i V.N.M.S.D. ) [Elector of Saxony]
       				         	                                ?-1733 ( wg 100.N.V.S. )
       					                                        przed 1700-? ( August II Fridrich wg E.P. )
                                                         ? ( August II wg O.K.C.J. )
+                                                        1697-1733 ( August II The Strong wg V.K.T.H.O.H.E. )
     Stanisław Leszczyński           	                  1704-1709 i 1733-1736 ( wg D.Ś. )
-                                                        1704-1709 ( wg V.N.M.S.D. )
-                                                        ? ( Stanislas wg V.K.T.H.O.H.E. )
-    August III                                	        1733-1763 ( wg D.Ś. )
+                                                        1704-1709 ( wg V.N.M.S.D. ) ( Stanislas wg V.K.T.H.O.H.E. )
+    August III                                	        1733-1763 ( wg D.Ś. i V.K.T.H.O.H.E. ) [Elector of Saxony]
                                                         1733-1764 ( wg V.N.M.S.D. )
     Stanisław August Poniatowski	                      1764-1795 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1764-1795 (?-25.11.) ( Stanisław-August Poniatowski wg V.K.T.H.O.H.E. )
                                                         przed 1787-? ( Stanisław August wg O.K.C.J. )
       				     	                                    ? ( wg K.R.I.C.R. )
-  Józef Piłsudski			                                  1918-? ( 14.11.-? ) ( wg B.O.R.H. )
+  Polish Republic
+    Józef Piłsudski			                                1918-? ( 14.11.-? ) ( wg B.O.R.H. )
+                                                        1918-po 1920 ( wg V.K.T.H.O.H.E. )
+    premiers
+      Wincenty Witos                                    ? ( wg V.K.T.H.O.H.E. )
   Gomulka                                               przed 1960-? ( wg F.C.A.R.F. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
@@ -17265,13 +17360,16 @@ Polska
       O Krakowie Ci Ja!
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Księstwo Połockie
+Księstwo Połockie ( Principality of Polatsk )
+  Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
+  Izyaslav                                              ?-1001 n.e. ( wg V.K.T.H.O.H.E. )
   Dynastia Rurykowiczów
-    Wsiesław Briaczysławowicz	                          ?
-    Światopełk II Michał		                            ?
-    Izjasław II			                                    ?
+    Wsiesław Briaczysławowicz	                          ? ( wg D.Ś. )
+    Światopełk II Michał		                            ? ( wg D.Ś. )
+    Izjasław II			                                    ? ( wg D.Ś. )
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Połowcy ( Kipczakowie )
 
@@ -17535,27 +17633,35 @@ Hrabstwo Prowansji ( County of Provence )
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Prusy
-  Księstwo Prus
+  Księstwo Prus ( Duchy of Prussia )
     Dynastia Hohenzollernów
-      Albrecht                      	                  1525-1568 ( wg D.Ś. )
+      Albrecht                      	                  1525-1568 ( wg D.Ś. ) ( Albrecht von Hohenzollern wg V.K.T.H.O.H.E. )
                                                         przed 1525 (10.5.-?) ( Albrecht Hohenzollern wg O.K.C.J. )
-      Albrecht Fryderyk      	                          1568-1618
-  Królestwo Prus
+      Albrecht Fryderyk      	                          1568-1618 ( wg D.Ś. ) ( Albrecht Friedrich wg V.K.T.H.O.H.E. )
+      Johann Sigismund                                  1618-1619 ( wg V.K.T.H.O.H.E. )
+      Georg Wilhelm                                     1619/21-1640 ( wg V.K.T.H.O.H.E. ) [Elector of Brandenburg]
+      Frederick William I The Great Elector             1640-1657/88 ( Friedrich Wilhelm Der Grosser Kurfurst wg V.K.T.H.O.H.E. ) [Elector of Brandenburg]
+      Friedrich III                                     1688-1701 (?-18.1.) ( wg V.K.T.H.O.H.E. ) [Elector of Brandenburg]
+  Kingdom in Prussia ( Królestwo Prus )
     Dynastia Hohenzollernów
-      Fryderyk III ( I )           	                    1701-1713
-      Fryderyk Wilhelm I      	                        1713-1740 ( wg D.Ś. i V.N.M.S.D. i M.Ś. )
+      Fryderyk III ( I )           	                    1701-1713 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1701-1713 (18.1.-?) ( Frederick I (Friedrich I) wg V.K.T.H.O.H.E. )
+      Fryderyk Wilhelm I      	                        1713-1740 ( wg D.Ś. i V.N.M.S.D. i M.Ś. ) ( Frederick William I wg V.K.T.H.O.H.E. )
       			              	                            ?-1740 ( ?-25.5. ) ( wg 100.N.V.S. )
-      Fryderyk II Wielki        	                      1740-1786 ( 28.5.-17.8. ) ( wg 100.N.V.S. )
+      Frederick II The Great                            1740-1772 ( wg V.K.T.H.O.H.E. )
+  Kingdom of Prussia ( Królestwo Prus )
+      Fryderyk II Wielki        	                      1772-1786 ( Frederick The Great (Frederick II The Great) wg V.K.T.H.O.H.E. )
+                                                        1740-1786 ( 28.5.-17.8. ) ( wg 100.N.V.S. )
       					                                        1740-1786 ( wg D.Ś. i V.N.M.S.D. ) ( Fryderyk II Hohenzollern wg M.Ś. )
       				        	                                ? ( Fryderyk Wielki wg 100.N.U.W. ) ( Fridrich II wg V.F.V. )
-      Fryderyk Wilhelm II     	                        1786-1797
-      Fryderyk Wilhelm III    	                        1797-1840 ( wg D.Ś. , V.N.M.S:D. i M.Ś. )
-      Fryderyk Wilhelm IV		                            1840-1861( wg V.N.M.S.D. i D.Ś. i M.Ś. )
-      Wilhelm I                       	                1861-1871 ( wg V.N.M.S.D. i D.Ś. )
+      Fryderyk Wilhelm II     	                        1786-1797 ( wg D.Ś. i V.N.M.S.D. ) ( Frederick William II wg V.K.T.H.O.H.E. )
+      Fryderyk Wilhelm III    	                        1797-1840 ( wg D.Ś. i V.N.M.S.D. i M.Ś. ) ( Frederick William III wg V.K.T.H.O.H.E. )
+      Fryderyk Wilhelm IV		                            1840-1861( wg V.N.M.S.D. i D.Ś. i M.Ś. ) ( Frederick William IV wg V.K.T.H.O.H.E. )
+      Wilhelm I                       	                1861-1871 ( wg V.N.M.S.D. i D.Ś. ) [Emperor of Germany]
       				         	                                ? ( wg M.Ś. )
-  Uwagi :
-      Księstwo Prus wg D.Ś.
-      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
+                                                        1861-1888 ( William I wg V.K.T.H.O.H.E. )
+      Frederick III                                     1888 ( wg V.K.T.H.O.H.E. )
+      Wilhelm II ( William II )                         1888-1918 ( wg V.K.T.H.O.H.E. ) [Emperor of Germany]
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -17564,6 +17670,11 @@ Prusy
       Mocarstwa Świata
       Velikáni francouzské vědy
       O Krakowie Ci Ja!
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Pskov
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Pugam
   Bibliografia :
@@ -17667,6 +17778,10 @@ Księstwo Riazańskie
   Ivan Ivanovič 		                                    1500(1516)-1520
   Bibliografia :
       Encyklopedie panovníků
+
+Bishopric of Riga
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Ripa Thraciae
   Rhaskuporis III                                       ok.12 n.e.
@@ -18780,7 +18895,7 @@ Rzym
     								                                    475-476 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i S.C. )
     								                                    ?-476 ( wg D.R. i D.P.I.R.G. i D.B. i Ř.S.J.Ď.S. ) ( Romulus Augustus wg Ř.V.G. )
     								                                    ? ( wg H. ) ( Romulus Augustulus wg V.K.T.H.O.H.E. )
-    Cesarstwo Wschodniorzymskie
+    Cesarstwo Wschodniorzymskie ( Byzantine Empire )
       Dynastia Teodozjusza
         Flavius Arcadius ( Arkadiusz )            	    395-408 ( 17.1.-1.5. ) ( wg P.C.R. i K.R.I.C.R. )
     					         		                              395-408 ( wg V.N.M.S.D. , R.Z.A.D.D. , D.Ś. , A.Č. i Tapsella i D.R. ) ( Arkadios wg D.B. )
@@ -19180,7 +19295,7 @@ Saksonia
   Albrecht  Medvěd	                                    ?-1170 ( wg F.B.C.A.R. )
   Jindřich Lev                  	                      ? ( wg Z.S.A.V.E. )
                                                      	  przed 1147-po 1179 ( wg F.B.C.A.R. )
-  Księstwo Saksonii
+  Księstwo Saksonii ( Duchy of Saxony )
     Bernard         		                                1180-1212 ( wg D.Ś. )
       				                                          przed 1180-? ( wg F.B.C.A.R. )
       				                                          ? ( Bernhard wg Z.S.A.V.E. )
@@ -19196,7 +19311,8 @@ Saksonia
         Albrecht Odważny		                            1464-1500
         Jerzy Brodaty              	                    1500-1539
         Henryk Pobożny          	                      1539-1541
-  Elektorat Saksonii
+    Georg                                               ? ( wg V.K.T.H.O.H.E. )
+  Elektorat Saksonii ( Electorate of Saxony )
     Dynastia Wettinów
       Fryderyk IV ( I ) Kłótnik     		                1423-1428
       Fryderyk II Łagodny            		                1428-1464
@@ -19214,16 +19330,17 @@ Saksonia
       Jan Jerzy II                            	        1656-1680
       Jan Jerzy III                           	        1680-1691
       Jan Jerzy IV                           	          1691-1694
-      Fryderyk August I Mocny     		                  1694-1733 ( wg D.Ś. i V.N.M.S.D. )
-      				         		                              ?-1733 ( wg 100.N.V.S. )
+      Fryderyk August I Mocny     		                  1694-1733 ( wg D.Ś. i V.N.M.S.D. ) [King of Poland August II Mocny]
+      				         		                              ?-1733 ( wg 100.N.V.S. ) ( August II The Strong wg V.K.T.H.O.H.E. )
       						                                      przed 1700-? ( August II Fridrich wg E.P. )
-      Fryderyk August II                		            1733-1763 ( wg D.Ś. )
+      Fryderyk August II                		            1733-1763 ( wg D.Ś. ) ( August III wg V.K.T.H.O.H.E. ) [King of Poland August III]
                                                         1733-1764 ( wg V.N.M.S.D. )
       				        		                              1733-? ( wg 100.N.V.S. )
       Fryderyk Chrystian                	              1763 ( wg D.Ś. )
       Fryderyk August III ( I )        		              1763-1806  ( wg D.Ś. )
                                                         1764-1806 ( wg V.N.M.S.D. )
-  Królestwo Saksonii
+  Grand Duchy of Saxony
+  Królestwo Saksonii ( Kingdom of Saxony )
     Dynastia Wettinów
       Fryderyk August III ( I )	                        1806-1827
       Antoni                                 	          1827-1836
@@ -19242,6 +19359,7 @@ Saksonia
       100 nejvlivnějších vojevůdců světa
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Salamina
   Telamon		                                            ?
@@ -19803,14 +19921,14 @@ Siannu
   Bibliografia :
       Foiničané
 
-Siedmiogród
+Siedmiogród ( Transylvania )
   Vévodství Sedmihradské
     Jan Hunyady			                                    przed 1456-? ( wg K.H. )
   Księstwo Siedmiogrodu
     Jan Zygmunt Zápolya         	                      1570-1571
       				                                          ? ( Jan Zápolský wg K.H. )
-    Stefan Batory ( Báthory)    	                      1571-1576
-      					                                        ? ( wg K.H. )
+    Stefan Batory ( Báthory)    	                      1571-1576 ( wg D.Ś. )
+      					                                        ? ( wg K.H. ) ( Istvan Bathory wg V.K.T.H.O.H.E. )
     Krzysztof                            	              1576-1581
     Zygmunt                             	              1581-1599 i 1601-1602
     Andrzej                               	            1599
@@ -19835,6 +19953,7 @@ Siedmiogród
   Bibliografia :
       Dynastie Świata
       Karpatské hry
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Siejent'o
   Inan		                                              629-645 ( ?-?.10. )
@@ -20013,7 +20132,7 @@ Słowianie
 
 Smad-bod
 
-Księstwo Smoleńskie
+Księstwo Smoleńskie ( Principality of Smalensk, Smolensk )
   Dynastia Rurykowiczów
     Rościsław 		                                      ?
   Bibliografia :
@@ -20402,6 +20521,11 @@ Sudan
   Bibliografia :
       Encyklopedie panovníků
 
+Duchy of Sudermanland
+  Charles IX                                            ?-1611 [King of Sweden]
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Suhi
   Bibliografia :
       Starożytny Bliski Wschód
@@ -20427,15 +20551,17 @@ Suza ( Susa )
       Huryci
 
 Suzdal
-  Księstwo Suzdalskie
+  Księstwo Suzdalskie ( Principality of Vladimir-Suzdal )
     Dynastia Rurykowiczów
-      Jurij I Dołgoruki		                              ?
-      Aleksander III Wasylewicz	                        ?
+      Jurij I Dołgoruki		                              ? ( wg D.Ś. )
+                                                        przed 1147 n.e.-? ( Yuri Dolgorukiy wg V.K.T.H.O.H.E. )
+      Aleksander III Wasylewicz	                        ? ( wg D.Ś. )
   Wielkie Księstwo Suzdalskie
     Dynastia Rurykowiczów
-      Andrzej II  			                                ?
+      Andrzej II  			                                ? ( wg D.Ś. )
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Swebowie
   Ariowist         	                                    przed 65-po 60 ( wg D.R. )
@@ -20962,9 +21088,9 @@ Szwajcaria ( Swiss Confederation )
 
 Królestwo Szwecji
   Olaf Kálačka                                          ? ( wg S.M. )
-  Gorm                         		                      714-750
-  Ragnor Lodbrog       		                              750-ok.825
-  Regnard Lobrick       		                            ok.825-ok.865
+  Gorm                         		                      714-750 ( wg D.Ś. i V.N.M.S.D. )
+  Ragnor Lodbrog       		                              750-ok.825 ( wg D.Ś. i V.N.M.S.D. )
+  Regnard Lobrick       		                            ok.825-ok.865 ( wg D.Ś. i V.N.M.S.D. )
   Dynastia Ynglingów
     Eryk Zwycięski        		                          980-995 ( wg D.Ś. )
                                                      		966-994 ( wg V.N.M.S.D. )
@@ -21042,39 +21168,43 @@ Królestwo Szwecji
     Małgorzata                        	                1389-1412 ( wg Tapsella )
     Eryk XIII z Pomorza         	                      1412-1440 ( wg Tapsella )
     Krzysztof z Bawarii           	                    1440-1448 ( wg Tapsella )
-    Karol VIII Knutsson         	                      1448-1457 i 1464 -1465 i 1467-1470
+    Karol VIII Knutsson         	                      1448-1457 i 1464 -1465 i 1467-1470 ( wg D.Ś. i Tapsella )
     Chrystian I                        	                1457-1464 i 1465-1467 ( wg D.Ś. )
                                                         1457-1464 ( wg Tapsella )
     Sten Sture Starszy             	                    1471-1497 i 1501-1503 ( wg D.Ś. )
-    Jan II                                  	          1497-1501
+    Jan II                                  	          1497-1501 ( wg D.Ś. i Tapsella )
     Svante Nilsson ( Sture )	                          1504-1512 ( wg D.Ś. )
     Sten Sture Młodszy           	                      1512-1520 ( wg D.Ś. )
-    Chrystian II                       	                1520-1521
+    Chrystian II                       	                1520-1521 ( wg D.Ś. i Tapsella )
   Dynastia Wazów
-    Gustaw I ( Gustav Vasa )       	                    1523-1560
-    Eryk XIV                               	            1560-1568 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Erik XIV wg E.P. )
-    Jan III                                      	      1568-1592 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+    Gustaw I ( Gustav Vasa )       	                    1523-1560 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Gustavus I Vasa wg V.K.T.H.O.H.E. )
+    Eryk XIV                               	            1560-1568 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Erik XIV wg E.P. )
+    Jan III                                      	      1568-1592 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
       					                                        ? ( Johan III wg E.P. )
+                                                        1589-1592 ( John III Vasa wg V.K.T.H.O.H.E. )
     Zygmunt                                	            1592-1599 ( wg D.Ś. )
                                                         1592-1604 ( wg Tapsella ) ( III wg V.N.M.S.D. )
-    Karol IX                                	          1604-1611 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+                                                        1592-? ( Zygmunt III (Sigismund Vasa) wg V.K.T.H.O.H.E. )
+    Karol IX                                	          1604-1611 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Charles IX wg V.K.T.H.O.H.E. )
       				      	                                  ?-1611 ( wg 100.N.V.S. )
       					                                        ? ( Karel IX wg E.P. )
     Gustaw II Adolf                   	                1611-1632 ( ?-16.11. ) ( wg 100.N.V.S. )
-      				      	                                  1611-1632 ( wg D.Ś. i Tapsella i M.Ś. )
+      				      	                                  1611-1632 ( wg D.Ś. i Tapsella i M.Ś. ) ( Gustavus Adolphus wg V.K.T.H.O.H.E. )
                                                         1611-1633 ( wg V.N.M.S.D. )
     Krystyna                             	              1632-1654 ( wg D.Ś. i Tapsella )
                                                         1633-1654 ( wg V.N.M.S.D. )
   Dynastia z Palatynatu
-    Karol X Gustaw               	                      1654-1660 ( wg D.Ś. , V.N.M.S.D. i Tapsella i M.Ś. )
+    Karol X Gustaw               	                      1654-1660 ( wg D.Ś. i V.N.M.S.D. i Tapsella i M.Ś. )
       			             	                              przed 1658-? ( wg B.M. )
-    Karol XI                           	                1660-1697 ( wg D.Ś. , V.N.M.S.D. i Tapsella i M.Ś. )
+                                                        przed 1656-? ( Charles X Vasa wg V.K.T.H.O.H.E. )
+    Karol XI                           	                1660-1697 ( wg D.Ś. i V.N.M.S.D. i Tapsella i M.Ś. )
       			             	                              ?-1697 ( wg 100.N.V.S. )
     Karol XII                          	                1697-1718 ( ?-30.11. ) ( wg 100.N.V.S. )
       			             	                              1697-1718 ( wg D.Ś. i Tapsella i M.Ś. )
                                                         1697-1719 ( wg V.N.M.S.D. )
       					                                        przed 1700-po 1709 ( Karel XII wg E.P. )
       					                                        ? ( Karel XII Švédský wg B.O.R.H. )
+                                                        przed 1700-po 1709 ( Charles XII wg V.K.T.H.O.H.E. )
     Ulryka Eleonora               	                    1718-1720 ( wg D.Ś. i Tapsella )
                                                         1719-1741 ( wg V.N.M.S.D. )
       			              	                            1718-? ( wg 100.N.V.S. )
@@ -21088,19 +21218,17 @@ Królestwo Szwecji
     Karol XIII                 		                      1809-1818
   Dynastia Bernadotte
     Karol XIV                		                        1818-1844
-    Oskar I                     		                    1844-1859 ( wg D.Ś. , Tapsella i V.N.M.S.D. )
+    Oskar I                     		                    1844-1859 ( wg D.Ś. i Tapsella i V.N.M.S.D. )
       					                                        ? ( wg E.P. )
-    Karol XV                 		                        1859-1872 ( wg E.P. , D.Ś. , V.N.M.S.D. i Tapsella )
-    Oskar II                    		                    1872-1907 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+    Karol XV                 		                        1859-1872 ( wg E.P. i D.Ś. i V.N.M.S.D. i Tapsella )
+    Oskar II                    		                    1872-1907 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
       					                                        1872-1907 ( ?-8.12. ) ( wg E.P. )
       					                                        przed 1889-? ( Oscar II wg V.F.V. )
     Gustaw V                 		                        1907-1950
     Gustaw VI Adolf     		                            1950-1973
     Karol XVI Gustaw   		                              1973-?
   Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. , V.N.M.S.D. i Tapsella
-      Dynastia Duńska wszystko oprócz oznaczonego wg D.Ś. i Tapsella
-      Przed Dynastią Ynglingów wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
+      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D. i Tapsella
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -21113,6 +21241,7 @@ Królestwo Szwecji
       Bílý orel, rudá hvězda
       Velikáni francouzské vědy
       Severské mýty
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Państwo Szyrwanszachów
   Muhammad ibn Jazid		                                ? ( wg R.Z.A.D.D. )
@@ -23200,6 +23329,7 @@ Węgry
                                                         1173-1196 ( wg V.N.M.S.D. i E.P. )
       			              	                            przed 1184-po 1189 ( wg F.B.C.A.R. )
       				       	                                  ? ( wg D.B. )
+                                                        przed 1189-? ( Bela II wg V.K.T.H.O.H.E. )
       Emeryk                          	                1196-1204
       Władysław III                	                    1204-1205 ( wg D.Ś. )
       Andrzej II                       	                1205-1235 ( wg D.Ś. i V.N.M.S.D. )
@@ -23220,9 +23350,10 @@ Węgry
                                                      	  1301-1342 ( wg V.N.M.S.D. )
       			        	                                  1308-1342 ( Karel Robert wg D.P.I.R.G. )
       				                                          przed 1330-? ( Karel I Robert wg E.P. )
-      Ludwik I Wielki    	                              1342-1382 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík I Veliký wg D.P.I.R.G. )
+      Ludwik I Wielki    	                              1342-1382 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík I Veliký wg D.P.I.R.G. ) [King of Poland]
       			        	                                  przed 1366-? ( Ludvík wg D.B. )
       				                                          ? ( Ludvík Veliký wg Z.S.A.V.E. )
+                                                        ?-1382 ( Louis of Anjou wg V.K.T.H.O.H.E. )
       Maria                  	                          1382-1385 i 1386-1395 ( wg D.Ś. )
                                                       	1382-1392 ( wg V.N.M.S.D. )
       Karol II z Durazzo	                              1385-1386 ( wg D.Ś. )
@@ -23232,9 +23363,27 @@ Węgry
       		            	                                1387-? ( Zikmund wg Z.S.A.V.E. )
     Dynastia habsburska
       Albrecht Austriacki             	                1437-1439 ( wg D.Ś. i V.N.M.S.D. ) ( Albrecht Habsburský wg D.P.I.R.G. )
+    Dynastia Jagiellonów
+      Władysław I           	                          1440-1444 ( wg D.Ś. ) ( Władysław III Warneńczyk wg V.K.T.H.O.H.E. )
+      			       	                                    przed 1440-1444 ( ?-10.11. ) ( Vladislav II Jagellonský wg D.B. )
+    Dynastia habsburska
       Władysław V Pogrobowiec	                          1445-1457 ( wg D.Ś. )
       				         	                                ?-1458 ( Ladislav Pohrobek wg D.P.I.R.G. )
       Jan                                     	        1445-1458 ( wg V.N.M.S.D. )
+    Dom Hunyadi
+      Maciej I Korwin      	                            1458-1490 ( wg D.Ś. i V.N.M.S.D. ) ( Matyáš Korvín wg D.P.I.R.G. )
+    Dynastia Jagiellonów
+      Władysław II          	                          1490-1516 ( wg V.N.M.S.D. i D.Ś. ) ( Ladislas Jagiellon wg V.K.T.H.O.H.E. ) [King of Bohemia]
+                                                        1490-? ( Vladislav II wg Z.S.A.V.E. )
+      Ludwik II                	                        1516-1526 ( wg V.N.M.S.D. i D.Ś. ) ( Louis II wg V.K.T.H.O.H.E. ) [King of Bohemia]
+                                                        ?-1526 ( ?-29.8. ) ( wg 100.N.V.S. i D.P.I.R.G. )
+                                                        ?-1526 ( Ludvík wg Z.S.A.V.E. )
+    Dom Zápolya ( Szápolyai )
+      Jan                   	                          1526-1540 ( wg D.Ś. )
+                                                        ? ( Jan Zapolya wg V.K.T.H.O.H.E. )
+      				                                          1526-? ( ?.11.-? ) ( Jan Zápolský wg D.P.I.R.G. )
+      Jan Zygmunt   	                                  1540-1570 ( wg D.Ś. )
+    Dynastia habsburska
       Ferdynand I                       	              1526-1564 ( wg D.Ś. i V.N.M.S.D. )
       					                                        1526-1564 ( ?-25.7. ) ( Ferdinand I Habsburský wg E.P. )
       Maksymilian                      	                1564-1576
@@ -23251,20 +23400,6 @@ Węgry
       Józef I                             	            1705-1711
       Karol III                           	            1711-1740
       Maria Teresa                    	                1740-1780
-    Dynastia Jagiellonów
-      Władysław I           	                          1440-444 ( wg D.Ś. )
-      			       	                                    przed 1440-1444 ( ?-10.11. ) ( Vladislav II Jagellonský wg D.B. )
-      Władysław II          	                          1490-1516 ( wg V.N.M.S.D. i D.Ś. )
-      			       	                                    1490-? ( Vladislav II wg Z.S.A.V.E. )
-      Ludwik II                	                        1516-1526 ( wg V.N.M.S.D. i D.Ś. )
-      			        	                                  ?-1526 ( ?-29.8. ) ( wg 100.N.V.S. i D.P.I.R.G. )
-      			        	                                  ?-1526 ( Ludvík wg Z.S.A.V.E. )
-    Dom Hunyadi
-      Maciej I Korwin      	                            1458-1490 ( wg D.Ś. i V.N.M.S.D. ) ( Matyáš Korvín wg D.P.I.R.G. )
-    Dom Zápolya ( Szápolyai )
-      Jan                   	                          1526-1540 ( wg D.Ś. )
-      				                                          1526-? ( ?.11.-? ) ( Jan Zápolský wg D.P.I.R.G. )
-      Jan Zygmunt   	                                  1540-1570 ( wg D.Ś. )
     Dynastia habsbursko-lotaryńska
       Józef II                      	                  1780-1790
       Leopold II                 		                    1790-1792 ( wg D.Ś. )
@@ -23287,6 +23422,7 @@ Węgry
       Fridrich Barbarossa – císař a rytíř
       Encyklopedie panovníků
       Karpatské hry
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Wideha
   Dżanaka	                                              ?
@@ -23802,7 +23938,7 @@ Zirih-Garan
 Państwo Zirydów
   Bibliografia : Říše slova - Jazykové dějiny světa
 
-Złota Orda ( Chanat Kipczacki )
+Złota Orda ( Chanat Kipczacki, Golden Horde )
   Dynastia Czyngizydów
     Batu                      	                        1227-1255 ( wg D.Ś. i I.M. )
   				                                              przed 1241-po 1248 ( Batu-chan wg E.P. )
