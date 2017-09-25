@@ -942,11 +942,311 @@ Belgia
             - Reserve forestiere du Ticton A - primeval beech forest
         Spa
             - lazne
+        Brugge
+            - Belfort van Brugge
+            - Beguinage de Bruges
+            - historic centre
+            - Procession of the Holy Blood
+        Diksmuide
+            - Stadhuis met Belfort
+            - La crypte de la Tour de l’Yser
+        Kortrijk
+            - Het Belfort of Halletoren
+            - Beguinage de Kortrijk 
+        Lo
+            - Voormalig Stadhuis met Belfort 
+        Menen
+            - Belfort en Stadhuis
+        Nieuwpoort
+            - Stadshal met Belfort
+            - Le monument aux disparus du Commonwealth Nieuport Memorial
+        Roeselare
+            - Stadhuis, Stadshal en Belfort 
+        Tielt
+            - Hallentoren belfry, Cloth Hall and Aldermen's Chamber
+        Veurne
+            - Landhuis met Belfort 
+        Ieper
+            - Belfort met Lakenhal
+            - Le cimetiere militaire du Commonwealth Essex Farm Cemetery
+            - Le cimetiere militaire du Commonwealth Welsh Cemetery(Caesar’s Nose)
+            - Le cimetiere militaire du Commonwealth No Man’s Cot Cemetery
+            - Le cimetiere militaire du Commonwealth Track X Cemetery
+            - Le cimetiere militaire du Commonwealth Buff’s Road Cemetery
+            - Le monument aux disparus du Commonwealth Menin Gate
+            - Le cimetiere militaire du Commonwealth Bedford House Cemetery
+        Zwarte Leen
+            - Le cimetiere militaire du Commonwealth Larch Wood Cemetery
+            - Le cimetiere militaire du Commonwealth Woods Cemetery
+            - Le cimetiere militaire du Commonwealth 1st D.C.L.I. Cemetery, the Bluff
+            - Le cimetiere militaire du Commonwealth Hedge Row Trench Cemetery
+        Aalst
+            - Belfort en Schepenhuis
+            - Carnival of Aalst
+        Dendermonde
+            - Stadhuis met Belfort 
+            - Beguinage de Dendermonde 
+            - Ros Beiaard of Dendermonde
+        Eeklo
+            - Stadhuis met Belfort 
+        Gent
+            - Belfort, Lakenhal en Mammelokker
+            - Petit Beguinage de Gent
+            - Beguinage de Sint-Amandsberg 
+            - historic centre
+        Oudenaarde
+            - Stadhuis met Belfort
+        Antwerpen
+            - Cathedral of Our Lady
+            - Stadhuis
+            - Plantin-Moretusmuseum
+            - Maison Guiette
+            - historic centre
+        Herentals
+            - Voormalig Stadhuis / Lakenhal 
+        Lier
+            - Stadhuis en Belforttoren
+            - Beguinage de Lier
+        Mechelen
+            - Sint-Romboutskathedraal
+            - Old Cloth Hall with Belfry
+            - Grand Beguinage de Mechelen
+            - Ommegang of Mechelen 
+        Leuven
+            - St. Peter's Church and tower
+            - Grand Beguinage of Leuven 
+            - historyczne budynki Katholieke Universiteit Leuven
+            - Leuven age set ritual repertoire
+        Tienen
+            - Sint-Germanuskerk met Stadstoren 
+        Zoutleeuw
+            - Sint-Leonarduskerk
+        Sint-Truiden
+            - Stadhuis met Toren
+            - Beguinage de Sint-Truiden 
+        Tongeren
+            - Onze-Lieve-Lievevrouwebasiliek met Stadstoren 
+            - Beguinage de Tongeren 
+        Binche
+            - Beffroi de l'Hotel de Ville de Binche
+            - Carnival of Binche
+        Charleroi
+            - Beffroi de l'Hotel de Ville de Charleroi 
+            - Marcinelle - Bois du Cazier - kopalnia
+            - Jumet - Le Tour de la Madeleine
+        Mons
+            - Beffroi de Mons
+            - Ducasse de Mons
+        Thuin
+            - Beffroi de Thuin
+            - Marche Saint-Roch
+        Tournai
+            - Beffroi de Tournai 
+            - Notre-Dame de Tournai
+        Gembloux
+            - Beffroi de Gembloux
+        Namur
+            - Beffroi de Namur  
+            - Citadel of Namur
+        Hoogstraten
+            - Beguinage de Hoogstraten
+        Turnhout
+            - Beguinage de Turnhout
+        Diest
+            - Beguinage de Diest 
+        Bruksela
+            - La Grand-Place
+            - Hotel Solvay
+            - Hotel Tassel
+            - Hotel van Eetvelde
+            - Maison & Atelier Horta
+            - Stoclet Palace
+            - Galeries Royales Saint-Hubert
+            - Bloemenwerf house
+            - Palais de Justice
+            - Meyboom of Brussels
+        Hornu
+            - Grand-Hornu - kopalnia i miasteczko robotnicze
+        Houdeng-Aimeries
+            - Bois-du-Luc - kopalnia i miasteczko robotnicze
+            - Canal du Centre - Ascenseur no.2
+            - Canal du Centre - Ascenseur no.3
+        Blegny
+            - Blegny-Mine    
+        Spiennes
+            - Neolithic flint mines of Spiennes
+        Houdeng-Goegnies
+            - Canal du Centre - Ascenseur no.1
+        Thieu
+            - Canal du Centre - Ascenseur no.4
+        Liege
+            - Palais des Princes-Eveques
+            - Cimetiere militaire de Robermont
+        Waterloo
+            - Battlefield of Waterloo monuments
+            - Panorama de la Bataille de Waterloo
+        Dinant
+            - Citadel of Dinant
+        Huy
+            - Citadel of Huy
+        Hoge Kempen National Park
+        Merksplas
+            - Merksplas Kolonie
+        Wortel
+            - Wortel Kolonie 
+        Koekelare
+            - Le cimetiere militaire allemand de Vladslo
+        Alveringem
+            - Le cimetiere militaire belge d’Oeren
+        Houthulst
+            - Le cimetiere militaire belge d’Houthulst
+        Langemark
+            - Cimetiere militaire allemand de Langemark
+            - Saint Julien Canadian (2nd battle of Ypres) Memorial
+        Zonnebeke
+            - Le cimetiere militaire du Commonwealth Tyne Cot Cemetery
+            - Le cimetiere militaire du Commonwealth Polygon Wood Cemetery
+            - Le cimetiere militaire du Commonwealth Buttes New British Cemetery
+        Kemmel
+            - L’ossuaire francais Mont Kemmel 
+            - Le cimetiere militaire du Commonwealth Lindehoek Chalet Military Cemetery
+        Wijtschate
+            - Le cimetiere militaire du Commonwealth Spanbroekmolen British Cemetery
+            - Le cimetiere militaire du Commonwealth Lone Tree Cemetery
+        Poperinge
+            - Le cimetiere militaire du Commonwealth Lijssenthoek Military Cemetery
+        Ans
+            - Fort de Loncin
+        Rossignol
+            - Cimetiere du Plateau
+            - Cimetiere de l’Oree de la Foret
+        Bellefontaine
+            - Cimetiere du Radan
+        Sambreville
+            - Cimetiere et enclos des Fusilles a Tamines
+        Aiseau-Presles
+            - Cimetiere francais de la Belle-Motte
+        Saint-Symphorien
+            - Cimetiere militaire de Saint-Symphorien
+        Wulvergem
+            - Saint-Quentin Cabaret Cemetery
+            - Ration Farm Cemetery
+            - Plus douve Farm Cemetery
+        Ploegsteert
+            - Underhill Farm Cemetery
+            - Hyde Park Corner Cemetery
+            - Berks Cemetery Extension
+            - Prowse Point Military Cemetery
+            - Mud Corner Cemetery
+            - Toronto Avenue Cemetery
+            - Ploegsteert Wood Military Cemetery
+            - Rifle House Cemetery
+            - Lancaster Cottage Cemetery
+            - Strand Military Cemetery
+            - Ploegsteert Churchyard
+            - London Rifle Brigade Cemetery
+            - Gunners Farm Cemetery
+            - Calvaire(Essex) Farm Cemetery
+        Armentieres-Le Bizet
+            - Motor Car Corner Cemetery
+            - Tancrez Farm Military Cemetery
+            - Touquet Railway Crossing Cemetery   
+        Sint-Lievens-Houtem
+            - Houtem Jaarmarkt
+        Geraardsbergen
+            - Krakelingen and Tonnekensbrand
+        Oostduinkerke
+            - Shrimp fishing on horseback in Oostduinkerke
+        Ath
+            - Ducasse d'Ath
+        Acoz
+            - La marche Saint-Roch et Saint-Frego
+        Biesmeree
+            - The Marche Saint-Pierre in Biesmeree
+        Florennes
+            - Marche Saints-Pierre-et-Paul
+        Fosses-La-Ville
+            - Marche Saint-Feuillen
+        Gerpinnes
+            - Marche Sainte-Rolende
+        Ham-sur-Heure-Nalinnes
+            - Marche Saint-Roch 
+        Laneffe
+            - Marche Saint-Eloi
+        Morialme
+            - Marche Saint-Pierre
+        Silenrieux
+            - Marche Sainte-Anne
+        Tarcienne
+            - La marche Saint-Fiacre
+        Thy-le-Chateau
+            - La marche Saints Pierre et Paul
+        Villers-Deux-Eglises
+            - Marche Saint-Pierre
+        Walcourt
+            - La marche de la Trinite    
 Slovenia
         Borovec pri Kocevski reki
             - Krokar virgin forest
         Sneznik natural reserve
             - Sneznik-Zdrocle - primeval beech forest
+        Matavun
+            - Skocjanske jame
+        Idrija
+            - stare miasto
+            - mercury smelting plant
+            - mercury mine
+            - Kamst water pump 
+            - Rake water channel
+            - Kobila dam
+            - Putrihove klavze
+            - Brusove klavze
+        Gorenja Kanomlja
+            - Kanomeljske ali Ovcjaske klavze
+        Vojsko
+            - Klavze na Idrijci
+        Dolenji Novaki
+            - Partizanska bolnica Franja
+        Ljubljana
+            - Crna Vas - Cerkev sv. Mihaela
+            - Promenade along the Embankments and Bridges of the Ljubljanica River
+            - Vegova Street with the National and University Library
+            - Garden of All Saints in Zale Cemetery
+            - Cerkev sv. Franciska
+        Ig
+            - Kolišča na Igu - prehistoric pile dwellings
+        Kranjska Gora
+            - Ruska kapelica
+        Log pod Mangartom
+            - Avstro-ogrsko vojasko pokopalisce iz prve svetovne vojne
+        Kobarid
+            - Italijanska kostnica
+        Ladra
+            - Italijanska vojaska kapela iz prve svetovne vojne
+        Dresniske Ravne
+            - Zaprikraj - remains of front-line from WW1
+        Tolmin
+            - Nemska kostnica
+            - Muzej na prostem Mengore
+        Cadrg
+            - Cerkev sv. Duha na Javorci
+        Nova Gorica
+            - Sabotin - WW1 museum
+            - Solkan - Avstro-ogrsko vojasko pokopalisce iz prve svetovne vojne
+            - Railway station
+            - Zelezniske delavnice
+            - Vodni stolp
+            - railway bridge over Soca
+        Bohinjska zeleznica
+        Stanjel
+            - Crpalisce za vodo v Podlazih
+            - Vojasko pokopalisce iz prve svetovne vojne
+        Baca pri Modreju
+            - railway bridge
+        Gorjansko
+            - Avstro-ogrsko vojasko pokopalisce iz prve svetovne vojne
+        Crnice
+            - Avstro-ogrsko vojasko pokopalisce iz prve svetovne vojne
 Chorwacja
         Nacionalni park Sjeverni Velebit
             - Hajdučki i Rožanski kukovi - primeval beech forest
@@ -959,6 +1259,77 @@ Francja
             - stare miasto
         Vichy 
             - lazne
+        Armentieres
+            - Beffroi de l’Hotel de Ville d’Armentieres 
+        Bailleul
+            - Beffroi de l’Hotel de Ville de Bailleul 
+        Bergues
+            - Beffroi de Bergues
+        Cambrai
+            - Beffroi de l’eglise St-Martin de Cambrai 
+        Comines
+            - Beffroi de l’Hotel de Ville de Comines
+        Douai
+            - Beffroi de l’Hotel de Ville de Douai
+            - Gayant festival
+        Dunkerque
+            - Beffroi de l’Hotel de Ville de Dunkerque
+            - Beffroi de l’eglise St-Eloi de Dunkerque
+        Gravelines
+            - Beffroi de Gravelines
+        Lille
+            - Beffroi de l’Hotel de Ville de Lille
+            - Loos - Beffroi de l’Hotel de Ville de Loos
+        Aire-sur-la-Lys
+            - Beffroi de l’Hotel de Ville
+        Arras
+            - Beffroi de l’Hotel de Ville d’Arras
+        Bethune
+            - Beffroi de Bethune 
+        Boulogne-sur-Mer
+            - Beffroi de l’Hotel de Ville de Boulogne
+        Calais
+            - Beffroi de l’Hotel de Ville de Calais  
+        Hesdin
+            - Beffroi de l’Hotel de Ville d’Hesdin
+        Abbeville
+            - Beffroi d’Abbeville 
+        Amiens
+            - Beffroi d’Amiens 
+        Doullens
+            - Belfry of the former Municipal Hall
+        Lucheux
+            - Beffroi de porte de Lucheux 
+        Rue
+            - Beffroi de Rue 
+        Saint-Riquier
+            - Beffroi de Saint-Riquier  
+        Paryz
+            - Maison La Roche
+            - Maison Jeanneret
+            - Immeuble Molitor
+        Bordeaux
+            - Cite Fruges 
+        Poissy
+            - Villa Savoye       
+        Marsylia
+            - Cite radieuse
+        Saint-Die-des-Vosges
+            - Manufacture a Saint-Die des Vosges - Usine Duval
+        Ronchamp
+            - Chapelle Notre-Dame-du-Haut de Ronchamp
+        Roquebrune-Cap-Martin
+            - Cabanon de Le Corbusier    
+        Eveux
+            - Couvent Sainte-Marie-de-la-Tourette    
+        Firminy
+            - Maison de la Culture de Firminy
+        Cassel
+            - parade of giants
+        Pezenas
+            - Le Poulain de Pezenas
+        Tarascon
+            - festival of Tarasque
 Italia
         Parco Nazionale d'Abruzzo, Lazio e Molise
             - Valle Cervara	- primeval beech forest
@@ -1026,9 +1397,21 @@ Hiszpania
         Parque Nacional de Picos de Europa
             - Cuesta Fria - primeval beech forest
             - Canal de Asotin - primeval beech forest
+        Almaden
+            - stare miasto
+            - San Rafael Royal Hospital for Miners
+            - Plaza de Toros
+            - archeological site Royal Forced Labour Gaol
+            - mercury mine
+            - Retamar Castle
 Wielka Brytania
         Bath
             - lazne
+Szwjacaria
+        Vevey
+            - Villa Le Lac
+        Genewa
+            - Immeuble Clarte
 Rosja
         Sewastopol
             - Ruins of Tauric Chersonesos
@@ -1045,5 +1428,16 @@ Rosja
             - archeological site
         Eski-Kermen
             - archeological site
+Argentyna
+        La Plata
+            - Casa Curutchet
+Japonia
+        Tokyo
+            - National Museum of Western Art
+Indie
+        Chandigarh
+            - Chandigarh Capitol Complex
 Multi-Country
         Struve Geodetic Arc
+        Roman road from Bavay to Tongeren
+        The Walk of Peace from Alps to Adriatic
