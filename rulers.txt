@@ -2737,7 +2737,7 @@ Bastarnowie
 
 Batawowie
 
-Republika Batawska
+Republika Batawska ( Batavian Republic )
   Bibliografia :
       Mocarstwa Świata
 
@@ -5047,6 +5047,10 @@ Chuza´a
 Chytros
   Bibliografia :
       Foiničané
+
+Cisalpine Republic
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Cispadane Republic
   Bibliografia :
@@ -7462,12 +7466,14 @@ Związek Etolski
   Bibliografia :
       Starożytne Cywilizacje
 
-Królestwo Etrurii
+Królestwo Etrurii ( Kingdom of Etruria )
   Dynastia burbońska
-    Ludwik I                                	          1801-1803
-    Ludwik II ( Karol Ludwik )	                        1803-1807
+    Ludwik I                                	          1801-1803 ( wg D.Ś. )
+                                                        1801-1803 (?-?.5.) ( Lodovico di Borbone (Louis de Bourbon, Lodovico I, Louis I d'Étrurie) wg V.K.T.H.O.H.E. )
+    Ludwik II ( Karol Ludwik )	                        1803-1807 ( wg D.Ś. ) ( Carlo Luigi (Charles-Louis, Carlo Lodovico II) wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Euboja
   Tynnondas		                                          ?
@@ -7884,7 +7890,7 @@ Francja
 			       	                                          przed 1855-po 1870 ( wg M.Ś. )
 				                                                ? ( wg V.R.M. i K. )
 				                                                przed 1865-1870 ( wg V.F.V. )
-                                                        1852-po 1870 ( wg V.K.T.H.O.H.E. )
+                                                        1852-po 1870 ( Charles Louis-Napoleon Bonaparte wg V.K.T.H.O.H.E. )
   Third Republic
   Raymond Poincaré	                                    ok.1915 ( wg V.F.V. )
   Alexandre Millerand	                                  przed 1921-? ( wg B.O.R.H. )
@@ -8474,6 +8480,10 @@ Gruzja
       Dějiny Byzance
       Encyklopedie panovníků
       Dzieje dawnych Turków
+
+Guastalla
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Guatemala
   Jacobo Arbenz                                         przed 1952-po 1954 ( ?.6.-14.6. )
@@ -9338,9 +9348,10 @@ Holandia
       Jakobina              	                          1417-1433
     Marguerite de Dampierre                             ? [Countess of County-Palatinate of Burgundy]
     Charles de Téméraire ( Karel de Stoute )            1467-1477 (?-5.1.) ( wg V.K.T.H.O.H.E. ) [Duke of Burgundy]
-  Królestwo Holandii
+  Królestwo Holandii ( Kingdom of Holland )
     Dynastia Bonaparte
       Ludwik Napoleon  	                                1806-1810 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+                                                        ? ( Luigi (Louis) wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś. i Tapsella
   Bibliografia :
@@ -12261,7 +12272,8 @@ Kościół
     Pius VI ( Gianangelo Braschi )                     	1775-1800 ( wg Tapsella i V.N.M.S.D. )
                                                         przed 1798-po 1799 (?-28.3.) ( wg V.K.T.H.O.H.E. )
     Pius VII ( Luigi Barnaba Chiaramonti )             	1800-1823 ( wg Tapsella i V.N.M.S.D. i V.K.T.H.O.H.E. )
-    Leon XII ( Annibale della Genga )                 	1823-1829
+    Leon XII ( Annibale della Genga )                 	1823-1829 ( wg Tapsella i V.N.M.S.D. )
+                                                        ? ( Leo XII wg V.K.T.H.O.H.E. )
     Pius VIII ( Francesco Saverio Castiglioni )        	1829-1831
     Grzegorz XVI ( Bartolomeo Alberto Cappellari )	    1831-1846 ( wg Tapsella I V.N.M.S.D. )
       						                                      przed 1836-? ( Řehoř XVI wg O.L. )
@@ -12843,6 +12855,10 @@ Księstwo Leh
   Bibliografia :
       Dzieje dawnych Turków
 
+Lemanic Republic
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Lemnos
   Lykaretos                                             ok.509 p.n.e.
   Bibliografia :
@@ -13060,6 +13076,10 @@ Bishopric of Liege
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
+Ligurian Republic
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Limburg
   Hrabstwo Limburga
     Waleran I               	                          1064-1081
@@ -13150,6 +13170,7 @@ Lokryda Ozolska
 Lombardia
   Kingdom of The Lombards
     Rudolf II                                           923-?
+  Lombardic Republic
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -13295,13 +13316,16 @@ Luhuti
   Bibliografia :
       Starożytny Bliski Wschód
 
-Księstwo Lukki ( Lucca )
-  Feliks Baciocchi                        	            1805-1814
-  Maria Anna ( Eliza ) Bonaparte	                      1805-1814
-  Maria Luiza Bourbon                  	                1817-1824
-  Karol Ludwik                              	          1824-1847
+Księstwo Lukki ( Duchy of Lucca )
+  Feliks Baciocchi                        	            1805-1814 ( wg D.Ś. )
+  Maria Anna ( Eliza ) Bonaparte	                      1805-1814 ( wg D.Ś. )
+                                                        przed 1807-po 1814( Maria-Anna (Elisa) wg V.K.T.H.O.H.E. )
+  Maria Luiza Bourbon                  	                1817-1824 ( wg D.Ś. )
+                                                        1815-1824 ( Maria-Luisa wg V.K.T.H.O.H.E. )
+  Karol Ludwik                              	          1824-1847 ( wg D.Ś. )
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Luksemburg
   Hrabstwo Luksemburga
@@ -15990,12 +16014,13 @@ Obodrzyce
 
 Królestwo Obojga Sycylii ( Kingdom of The Two Sicilies )
   Dynastia burbońska
-    Ferdynand I           	                            1816-1825 ( wg D.Ś. )
-    Franciszek I           	                            1825-1830
+    Ferdynand I           	                            1816-1825 ( wg D.Ś. ) ( Ferdinando I wg V.K.T.H.O.H.E. )
+    Franciszek I           	                            1825-1830 ( wg D.Ś. i V.N.M.S.D. ) ( Francesco I wg V.K.T.H.O.H.E. )
     Ferdynand II          	                            1830-1859 ( wg D.Ś. i V.N.M.S.D. )
-                                                        przed 1860-? ( Ferdinand II (King Bomba) wg V.K.T.H.O.H.E. )
+                                                        1830-1855 ( Ferdinand II (King Bomba, Ferdinando II) wg V.K.T.H.O.H.E. )
     Franciszek II		                                    1859-1860 ( wg D.Ś. )
                                                     	  ok.1860 ( wg 100.N.V.S. )
+                                                        1855-1861 ( Francesco II wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
   Bibliografia :
@@ -16549,7 +16574,7 @@ Państwo Paramarów
       Starověká Indie
 
 Parma
-  Księstwo Parmy
+  Księstwo Parmy ( Duchy of Parma )
     Dynastia Farnese
       Pier Luigi      	                                1545-1547
       Ottavio          	                                1547-1586
@@ -16559,19 +16584,24 @@ Parma
       Ranuccio II   	                                  1646-1694
       Francesco    	                                    1694-1727
       Antonio         	                                1727-1731
-    Dynastia Burbońska
-      Karol I          	                                1731-1736
-      Filip              	                              1748-1765
-      Ferdynand    	                                    1765-1802
+  Duchy of Parma and Piacenza
+    Dynastia Burbońska ( The Bourbons )
+      Karol I          	                                1731-1736 ( wg D.Ś. )
+                                                        1731-1735 ( Carlos I wg V.K.T.H.O.H.E. ) [King of Spain Carlos III]
+      Filip              	                              1748-1765 ( wg D.Ś. ) ( Felipe wg V.K.T.H.O.H.E. )
+      Ferdynand    	                                    1765-1802 ( wg D.Ś. ) ( Ferdinando wg V.K.T.H.O.H.E. )
     Dynastia habsbursko-lotaryńska
-      Maria Ludwika     	                              1814-1847
-    Dynastia Burbońska
-      Karol II         	                                1847-1849
-      Karol III        	                                1849-1854
-      Robert           	                                1854-1859
+      Maria Ludwika     	                              1814-1847 ( wg D.Ś. ) ( Maria-Luisa wg V.K.T.H.O.H.E. )
+    Dynastia Burbońska ( The Bourbons )
+      Karol II         	                                1847-1849 ( wg D.Ś. ) ( Carlos III wg V.K.T.H.O.H.E. )
+      Karol III        	                                1849-1854 ( wg D.Ś. ) ( Carlos IV wg V.K.T.H.O.H.E. )
+      Robert           	                                1854-1859 ( wg D.Ś. ) ( Roberto wg V.K.T.H.O.H.E. )
   Grand Duchy of Parma
+  Uwagi :
+      Wszyatko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Paros
   Bibliografia :
@@ -16772,7 +16802,7 @@ Pekcze
   Bibliografia :
       Dzieje dawnych Turków
 
-Pekoci
+Pekoci ( Pequoci, Pequot )
   Samoset	                                              przed 1621 n.e.-? ( wg W.I.A.P. )
   Sasacus      	                                        przed 1636-po 1637 ( wg V.R.M. )
   Bibliografia :
@@ -16805,10 +16835,6 @@ Peoriowie
 Peparethos
   Bibliografia :
       Dzieje Grecji
-
-Pequoci ( Pequot )
-  Bibliografia :
-      Czarne wampuny głoszą wojnę
 
 Księstwo Perejasławskie
   Dynastia Rurykowiczów
@@ -17166,6 +17192,10 @@ Phi-Mai
   Bibliografia :
       Khmerové
 
+Piacenza
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Pieczyngowie
 
 Principality of Piedmont
@@ -17224,7 +17254,8 @@ Piktowie
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Piombino
+Principality of Piombino
+  Maria-Anna ( Elisa )                                  ?
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -19231,6 +19262,7 @@ Rzym
                                                         1448-1453 ( XIII wg V.N.M.S.D. )
     					                                          ?	( XIII wg D.R. )
     				        	                                  1449-1453 ( ?-29.5. ) ( Konstantinos XI Palaiologos wg D.B. )
+  Roman Republic (after 1797)
   Roman Republic (1848-1849)
   Uwagi :
       Wszystko oprócz oznaczonego w Królestwo Rzymu wg V.N.M.S.D. i D.R.
@@ -21175,7 +21207,9 @@ Szwabia
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
 
-Szwajcaria ( Swiss Confederation )
+Szwajcaria
+  Swiss Confederation
+  Helvetian Republic
   Bibliografia :
       Mocarstwa Świata
       Fidel & Che - A Revolutionary Friendship
@@ -23370,9 +23404,11 @@ West Ukrainian Socialist Republic
 
 Królestwo Westfalii
   Dynastia Bonaparte
-    Hieronim Napoleon                                   1807-1813
+    Hieronim Napoleon                                   1807-1813 ( wg D.Ś. )
+                                                        ? ( Girolamo ( Jerôme ) wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Wetulonia
   Bibliografia :
