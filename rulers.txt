@@ -862,27 +862,29 @@ Anglia
       Jerzy II       	                                  1727-1760 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
 			                                                  ? ( wg W.I.A.P. )
                                                         przed 1749-? ( wg C.W.G.W. )
-      Jerzy III      	                                  1760-1801 (wg D.Ś. , V.N.M.S.D. i Tapsella )
+      Jerzy III      	                                  1760-1801 (wg D.Ś. , V.N.M.S.D. i Tapsella ) ( George III wg V.K.T.H.O.H.E. )
 		          	                                        ok.1745 ( wg D.R. )
 		          	                                        przed 1775-po 1783 ( wg W.I.A.P. )
 			                                                  ? ( wg 100.N.U.W. )
 		          	                                        przed 1776-? ( wg M.Ś. )
   Zjednoczone Królestwo Wielkiej Brytanii i Irlandii
     Dynastia hanowerska
-      Jerzy III       	                                1801-1820 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+      Jerzy III       	                                1801-1820 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( George III wg V.K.T.H.O.H.E. )
 			                                                  ? ( wg 100.N.U.W. )
       Jerzy IV    	                                    1820-1830 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+                                                        1820-1830 (29.1.-?) ( George IV (Frédéric Auguste) wg V.K.T.H.O.H.E. )
 			                                                  ? ( wg W.I.A.P. )
                                                         przed 1822-? ( George IV wg V.K.T.H.O.H.E. )
-      Wilhelm IV	                                      1830-1837
-      Wiktoria    	                                    1837-1901 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. ) ( Victoria wg V.K.T.H.O.H.E. )
+      Wilhelm IV	                                      1830-1837 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( William IV wg V.K.T.H.O.H.E. )
+      Wiktoria    	                                    1837-1901 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Victoria (Alexandrine Victoire) wg V.K.T.H.O.H.E. )
+			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. )
     Dynastia Sachsen-Coburg-Gotha
       Edward VII         	                              1901-1910 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
                                                         ? ( wg V.K.T.H.O.H.E. )
       Jerzy V                	                          1910-1917
     Dynastia Windsor
-      Jerzy V                	                          1917-1936
+      Jerzy V                	                          1917-1936 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+                                                        ?-1936 ( George V wg V.K.T.H.O.H.E. )
       Edward VIII         	                            1936
       Jerzy VI               	                          1936-1952
       Elżbieta II            	                          1952-1953 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
@@ -2903,17 +2905,19 @@ Belarus
 Belgia
   Królestwo Belgii
     Dynastia Sachsen-Coburg-Gotha
-      Leopold I         	                              1831-1865
+      Leopold I         	                              1831-1865 ( wg D.Ś. i V.N.M.S.D. )
+                                                        ? ( Leopold wg V.K.T.H.O.H.E. )
       Leopold II        	                              1865-1909 ( wg D.Ś. i V.N.M.S.D. )
                                                         przed 1885-? ( Leopold wg Ř.S.J.Ď.S. )
-      Albert I             	                            1909-1934
-      Leopold III		                                    1934 -1951
-      Baudouin          	                              1951-1993
+      Albert I             	                            1909-1934 ( wg D.Ś. i V.N.M.S.D. )
+      Leopold III		                                    1934-1951 ( wg D.Ś. i V.N.M.S.D. )
+      Baudouin          	                              1951-1993 ( wg D.Ś. i V.N.M.S.D. )
       Albert II            	                            1993-? ( wg D.Ś. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Bellontowie
 
@@ -3943,6 +3947,10 @@ Księstwo Capua ( Kapua )
       Dějiny Byzance
 
 County of Cardona
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Republic of Carpatho-Ukraine
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -5057,6 +5065,10 @@ Cispadane Republic
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Bishopric of Cleves
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Duchy of Coburg
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -8408,6 +8420,10 @@ Gortys
   Bibliografia :
       Zrození Řecka
 
+Duchy of Gotha ( Duchy of Saxe-Gotha )
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Goulas
   Bibliografia :
       Dzieje Grecji
@@ -8814,13 +8830,15 @@ Hanower
   Elektorat Hanoweru
     Ernest August		                                    1679-1698 ( wg D.Ś. )
                                                   	    1692-1698 ( wg V.N.M.S.D. )
-    Jerzy Ludwik        	                              1698-1727
-  Królestwo Hanoweru
-    Ernest August       	                              1837-1851
-    Jerzy V                  	                          1851-1866
+    Jerzy Ludwik        	                              1698-1727 ( wg D.Ś. i V.N.M.S.D. )
+  Królestwo Hanoweru ( Kingdom of Hanover )
+    George III                                          1760-1820 ( wg V.K.T.H.O.H.E. ) [King of Great Britain George III]
+    Ernest August       	                              1837-1851 ( wg D.Ś. i V.N.M.S.D. ) ( Ernest Augustus wg V.K.T.H.O.H.E. )
+    Jerzy V                  	                          1851-1866 ( wg D.Ś. i V.N.M.S.D. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Imperium Harszy
   Dynastia Wardhana
@@ -17992,7 +18010,7 @@ Rosja ( Russia )
       									                                ?	( wg B.O.R.H )
       Mikołaj II                                       	1894-1917  ( wg V.N.M.S.D. i D.Ś. )
       								  	                              1895-1917 ( 26.5.-? ) ( wg 100.N.V.S. )
-      								        	                        ? ( wg M.Ś. )
+      								        	                        ? ( wg M.Ś. ) ( Nicholas II wg V.K.T.H.O.H.E. )
       									                                przed 1914-? ( Mikuláš wg B.O.R.H. )
                                                         przed 1899-? ( Mikuláš II wg Ř.S.J.Ď.S. )
   Russian Federation
