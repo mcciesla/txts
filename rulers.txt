@@ -2748,7 +2748,7 @@ County of Baux
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Bawaria
-  Kingdom of Bawaria
+  Kingdom of Bavaria
     Louis The German                                    ?-875 n.e. ( wg V.K.T.H.O.H.E. )
   Leopold         	                                    899-ok.940 ( wg V.N.M.S.D. )
   Ludolf            	                                  ? ( wg Z.S.A.V.E. )
@@ -2862,7 +2862,7 @@ Bawaria
       Linia na Zweibrücken
         Maksymilian IV ( I )    	                      1799-1806 ( wg D.Ś. )
                                                         1799-1805 ( wg V.N.M.S.D. )
-  Królestwo Bawarii
+  Królestwo Bawarii ( Kingdom of Bavaria )
     Dynastia Wittelsbachów
       Linia na Zweibrücken
         Maksymilian IV ( I )	                          1806-1825  ( wg D.Ś. )
@@ -5068,18 +5068,24 @@ Bishopric of Cleves
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Duchy of Coburg
+Duchy of Coburg ( Duchy of Saxe-Coburg-Saalfeld, Duchy of Saxe-Saalfeld-Coburg )
+  Francis Frederick (François)                          ?-1806 n.e.
+  Ernst III                                             1806-1844 (9.12.-?) [Duke of Saxe-Coburg-Gotha Ernst I]
+  Ernst II                                              1844-1893 ( Ernest Auguste Charles Jean Léopold Alexandre Edouard wg V.K.T.H.O.H.E. ) [Duke of Saxe-Coburg-Gotha Ernst II]
+  Charles Edward                                        ? [Duke of Saxe-Coburg-Gotha]
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Księstwo Coburg-Gotha
+Księstwo Coburg-Gotha ( Duchy of Saxe-Coburg-Gotha, Duchy of Saxe-Coburg and Gotha, Das Herzogtum Sachsen-Coburg und Gotha )
   Dynastia Wettinów
-    Ernest I              	                            1806-1844
-    Ernest II             	                            1844-1893
-    Alfred                	                            1893-1900
-    Karol Edward		                                    1900-1918
+    Ernest I              	                            1806-1844 ( wg D.Ś. )
+                                                        1826-1844 ( Ernst I wg V.K.T.H.O.H.E. )
+    Ernest II             	                            1844-1893 ( wg D.Ś. ) ( Ernst II (Ernest Auguste Charles Jean Léopold Alexandre Edouard) wg V.K.T.H.O.H.E. )
+    Alfred                	                            1893-1900 ( wg D.Ś. )
+    Karol Edward		                                    1900-1918 ( wg D.Ś. )
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 County of Conflent
   Bibliografia :
@@ -8420,7 +8426,12 @@ Gortys
   Bibliografia :
       Zrození Řecka
 
-Duchy of Gotha ( Duchy of Saxe-Gotha )
+Duchy of Gotha ( Duchy of Saxe-Gotha, Duchy of Saxe-Gotha-Altenburg )
+  Auguste                                               ?
+  Frédérick IV                                          1822 n.e.-? (17.5.-?)
+  Ernst I                                               1826-1844 [Duke of Saxe-Coburg-Gotha Ernst I]
+  Ernst II                                              1844-1893 ( Ernest Auguste Charles Jean Léopold Alexandre Edouard wg V.K.T.H.O.H.E. ) [Duke of Saxe-Coburg-Gotha Ernst II]
+  Charles Edward                                        ?
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -17875,6 +17886,10 @@ Rečen ( Upper Retenu )
   Bibliografia :
       Říše slova - Jazykové dějiny světa
 
+Principality of Reuss
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Rheged
   Coel Hen ( Old King Cole )                            ?-ok.420 n.e.
   Urien ( Urbigenus )                                   przed 590-?
@@ -19713,6 +19728,19 @@ Sawau
   Bibliografia :
       Ostrovy lidojedů
 
+Duchy of Saxe-Altenburg
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Duchy of Saxe-Meiningen
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Duchy of Saxe-Teschen
+  Albrecht                                              przed 1819 n.e.-?
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Państwo Sátaváhanów
   Simuka                             	                  ok.235-ok.213
   Siri-Sátakani                     	                  ok.194-ok.185
@@ -19735,6 +19763,14 @@ Schleswig
   Knut Lavard 	                                        ?
   Bibliografia :
       Encyklopedie panovníků
+
+Principality of Schwarzburg-Rudolstadt
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Principality of Schwarzburg-Sondershausen
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Scytowie
   Partatu ( Prototeusz )	                              ok.670 p.n.e. ( wg A.Č. )
