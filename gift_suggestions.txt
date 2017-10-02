@@ -2,6 +2,7 @@ books - Life's Ratchet - Peter M. Hoffmann
       - The Vital Question: Energy, Evolution, and the Origins of Complex Life - Nick Lane
       - The History of Western Philosophy - Bertrand Russell
       - Unpopular Essays - Bertrand Russell
+      - Other Minds : The Octopuss and The Evolution of Intelligent Life - Peter Godfrey Smith
       - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Dynasties of the World: A Chronological and Genealogical Handbook - John E. Morby
       - Black Robe - Brian Moore
@@ -59,6 +60,7 @@ books - Life's Ratchet - Peter M. Hoffmann
       - The Algortihm Design Manual - Steven S. Skiena
       - Compilers: Principles, Techniques, and Tools, Alfred V. Aho, Monica S. Lam, Ravi Sethi and Jeffrey D. Ullman
       - Combinatorial Problems and Exercises - Laszlo Lovasz
+      - The Center Cannot Hold : My Journey Through Madness - Elyn R. Saks
       - Real World Haskell - Bryan O'Sullivan, John Goerzen, Donald Bruce Stewart
       - D Web Development - Kai Nacke
       - The Village Effect - Susan Pinker
