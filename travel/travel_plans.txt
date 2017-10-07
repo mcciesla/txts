@@ -1247,12 +1247,185 @@ Slovenia
             - Avstro-ogrsko vojasko pokopalisce iz prve svetovne vojne
         Crnice
             - Avstro-ogrsko vojasko pokopalisce iz prve svetovne vojne
+        Podgrajsko podolje
+            - Odolina blind valley
+            - Jezerina blind valley 
+            - Raciska Dana blind valley
+        Divaca
+            - Kacna jama
+        Postojna
+            - Postojna Cave
+            - Pivka Cave
+            - Otoska jama
+            - Crna jama
+        Planina
+            - Planinska jama
+            - Planina polje
+        Predjama
+            - Jama pod Predjamskim gradom
+            - Predjama Castle
+        Pivka intermittent lakes
+        Cerknisko polje
+            - Cerknisko jezero
+        Podsteberk
+            - Krizna jama
+        Zelse
+            - Zelske jame
+            - Mali naravni most
+            - Tkalca jama
+            - Veliki naravni most
 Chorwacja
         Nacionalni park Sjeverni Velebit
             - Hajdučki i Rožanski kukovi - primeval beech forest
         Nacionalni park Paklenica
             - Suva draga-Klimenta - primeval beech forest
             - Oglavinovac-Javornik - primeval beech forest 
+        Plitvicka jezera
+        Split
+            - Palac Dioklecjana
+            - historic centre
+            - Diocletian aqueduct
+        Solin
+            - Diocletian aqueduct
+        Dubrovnik
+            - stare miasto
+            - Festivity of Saint Blaise
+        Porec
+            - Eufrazijeva bazilika complex
+        Trogir
+            - historic city
+        Sibenik
+            - Katedrala sv. Jakova
+        Lovrec
+            - Velika i Mala Crljivica - stecci
+        Dubravka
+            - St. Barbara - stecci
+        Zadar
+            - Venetian defensive system
+            - cathedral of St. Anastasia
+            - Roman forum and ruins of the temple
+            - church of St. Donatus
+            - palac arcybiskupa
+            - Zmajevic seminary
+            - crkva Sv. Ilije
+            - Benedictine nunnery with the church of St. Mary
+            - The Gold and Silver of Zadar
+            - muzeum archeologiczne 
+        Zablace
+            - Tvrdava svetog Nikole
+        Ston
+            - Mali Ston
+            - walls connecting Ston and Mali Ston
+            - nature reserve of Mali Ston Bay
+            - Stonsko polje
+            - salt pans
+            - stare miasto
+        Osijek
+            - fortress Tvrda
+        Varazdin
+            - old town with the castle
+            - historic centre
+                            - church of St. Nicholas
+                            - Ursulinska crkva
+                            - Franjevacka crkva
+                            - crkva Uznesenja Blazene Djevice Marije - Jesuit church
+            - crkva Sv. Florijana
+            - Kapucinska crkva
+            - St. Vid church
+        Hum Kosnicki
+            - Castle of Veliki Tabor
+        Lonjsko Polje Nature Park
+        Velebit
+        Lubenice
+            - stare miasto
+        Primosten
+            - Bucavac Veliki wineyards
+        Nerezisca
+            - Hermitage Blaca
+        Motovun
+            - stare miasto
+        Korcula
+            - stare miasto
+        Kornati National Park
+        Telascica Nature Park
+        Kastav
+            - Annual carnival bell ringers pageant
+        Pag
+            - lacemaking
+        Hvar
+            - Hvar
+                - lacemaking
+            - Stari Grad Plain
+            - procession Za Krizen 
+        Lepoglava
+            - lacemaking
+        Gorjani
+            - Godisnji proljetni ophod kraljice/Ljelje
+        Marija Bistrica
+            - traditional manufacturing of children wooden toys
+            - licitars - gingerbread
+        Sinj
+            - Sinjska alka
+        Omis
+            - 
+Bosnia i Hercegovina
+        Stolac
+            - Radimlja necropolis - stecci
+        Glavaticevo
+            - Grcka glavica - stecci
+        Krekovi
+            - Kalufi nekropolis - stecci
+        Burati
+            - Borak - stecci
+        Seona
+            - Nekropola sa steccima Maculje
+        Ponor
+            - Dugo polje - stecci
+        Gvozno
+            - Nekropola stecaka Gvozno polje
+        Bileca
+            - Baljci - stecci
+        Staje
+            - stecci
+        Kladanj
+            - Nekropola sa steccima Olovci
+        Olovo
+            - Mramor in Musici - stecci
+        Ilovaca
+            - Kucarin in Hrancici - stecci
+        Boljuni
+            - Nekropola stecaka I i II Boljuni
+        Umoljani
+            - Stecci Umoljani
+        Sokolac
+            - Nekropola Stecaka Luburica polje
+        Berkovici
+            - Potkuk in Bitunja - stecci
+        Sekovici
+            - Becani - stecci
+        Dikanj Vakuf
+            - Mramor in Vrbica - stecci
+        Ravnice
+            - Nekropola Sa Steccima Cengica Bara
+        Donje Ravno
+            - Ravanjska vrata - stecci 
+        Visegrad
+            - Mehmed Pasa Sokolovic Bridge
+        Mostar
+            - Old Bridge and surroundings
+Montenegro
+        Novakovici
+            - Grcko groblje - stecci 
+            - Bare Zugica - stecci
+        Scepan Polje
+            - Grcko groblje - stecci
+Serbia
+        Perucac
+            - Mramorje - stecci
+        Sedaljka
+            - Mramorje - stecci
+        Hrta
+            - Grcko groblje - stecci
 Francja
         Conques
         Annecy
@@ -1348,6 +1521,12 @@ Italia
         Parco Nazionale delle Foreste Casentinesi
         Montecatini-Terme
             - lazne
+        Bergamo
+            - fortified city of Bergamo - Citta Alta
+        Peschiera del Garda
+            - fortified city of Peschiera del Garda
+        Palmanova
+            - fortified city of Palmanova
 Albania
         Lumi i gashit
             - primeval beech forest

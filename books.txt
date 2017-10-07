@@ -53,6 +53,7 @@ Ursula K. Le Guin - The Dispossessed
 Adam Bahdaj - Pilot i ja
 Andrzej Szczypiorski - Msza za miasto Arras
 Daniel Keyes - Flowers for Algernon
+Henryk Sienkiewicz - W pustyni i w puszczy
 Jan Brzechwa - Zwierzyniec (as whole collection of poems)
 Janina Porazińska - Kozucha Kłamczucha
 John Christopher - The Death of Grass
@@ -247,6 +248,7 @@ POP.SCIENCE :
         Dobytí říše Inků ; John Hemming
         Duel v Pacifiku ; Hrowe H. Saunders
         Dynastie Świata ; John E. Morby
+        Dywizjon 303 ; Arkady Fiedler
         Dzieje dawnych Turków ; Lew Gumilow
         Dzieje Grecji ; N.G.L. Hammond
         Dzieje Rzymu ; Max Cary , Howard Hayes Scullard
@@ -352,9 +354,11 @@ POP.SCIENCE :
         Pohled z vrcholu ; Edmund Hillary
         Rio de Oro ; Arkady Fiedler
         Ryby śpiewają w Ukajali ; Arkady Fiedler
+        Śladami Stasia i Nel ; Marian Brandys
         The Mountains of My Life ; Walter Bonatti
         W Ussuryjskim Kraju ; Wladimir K. Arsenjew
         Wspinaczka ; Anatolij Bukriejew , G. Weston DeWalt
+        Wyspa kochających lemurów ; Arkady Fiedler
         Zdobywamy Amazonkę ; Arkady Fiedler
         Zwierzęta z lasu dziewiczego ; Arkady Fiedler
     PSYCHOLOGIA:
@@ -675,6 +679,7 @@ De Loisel , Regis ; Le Tendre , Serge - Muszla Ramora - POL
 Defoe , Daniel - Robinson Crusoe - CZ
 Dick , Philip K. - Sní androidi o elektrických ovečkách - CZ
                  - Ubik - O
+Dobkiewiczowa , Kornelia - Ofka z Kamiennej Góry - O
 Dumas , Aleksander - Trzej muszkieterowie - POL
 Dušková , Danielle - Žák Voříšek má radary - O
 Dvořáček , Karel - O utopcach - POL
@@ -861,6 +866,7 @@ Kierst , Jerzy - Czy to Kraków - O
 Kincl , Jaromír; Krum , Gustav - Tarzanův návrat - O
 Kingston , W.H.G. - Tułacze - POL
 Kinnan-Rawlings , Marjorie - Roczniak - POL
+Kipling , Rudyard - Księga dżungli - POL
 Kochanowski , Jan - Odprawa posłów greckich - O
                   - Treny - O
 Kolberg , O - Jak chłop wygrał zakład z panem - O
@@ -1381,7 +1387,11 @@ Sanders , Charles Wesley - Czarny gość - POL
 Scisłowski , Włodzimierz ; Mrowiński , Stanisław - Tańczące grządki - O
 Shakespeare , William - Makbet - POL
 Sienkiewicz , Henryk - Latarnik - O
+                     - Ogniem i mieczem - O
+                     - Pan Wołodyjowski - O
                      - Potop - O
+                     - W pustyni i w puszczy - O
+                     - Za chlebem - O
 Sláma , František - Śpiący rycerze - POL
 Słowacki , Juliusz - S vámi jsem život žil ... - CZ
                    - Z pamiętnika Zofii Bobrówny - O
