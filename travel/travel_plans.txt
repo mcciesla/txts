@@ -122,7 +122,8 @@ Polska
         Pustynia Bledowska
         Czestochowa
             - Jasna Gora
-        Olsztyn pod Czestochowa - Ruiny zamku krolewskiego
+        Olsztyn pod Czestochowa 
+            - Ruiny zamku krolewskiego
         Bielsko Biala
         Jawor 
             - Kosciol Pokoju
@@ -1367,10 +1368,8 @@ Chorwacja
         Sinj
             - Sinjska alka
         Omis
-            - 
+            - Klapa festival
 Bosnia i Hercegovina
-        Stolac
-            - Radimlja necropolis - stecci
         Glavaticevo
             - Grcka glavica - stecci
         Krekovi
@@ -1379,8 +1378,6 @@ Bosnia i Hercegovina
             - Borak - stecci
         Seona
             - Nekropola sa steccima Maculje
-        Ponor
-            - Dugo polje - stecci
         Gvozno
             - Nekropola stecaka Gvozno polje
         Bileca
@@ -1413,12 +1410,141 @@ Bosnia i Hercegovina
             - Mehmed Pasa Sokolovic Bridge
         Mostar
             - Old Bridge and surroundings
+        Sarajevo
+        Zavala
+            - Vjeternica cave
+        Jajce
+            - temple of Mitras
+            - Katakombe
+            - church of St Mary with St Luke bell tower
+            - Esma Sultana mosque
+            - Okic mosque
+            - Women mosque
+            - Ibrahim beg/Pijavice mosque
+            - Samic mosque
+            - church of the Blessed Virgin Mary and the Franciscan monastery
+            - Church of Nativity of the Most Holy Mother of God
+            - Banjalucka kapija
+            - Mala Tabija
+            - Travnicka kapija
+            - Medvjed kula
+            - Samic tabija
+            - fortress with the Clock Tower
+            - tower at Dzikovac
+            - Papaz tower
+            - Mracna kapija
+            - Velika tabija
+            - mury miejskie
+            - cemetery in Varosnice
+            - Dizdareva kuca
+            - Krslakova/Kapetanovica kuca
+            - Krslakova stara kuca
+            - Omerbegova kuca
+            - Buriceva kuca
+            - Mulalic kuca - Dervish tekija and musafirhana
+            - Saraceva kuca/Sarenica
+            - The old elementary school building
+            - The finance building
+            - Hafizadica cesma
+            - cesma outside the Sinan beg mosque
+            - AVNOJ Museum
+        Pocitelj
+            - Mosque of Sisman Ibrahim-pasa
+            - medresa
+            - hamam - the baths
+            - Han of Sisman Ibrahim-pasa - the inn
+            - Sahat-kula - clock tower
+            - dom Gavrankapetanovicow
+            - fort
+        Blagaj
+            - Mali grad
+            - Stjepan grad
+            - Careva dzamija
+            - Blagaj Tekke
+            - The Church of St Basil of Ostrog
+            - The Mekteb by the Careva mosque
+            - The Karadoz-beg hammam
+            - The Karadoz-beg bridge
+            - Lehina cuprija bridge
+            - The mills by the Tekke
+            - The mills in the Velagic complex
+            - The Kolakovic house
+            - The Velagic house
+            - The Kosic tower
+        Blidinje nature park
+            - Blidinje lake - stecci - Jezero
+            - Diva Grabovica gorge
+            - Barzonja - stecci
+            - Ponor 
+                    - Brcanj - stecci
+                    - Dugo polje - stecci
+            - Donje Bare - stecci
+            - Risovac - Suho polje - stecci
+            - Križevi-Striževo - stecci
+            - Humac-Striževo - stecci
+            - Sritna njiva-Donja Drežnica - stecci
+            - Lokve-Donja Jablanica - stecci
+        Nature Reserve Perucica
+        Stolac
+            - Badanj Cave - archeological site
+            - Daorson - archeological site
+            - Radimlja necropolis - stecci
+            - Vrsnik hillfort
+            - Tvrdjava Stolac
+            - Osanici 
+                - Crkva Svetog Petra i Pavla
+                - Moše Danon tomb and havra
+            - Inat Cuprija bridge
+            - Podgradska cuprija
+            - Sara Kasikovic bridge
+            - Ada quarter of the city
+                - Opijač house
+            - Carsijska dzamija and Carsija quarter
+            - Dzamija Ismail Kapetana Sarica
+            - Dzamija Hadzi Alije Hadzisalihovica
+            - Dzamija Hadzi Saliha Bure
+            - Begovina
+            - Dulhanumina house
+            - Orthodox church of the Ascension of Christ
+            - mekteb Ibtidaija
+            - Crkva svetog Ilije
+            - hammam - the baths
+            - Sahat kula - clock tower
+            - Sarica kuca
+        Trijebanj
+            - Crkva svetog Nikole
+        Zmijanje
+            - embroidery
 Montenegro
         Novakovici
             - Grcko groblje - stecci 
             - Bare Zugica - stecci
         Scepan Polje
             - Grcko groblje - stecci
+        Durmitor National Park
+        Cetinje
+            - Cetinjski Manastir with the Church of the Nativity of the Blessed Virgin Mary
+            - Biljarda
+            - King Nicola Palace
+            - remains of the Crnojevics Monastery at Cipur
+            - Vladin dom
+            - Montenegrin Royal Theater Zetski dom
+            - Danilo I Hospital
+            - Blue Palace
+            - the Royal Chapel Cipur
+            - Academy of Music - building of the English diplomatic mission to the former Kingdom of Montenegro
+            - National Library of Montenegro Durde Crnojevic - French diplomatic mission to the former Kingdom of Montenegro
+            - Tomb of Prince Danilo at Orlov krs
+            - Relief of Montenegro
+            - University of Montenegro Faculty of Fine Arts - building of the Russian  diplomatic mission to the former Kingdom of Montenegro
+            - Vlaska crkva
+            - State Archives of Montenegro
+            - Drzavna Apoteka
+            - Tablja
+            - Academy of Dramatic Arts - building of the Turkish diplomatic mission to the former Kingdom of Montenegro
+        Podgorica
+            - Doclea and necropolis
+        Biogradska gora National Park
 Serbia
         Perucac
             - Mramorje - stecci
@@ -1426,6 +1552,123 @@ Serbia
             - Mramorje - stecci
         Hrta
             - Grcko groblje - stecci
+        Pazariste
+            - Stari Ras
+            - Sopocani monastery
+        Usce
+            - Studenica Monastery
+        Gamzigrad
+            - Felix Romuliana
+        Derdap National Park
+            - Iron Gate
+        Golubac
+            - Cuppae archeological site
+            - Golubac fortress
+            - Golubac fortress archeological site and remains of Roman road 
+        Deliblatska pescara Nature reserve
+        Zebica
+            - Davolja Varos
+        Tara National Park
+            - Drina gorge
+            - Brusnica gorge
+            - Derventa gorge
+        Prekopcelica
+            - Caricin Grad
+        Despotovac
+            - Manasija Monastery
+        Bac
+            - The Bac Fortress
+            - Franciscan Monastery
+            - St Paul Roman Catholic Church
+            - convent of nuns of the Notre Dame
+            - Remains of a Turkish bath - hammam
+        Bodjani
+            - The Serbian Orthodox Monastery of Bodjani
+        Rajac
+            - Rajacke Pivnice
+        Rogljevo
+            - Rogljevske Pivnice
+        Negotin
+            - Stubicke Pivnice
+        Smederevo
+            - Smederrevo fortress
+        Banostor
+            - Malata Bononia archeological site
+        Begec
+            - Castellum Onagrinum archeological site
+        Petrovaradin
+            - Cusum archeological site 
+        Stari Slankamen
+            - Acumincum archeological site
+        Belegis
+            - Surduk - Rittium archeological site
+        Beograd
+            - Taurunum archeological site
+            - Singidunum archeological site
+            - Visnjica - Ad Octavum fortification archeological site
+        Ritopek
+            - Tricornium archeological site
+        Seone
+            - Aureus Mons archeological site
+        Dubravica
+            - Margum archeological site
+        Selo Kostolac
+            - Viminacium archeological site
+        Ram
+            - Lederataе archeological site
+        Brnjica
+            - Roman archeological site
+        Boljetin
+            - Velike livadice archeological site
+            - Male livadice archeological site - watch tower remains
+        Miroc
+            - remains of Roman fortress Gerulata
+        Golubinje
+            - Veliko Golubinje archeological site - small watch tower remains
+            - Malo Golubinje archeological site - small fortification with towers
+        Tekija
+            - Hajducka vodenica archeological site
+            - Tabula Traiana
+        Sip
+            - Roman fort west from the mouth of the Kacajna River
+            - Diana Zanes archeological site
+        Kladovo
+            - Donje Butorke archeological site - Roman fort remains
+            - Fetislam fortress with Roman fortification remains
+        Kostol
+            - Castellum Pontes and Traian bridge archeological site
+        Rtkovo
+            - remains of Roman fort
+        Vajuga
+            - remains of Roman fort
+        Milutinovac
+            - remains of Roman fort
+        Ljubicevac
+            - remains of Roman fort
+        Brza Palanka
+            - Egeta archeological site
+        Slatina
+            - Usce slatinske reke archeological site
+        Mihajlovac
+            - Clevora archeological site
+            - Mora Vagei archeological site
+        Dusanovac
+            - Bordej archeological site - remains of Roman fortification
+            - Kusjak archeological site - remains of Roman fortification
+        Prahovo
+            - Aquae archeological site
+        Srbovo
+            - Dorticum archeological site
+Kosovo
+        Decan
+            - Decani monastery
+        Pec
+            - Patriarchate of Pec
+        Prizren
+            - Our Lady of Ljevis
+        Gracanice
+            - Gracanica Monastery
+        Sar planina National Park
 Francja
         Conques
         Annecy
@@ -1468,7 +1711,8 @@ Francja
         Abbeville
             - Beffroi d’Abbeville 
         Amiens
-            - Beffroi d’Amiens 
+            - Beffroi d’Amiens
+            - katedra 
         Doullens
             - Belfry of the former Municipal Hall
         Lucheux
@@ -1482,7 +1726,11 @@ Francja
             - Maison Jeanneret
             - Immeuble Molitor
         Bordeaux
-            - Cite Fruges 
+            - Cite Fruges
+            - stare miasto i port
+            - Basilique Saint-Seurin
+            - Basilica of St. Michael
+            - Cathedrale Saint-Andre 
         Poissy
             - Villa Savoye       
         Marsylia
@@ -1503,6 +1751,71 @@ Francja
             - Le Poulain de Pezenas
         Tarascon
             - festival of Tarasque
+        Saint-Savin-sur-Gartempe
+            - Abbey Church of Saint-Savin-sur-Gartempe
+        Marmagne
+            - Abbey of Fontenay
+        Arles
+            - Arles Amphitheatre
+            - Gallo-Roman theatre
+            - Cryptoporticus and Roman forum
+            - The Thermes of Constantine
+            - Remparts du castrum romain
+            - Alyscamps
+            - The Church of St. Trophime and its cloister
+            - Roman exedra - courtyard of Museon Arlaten
+        Vezelay
+            - Colline de Vézelay
+            - Corbigny
+        Canal du Midi
+        Bourges
+            - katedra
+        Chartres
+            - katedra
+        Reims
+            - katedra
+            - Abbey of Saint-Remi
+            - Palais du Tau
+        The Causses and the Cevennes
+        Avignon
+            - historic centre
+            - Pont Saint-Benezet
+            - Palais des Papes
+            - katedra
+            - Petit Palais
+        Perigeux
+            - Cathedrale Saint-Front
+        Saint-Avit-Senieur
+            - Eglise Saint-Avit 
+        Cadouin
+            - Eglise abbatiale Notre-Dame de la Nativite
+        Bazas
+            - Bazas Cathedral
+        La Sauve
+            - Ancienne Eglise Abbatiale de la Sauve-Majeure
+            - Eglise Saint-Pierre 
+        Soulac-sur-Mer 
+            - Eglise de Notre-Dame-de-la-Fin-des-Terres 
+        Aire-sur-l’Adour
+            - Eglise Sainte-Quitterie 
+        Mimizan
+            - Clocher-porche de l'ancienne eglise
+        Sorde-l’Abbaye 
+            - Abbaye Saint-Jean
+        Saint-Sever
+            - Abbaye de Saint-Sever
+        Agen
+            - Cathedrale Saint Caprais
+        Bayonne
+            - Cathedrale Sainte-Marie
+        L’Hopital-Saint-Blaise
+            - Eglise Saint-Blaise
+        Saint-Jean-Pied-de-Port
+            - Porte Saint Jacques
+        Oloron-Sainte-Marie
+            - Oloron Cathedral
+        Clermont-Ferrand
+            - Eglise Notre-Dame-du-Port  
 Italia
         Parco Nazionale d'Abruzzo, Lazio e Molise
             - Valle Cervara	- primeval beech forest
