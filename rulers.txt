@@ -312,7 +312,8 @@ Księstwo Akwitanii ( Duchy of Aquitaine )
     Wilhelm V Wielki            	                      993-1030
     Wilhelm VI Gruby           	                        1030-1038
     Odo                                   	            1038-1039
-    Wilhelm VII Śmiały         	                        1039-1058
+    Wilhelm VII Śmiały         	                        1039-1058 ( wg D.Ś. )
+                                                        ? ( William VII wg V.K.T.H.O.H.E. )
     Wilhelm VIII                    	                  1058-1086 ( wg D.Ś. )
                                                         przed 1064-? ( Guillame VIII wg V.K.T.H.O.H.E. )
     Wilhelm IX Trubadur       	                        1086-1126
@@ -742,7 +743,7 @@ Anglia
     Dynastia normandzka
       Wilhelm I Zdobywca   	                            1066-1087 ( wg D.Ś. , V.N.M.S.D. i Tapsella  )
 				         	                                      1066-1087 ( 25.12.-9.9 ) ( wg 100.N.V.S. )
-				         	                                      1066-? ( Vilém Dobyvatel wg D.P.I.R.G. ) ( William of Normandy wg V.K.T.H.O.H.E. )
+				         	                                      1066-? ( Vilém Dobyvatel wg D.P.I.R.G. ) ( William of Normandy (William The Conqueror) wg V.K.T.H.O.H.E. )
       Wilhelm II Rufus ( Rudy )     	                  1087-1100
       Henryk I                              	          1100-1135 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 				         	                                      przed 1106-? ( Jindřich I wg F.B.C.A.R. )
@@ -802,7 +803,7 @@ Anglia
 			     	                                            przed 1513-? ( wg B.M. )
 			     	                                            przed 1519-? ( Jindřich VIII wg M.A.E. )
 			     	                                            przed 1513-po 1523 ( wg M.Ś. )
-                                                        przed 1536-po 1541 ( Jindřich VIII wg Ř.S.J.Ď.S. )
+                                                        przed 1536-po 1541 ( Jindřich VIII wg Ř.S.J.Ď.S. ) ( Henry VIII wg V.K.T.H.O.H.E. )
       Edward VI           	                            1547-1553
       Jane                      	                      1553 ( wg D.Ś. )
       Maria I                 	                        1553-1558
@@ -810,7 +811,7 @@ Anglia
 			     	                                            przed 1568-po 1587 ( Alžběta I wg O.A. )
 		         		                                        ? ( wg P.J.D. ) ( Elżbieta wg 100.N.U.W. )
 			     	                                            1558-? ( wg M.Ś. )
-			     	                                            ?-1603 ( Alžběta I wg V.R.M. )
+			     	                                            ?-1603 ( Alžběta I wg V.R.M. ) ( Elizabeth I wg V.K.T.H.O.H.E. )
       Karol V              	                            przed 1559-?      ( wg B.M. )
     Dynastia Stuartów
       Jakub I        		                                1603-1625 ( 25.7.-27.3. ) ( wg D.Ś. , V.N.M.S.D. i Tapsella )
@@ -825,17 +826,6 @@ Anglia
 			         	                                        ? ( wg W.I.A.P. i M.Ś. )
 		             	                                      ?-1649 ( wg 100.N.U.W. )
 				                                                1625-1649 ( ?-30.1. ) ( Karel I wg E.P. )
-      Karol II           	                              1660-1685 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-		              	                                    1660-? ( wg 100.N.V.S. )
-			      	                                          ? ( wg D.R. i W.I.A.P. ) ( Karel II wg E.P. i Ř.S.J.Ď.S. )
-				                                                przed 1672-po 1674 ( wg M.Ś. )
-				                                                przed 1664 -? ( wg O.A. )
-      Jakub II           	                              1685-1688 ( wg D.Ś. )
-                                          	            1685-1689 ( wg V.N.M.S.D. i Tapsella )
-			        	                                        ? ( wg B.M. i M.Ś. i E.P. )
-      Anna                	                            1702-1714 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-				                                                1702-? ( wg 100.N.V.S. )
-				                                                przed 1705-? ( wg 100.N.U.W. )
   Protektorat ( Cromwell's Protectorate )
     Oliver Cromwell  	                                  1653-1658 ( wg V.N.M.S.D. i D.Ś. )
 			         	                                        1653-1658 ( ?-3.5. ) ( wg 100.N.V.S. )
@@ -844,11 +834,25 @@ Anglia
     Ryszard Cromwell 	                                  1658-1659 ( wg V.N.M.S.D. i D.Ś. )
 			         	                                        1658-przed 1660 ( wg 100.N.V.S. )
   Królestwo Anglii
+    Dynastia Stuartów
+      Karol II           	                              1660-1685 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+		              	                                    1660-? ( wg 100.N.V.S. )
+			      	                                          ? ( wg D.R. i W.I.A.P. ) ( Karel II wg E.P. i Ř.S.J.Ď.S. )
+				                                                przed 1672-po 1674 ( wg M.Ś. )
+				                                                przed 1664 -? ( wg O.A. )
+                                                        ?-1685 ( Charles II wg V.K.T.H.O.H.E. )
+      Jakub II           	                              1685-1688 ( wg D.Ś. )
+                                          	            1685-1689 ( wg V.N.M.S.D. i Tapsella )
+			        	                                        ? ( wg B.M. i M.Ś. i E.P. )
+      Anna                	                            1702-1714 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+				                                                1702-? ( wg 100.N.V.S. )
+				                                                przed 1705-? ( wg 100.N.U.W. )
     Dynastia orańska
       Wilhelm III        	                              1689-1702 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 			   	                                              ?-1702 ( wg 100.N.V.S. )
 			   	                                              1689-? ( Wilhelm Orański wg D.R. )
 			   	                                              1688-po 1696 ( Wilhelm III Orański wg M.Ś. )
+                                                        ? ( William III of Orange wg V.K.T.H.O.H.E. )
       Maria II              	                          1689-1695 ( wg D.Ś. )
 				                                                1689-1702 ( wg V.N.M.S.D. )
 				                                                1689-1694 ( wg Tapsella )
@@ -879,21 +883,34 @@ Anglia
       Wiktoria    	                                    1837-1901 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Victoria (Alexandrine Victoire) wg V.K.T.H.O.H.E. )
 			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. )
     Dynastia Sachsen-Coburg-Gotha
-      Edward VII         	                              1901-1910 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-                                                        ? ( wg V.K.T.H.O.H.E. )
-      Jerzy V                	                          1910-1917
+      Edward VII         	                              1901-1910 ( wg D.Ś. i V.N.M.S.D. i Tapsella i V.K.T.H.O.H.E. )
+      Jerzy V                	                          1910-1917 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+                                                        1910-1917 (?-?.7.) ( George V wg V.K.T.H.O.H.E. )
     Dynastia Windsor
-      Jerzy V                	                          1917-1936 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-                                                        ?-1936 ( George V wg V.K.T.H.O.H.E. )
-      Edward VIII         	                            1936
-      Jerzy VI               	                          1936-1952
-      Elżbieta II            	                          1952-1953 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+      Jerzy V                	                          1917-1936 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+                                                        1917-1936 (?.7.-?.1.) ( George V wg V.K.T.H.O.H.E. )
+      Edward VIII         	                            1936 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+                                                        1936 (?-10.12.) ( wg V.K.T.H.O.H.E. )
+      Jerzy VI               	                          1936-1952 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( George VI wg V.K.T.H.O.H.E. )
+      Elżbieta II            	                          1952-1953 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Elizabeth II wg V.K.T.H.O.H.E. )
 			         	                                        ? ( wg O.L. )
+    prime ministers
+      William Gladstone                                 przed 1885-? ( wg V.K.T.H.O.H.E. )
+      David Lloyd George                                przed 1918-po 1921 (?.12.-?.6.) ( wg V.K.T.H.O.H.E. )
+      Winston Churchill                                 ? ( wg V.K.T.H.O.H.E. )
+      Clement Attlee                                    przed 1948-po 1949 ( wg V.K.T.H.O.H.E. )
   Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej
     Dynastia Windsor
       Elżbieta II         	                            1953-? ( wg D.Ś. i V.N.M.S.D. i O.A.O.C.E. i Tapsella )
+                                                        1953-po 2011 (?-?.5.) ( Elizabeth II wg V.K.T.H.O.H.E. )
+    prime ministers
+      Margaret Thatcher                                 przed 1984-? ( wg V.K.T.H.O.H.E. )
+      John Major                                        przed 1993-? (15.12.-?) ( wg V.K.T.H.O.H.E. )
+      Tony Blair                                        1997-2007 ( wg V.K.T.H.O.H.E. )
+      Gordon Brown                                      2007-2010 ( wg V.K.T.H.O.H.E. )
+      David Cameron                                     2010-? ( wg V.K.T.H.O.H.E. )
   Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. , V.N.M.S.D. i Tapsella
+      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D. i Tapsella
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -2026,9 +2043,9 @@ Ausonowie
       Dzieje Rzymu
 
 Australia
+  Elizabeth II                                          przed 1953-po 2011 (?-?.5.) ( wg V.K.T.H.O.H.E. )
   Bibliografia :
-      Mocarstwa Świata
-      Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Austria
   Dynastia Babenbergów
@@ -2682,7 +2699,7 @@ County of Bar
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Hrabstwo Barcelony ( County of Barcelona )
+Hrabstwo Barcelony ( County of Barcelona , Catalonia )
   Bera                                                  801-820 ( wg V.K.T.H.O.H.E. )
   Dynastia z Urgel
     Vifredo I Kędzierzawy                    	          878-897
@@ -3716,7 +3733,10 @@ Bułgaria
     Dynastia Sachsen-Coburg-Gotha
       Ferdynand I           	                          1908-1918
       Borys III                	                        1918-1943
-      Symeon II              	                          1943-1946
+      Symeon II              	                          1943-1946 ( wg D.Ś. )
+                                                        1943-? ( Simeon wg wg V.K.T.H.O.H.E. )
+  prime ministers
+    Sakskoburggotski                                    2001-2005 ( wg V.K.T.H.O.H.E. ) [King of Bulgaria Symeon II]
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
@@ -3724,6 +3744,7 @@ Bułgaria
       Dějiny Byzance
       Zrod střední a východní Evropy
       Encyklopedie panovníků
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Państwo Bułgarów Nadwołżańskich
 
@@ -3806,7 +3827,7 @@ Księstwo Burgundii ( Duchy of Burgundy )
                                                         1346/50-1361 ( Philippe de Rouvres wg V.K.T.H.O.H.E. )
   Dynastia walezyjska
     Filip Śmiały            	                          1363-1404 ( wg D.Ś. )
-                                                        1361-1404 ( Philippe Le Hardi (Philippe de Valois, Philip The Bold) wg V.K.T.H.O.H.E. )
+                                                        1361-1404 ( Philippe Le Hardi (Philippe de Valois, Philip The Bold, Philippe III Le Hardi) wg V.K.T.H.O.H.E. )
     Jan Nieustraszony   	                              1404-1419 ( wg D.Ś. ) ( John The Fearless (Jean sans Peur, Jan zonder Vrees) wg V.K.T.H.O.H.E. )
     Filip Dobry             	                          1419-1467 ( wg D.Ś. ) ( Philip The Good wg V.K.T.H.O.H.E. )
     Karol Zuchwały      	                              1467-1477 ( wg D.Ś. ) ( Charles The Bold (Charles Le Téméraire, Karel de Stoute) wg V.K.T.H.O.H.E. )
@@ -3871,7 +3892,7 @@ County-Palatinate of Burgundy
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
 States of Burgundy
-  Philippe le Hardi ( Filips de Stoute )                1364-1404 [Duke of Burgundy]
+  Philippe le Hardi ( Filips de Stoute )                1364-1404 ( Philippe III Le Hardi wg V.K.T.H.O.H.E. ) [Duke of Burgundy]
   John The Fearless ( Jean sans Peur )                  1404-1419 (?-?.9.) ( Jan zonder Vrees wg V.K.T.H.O.H.E. ) [Duke of Burgundy]
   Philippe Le Bon ( Filips de Goede )                   1419-1467 ( Philip The Good wg V.K.T.H.O.H.E. ) [Duke of Burgundy]
   Charles Le Téméraire ( Karel de Stoute )              1467-1477 (?-5.1.) ( Charles The Bold wg V.K.T.H.O.H.E. ) [Duke of Burgundy]
@@ -3951,6 +3972,9 @@ County of Cardona
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Republic of Carpatho-Ukraine
+  Revd Voloshyn                                         1939 n.e. (15.3.-16.3.)
+  premiers
+    Julian Revay                                        1939 n.e. (15.3.-16.3.)
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -5070,19 +5094,20 @@ Bishopric of Cleves
 
 Duchy of Coburg ( Duchy of Saxe-Coburg-Saalfeld, Duchy of Saxe-Saalfeld-Coburg )
   Francis Frederick (François)                          ?-1806 n.e.
-  Ernst III                                             1806-1844 (9.12.-?) [Duke of Saxe-Coburg-Gotha Ernst I]
-  Ernst II                                              1844-1893 ( Ernest Auguste Charles Jean Léopold Alexandre Edouard wg V.K.T.H.O.H.E. ) [Duke of Saxe-Coburg-Gotha Ernst II]
-  Charles Edward                                        ? [Duke of Saxe-Coburg-Gotha]
+  Ernst III                                             1806-1844 (9.12.-?) ( Ernest I wg V.K.T.H.O.H.E. ) [Duke of Gotha Ernst I]
+  Ernst II                                              1844-1893 ( Ernest Auguste Charles Jean Léopold Alexandre Edouard (Ernest II) wg V.K.T.H.O.H.E. ) [Duke of Saxe-Coburg-Gotha Ernst II]
+  Alfred                                                1893-1900 [Duke of Saxe-Coburg-Gotha]
+  Charles Edward (Carl-Eduard)                          przed 1905-1918 (?.7.-14.11.) (Carl-Edward wg V.K.T.H.O.H.E. ) [Duke of Saxe-Coburg-Gotha]
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Księstwo Coburg-Gotha ( Duchy of Saxe-Coburg-Gotha, Duchy of Saxe-Coburg and Gotha, Das Herzogtum Sachsen-Coburg und Gotha )
   Dynastia Wettinów
     Ernest I              	                            1806-1844 ( wg D.Ś. )
-                                                        1826-1844 ( Ernst I wg V.K.T.H.O.H.E. )
-    Ernest II             	                            1844-1893 ( wg D.Ś. ) ( Ernst II (Ernest Auguste Charles Jean Léopold Alexandre Edouard) wg V.K.T.H.O.H.E. )
-    Alfred                	                            1893-1900 ( wg D.Ś. )
+    Ernest II             	                            1852-1893 ( wg D.Ś. ) ( Ernst II (Ernest Auguste Charles Jean Léopold Alexandre Edouard) wg V.K.T.H.O.H.E. )
+    Alfred                	                            1893-1900 ( wg D.Ś. i V.K.T.H.O.H.E. )
     Karol Edward		                                    1900-1918 ( wg D.Ś. )
+                                                        przed 1905-1918 (?.7.-14.11.) ( Charles Edward (Carl-Eduard, Carl-Edward) wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
@@ -5341,24 +5366,33 @@ Czapni
 
 Czarni Bułgarzy
 
-Czarnogóra
-  Dynastia Petrović-Njegoš
-    Daniło I        	                                  1697-1735 ( wg D.Ś. ) ( Danilo I wg E.P. )
-    Sawa             	                                  1735-1750 i 1766-1781
-    Wasilije        	                                  1750-1766
-    Piotr I           	                                1781-1830
-    Piotr II          	                                1830-1851
-    Daniło II	                                          1851-1852
-  Księstwo Czarnogóry
-    Dynastia Petrović-Njegoš
-      Daniło II	                                        1852-1860
-      Mikołaj I    	                                    1860-1910
+Czarnogóra ( Tsernagora, Crna Gora )
+  Principality-Bishopric of Montenegro
+    Dynastia Petrović-Njegoš ( House of Petrović-Njegoš )
+      Daniło I        	                                1697-1735 ( wg D.Ś. ) ( Danilo I wg E.P. )
+      Sawa             	                                1735-1750 i 1766-1781
+      Wasilije        	                                1750-1766
+      Piotr I           	                              1781-1830
+      Piotr II          	                              1830-1851 ( wg D.Ś. ) ( Petar II Petrović-Njegoš wg V.K.T.H.O.H.E. )
+      Daniło II	                                        1851-1852
+  Księstwo Czarnogóry ( Principality of Montenegro )
+    Dynastia Petrović-Njegoš ( House of Petrović-Njegoš )
+      Daniło II	                                        1852-1860 ( wg D.Ś. )
+                                                        przed 1852-1860 ( Danilo I wg V.K.T.H.O.H.E. )
+      Mikołaj I    	                                    1860-1910 ( wg D.Ś. )
+                                                        1860-1910 (?-28.8.) ( Nikola (Nikola Mirkov Petrović-Njegoš, Nikola Petrovic-Njegos, Nicholas of Montenegro) wg V.K.T.H.O.H.E. )
   Królestwo Czarnogóry ( Kingdom of Montenegro )
-    Dynastia Petrović-Njegoš
-      Mikołaj I      	                                  1910-1921
+    Dynastia Petrović-Njegoš ( House of Petrović-Njegoš )
+      Mikołaj I      	                                  1910-1921 ( wg D.Ś. )
+                                                        1910-1918 (28.8.-4.12.) ( Nikola (Nikola Mirkov Petrović-Njegoš, Nicholas I Petrovich-Niegosh, Nikola Petrovic-Njegos, Nicholas of Montenegro, Nicholas I Petrovitch-Niegosh) wg V.K.T.H.O.H.E. )
       Daniło I    	                                    1921
       Michał I     	                                    1921-1922
-    Nikola                                              ? ( wg V.K.T.H.O.H.E. )
+    House of Karadjordjević
+      Aleksandar                                        1918 (1.12.-?) ( wg V.K.T.H.O.H.E. )
+  Milo Djukanović                                       1998-2002 ( wg V.K.T.H.O.H.E. )
+  premiers
+    Milo Djukanović                                     1991-1998 i 2002-2010 (? i ?-?.12.) ( wg V.K.T.H.O.H.E. )
+    Igor Lukšic                                         ? ( wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
@@ -5403,7 +5437,7 @@ Chanat Czatagajski
       Imperium Mongolskie
       Encyklopedie panovníků
 
-Czechosłowacja
+Czechosłowacja ( Czechoslovakia )
   Novotny                                               przed 1960-?
   Bibliografia :
       Fidel & Che - A Revolutionary Friendship
@@ -5512,7 +5546,7 @@ Czechy
       Ludwik                 	                          1516-1526 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík wg Z.S.A.V.E. ) ( Louis II wg V.K.T.H.O.H.E. ) [King of Hungary]
                                                      	  1516-1526 ( ?-29.8. ) ( Ludvík wg D.P.I.R.G. )
       			         	                                  ?-1526 ( ?-29.8. ) ( wg 100.N.V.S. )
-  Republika Czeska
+  Republika Czeska ( Czech Republic )
     Václav Havel       	                                1993-? ( wg V.N.M.S.D. )
   Uwagi :
       Przed królem Otakarem I wszystko oprócz oznaczonego wg D.Ś.
@@ -6664,7 +6698,7 @@ Egipt
       						    	                                1329-1306 ( wg K.T.V.S.O. )
       						    	                                1319-1307 ( wg S.C. ) ( Haremheb wg E.P. )
       						         	                            ? ( wg H.P.S. i Hur. )
-    19.dynastia ( tebańska )
+    19.dynastia ( tebańska ) ( XIXth dynasty )
       Menpehtire Ramzes I        	                      1293-1291 ( wg D.Ś. )
       					                                        1319-1317 ( wg S.B.W. )
       					                                        przed 1307-? ( Ramesse I wg E.P. )
@@ -6676,7 +6710,7 @@ Egipt
       Usermare Ramzes II        	                      1279(1290)-1212 ( wg D.Ś. )
       					                                        1304 -1238 ( wg S.B.W. )
       					                                        1290-1224 ( wg K.T.V.S.O. )
-      					                                        ? ( wg D.G. ) ( Ramesse II wg Ř.S.J.Ď.S. )
+      					                                        ? ( wg D.G. ) ( Ramesse II wg Ř.S.J.Ď.S. ) ( Rameses II (Ozymandias) wg V.K.T.H.O.H.E. )
       					                                        1291-1224 ( wg H.P.S. )
       					                                        1290-1224 ( wg S.C. )
       					                                        przed ok.1300-? ( Ramesse II wg E.P. )
@@ -7395,8 +7429,15 @@ Królestwo Essexu
       Monarchs , Rulers , Dynasties and Kingdoms of the World
 
 Estonia
+  Jaan Tõnisson                                         przed 1933 n.e.-?
+  Konstantin Päts                                       przed 1934-po 1940 (12.3.-21.6.)
+  Otto Tief                                             1944 (18.9.-?)
+  Toomas Hendrik Ilves                                  2006-po 2010
+  prime ministers
+    Jüri Uluots                                         ?
+    Andrus Ansip                                        2005-po 2010
   Bibliografia :
-      Mocarstwa Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Esznunna
   Ipik-Adad II	                                        ok.1890-ok.1870
@@ -7595,7 +7636,7 @@ Filipiny
 
 Filippi ( Filippoj )
 
-Finlandia
+Finlandia ( Finland )
   Carl Mannerheim		                                    przed 1920-?
   Bibliografia :
       Bílý orel, rudá hvězda
@@ -7911,6 +7952,7 @@ Francja
                                                         1852-po 1870 ( Charles Louis-Napoleon Bonaparte wg V.K.T.H.O.H.E. )
   Third Republic
   Raymond Poincaré	                                    ok.1915 ( wg V.F.V. )
+                                                        przed 1918-? (24.11.-?) ( Poincaré wg V.K.T.H.O.H.E. )
   Alexandre Millerand	                                  przed 1921-? ( wg B.O.R.H. )
   Charles de Gaulle     	                              ? ( wg O.L. i M.Ś. )
   Uwagi :
@@ -8429,9 +8471,10 @@ Gortys
 Duchy of Gotha ( Duchy of Saxe-Gotha, Duchy of Saxe-Gotha-Altenburg )
   Auguste                                               ?
   Frédérick IV                                          1822 n.e.-? (17.5.-?)
-  Ernst I                                               1826-1844 [Duke of Saxe-Coburg-Gotha Ernst I]
-  Ernst II                                              1844-1893 ( Ernest Auguste Charles Jean Léopold Alexandre Edouard wg V.K.T.H.O.H.E. ) [Duke of Saxe-Coburg-Gotha Ernst II]
-  Charles Edward                                        ?
+  Ernst I                                               1826-1844 [Duke of Coburg Ernst I]
+  Ernst II                                              1844-1893 ( Ernest Auguste Charles Jean Léopold Alexandre Edouard (Ernest II) wg V.K.T.H.O.H.E. ) [Duke of Saxe-Coburg-Gotha Ernst II]
+  Alfred                                                1893-1900 [Duke of Saxe-Coburg-Gotha]
+  Charles Edward ( Carl-Eduard )                        przed 1905-1918 (?.7.-14.11.) (Carl-Edward wg V.K.T.H.O.H.E. ) [Duke of Saxe-Coburg-Gotha]
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -8502,6 +8545,7 @@ Gruzja
   Tamara                         	                      ? ( wg I.M. i D.B. )
   Jerzy III Lasza		                                    ok.1221 ( wg I.M. )
   Erekle II ( Iraklij II )	                            1744-1795(8) ( ?-?(22.1.) ) ( wg E.P. )
+  Republic of Georgia
   Bibliografia :
       Imperium Mongolskie
       Dějiny Byzance
@@ -9283,7 +9327,7 @@ Hiszpania ( Spain )
       		           	                                  ? ( wg 100.N.V.S. )
     Dynastia burbońska ( The Bourbons )
       Filip V                	                          1700-1724 i 1724 -1746 ( wg D.Ś. )
-                                                    	  1700-1746 ( wg V.N.M.S.D. ) ( Felipe V (Philippe de Bourbon) wg V.K.T.H.O.H.E. )
+                                                    	  1700-1746 ( wg V.N.M.S.D. ) ( Felipe V (Philippe de Bourbon, Philip V) wg V.K.T.H.O.H.E. )
       			         	                                  ? ( wg M.Ś. )
       Ludwik I             	                            1724 ( wg D.Ś. )
       Ferdynand VI     	                                1746-1759 ( wg V.N.M.S.D. i D.Ś. ) ( Fernando VI wg V.K.T.H.O.H.E. )
@@ -9560,9 +9604,12 @@ Imola
       Fridrich Barbarossa – císař a rytíř
 
 Indie
+  Empire of India
+    Victoria of Hannover                                1837-1901 ( wg V.K.T.H.O.H.E. )
   Nehru                                                 ? ( wg F.C.A.R.F. )
   Bibliografia :
       Fidel & Che - A Revolutionary Friendship
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Indonezja
   Sukarno                                               przed 1960-?
@@ -9648,6 +9695,8 @@ Irkata
       Foiničané
 
 Irlandia
+  Slaine                                                  1934-1933 ( wg V.K.T.H.O.H.E. )
+  Bres                                                    1897-1890 ( wg V.K.T.H.O.H.E. )
   Arcykrólestwo Irlandii
     Dynastia Uí Néill
       Niall od Dziewięciu Zakładników	                    445-452 ( wg D.Ś. )
@@ -9709,11 +9758,11 @@ Irlandia
       Donnchad Donn                                  	    919-944
       Congalach Cnogba                             	      944-956
       Domnall ua Néill                                 	  956-980   ( Domnall ua Niall wg Tapsella )
-      Máel Sechnaill II                                	  980-1002 i 1014-1022 ( wg D.Ś. )
+      Máel Sechnaill II                                	  980-1002 i 1014-1022 ( wg D.Ś. ) ( Mael Sechneill mac Domnaill (Malachi Mor) wg V.K.T.H.O.H.E. )
         						                                      990-1011 i 1024-1032 ( wg V.N.M.S.D. )
         						                                      980-997 i 1014-1022 ( wg Tapsella )
         						                                      ?-1002 ( Malachias II wg E.P. )
-      Brian Bóruma                                     	  1002-1014 ( wg D.Ś. )
+      Brian Bóruma                                     	  1002-1014 ( wg D.Ś. ) ( Brian Bóraimhe (Brian Boru) wg V.K.T.H.O.H.E. )
         						                                      1002-1014 ( ?-24.4. ) ( wg E.P. )
         						                                      1011-1024 ( wg V.N.M.S.D. )
         						                                      997-1014 ( wg Tapsella )
@@ -9727,8 +9776,38 @@ Irlandia
                                                           1118-1156 ( Turlough O´Connor wg Tapsella )
       Muirchertach III mac Lochlainn          	          1156-1166 ( wg D.Ś. )
                                                           1150-1166 ( Murtough MacLoughlin wg Tapsella )
+                                                          ?-1166 ( Muirchertach mac-Lochlain wg V.K.T.H.O.H.E. )
       Ruaidri Ua Conchobar                        	      1166-1186 ( wg D.Ś. ) ( Rory O´Connor wg Tapsella )
+                                                          ?-1186 ( Ruaidre ua Chobar wg V.K.T.H.O.H.E. )
       Roger                                               1171-ok.1180 ( wg V.N.M.S.D. )
+  Kingdom of Ireland
+    Dynastia Tudorów
+      Henry VIII                                          1541-? ( wg V.K.T.H.O.H.E. ) [King of England]
+      Elizabeth I                                         ?-1603 ( wg V.K.T.H.O.H.E. ) [Queen of England]
+    Dynastia Stuartów
+      Charles II                                          ?-1685 ( wg V.K.T.H.O.H.E. ) [King of England]
+    Dynastia orańska
+      William II of Orange                                ? ( wg V.K.T.H.O.H.E. ) [King of England]
+    Dynastia hanowerska
+      George I        	                                  ? ( wg V.K.T.H.O.H.E. ) [King of England]
+      George III     	                                    1760-1801 ( wg V.K.T.H.O.H.E. ) [King of England]
+  Irish Free State
+    George V                                              1922-1936 (?-?.1.) ( wg V.K.T.H.O.H.E. )  [King of Great Britain]
+    Edward VIII                                           1936 (?-12.12.) ( wg V.K.T.H.O.H.E. )  [King of Great Britain]
+    Douglas Hyde                                          ? ( wg V.K.T.H.O.H.E. )
+    prime ministers ( Taoiseach )
+      W. T. Cosgrave                                      1922-po 1926 ( wg V.K.T.H.O.H.E. )
+      Éamon de Valera                                     1932-po 1945 ( wg V.K.T.H.O.H.E. )
+      John Costello                                       ?-1948 (?-18.4.) ( wg V.K.T.H.O.H.E. )
+  Irish Republic
+    Éamon de Valera                                       ? ( wg V.K.T.H.O.H.E. )
+    Mary Robinson                                         1990-? ( wg V.K.T.H.O.H.E. )
+    Mary McAleese                                         przed 1998-po 2011 (?-?.5.) ( wg V.K.T.H.O.H.E. )
+    prime ministers ( Taoiseach )
+      John Costello                                       1948-? (18.4.-?) ( wg V.K.T.H.O.H.E. )
+      Bertie Ahern                                        przed 1998-? (?.4.-?) ( wg V.K.T.H.O.H.E. )
+      Brian Cowen                                         przed 2010-? ( wg V.K.T.H.O.H.E. )
+      Enda Kenny                                          2011-? (przed ?.5.-?) ( wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś. i Tapsella
   Bibliografia :
@@ -9736,6 +9815,7 @@ Irlandia
       Velká nástěnná mapa světových dějin
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Encyklopedie panovníků
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Liga Irokezów
   Eskuyas                         	                    przed 1645 n.e.-?
@@ -9878,12 +9958,14 @@ Italia
   Królestwo Włoch
     Wiktor Emanuel II           	                      1861-1878 ( wg V.N.M.S.D. i D.Ś. )
       			             	                              1861-? ( 18.2.-? ) ( wg 100.N.V.S. )
-                                                        1861-1878 (17.3.-?) ( Vittorio Emanuele II wg V.K.T.H.O.H.E. )
+                                                        1861-1878 (17.3.-?) ( Vittorio Emanuele II (Victor Emanuel) wg V.K.T.H.O.H.E. )
     Humbert I                         	                1878-1900 ( wg D.Ś. i V.N.M.S.D. ) ( Umberto I Il Buono wg V.K.T.H.O.H.E. )
     Wiktor Emanuel III		                              1900-1946 ( wg D.Ś. i V.N.M.S.D. ) ( Vittorio Emanuele III wg V.K.T.H.O.H.E. )
       				       	                                  ? ( wg M.Ś. )
     Humbert II                        	                1946 ( wg D.Ś. )
                                                         1946 (?.5.-12.6.) ( Umberto II wg V.K.T.H.O.H.E. )
+  premiers
+    Bonomi                                              przed 1920-? (?.4.-?) ( wg V.K.T.H.O.H.E. )
   Mussolini                                             ? ( wg F.C.A.R.F. i V.K.T.H.O.H.E. )
   Italian Republic ( Republica Italiana )
     Alcide de Gasperi                                   1946-? ( wg V.K.T.H.O.H.E. )
@@ -10574,12 +10656,14 @@ Jugosławia
       Aleksander I	                                    1929-1934 ( wg D.Ś. i V.N.M.S.D. )
       Piotr II                  	                      1934-1945 ( wg D.Ś. i V.N.M.S.D. )
   Josip Broz Tito             	                        1953-1980 ( ?.6.-4.5. ) ( wg 100.N.V.S. )
-      				                                          ? ( wg M.Ś. )
+      				                                          ? ( wg M.Ś. ) ( Tito wg V.K.T.H.O.H.E. )
+  Slobodan Milosević                                    przed 1997-2000 (?-?.10.) ( wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
       100 nejvlivnějších vojevůdců světa
       Mocarstwa Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Jutungowie
 
@@ -10856,9 +10940,9 @@ Kampowie
       Války rudého muže
 
 Kanada
+  Elizabeth II                                          przed 1953-po 2011 (?-?.5.) ( wg V.K.T.H.O.H.E. )
   Bibliografia :
-      Mocarstwa Świata
-      Fidel & Che - A Revolutionary Friendship
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Kanduraga ( Panduraga )
 
@@ -11836,6 +11920,10 @@ Kos
   Bibliografia :
       Zrození Řecka
 
+Kosovo
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Kostaryka
   Bibliografia :
       Fidel & Che - A Revolutionary Friendship
@@ -12218,9 +12306,8 @@ Kościół
     Klement VII ( Robert z Genewy )                    	1378-1394 ( wg Tapsella )
       						      	                              1378-?   ( Kliment VII wg D.B. )
     Bonifacy IX ( Pietro Tamocelli )                   	1389-1404
-    Benedykt XIII ( Pedro de Luna )                    	1394-1423 ( wg Tapsella )
-                                                        ? ( Benedict XIII wg V.K.T.H.O.H.E. )
-    Innocenty VII ( Cosmato de´ Migliorati )         	  1404 -1406
+    Benedykt XIII ( Pedro de Luna )                    	1394-1423 ( wg Tapsella ) ( Benedict XIII wg V.K.T.H.O.H.E. )
+    Innocenty VII ( Cosmato de´ Migliorati )         	  1404-1406
     Grzegorz XII ( Angelo Correr )                     	1406-1415 ( wg Tapsella )
     Aleksander V ( Petros Philargi )                   	1409-1410 ( wg Tapsella )
     Jan XXIII ( Baldassare Cossa )                     	1410-1416 ( wg V.N.M.S.D. )
@@ -12237,7 +12324,7 @@ Kościół
     Kalikst III ( Alonso Borgia )                      	1455-1458 ( wg Tapsella i V.N.M.S.D. ) ( Callistus III wg V.K.T.H.O.H.E. )
     Pius II ( Aeneas Silvio de´ Piccolomini )        	  1458-1464 ( wg V.N.M.S.D. i Tapsella )
       						     	                                ? ( wg Ř.V.G. i M.N.C. )
-    Paweł II  ( Pietro Barbo )                        	1464 -1471
+    Paweł II  ( Pietro Barbo )                        	1464-1471
     Sykstus IV ( Francesco della Rovere )             	1471-1484 ( wg Tapsella )
       						    	                                ? ( wg K.R.I.C.R. )
     Innocenty VIII ( Giovanni Battista Cibo )          	1484-1492 ( wg Tapsella i V.N.M.S.D. )
@@ -12320,7 +12407,7 @@ Kościół
                                                       	1978 ( wg Tapsella )
     Jan Paweł II ( Karol Wojtyła )                     	1979-? ( wg V.N.M.S.D. )
       							                                    1978-? ( wg Tapsella )
-                                                        ?-2005 ( John Paul II wg V.K.T.H.O.H.E. )
+                                                        przed 1979-2005 ( John Paul II wg V.K.T.H.O.H.E. )
   Uwagi :
       Do Państwa Kościelnego wszystko oprócz oznaczonego wg Tapsella
       Państwo Kościelne wszystko oprócz oznaczonego wg Tapsella i V.N.M.S.D.
@@ -12439,7 +12526,7 @@ Zakon Krzyżacki ( Teutonic Order, Teutonic Knights, State of Teutonic Order, Or
                                                         1497-1510 ( Friedrich von Sachsen wg V.K.T.H.O.H.E. )
   Albrecht von Hohenzollern-Ansbach 	                  1511-1525 ( 13.2.-10.4. ) ( wg P.W.M.K. ) [Duke of Prussia]
                                                         ? ( wg O.K.C.J. )
-                                                        1510-1525 ( Albrecht von Hohenzollern wg V.K.T.H.O.H.E. )
+                                                        1510-1525 ( Albrecht von Hohenzollern (Albrecht of Brandenburg-Ansbach) wg V.K.T.H.O.H.E. )
   Bibliografia :
       Poczet wielkich mistrzów krzyżackich
       O Krakowie Ci Ja!
@@ -12936,6 +13023,7 @@ Królestwo Leonu
     Urraca                      	                      1109-1126 ( wg D.Ś. )
   Dynastia burgundzka
     Alfonso VII Imperator	                              1126-1157 ( wg D.Ś. ) ( Alfonso VII Kastilský wg M.A.E. )
+                                                        ? ( Alfonso VII wg V.K.T.H.O.H.E. )
     Alfonso VIII Kastilský   	                          1158-1214 ( wg M.A.E. )
     Ferdynand II                 	                      1157-1188 ( wg D.Ś. ) ( Ferdinand II wg F.B.C.A.R. )
       				                                          1157-1188 ( ?-22.1. ) ( Ferdinand II wg E.P. )
@@ -13000,6 +13088,10 @@ Libia
       Velká nástěnná mapa světových dějin
       Dzieje Grecji
       Mocarstwa Świata
+
+Principality of Lichtenberg
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Liciang ( ´Dżang-sa-t´am )
   Bibliografia :
@@ -13160,7 +13252,7 @@ Litwa ( Litva )
       Kazimierz                            	            1440-1492 ( wg D.Ś. ) ( Kazimierz III Jagiellończyk (Casimir IV Jagiellon, Casimir Jagiellończyk) wg V.K.T.H.O.H.E. ) [King of Poland]
       Aleksander                         	              1492-1506 ( wg D.Ś. ) ( Alexander wg V.K.T.H.O.H.E. ) [King of Poland]
       Zygmunt I Stary ( Sigismund The Elder )           1506-1548 ( wg V.K.T.H.O.H.E. ) [King of Poland]
-      Zygmunt II August ( Sigismund-Augustus )          1548-1572 (?-7.7.) ( wg V.K.T.H.O.H.E. ) [King of Poland]
+      Zygmunt II August ( Sigismund-Augustus )          1548-1572 (?-7.7.) ( Zygmunt August wg V.K.T.H.O.H.E. ) [King of Poland]
       Henryk Walezy ( Henri de Valois )                 1573-1574 ( wg V.K.T.H.O.H.E. ) [King of Poland]
       Stefan Batory ( Istvan Bathory )                  1575/6-1586 ( Stephen Bathory wg V.K.T.H.O.H.E. ) [King of Poland]
       Zygmunt III Waza ( Sigismund Vasa )               1587-1632 ( Sigismund III Vasa wg V.K.T.H.O.H.E. ) [King of Poland]
@@ -13170,7 +13262,7 @@ Litwa ( Litva )
       Stanisław Leszczyński                             1704-1709 ( wg V.K.T.H.O.H.E. ) [King of Poland]
       August II The Strong                              1697-1733 ( wg V.K.T.H.O.H.E. ) [King of Poland]
       August III                                        1733-1763 ( wg V.K.T.H.O.H.E. ) [King of Poland]
-      Stanisław August Poniatowski                      1764-1795 (?-25.11.) ( wg V.K.T.H.O.H.E. ) [King of Poland]
+      Stanisław August Poniatowski                      1764-1795 (?-25.11.) ( Stanisław-August wg V.K.T.H.O.H.E. ) [King of Poland]
   Lithuanian Republic ( Republic of Lithuania )
     Antanas Smetona                                     ? ( wg V.K.T.H.O.H.E. )
   Uwagi :
@@ -13587,7 +13679,7 @@ Macedonia
                                                         ok.333 ( wg F. )
 				    	                                          przed 334-po 332 ( wg D.R. )
 				    	                                          336-? ( wg S.C. )
-				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. )
+				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. )
 				    	                                          przed 332-?  ( Aleksander Macedoński wg B.M. )
                                                         przed 324-323 ( ?-10.6. ) ( Alexandr Veliký wg T.H.S. )
 					                                              przed 332-323 ( Alexandr Veliký wg Ž.V.Ř.S. )
@@ -13713,6 +13805,7 @@ Macedonia
 			Klasické Řecko
 			Poszukiwanie języka doskonałego
       Říše slova - Jazykové dějiny světa
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Machalata
   Bibliografia :
@@ -14335,7 +14428,8 @@ Królestwo Meath
   Carlus mac Conn                              	        952-960
   Muiredach mac Aed                         	          960-974
   Domnall mac Congalach                  	              974-976
-  Mael Sechnaill II                              	      976-1022
+  Mael Sechnaill II                              	      976-1022 ( wg Tapsella ) [Arcykról Irlandii Mael Sechneill mac Domnaill]
+                                                        przed 980-po 1022 ( Mael Sechneill mac Domnaill (Malachi Mor) wg V.K.T.H.O.H.E. )
   Mael Sechnaill Got                           	        1022-1025
   Roen mac Murchad                          	          1025-1027
   Domnall mac Mael Sechnaill           	                1027-1030
@@ -14351,8 +14445,11 @@ Królestwo Meath
   Donnchad mac Domnall                    	            1155-1160
   Diarmait mac Domnall                      	          1160-1169
   Domnall Breagach                             	        1169-1173
+  Uwagi :
+      Wszystko oprócz oznaczonego wg Tapsella
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Media Atropatene
   Atropates	                                            przed 323 p.n.e.-? ( wg S.C. )
@@ -14926,8 +15023,12 @@ Księstwo Monako
     Albert I                             	              1889-1922
     Ludwik II                          	                1922-1949
     Rainier III                          	              1949-?
+    Albert II                                           przed 2011-? (?.4.-?) ( wg V.K.T.H.O.H.E. )
+  Uwagi :
+      Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Mongołowie
   Kabuł-kahan		                                        ?
@@ -15603,7 +15704,8 @@ Niemcy
       Wilhelm I         	                              1871-1888 ( wg D.Ś. i V.N.M.S.D. ) ( William I wg V.K.T.H.O.H.E. ) [King of Prussia Wilhelm I]
       			         	                                  ? ( wg M.Ś. ) ( Vilém I wg F.B.C.A.R. )
       Fryderyk III		                                  1888 ( wg D.Ś. i V.N.M.S.D. )
-      Wilhelm II        	                              1888-1918 ( wg D.Ś. i V.N.M.S.D. ) ( William II wg V.K.T.H.O.H.E. ) [King of Prussia Wilhelm II]
+      Wilhelm II        	                              1888-1918 ( wg D.Ś. i V.N.M.S.D. ) [King of Prussia Wilhelm II]
+                                                        1888-1918 (?-9.11.) ( William II wg V.K.T.H.O.H.E. )
       			         	                                  ? ( wg M.Ś. ) ( Vilém II wg Z.V.C. )
       				                                          1888-? (15.6.-?) ( wg G.T.G. )
   chancellors
@@ -15613,7 +15715,7 @@ Niemcy
       			   	                                        przed 1944 -? ( wg K.B.T. i P.S. )
       			   	                                        1933-? ( wg 100.N.U.W. )
       			   	                                        1933-po 1941 ( wg M.Ś. )
-                                                        przed 1933-po 1945 (?-21.1.) ( wg V.K.T.H.O.H.E. )
+                                                        1933-po 1945 (?-21.1.) ( wg V.K.T.H.O.H.E. )
       			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. )
   German Democratic Republic ( NRD )
   German Federal Republic ( RFN )
@@ -16269,7 +16371,7 @@ Osagowie
   Bibliografia :
       Czarne wampuny głoszą wojnę
 
-Cesarstwo Osmańskie ( Ottoman Turks )
+Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire )
   Dynastia Osmanli
     Osman I                          	                  1280-1324 ( wg D.Ś. )
                                                         1281-1326 ( wg V.N.M.S.D. i D.B. )
@@ -17307,6 +17409,11 @@ Pohaj ( P´ohai )
   Bibliografia :
       Dzieje dawnych Turków
 
+County of Poitiers
+  William VII                                           ? [Duke of Aquitaine]
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 County of Poitou
   Guillame VIII                                         przed 1064 n.e.-? [Duke of Aquitaine]
   Bibliografia :
@@ -17428,7 +17535,7 @@ Polska
       			              	                            1507-1548 ( wg A. )
       					                                        przed 1520-? ( Zikmund I Starý wg E.P. )
                                                         przed 1525-? (10.5.-?) ( Zygmunt Stary wg O.K.C.J. )
-      Zygmunt II August        	                        1548-1572 ( wg D.Ś. i V.N.M.S.D. ) ( Sigismund-Augustus (Sigismund II August) wg V.K.T.H.O.H.E. )
+      Zygmunt II August        	                        1548-1572 ( wg D.Ś. i V.N.M.S.D. ) ( Sigismund-Augustus (Sigismund II August, Zygmunt August) wg V.K.T.H.O.H.E. )
       					                                        przed 1571-? ( Zygmunt August wg B.M. )
                                                         ? ( Zygmunt August wg O.K.C.J. )
     Henryk Walezy                     	                1573-1575 ( wg D.Ś. i V.N.M.S.D. ) ( Henri de Valois wg V.K.T.H.O.H.E. ) [King of France]
@@ -17458,7 +17565,7 @@ Polska
     August III                                	        1733-1763 ( wg D.Ś. i V.K.T.H.O.H.E. ) [Elector of Saxony]
                                                         1733-1764 ( wg V.N.M.S.D. )
     Stanisław August Poniatowski	                      1764-1795 ( wg D.Ś. i V.N.M.S.D. )
-                                                        1764-1795 (?-25.11.) ( Stanisław-August Poniatowski wg V.K.T.H.O.H.E. )
+                                                        1764-1795 (?-25.11.) ( Stanisław-August Poniatowski (Stanisław-August) wg V.K.T.H.O.H.E. )
                                                         przed 1787-? ( Stanisław August wg O.K.C.J. )
       				     	                                    ? ( wg K.R.I.C.R. )
   Polish Republic
@@ -17765,7 +17872,7 @@ Hrabstwo Prowansji ( County of Provence )
 Prusy
   Księstwo Prus ( Duchy of Prussia )
     Dynastia Hohenzollernów
-      Albrecht                      	                  1525-1568 ( wg D.Ś. ) ( Albrecht von Hohenzollern wg V.K.T.H.O.H.E. )
+      Albrecht                      	                  1525-1568 ( wg D.Ś. ) ( Albrecht von Hohenzollern (Albrecht of Brandenburg-Ansbach) wg V.K.T.H.O.H.E. )
                                                         przed 1525 (10.5.-?) ( Albrecht Hohenzollern wg O.K.C.J. )
       Albrecht Fryderyk      	                          1568-1618 ( wg D.Ś. ) ( Albrecht Friedrich wg V.K.T.H.O.H.E. )
       Johann Sigismund                                  1618-1619 ( wg V.K.T.H.O.H.E. )
@@ -18025,10 +18132,16 @@ Rosja ( Russia )
       									                                ?	( wg B.O.R.H )
       Mikołaj II                                       	1894-1917  ( wg V.N.M.S.D. i D.Ś. )
       								  	                              1895-1917 ( 26.5.-? ) ( wg 100.N.V.S. )
-      								        	                        ? ( wg M.Ś. ) ( Nicholas II wg V.K.T.H.O.H.E. )
+      								        	                        ? ( wg M.Ś. )
+                                                        1896-? ( Nicholas II wg V.K.T.H.O.H.E. )
       									                                przed 1914-? ( Mikuláš wg B.O.R.H. )
                                                         przed 1899-? ( Mikuláš II wg Ř.S.J.Ď.S. )
+  Alexander Kerensky                                    1917 (?-?.11.) ( wg V.K.T.H.O.H.E. )
+  Soviet Russia ( Russian Soviet Federative Socialist Republic )
+    Lenin                                               1917-1922 ( wg V.K.T.H.O.H.E. )
+    Joseph Stalin                                       1922-1923 (?-31.12.) ( wg V.K.T.H.O.H.E. )
   Russian Federation
+    Boris Yeltsin                                       ? ( wg V.K.T.H.O.H.E. )
     Vladimir Putin                                      przed 2000-po 2008 ( wg V.K.T.H.O.H.E. )
     Dmitri Medvedyev                                    przed 2010-? ( wg V.K.T.H.O.H.E. )
   Uwagi :
@@ -18633,7 +18746,7 @@ Rzym
     								                                    161-180 ( wg V.N.M.S.D. , D.Ś. , A.Č. i S.C. i H.P.S. i Ř.V.G. i Ž.V.Ř.S. ) ( Marcus Aurelius Verus wg Tapsella ) ( Marcus Aurelius Annius Verus wg Z.V.C. )
     		  						                                  161-180 ( ?-marzec )( wg D.R. )
     		  						                                  przed 172-po 175 ( wg D.P.I.R.G. )
-    		         						                            ? ( Marek Aurelius wg T. )
+    		         						                            ? ( Marek Aurelius wg T. ) ( Marcus Aurelius wg V.K.T.H.O.H.E. )
     		  						                                  przed 179-? ( Marek Aurelius wg Z.S.A.V.E. )
       Marcus Aurelius Antoninus Commodus ( Kommodus )	  180-192 ( 17.3.-31.12. ) ( wg P.C.R. i K.R.I.C.R.  )
     								                                    180-192 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i  S.C. ) ( Lucius Aurelius Commodus ( Lucjusz Aureliusz Kommodus ) wg D.R. )
@@ -19400,7 +19513,7 @@ Sabaudia ( Savoie, Savoia )
     Vittorio Emanuele I                                 1815-1821 ( wg V.K.T.H.O.H.E. ) [King of Sardinia]
     Carlo Il Felice ( Charles Le Heureux )              1821-1831 ( Félix (Carlo Il Feroce, Carlo The Ferocious) wg V.K.T.H.O.H.E. ) [King of Sardinia]
     Carlo Alberto                                       1831-1849 ( wg V.K.T.H.O.H.E. ) [King of Sardinia]
-    Vittorio Emanuele II                                1849-1861 ( wg V.K.T.H.O.H.E. ) [King of Sardinia]
+    Vittorio Emanuele II                                1849-1861 ( Victor Emanuel wg V.K.T.H.O.H.E. ) [King of Sardinia]
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -19678,7 +19791,7 @@ Sardynia
     Karol Feliks                         	              1821-1831 ( wg D.Ś. i V.N.M.S.D. ) ( Carlo Il Felice (Charles le Heureux, Félix, Carlo Il Feroce, Carlo The Ferocious) wg V.K.T.H.O.H.E. )
     Linia na Carignano
       Karol Albert         		                          1831-1849 ( wg D.Ś. i V.N.M.S.D. ) ( Carlo Alberto wg V.K.T.H.O.H.E. )
-    Wiktor Emanuel II                	                  1849-1861 ( wg D.Ś. i V.N.M.S.D. ) ( Vittorio Emanuele II Il Re Galantuomo (Vittorio Emanuele II The Hero King) wg V.K.T.H.O.H.E. )
+    Wiktor Emanuel II                	                  1849-1861 ( wg D.Ś. i V.N.M.S.D. ) ( Vittorio Emanuele II Il Re Galantuomo (Vittorio Emanuele II The Hero King, Victor Emanuel) wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -19728,7 +19841,7 @@ Sawau
   Bibliografia :
       Ostrovy lidojedů
 
-Duchy of Saxe-Altenburg
+Duchy of Saxe-Altenburg ( Saxe-Altenberg )
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -19738,6 +19851,10 @@ Duchy of Saxe-Meiningen
 
 Duchy of Saxe-Teschen
   Albrecht                                              przed 1819 n.e.-?
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Saxe-Weimar-Eisenach
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -20026,13 +20143,6 @@ Serbia
       Stefan Urosz III Deczański              	        1321-1331 ( wg D.Ś. )
       					    	                                  ? ( Štěpán Uroš III wg D.B. )
       Stefan Duszan                           	        1331-1345
-    Dynastia Obrenoviczów
-      Milan             	                              1882-1889
-      Aleksander		                                    1889-1903 ( wg D.Ś. )
-      			                                            1889-1903 ( ?-11.6. ) ( Alexandr I Obrenovič wg E.P. )
-    Dynastia Karadjordjeviczów
-      Piotr I            	                              1903-1918 ( wg D.Ś. )
-      				                                          1903-? ( Petr I wg E.P. )
   Carstwo Serbii
     Dynastia Nemaniczów
       Stefan Duszan	                                    1345-1355 ( wg D.Ś. )
@@ -20053,6 +20163,17 @@ Serbia
       Michał                                   	        1839-1842 i 1860-1868
       Aleksander Karadjordjević		                      1842-1858
       Milan                                     	      1868-1882
+  Królestwo Serbii
+    Dynastia Obrenoviczów
+      Milan             	                              1882-1889
+      Aleksander		                                    1889-1903 ( wg D.Ś. )
+                                                        1889-1903 (?-11.6.) ( Alexandr I Obrenovič wg E.P. )
+                                                        ?-1903 (?-11.7.) ( Aleksandar I Obrenović wg V.K.T.H.O.H.E. )
+    Dynastia Karadjordjeviczów ( House of Karadjordjević, Karageorgevich Dynasty )
+      Piotr I            	                              1903-1918 ( wg D.Ś. )
+                                                        1903-? ( Petr I wg E.P. )
+                                                        1903-1921 ( Petar I (Petar Karadjordjević) wg V.K.T.H.O.H.E. )
+  Slobodan Milošević                                    przed 1993-? ( wg V.K.T.H.O.H.E. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
@@ -20060,19 +20181,23 @@ Serbia
       Dějiny Byzance
       Fridrich Barbarossa – císař a rytíř
       Encyklopedie panovníků
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Serbowie
   Porga                                                 ?
   Bibliografia :
       Zrod střední a východní Evropy
 
-Królestwo Serbów , Chorwatów i Słoweńców
+Królestwo Serbów , Chorwatów i Słoweńców ( Kingdom of Serbs, Croats and Slovenes )
   Dynastie Obrenoviczów i Karadjordjeviczów
-    Piotr I             	                              1918-1921
-    Aleksander I	                                      1921-1929
+    Piotr I             	                              1918-1921 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1918-1921 (4.12.-?) ( Petar I (Petar Karadjordjević) wg V.K.T.H.O.H.E. )
+    Aleksander I	                                      1921-1929 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1921-? ( Aleksandar wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Królestwo Sewilli ( Ta´ifa Sewilli )
   Dynastia ´Abbasydów ( Abbádovci )
@@ -20298,6 +20423,17 @@ Skolos
 Skordiskowie
   Bibliografia :
       Thrákové
+
+Slovakia
+  Tiso                                                  1939 n.e.-? (15.3.-?) ( wg V.K.T.H.O.H.E. )
+  Slovak Republic ( Republic of Slovakia )
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Kingdom of Slovenes, Croats and Serbs
+  Anton Korošec                                         1918 n.e. (29.10-?) ( wg V.K.T.H.O.H.E. )
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Słowianie
   Daurentios                                            przed ok.578 n.e.-?
@@ -20549,7 +20685,7 @@ Sri Lanka ( Cejlon )
 
 Stany Zjednoczone Ameryki Północnej
   George Washington	       	                            1789-1797 ( ?.2.-? ) ( wg 100.N.V.S. )
-      					                                        ? ( wg V.N.M.S.D. i Ř.S.J.Ď.S. )
+      					                                        ? ( wg V.N.M.S.D. i Ř.S.J.Ď.S. i V.K.T.H.O.H.E. )
       			                                            przed 1792 ( Jerzy Waszyngton wg W.I.A.P. )
   I. Adams				                                      ?
   Thomas Jefferson		                                  przed 1801-? ( wg O.A. )
@@ -20603,6 +20739,7 @@ Stany Zjednoczone Ameryki Północnej
   Thomas Woodrow Wilson       	                        1913-1921 ( wg V.N.M.S.D. )
       				        	                                ok.1917 ( wg 100.N.V.S. )
       					                                        przed 1917-? ( wg B.O.R.H. )
+                                                        przed 1917-po 1918 (?.4.-24.12.) ( Woodrow Wilson wg V.K.T.H.O.H.E. )
   Warren C. Harding                  	                  1921-1923
   John Calvin Coolidge              	                  1923-1929
   Herbert C. Hoover                   	                1929-1933
@@ -20632,6 +20769,7 @@ Stany Zjednoczone Ameryki Północnej
       				      	                                  przed 1978-po 1979 ( wg M.Ś. )
   Ronald Reagan                     	                  1981-1989 ( wg V.N.M.S.D. )
       				      	                                  1981-? ( wg M.Ś. )
+                                                        ? ( wg V.K.T.H.O.H.E. )
   George Bush                         	                1989-?
   Bill Clinton			                                    ?
   Konfederacja
@@ -20652,6 +20790,7 @@ Stany Zjednoczone Ameryki Północnej
       Říše slova - Jazykové dějiny světa
       Indiański Napoleon Gór Skalistych
       Fidel & Che - A Revolutionary Friendship
+      Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Stodoranie
 
@@ -20769,8 +20908,8 @@ Sycylia
       Piotr I Wielki               	                    1282-1285
       Jakub Sprawiedliwy     	                          1285-1295 ( wg D.Ś. i V.N.M.S.D. ) ( Jakub II wg E.P. ) [King of Aragon Jaime II]
                                                         1286-1327 (2.2.-?) ( Jaime II El Justo wg V.K.T.H.O.H.E. )
-      Fryderyk II                   	                  1296-1337 ( wg D.Ś. i V.N.M.S.D. )
-      					                                        ? ( Fridrich ( don Fadrique ) wg E.P. ) ( Frederico II wg V.K.T.H.O.H.E. )
+      Fryderyk II                   	                  1296-1337 ( wg D.Ś. i V.N.M.S.D. ) ( Frederico II (Frederick III) wg V.K.T.H.O.H.E. )
+      					                                        ? ( Fridrich ( don Fadrique ) wg E.P. )
       Piotr II                          	              1337-1342
       Ludwik                         	                  1342-1355
       Fryderyk III Prostak     	                        1355-1377 ( wg D.Ś. )
@@ -21171,7 +21310,7 @@ Szkocja
                                                  	        1039-1057 ( wg V.N.M.S.D. )
       				                                            1040-1057 ( ?-15.8. ) ( wg E.P. )
       Lulach                  	                          1057-1058 ( wg D.Ś. i Tapsella )
-  Królestwo Szkocji
+  Królestwo Szkocji ( Kingdom of Scotland )
     Dynastia norweska
       Małgorzata           	                              1286-1290 ( wg D.Ś. i Tapsella )
                                                  	        1285-1292 ( wg V.N.M.S.D. )
@@ -21201,6 +21340,7 @@ Szkocja
       Maria                  	                            1542-1567
       Jakub VI             	                              1567-1625
       Karel I			                                        1625-1649 ( ?-30.1. ) ( wg E.P. )
+      Charles II                                          ?-1685 ( wg V.K.T.H.O.H.E. )
   Uwagi :
       Przed dynastią Alpina wg V.N.M.S.D.
     	Wszystko oprócz oznaczonego wg V.N.M.S.D. , D.Ś. i Tapsella
@@ -22689,6 +22829,11 @@ Ujgurzy
   Bibliografia :
       Dzieje dawnych Turków
 
+Ukraina
+  Ukrainian National Republic
+  Bibliografia :
+      Vanished Kingdoms - The History of Half-Forgotten Europe
+
 Ukulzat
   Takipszarri                                           ok.1325 p.n.e.
   Bibliografia :
@@ -24120,7 +24265,7 @@ County of Zeeland
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Księstwo Zeta
+Księstwo Zeta ( Principality of Zeta )
   Štěpán Vojislav		                                    ?-ok.1050
   Michael Zetský             	                          1077-?
   Bibliografia :
@@ -24205,19 +24350,22 @@ County of Zutphen
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Związek Socjalistycznych Republik Radzeckich ( Soviet Union )
-  Lenin                                                 ? ( wg F.C.A.R.F. i V.K.T.H.O.H.E. )
+Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet Socialist Republics , Soyuz Sovetskikh Sotsialisticheskikh Republik )
+  Lenin                                                 ? ( wg F.C.A.R.F. )
   Józef V. Stalin                       	              przed 1941-1953 ( wg 100.N.V.S. )
     				    	                                      przed 1934 -po 1945 ( wg M.Ś. )
                                                         przed 1953-? ( wg P.J.D. )
                                                         ? ( wg Ř.S.J.Ď.S. i F.C.A.R.F. )
-                                                        przed 1939-po 1945 (?-21.1.) ( Stalin wg V.K.T.H.O.H.E. )
+                                                        przed 1939-po 1945 (?-21.1.)
+                                                        1924-1953 (1.1.-?) ( Joseph Stalin wg V.K.T.H.O.H.E. )
   Nikita Chruszczow                	                    1957-1964 ( wg 100.N.V.S. )
     				    	                                      przed 1960-? ( wg M.Ś. )
                                                         przed 1955-1964 ( ?-?.10. ) ( Nikita Khrushchev wg F.C.A.R.F. )
-  Leonid Brežněv		                                    ?	( wg B.O.H.R. )
+                                                        ? ( Nikita Khrushchev wg V.K.T.H.O.H.E. )
+  Leonid Brežněv		                                    ?	( wg B.O.H.R. ) ( Leonid Brezhnev wg V.K.T.H.O.H.E. )
                                                         1964-po 1967 ( ?.10.-? ) ( wg F.C.A.R.F. )
   Michaił Gorbaczow		                                  ? ( wg M.Ś. )
+                                                        1985-1991 (?.3.-31.12.) ( Mikhail Gorbachev wg V.K.T.H.O.H.E. )
   presidents
     Mikhail Kalinin                                     ? ( wg V.K.T.H.O.H.E. )
   Bibliografia :
