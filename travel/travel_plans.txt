@@ -1671,6 +1671,8 @@ Kosovo
         Sar planina National Park
 Francja
         Conques
+            - abbatiale Sainte-Foy
+            - pont sur le Dourdou
         Annecy
             - stare miasto
         Vichy 
@@ -1700,6 +1702,7 @@ Francja
             - Beffroi de l’Hotel de Ville
         Arras
             - Beffroi de l’Hotel de Ville d’Arras
+            - La citadella d’Arras
         Bethune
             - Beffroi de Bethune 
         Boulogne-sur-Mer
@@ -1725,6 +1728,11 @@ Francja
             - Maison La Roche
             - Maison Jeanneret
             - Immeuble Molitor
+            - Tour Saint-Jacques/vestige de l'eglise Saint-Jacques-de-la-Boucherie
+            - Versailles - park i palac
+            - Banks of the Seine
+        Saint-Guilhem-le-Desert
+            - Ancienne abbaye de Gellone
         Bordeaux
             - Cite Fruges
             - stare miasto i port
@@ -1764,12 +1772,14 @@ Francja
             - Alyscamps
             - The Church of St. Trophime and its cloister
             - Roman exedra - courtyard of Museon Arlaten
+            - Eglise St Honorat
         Vezelay
             - Colline de Vézelay
             - Corbigny
+            - Basilique Sainte-Madeleine
         Canal du Midi
         Bourges
-            - katedra
+            - katedra Saint-Etienne
         Chartres
             - katedra
         Reims
@@ -1815,7 +1825,235 @@ Francja
         Oloron-Sainte-Marie
             - Oloron Cathedral
         Clermont-Ferrand
-            - Eglise Notre-Dame-du-Port  
+            - Eglise Notre-Dame-du-Port
+        Le Puy-en-Velay
+            - Cathedrale Notre-Dame
+            - Hotel-Dieu Saint-Jacques
+        Le Mont-Saint-Michel
+            - miasto
+            - okoliczna zatoka
+        La Charité-sur-Loire
+            - Eglise prieurale Sainte-Croix-Notre-Dame
+        Asquins
+            - Eglise Saint-Jacques d’Asquins
+        Neuvy-Saint-Sepulchre
+            - Collegiale Saint-Etienne/anciennement collegiale Saint-Jacques
+        L'Epine
+            - Notre-Dame de l'Epine
+        Chalons-en-Champagne
+            - Eglise Notre-Dame-en-Vaux
+        Saint-Jean-de-Fos
+            - Pont du Diable
+        Saint-Gilles-du-Gard
+            - ancienne abbatiale
+        Saint-Leonard-de-Noblat
+            - eglise Saint-Leonard
+        Audressein
+            - eglise Notre-Dame de Tramesaygues
+        Saint-Lizier
+            - former cathedral and cloister 
+            - cathedral Notre-Dame-de-la-Sede 
+            - episcopal palace
+            - rempart
+        Espalion
+            - Pont-Vieux
+        Estaing
+            - pont sur le Lot
+        Saint-Chely-d'Aubrac
+            - pont dit “des pelerins” sur la Boralde 
+        Saint-Bertrand-de-Comminges
+            - ancienne cathedrale Notre-Dame
+            - basilique paleochretienne chapelle Saint-Julien
+        Toulouse
+            - basilique Saint-Sernin
+            - Hotel-Dieu Saint-Jacques
+        Valcabrere
+            - Basilique Saint-Just
+        Auch
+            - cathedrale Sainte-Marie
+        Larressingle
+            - Pont d’Artigues ou de Lartigues
+        La Romieu
+            - collegiale Saint-Pierre
+        Cahors
+            - cathedrale Saint-Etienne
+            - pont Valentre
+        Grealou
+            - dolmen de Pech-Laglaire
+        Figeac
+            - hopital Saint-Jacques
+        Rocamadour
+            - Basilique Saint-Sauveur et crypte Saint-Amadour
+        Aragnouet
+            - hospice du Plan et chapelle Notre-Dame-de-l’Assomption connue sous le nom de chapelle des Templiers
+        Gavarnie
+            - eglise paroissiale Saint-Jean-Baptiste/Eglise Notre-Dame du Bon Port
+        Jezeau
+            - eglise Saint-Laurent
+        Ourdis-Cotdoussan
+            - eglise Saint-Jacques
+        Rabastens
+            - eglise Notre-Dame-du-Bourg
+        Moissac
+            - abbatiale Saint-Pierre et cloitre
+        Folleville
+            - eglise paroissiale Saint-Jacques le Majeur et Saint-Jean-Baptiste
+        Compiegne
+            - eglise paroissiale Saint-Jacques
+        Saintes
+            - eglise Saint-Eutrope
+        Saint-Jean-d'Angely
+            - abbaye royale Saint-Jean-Baptiste
+        Melle
+            - eglise Saint-Hilaire
+        Aulnay
+            - eglise Saint-Pierre
+        Poitiers
+            - eglise Saint-Hilaire-le-Grand
+        Pons
+            - ancien hopital des Pelerins
+        Chemin de St Jacques
+        Chemin du Puy
+        Albi
+            - centrum historyczne
+            - Pont-Vieux
+            - the Saint-Salvi quarter
+            - Eglise Saint-Salvy
+            - katedra
+            - Palais de la Berbie
+        Arc-et-Senans
+            - Saline Royale/Royal Saltworks
+        Salins-les-Bains
+            - saltworks
+        Besancon
+            - citadel
+            - city walls
+            - Fort Griffon
+        Blaye
+            - citadel
+            - city walls
+            - Fort Pate
+        Cussac-Fort-Medoc
+            - Fort Medoc
+        Briancon
+            - city walls
+            - Redoute des Salettes
+            - Fort des Trois-Tetes
+            - Fort du Randouillet
+            - ouvrage de la communication Y
+            -  Asfeld Bridge
+        Camaret-sur-Mer
+            - Tour Vauban
+        Longwy
+            - La place forte de Longwy
+        Mont-Dauphin
+            - La place forte de Mont-Dauphin
+        Mont-Louis
+            - citadel
+            - city walls
+        Neuf-Brisach
+            - La place forte de Neuf-Brisach
+        Saint-Martin-de-Re
+            - citadel
+            - city walls
+        Saint-Vaast-la-Hougue
+            - Tatihou watchtowers
+        Villefranche-de-Conflent
+            - Fort Liberia
+            - Cova Bastera
+            - city walls
+        Bazoches
+            - Chateau de Bazoches
+        Le Palais
+            - La Citadelle
+            - city walls
+        Saint-Emilion
+            - Jurisdiction of Saint-Emilion/city and viticulture landscape
+        Le Havre
+            - the City Rebuilt by Auguste Perret
+        Moidrey
+            - Ancien moulin de Moidrey
+        Fontainebleau
+            - palace
+            - park zamkowy
+        Nancy
+            - Place Stanislas
+            - Place de la Carriere
+            - Place d'Alliance in Nancy
+        Remoulins
+            - Pont du Gard
+        Provins
+            - miasto historyczne
+        Lyon
+            - centrum historyczne
+        Clairvaux-les-Lacs
+            - Le Grand Lac de Clairvaux - prehistoric pile dwelling
+        Marigny
+            - Lac de Chalain rive occidentale - prehistoric pile dwelling
+        Conjux
+            - Site archeologique de Hautecombe - prehistoric pile dwelling
+        Tresserve
+            - Site archeologique du Saut/Littoral de Tresserve - prehistoric pile dwelling
+        Chens-sur-Leman
+            - Littoral de Chens-sur-Leman - prehistoric pile dwelling
+        Saint-Jorioz
+            - Les Marais de Saint-Jorioz - prehistoric pile dwelling
+        Chindrieux
+            - Baie de Chatillon - prehistoric pile dwelling
+        Brison-Saint-Innocent
+            - Baie de Gresine - prehistoric pile dwelling
+        Aiguebelette-le-Lac
+            - Lac d’Aiguebelette zone sud - prehistoric pile dwelling
+        Sevrier
+            - Le Cret de Chatillon - prehistoric pile dwelling
+            - Secteur des Mongets - prehistoric pile dwelling
+        Montignac
+            - Lascaux cave
+        Fleurac
+            - Cro de Granville/cro de Rouffignac
+        Saint-Cirq
+            - Roc de Saint-Cirq
+        Peyzac-le-Moustier
+            - Le Moustier
+        Tursac
+            - La Madeleine
+        Sireuil
+            - Le Cap Blanc/abri de Cap Blanc
+        Les Eyzies-de-Tayac
+            - Les Combarelles/Grotte des Combarelles
+            - Le Grand Roc/Grotte du Grand Roc
+            - Laugerie basse
+            - La Mouthe/Grotte de la Mouthe
+            - Font de Gaume
+            - Abri du Poisson
+            - Abri de Cro-Magnon
+        Manaurie
+            - Laugerie haute        
+            - La Micoque/Gisement de la Micoque
+        Orange
+            - Arc de triomphe
+            - Theatre antique and surroundings
+        Chambord
+            - Chateau and Estate of Chambord
+        The Loire Valley
+        Piana
+            - Calanche of Piana
+        Girolata
+            - The Scandola Reserve
+            - Gulf of Girolata
+        Porto
+            - Gulf of Porto
+        Nowa Kaledonia
+            - Grand Lagon Sud
+            - Zone Cotiere Ouest
+            - Zone Cotiere Nord-Est
+            - Grand Lagon Nord
+            - Atolls d’Entrecasteaux
+        Fayaoue
+            - Atoll d’Ouvea et Beautemps-Beaupre
+        La Reunion National Park
+        Gavarnie
+            - Cirque de Gavarnie
 Italia
         Parco Nazionale d'Abruzzo, Lazio e Molise
             - Valle Cervara	- primeval beech forest
@@ -1896,10 +2134,17 @@ Hiszpania
             - archeological site Royal Forced Labour Gaol
             - mercury mine
             - Retamar Castle
+        Cortalavina
+            - Dolmen de Tella
+        Nerin
+            - Canyon Anisclo - caves
+        Parque Nacional de Ordesa y Monte Perdido
+            - Escuain Valley
+            - landscape of the park
 Wielka Brytania
         Bath
             - lazne
-Szwjacaria
+Szwajcaria
         Vevey
             - Villa Le Lac
         Genewa
@@ -1933,3 +2178,4 @@ Multi-Country
         Struve Geodetic Arc
         Roman road from Bavay to Tongeren
         The Walk of Peace from Alps to Adriatic
+        Mont Perdu/Monte Perdido and surroundings

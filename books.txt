@@ -690,6 +690,7 @@ Eco , Umberto - Diariusz najmniejszy - POL
               - Foucaultovo kyvadlo - CZ
               - Jméno růže - CZ
               - Tajemniczy płomień królowej Loany - POL
+              - Baudolino - ENG
 Evarts , Hal George - Ostatnia woda - POL
 Feynman , Richard Phillips - Snad ti nedělají starosti cizí názory - CZ
 					       - To nemyslíte vázně pane Feynamane - CZ
@@ -1389,10 +1390,12 @@ Sanders , Charles Wesley - Czarny gość - POL
                          - Smierć na rozdrożu - POL
 Scisłowski , Włodzimierz ; Mrowiński , Stanisław - Tańczące grządki - O
 Shakespeare , William - Makbet - POL
-Sienkiewicz , Henryk - Latarnik - O
+Sienkiewicz , Henryk - Krzyżacy - O
+                     - Latarnik - O
                      - Ogniem i mieczem - O
                      - Pan Wołodyjowski - O
                      - Potop - O
+                     - Quo Vadis - O
                      - W pustyni i w puszczy - O
                      - Za chlebem - O
 Sláma , František - Śpiący rycerze - POL
