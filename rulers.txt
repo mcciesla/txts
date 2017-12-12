@@ -3173,6 +3173,7 @@ Bitynia
       			            	                              przed 188-? ( Prusjasz wg K.R.I.C.R. )
                   			            	                  ok.230-ok.182 ( Prusias I wg T. )
       			            	                              przed 205-182 ( Prúsiás I wg S.H. )
+                                                        przed 183-po 182 ( Prusjasz (Pruzjasz) wg K.1.1.P.N.E. )
   Prusjasz II                          	                182-149 ( wg D.Ś. i A.Č. )
                                                         180-166 ( wg V.N.M.S.D. )
       					                                        ? ( wg D.R. )
@@ -3204,6 +3205,7 @@ Bitynia
       Lukullus
       Encyklopedie panovníků
       Říše slova - Jazykové dějiny světa
+      Kartagina 149-146 p.n.e.
 
 Bit-Amón
   Sanipu               	                                ok.732 p.n.e. ( wg K.T.V.S.O. )
@@ -7114,6 +7116,7 @@ Egipt
                                                         ? ( Ptolemaios III wg T. )
       							  	                                246-? ( Ptolemaios III Euergetes wg T.H.S. )
       							  	                                246-221 ( Ptolemaios III wg S.H. ) ( Ptolemaios III Euergetés wg E.P. )
+                                                        ok.245 ( Ptolemeusz wg K.1.1.P.N.E. )
     Ptolemeusz IV Filopator                            	222-204 ( wg D.Ś. i A.Č. )
                                                        	222-205 ( wg V.N.M.S.D. )
         								                                222-205 ( ?-lato ) ( Ptolemaios IV Filopatór wg S.K. )
@@ -7122,13 +7125,14 @@ Egipt
       							  	                                222-? ( jesień-? ) ( Ptolemaios IV Filopator wg T.H.S. )
       	          						   	                      221-204 ( Ptolemaios IV wg S.H. )
       								                                  221-205/4 ( Ptolemaios IV Filopatór wg E.P. )
-    Ptolemeusz					  	                            204 -180 ( wg S.C. )
-    Ptolemeusz V Epifanes                              	204 -180 ( wg D.Ś. i A.Č. ) ( Ptolemaios V Epifanés wg S.K. i S.H. ) ( Ptolemaios V Epifanés wg E.P. )
+    Ptolemeusz					  	                            204-180 ( wg S.C. )
+    Ptolemeusz V Epifanes                              	204-180 ( wg D.Ś. i A.Č. ) ( Ptolemaios V Epifanés wg S.K. i S.H. ) ( Ptolemaios V Epifanés wg E.P. )
                                                         205-181 ( wg V.N.M.S.D. )
       							   	                                przed 203-? ( wg D.R. )
       							   	                                205-? ( wg S.C. )
       							        	                          ? ( wg H.P.S. ) ( Ptolemaios V wg T.H.S. )
-      							   	                                przed 194 -? ( Ptolemaios V wg S.K. )
+      							   	                                przed 194-? ( Ptolemaios V wg S.K. )
+                                                        przed 195-? ( Ptolemeusz V wg K.1.1.P.N.E. )
     Ptolemeusz VI Filometor                            	180-164 i 163-145 ( wg D.Ś. i A.Č. ) ( Ptolemaios VI Filométór wg S.K. )
                                                         181-146 ( wg V.N.M.S.D. )
       							   	                                przed 164 -145 ( wg D.R. )
@@ -7374,6 +7378,7 @@ Egipt
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Kubiłaj-chan - władca największego imperium w dziejach
       Zapomianie narody Europy
+      Kartagina 149-146 p.n.e.
 
 Egrisi
   Bibliografia :
@@ -7556,6 +7561,7 @@ Epir
       	  		                                          przed 288-272 ( Pyrrhos wg S.H. )
       			                                            przed 279-272 ( Pyrrhos wg E.P. )
                                                         przed 280-? ( Pyrrhos wg Ř.S.J.Ď.S. )
+                                                        przed 280-po 274 (wiosna-?) ( Pyrrus wg K.1.1.P.N.E. )
   Aleksander II  	                                      272-ok.250
   Pyrrus III        	                                  ok.250-219
   Laodamie      	                                      219-ok.210
@@ -7586,6 +7592,7 @@ Epir
       Zdraví Vás Caesar
       Klasické Řecko
       Říše slova - Jazykové dějiny světa
+      Kartagina 149-146 p.n.e.
 
 Eretria
   Diagoros		                                          ok.550 p.n.e.-? ( wg Z.Ř. )
@@ -8405,6 +8412,10 @@ Gabie
   Sekstus Tarkwiniusz                                   ?
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
+
+Gades
+  Bibliografia :
+      Kartagina 149-146 p.n.e.
 
 Gaeta
   Bibliografia :
@@ -9838,6 +9849,11 @@ Państwo Il-Chanów ( Ilchanat Perski )
       Encyklopedie panovníků
       Kubiłaj-chan - władca największego imperium w dziejach
 
+Ilergeci
+  Andobales                                             ?-218 p.n.e.
+  Bibliografia :
+      Kartagina 149-146 p.n.e.
+
 Illinois
   Bibliografia :
       Czarne wampuny głoszą wojnę
@@ -9848,6 +9864,7 @@ Królestwo Illirii
   Klejtos               	                              ok.335
   Teuta                	                                przed 230-? ( wg D.R. )
       		          	                                  przed 230-po 228 ( wg K.R.I.C.R. )
+  Skerdilajdas                                          przed 217-? ( wg K.1.1.P.N.E. )
   Pleuratos	                                            ? ( wg D.G. )
       		         	                                    przed 205-? ( Pleurátos wg S.H. )
   Gentios            	                                  przed 172-168 ( wg D.R. )
@@ -11394,20 +11411,25 @@ Królestwo Karsu
       Dynastie Świata
       Arménie
 
-Kartagina
+Kartagina ( Quart Hadaszt )
   Elissa ( Dydona )		                                  ok.820 p.n.e. ( wg S.B.W: i F. )
       				                                          ? ( Didona wg Z.Ř. i Ř.S.J.Ď.S. )
-  Malko                             	                  ok.550
-  Mago			                                            ?
-  Hamilkar			                                        ?
-  Hasdrubal		                                          ?
-  Uwagi :
-      Wszystko oprócz oznaczonego wg S.B.W. i F.
+                                                        1234/941 p.n.e.-? ( wg K.1.1.P.N.E. )
+  Malko                             	                  ok.550 ( wg S.B.W. i F. )
+  Malthus                                               przed 555-po 545 ( wg K.1.1.P.N.E. )
+  Mago			                                            ? ( wg S.B.W. i F. )
+  Hamilkar			                                        ? ( wg S.B.W. i F. )
+  Hasdrubal		                                          ? ( wg S.B.W. i F. )
+  Hamilkar Barkas                                       ok.230 ( wg K.1.1.P.N.E. )
+  Hannibal                                              201-? ( wg K.1.1.P.N.E. )
+  Hasdrubal                                             151 ( wg K.1.1.P.N.E. )
+  Kartalon                                              151/0 ( wg K.1.1.P.N.E. )
   Bibliografia :
       Starożytny Bliski Wschód
       Foiničané
       Zrození Řecka
       Říše slova - Jazykové dějiny světa
+      Kartagina 149-146 p.n.e.
 
 Kartlia
   Guaram Bagratyda	                                    575 n.e.-?
@@ -13367,6 +13389,10 @@ Leontinoi ( Leontinoj )
       Dzieje Grecji
       Klasické Řecko
 
+Leptis
+  Bibliografia :
+      Kartagina 149-146 p.n.e.
+
 Lerna
   Bibliografia :
       Dzieje Grecji
@@ -13870,9 +13896,11 @@ Bishopric of Luxeuil
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Luzytanie
-  Wiriatus                                              ok.147 p.n.e.
+  Wiriatus                                              ok.147 p.n.e. ( wg H.P.S. )
+                                                        ?-139 p.n.e. ( wg K.1.1.P.N.E. )
   Bibliografia :
       Historia Powszechna – Starożytność
+      Kartagina 149-146 p.n.e.
 
 Hrabstwo Lüchow
   Bibliografia :
@@ -14038,7 +14066,7 @@ Macedonia
                                                         ok.333 ( wg F. )
 				    	                                          przed 334-po 332 ( wg D.R. )
 				    	                                          336-? ( wg S.C. )
-				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. ) ( Aleksander Macedoński wg Z.N.E. )
+				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. ) ( Aleksander Macedoński wg Z.N.E. )
 				    	                                          przed 332-?  ( Aleksander Macedoński wg B.M. )
                                                         przed 324-323 ( ?-10.6. ) ( Alexandr Veliký wg T.H.S. )
 					                                              przed 332-323 ( Alexandr Veliký wg Ž.V.Ř.S. )
@@ -14118,19 +14146,21 @@ Macedonia
 				       	                                        przed 211-po 202 ( wg T. )
 				       	                                        przed 216-? ( wg T.H.S. )
 			   	       	                                      222/1-179 ( wg S.H. i E.P. )
+                                                        przed 217-po 191 ( Filip V wg K.1.1.P.N.E. )
     Perseusz                             	              179-168 ( wg D.Ś. i A.Č. i H.P.S. i K.R.I.C.R. i S.K. ) ( Perseus wg E.P. )
                                                         178-168 ( wg V.N.M.S.D. )
 				       	                                        przed 172-168 ( wg D.R. )
 				       	                                        181-168 ( wg S.C. )
 				       	                                        179-169 ( Perseus wg T. )
 				       	                                        179-168 ( ?-?.6. ) ( Perseus wg S.H. )
+                                                        przed 171-168 ( wg K.1.1.P.N.E. )
     Andriskos                              	            przed 148-? ( wg S.H. )
+                                                        przed 152-po 148 ( wg K.1.1.P.N.E. )
   Cesarstwo Macedońskie
     Samuel                           	                  976-1014
     Gabriel Radomir		                                  1014-1015
     Iwan Władysław            	                        1015-1018
   Uwagi :
-      Wszystko oprócz oznaczonego wg A.Č. , D.Ś. i V.N.M.S.D.
       Cesarstwo Macedońskie wg D.Ś.
   Bibliografia :
       Antické Černomoří
@@ -14166,6 +14196,7 @@ Macedonia
       Říše slova - Jazykové dějiny světa
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
+      Kartagina 149-146 p.n.e.
 
 Machalata
   Bibliografia :
@@ -14624,7 +14655,7 @@ Massageci
   Bibliografia :
       Serce Azji
 
-Massilia
+Massilia ( Massylia )
   Bibliografia :
       Dzieje Grecji
 
@@ -16491,46 +16522,57 @@ Nuhaszsze
 
 Nukarda
 
-Królestwo Numidii
-  Syfaks                   	                            przed 204-203 ( wg D.R. )
-      		             	                                przed 213-po 203 ( wg K.R.I.C.R. )
-  Masynissa		                                          203-148 ( wg D.Ś. i V.N.M.S.D. )
-      		             	                                ok.205 ( wg F. )
-      		             	                                ok.204 ( wg 100.N.V.S. )
-      		             	                                203-143 ( wg D.R. )
-      		             	                                238-149 ( wg S.C. )
-      		             	                                przed 202-? ( wg H.P.S. )
-      		             	                                201-po 149/8 ( wg K.R.I.C.R. )
-      				                                          202-149/8 ( Masinissa wg E.P. )
-  Gulussa                 	                            148-140
-  Mastanabal            	                              148-140
-  Micipsa                 	                            148-118 ( wg D.Ś. i V.N.M.S.D. )
-      		             	                                ?-118 ( wg D.R. )
-      			   	                                        ? ( Micypsa wg H.P.S. )
-      				                                          149/8-118 ( wg E.P. )
-  Hiempsal I            	                              118-116 ( wg D.Ś. i V.N.M.S.D. )
-      			    	                                      ? ( wg F. ) ( Hiempsal wg E.P. )
-      		             	                                118-117 ( Hiempsal wg D.R. )
-  Adherbal               	                              118-112 ( wg D.Ś. i V.N.M.S.D. i D.R. )
-      		             	                                przed 116-112 ( wg K.R.I.C.R. )
-      				                                          ? ( wg E.P. )
-  Jugurta                  	                            118-105 ( wg D.Ś. i V.N.M.S.D. ) ( Jugurtha wg E.P. )
-      		             	                                118-104 ( wg D.R. )
-      		             	                                przed 106-? ( Jughurta wg D.P.I.R.G. )
-      		             	                                przed 111-po 105 ( wg H.P.S. )
-      		             	                                przed 116-105 ( wg K.R.I.C.R. )
-      				                                          ? ( Jugurtha wg Z.V.C. i T.P.Ž.C. )
-  Gauda                    	                            105-? ( wg D.Ś. i V.N.M.S.D. )
-      		              	                              104-? ( wg D.R. )
-  Hiempsal II            	                              88-60 ( wg D.Ś. i V.N.M.S.D. )
-      				                                          ? i 80-? ( Hiempsal wg D.R. )
-  Hiarbas                   	                          ok.80 ( wg D.R. )
-  Juba I                      	                        60-46 ( wg D.Ś. i V.N.M.S.D. i E.P. )
-      				                                          przed 49-? ( wg D.R. )
-      				                                          przed 46-? ( wg H.P.S. )
-      				                                          przed 49-46 ( Juba wg K.R.I.C.R. )
-  Juba II                     	                        ?-4 ( wg D.R. )
-      				                                          ?-25 ( wg K.R.I.C.R. )
+Numidowie
+  Warmin                                                przed 203/2-? ( wg K.1.1.P.N.E. )
+  Tyjchos                                               przed 202-? ( wg K.1.1.P.N.E. )
+  Numidia Wschodnia
+    Gala                                                ? ( wg K.1.1.P.N.E. )
+    Masynissa                                           przed 204-po 202 ( wg K.1.1.P.N.E. ) [King of Numidia]
+  Królestwo Numidii
+    Syfaks                   	                          przed 204-203 ( wg D.R. )
+        		             	                              przed 213-po 203 ( wg K.R.I.C.R. )
+                                                        przed 216-203 (wiosna-?) ( wg K.1.1.P.N.E. )
+    Masynissa		                                        203-148 ( wg D.Ś. i V.N.M.S.D. )
+        		             	                              ok.205 ( wg F. )
+        		             	                              ok.204 ( wg 100.N.V.S. )
+        		             	                              203-143 ( wg D.R. )
+        		             	                              238-149 ( wg S.C. )
+        		             	                              przed 202-? ( wg H.P.S. )
+        		             	                              201-po 149/8 ( wg K.R.I.C.R. )
+        				                                        202-149/8 ( Masinissa wg E.P. )
+                                                        przed 201-149 (Massynisa wg K.1.1.P.N.E. )
+    Gulussa                 	                          148-140 ( wg D.Ś. i V.N.M.S.D. )
+                                                        149/8-po 146 ( wg K.1.1.P.N.E. )
+    Mastanabal            	                            148-140 ( wg D.Ś. i V.N.M.S.D. )
+                                                        149/8-? ( wg K.1.1.P.N.E. )
+    Micipsa                 	                          148-118 ( wg D.Ś. i V.N.M.S.D. )
+        		             	                              ?-118 ( wg D.R. )
+        			   	                                      ? ( Micypsa wg H.P.S. )
+        				                                        149/8-118 ( wg E.P. )
+                                                        149/8-? ( wg K.1.1.P.N.E. )
+    Hiempsal I            	                            118-116 ( wg D.Ś. i V.N.M.S.D. )
+        			    	                                    ? ( wg F. ) ( Hiempsal wg E.P. )
+        		             	                              118-117 ( Hiempsal wg D.R. )
+    Adherbal               	                            118-112 ( wg D.Ś. i V.N.M.S.D. i D.R. )
+        		             	                              przed 116-112 ( wg K.R.I.C.R. )
+        				                                        ? ( wg E.P. )
+    Jugurta                  	                          118-105 ( wg D.Ś. i V.N.M.S.D. ) ( Jugurtha wg E.P. )
+        		             	                              118-104 ( wg D.R. )
+        		             	                              przed 106-? ( Jughurta wg D.P.I.R.G. )
+        		             	                              przed 111-po 105 ( wg H.P.S. )
+        		             	                              przed 116-105 ( wg K.R.I.C.R. )
+        				                                        ? ( Jugurtha wg Z.V.C. i T.P.Ž.C. ) ( wg K.1.1.P.N.E. )
+    Gauda                    	                          105-? ( wg D.Ś. i V.N.M.S.D. )
+        		              	                            104-? ( wg D.R. )
+    Hiempsal II            	                            88-60 ( wg D.Ś. i V.N.M.S.D. )
+        				                                        ? i 80-? ( Hiempsal wg D.R. )
+    Hiarbas                   	                        ok.80 ( wg D.R. )
+    Juba I                      	                      60-46 ( wg D.Ś. i V.N.M.S.D. i E.P. )
+        				                                        przed 49-? ( wg D.R. )
+        				                                        przed 46-? ( wg H.P.S. )
+        				                                        przed 49-46 ( Juba wg K.R.I.C.R. )
+    Juba II                     	                      ?-4 ( wg D.R. )
+        				                                        ?-25 ( wg K.R.I.C.R. )
   Uwagi :
       Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
   Bibliografia :
@@ -16546,6 +16588,7 @@ Królestwo Numidii
       Encyklopedie panovníků
       Zdraví Vás Caesar
       Tiberius – Pohnutý život císaře
+      Kartagina 149-146 p.n.e.
 
 Obodrzyce ( Obodrzyci , Abodriti , Abodriten )
   Wican                                                 przed 789-795 ( Wiczan wg Z.N.E. )
@@ -16695,6 +16738,10 @@ Odżibwejowie ( Ojibway )
   Sekahos                                               przed 1761-po 1763 ( jesień-? )
   Bibliografia :
       Czarne wampuny głoszą wojnę
+
+Oea
+  Bibliografia :
+      Kartagina 149-146 p.n.e.
 
 Ojraci
   Esen              		                                1440-1455 ( wg T.Z.H.S. )
@@ -17461,7 +17508,7 @@ Pergamon
       					                                        ? ( wg E.P. )
   Eumenes II Filadelf                 	                197-159 ( wg A.Č. , D.Ś. i V.N.M.S.D. i S.K. ) ( Eumenés II wg S.H. )
       				        	                                przed 196-159 ( wg D.R. )
-      				        	                                ? ( wg S.C. i T. )
+      				        	                                ? ( wg S.C. i T. ) ( Eumenes II wg K.1.1.P.N.E. )
       				        	                                przed 172-? ( Eumenes wg K.R.I.C.R. )
       				        	                                przed 188-159 ( wg T.H.S. )
       					                                        197-160/59 ( Eumenés II wg E.P. )
@@ -17471,7 +17518,8 @@ Pergamon
       				        	                                przed 156-? ( wg T. )
       				        	                                przed 156-138 ( wg S.H. )
   Attalos III Filometor Euergetes	                      138-133 ( wg A.Č. , D.Ś. i V.N.M.S.D. i T.H.S. i S.H. )
-      				        	                                ?-133 ( wg D.R. i H.P.S. i T. i S.K. )
+      				        	                                ?-133 ( wg D.R. i H.P.S. i T. i S.K. ) ( Attalos III wg K.1.1.P.N.E. )
+  Eumenes III ( Aristonik )                             przed 131-130 ( wg K.1.1.P.N.E. )
   Uwagi :
       Wszyatko oprócz oznaczonego wg A.Č. , D.Ś. i V.N.M.S.D.
   Bibliografia :
@@ -17487,6 +17535,7 @@ Pergamon
       Tvář helenistického světa
       Svět helénismu
       Encyklopedie panovníků
+      Kartagina 149-146 p.n.e.
 
 Perinthos
   Bibliografia :
@@ -18796,13 +18845,13 @@ Rzym
     			 	                                            ? ( Tarkwiniusz Stary wg H.P.S. )
     				                                            616-? ( wg Z.V.C. )
     				                                            ok.616-579 ( Tarquinius Priskus wg Z.Ř. )
-    Servius Tullius        	                            578-534  ( wg V.N.M.S.D. ) ( Mastarna wg Z.V.C. )
-    			       	                                      578-535 ( Serwiusz Tuliusz wg D.R. i K.R.I.C.R. )
+    Servius Tullius        	                            578-534 ( wg V.N.M.S.D. ) ( Mastarna wg Z.V.C. )
+    			       	                                      578-535 ( Serwiusz Tuliusz wg D.R. i K.R.I.C.R. i K.1.1.P.N.E. )
     			       	                                      ok.578-535 ( Serwiusz Tulliusz wg S.C. ) ( Servius Tulius wg Z.Ř. )
     			  	                                          ? ( Serwiusz Tuliusz wg H.P.S. )
     Tarquinius Superbus	                                534-509 ( wg V.N.M.S.D. )
                                                    	    ok.535-509 ( Tarkwiniusz II Pyszny wg S.C. )
-    			        	                                    534 -510 ( Lucjusz Tarkwiniusz Pyszny ( Lucius Tarquinius Superbus ) wg D.R. ) ( Lucjusz Tarkwiniusz Superbus wg K.R.I.C.R. ) ( wg Z.V.C. )
+    			        	                                    534-510 ( Lucjusz Tarkwiniusz Pyszny ( Lucius Tarquinius Superbus ) wg D.R. ) ( Lucjusz Tarkwiniusz Superbus wg K.R.I.C.R. ) ( wg Z.V.C. )
     		     		                                        ? ( Tarkwiniusz Pyszny wg H.P.S. ) ( wg K.Ř. )
     				                                            ?-ok.510/07 ( wg Z.Ř. )
     				                                            ?-509 ( Tarkwiniusz Pyszny wg O.A.O.C.E. )
@@ -18830,6 +18879,7 @@ Rzym
     Emiliusz Mamercynus				           		            426 ( wg K.R.I.C.R. )
     Marek Furiusz Kamillus				     	                396 i 394 i 390-389 i 368-366 ( wg K.R.I.C.R. )
     									                                  ? i 387 ( Furius Camillus wg Z.V.C. )
+                                                        406 ( wg K.1.1.P.N.E. )
     Marek Manliusz Kapitolinus			           		      392 ( wg D.R. )
     							              	                      ? ( wg K.R.I.C.R. )
     Aulus Korneliusz Kossus				    	                385 ( wg K.R.I.C.R. )
@@ -18869,45 +18919,54 @@ Rzym
     Kwintus Emiliusz Papus				     	                282 ( wg K.R.I.C.R. )
     Fabrycjusz Luscynus				           		            279 ( wg K.R.I.C.R. )
     Kwintus Fabiusz Gurges				         	            265 ( wg K.R.I.C.R. )
-    Klaudiusz ( Appiusz ) Kaudeks			           		    264 ( wg D.R. ) ( Appiusz Klaudiusz wg K.R.I.C.R. )
+    Klaudiusz ( Appiusz ) Kaudeks			           		    264 ( wg D.R. ) ( Appiusz Klaudiusz wg K.R.I.C.R. ) ( Appiusz Klaudiusz (Appiusz Klaudiusz Caudex) wg K.1.1.P.N.E. )
     Marek Fulwiusz Flakkus					                    264 ( wg K.R.I.C.R. )
     Maniusz Waleriusz Messala			           		        263 ( wg D.R. ) ( Manliusz Waleriusz Messala wg K.R.I.C.R. )
     Gajusz Duiliusz					         	                  260 ( wg D.R. i B.M. i K.R.I.C.R. )
-    Gajusz Korneliusz Scypion Asina			       	        260 ( wg K.R.I.C.R. )
+    Gajusz Korneliusz Scypion Asina			       	        260 ( wg K.R.I.C.R. ) ( Gnejusz Korneliusz Scypion wg K.1.1.P.N.E. )
     Aulus Atyliusz Kalatyn				           		        ok.260 ( wg K.R.I.C.R. )
     Lucjusz Korneliusz Scypion Młodszy		           		259
-    Gajusz Emiliusz Regulus				        	            256 ( wg D.R. ) ( M. Atiliusz Regulus wg H.P.S. )
+    Gajusz Emiliusz Regulus				        	            256 ( wg D.R. ) ( M. Atiliusz Regulus wg H.P.S. ) ( Marek Atyliusz Regulus wg K.1.1.P.N.E. )
     							           		                        257-256 ( Gajusz Atyliusz Regulus wg K.R.I.C.R. )
-    Lucjusz Manliusz Wulson				      	              256
+    Lucjusz Manliusz Wulson				      	              256 ( wg D.R. i K.R.I.C.R. )
+                                                        256 i 250 ( Lucjusz Maniliusz Wulson wg K.1.1.P.N.E. )
     Lucjusz Cecyliusz Metellus			           		      251-250 ( wg K.R.I.C.R. )
-    Publiusz Klaudiusz Pulcher			           		      249
-    Lucjusz Juniusz Pullus                              249 ( wg K.R.I.C.R. )
-    Gajusz Lutacjusz Katulus               			      	242
+                                                        250 ( Lucjusz Cecyliusz Metelus wg K.1.1.P.N.E. )
+    Publiusz Klaudiusz Pulcher			           		      249 ( wg D.R. i K.R.I.C.R. i K.1.1.P.N.E. )
+    Lucjusz Juniusz Pullus                              249 ( wg K.R.I.C.R. i K.1.1.P.N.E. )
+    Gajusz Lutacjusz Katulus               			      	242 ( wg D.R. i K.R.I.C.R. ) ( Gajusz Lutacjusz Katullus wg K.1.1.P.N.E. )
     Tyberiusz Semproniusz Grakchus			      	        238 ( wg K.R.I.C.R. )
     Kwintus Fabiusz Maksymus			           		        ? i ? i ? i 233 i 217 i 209 ( wg K.R.I.C.R. )
     							           		                        217 ( Kwintus Fabiusz Maksimus wg D.R. )
     									                                  233 i 228 i 217 i 215 i 214 ( Quintus Fabius Maximus Cunctator wg E.P. )
     									                                  ? i 215 ( Quintus Fabius Maximus wg Z.V.C. )
+                                                        ? i 217 ( wg K.1.1.P.N.E. )
     Gajusz Flaminiusz   				           		          223 i 217 ( wg D.R. )
     							           		                        217 ( wg H.P.S. ) ( Flaminius wg Z.V.C. )
     							           		                        223 ( wg K.R.I.C.R. )
+                                                        217 (?-21.6.) ( wg K.1.1.P.N.E. )
     Marek Klaudiusz Marcellus			           		        222 ( wg D.R. )
         							           		                    222 i 214 i 210 i 208 ( wg K.R.I.C.R. )
     Gnejusz Korneliusz Scypion			           		      222 ( wg D.R. )
-    Publiusz Korneliusz Scypion			           		      218 ( wg D.R. i K.R.I.C.R. ) ( Publiusz Korneliusz Scypio wg H.P.S. ) ( Scipio wg Z.V.C. )
-    Tyberiusz Semproniusz Longus			       		        218 ( wg D.R. i K.R.I.C.R. ) ( Sempronius wg Z.V.C. )
-    Servilius							                              217 ( wg Z.V.C. )
+    Publiusz Korneliusz Scypion			           		      218 ( wg D.R. i K.R.I.C.R. i K.1.1.P.N.E. ) ( Publiusz Korneliusz Scypio wg H.P.S. ) ( Scipio wg Z.V.C. )
+    Tyberiusz Semproniusz Longus			       		        218 ( wg D.R. i K.R.I.C.R. i K.1.1.P.N.E. ) ( Sempronius wg Z.V.C. )
+    Gnejusz Serwiliusz Geminus                          217 ( wg K.1.1.P.N.E. ) ( Servilius wg Z.V.C. )
     Marek Mincjusz                    	                217 ( wg K.R.I.C.R. )
-    Lucjusz Emiliusz Paulus				         	            216
-    Gajusz Terencjusz Warron			           		        216 ( wg D.R. i K.R.I.C.R. ) ( Terentius Varrus wg Z.V.C. )
+    Marek Atyliusz                                      217 ( wg K.1.1.P.N.E. )
+    Lucjusz Emiliusz Paulus				         	            216 ( wg D.R. i K.R.I.C.R. )
+                                                        216 (?-?.8.) ( wg K.1.1.P.N.E. )
+    Gajusz Terencjusz Warron			           		        216 ( wg D.R. i K.R.I.C.R. i K.1.1.P.N.E. ) ( Terentius Varrus wg Z.V.C. )
     Marek Juniusz Azera				           		            216 ( wg K.R.I.C.R. )
-    Kwintus Fulwiusz Flakkus			           		        212 ( wg D.R. )
+    Marek Juniusz Per                                   216 ( wg K.1.1.P.N.E. )
+    Kwintus Fulwiusz Flakkus			           		        212 ( wg D.R. ) ( Fulwiusz Flakkus wg K.1.1.P.N.E. )
+    Appiusz Klaudiusz                                   212 ( wg K.1.1.P.N.E. )
     Marek Waleriusz Lewinus				         	            210 ( wg K.R.I.C.R. )
     Tytus Kwinkcjusz Kryspinus			           		      208 ( wg K.R.I.C.R. )
-    Gajusz Klaudiusz Neron				         	            207
-    Marek Liwiusz Salinator				         	            207 ( wg D.R. i K.R.I.C.R. )
+    Klaudiusz Marcellus                                 208 ( wg K.1.1.P.N.E. )
+    Gajusz Klaudiusz Neron				         	            207 ( wg D.R. i K.R.I.C.R. i K.1.1.P.N.E. )
+    Marek Liwiusz Salinator				         	            207 ( wg D.R. i K.R.I.C.R. i K.1.1.P.N.E. )
     									                                  ? ( Marcus Livius Salinator wg Z.V.C. )
-    Publiusz Korneliusz Scypion Afrykański Starszy      205 i 194 ( wg D.R. )
+    Publiusz Korneliusz Scypion Afrykański Starszy      205 i 194 ( wg D.R. ) ( Publius Cornelius Scipio Africanus Major (Scypion Afrykański Starszy) wg K.1.1.P.N.E. )
     							           		                        205 i 171 ( wg K.R.I.C.R. )
                   							          	            204 ( Publiusz Korneliusz Scypio wg H.P.S. )
     									                                  205 ( Publius Cornelius Scipio wg Z.V.C. )
@@ -18917,18 +18976,19 @@ Rzym
     Gajusz Serwiliusz Geminus			           		        202 ( wg K.R.I.C.R. )
     Publiusz Sulpicjusz Galba                           200
     Sekstus Eliusz Petus      				       	          198 ( wg D.R. )
-    Tytus Kwinkcjusz Flaminiusz			           		      198 ( wg K.R.I.C.R. ) ( Flamininus wg L. )
+    Tytus Kwinkcjusz Flaminiusz			           		      198 ( wg K.R.I.C.R. ) ( Flamininus wg L. ) ( Tytus Kwinkcjusz Flaminus wg K.1.1.P.N.E. )
     							           		                        197 ( Titus Quintius Flaminius wg S.H. )
                                                         ? ( Flamininus wg Ř.S.J.Ď.S. )
     Marek Klaudiusz Marcellus			           		        196 ( wg D.R. )
-    Marek Porcjusz Katon				           		          195 ( wg K.R.I.C.R. )
+    Marek Porcjusz Katon				           		          195 ( wg K.R.I.C.R. ) ( Katon Cenzor wg K.1.1.P.N.E. )
     							              	                      ? ( wg D.R. )
     Gnejusz Domicjusz Ahenobarbus			 	                192 ( wg D.R. )
     Lucjusz Flaminius				           		              192 ( wg K.R.I.C.R. )
-    Maniusz Acyliusz Glabrion			           		        191 ( wg D.R. ) ( Manliusz Acyliusz Glabrion wg K.R.I.C.R. )
+    Maniusz Acyliusz Glabrion			           		        191 ( wg D.R. i K.1.1.P.N.E. ) ( Manliusz Acyliusz Glabrion wg K.R.I.C.R. )
     Publiusz Korneliusz Scypion Nazyka 		           		191
     Gajusz Leliusz					           		              190 ( wg D.R. )
-    Lucjusz Korneliusz Scypion			           		      190
+    Lucjusz Korneliusz Scypion			           		      190 ( wg D.R. i K.R.I.C.R. )
+                                                        ? ( wg K.1.1.P.N.E. )
     Marek Fulwiusz Nobilior                             189
     Gnejusz Manliusz Wulson				         	            189
     Gajusz Liwiusz					         		                188 ( wg D.R. )
@@ -18953,22 +19013,26 @@ Rzym
     Kwintus Marcjusz Filippus			           		        169 ( wg D.R. )
     Lucjusz Emiliusz Paulus    			           		      168 ( wg D.R. i H.P.S. i K.R.I.C.R. ) ( Lucius Aemilius Paulus wg S.H. )
     Gnejusz Oktawiusz 				           		            165 ( wg D.R. )
-    Publiusz Korneliusz Scypion Nazyka 		           		162 ( wg D.R. )
+    Publiusz Korneliusz Scypion Nazyka 		           		162 i 154 ( Publiusz Scypion Nazyka wg D.R. )
+                                                        162 i 155 ( wg K.1.1.P.N.E. )
+                                                        155 ( Publiusz Scypion Nazyka wg K.R.I.C.R. )
     Gajusz Faniusz					         	                  161 ( wg K.R.I.C.R. )
     Marek Korneliusz Cetegus			           		        161 ( wg K.R.I.C.R. )
     Marek Klaudiusz Marcellus			           		        155
-    Publiusz Scypion Nazyka				         	            ? i 154 ( wg D.R. )
-    							           		                        155 ( wg K.R.I.C.R. )
     Kwintus Opimiusz 				           		              ok.154 ( wg D.R. )
     							           		                        154 ( wg K.R.I.C.R. )
     Kwintus Fulwiusz Nobilior			           		        153 ( wg D.R. )
-    Lucjusz Licyniusz Lukullus			           		      151 ( wg D.R. i L. )
+    Lucjusz Licyniusz Lukullus			           		      151 ( wg D.R. i L. i K.1.1.P.N.E. )
     Aulus Postumiusz Albinus			           		        151 ( wg K.R.I.C.R. i L. )
+    Marek Maniliusz                                     149 ( wg K.1.1.P.N.E. )
+    Lucjusz Marcjusz Cenzorin                           149 ( wg K.1.1.P.N.E. )
     Spuriusz Postumiusz				           		            148 ( wg K.R.I.C.R. )
-    Publiusz Korneliusz Scypion Afrykański Młodszy      147 i 134 ( wg D.R. ) ( Publiusz Korneliusz Emilianus ( Publius Cornelius Scipio Aemilianus Africanus Minor ) wg K.R.I.C.R. )
+    Lucjusz Kalpurniusz Pizon Cezoninus                 148 ( wg K.1.1.P.N.E. )
+    Publiusz Korneliusz Scypion Afrykański Młodszy      147 i 134 ( wg D.R. ) ( Publiusz Korneliusz Emilianus ( Publius Cornelius Scipio Aemilianus Africanus Minor ) wg K.R.I.C.R. ) ( Publius Cornelius Aemilianus Africanus Minor (Publiusz Korneliusz Scypion Emiliusz, Scypion Afrykański Młodszy) wg K.1.1.P.N.E. )
     Lucjusz Mummiusz				           		              146 ( wg H.P.S. i K.R.I.C.R. ) ( Lucius Mummius wg S.H. )
     Sulpicjusz Galba					         	                144 ( wg D.R. )
-    Kwintus Cecyliusz Metellus Macedoński		         	  143
+    Kwintus Cecyliusz Metellus Macedoński		         	  143 ( wg D.R. i K.R.I.C.R. )
+                                                        ? ( Kwintus Cecyliusz Metellus Macedonikus wg K.1.1.P.N.E. )
     Appiusz Klaudiusz				           		              143 ( wg K.R.I.C.R. )
     Kwintus Fabiusz Maksymus Serwilianus		        	  142
     Metellus Kalwus						                          142 ( wg L. )
@@ -18983,10 +19047,11 @@ Rzym
     Lucjusz Kalpurniusz Pizon Frugi                     133
     Publiusz Mucjusz Scewola			           		        133 ( wg D.R. i K.R.I.C.R. ) ( Publius Mucius wg Z.V.C. )
     Publiusz Popiliusz Lenas				         	          132 ( wg D.R. )
-    Publiusz Licyniusz Krassus			           		      131 ( wg D.R. ) ( Licinius Crassus wg T.H.S. ) ( Publius Licinius Crassus Mucianus  wg S.H. )
+    Publiusz Licyniusz Krassus			           		      131 ( wg D.R. i K.1.1.P.N.E. ) ( Licinius Crassus wg T.H.S. ) ( Publius Licinius Crassus Mucianus  wg S.H. )
     Publiusz Licyniusz Mucjan			           		        131 ( wg K.R.I.C.R. )
     Marek Perperna					         	                  130 ( wg D.R. ) ( Marek Peperna wg K.R.I.C.R. ) ( Marcus Perperna wg S.H. )
     Manliusz Akwiliusz				           		            129 ( wg D.R. ) ( Maniusz Akwiliusz wg K.R.I.C.R. ) ( Manius Aquilius wg S.H. )
+                                                        ? ( Maniusz Akwiliusz wg K.1.1.P.N.E. )
     Semproniusz Tudynatus				         	              129 ( wg D.R. ) ( Gajusz Semproniusz Tuditanus wg K.R.I.C.R. )
     Marek Fulwiusz Flakkus				        	            125
     Kwintus Cecyliusz Metellus			           		      123 i 113 i 109 ( wg K.R.I.C.R. )
@@ -19100,7 +19165,7 @@ Rzym
     Lucjusz Afraniusz				            		            60 ( wg D.R. i L. ) ( Afraniusz wg Z.N.E. )
     Kwintus Cecyliusz Celer					                    60 ( wg L. )
     Kwintus Metellus Celer                              60 ( wg Z.N.E. )
-    Gajusz Juliusz Cezar				            		        59 ( wg D.R. i S.C. i H.P.S. i K.R.I.C.R. i L. i O.A.O.C.E. ) ( Caesar wg S.K. ) ( Gaius Julius Caesar wg Z.V.C. )
+    Gajusz Juliusz Cezar				            		        59 ( wg D.R. i S.C. i H.P.S. i K.R.I.C.R. i L. i O.A.O.C.E. ) ( Caesar wg S.K. ) ( Gaius Julius Caesar wg Z.V.C. ) [Roman Dictator]
     Lucjusz Kalpurniusz Bibulus			            		    59 ( wg D.R. ) ( Bibulus wg O.A.O.C.E. ) ( Marek Kalpurnius Bibulus wg K.R.I.C.R. ) ( Marek Kalpurniusz Bibulus wg L. )
     Aulus Gabiniusz					         	                  58 ( wg D.R. )
     Gaius Octavius							                        58 ( wg T.P.Ž.C. )
@@ -19129,6 +19194,7 @@ Rzym
     								                                    przed 47-po 44 ( wg S.H. )
     								                                    przed 49-? ( wg Ž.V.Ř.S. )
                                                         przed 44-? ( wg Ř.S.J.Ď.S. )
+                                                        przed 46-? ( wg K.1.1.P.N.E. )
     								                                    ?-44 ( ?-15.3. ) ( wg T.P.Ž.C. i O.A.O.C.E. )
     Marcus Antonius ( Marek Antoniusz )				          44 ( wg Z.V.C. i O.A.O.C.E. )
     Dolabella							                              44 ( wg O.A.O.C.E. )
@@ -19137,7 +19203,7 @@ Rzym
     Gajusz Wibiusz Pansa				            		        43 ( wg D.R. i Z.V.C. i O.A.O.C.E. )
     							            	                        43 ( ?-23.4. ) ( wg K.R.I.C.R. )
     Kwintus Pediusz					         	                  43 ( wg D.R. ) ( Kwintus Pedius wg K.R.I.C.R. )
-    Gaius Julius Caesar Octavianus Augustus             43 ( Gajusz Juliusz Cezar Oktawian wg K.R.I.C.R. ) ( Octavianus wg Z.V.C. )
+    Gaius Julius Caesar Octavianus Augustus             43 ( Gajusz Juliusz Cezar Oktawian wg K.R.I.C.R. ) ( Octavianus wg Z.V.C. ) [Roman emperor]
                                                         43-27 ( Gajusz Juliusz Cezar Oktawian wg D.R. i H.P.S. )
     								                                    przed 32-po 28 ( wg B.M. )
     								                                    43-27 ( ?-?.1. ) ( wg K.R.I.C.R. )
@@ -19148,6 +19214,7 @@ Rzym
     								                                    43-27 ( 11.11.-13.1. ) ( wg Z.V.C. )
     								                                    43-27 ( początek października -? ) ( wg T.P.Ž.C. )
     								                                    43-27 ( ?-13.1. ) ( August wg O.A.O.C.E. )
+                                                        przed 29-? ( Oktawian August wg K.1.1.P.N.E. )
     Marek Antoniusz						                          43-30 ( wg D.R. i K.R.I.C.R. i O.A.O.C.E. )
     								                                    43-po 31 ( wg H.P.S. )
     								                                    przed 32-po 31 ( wg B.M. )
@@ -20006,6 +20073,7 @@ Rzym
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Kubiłaj-chan - władca największego imperium w dziejach
       Zapomianie narody Europy
+      Kartagina 149-146 p.n.e.
 
 Sabaudia ( Savoie, Savoia )
   Hrabstwo Sabaudii ( County of Sabaudia, County of Savoy, County of Savoia )
@@ -20075,10 +20143,18 @@ Sabirowie
   Bibliografia :
       Hunové
 
+Sabratha
+  Bibliografia :
+      Kartagina 149-146 p.n.e.
+
 Państwo Saffarydów
   Já´kub ibn Lajth al-Saffár                            ok.870 n.e.
   Bibliografia :
       Starověká Indie
+
+Sagunt
+  Bibliografia :
+      Kartagina 149-146 p.n.e.
 
 Sakonnetowie
   Awashonks		                                          przed 1676 n.e.-? ( wg W.I.A.P. )
@@ -20538,7 +20614,7 @@ Królestwo Seleucydów
                                                         242-187 ( wg S.A. i S.I. )
       					  	                                    przed 217-po 188 ( wg D.R. )
       					  	                                    przed 190-? ( wg A.O.M.S.K.R. )
-      					  	                                    przed 200-po 188 ( wg K.R.I.C.R. )
+      					  	                                    przed 200-po 188 ( wg K.R.I.C.R. ) ( Antioch III (Antioch Wielki) wg K.1.1.P.N.E. )
       					  	                                    przed 189-? ( Antiochos III wg T. )
       					  	                                    przed 220-187 ( ?-3/4.7. ) ( Antiochos III wg T.H.S. )
       						                                      ? ( Antiochos III wg E.P. )
@@ -20552,10 +20628,10 @@ Królestwo Seleucydów
       					        	                              ? ( wg D.R. )
       					   	                                    ?-175 ( wg T.H.S. )
   Antioch                                              	175-170 ( wg D.Ś. i A.Č. )
-  Antioch IV Epifanes                              	    175-164  ( wg V.N.M.S.D. , A.Č. , D.Ś. i K.T.V.S.O. ) ( Antiochos IV Epifanés wg S.K. i T.H.S. i S.H. )
+  Antioch IV Epifanes                              	    175-164 ( wg V.N.M.S.D. , A.Č. , D.Ś. i K.T.V.S.O. ) ( Antiochos IV Epifanés wg S.K. i T.H.S. i S.H. )
       					    	                                  175-163 ( wg D.R. i S.C. ) ( Antiochos IV Epifanos wg Ž.V.Ř.S. )
       					       	                                ? ( wg H.P.S. )
-      					    	                                  przed 168-? ( wg K.R.I.C.R. ) ( Antiochos IV wg E.P. )
+      					    	                                  przed 168-? ( wg K.R.I.C.R. ) ( Antiochos IV wg E.P. ) ( Antioch IV wg K.1.1.P.N.E. )
   Antioch V Eupator                         	          164-162 ( wg V.N.M.S.D. , D.Ś. i A.Č. )
       					    	                                  163-162 ( Antiochos V Eupatór wg S.K. )
       					    	                                  przed 162-? ( Antiochos V wg T.H.S. )
@@ -20632,6 +20708,7 @@ Królestwo Seleucydów
       Židé v římském světě
       Mezopotámie - počátky měst
       Říše slova - Jazykové dějiny světa
+      Kartagina 149-146 p.n.e.
 
 Selinunt
   Euryleon                                              ok.505 p.n.e.-?
@@ -21672,13 +21749,15 @@ Syrakuzy
       		              	                              305-289 ( wg H.P.S. )
       		              	                              306-289 ( Agathoklés wg S.H. )
       				                                          307-289 ( Agathoklés wg E.P. )
+                                                        przed 310-po 306 ( wg K.1.1.P.N.E. )
     Hiketos               	                            289-278 ( wg V.N.M.S.D. )
       		             	                                ok.285 ( Hyketos wg F. )
     Tymon                	                              278-270 ( wg V.N.M.S.D. )
     Hieron II             	                            270-215 ( wg D.Ś. )
                                                 	      270-216 ( wg V.N.M.S.D. )
       		              	                              ok.264-po 248 ( wg D.R. )
-      				                                          przed 264 - ? ( wg S.C. )
+      				                                          przed 264-? ( wg S.C. )
+                                                        przed 264-po 217 ( Hieron (Hieron Wielki) wg K.1.1.P.N.E. )
       				                                          268-216 ( wg H.P.S. )
       				                                          270-? ( wg 100.N.U.W. )
       				                                          przed 264-215 ( wg K.R.I.C.R. )
@@ -21689,11 +21768,11 @@ Syrakuzy
     Gelon II               	                            ?-216 ( wg D.Ś. )
     Hieronim             	                              215-214 ( wg D.Ś. )
                                                         216-214 ( wg V.N.M.S.D. )
-      			        	                                  ? ( Hieronymos wg D.R. )
+      			        	                                  ? ( Hieronymos wg D.R. ) ( wg K.1.1.P.N.E. )
       				                                          ?-214 ( Hieron wg K.R.I.C.R. )
       				                                          ok.215-214 ( Hierónymos wg E.P. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
+    Epidykes                                            ? ( wg K.1.1.P.N.E. )
+    Hipokrates                                          ? ( wg K.1.1.P.N.E. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -21711,6 +21790,7 @@ Syrakuzy
       Zrození Řecka
       Klasické Řecko
       Říše slova - Jazykové dějiny světa
+      Kartagina 149-146 p.n.e.
 
 Syria
   Królestwo Syrii
@@ -23391,7 +23471,8 @@ Tyr
   Mettenos                 	                            849-821
   Bali-manzer            	                              ok.840
   Belos		      	                                      ? ( wg DR. )
-  Pigmalion                	                            820-774
+  Pigmalion                	                            820-774 ( wg F. )
+                                                        ok.1250/ok.950 ( Pygmalion wg K.1.1.P.N.E. )
   Hiram II        		                                  ok.775 ( wg S.B.W. )
       		     		                                      ok.738 ( Chiram wg K.T.V.S.O. )
                 			     	                            ? ( Chiram II wg F. )
@@ -23422,6 +23503,7 @@ Tyr
       Starożytne Cywilizacje
       Asýrie - od městského státu k říši
       Encyklopedie panovníků
+      Kartagina 149-146 p.n.e.
 
 Ugarit
   Ammistamru I		                                      ok.1400-ok.1385
@@ -23828,6 +23910,10 @@ Uturgurzy
   Sandilch		                                          ?
   Bibliografia :
       Dzieje dawnych Turków
+
+Utyka
+  Bibliografia :
+      Kartagina 149-146 p.n.e.
 
 Uzbecy
   Dynastia Szejbanidów
@@ -25242,5 +25328,6 @@ Bibliografia :
     [80] Table of Monarchs of Chinese Successive Dynasties , China Nationality Art Photograph Publishing House
     [81] Kubiłaj-chan - władca największego imperium w dziejach , John Mann , 2006
     [82] Zapomianie narody Europy , Jerzy Strzelczyk , 2015
+    [83] Kartagina 149-146 p.n.e. , Bernard Nowaczyk , 2008
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
