@@ -296,7 +296,7 @@ POP.SCIENCE :
         Sedm Kleopater ; Anna Świderková
         Serce Azji ; Bogdan Składanek , Maria Składanek
         Stanisław Lem - Životopis ; Pavel Weigel
-        Starověká Indie ; Zbavitel D.
+        Starověká Indie ; Zbavitel Dušan
         Starożytne Cywilizacje ; John Haywood
         Starożytny Bliski Wschód ; Daniel Arnoud
         Svět helénismu ; Pavel Oliva
@@ -314,6 +314,7 @@ POP.SCIENCE :
         W czasach Majów , Azteków i Inków , Ameryka od pierwszych ludzi do Krzysztofa Kolumba ; Louis-René Nougier
         Walki po Niesky 1945 ; Kazimierz Kaczmarek
         Wielcy Indianie Ameryki Północnej ; Zbigniew Teplicki
+        Wielka wyprawa Księcia Racibora - Zdobycie grodu Konunhagela przez Słowian w 1136 roku ; Artur Szrejter
         Wielkie dni małej floty ; Jerzy Pertek
         Zamach na Koppego ; Tadeusz Jurga
         Zapomniane narody Europy ; Jerzy Strzelczyk

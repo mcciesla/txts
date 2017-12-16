@@ -752,7 +752,7 @@ Anglia
 				       	                                        ?-1066 ( wg B.M. )
     Dynastia duńska
       Sven                                 	            1013-1014 ( wg V.N.M.S.D. i Tapsella )
-      Kanut Wielki                   	                  1016-1035 ( wg D.Ś. i Tapsella )
+      Kanut Wielki                   	                  1016-1035 ( wg D.Ś. i Tapsella ) ( Knud den Store wg W.W.K.R. ) [King of Denmark]
                                                         1014-1035 ( wg V.N.M.S.D. )
 					                                              1016/7-1035 ( ?-12.11. ) ( Knut I Veliký wg E.P. )
                                                         1018-1035 ( Cnut Sweynsson The Great wg V.K.T.H.O.H.E. )
@@ -965,6 +965,7 @@ Anglia
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Kubiłaj-chan - władca największego imperium w dziejach
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Anglowie
 
@@ -5658,16 +5659,25 @@ Czechy
     Wratysław II ( I )                     	            1061-1085 ( wg D.Ś. )
       				      	                                  przed 1080-? ( Vratislav I wg D.B. )
       				      	                                  przed 1063-? ( Vratislav wg Z.S.A.V.E. )
+    Królestwo Czech
+      Dynastia Przemyślidów
+        Wratysław II ( I )                     	        1085-1092
     Konrad                                  	          1092
     Brzetysław II                           	          1092-1100
-    Borzywoj II                             	          1100-1107 i 1117-1120
+    Borzywoj II                             	          1100-1107 i 1117-1120 ( wg D.Ś. )
+                                                        1101-1107 i 1117-1120 ( Borzywoj wg W.W.K.R. )
     Świętopełk ( Svatopluk )         	                  1107-1109
-    Władysław I                             	          1109-1117 i 1120-1125
-    Sobiesław I                              	          1125-1140 ( wg D.Ś. ) ( Soběslav I wg D.P.I.R.G. )
+    Władysław I                             	          1109-1117 i 1120-1125 ( wg D.Ś. ) ( Władysław wg W.W.K.R. )
+    Sobiesław I                              	          1125-1140 ( wg D.Ś. ) ( Soběslav I wg D.P.I.R.G. ) ( Sobiesław wg W.W.K.R. )
       					                                        ? ( Soběslav I wg F.B.C.A.R. )
     Władysław II ( I )                    	            1140-1158 ( wg D.Ś. )
       				      	                                  przed 1148-? ( Vladislav II wg D.B. )
       				      	                                  przed 1156-1158 ( ?-?.1. ) ( Vladislav wg F.B.C.A.R. )
+    Królestwo Czech
+      Dynastia Przemyślidów
+        Władysław II ( I )                     	        1158-1174 ( wg D.Ś. )
+                                                        1158-? ( Vladislav II wg D.P.I.R.G. )
+                                                        1158-1172 ( Vladislav wg F.B.C.A.R. )
     Fryderyk ( Bedřich )                	              1173 i 1178-1189 ( wg D.Ś. )
       				      	                                  1172-? i przed 1182-? ( wg F.B.C.A.R. )
     Sobiesław II                             	          1173-1178 ( wg D.Ś. )
@@ -5679,10 +5689,6 @@ Czechy
     Władysław III Henryk              	                1197
   Królestwo Czech
     Dynastia Przemyślidów
-      Wratysław II ( I )                      	        1085-1092
-      Władysław II ( I )                     	          1158-1174 ( wg D.Ś. )
-      				           		                            1158-? ( Vladislav II wg D.P.I.R.G. )
-      				           		                            1158-1172 ( Vladislav wg F.B.C.A.R. )
       Przemysł Ottokar ( Otakar ) I	                    1198-1230 ( wg D.Ś. i V.N.M.S.D. )
       				            	                            1197-1230 ( Přemysl Otakar I wg D.P.I.R.G. )
       Wacław I                                   	      1230-1253
@@ -5739,6 +5745,7 @@ Czechy
       Encyclopedie panovníků
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Królestwo Czedi
   Bibliografia :
@@ -6039,10 +6046,11 @@ Dania
                                                         985-1014 ( wg V.N.M.S.D. i Tapsella )
       					                                        przed 1000-? ( Sven I wg E.P. )
                                                         przed 1013-? ( Sveyn Vidlovous wg Ř.S.J.Ď.S. )
+                                                        ok.986-1014 ( Swen Widłobrody (Sveinn Tjúguskegg) wg W.W.K.R. )
       Harald II                              	          1014-1018 ( wg D.Ś. )
                                                         1014-1016 ( III wg V.N.M.S.D. )
                                                         1014-1019 ( wg Tapsella )
-      Knud ( Kanut ) I Wielki      	                    1019-1035 ( wg D.Ś. i  Tapsella )
+      Knud ( Kanut ) I Wielki      	                    1019-1035 ( wg D.Ś. i  Tapsella ) ( Kanut Wielki (Knud den Store) wg W.W.K.R. )
                                                         1016-1035 ( wg V.N.M.S.D. )
       				      	                                  995-1035 ( Knut Veliký wg Z.S.A.V.E. )
       					                                        1018-1035 ( ?-12.11. ) ( Knut II Veliký wg E.P. )
@@ -6064,11 +6072,13 @@ Dania
       Knud II Święty                            	      1080-1086  ( wg D.Ś. ) ( IV wg Tapsella )
       						                                      1080-1086 ( ?-10.7. ) ( Knut IV wg E.P. )
       Olaf I Głód                                  	    1086-1095 ( wg D.Ś. ) ( IV wg Tapsella )
-      Eryk I Zawsze Dobry                   	          1095-1103 ( wg D.Ś. i V.N.M.S.D. )
+      Eryk I Zawsze Dobry                   	          1095-1103 ( wg D.Ś. i V.N.M.S.D. ) ( Eryk Zawsze Dobry (Eiríkr Eigóðr) wg W.W.K.R. )
                                                         1095-1104 ( wg Tapsella )
       Niels                                         	  1104-1134 ( wg D.Ś. i Tapsella ) ( Mikołaj wg Z.N.E. )
                                                         1105-1135 ( wg V.N.M.S.D. )
-      Eryk II Pamiętny                        	        1134-1137 ( wg D.Ś. i Tapsella )
+                                                        1103-1134 ( wg W.W.K.R. )
+      Magnus Silny ( Magnús den Stærke )                ok.1130-1134 ( wg W.W.K.R. ) [King of Sweden]
+      Eryk II Pamiętny                        	        1134-1137 ( wg D.Ś. i Tapsella ) ( Eryk Godny Pamięci (Eiríkr Eimuni) wg W.W.K.R. )
       Eryk III Jagnię                            	      1137-1146 ( wg D.Ś. )
                                                         1137-1147 ( II wg V.N.M.S.D. )
                                                         1137-1147 ( wg Tapsella )
@@ -6077,7 +6087,7 @@ Dania
       Swen III Grathe                          	        1146-1157 ( wg D.Ś. )
                                                         1147-1157 ( wg V.N.M.S.D. i Tapsella )
       					        	                              przed 1152-po 1157 ( Sven wg F.B.C.A.R. )
-      Waldemar I Wielki                       	        1157-1182 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+      Waldemar I Wielki                       	        1157-1182 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Waldemar I (Valdemar) wg W.W.K.R. )
       					        	                              przed 1158-1182 ( ?-12.5. ) ( Valdemar I Veliký wg F.B.C.A.R. )
                                                         1157-? ( Waldemar I wg Z.N.E. )
       Knud IV                                         	1182-1202 ( wg D.Ś. i V.N.M.S.D. ) ( VI wg Tapsella )
@@ -6147,7 +6157,7 @@ Dania
       Fryderyk IX         	                            1947-1972
       Małgorzata II       	                            1972-?
   Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. , V.N.M.S.D. i Tapsella
+      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D. i Tapsella
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -6162,6 +6172,7 @@ Dania
       Severské mýty
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Dauphiné
   Bibliografia :
@@ -6508,6 +6519,12 @@ Dżuzdan
   Bibliografia :
       Dzieje dawnych Turków
 
+Księstwo dźwinogrodzkie
+  Wołodar                                               1085-1124 [Książe przemyski]
+  Władymyrko                                            1124-1153 [Książe przemyski]
+  Bibliografia :
+      Wielka wyprawa Księcia Racibora
+
 Królestwo East-Anglii
   Uffa           	                                      570-578 ( wg V.N.M.S.D. )
   Titulus       	                                      578-599 ( wg V.N.M.S.D. )
@@ -6557,7 +6574,7 @@ Edessa ( Urfa )
   Thoros             	                                  ?-1098 n.e. ( wg K.V. )
   Hrabstwo Edessy
     Dom z Boulogne
-      Baldwin I               	                        1098-1100 ( wg D.Ś. i K.V. )
+      Baldwin I               	                        1098-1100 ( wg D.Ś. i K.V. ) ( Baldwin I z Edessy wg W.W.K.R. )
                                                      	  ? ( Balduin wg D.B. )
     Dom z Rethel
       Baldwin II z Bourg	                              1100-1118 ( wg D.Ś. i K.V. )
@@ -6570,6 +6587,7 @@ Edessa ( Urfa )
       Křížové výpravy
       Dějiny Byzance
       Židé v římském světě
+      Wielka wyprawa Księcia Racibora
 
 Edom
   Ka´usz-malaka	                                        ok.734 p.n.e. ( wg K.T.V.S.O. )
@@ -8709,6 +8727,12 @@ Gortys
   Bibliografia :
       Zrození Řecka
 
+Gotaland
+  Magnus Silny ( Magnús den Stærke )                    ok.1125 n.e.-? [King of Sweden]
+  Karl Sonason                                          przed 1136-? (9.8.-?)
+  Bibliografia :
+      Wielka wyprawa Księcia Racibora
+
 Duchy of Gotha ( Duchy of Saxe-Gotha, Duchy of Saxe-Gotha-Altenburg )
   Auguste                                               ?
   Frédérick IV                                          1822 n.e.-? (17.5.-?)
@@ -9089,6 +9113,7 @@ Hajasa
 Halicz
   Księstwo Halickie ( Principality of Halicz )
     Vladimír		                                        ? ( wg Z.S.A.V.E. i F.B.C.A.R. )
+    Władymyrko                                          1141-1153 ( wg W.W.K.R. )
     Daniel         	                                    ok.1239 n.e. ( wg D.Ś. )
                                                         ? ( Daniel Haličský wg Z.S.A.V.E. )
                                                         1245-1253/64 ( Danylo Romanovych Halitsky wg V.K.T.H.O.H.E. )
@@ -9103,6 +9128,7 @@ Halicz
       Encyklopedie panovníků
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Halikarnas
   Artemizja                                             ok.480 p.n.e.
@@ -10771,7 +10797,7 @@ Jerozolima
                 					                              1099-1100 ( ?-18.7. ) ( wg K.V. )
   Królestwo Jerozolimskie
     Dom z Boulogne
-      Baldwin I     			                              1100-1118   ( wg D.Ś. )
+      Baldwin I     			                              1100-1118 ( wg D.Ś. ) ( Baldwin I z Edessy wg W.W.K.R. )
       			     		                                    ? ( Balduin wg Z.S.A.V.E. )
     Dom z Rethel
       Baldwin II z Bourg		                            1118-1131 ( ?-sierpień ) ( wg K.V. )
@@ -10823,6 +10849,7 @@ Jerozolima
       Zrod střední a východní Evropy
       Židé v římském světě
       Huryci
+      Wielka wyprawa Księcia Racibora
 
 County of Joigny
   Bibliografia :
@@ -12541,9 +12568,9 @@ Kościół
     Honoriusz II ( Lamberto dei Fagnani )               1024 -1030
     Celestyn II                                        	1124 -1130 ( wg Tapsella )
     Innocenty II ( Grzegorz Papareschi )               	1130-1144 ( wg V.N.M.S.D. )
-                                                       	1130-1143 ( wg Tapsella )
+                                                       	1130-1143 ( wg Tapsella ) ( wg W.W.K.R. )
       						     	                                przed 1130-? ( Inocenc II wg F.B.C.A.R. )
-    Anacletus II                                       	1130-1138 ( wg Tapsella )
+    Anacletus II                                       	1130-1138 ( wg Tapsella ) ( Anaklet II wg W.W.K.R. )
       							                                    przed 1130-? ( Anaclet wg F.B.C.A.R. )
     Wiktor IV                                          	1138-1143 ( wg Tapsella )
     Celestyn II ( Guido di Castello )                   1144 -1145 ( wg V.N.M.S.D. )
@@ -12774,6 +12801,7 @@ Kościół
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Kubiłaj-chan - władca największego imperium w dziejach
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Kotyora
   Bibliografia :
@@ -15060,7 +15088,7 @@ Królestwo Mercji
   Cenred            	                                  704-709 ( wg D.Ś. ) ( Coenred wg Tapsella )
   Ceolred           	                                  709-716 ( wg D.Ś. i Tapsella )
                                          	              704-716 ( wg V.N.M.S.D. )
-  Ethelbald         	                                  716-757 ( wg D.Ś. i Tapsella )
+  Ethelbald         	                                  716-757 ( wg D.Ś. i Tapsella ) ( Aethelbald wg W.W.K.R. )
                                          	              716-755 ( wg V.N.M.S.D. )
   Beornred         	                                    757 ( wg D.Ś. i Tapsella )
   Offa                 	                                757-796 ( wg D.Ś. i Tapsella )
@@ -15091,6 +15119,7 @@ Królestwo Mercji
       Encyklopedie panovníků
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Merkici
   Toktoa                                                ?-1204 n.e. ( ?-jesień )
@@ -16130,16 +16159,18 @@ Niderlandy ( Holandia )
 Niemcy
   Królestwo Wschodniofrankońskie ( East Francia , Państwo Franków Wschodnich )
     Ludwik Niemiecki                                    przed 844-? ( wg Z.N.E. )
-  Kingdom of Germany
+  Królestwo Niemieckie ( Kingdom of Germany )
     Dynastia saska ( Dynastia Ludolfingów )
-      Henryk I                                          919-936
+      Henryk I                                          919-936 ( wg Z.N.E. )
       Otto I                                            przed 938-? ( wg V.K.T.H.O.H.E. ) [Holy Roman Emperor]
                                                         936-973 ( Otton I wg Z.N.E. )
       Otton III                                         przed 983-1002 ( wg Z.N.E. ) [Holy Roman Emperor]
-    Henryk Kłótnik                                      przed 984-?
+    Henryk Kłótnik                                      przed 984-? ( wg Z.N.E. )
     Heinrich II ( Henry II )                            1014-1024 ( wg V.K.T.H.O.H.E. )
                                                         1002-po 1003 ( Henryk II wg Z.N.E. )
+    Henryk V                                            1106-1125 ( wg W.W.K.R. ) [Holy Roman Emperor]
     Lotar III                                           1125-po 1134 ( Lotar z Supplinburga wg Z.N.E. ) [Holy Roman Emperor]
+                                                        1125-1137 (?-4.12.) ( Lotar III z Supplinburga wg W.W.K.R. )
     Frederick Barbarossa                                1152-1190 ( wg V.K.T.H.O.H.E. )
   Cesarstwo Niemiec
     Dynastia Hohenzollernów
@@ -16176,6 +16207,7 @@ Niemcy
       Klasické Řecko
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Nija
   Takuwa                                                ok.1325 p.n.e.
@@ -16368,17 +16400,17 @@ Królestwo Norwegii
                                                         977-995 ( wg V.N.M.S.D. )
                                                         ok.970-ok.995 ( wg Tapsella )
     Olaf I Trygvesson                        	          994-999 ( wg D.Ś. )
-                                                        995-1000 ( wg V.N.M.S.D. i Tapsella ) ( Olof I Tryggvesson wg E.P. )
+                                                        995-1000 ( wg V.N.M.S.D. i Tapsella ) ( Olof I Tryggvesson wg E.P. ) ( Olaf Tryggwason (Óláfr Tryggvason) wg W.W.K.R. )
                                                         ? ( Olaf Tryggvesson wg Z.S.A.V.E. )
     Jarl Eryk                                       	  999-1015 ( wg D.Ś. )
                                                         1000-1015 ( wg Tapsella )
     Jarl Svein                                      	  1015-1016 ( wg D.Ś. )
     Olaf II Haraldsson Święty            	              1016-1030 ( wg D.Ś. )
                                                         1000-1028 ( wg V.N.M.S.D. )
-                                                        1015-1028 ( wg Tapsella )
+                                                        1015-1028 ( wg Tapsella ) ( Olaf Święty (Óláfr Helgi, Olaf Haraldsson, Óláfr Haraldsson) wg W.W.K.R. )
       						                                      1016-1028 ( Olof II Haraldsson wg E.P. )
     Svein Alfivason                            	        1030-1035 ( wg D.Ś. )
-    Knut                                              	1028-1035 ( wg V.N.M.S.D. )
+    Knut                                              	1028-1035 ( wg V.N.M.S.D. ) ( Kanut Wielki (Knud den Store) wg W.W.K.R. ) [King of Denmark]
       						                                      1028-1035 ( ?-12.11. ) ( Knut I Veliký wg E.P. )
     Sven Knutsson                              	        1028-1035 ( wg Tapsella )
     Magnus I Dobry                           	          1035-1046 ( wg D.Ś. )
@@ -16386,20 +16418,20 @@ Królestwo Norwegii
                                                         1035-1047 ( wg Tapsella )
       						                                      1035-1047 ( ?-25.10. ) ( Magnus I Dobrý wg E.P. )
     Harald III Hardrade ( Surowy )		                  1045-1066 ( wg D.Ś. )
-                                                        1047-1066 ( wg V.N.M.S.D. i Tapsella )
+                                                        1047-1066 ( wg V.N.M.S.D. i Tapsella ) ( Harald Srogi (Haraldr Harðráði) wg W.W.K.R. )
       						                                      1047-1066 ( ?-25.9. ) ( Harald III Krutý wg E.P. )
     Magnus II                                     	    1066-1069 ( wg D.Ś. i Tapsella )
     Olaf III Cichy                               	      1067-1093 ( wg D.Ś. )
                                                         1066-1093 ( wg V.N.M.S.D. i Tapsella )
-    Magnus II                                     	    1093-1103 ( wg V.N.M.S.D. )
+    Magnus II                                     	    1093-1103 ( wg V.N.M.S.D. ) ( Magnus Bosonogi (Magnús Berfœttr) wg W.W.K.R. )
     Haakon Magnusson                     	              1093-1095 ( wg D.Ś. )
     Magnus III Bosy                           	        1093-1103 ( wg D.Ś. i Tapsella )
-    Olaf Magnusson                            	        1103-1115 ( wg D.Ś. i Tapsella )
-    Eystein I                                        	  1103-1123 ( wg D.Ś. )
+    Olaf Magnusson                            	        1103-1115 ( wg D.Ś. i Tapsella ) ( Óláfr Magnússon wg W.W.K.R. )
+    Eystein I                                        	  1103-1123 ( wg D.Ś. ) ( Eystein (Øystein) wg W.W.K.R. )
                                                         1103-1122 ( wg Tapsella )
-    Sigurd I Krzyżowiec                     	          1103-1130
-    Magnus IV Ślepy                          	          1130-1135 ( wg D.Ś. i Tapsella )
-    Harald IV Gille                             	      1130-1136 ( wg D.Ś. i Tapsella )
+    Sigurd I Krzyżowiec                     	          1103-1130 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Sigurd Krzyżowiec (Sigurðr Jorsalafari) wg W.W.K.R. )
+    Magnus IV Ślepy                          	          1130-1135 ( wg D.Ś. i Tapsella ) ( Magnus Ślepy (Magnús Blindi) wg W.W.K.R. )
+    Harald IV Gille                             	      1130-1136 ( wg D.Ś. i Tapsella ) ( Harald Sługa Boży (Haraldr Gilli) wg W.W.K.R. )
     Sigurd II Gęba                              	      1136-1155 ( wg D.Ś. i Tapsella )
     Inge I Garbaty                               	      1136-1161 ( wg D.Ś. i Tapsella )
     Eystein II                                       	  1142-1157 ( wg D.Ś. i Tapsella )
@@ -16444,7 +16476,7 @@ Królestwo Norwegii
     Harald V                         	                  1991-? ( wg D.Ś. )
   Uwagi :
       Przed Dynastią z Vestfold wg V.N.M.S.D.
-      Wszystko oprócz oznaczonego wg D.Ś. , V.N.M.S.D. i Tapsella
+      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D. i Tapsella
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -16452,6 +16484,7 @@ Królestwo Norwegii
       Zrod střední a východní Evropy
       Encyklopedie panovníků
       Severské mýty
+      Wielka wyprawa Księcia Racibora
 
 Norymberga
   Dynastia Hohenzollernów
@@ -16621,7 +16654,7 @@ Obodrzyce ( Obodrzyci , Abodriti , Abodriten )
   Kanut                                                 1127 ( wg Z.N.E. )
   Świętopełk                                            1127-1129 ( wg Z.N.E. )
   Zwinike ( Światosław )                                ? ( Zwenko wg Z.N.E. )
-  Kanut Laward                                          1129-1131 ( Knut Laward wg Z.N.E. )
+  Kanut Laward                                          1129-1131 ( Knut Laward wg Z.N.E. ) ( Knud Lavard wg W.W.K.R. ) [Duke of Holstein]
   Wagrowie i Połabianie
     Przybysław                                          1131-po 1134 ( wg Z.N.E. )
   Obodrzyci
@@ -16636,6 +16669,7 @@ Obodrzyce ( Obodrzyci , Abodriti , Abodriten )
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Królestwo Obojga Sycylii ( Kingdom of The Two Sicilies )
   Dynastia burbońska
@@ -17961,24 +17995,39 @@ Polska
       			              	                            963-992 ( Měško I wg D.P.I.R.G. )
       			              	                            przed  960-? ( Měšek I wg D.B. )
                                                         przed 966-po 992 ( Mieszek I wg Z.N.E. )
-    Bolesław I Chrobry           	                      992-1025 ( wg D.Ś. , V.N.M.S.D. ) ( Boleslav Chrabrý wg D.P.I.R.G. ) ( Bolesław Chrobry wg Z.N.E. )
+                                                        ok.960-992 ( wg W.W.K.R. )
+    Bolesław I Chrobry           	                      992-1025 ( wg D.Ś. i V.N.M.S.D. ) ( Boleslav Chrabrý wg D.P.I.R.G. ) ( Bolesław Chrobry wg Z.N.E. i W.W.K.R. ) [King of Poland]
       			              	                            przed 993-po 1018 ( Boleslav Chrabrý wg Z.S.A.V.E. )
                                                         ? ( Bolesław Chrobry wg O.K.C.J. )
+    Królestwo Polski ( Kingdom of Poland )
+      Dynastia Piastów
+        Bolesław I Chrobry       	                      1025 ( wg D.Ś. i V.N.M.S.D. i W.W.K.R. )
+        Mieszko II Lambert       	                      1025-1034 ( wg D.Ś. i V.N.M.S.D. )
+                                                        przed 1027-po 1031 i przed 1033-1034 ( ? i ?-17.5. ) ( Měšek II Lambert wg Z.S.A.V.E. )
+                                                        1025-1031 ( Mieszko II wg W.W.K.R. )
+    Mieszko II                                          1032-1034 ( wg W.W.K.R. )
     Bezprym                            	                1031-1032 ( wg D.Ś. )
       					                                        ?-1032 ( wg Z.S.A.V.E. )
     Kazimierz I Odnowiciel    	                        1034-1058 ( wg D.Ś. )
                                                         1041-1058 ( wg V.N.M.S.D. )
       					                                        1039-po 1050 ( Kazimír Obnovitel wg Z.S.A.V.E. )
                                                         ? ( wg Z.N.E. )
-    Bolesław II Śmiały            	                    1058-1076 ( wg D.Ś. i V.N.M.S.D. )
+    Bolesław II Śmiały            	                    1058-1076 ( wg D.Ś. i V.N.M.S.D. ) ( Bolesław II Szczodry (Bolesław Szczodry) wg W.W.K.R. ) [King of Poland]
       				        	                                ? ( Boleslav II wg Z.S.A.V.E. ) ( Bolesław II Szczodry wg Z.N.E. )
+    Królestwo Polski ( Kingdom of Poland )
+      Dynastia Piastów
+        Bolesław II Śmiały        	                    1076-1079 ( wg D.Ś. ) ( Bolesław II Szczodry (Bolesław Szczodry) wg W.W.K.R. )
+                                                        1076-1082 ( wg V.N.M.S.D. )
     Władysław I Herman         	                        1079-1102 ( wg D.Ś. )
                                                         1082-1102 ( wg V.N.M.S.D. )
                                                         ? ( Władysław Herman wg O.K.C.J. i Z.N.E. )
+                                                        1080-1102 ( Władysław Herman wg W.W.K.R. )
     Zbigniew                            	              1102-1107 ( wg D.Ś. )
+                                                        1102-1108 ( wg W.W.K.R. )
     Bolesław III Krzywousty	                            1102-1138 ( wg D.Ś. i V.N.M.S.D. i Z.N.E. )
       				         	                                ? ( Boleslav III wg Z.S.A.V.E. ) ( Boleslav III Křivoústý wg F.B.C.A.R. )
-    Księstwo karkowskie
+                                                        1102-1138 (?-28.10.) ( Bolesław Krzywousty (Krzywousty) wg W.W.K.R. )
+    Księstwo krakowskie
       Władysław II Wygnaniec   	                        1138-1146 ( wg D.Ś. )
                                                         1138-1145 ( wg V.N.M.S.D. )
       				  	                                      ? ( Vladislav II wg F.B.C.A.R. )
@@ -18000,7 +18049,7 @@ Polska
       Henryk I Brodaty             	                    1228-1229 i 1232-1238 ( wg D.Ś. )
       Konrad I Mazowiecki       	                      1229-1232 i 1241-1243 ( wg D.Ś. )
       				  	                                      ? ( Konrad Mazovský wg Z.S.A.V.E. )
-      Henryk II Pobożny            	                    1238-1241 ( wg D.Ś. )
+      Henryk II Pobożny            	                    1238-1241 ( wg D.Ś. ) ( Henryk Pobożny wg W.W.K.R. )
       				                                          ? ( Jindřich II Pobožný wg Z.S.A.V.E. )
       Bolesław V Wstydliwy        	                    1243-1279 ( wg D.Ś. )
                                                         1227-1279 ( wg V.N.M.S.D. )
@@ -18013,12 +18062,17 @@ Polska
       Henryk IV Prawy ( Probus )	                      1288-1290 ( wg D.Ś. )
       Przemysł II                       	              1290-1291 ( wg D.Ś. )
                                                         1289-1296 ( wg V.N.M.S.D. )
+    Księstwo wielkopolskie
+      Władysław Laskonogi                               1194-1229 ( wg W.W.K.R. ) [Książe krakowski]
+      Henryk Pobożny                                    1238-1241 ( wg W.W.K.R. ) [Książe krakowski]
     Księstwo mazowieckie
       Bolesław IV Kędzierzawy                           przed 1146-1177 ( wg Z.N.E. ) [Książe krakowski]
       Leszek Bolesławowicz                              1177-1185 ( wg Z.N.E. )
       Kazimierz II Sprawiedliwy                         1185-1194 ( wg Z.N.E. ) [Książe krakowski]
       Konrad I ( Konrad Mazowiecki )                    przed 1240-1247 ( wg Z.N.E. )
       Siemowit I                                        1247-1262 ( wg Z.N.E. )
+    Księstwo śląskie
+      Henryk Pobożny                                    1238-1241 ( wg W.W.K.R. ) [Książe krakowski]
     Księstwo kujawskie
       Kazimierz                                         przed 1253-? ( wg Z.N.E. )
     Księstwo sandomierskie
@@ -18029,20 +18083,15 @@ Polska
       Leszek Czarny                                     przed 1282-? ( wg Z.N.E. ) [Książe krakowski]
   Dynastia czeska
     Wacław II              		                          1291-1300 ( wg D.Ś. )
+  Królestwo Polski ( Kingdom of Poland )
+    Dynastia czeska
+      Wacław II         		                            1300-1305 ( wg D.Ś. )
+                                                        1300-? ( Václav II wg Z.S.A.V.E. )
   Dynastia Piastów
     Władysław I Łokietek           	                    1305-1320 ( wg D.Ś. )
                                                         1296-1320 ( wg V.N.M.S.D. )
       				          	                              ? ( Vladislav I Lokýtek wg Z.S.A.V.E. )
   Królestwo Polski ( Kingdom of Poland )
-    Dynastia Piastów
-      Bolesław I Chrobry       	                        1025
-      Mieszko II Lambert       	                        1025-1034 ( wg D.Ś. i V.N.M.S.D. )
-                                                        przed 1027-po 1031 i przed 1033-1034 ( ? i ?-17.5. ) ( Měšek II Lambert wg Z.S.A.V.E. )
-      Bolesław II Śmiały        	                      1076-1079 ( wg D.Ś. )
-                                                        1076-1082 ( wg V.N.M.S.D. )
-    Dynastia czeska
-      Wacław II         		                            1300-1305 ( wg D.Ś. )
-                                                        1300-? ( Václav II wg Z.S.A.V.E. )
     Dynastia Piastów
       Władysław I Łokietek    	                        1320-1333 ( wg D.Ś. i V.N.M.S.D. )
                                                         ? ( Władysław Łokietek wg O.K.C.J. )
@@ -18116,8 +18165,6 @@ Polska
     premiers
       Wincenty Witos                                    ? ( wg V.K.T.H.O.H.E. )
   Gomulka                                               przed 1960-? ( wg F.C.A.R.F. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -18136,6 +18183,7 @@ Polska
       O Krakowie Ci Ja!
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Księstwo Połockie ( Principality of Polatsk )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -18155,11 +18203,14 @@ Księstwo Pomorskie ( Pomorze Gdańskie )
   Bibliografia :
       Zapomianie narody Europy
 
-Pomorze Szczecińskie
+Pomorze Szczecińskie ( Księstwo Pomorskie , Księstwo Zachodniopomorskie , Duchy of Pomerania )
   Dietrich                       	                      ? ( wg Z.S.A.V.E. )
   Ziemomysl		                                          ? ( wg Z.S.A.V.E. )
-  Racibor                   	                          przed 1136 n.e.-? ( wg B.M. )
-  Duchy of Pomerania
+  Ród Gryfitów
+    Warcisław                                           ok.1115-1135 (?-9.8.) ( wg W.W.K.R. )
+    Racibor                   	                        przed 1136 n.e.-? ( wg B.M. )
+                                                        1135-1155 (?-7.5.) ( Rettiburr wg W.W.K.R. )
+    Bogusław I                                          ? ( wg W.W.K.R. )
     Bogusław                	                          przed 1184 -? ( wg B.M. )
         	                                              przed 1181-? ( Bogislaw wg F.B.C.A.R. )
                                                         przed 1180-? ( Boguslav III wg V.K.T.H.O.H.E. )
@@ -18168,6 +18219,7 @@ Pomorze Szczecińskie
       Zrod střední a východní Evropy
       Fridrich Barbarossa – císař a rytíř
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Wielka wyprawa Księcia Racibora
 
 Pont
   Mitrydates                                       	    337/6-302/1 ( wg A.Č. )
@@ -18463,6 +18515,12 @@ Prusy
       Velikáni francouzské vědy
       O Krakowie Ci Ja!
       Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Księstwo przemyskie
+  Wołodar                                               1097-1124
+  Władymyrko                                            1129-1153 [Prince of Halicz]
+  Bibliografia :
+      Wielka wyprawa Księcia Racibora
 
 Pskov
   Bibliografia :
@@ -20185,6 +20243,7 @@ Saksonia
       Magnus                                            ? ( wg Z.N.E. )
     Lothar III		                                      ? ( wg F.B.C.A.R. ) [King of Germany]
                                                         1106-po 1134 ( Lotar z Supplinburga wg Z.N.E. )
+                                                        1103-1125 ( Lotar III z Supplinburga wg W.W.K.R. )
     Albrecht Medvěd	                                    ?-1170 ( wg F.B.C.A.R. )
     Ród Welfów
       Jindřich Lev                  	                  ? ( wg Z.S.A.V.E. )
@@ -20255,6 +20314,7 @@ Saksonia
       Fridrich Barbarossa – císař a rytíř
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Salamina
   Telamon		                                            ?
@@ -20507,10 +20567,12 @@ Seniorat Schellenbergu
   Bibliografia :
       Dynastie Świata
 
-Schleswig
-  Knut Lavard 	                                        ?
+Duchy of Schleswig
+  Knut Lavard 	                                        ok.1120-1131 ( Kanut Laward (Knud Lavard) wg W.W.K.R. )
+                                                        ? ( wg.E.P. )
   Bibliografia :
       Encyklopedie panovníků
+      Wielka wyprawa Księcia Racibora
 
 Principality of Schwarzburg-Rudolstadt
   Bibliografia :
@@ -22109,12 +22171,15 @@ Królestwo Szwecji
                                                      		ok.970-ok.995 ( wg Tapsella )
       				 	                                        ? ( Erik Vítězný wg Z.S.A.V.E. )
       					                                        970-994 ( Erik VII Vítězný wg E.P. )
+                                                        ?-994/5 ( Eiríkr inn Sigrsæli wg W.W.K.R. )
     Olaf Skötkonung      		                            995-1022 ( wg D.Ś. i Tapsella )
                                                      		994-1026 ( wg V.N.M.S.D. )
       			     		                                    995-1024 ( Olaf Skotkonung wg Z.S.A.V.E. )
       					                                        przed 1000-? ( Olof Skottkonung wg E.P. )
+                                                        ok.995-1021/2 ( Olaf Król Bogactw (Óláfr Skötkonungr) wg W.W.K.R. )
     Anund ( Jakub )       		                          1022-1050 ( wg D.Ś. i Tapsella )
                                                      		1026-1051 ( wg V.N.M.S.D. )
+                                                        1021/2-ok.1050 ( Anund Jakob (Onund Jacob) wg W.W.K.R. )
     Emund Stary            		                          1050-1060 ( wg D.Ś. i Tapsella )
                                                      		1051-1056 ( wg V.N.M.S.D. )
   Dynastia Stenkila
@@ -22127,6 +22192,7 @@ Królestwo Szwecji
     Inge I Starszy                  	                  ?-1080 i 1083-1110 ( wg D.Ś. )
                                                         1090-1112 ( wg V.N.M.S.D. )
                                                         ok.1080-1112 ( wg Tapsella )
+                                                        ok.1070-ok.1110 ( Inge Stenkilsson wg W.W.K.R. )
     Sven Blot                          	                1080-1083 ( wg D.Ś. )
                                                         ok.1081-1083 ( Blot-Sven wg Tapsella )
     Filip                                  	            1110-1118 ( wg D.Ś. )
@@ -22136,6 +22202,7 @@ Królestwo Szwecji
                                                         1112-1125 ( wg Tapsella )
   Dynastie Sverkera i Eryka
     Magnus I                              	            ok.1129-ok.1134 ( wg Tapsella )
+                                                        ok.1130 ( Magnus Silny (Magnús den Stærke) wg W.W.K.R. )
     Sverker I Starszy                 	                1130-1156 ( wg D.Ś. )
                                                         1129-1156 ( wg V.N.M.S.D. )
                                                         ok.1134-ok.1156 ( wg Tapsella )
@@ -22254,6 +22321,7 @@ Królestwo Szwecji
       Velikáni francouzské vědy
       Severské mýty
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Wielka wyprawa Księcia Racibora
 
 Państwo Szyrwanszachów
   Muhammad ibn Jazid		                                ? ( wg R.Z.A.D.D. )
@@ -22368,12 +22436,14 @@ Państwo Śungów
                                                         przed 1122-? ( Jindřich V wg D.B. )
                                                         przed 1109-1125 ( Jindřich V wg F.B.C.A.R. )
                                                         ok.1125 ( wg Z.N.E. )
+                                                        1111-1125 ( wg W.W.K.R. )
   Dynastia z Supplinburga
     Lotar II Saski	                                    1125-1137 ( wg D.Ś. ) ( III wg Tapsella )
                                                         1125-1137 ( ?-?.12. ) ( Lothar III wg F.B.C.A.R. )
                                                         1125-1138 ( III wg V.N.M.S.D. )
                                                         ? ( Lothar III wg E.P. )
                                                         przed 1134-? ( Lotar z Supplinburga (Lotar III) wg Z.N.E. )
+                                                        1132/3-1137 (?-4.12.) ( Lotar III z Supplinburga (Lotar) wg W.W.K.R. )
   Dynastia Hohenstaufów
     Konrad III                          	              1138-1152 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Konrád III wg D.B. )
                                                         ok.1147 ( wg K.V. )
@@ -22531,6 +22601,7 @@ Państwo Śungów
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Kubiłaj-chan - władca największego imperium w dziejach
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Ta Jüe
   Bibliografia :
@@ -24398,7 +24469,7 @@ Węgry
       Stefan II                        	                1116-1131 ( wg D.Ś. )
                                                         1114-1131 ( wg V.N.M.S.D. )
       				       	                                  ? ( Štěpán II wg D.B. )
-      Béla II Ślepy                 	                  1131-1141 ( wg D.Ś. i V.N.M.S.D. )
+      Béla II Ślepy                 	                  1131-1141 ( wg D.Ś. i V.N.M.S.D. ) ( Bela Ślepy (Béla Vak) wg W.W.K.R. )
       			              	                            przed 1139-? ( wg F.B.C.A.R. )
       Géza II                          	                1141-1162 ( wg D.Ś. )
                                                         1141-1161 ( wg V.N.M.S.D. )
@@ -24511,6 +24582,7 @@ Węgry
       Karpatské hry
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
+      Wielka wyprawa Księcia Racibora
 
 Wideha
   Dżanaka	                                              ?
@@ -24893,6 +24965,10 @@ Włodzimierz
       Dějiny Byzance
       Encyklopedie panovníků
 
+Państwo Wolinian
+  Bibliografia :
+      Wielka wyprawa Księcia Racibora
+
 Wołosi
   Valašské vojvodství
     Michal Chrabrý ( Mihail Viteazu )	                  ? ( wg K.H. )
@@ -25248,7 +25324,7 @@ Państwo Zyjadydów
 Bibliografia :
     [1] Monarchs , Rulers , Dynasties and Kingdoms of the World , R.F.Tapsell , 1984
     [2] Říše Inků ,Victor W. von Hagen , 1963
-    [3] Starověká Indie , Zbavitel D. , 1985
+    [3] Starověká Indie , Zbavitel Dušan , 1985
     [4] Dobytí říše Inků ,John Hemming , 1977
     [5] Starożytny Bliski Wschód , Daniel Arnoud , 1982
     [6] Křížové výpravy , Antony Bridge , 1995
@@ -25329,5 +25405,6 @@ Bibliografia :
     [81] Kubiłaj-chan - władca największego imperium w dziejach , John Mann , 2006
     [82] Zapomianie narody Europy , Jerzy Strzelczyk , 2015
     [83] Kartagina 149-146 p.n.e. , Bernard Nowaczyk , 2008
+    [84] Wielka wyprawa Księcia Racibora - Zdobycie grodu Konunhagela przez Słowian w 1136 roku , Artur Szrejter , 2013
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
