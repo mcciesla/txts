@@ -7,6 +7,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - Dynasties of the World: A Chronological and Genealogical Handbook - John E. Morby
       - Blood Meridian - Cormac McCarthy
       - Złoto gór czarnych , tom I - Krystyna Szklarska , Alfred Szklarski
+      - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Category Theory in Context - Emily Riehl
       - Kronika Slovanu - Helmold z Bosau
       - Speaking Our Minds - Thom Scott-Phillips
@@ -14,6 +15,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - Purely Functional Data Structures - Chris Okasaki
       - How to Solve It - George Pólya
       - Stehovani narodu a sever Evropy - Jarmila Bednarikova
+      - Children of Time - Adrian Tchaikovsky
       - Colossus - Dennis Feltham Jones
       - Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian, Tom Griffiths
       - Nanga Parbat Pilgrimage: The Lonely Challenge - Hermann Buhl
@@ -33,6 +35,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - Let Over Lambda - Doug Hoyte
       - The Nurture Assumption - Judith Rich Harris
       - No Two Alike - Judith Rich Harris
+      - The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution - Sean B. Carroll
       - Sapiens: A Brief History of Humankind - Yuval Noah Harari
       - Words On The Move: Why English Won’t, and Can’t, Sit Still (Like, Literally) - John McWhorter
       - To Mock a Mockingbird: And Other Logic Puzzles - Raymond M. Smullyan
@@ -49,7 +52,10 @@ books - The History of Western Philosophy - Bertrand Russell
       - Information Theory and Coding - Norman Abramson
       - Linear and Nonlinear Programming - David G. Luenberger
       - Problems in Philosophy: The Limits of Inquiry - Colin McGinn
+      - Endless Forms Most Beautiful: The New Science of Evo Devo - Sean B. Carroll
       - Game Engine Black Book: Wolfenstein 3D - Fabien Sanglard
+      - Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery - Gottfried Vossen, Gerhard Weikum
+      - The Art of SQL - Stephane Faroult, Peter Robson
       - Programming in D - Ali Cehreli
       - Learning D - Michael Parker
       - Programming Pearls - Jon Bentley
@@ -61,16 +67,20 @@ books - The History of Western Philosophy - Bertrand Russell
       - Combinatorial Problems and Exercises - Laszlo Lovasz
       - The Center Cannot Hold : My Journey Through Madness - Elyn R. Saks
       - Real World Haskell - Bryan O'Sullivan, John Goerzen, Donald Bruce Stewart
+      - Haskell High Performance Programming - Samuli Thomasson
       - D Web Development - Kai Nacke
       - The Village Effect - Susan Pinker
       - Lying - Sam Harris
       - Proofs without Words: Exercises in Visual Thinking - Roger B. Nelsen
       - Proofs Without Words II: More Exercises in Visual Thinking - Roger B. Nelsen
       - The Implementation of Functional Programming Languages - Simon L. Peyton Jones
+      - Biological Physics: Energy, Information, Life - Philip Nelson
+      - The Thermodynamic Machinery of Life - Michał Kurzyński
       - Expert C Programming: Deep C Secrets - Peter Van Der Linden
       - Pure, White and Deadly - John Yudkin
       - From Logic Programming to Prolog - Krzysztof Apt
       - The Internationalists: How a Radical Plan to Outlaw War Remade the World - Oona A. Hathaway, Scott J. Shapiro
+      - At Home in the Universe: The Search for the Laws of Self-Organization and Complexity - Stuart Kauffman
       - Effective Modern C++ - Scott Meyers
       - Exceptional C++ - Herb Sutter
       - More Exceptional C++ - Herb Sutter
