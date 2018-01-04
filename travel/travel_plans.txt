@@ -12,11 +12,11 @@ Polska
         Bialystok
             - Palac Branickich
         Bochnia
-        Brzesko 
+        Brzesko
             - Palac Goetza
-        Lipnica Dolna 
+        Lipnica Dolna
             - Kosciol sw. Leonarda
-        Iwkowa 
+        Iwkowa
             - Kosciol Nawiedzenia
         Szalowa
             - Kosciol sw. Michala Archaniola
@@ -42,7 +42,7 @@ Polska
             - Cerkiew sw. Michala Archaniola
         Chotyniec
             - Cerkiew Narodzenia Przenajswietszej Bogurodzicy
-        Nowy Wisnicz 
+        Nowy Wisnicz
             - Zamek
         Oswiecim
             - oboz koncentracyjny
@@ -54,49 +54,49 @@ Polska
             - Lazienki
             - ZOO
             - Kampinoski Park Narodowy
-        Nowy Dwor Mazowiecki 
+        Nowy Dwor Mazowiecki
             - Twierdza Modlin
         Kalwaria Zebrzydowska
             - Sanktuarium pasyjno-maryjne oo.Bernardynow
             - Lanckrona
-        Lachowice 
+        Lachowice
             - Kosciol sw. Piotra i Pawla
-        Orawka 
+        Orawka
             - Kosciol sw. Jana Chrzciciela
-        Debno 
+        Debno
             - Kosciol sw. Michala Archaniola
-        Grywald 
+        Grywald
             - Kosciol sw. Marcina
-        Niedzica 
+        Niedzica
             - Zamek
         Park Muzakowski
         Tarnowskie Gory
             - kolej z Bytomia do Miasteczka Slaskiego
         Kielce
             - Palac biskupow krakowskich
-        Ujazd 
+        Ujazd
             - Zamek Krzyztopor
         Ostrowiec Swietokrzyski
             - Krzemionki Opatowskie
-        Gory Swietokrzyskie 
+        Gory Swietokrzyskie
             - Opactwo na Swietym Krzyzu
             - Jaskinia Raj
-        Opatow 
+        Opatow
             - Podziemna trasa turystyczna
-        Checiny 
+        Checiny
             - Ruiny zamku
         Lodz
             - Palac Izraela Poznanskiego
             - Kaplica Scheiblera
             - Biala Fabryka
             - zoo
-        Belchatow 
+        Belchatow
             - Kopania wegla brunatnego
-        Sulejow 
+        Sulejow
             - Opactwo cystersow
         Moszna
             - Palac w Mosznie
-        Gora sw. Anny 
+        Gora sw. Anny
             - klasztor
         Poznan
             - Stare Miasto
@@ -104,13 +104,13 @@ Polska
         Rogalin
             - Palac Raczynskich w Rogalinie
             - Rogalinski Park Krajobrazowy
-        Gniezno 
+        Gniezno
             - Archikatedra Naniebowziecia NMP i sw. Wojciecha
-        Kornik 
+        Kornik
             - Zamek
         Krakow
             - Tyniec - Opactwo Benedyktynow
-        Rudno 
+        Rudno
             - Zamek Tenczyn
         Bieszczady
             - Dolina Tworylczyka
@@ -122,19 +122,19 @@ Polska
         Pustynia Bledowska
         Czestochowa
             - Jasna Gora
-        Olsztyn pod Czestochowa 
+        Olsztyn pod Czestochowa
             - Ruiny zamku krolewskiego
         Bielsko Biala
-        Jawor 
+        Jawor
             - Kosciol Pokoju
-        Swidnica 
+        Swidnica
             - Kosciol Pokoju
-        Walbrzych 
+        Walbrzych
             - Zamek Ksiaz
         Podziemne miasto Osowka
-        Wambierzyce 
+        Wambierzyce
             - Bazylika pod wezwaniem Nawiedzenia NMP
-        Przewodziszowice 
+        Przewodziszowice
             - ruiny zamku
         Ogrodzieniec
             - Gora Chelm 461m - najwyzszy punkt Garbu Tarnogorskiego i Wyzyny Slaskiej
@@ -163,19 +163,17 @@ Polska
             - Gora Przygon 354m - najwyzszy punkt Garbu Ciezkowickiego
             - Szybowcowa (Strzalba) 337m - najwyzszy punkt Pagor Libiaskich
         Pyskowice
-            - Wapienna Gora 302m - najwyzszy punkt Pogor Sarnowskich 
+            - Wapienna Gora 302m - najwyzszy punkt Pogor Sarnowskich
         Trzebinia
-            - Kota 412 - najwyzszy punkt Garbu Czyzowki      
-Czechy 
-        Krnov
-            - Krnov
+            - Kota 412 - najwyzszy punkt Garbu Czyzowki
+Czechy
         Kromeriz
             - zamek i ogrod
         Cesky Krumlov
             - centrum historyczne
         Holasovice
         Telc
-            - centrum historyczne 
+            - centrum historyczne
         Slavonice
             - domy renesansowe
         Trebic
@@ -196,9 +194,9 @@ Czechy
             - stawy
         Cesky Raj
         Hodonin
-        Mikulcice 
+        Mikulcice
             - ufortyfikowane osiedle z czasow Wielkich Moraw
-        Kopcany 
+        Kopcany
             - kosciol sw.Margarety z Antiochii
         Ostrava
             - Dolni oblast Vitkovice
@@ -207,19 +205,19 @@ Czechy
         Vlcnov
             - Jizda kralu
         Hlinsko
-            - masopustni obchuzky a masky 
+            - masopustni obchuzky a masky
         Litomerice
-        Terezin 
+        Terezin
             - forteca
         Zlin
-        Luhacovice 
+        Luhacovice
             - kapiele
         Dvur Kralove
             - Zoo
-        Kuks 
+        Kuks
             - rzezby i zamek
         Pardubice
-        Kladruby nad Labem 
+        Kladruby nad Labem
             - konie
         Zatec
         Karlovy Vary
@@ -238,7 +236,7 @@ Ukraina
         Drohobycz
             - Cerkiew pw. sw. Jura
         Matkiw
-            - Cerkiew Najswietszej Bogurodzicy/sw. Dymitra 
+            - Cerkiew Najswietszej Bogurodzicy/sw. Dymitra
         Rohatyn
             - Cerkiew sw. Ducha
         Werbiaz Nizny
@@ -303,7 +301,7 @@ Ukraina
             - Vilshany - primeval beech forest
         National Nature Park Zacharovany Krai
             - Irshavka - primeval beech forest
-            - Velykyi Dil - primeval beech forest 
+            - Velykyi Dil - primeval beech forest
 Slowacja
         Kopcany
             - Kostol svatej Margity
@@ -513,7 +511,7 @@ Niemcy
         Kunzing
             - rzymski amfiteatr - rekonstrukcja
         Passau
-            - RomerMuseum Kastell Boiotro - Passau 
+            - RomerMuseum Kastell Boiotro - Passau
         Potsdam
             - Palace and Park of Sanssouci
             - Neuer Garten
@@ -526,7 +524,7 @@ Niemcy
             - Blockhaus Nikolskoe
             - Pfaueninsel
             - Böttcherberg
-            - Jagdschloss Glienicke 
+            - Jagdschloss Glienicke
             - Heilandskirche
             - Palace and Park of Sacrow
             - Lindenallee
@@ -560,7 +558,7 @@ Niemcy
         Sipplingen
             - prehistorical pile dwelling
         Unteruhldingen
-            - prehistorical pile dwelling 
+            - prehistorical pile dwelling
         Ahlen
             - prehistorical pile dwelling
         Alleshausen
@@ -595,7 +593,7 @@ Niemcy
             - Jewish Cemetery of Altona Königstraße
         Speyer
             - katedra
-            - synagoga i zydowska dzielnica 
+            - synagoga i zydowska dzielnica
         Hildesheim
             - St. Maria Himmelfahrt
             - Michaeliskirche
@@ -667,7 +665,7 @@ Niemcy
             - Römisches Museum für Kur- und Badewesen
         Eining
             - Roman archeological site close to Weinberg
-        Dresden Elbe Valley  
+        Dresden Elbe Valley
 Wegry
         Aggtelek National Park
             - Baradla-Domica cave system
@@ -693,7 +691,7 @@ Wegry
         Mohacs
             - Busojaras
         Mezokovesd
-            - embroidery of the Matyo community 
+            - embroidery of the Matyo community
         Pecs
             - Early Christian Necropolis of Pécs
         Hortobagy National Park
@@ -721,7 +719,7 @@ Wegry
         Nyirbator
             - wooden church tower
         Ipolytarnóc
-            - fossil site 
+            - fossil site
 Austria
         Werfen
             - Eisriesenwelt
@@ -773,7 +771,7 @@ Austria
         Bregenzerwald
         Kremsmunster
             - Kremsmunster Abbey
-        Heiligenkreuz       
+        Heiligenkreuz
             - Heiligenkreuz Abbey
         Launsdorf
             - Hochosterwitz Castle
@@ -790,7 +788,7 @@ Austria
             - Fort Lentia archeological site - Romerberg
         Enns
             - St. Laurenz church
-            - remains of Lauriacum - archeological site 
+            - remains of Lauriacum - archeological site
         St. Pantaleon
             - Remains of Roman legionary fortress in Albing
         Wallsee
@@ -800,7 +798,7 @@ Austria
         Pochlarn
             - Roman towers
             - archeological site from Roman times
-        Bacharnsdorf 
+        Bacharnsdorf
             - Ruins of Roman watch tower
         Rossatzbach
             - Romerturm
@@ -830,7 +828,7 @@ Austria
             - lazne
         Imst
             - Imster Schemenlaufen
-Dania                               
+Dania
         Nationalpark Vadehavet
         Christiansfeld
         Ilulissat Icefjord
@@ -851,7 +849,7 @@ Dania
         Rodvig
             - Stevns Klint cliffs
         Qassiarsuk
-        Igaliku 
+        Igaliku
         Qaqortukulooq/Hvalsey
             - ruiny osady
         Sissarluttoq
@@ -905,7 +903,7 @@ Holandia
         Frederiksoord
             - De Koloniehof
             - school of horticulture
-            - other historical remains of the colony 
+            - other historical remains of the colony
         Wilhelminaoord
             - school of the colony
             - other historical remains of the colony
@@ -937,7 +935,7 @@ Holandia
 Belgia
         Sonian Forest
             - Forest Reserve “Joseph Zwaenepoel” - primeval beech forest
-            - Grippensdelle A - primeval beech forest 
+            - Grippensdelle A - primeval beech forest
             - Grippensdelle B - primeval beech forest
             - Reserve forestiere du Ticton A - primeval beech forest
             - Reserve forestiere du Ticton A - primeval beech forest
@@ -953,20 +951,20 @@ Belgia
             - La crypte de la Tour de l’Yser
         Kortrijk
             - Het Belfort of Halletoren
-            - Beguinage de Kortrijk 
+            - Beguinage de Kortrijk
         Lo
-            - Voormalig Stadhuis met Belfort 
+            - Voormalig Stadhuis met Belfort
         Menen
             - Belfort en Stadhuis
         Nieuwpoort
             - Stadshal met Belfort
             - Le monument aux disparus du Commonwealth Nieuport Memorial
         Roeselare
-            - Stadhuis, Stadshal en Belfort 
+            - Stadhuis, Stadshal en Belfort
         Tielt
             - Hallentoren belfry, Cloth Hall and Aldermen's Chamber
         Veurne
-            - Landhuis met Belfort 
+            - Landhuis met Belfort
         Ieper
             - Belfort met Lakenhal
             - Le cimetiere militaire du Commonwealth Essex Farm Cemetery
@@ -985,15 +983,15 @@ Belgia
             - Belfort en Schepenhuis
             - Carnival of Aalst
         Dendermonde
-            - Stadhuis met Belfort 
-            - Beguinage de Dendermonde 
+            - Stadhuis met Belfort
+            - Beguinage de Dendermonde
             - Ros Beiaard of Dendermonde
         Eeklo
-            - Stadhuis met Belfort 
+            - Stadhuis met Belfort
         Gent
             - Belfort, Lakenhal en Mammelokker
             - Petit Beguinage de Gent
-            - Beguinage de Sint-Amandsberg 
+            - Beguinage de Sint-Amandsberg
             - historic centre
         Oudenaarde
             - Stadhuis met Belfort
@@ -1004,7 +1002,7 @@ Belgia
             - Maison Guiette
             - historic centre
         Herentals
-            - Voormalig Stadhuis / Lakenhal 
+            - Voormalig Stadhuis / Lakenhal
         Lier
             - Stadhuis en Belforttoren
             - Beguinage de Lier
@@ -1012,27 +1010,27 @@ Belgia
             - Sint-Romboutskathedraal
             - Old Cloth Hall with Belfry
             - Grand Beguinage de Mechelen
-            - Ommegang of Mechelen 
+            - Ommegang of Mechelen
         Leuven
             - St. Peter's Church and tower
-            - Grand Beguinage of Leuven 
+            - Grand Beguinage of Leuven
             - historyczne budynki Katholieke Universiteit Leuven
             - Leuven age set ritual repertoire
         Tienen
-            - Sint-Germanuskerk met Stadstoren 
+            - Sint-Germanuskerk met Stadstoren
         Zoutleeuw
             - Sint-Leonarduskerk
         Sint-Truiden
             - Stadhuis met Toren
-            - Beguinage de Sint-Truiden 
+            - Beguinage de Sint-Truiden
         Tongeren
-            - Onze-Lieve-Lievevrouwebasiliek met Stadstoren 
-            - Beguinage de Tongeren 
+            - Onze-Lieve-Lievevrouwebasiliek met Stadstoren
+            - Beguinage de Tongeren
         Binche
             - Beffroi de l'Hotel de Ville de Binche
             - Carnival of Binche
         Charleroi
-            - Beffroi de l'Hotel de Ville de Charleroi 
+            - Beffroi de l'Hotel de Ville de Charleroi
             - Marcinelle - Bois du Cazier - kopalnia
             - Jumet - Le Tour de la Madeleine
         Mons
@@ -1042,19 +1040,19 @@ Belgia
             - Beffroi de Thuin
             - Marche Saint-Roch
         Tournai
-            - Beffroi de Tournai 
+            - Beffroi de Tournai
             - Notre-Dame de Tournai
         Gembloux
             - Beffroi de Gembloux
         Namur
-            - Beffroi de Namur  
+            - Beffroi de Namur
             - Citadel of Namur
         Hoogstraten
             - Beguinage de Hoogstraten
         Turnhout
             - Beguinage de Turnhout
         Diest
-            - Beguinage de Diest 
+            - Beguinage de Diest
         Bruksela
             - La Grand-Place
             - Hotel Solvay
@@ -1073,7 +1071,7 @@ Belgia
             - Canal du Centre - Ascenseur no.2
             - Canal du Centre - Ascenseur no.3
         Blegny
-            - Blegny-Mine    
+            - Blegny-Mine
         Spiennes
             - Neolithic flint mines of Spiennes
         Houdeng-Goegnies
@@ -1094,7 +1092,7 @@ Belgia
         Merksplas
             - Merksplas Kolonie
         Wortel
-            - Wortel Kolonie 
+            - Wortel Kolonie
         Koekelare
             - Le cimetiere militaire allemand de Vladslo
         Alveringem
@@ -1109,7 +1107,7 @@ Belgia
             - Le cimetiere militaire du Commonwealth Polygon Wood Cemetery
             - Le cimetiere militaire du Commonwealth Buttes New British Cemetery
         Kemmel
-            - L’ossuaire francais Mont Kemmel 
+            - L’ossuaire francais Mont Kemmel
             - Le cimetiere militaire du Commonwealth Lindehoek Chalet Military Cemetery
         Wijtschate
             - Le cimetiere militaire du Commonwealth Spanbroekmolen British Cemetery
@@ -1151,7 +1149,7 @@ Belgia
         Armentieres-Le Bizet
             - Motor Car Corner Cemetery
             - Tancrez Farm Military Cemetery
-            - Touquet Railway Crossing Cemetery   
+            - Touquet Railway Crossing Cemetery
         Sint-Lievens-Houtem
             - Houtem Jaarmarkt
         Geraardsbergen
@@ -1171,7 +1169,7 @@ Belgia
         Gerpinnes
             - Marche Sainte-Rolende
         Ham-sur-Heure-Nalinnes
-            - Marche Saint-Roch 
+            - Marche Saint-Roch
         Laneffe
             - Marche Saint-Eloi
         Morialme
@@ -1185,7 +1183,7 @@ Belgia
         Villers-Deux-Eglises
             - Marche Saint-Pierre
         Walcourt
-            - La marche de la Trinite    
+            - La marche de la Trinite
 Slovenia
         Borovec pri Kocevski reki
             - Krokar virgin forest
@@ -1197,7 +1195,7 @@ Slovenia
             - stare miasto
             - mercury smelting plant
             - mercury mine
-            - Kamst water pump 
+            - Kamst water pump
             - Rake water channel
             - Kobila dam
             - Putrihove klavze
@@ -1250,7 +1248,7 @@ Slovenia
             - Avstro-ogrsko vojasko pokopalisce iz prve svetovne vojne
         Podgrajsko podolje
             - Odolina blind valley
-            - Jezerina blind valley 
+            - Jezerina blind valley
             - Raciska Dana blind valley
         Divaca
             - Kacna jama
@@ -1280,7 +1278,7 @@ Chorwacja
             - Hajdučki i Rožanski kukovi - primeval beech forest
         Nacionalni park Paklenica
             - Suva draga-Klimenta - primeval beech forest
-            - Oglavinovac-Javornik - primeval beech forest 
+            - Oglavinovac-Javornik - primeval beech forest
         Plitvicka jezera
         Split
             - Palac Dioklecjana
@@ -1311,7 +1309,7 @@ Chorwacja
             - crkva Sv. Ilije
             - Benedictine nunnery with the church of St. Mary
             - The Gold and Silver of Zadar
-            - muzeum archeologiczne 
+            - muzeum archeologiczne
         Zablace
             - Tvrdava svetog Nikole
         Ston
@@ -1357,7 +1355,7 @@ Chorwacja
             - Hvar
                 - lacemaking
             - Stari Grad Plain
-            - procession Za Krizen 
+            - procession Za Krizen
         Lepoglava
             - lacemaking
         Gorjani
@@ -1405,7 +1403,7 @@ Bosnia i Hercegovina
         Ravnice
             - Nekropola Sa Steccima Cengica Bara
         Donje Ravno
-            - Ravanjska vrata - stecci 
+            - Ravanjska vrata - stecci
         Visegrad
             - Mehmed Pasa Sokolovic Bridge
         Mostar
@@ -1475,7 +1473,7 @@ Bosnia i Hercegovina
             - Blidinje lake - stecci - Jezero
             - Diva Grabovica gorge
             - Barzonja - stecci
-            - Ponor 
+            - Ponor
                     - Brcanj - stecci
                     - Dugo polje - stecci
             - Donje Bare - stecci
@@ -1491,7 +1489,7 @@ Bosnia i Hercegovina
             - Radimlja necropolis - stecci
             - Vrsnik hillfort
             - Tvrdjava Stolac
-            - Osanici 
+            - Osanici
                 - Crkva Svetog Petra i Pavla
                 - Moše Danon tomb and havra
             - Inat Cuprija bridge
@@ -1517,7 +1515,7 @@ Bosnia i Hercegovina
             - embroidery
 Montenegro
         Novakovici
-            - Grcko groblje - stecci 
+            - Grcko groblje - stecci
             - Bare Zugica - stecci
         Scepan Polje
             - Grcko groblje - stecci
@@ -1564,7 +1562,7 @@ Serbia
         Golubac
             - Cuppae archeological site
             - Golubac fortress
-            - Golubac fortress archeological site and remains of Roman road 
+            - Golubac fortress archeological site and remains of Roman road
         Deliblatska pescara Nature reserve
         Zebica
             - Davolja Varos
@@ -1597,7 +1595,7 @@ Serbia
         Begec
             - Castellum Onagrinum archeological site
         Petrovaradin
-            - Cusum archeological site 
+            - Cusum archeological site
         Stari Slankamen
             - Acumincum archeological site
         Belegis
@@ -1675,16 +1673,16 @@ Francja
             - pont sur le Dourdou
         Annecy
             - stare miasto
-        Vichy 
+        Vichy
             - lazne
         Armentieres
-            - Beffroi de l’Hotel de Ville d’Armentieres 
+            - Beffroi de l’Hotel de Ville d’Armentieres
         Bailleul
-            - Beffroi de l’Hotel de Ville de Bailleul 
+            - Beffroi de l’Hotel de Ville de Bailleul
         Bergues
             - Beffroi de Bergues
         Cambrai
-            - Beffroi de l’eglise St-Martin de Cambrai 
+            - Beffroi de l’eglise St-Martin de Cambrai
         Comines
             - Beffroi de l’Hotel de Ville de Comines
         Douai
@@ -1704,26 +1702,26 @@ Francja
             - Beffroi de l’Hotel de Ville d’Arras
             - La citadella d’Arras
         Bethune
-            - Beffroi de Bethune 
+            - Beffroi de Bethune
         Boulogne-sur-Mer
             - Beffroi de l’Hotel de Ville de Boulogne
         Calais
-            - Beffroi de l’Hotel de Ville de Calais  
+            - Beffroi de l’Hotel de Ville de Calais
         Hesdin
             - Beffroi de l’Hotel de Ville d’Hesdin
         Abbeville
-            - Beffroi d’Abbeville 
+            - Beffroi d’Abbeville
         Amiens
             - Beffroi d’Amiens
-            - katedra 
+            - katedra
         Doullens
             - Belfry of the former Municipal Hall
         Lucheux
-            - Beffroi de porte de Lucheux 
+            - Beffroi de porte de Lucheux
         Rue
-            - Beffroi de Rue 
+            - Beffroi de Rue
         Saint-Riquier
-            - Beffroi de Saint-Riquier  
+            - Beffroi de Saint-Riquier
         Paryz
             - Maison La Roche
             - Maison Jeanneret
@@ -1738,9 +1736,9 @@ Francja
             - stare miasto i port
             - Basilique Saint-Seurin
             - Basilica of St. Michael
-            - Cathedrale Saint-Andre 
+            - Cathedrale Saint-Andre
         Poissy
-            - Villa Savoye       
+            - Villa Savoye
         Marsylia
             - Cite radieuse
         Saint-Die-des-Vosges
@@ -1748,9 +1746,9 @@ Francja
         Ronchamp
             - Chapelle Notre-Dame-du-Haut de Ronchamp
         Roquebrune-Cap-Martin
-            - Cabanon de Le Corbusier    
+            - Cabanon de Le Corbusier
         Eveux
-            - Couvent Sainte-Marie-de-la-Tourette    
+            - Couvent Sainte-Marie-de-la-Tourette
         Firminy
             - Maison de la Culture de Firminy
         Cassel
@@ -1796,21 +1794,21 @@ Francja
         Perigeux
             - Cathedrale Saint-Front
         Saint-Avit-Senieur
-            - Eglise Saint-Avit 
+            - Eglise Saint-Avit
         Cadouin
             - Eglise abbatiale Notre-Dame de la Nativite
         Bazas
             - Bazas Cathedral
         La Sauve
             - Ancienne Eglise Abbatiale de la Sauve-Majeure
-            - Eglise Saint-Pierre 
-        Soulac-sur-Mer 
-            - Eglise de Notre-Dame-de-la-Fin-des-Terres 
+            - Eglise Saint-Pierre
+        Soulac-sur-Mer
+            - Eglise de Notre-Dame-de-la-Fin-des-Terres
         Aire-sur-l’Adour
-            - Eglise Sainte-Quitterie 
+            - Eglise Sainte-Quitterie
         Mimizan
             - Clocher-porche de l'ancienne eglise
-        Sorde-l’Abbaye 
+        Sorde-l’Abbaye
             - Abbaye Saint-Jean
         Saint-Sever
             - Abbaye de Saint-Sever
@@ -1851,8 +1849,8 @@ Francja
         Audressein
             - eglise Notre-Dame de Tramesaygues
         Saint-Lizier
-            - former cathedral and cloister 
-            - cathedral Notre-Dame-de-la-Sede 
+            - former cathedral and cloister
+            - cathedral Notre-Dame-de-la-Sede
             - episcopal palace
             - rempart
         Espalion
@@ -1860,7 +1858,7 @@ Francja
         Estaing
             - pont sur le Lot
         Saint-Chely-d'Aubrac
-            - pont dit “des pelerins” sur la Boralde 
+            - pont dit “des pelerins” sur la Boralde
         Saint-Bertrand-de-Comminges
             - ancienne cathedrale Notre-Dame
             - basilique paleochretienne chapelle Saint-Julien
@@ -2028,7 +2026,7 @@ Francja
             - Abri du Poisson
             - Abri de Cro-Magnon
         Manaurie
-            - Laugerie haute        
+            - Laugerie haute
             - La Micoque/Gisement de la Micoque
         Orange
             - Arc de triomphe
@@ -2104,7 +2102,7 @@ Rumunia
         Semenic-Cheile Carasului National Park
             - Izvoarele Nerei - primeval beech forest
         Strimbu Baiut
-            - primeval beech forest  
+            - primeval beech forest
 Bulgaria
         Central Balkan National Park
             - Boatin Reserve - primeval beech forest
@@ -2122,7 +2120,7 @@ Hiszpania
             - Hayedo de Montejo - primeval beech forest
         Selva de Irati
             - Reserva integral de Lizardoia - primeval beech forest
-        Reserva Integral de Aztaparreta 
+        Reserva Integral de Aztaparreta
             - primeval beech forest
         Parque Nacional de Picos de Europa
             - Cuesta Fria - primeval beech forest
