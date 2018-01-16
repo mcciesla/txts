@@ -98,6 +98,7 @@ BIOLOGIA:
     The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
     The Blank Slate ; Steven Pinker
     The Language Instinct - How the Mind Creates Language ; Steven Pinker
+    The Vital Question - Energy, Evolution, and the Origins of Complex Life ; Nick Lane
     Wspinaczka Na Szczyt Nieprawdopodobieństwa ; Richard Dawkins
     Życie , Nieautoryzowana Biografia ; Richard Fortey
 CHAOS:
@@ -187,6 +188,7 @@ POP.SCIENCE :
         The Blank Slate ; Steven Pinker
         The Greatest Show On Earth ; Richard Dawkins
         The Language Instinct - How the Mind Creates Language ; Steven Pinker
+        The Vital Question - Energy, Evolution, and the Origins of Complex Life ; Nick Lane
         Tomáš objavuje prírodu ; Gérard Grée , Alain Grée
         Ve stínu člověka ; Jane van Lawicková-Goodallová
         Wspinaczka Na Szczyt Nieprawdopodobieństwa ; Richard Dawkins
