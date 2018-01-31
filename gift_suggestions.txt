@@ -5,6 +5,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - Pożegnanie z Marią - Tadeusz Borowski
       - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Dynasties of the World: A Chronological and Genealogical Handbook - John E. Morby
+      - Enlightenment Now - Steven Pinker
       - Blood Meridian - Cormac McCarthy
       - Złoto gór czarnych , tom I - Krystyna Szklarska , Alfred Szklarski
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
@@ -104,7 +105,6 @@ books - The History of Western Philosophy - Bertrand Russell
                 - Powrot z gwiazd
                 - Doskonala proznia
                 - Wielkosc urojona
-                - Katar
                 - Golem XIV
                 - Pokoj na Ziemi
 movies - The Act of Killing - Joshua Oppenheimer

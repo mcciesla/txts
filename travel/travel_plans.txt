@@ -2052,6 +2052,305 @@ Francja
         La Reunion National Park
         Gavarnie
             - Cirque de Gavarnie
+        Fresnes-sur-Escaut
+            - Compagnie des Mines d’Anzin: Ensemble commemoratif
+            - Chateau des Douaniers
+            - Cite Soult Ancienne
+            - Fosse Soult
+            - Chateau Desandrouin
+            - Grands Bureaux de la Compagnie des Mines de Thivencelle
+            - Ancienne Gare des Houilleres
+        Vieux-Conde
+            - Chateau de l’Hermitage
+            - Pompe a feu de la fosse du Sarteau
+            - Paysage et ensemble miniers du secteur d’Amaury
+            - Cite de la Solitude    
+        Bruay-sur-l'Escaut
+            - Terril Sabatier Nord
+            - Terril Sabatier Sud
+            - Chevalement du Puits no.2 de la Fosse Sabatier
+            - Rue Maurice Sabatier
+            - Terril du Lavoir Rousseau
+            - Le Pinson - Eglise Sainte-Cecile et Presbytere
+                        - Groupe scolaire Anatole France
+            - Rue de Dunkerque
+            - Cite Thiers Nouvelle
+            - Cite Brunehaut
+            - Rue de la Marne
+            - Ecoles Maternelle et Elementaire Brunehaut
+            - Cite du Rivage ancienne/Cite du Fruitier
+        Conde-sur-l'Escaut
+            - Etang Chabaud Latour
+            - Cite des Acacias
+            - Cite Chabaud-Latour
+            - Cite Lorette
+            - Etang de la Digue Noire
+            - Terril Ledoux Moulineaux
+            - Terril Ledoux Lavoir
+            - Chemin Saint-Leonard
+        Voie Verte des Gueules Noires 
+        Valenciennes
+            - Chateau Dampierre
+            - Coron des 12/Coron des 120
+            - Ensemble minier de La Sentinelle - Coron Carre
+                                               - Dispensaire de la Societe de Secours Miniere
+                                               - Eglise Sante-Barbe
+                                               - Coron de l'Eglise
+            - Chevalement de la fosse Dutemple
+        Haveluy
+            - Dispensaire de la Societe de Secours Miniere
+            - Rue Denis Marissel
+            - Cite du Bas-Riez
+            - Terril Haveluy Sud
+            - Terril Haveluy Nord
+        Troncon de Cavalier
+        Wallers
+            - Cite de Bellaing
+            - Cite de la Dreve
+            - Cite de Nouveau Monde
+            - Bureau de Poste d'Arenberg
+            - Salle des Fetes
+            - Ancienne Ecole Menagere
+            - Cite d'Arenberg
+            - Pharmacie Carmi Nord-Pas-de-Calais
+            - Ecole du Bosquet
+            - Ecole Maternelle du Bosquet
+            - Mine de Wallers-Arenberg
+            - Puits Arenberg no.1
+            - Puits Arenberg no.2
+            - Puits Arenberg no.3-4
+            - Reserve biologique dirigee de la Mare a Goriaux
+            - Terril de la Mare a Goriaux
+        Denain
+            - Cites Chabaud-Latour ancienne et nouvelle
+            - Fosse Mathilde
+            - Terril Renard
+        Escaudain
+            - Cite d'Alsace
+            - Ecole Marcel Cachin
+            - Cite Audiffret
+            - Centre de Soins
+            - Terril 153/Terril d'Audiffret-Pasquier
+            - Cite Couture
+        Lourches
+            - Monument commemoratif Charles Mathieu
+        Auberchicourt
+            - Terril 125a
+        Masny
+            - Cite du Garage
+            - Chapelle Notre-Dame des Mineurs
+            - Cite du Champ Fleuri
+        Lewarde
+            - Fosse Delloye - Centre Historique Minier de Lawarde
+        Guesnain
+            - Cite de la Balance
+            - Cite de Guesnain
+            - Cite de la Malmaison
+            - Dispensaire de la Societe de Secours Miniere
+        Waziers
+            - Cite Notre-Dame
+            - Centre Social et Culturel Henri Martel
+            - Eglise Notre-Dame des Mineurs
+            - Ecole primaire Copernic
+            - Ecole Maternelle Publique Chopin
+            - Cite de la Solitude
+            - Cite du Godion
+            - Cite Saint-Joseph
+            - Cite de la Ferronniere
+            - Salle des Fetes
+        Somain
+            - Cite Beaurepaire
+            - Cite de la Ferme Beaurepaire
+            - Cite du Bois-Brule
+            - Chapelle Sainte-Barbe
+            - Prieure de Beaurepaire
+            - Cite du Moulin
+        Rieulay
+            - Etang de Rieulay
+            - Terril de Rieulay
+        Pecquencourt
+            - Cite Lemay
+            - Dispensaire
+            - Cite de Pecquencourt
+        Lallaing
+            - Terril de Germinies Sud
+            - Terril de Germinies Nord
+        Montigny-en-Ostrevent
+            - Cite Barrois
+            - Cite de Montigny
+            - Ecole de la Cite de Montigny
+            - Centre de Sante Medical
+            - Chateau Lambrecht
+            - Cite du Moucheron
+            - Eglise Saint-Charles
+        Anhiers
+            - Fosse no.2 de Flines
+        Roost-Warendin
+            - Chevalement de la fosse no.9
+            - Cite de la Belleforiere
+            - Terril de l'Escarpelle
+            - Terril des Paturelles
+        Auby
+            - Terril 140
+            - Cite de la Justice
+            - Cite du Moulin
+            - Centre Medical
+        Libercourt
+            - Terril 115
+            - Ancienne Fosse no.2 et mine-image - Terril 115a
+            - Cite de la Faisanderie
+            - Ecole Primaire Jean Jaures
+            - Cite de la Foret
+            - Cite 1940
+            - Eglise Saint-Henri
+        Carvin
+            - Hotel de ville
+        Oignies
+            - Monument a Madame Declercq
+            - Terril 110  
+            - Dispensaire de la Societe de Secours Miniere
+            - Cite des Bonniers
+            - Terril 116
+            - Terril 117
+        Evin-Malmaison
+            - Cite Cornuault
+            - Chevalement de la Fosse no.8
+        Dourges
+            - Cite Bruno Ancienne
+            - Cite Bruno Nouvelle
+            - Ecole de la Cite Bruno
+            - Presbytere
+            - Salle Municipale Frederic Chopin
+        Henin-Beaumont
+            - Cite Foch
+            - Ecole de Musique
+            - Centre de Sante Medical
+            - Terril 87 - St.Henriette
+            - Terril 92
+            - Terril 205
+            - Cite Darcy
+        Noyelles-Godault
+            - Cite Crombez
+        Billy-Montigny
+            - Terril 101
+            - Terril 84 
+            - Cite de la Fosse no.10
+            - Silo de Mericourt et Chemin des Rescapes
+        Rouvroy
+            - Cite de la Residence de la Motte
+            - Ecole primaire Curie-Vaillant-Couturier
+            - Ancien Cavalier
+        Drocourt
+            - Cite de la Parisienne
+            - Eglise Sainte-Barbe
+        Mericourt
+            - Cite de la Residence du Parc
+        Estevelles
+            - Cite Saint-Paul
+            - Terril 98
+            - Cite de la Fosse no.24
+            - Ancien Cavalier
+        Harnes
+            - Terril 93
+            - Cite Bellevue Ancienne
+            - Ecole primaire Louis Pasteur
+            - Eglise du Sacre-Coeur
+        Annay
+            - Camus Haut d'Annay
+        Fouquieres-les-Lens
+            - Cite du Moulin
+            - Terril 260
+            - Cite de l'Hopital
+            - CEP-ADAIR
+            - Ancien Cavalier
+            - Cite de Courtaine
+        Noyelles-sous-Lens
+            - Cite d'Anchin
+        Sallaumines
+            - Maison de Cadre
+            - Maison d'Ingenieur
+            - Cite Deblock
+            - Monument commemoratif de la Catastrophe de Courrieres
+        Douvrin
+            - Batiments de la Fosse no.5
+            - Cavalier
+            - Ancienne Gare de Douvrin
+        Wingles
+            - Cite de la Gare
+            - Cite du Pont
+            - Cite des Sports
+            - Cavalier
+        Hulluch
+            - Fosse no.13 bis
+            - Cite Saint-Elie
+            - Ecole primaire
+            - Dispensaire de la Societe de Secours Miniere
+        Auchy-les-Mines
+            - Cavalier
+            - Cite d'Auchy
+        Lens
+            - railway bridge over A21
+            - Maison de l'Ingenieur de la Cite du 12/14
+            - Puits no.12
+            - Ancien Batiment de la Salle des Pendus et des Bains-Douches de la Fosse no.12 de la Compagnie des Mines de Lens
+            - Maison de Concierge
+            - Cite no.12
+            - Maison d'employe de porion
+            - Logement du Directeur du la Cite no.12
+            - Presbytere de la Cite no.12
+            - Cite no.1
+            - Cite du no.12 bis
+            - Ecole Marie Curie
+            - Maison du Directeur des Ecoles
+            - Maison d'Ingenieur
+            - Cite Jeanne d'Arc
+            - Eglise Saint-Theodore
+            - Centre Medical de Societe de Secours Miniere
+            - Grands Bureaux de la Societe des Mines de Lens
+            - Cite no.2 62 Pas-de-Calais
+            - Ancienne Maison Syndicale des Mineurs
+            - Monument Emile Basly
+            - Gare de Lens
+            - Monument aux morts 1914-1918
+        Lievin
+            - Cite des Provinces
+            - Presbytere
+            - Groupe Scolaire de la Cite des Provinces
+            - Maison du Directeur des Ecoles et des Soeurs
+            - Maison des Soeurs
+            - Maison d'Ingenieur
+            - Cite no.16
+            - Ancien site minier de la fosse 11-19 de la Compagnie des Mines de Lens
+            - Terril no.74 (11 - 19 de Lens Est)
+            - Terril no.74A (11 - 19 de Lens Ouest)
+            - Terril no.74b 
+            - Ecole primaire Pierre Brossolette
+            - Chevalement du no.3 bis de Lens/Puits no.3 bis Saint-Ame
+            - Chevalement du no.1 bis de Lievin/Puits no.1 bis
+            - Temple protestant
+            - Grands Bureaux de la Societe Houillere de Lievin et cite des Bureaux Ouest
+            - Terril 80
+            - Cite des Garennes
+        Avion
+            - Cite des Petits Bois
+            - Terril des Pinchonvalles
+            - Ancien Cavalier
+            - Cite du Bouvier
+            - Cite des Pinchonvalles
+            - Ecole Desnos-Casanova
+        Mazingarbe
+            - Terril 49
+            - Cite no.7
+            - Ecole Anatole France
+            - Maison d'Ingenieur
+            - Mairie
+        Vermelles
+            - Ancien Cavalier
+        Annequin
+            - Cite no.9
+            - Ecole Primaire Jules Ferry
+            - Centre de soins - Medical
+            
 Italia
         Parco Nazionale d'Abruzzo, Lazio e Molise
             - Valle Cervara	- primeval beech forest
