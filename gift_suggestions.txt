@@ -109,5 +109,6 @@ books - The History of Western Philosophy - Bertrand Russell
 movies - The Act of Killing - Joshua Oppenheimer
        - The Look of Silence - Joshua Oppenheimer
        - Joseph Campbell and the Power of Myth
-       - Meru
+       - Meru - Jimmy Chin and Elizabeth Chai Vasarhelyi
        - The Vietnam War - Ken Burns and Lynn Novick
+       - The Dawn Wall - Josh Lowell and Peter Mortimer
