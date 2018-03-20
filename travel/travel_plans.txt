@@ -1683,6 +1683,7 @@ Francja
             - Beffroi de Bergues
         Cambrai
             - Beffroi de l’eglise St-Martin de Cambrai
+            - Cimetiere allemand de la route de Solesmes
         Comines
             - Beffroi de l’Hotel de Ville de Comines
         Douai
@@ -1729,6 +1730,10 @@ Francja
             - Tour Saint-Jacques/vestige de l'eglise Saint-Jacques-de-la-Boucherie
             - Versailles - park i palac
             - Banks of the Seine
+            - Basilique Saint-Denis
+            - Office National d'Études et de Recherches Aérospatiales - Meudon
+            - Hangar Y - Meudon
+            - Ancienne chocolaterie Menier a Noisiel
         Saint-Guilhem-le-Desert
             - Ancienne abbaye de Gellone
         Bordeaux
@@ -1741,6 +1746,33 @@ Francja
             - Villa Savoye
         Marsylia
             - Cite radieuse
+            - Plage de la Batterie
+            - Tunnel du Rove southern entrance
+            - Massif de la Nerthe
+            - Port de la Joliette
+            - Marseille Cathedral
+            - Ensemble du Vieux-Port
+            - Fort Saint-Jean
+            - Palais du Pharo
+            - Quai des Beiges
+            - Fort Saint-Nicolas
+            - Abbaye Saint-Victor
+            - Basilique Notre-Dame-de-la-Garde
+            - Promenade de la Corniche
+            - Massif naturel de Marseilleveyre
+            - Anciens quartiers de la Vieille Chapelle et de la Pointe Rouge et de Montredon
+            - Grotte Cosquer
+            - Chapelle de la Vieille Charite
+            - Hotel Dieu
+            - Ilot urbain grec du college du Vieux-Port
+            - Vestiges du theatre grec
+            - Cours Belsunce
+            - Cours Saint-Louis
+            - La Canebiere
+            - Boulevard Longchamp
+            - Palais Longchamp
+            - Les Iles du Frioul
+            - Ile de Planier
         Saint-Die-des-Vosges
             - Manufacture a Saint-Die des Vosges - Usine Duval
         Ronchamp
@@ -1784,6 +1816,12 @@ Francja
             - katedra
             - Abbey of Saint-Remi
             - Palais du Tau
+            - Le site de Saint-Nicaise - L’ancien faubourg Saint-Nicaise
+                                       - La colline des Maisons de Champagne/Colline Saint-Nicaise
+                                       - Les cites-jardins du Chemin Vert et de la Verrerie
+            - Caves Pommery, Ruinart, Veuve-Cliquot, Charles Heidsieck - underground
+            - Caves Taittinger - underground
+            - Caves Martel - underground
         The Causses and the Cevennes
         Avignon
             - historic centre
@@ -1974,6 +2012,7 @@ Francja
         Fontainebleau
             - palace
             - park zamkowy
+            - Forest of Fontainebleau/Foret de Fontainebleau
         Nancy
             - Place Stanislas
             - Place de la Carriere
@@ -2344,13 +2383,320 @@ Francja
             - Ecole Anatole France
             - Maison d'Ingenieur
             - Mairie
+            - Cite no.2
+            - Ecole Jean Zay
+            - Ancien Dispensaire
+            - Salle Jean Vasseur
+            - Cllinique Sainte-Barbe
+            - Monument aux Morts des Mines de Bethune/Monument aux morts et grilles de la cite des Brebis
+        Grenay
+            - Terril 58
+            - Terril 58a
+            - Cite des Quarante
+            - Cite no.5 de Bethune
+            - Ecole Jacques Prevert
+            - Le Prieure
+            - Ecole Ferdinand Buisson
+            - Dispensaire Societe de Secours Mutuel/Ancienne Societe de Secours Mutuels des Ouvriers et Employes des Mines de Bethune
+        Bully-les-Mines
+            - Monument du soldat Marche
+        Sains-en-Gohelle
+            - Eglise Sainte-Marguerite
+            - Ecole primaire Jean Mace-Henri Barbusse
+            - Cite no.10
+        Noeux-les-Mines
+            - Batiments de la Fosse no.1 bis
+            - Terril 36
+            - Anciens Bureaux et Ateliers de la Compagnie de Vicoigne-Noeux-Drocourt
+            - Cite du no.1 Ancienne
+            - Cite du no.1 Nouvelle
+            - Cite Residence du Fond de Sains
+            - Eglise Sainte-Barbe
+            - Cite Rue de Moussy
+            - Cite du Chemin Perdu
+            - Cite du Stade
+            - Ancienne Societe Cooperative des Mineurs
+            - Ecole Henri Wallon
+            - Ecole Saint-Exupery
+            - Pharmacie de Societe de Secours Miniere
+        Barlin
+            - Cite de la Loisne
+            - Cite no.9
+            - Cite Jeanne d'Arc
+            - Ecole Louis Pasteur
+            - Ancien Cavalier
+            - Cite des Soeurs
+            - Ecole de la Cite des Soeurs
+        Maisnil-les-Ruitz
+            - Cite no.7
+            - Ancienne Salle des Bains-Douches
         Vermelles
             - Ancien Cavalier
         Annequin
             - Cite no.9
             - Ecole Primaire Jules Ferry
             - Centre de soins - Medical
-            
+        Gosnay
+            - Cite du Chateau des Dames
+        Bruay-la-Buissiere
+            - Terril no.10
+            - Cite des Musiciens
+            - Cite des Musiciens bis
+            - Hotel de ville
+            - Cite Anatole France
+            - Cite des Electriciens
+            - Cite des Fleurs
+            - Eglise Saint-Joseph
+            - Ecole Jean Jaures
+            - Cite du Nouveau Monde
+            - Cite 16-1
+            - Ecole Marmottan
+            - Stade Parc
+            - Cite de la Victoire
+            - Cite des Arbres
+            - Etablissements Scolaires Paul Langevin
+            - Centre de Soins-Medical
+            - Ecole de la Cite des Arbres
+            - Terril no.2 (6 de Bruay Est)
+            - Terril no.3 (6 de Bruay Ouest)
+        Marles-les-Mines
+            - Chevalement du Vieux-Deux/Puits no.2
+        Auchel
+            - Terril no.14 (5 d'Auchel)
+            - Maison de la Parentalite La Goutte de Lait/Batiment de la Goutte de Lait
+            - Monument aux morts/Monument aux Morts de la Premiere Guerre Mondiale
+            - Cite de Rimbert
+            - Ecole de la Cite de Rimbert
+        Ligny-les-Aire
+            - Terril 34
+        Estree-Blanche
+            - Terril 32
+            - Terril 31
+            - Terril 244
+        Vallon-Pont-d'Arc
+            - Grotte Chauvet-Pont d’Arc
+        Dijon
+            - historic centre
+        Gevrey-Chambertin
+            - miasto i okoliczne winnice
+        Beaune
+            - miasto i okoliczne winnice
+        Santenay
+            - miasto i okoliczne winnice
+        Nuits-Saint-Georges
+            - miasto i okoliczne winnice
+        Hautvillers
+            - Coteaux d’Hautvillers - vineyard
+            - Caves cooperatives d’Hautvillers - underground
+            - Cave Thomas
+        Ay
+            - Coteaux d’Ay - vineyard
+            - Cave d’Ay - underground
+        Mareuil-sur-Ay
+            - Coteaux de Mareuil-sur-d’Ay
+            - Cave de Mareuil-sur-d’Ay - underground 
+        Epernay
+            - Avenue de Champagne
+            - Fort Chabrol
+            - Caves de l’avenue de Champagne - underground
+        Ra'iatea
+            - Marae Taputapuatea
+        Carnac
+            - Alignements du Menec
+            - Alignements de Kermario
+            - Saint-Michel tumulus
+            - Tumulus du Moustoir
+            - Kercado cairn
+            - Dolmen de Mane-Kerioned
+            - Dolmen du Mane Brizil
+            - Quadrilatere du Manio/Manio quadrilateral
+            - Geant du Manio
+        La Trinite-sur-Mer
+            - Alignements de Kerlescan
+            - Dolmen de Kerlescan
+            - Alignements du Petit-Menec
+            - Dolmen de la Madeleine
+            - Dolmen de Roch-Feutet/Er-Roc'h-Feutet
+            - Kermarquer dolmen
+        Erdeven
+            - Dolmen de Crucuno
+            - Quadrilatere de Crucuno
+        Rouen
+            - katedra
+            - Eglise Saint-Ouen
+            - Eglise Saint-Maclou
+            - historic centre with partially wooden houses/timber-framed urban area
+        Moisenay
+            - Chateau de Vaux-le-Vicomte
+        Le Tholonet
+            - Montagne Sainte-Victoire
+            - Carrieres de Bibemus
+        Aix-en-Provence
+            - Chateau du Jas de Bouffan/Bastide du Jas de Bouffan
+            - Atelier de Cezanne
+        Parc national de la Vanois
+        Massif du Mont Blanc
+        Saintes-Maries-de-la-Mer
+            - Reserve Naturelle de Camargue
+        Reserve Naturelle des Bouches de Bonifacio
+        Parc National des Ecrins
+        Parc national de Port-Cros
+        Saille
+            - Marais salants de Guerande
+        Port-Vendres
+            - Cap Bear
+        Massif des Alberes
+        Nimes
+            - Porte d'Auguste
+            - Sanctuaire de la Fontaine
+            - Maison Carree
+            - Arenes de Nimes - Roman amphitheater
+            - Castellum aquae - culmination of aqueduct
+        Saint-Remy-de-Provence
+            - Glanum - archeological site
+        Ligne de Cerdagne/Train Jaune
+        Le Verdon-sur-Mer
+            - Phare de Cordouan
+        Sarlat-la-Caneda
+            - historic centre
+        Rochefort
+            - Arsenal de Rochefort
+            - Corderie Royale
+        Ile-d'Aix
+            - fortyfikacje i baterie
+        Les Iles Marquises
+        Chaine des Puys from Gour de Tazenat to Puy de Montcineyre
+        Metz
+            - historic centre
+            - Saint-Etienne cathedral
+            - Place de la Comedie
+            - Place Saint-Jacques
+            - palac
+            - dworzec glowny
+            - Place Mondon
+            - Place du Roi George
+        Martinique
+            - Grand Riviere - Reserve biologique integrale du Precheur Grand Riviere
+            - Reserve biologique integrale de la Montagne Pelee
+            - mountains and forests between Morne Jacob and Morne Rose
+            - La Trinite - Presqu’ile de la Caravelle a Trinite
+            - Le Vauclin - Montagne du Vauclin
+            - Sainte Anne - mornes calcaires
+                          - Ilet Chevalier
+                          - Ilets de Saint-Anne
+            - Le Marin - Morne Aca
+            - Sainte-Luce - Ravine Saint-Pierre et Morne Prefontaine
+            - Saint-Esprit - Morne David et Bois la Charles
+            - Le Robert - Pointe Bateau et Pointe Jean-Claude
+            - Le Diamant - Rocher du Diamant
+            - Les Troits-Ilets - mountains and forests of Presqu’ile des Trois-Ilets
+        Saint-Martin-de-Varreville
+            - Utah Beach
+        Grandcamp-Maisy
+            - Pointe du Hoc
+        Vierville-sur-Mer
+            - Omaha Beach
+        Longues-sur-Mer
+            - Batterie de Longues
+        Arromanches-les-Bains
+            - Port artificiel Winston Churchill
+        Ver-sur-Mer
+            - Gold Beach
+        Courseulles-sur-Mer
+            - Juno Beach
+        Ouistreham
+            - Sword Beach
+        L’archipel de Crozet
+        Iles de Kerguelen
+        L’Ile d’Amsterdam
+        L’Ile de St-Paul
+        Parc National du Mercantour
+        Daluis
+            - Reserve naturelle regionale des gorges de Daluis
+        Luceram
+            - Peira-Cava
+        Olivetta
+            - Mont Grammondo
+        Site Natura 2000 - Vallee du Carei - Collines des Castillon
+        Saint-Jean-Cap-Ferrat
+            - Cap Ferrat
+        Breil-sur-Roya
+            - Canyon de la Maglia
+        Roquebrune-Cap-Martin
+            - centrum miasta
+        Parc de la Grande Corniche
+        Peille
+            - okolice miasta
+        Peillon
+            - okolice miasta
+        Nice
+            - Mont Boron
+            - Le Chateau
+            - Castle hill park
+            - Jardin Albert 1er
+            - Place Wilson
+            - Jardin Alsace-Lorraine
+            - Place Mozart
+            - Parc Valrose
+            - Parc Paradisio
+            - Promenade des Anglais
+            - Palais Hongran
+            - Spitalieri de Cessole/Le palais d’York
+            - Villa Furtado-Heine
+            - Synagogue de Nice
+            - Basilique Notre-Dame
+            - stare misato - Vila Nova
+        Tuchan
+            - Chateau d’Aguilar
+        Lastours
+            - Chateaux de Lastours
+        Montsegur
+            - Chateau de Montsegur
+        Rouffiac-des-Corbieres
+            - Chateau de Peyrepertuse
+        Puilaurens
+            - Chateau de Puilaurens
+        Cucugnan
+            - Chateau de Queribus
+        Termes
+            - Chateau de Termes
+        Fromelles
+            - Pheasant Wood Military Cemetery
+            - VC Corner Australian CWGC Cemetery
+            - Le Trou Aid Post Military Cemetery
+        Fleurbaix
+            - Rue-David Military Cemetery CWGC
+        Doignies
+            - Louverval Military Cemetery
+            - Cambrai Memorial
+        Flesquieres
+            - Memorial des Nations
+            - Flesquieres Hill British Cemetery
+        Le Quesnoy
+            - Memorial neo-zelandais
+        Assevent
+            - Necropole franco-allemande/Necropole nationale d'Assevent
+        Neuve-Chapelle
+            - Memorial et cimetiere indien
+            - Cimetiere portugais
+            - Chapelle Notre-Dame-de-Fatima
+        Givenchy-en-Gohelle
+            - Memorial canadien de Vimy
+            - Canadian Cemetery no.2
+            - Givenchy Road Canadian Cemetery
+        Neuville-Saint-Vaast
+            - Necropole francaise de la Targette
+            - La Targette British CWGC Cemetery/La Targette Military Cemetery
+            - Cimetiere allemand
+            - Cimetiere tchecoslovaque
+            - Memorial polonais 
+        Thelus
+            - Lichfield Crater Cemetery
+            - Zivy Crater Cemetery
+        Souchez
+            - Cabaret Rouge Military Cemetery
+        Ablain-Saint-Nazaire
+            - Notre Dame de Lorette French National War Cemetery/Necropole nationale de Notre-Dame-de-Lorette
 Italia
         Parco Nazionale d'Abruzzo, Lazio e Molise
             - Valle Cervara	- primeval beech forest
@@ -2375,6 +2721,9 @@ Italia
             - fortified city of Peschiera del Garda
         Palmanova
             - fortified city of Palmanova
+        Parco Naturale delle Alpi Marittime
+        Parco Naturale del Marguareis
+        The Parco delle Alpi Liguri
 Albania
         Lumi i gashit
             - primeval beech forest
