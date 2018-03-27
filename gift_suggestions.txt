@@ -53,6 +53,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - Linear and Nonlinear Programming - David G. Luenberger
       - Problems in Philosophy: The Limits of Inquiry - Colin McGinn
       - Endless Forms Most Beautiful: The New Science of Evo Devo - Sean B. Carroll
+      - An Illustrated Theory of Numbers - Martin H. Weissman
       - Game Engine Black Book: Wolfenstein 3D - Fabien Sanglard
       - Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery - Gottfried Vossen, Gerhard Weikum
       - The Art of SQL - Stephane Faroult, Peter Robson
