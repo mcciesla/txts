@@ -2308,7 +2308,7 @@ Babilonia
     Hammurapi        	                                  1792-1750 ( wg D.Ś. i S.B.W. ) ( Chammurabi wg K.T.V.S.O. i E.P. ) ( Hammurabi wg S.C. ) ( Chammurapi wg M.P.M. )
       			 	                                          ok.1800 ( wg D.P.I.R.G. )
                                                 	      1728-1686 ( Hammurapi wg H.P.S. ) ( Hammurabi wg Hur. )
-      				                                          ? ( Chammurapi wg A.O.M.S.K.R. )
+      				                                          ? ( Chammurapi wg A.O.M.S.K.R. i G.E.B.E.G.B. )
                                                         ok.1750 ( Chammurapi wg Ř.S.J.Ď.S. )
     Samsu-iluna         	                              1749-1712 ( Szamszu-iluna wg S.B.W. ) ( wg D.Ś. i M.P.M. ) ( Samsuiluna wg S.C. )
     Abi-eszu                	                          1711-1684 ( Abi-eszuch wg S.B.W. ) ( wg D.Ś. ) ( Abí-ešuch wg M.P.M. )
@@ -2550,6 +2550,7 @@ Babilonia
       Mezopotámie - počátky měst
       Říše slova - Jazykové dějiny světa
       Huryci
+      Gödel, Escher, Bach - existenciální gordická balada
 
 Badachszan
   Bibliografia :
@@ -7216,7 +7217,7 @@ Egipt
                                                         205-181 ( wg V.N.M.S.D. )
       							   	                                przed 203-? ( wg D.R. )
       							   	                                205-? ( wg S.C. )
-      							        	                          ? ( wg H.P.S. ) ( Ptolemaios V wg T.H.S. )
+      							        	                          ? ( wg H.P.S. ) ( Ptolemaios V wg T.H.S. ) ( Ptolemaios V. Epifanes wg G.E.B.E.G.B. )
       							   	                                przed 194-? ( Ptolemaios V wg S.K. )
                                                         przed 195-? ( Ptolemeusz V wg K.1.1.P.N.E. )
     Ptolemeusz VI Filometor                            	180-164 i 163-145 ( wg D.Ś. i A.Č. ) ( Ptolemaios VI Filométór wg S.K. )
@@ -7471,6 +7472,7 @@ Egipt
       Zapomianie narody Europy
       Kartagina 149-146 p.n.e.
       Krassus - Polityk niespełnionych ambicji
+      Gödel, Escher, Bach - existenciální gordická balada
 
 Egrisi
   Bibliografia :
@@ -18711,6 +18713,7 @@ Prusy
       Fryderyk Wilhelm I      	                        1713-1740 ( wg D.Ś. i V.N.M.S.D. i M.Ś. ) ( Frederick William I wg V.K.T.H.O.H.E. )
       			              	                            ?-1740 ( ?-25.5. ) ( wg 100.N.V.S. )
       Frederick II The Great                            1740-1772 ( wg V.K.T.H.O.H.E. )
+                                                        1740-po 1772 ( Fridrich Veliký (Fridrich) wg G.E.B.E.G.B. )
   Kingdom of Prussia ( Królestwo Prus )
       Fryderyk II Wielki        	                      1772-1786 ( Frederick The Great (Frederick II The Great) wg V.K.T.H.O.H.E. )
                                                         1740-1786 ( 28.5.-17.8. ) ( wg 100.N.V.S. )
@@ -18733,6 +18736,7 @@ Prusy
       Velikáni francouzské vědy
       O Krakowie Ci Ja!
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Gödel, Escher, Bach - existenciální gordická balada
 
 Księstwo przemyskie
   Wołodar                                               1097-1124
@@ -25730,5 +25734,6 @@ Bibliografia :
     [85] Krassus - Polityk niespełnionych ambicji , Maciej Piegdoń , 2011
     [86] The Vital Question - Energy, Evolution, and the Origins of Complex Life , Nick Lane , 2015
     [87] Słowianie połabscy - Dzieje zagłady , Robert F. Barkowski , 2015
+    [88] Gödel, Escher, Bach - existenciální gordická balada , Douglas R. Hofstadter , 2012
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
