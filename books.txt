@@ -207,6 +207,7 @@ POP.SCIENCE :
         Przewodnik po filozofii w sześć godzin i kwadrans ; Witold Gombrowicz
         Summa Technologiae ; Stanisław Lem
         The God Delusion ; Richard Dawkins
+        Gödel, Escher, Bach - existenciální gordická balada ; Douglas R. Hofstadter
     FIZYKA:
         ASTRONOMIA:
             Galaktyki ; Robert Estalella
@@ -1408,6 +1409,7 @@ Sienkiewicz , Henryk - Krzyżacy - O
                      - Quo Vadis - O
                      - W pustyni i w puszczy - O
                      - Za chlebem - O
+Singer , Isaac Bashevis - Sztukmistrz z Lublina - POL
 Sláma , František - Śpiący rycerze - POL
 Słowacki , Juliusz - S vámi jsem život žil ... - CZ
                    - Z pamiętnika Zofii Bobrówny - O

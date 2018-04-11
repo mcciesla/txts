@@ -22,6 +22,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - Hermann Buhl Climbing Without Compromise - Reinhold Messner, Horst Hofler
       - Dejiny Sasu - Widukind z Corvey
       - Type-driven Development with Idris - Edwin Brady
+      - Proofs from THE BOOK - Martin Aigner, Günter M. Ziegler
       - Feynman Lectures On Computation - Richard P. Feynman
       - Who’s #1? The Science of Rating and Ranking - Amy Langville , Carl Meyer
       - Haskell Programming from first principles - Christopher Allen, Julie Moronuki
@@ -33,7 +34,9 @@ books - The History of Western Philosophy - Bertrand Russell
       - Artificial Intelligence for Humans, Volume 3: Deep Learning and Neural Networks - Jeff Heaton
       - Dejiny Libye - Eduard Gombar
       - Let Over Lambda - Doug Hoyte
+      - Surfing Uncertainty: Prediction, Action, and the Embodied Mind - Andy Clark
       - The Nurture Assumption - Judith Rich Harris
+      - A Profile of Mathematical Logic - Howard DeLong
       - No Two Alike - Judith Rich Harris
       - The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution - Sean B. Carroll
       - Sapiens: A Brief History of Humankind - Yuval Noah Harari
@@ -52,8 +55,10 @@ books - The History of Western Philosophy - Bertrand Russell
       - Information Theory and Coding - Norman Abramson
       - Linear and Nonlinear Programming - David G. Luenberger
       - Problems in Philosophy: The Limits of Inquiry - Colin McGinn
+      - Adventures of a Mathematician - Stanisław Marcin Ulam
       - Endless Forms Most Beautiful: The New Science of Evo Devo - Sean B. Carroll
       - An Illustrated Theory of Numbers - Martin H. Weissman
+      - The Insect Societies - Edward O. Wilson
       - Game Engine Black Book: Wolfenstein 3D - Fabien Sanglard
       - Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery - Gottfried Vossen, Gerhard Weikum
       - The Art of SQL - Stephane Faroult, Peter Robson
