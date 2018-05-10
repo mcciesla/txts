@@ -319,11 +319,7 @@ Slowacja
         Banska Stiavnica
         Spisske Podhradie
             - Spisska kapitula
-            - Spissky hrad
-        Zehra
-            - Kostol sv.Ducha
         Levoca
-            - stare miasto
             - Bazilika svateho Jakuba - Oltar majstra Pavla
         Hervartov
             - Kostel sv. Frantiska z Assisi
@@ -1700,6 +1696,7 @@ Francja
         Arras
             - Beffroi de l’Hotel de Ville d’Arras
             - La citadella d’Arras
+            - Faubourg d’Amiens British Cemetery
         Bethune
             - Beffroi de Bethune
         Boulogne-sur-Mer
@@ -2086,7 +2083,9 @@ Francja
             - Atolls d’Entrecasteaux
         Fayaoue
             - Atoll d’Ouvea et Beautemps-Beaupre
-        La Reunion National Park
+        Reunion
+            - La Reunion National Park
+            - Maloya music
         Gavarnie
             - Cirque de Gavarnie
         Fresnes-sur-Escaut
@@ -2695,6 +2694,259 @@ Francja
             - Cabaret Rouge Military Cemetery
         Ablain-Saint-Nazaire
             - Notre Dame de Lorette French National War Cemetery/Necropole nationale de Notre-Dame-de-Lorette
+        Haucourt
+            - Vis-en-Artois British Cemetery
+        Etaples
+            - Etaples Military Cemetery
+        Beaumont-Hamel
+            - Memorial a la 51e Division des Highlands/The 51st Division Memorial
+            - Memorial terre-neuvien, memorial a la 29e Division et parc commemoratif
+            - Y Ravine Cemetery
+            - Hunter's Cemetery
+            - Hawthorn Ridge Cemetery No.2
+        Thiepval
+            - Connaught Cemetery
+            - Tour d’Ulster/Ulster Tower Memorial
+            - Mill Road Cemetery
+            - Memorial franco-britannique/Thiepval Memorial to the Missing of the Somme 1915 - 1918
+        Authuille
+            - Carres militaires francais et britannique
+        Pozieres
+            - Pozieres British cemetery
+            - Pozieres Memorial
+        La Boisselle
+            - Lochnagar Crater
+        Longueval
+            - Memorial national sud-africain/Delville Wood South African Memorial
+            - Delville Wood Cemetery
+            - Longueval Road Cemetery
+            - Caterpillar Valley Cemetery
+            - Caterpillar Valley Memorial
+            - Thistle Dump Cemetery
+            - London Cemetery and extension
+            - Obelisque divisionnaire neo-zelandais/New Zealand Memorial
+        Rancourt
+            - Necropole francaise de Rancourt
+            - Chapelle du Souvenir francais/Chapelle du Necropole nationale de France a Rancourt
+            - Cimetiere britannique
+            - Cimetiere allemand
+        Villers-Bretonneux
+            - Memorial national australien/Villers-Bretonneux Australian Memorial
+            - Villers Bretonneux Military Cemetery
+        Noyelles-sur-Mer
+            - Cimetiere et memorial chinois de Nolette/Noyelles-sur-Mer Chinese Memorial
+        Proyart
+            - Monument aux morts/Arc de triomphe de Proyart 14-18
+        Louvencourt
+            - Louvencourt Military Cemetery
+        Cuts
+            - Necropole nationale de Cuts
+            - Monument en l’honneur des combattants Somalis morts pour la France
+        Nampcel
+            - Cimetiere allemand no.1 et no.2
+        Tracy-le-Mont
+            - Necropole nationale de Tracy-le-Mont
+        Vignemont
+            - Necropole franco-allemande
+        Thiescourt
+            - Necropole franco-allemande
+        Belleau
+            - Cimetiere americain Aisne-Marne/Aisne-Marne American Cemetery and Memorial
+            - Chapelle-memorial americaine/Eglise Saint-Etienne
+            - Memorial des Marines
+            - Cimetiere allemand
+        Saint-Quentin
+            - Cimetiere allemand et monument franco-allemand
+        Veslud
+            - Cimetiere allemand
+        Le Sourd
+            - Cimetiere franco-allemand de Le Sourd
+        Effry
+            - Cimetiere de prisonniers
+        Braine
+            - Cimetiere danois/Kirkegard for faldne sonderjyder i 1. verdenskrig
+        Nouvron-Vingre
+            - Monument des fusilles
+            - Tombe de la famille Amaury
+            - Ancien cimetiere provisoire francais
+        Cerny-en-Laonnois
+            - Necropole francaise
+            - Chapelle francaise/Chapelle du Souvenir
+            - Cimetiere allemand
+        Vendresse-Beaulne
+            - Vendresse British Cemetery/British cemetery Vendresse-Beaulne
+        Craonnelle
+            - Necropole francaise de Craonnelle
+                                - Tombes britanniques et ossuaire (dans le cimetiere de Craonnelle)
+        Craonne
+            - Monument Ils n’ont pas choisi leur sepulture
+        Soupir
+            - Necropoles francaises de Soupir 1 et 2
+            - Cimetiere allemand
+            - Carre britannique de septembre 1914 derriere l’eglise
+        Chavonne
+            - Cimetiere italien
+        Oulchy-le-Chateau
+            - Memorial de la Seconde bataille de la Marne - Les fantomes de Landowski
+        Villeroy
+            - La Grande Tombe de Villeroy - ossuaire de la bataille de la Marne/Necropole Nationale de Chauconin-Neufmontiers
+            - Stele de Charles Peguy/Memorial Charles Peguy
+        La Ferte-sous-Jouarre
+            - Memorial britannique/La Ferte-sous-Jouarre Memorial
+        Signy-Signets
+            - Perreuse Chateau Franco-British national Cemetery
+        Dormans
+            - Memorial des batailles de la Marne/Memorial National des Batailles de la Marne
+        Chambrecy
+            - Cimetiere italien de Bligny/Italian Military Cemetery
+        Mourmelon-le-Grand
+            - Chapelle russe
+            - Cimetiere russe
+        Auberive
+            - Cimetiere militaire international du Bois du Puits
+                                - Necropole nationale du Bois du Puits
+                                - Cimetiere allemand
+                                - Cimetiere polonais
+        Souain-Perthes-les-Hurlus
+            - Necropole nationale de la Crouee et cimetiere allemand
+            - Necropole nationale de l’Opera
+            - Necropole nationale de la 28e Brigade/Necropole Nationale La Ferme des Wacques - 28e Brigade
+            - Monument-ossuaire de  la Legion etrangere
+            - Ossuaire de Navarin : monument aux morts des Armees de Champagne/Monument aux morts des Armees de Champagne et ossuaire de Navarin
+        Mondement-Montgivroux
+            - Memorial de la Premiere bataille de la Marne/Monument commemoratif de la Premiere Victoire de la Marne
+        Vouziers
+            - Cimetiere allemand de Vouziers
+            - Carre militaire francais du cimetiere de Vouziers
+            - Necropole nationale de Chestre
+            - Cimetiere allemand de Chestre
+            - Memorial Tcheque/Pravda Vitezi
+        Falaise
+            - Chapelle allemande
+        Haybes
+            - Monument des fusilles
+            - Tombes des fusilles
+        Juniville
+            - Monument allemand pour les Francais/Monument aux morts
+        Vrigne-Meuse
+            - Carre des morts du 11 novembre 1918
+            - Monuments pour la 163e DI
+        Sedan
+            - Monument allemand du cimetiere Saint-Charles
+        Vienne-le-Chateau
+            - Necropole francaise de la Gruerie
+            - Monument ossuaire de la Gruerie/Ossuaire de la Gruerie
+            - Necropole nationale de la Harazee
+        Apremont
+            - Cimetiere allemand
+        Boureuilles
+            - Monument ossuaire de la Haute-Chevauchee
+        Romagne-sous-Montfaucon
+            - Cimetiere americain Meuse-Argonne
+            - Cimetiere allemand
+        Vauquois
+            - Necropole francaise
+            - Memorial de la butte de Vauquois/Monument aux combattants et aux morts de Vauquois
+        Fleury-devant-Douaumont
+            - Ossuaire de Douaumont/Douaumont Ossuary
+            - Necropole nationale de Douaumont
+            - Monument israelite de Douaumont/Memorial to Jewish soldiers who died for France
+            - Monument musulman de Douaumont/Memorial to Muslim soldiers who died for France
+            - Fort de Douaumont
+        Ornes
+            - Village detruit d’Ornes
+        Consenvoye
+            - Cimetiere allemand
+        Les Eparges
+            - Necropole francaise du Trottoir/Cimetiere Militaire du Trottoir
+        Apremont-la-Foret
+            - Cimetiere allemand de Gobessart
+            - Necropole nationale de Marbotte
+            - Eglise Saint-Gerard de Marbotte
+        Montsec
+            - Memorial americain/Montsec American Monument
+        Thiaucourt-Regnieville
+            - World War I St. Mihiel American Cemetery and Memorial
+        Vitrimont
+            - Necropole francaise du Mouton noir
+            - Monument a la 11e DI – Colline du Leomont/Leomont battle monument
+        Gerbeviller
+            - Necropole francaise
+            - Necropole allemande
+            - Monument–tombes des victimes civiles
+        Rembercourt-sur-Mad
+            - Cimetiere cenotaphe allemand
+        Fremery
+            - Ossuaire francais
+        Brehain
+            - Ossuaire francais
+        Oron
+            - Ossuaire francais
+        Chicourt
+            - Necropole nationale de Chicourt
+            - Monument franco-allemand de 1915
+        Conthil
+            - Ossuaire francais
+        Pevange
+            - Necropole nationale de Riche
+        Morhange
+            - Cimetiere allemand  de l’Hellenwald
+        Cutting
+            - Necropole nationale de Cutting
+        Gosselming
+            - Cimetiere franco-allemand
+        Dolving
+            - Monument franco-allemand
+        Bouxieres-sous-Froidmont
+            - Monument Pouget, tue le 4 aout 1914/Fortune Pouget Memorial
+        Lagarde
+            - Necropole nationale de Lagarde
+            - Cimetiere allemand
+        Sarrebourg
+            - Cimetiere des prisonniers
+        Ban-de-Sapt
+            - Necropole nationale de la Fontenelle
+        Bertrimoutier
+            - Necropole franco-allemande/Cimetiere militaire franco-allemand de Bertrimoutier
+        Lesseux
+            - Ancien cimetiere de la Cote 607
+        Saint-Benoit-la-Chipotte
+            - Necropole nationale de la Chipotte
+        Soultzeren
+            - Necropole nationale du Wettstein
+        Hohrod
+            - Cimetiere allemand du Baerenstall/Cimetiere militaire allemand de Hohrod
+            - Memorial du Linge
+        Le Bonhomme
+            - Necropole nationale Duchesne
+            - Cimetiere allemand Kahm
+            - Cimetiere allemand Rabenbuhl
+        Goldbach-Altenbach
+            - Necropole nationale francaise du Silberloch
+            - Monument National du Hartmannswillerkopf et sa crypte
+        Hartmannswiller
+            - Cimetiere des Uhlans
+        Soultzmatt
+            - Cimetiere roumain
+        Muhlbach-sur-Munster
+            - Cimetiere Germania
+        Sainte-Marie-aux-Mines
+            - Necropole francaise du Col de Sainte-Marie
+            - Cimetiere allemand de Mongoutte
+        Grandfontaine
+            - Ensemble de tombes isolees allemandes et francaises (environ 50)
+        Joncherey
+            - Memorial du caporal Peugeot
+        Morvillars
+            - Necropole francaise/Cimetiere militaire francais de la Premiere Guerre mondiale
+        Aubusson
+            - Aubusson tapestries
+        Alencon
+            - Alencon needle lace-making
+        Fest Noz
+        Limousin septennial ostensions
+        Guadelupe
+            - Gwo ka music
 Italia
         Parco Nazionale d'Abruzzo, Lazio e Molise
             - Valle Cervara	- primeval beech forest
@@ -2722,6 +2974,83 @@ Italia
         Parco Naturale delle Alpi Marittime
         Parco Naturale del Marguareis
         The Parco delle Alpi Liguri
+        Caserta
+            - Palace of Caserta
+            - Belvedere di San Leucio
+        Maddaloni
+            - Aqueduct of Vanvitelli
+        Palermo
+            - Royal Palace and Palatine Chapel
+            - Church of San Giovanni degli Eremiti
+            - Church of Santa Maria dell’Ammiraglio
+            - Church of San Cataldo
+            - Palermo Cathedral/Cathedral of the Assumption of Virgin Mary
+            - Castello della Zisa/Zisa Palace
+            - Admiral’s Bridge
+        Cefalu
+            - Cefalu Cathedral
+        Monreale
+            - Monreale Cathedral
+        Aquileia
+            - Patriarchal Basilica
+            - archeological area
+        Agrigento
+            - Archaeological Area of Agrigento/Valle dei Templi
+        Pompei
+            - Villa dei Misteri
+        Ercolano
+            - Villa dei Papiri
+            - Theatre of Herculaneum
+        Assisi
+            - centrum historyczne
+            - Basilica of San Francesco
+            - Eremo delle Carceri
+            - Chiesa di San Damiano
+        Santa Maria degli Angeli
+            - Basilique de Santa Maria degli Angeli et le Palais des Capitaines du Pardon
+        Rivotorto
+            - Santuario di Rivotorto
+        Padova
+            - Orto botanico di Padova
+        Corato
+            - Castel del Monte
+        Modena
+            - katedra
+            - Torre della Ghirlandina/Torre Civica
+            - Piazza Grande
+        Milano
+            - Church and Dominican Convent of Santa Maria delle Grazie
+        Ascea
+            - Velia archeological site
+        Capaccio Scalo
+            - Paestum archeological site
+        Padula
+            - Certosa di Padula
+        Vallo di Diano
+        Cilento and Vallo di Diano National Park
+            - Monte Cervati area
+            - Monte Stella area
+            - Punta Licosa
+            - Monte Bulgheria area
+            - Capo Palinuro
+            - Punta d. Infreschi
+        Verona
+            - historic centre
+            - Porta Borsari
+            - Porta Leoni
+            - Arco dei Gavi
+            - Ponte Pietra
+            - Roman theatre
+            - Amphitheatre Arena
+            - Piazza delle Erbe
+            - Piazza dei Signori
+            - Palazzo del Comune/Palazzo della Ragione
+            - Palazzo del Governo/Palazzo del Podesta
+            - Loggia del Consiglio
+            - Arche Scaligere/Scaliger Tombs
+            - Domus Nova
+            - Piazza Bra
+        Amalfi Coast
 Albania
         Lumi i gashit
             - primeval beech forest
@@ -2823,3 +3152,4 @@ Multi-Country
         Roman road from Bavay to Tongeren
         The Walk of Peace from Alps to Adriatic
         Mont Perdu/Monte Perdido and surroundings
+        Summer solstice fire festivals in Pyrennees

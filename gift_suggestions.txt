@@ -104,7 +104,6 @@ books - The History of Western Philosophy - Bertrand Russell
       - Linguistics: An Introduction to Language and Communication - Adrian Akmajian, Ann K. Farmer, Lee Bickmore, Richard A. Demers, Robert M. Harnish
       - C: A Reference Manual - Samuel P. Harbison, Guy L. Steele Jr.
       - Keys to Great Writing - Stephen Wilbers
-      - UNIX and Linux System Administration Handbook -  Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
     Stanislaw Lem
                 - Oblok Magellana
                 - Pamietnik znaleziony w wannie
