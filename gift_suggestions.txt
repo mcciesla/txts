@@ -1,4 +1,5 @@
-books - Unpopular Essays - Bertrand Russell
+books - The History of Western Philosophy - Bertrand Russell
+      - Unpopular Essays - Bertrand Russell
       - Real-World Functional Programming: With Examples in F# and C# - Tomas Petricek, Jon Skeet
       - Other Minds : The Octopuss and The Evolution of Intelligent Life - Peter Godfrey Smith
       - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
