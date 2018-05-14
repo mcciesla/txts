@@ -249,6 +249,7 @@ POP.SCIENCE :
         Dějepis pro I. ročník gymnázií ; Tomáš Jílek a kol.
         Dějiny Byzance ; Bohumila Zástěrová a kol.
         Dějiny Japonska ; Zdeňka Vasiljevová
+        Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr. ; Marc van de Mieroop
         Dobytí říše Inků ; John Hemming
         Duel v Pacifiku ; Hrowe H. Saunders
         Dynastie Świata ; John E. Morby
@@ -260,6 +261,7 @@ POP.SCIENCE :
         Foiničané ; Sabatino Moscati
         Fridrich Barbarossa , císař a rytíř ; Ferdinand Opll
         Guderian - Tankový generál ; Kenneth Macksey
+        Heroes of Endurance ; Wanda Rutkowska
         Historia Powszechna - Starożytność ; Józef Wolski
         Hunové ; Edward Arthur Thompson
         Huryci ; Maciej Popko
