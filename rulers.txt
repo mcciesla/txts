@@ -1844,6 +1844,7 @@ Asyria ( Asýrie , Assyria , Assiro )
       				     	                                    1116-1078 ( Tiglatpilesar I wg H.P.S. )
       					                                        1116-1076 ( Tiglatpilesar I wg Z.Ř. )
                                                         przed 1115-? ( Tiglatpilesar I wg Ř.S.J.Ď.S. )
+                                                        ok.1115-ok.1093 ( Tiglatpilesar I. wg Gilg. )
   Aszared-apil-Ekur                     	              1075-1074 ( wg D.Ś. ) ( Ašaréd-apil-Ekur wg D.S.B.V. )
       				     	                                    1076-1075 ( Eszared-apil-Ekur wg S.B.W. )
       				     	                                    ok.1075 ( Ašared-apil-Ekur wg A.O.M.S.K.R. )
@@ -1918,7 +1919,7 @@ Asyria ( Asýrie , Assyria , Assiro )
                                                         ok.730-ok.720 ( IV wg V.N.M.S.D. )
       				      	                                  727-722 ( Salmanassar V wg H.P.S. )
       				      	                                  725-722 ( Salmanassar V A.O.M.S.K.R. )
-  Sargon II                                     	      721-705 ( wg D.Ś.,V.N.M.S.D., K.T.V.S.O. , F. i S.C. i M.P.M. i Ř.S.J.Ď.S. ) ( Szarru-kin II wg S.B.W. ) ( Sargon II. wg D.S.B.V. )
+  Sargon II                                     	      721-705 ( wg D.Ś.,V.N.M.S.D., K.T.V.S.O. , F. i S.C. i M.P.M. i Ř.S.J.Ď.S. ) ( Szarru-kin II wg S.B.W. ) ( Sargon II. wg D.S.B.V. ) ( Sargon II. (Sargon) wg Gilg. )
       				      	                                  722-705 ( wg H.P.S. i A.O.M.S.K.R. i Z.Ř. )
       				      	                                  przed 713-? ( wg T. )
       					                                        przed 722-po 721 ( wg Ž.V.Ř.S. )
@@ -1940,6 +1941,7 @@ Asyria ( Asýrie , Assyria , Assiro )
       				      	                                  668-ok.627 ( Asurbanipal wg S.C. )
       				      	                                  669-ok.630 ( Assurbanipal wg H.P.S. )
                                                         ? ( Asurbanipal wg Hur. )
+                                                        668-631 ( Aššurbanipal wg Gilg. )
   Aszur-etil-ilani                            	        626-? ( wg D.Ś. )
                                                         620-ok.610 ( wg V.N.M.S.D. )
       				       	                                  630-623 ( Aszur-etel-ilani wg S.B.W. )
@@ -1976,6 +1978,7 @@ Asyria ( Asýrie , Assyria , Assiro )
       Říše slova - Jazykové dějiny světa
       Huryci
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Gilgameš
 
 Aszanti
   Bibliografia :
@@ -2525,7 +2528,7 @@ Babilonia ( Babylonie )
     Marduk-apla-iddina ( Merodach-Baladan II )          721-710 i 703 ( wg D.Ś. ) ( Marduk-apla-iddin II wg S.B.W. ) ( Marduk-apla-iddina II. wg D.S.B.V. )
                                                         721-711 ( wg K.T.V.S.O. )
       			              	                            721-710 ( Mardukpaliddina wg S.C. )
-    Sargon II                           	              709-705 ( wg D.Ś. ) ( Szarru-kin II wg S.B.W. ) ( Sargon II. wg D.S.B.V. ) [King of Assyria]
+    Sargon II                           	              709-705 ( wg D.Ś. ) ( Szarru-kin II wg S.B.W. ) ( Sargon II. wg D.S.B.V. i Gilg. ) [King of Assyria]
     Sennacherib                      	                  704-703 i 688-681 ( wg D.Ś. ) ( Sin-ahe-eriba wg S.B.W. ) ( Sinacherib wg D.S.B.V. ) [King of Assyria]
     Marduk-zakir-szumi II      	                        703 ( wg D.Ś. i S.B.W. ) ( Marduk-zákir-šumi II. wg D.S.B.V. )
       	                                                703-? ( Marduk-zákir-šumi wg A.O.M.S.K.R. )
@@ -2559,7 +2562,7 @@ Babilonia ( Babylonie )
       				           	                              przed 615-po 614 ( wg A.O.M.S.K.R. )
       					                                        przed 614-? ( wg M.P.M. )
                                                         ? ( Nabopolasar wg Ř.S.J.Ď.S. )
-    Nebuchadrezzar II         	                        604-562 ( wg D.Ś. i V.N.M.S.D. ) ( Nabu-kudurri-usur II wg S.B.W. ) ( Nabuchodonozor II wg S.C. ) ( Nabuchodonozor wg H.P.S. ) ( Nabukadnezar II. ( Nebuchadnezzar ) wg D.S.B.V. )
+    Nebuchadrezzar II         	                        604-562 ( wg D.Ś. i V.N.M.S.D. ) ( Nabu-kudurri-usur II wg S.B.W. ) ( Nabuchodonozor II wg S.C. ) ( Nabuchodonozor wg H.P.S. ) ( Nabukadnezar II. ( Nebuchadnezzar ) wg D.S.B.V. ) ( Nabukadnesar II. (Nabukodonozor) wg Gilg. )
                                                         605-562 (7.9.-? ) ( wg K.T.V.S.O. )
             				           	                        ok.600 ( Nabuchodonozor wg F. )
       				   	                                      ? ( Nabukadnezar II wg A.O.M.S.K.R. ) ( Nabukadnesar II  wg E.P. )
@@ -2605,6 +2608,7 @@ Babilonia ( Babylonie )
       Huryci
       Gödel, Escher, Bach - existenciální gordická balada
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Gilgameš
 
 Badachszan
   Bibliografia :
@@ -7087,6 +7091,7 @@ Egipt
       					                                        przed ok.1300-? ( Ramesse II wg E.P. )
                                                         przed 1275-? ( wg Hur. )
                                                         przed 1274-po 1259 ( Ramesse II. wg D.S.B.V. )
+                                                        ok.1290-ok.1234 ( Ramesse II. Veľký wg Gilg. )
       Bienre Merenptah            	                    1212-1202 ( wg D.Ś. )
       					                                        1238-1209 ( Merneptach wg S.B.W. )
                                                         1224-1214 ( wg K.T.V.S.O. )
@@ -7561,6 +7566,7 @@ Egipt
       Krassus - Polityk niespełnionych ambicji
       Gödel, Escher, Bach - existenciální gordická balada
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Gilgameš
 
 Egrisi
   Bibliografia :
@@ -9672,7 +9678,7 @@ Hesja
   Bibliografia :
       Dynastie Świata
 
-Królestwo Hetytów ( Chetité , Hittites , Kingdom of the Hittites )
+Królestwo Hetytów ( Chetité , Hittites , Kingdom of the Hittites , Chetiti )
   Stare Państwo ( Starochetitské království )
     Labarna                     	                      1650 p.n.e.-? ( wg D.Ś. )
       			      	                                    ok.1690-ok.1650 ( wg S.B.W. )
@@ -12281,7 +12287,7 @@ Kisz ( Kiš )
   Me.barage.si Aga ( Agga )	                            po 2630-przed 2500 ( wg S.B.W. )
       					                                        ? ( Akka wg M.P.M. ) ( Mebaragesi wg D.S.B.V. )
   En.me.baragesi                     	                  ok.2620-ok.2600 ( wg S.B.W. )
-      					                                        ok.2600 ( Mebaragesi wg M.P.M. )
+      					                                        ok.2600 ( Mebaragesi wg M.P.M. ) ( Enmenbaragesi wg Gilg. )
   Mesalim                      		                      ok.2600-ok.2575 ( wg S.B.W. )
       					                                        ok.2500 ( Mesilim wg S.C. )
                                                         ok.2600 ( wg D.S.B.V. )
@@ -12299,6 +12305,7 @@ Kisz ( Kiš )
       Starożytne Cywilizacje
       Mezopotámie - počátky měst
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Gilgameš
 
 Kitanowie
   Bibliografia :
@@ -15274,7 +15281,7 @@ Mediolan
   Bibliografia :
       Dynastie Świata
 
-Medowie ( Médové )
+Medowie ( Médové , Médi )
   Umakištar                                             przed 614 p.n.e.-? ( wg D.S.B.V. )
   Królestwo Medów
     Dejokes ( Daiukku )	                                700-647 ( wg D.Ś. )
@@ -18045,7 +18052,7 @@ Królestwo Persis
   Bibliografia :
       Sedm Kleopater
 
-Persja ( Iran , Persie , Peršané , Persia )
+Persja ( Iran , Persie , Peršané , Persia , Peržania )
   Achemenes                               	            ? ( wg S.B.W. i S.C. )
   Teispes                                     	        ok.675-ok.640 ( wg S.B.W. )
       				     	                                    ? ( Teušpa wg A.O.M.S.K.R. )
@@ -18082,7 +18089,7 @@ Persja ( Iran , Persie , Peršané , Persia )
       				     	                                    ok.518 ( wg A. )
       				     	                                    przed 492-? ( Dareios I wg D.P.I.R.G. )
       				     	                                    522-485 ( Darajawausz wg H.P.S. )
-      				     	                                    ? ( Dareios wg T.H.S. ) ( Dáreios I wg S.H. ) ( Dariusz Wielki wg P.J.D. )
+      				     	                                    ? ( Dareios wg T.H.S. ) ( Dáreios I wg S.H. ) ( Dariusz Wielki wg P.J.D. ) ( Dareios (Dareios I., Darajaváuš) wg Gilg. )
                                                         522-? ( Dárejavóš ( Dáreios ) wg Ř.S.J.Ď.S. )
       					                                        522/1-486 ( Dareios I wg Z.Ř. )
     Kserkses I                       	                  485-465 ( wg A.Č. i D.Ś. i F. i S.C. ) ( Kserkses wg H.P.S. ) ( Xerxés wg Ř.S.J.Ď.S. ) ( Xerxes (Xerxés I.) wg D.S.B.V. )
@@ -18090,7 +18097,7 @@ Persja ( Iran , Persie , Peršané , Persia )
       				           	                              486-po 480 ( Kserkses wg D.G. )
       				   	                                      przed 480-? ( Xerxes I wg D.P.I.R.G. ) ( Kserkses wg B.M. ) ( Xerxés wg S.H. )
       				   	                                      przed 485-po 480 ( Xerxes wg T. )
-      				   	                                      ? ( Xerxes wg T.H.S. ) ( Xerxes I wg Z.Ř. )
+      				   	                                      ? ( Xerxes wg T.H.S. ) ( Xerxes I wg Z.Ř. ) ( Xerxes (Chšajaraša) wg Gilg. )
       					                                        przed 486-? ( Xerxés wg M.P.M. )
       					                                        486-465 ( Xerxes I wg K.Ř. )
     Artakserkses I Długoręki	                          464-424 (wg V.N.M.S.D. , D.Ś. i A.Č. i S.B.W. )
@@ -18317,6 +18324,7 @@ Persja ( Iran , Persie , Peršané , Persia )
       Říše slova - Jazykové dějiny světa
       Zapomianie narody Europy
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Gilgameš
 
 Peru
   Bibliografia :
@@ -22700,8 +22708,9 @@ Szugnan
       Dzieje dawnych Turków
 
 Szuruppak ( Šuruppak )
+  Ubaratutu                                             ?
   Bibliografia :
-      Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Gilgameš
 
 Szwabia
   Księstwo Szwabskie ( Księstwo Swebskie )
@@ -24548,40 +24557,40 @@ Urugwaj
       Fidel & Che - A Revolutionary Friendship
 
 Uruk
-  Lugal.banda		                                        ?	( wg S.B.W. i M.P.C.Ś. ) ( Lugalbanda wg D.S.B.V. )
-  Mes.kiag.gaszer		                                    ?
+  Mes.kiag.gaszer		                                    ? ( wg S.B.W. ) ( Meškiagašer wg Gilg. )
   Enmerkar                  	                          ok.2650-2630 ( wg S.B.W. )
-                                                        ? ( wg D.S.B.V. )
+                                                        ? ( wg D.S.B.V. i Gilg. )
+  Lugal.banda		                                        ?	( wg S.B.W. i M.P.C.Ś. ) ( Lugalbanda wg D.S.B.V. i Gilg. )
+  Dumuzi                         	                      ? ( wg S.C. i Gilg. )
   Gilgamesz                 	                          2590-2570 ( wg S.B.W. )
       				                                          ? ( wg S.C. i M.P.C.Ś. ) ( Gilgameš wg M.P.M. i D.S.B.V. )
-  Dumuzi                         	                      ? ( wg S.C. )
-  En.szakusz.Ana           	                            ok.2430
-  Lugal.kini.szedu-du	                                  ok.2430-ok.2420 ( wg S.B.W. )
+                                                        ok.2600 ( Bilgames (Gilgameš, Giš, Gišgimaš, Gilgamos) wg Gilg. )
+  En.szakusz.Ana           	                            ok.2430 ( wg S.B.W. )
+  Lugal.kini.szedu-du	                                  ok.2430-ok.2420 ( wg V.N.M.S.D. )
                                                         ? ( Lugalkiginnedudu wg M.P.M. )
-  Lugal.kis.alsi               	                        ok.2420-ok.2400
+  Lugal.kis.alsi               	                        ok.2420-ok.2400 ( wg V.N.M.S.D. )
   Lugal-zaggesi        	                                2340-2316 ( wg D.Ś. )
       				                                          ? ( Lugalzagesi wg M.P.M. )
   Amar-girid                                            ok.2240 ( wg D.S.B.V. )
-  Ur.nigir                   	                          ok.2240-ok.2230
-  Un.gigir                  	                          ok.2230-ok.2220
-  Kudda    			                                        ok.2220-ok.2210
-  Utu.hengal                   	                        ok.2115-ok.2100 ( wg S.B.W. )
+  Ur.nigir                   	                          ok.2240-ok.2230 ( wg V.N.M.S.D. )
+  Un.gigir                  	                          ok.2230-ok.2220 ( wg V.N.M.S.D. )
+  Kudda    			                                        ok.2220-ok.2210 ( wg V.N.M.S.D. )
+  Utu.hengal                   	                        ok.2115-ok.2100 ( wg V.N.M.S.D. )
       			     	                                      2119-2113 ( wg S.C. )
       				                                          ? ( Utuchegal wg M.P.M. i D.S.B.V. )
                                                         ok.2050 ( Utuhengal wg Hur. )
   Belat-Sunat                  	                        ok.2100-ok.2060 ( wg V.N.M.S.D. )
   Sinmuballit                   	                      ok.2060-ok.1995 ( wg V.N.M.S.D. )
-  Sin-kaszid                    	                      1865-1845
-  Sin-eribam                   	                        1832-1826
-  Sin-gamil                     	                      1825-1824
-  Ilum-gamil                   	                        1823
-  Eteja			                                            ?
-  Anam                           	                      1821-1817
-  Irdanene                      	                      1816-1810
-  Rimanum                     	                        1809-1806
-  Nabi-iliszu                   	                      1805-1802
-  Uwagi :
-      Wszystko oprócz oznaczonego wg S.B.W.
+  Sin-kaszid                    	                      1865-1845 ( wg S.B.W. )
+  Sin-eribam                   	                        1832-1826 ( wg S.B.W. )
+  Sin-gamil                     	                      1825-1824 ( wg S.B.W. )
+  Ilum-gamil                   	                        1823 ( wg S.B.W. )
+  Eteja			                                            ? ( wg S.B.W. )
+  Anam                           	                      1821-1817 ( wg S.B.W. )
+                                                        ok.1900 ( wg Gilg. )
+  Irdanene                      	                      1816-1810 ( wg S.B.W. )
+  Rimanum                     	                        1809-1806 ( wg S.B.W. )
+  Nabi-iliszu                   	                      1805-1802 ( wg S.B.W. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -24591,6 +24600,7 @@ Uruk
       Mezopotámie - počátky měst
       Huryci
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Gilgameš
 
 Urum
   Bibliografia :
@@ -26064,5 +26074,6 @@ Bibliografia :
     [89] Sztukmistrz z Lublina , Isaac Bashevis Singer , 2010
     [90] Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr. , Marc von de Mieroop , 2010
     [91] Heroes of Endurance , Wanda Rutkowska , 1976
+    [92] Gilgameš , Vojtech Zamarovský , 2002
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
