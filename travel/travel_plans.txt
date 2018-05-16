@@ -3051,6 +3051,110 @@ Italia
             - Domus Nova
             - Piazza Bra
         Amalfi Coast
+        Trezzo Sull'adda
+            - Crespi d'Adda
+        Ravenna
+            - Mausoleum of Galla Placida
+            - Basilica of San Vitale
+            - Neonian Baptistry
+            - Archiepiscopal Chapel
+            - Basilica of St. Apollinaire Nuovo
+            - Arian Baptistry
+            - Mauseoleum of Theodoric
+        Classe
+            - Basilica of St. Apollinare in Classe
+        Tarquinia
+            - Necropolis of Monterozzi
+        Cerveteri
+            - etruska nekropolis
+        Diamantina
+            - okolice miasta i rzeka Pad
+        Rolnicze okolice delty Padu od Ferrary do ujscia
+        Ferrara
+            - centrum historyczne
+            - Este Castle
+            - Cathedral of San Giorgio
+        Genova
+            - Royal Palace of Genoa/Palazzo Reale
+            - Palazzo Francesco Balbi Piovera/Palazzo Balbi Piovera Raggio
+            - Palazzo Giacomo e Pantaleo Balbi/Palazzo Balbi Senarega
+            - Palazzo Gio Francesco Balbi/Palazzo Balbi Cattaneo
+            - Palazzo Durazzo Pallavicini/Palazzo G. Agostino Balbi
+            - Palazzo Belimbau/Palazzo Cattaneo Belimbau
+            - Palazzo Giacomo Lomellini/Palazzo Lomellini Patrone
+            - Palazzo Bartolomeo Lomellini/Palazzo Rostan Reggio
+            - Palazzo Lomellini Doria Lamba
+            - Palazzo Cosma Centurione
+            - Palazzo Giorgio Centurione/Palazzo Centurione Durazzo Pallavicini
+            - Palazzo Cipriano Pallavicini/Palazzo Pallavicini
+            - Palazzo Spinola di Pellicceria
+            - Palazzo Gio Battista Centurione
+            - Palazzo Gerolamo Grimaldi/Palazzo della Meridiana
+            - Palazzo Nicolo Spinola di San Luca
+            - Palazzo Gio Batta Grimaldi (Vico San Luca)
+            - Palazzo Gio Battista Grimaldi (Piazza San Luca)
+            - Palazzo Stefano De Mari
+            - Palazzo Ambrogio De Nigro/Palazzo Ambrogio Di Negro
+            - Palazzo Emanuele Filiberto Di Negro
+            - Palazzo De Marini Croce
+            - Palazzo Durazzo Brignole
+            - Palazzo Bianco
+            - Palazzo Rosso
+            - Palazzo Baldassarre Lomellini/Palazzo Campanella o di Baldassarre Lomellini
+            - Palazzo Doria Tursi
+            - Palazzo Cattaneo-Adorno
+            - Palazzo Lercari Parodi
+            - Palazzo Carrega Cataldi
+            - Palazzo Pallavicini-Cambiaso/Palazzo Cambiaso Pallavicini
+            - Palazzo Pantaleo Spinola/Palazzo Spinola Gambaro
+            - Palazzo Paolo Battista e Nicolo Interiano/Palazzo Interiano Pallavicini
+            - Palazzo Negrone/Palazzo Ayrolo Negrone
+            - Palazzo Giorgio Spinola
+            - Palazzo Tomaso Spinola
+            - Palazzo Giacomo Spinola "dei Marmi"
+            - Palazzo Doria Spinola
+            - Palazzo Clemente Della Rovere
+            - Palazzo Angelo Giovanni Spinola
+            - Palazzo Gio Battista Spinola/Palazzo Doria
+            - Palazzo Nicolosio Lomellino
+        Firenze
+            - historic centre
+            - Piazza del Duomo
+            - Cathedral of Santa Maria del Fiore
+            - Giotto's Campanile
+            - Baptistry of Saint John
+            - Palazzo Medici Riccardi
+            - Basilica of Saint Lawrence
+            - Museum of San Marco
+            - Galleria dell'Accademia di Firenze
+            - Piazza della Santissima Annunziata
+            - Loggia of the Innocenti
+            - Piazza della Signoria
+            - Palazzo Vecchio
+            - Uffizi Gallery
+            - Bargello Museum
+            - Basilica of the Holy Cross
+            - Ponte Vecchio
+            - Pitti Palace
+            - Boboli Gardens
+            - Church of Santa Maria del Carmine
+            - Palazzo Strozzi
+            - Basilica of Santa Maria Novella
+            - Forte Belvedere
+            - Piazzale Michelangelo
+            - Basilica of San Miniato al Monte
+            - Viali di Circonvallazione
+            - Museo Archeologico Nazionale di Firenze
+            - Pazzi Chapel
+        Fiesole
+            - hills with views on Florence and Arno valley
+        Naples
+            - historic centre
+            - Parco Archeologico del Pausilypon
+            - Chiesa di Santa Maria della Consolazione
+            - Marechiaro
+            - District of Casale and Santo Strato
+            - Chiesa dell'Addolorata
 Albania
         Lumi i gashit
             - primeval beech forest

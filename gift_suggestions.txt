@@ -11,6 +11,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Category Theory in Context - Emily Riehl
       - Kronika Slovanu - Helmold z Bosau
+      - The Elephant in the Brain: Hidden Motives in Everyday Life - Kevin Simler, Robin Hanson
       - Speaking Our Minds - Thom Scott-Phillips
       - Radical Enlightenment - Jonathan Israel
       - Purely Functional Data Structures - Chris Okasaki
