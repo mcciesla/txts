@@ -1,4 +1,5 @@
 Polska
+        Zalipie
         Malbork
             - Marienburg
         Sekowa
@@ -12,12 +13,9 @@ Polska
         Bialystok
             - Palac Branickich
         Bochnia
+            - kopalnia soli - trasa historyczna Na Stare Gory
         Brzesko
-            - Palac Goetza
-        Lipnica Dolna
-            - Kosciol sw. Leonarda
-        Iwkowa
-            - Kosciol Nawiedzenia
+            - Palac Goetza - wnetrze
         Szalowa
             - Kosciol sw. Michala Archaniola
         Powroźnik
@@ -42,8 +40,6 @@ Polska
             - Cerkiew sw. Michala Archaniola
         Chotyniec
             - Cerkiew Narodzenia Przenajswietszej Bogurodzicy
-        Nowy Wisnicz
-            - Zamek
         Oswiecim
             - oboz koncentracyjny
         Kanal Augustowski
@@ -2100,7 +2096,7 @@ Francja
             - Chateau de l’Hermitage
             - Pompe a feu de la fosse du Sarteau
             - Paysage et ensemble miniers du secteur d’Amaury
-            - Cite de la Solitude    
+            - Cite de la Solitude
         Bruay-sur-l'Escaut
             - Terril Sabatier Nord
             - Terril Sabatier Sud
@@ -2124,7 +2120,7 @@ Francja
             - Terril Ledoux Moulineaux
             - Terril Ledoux Lavoir
             - Chemin Saint-Leonard
-        Voie Verte des Gueules Noires 
+        Voie Verte des Gueules Noires
         Valenciennes
             - Chateau Dampierre
             - Coron des 12/Coron des 120
@@ -2243,7 +2239,7 @@ Francja
             - Hotel de ville
         Oignies
             - Monument a Madame Declercq
-            - Terril 110  
+            - Terril 110
             - Dispensaire de la Societe de Secours Miniere
             - Cite des Bonniers
             - Terril 116
@@ -2269,7 +2265,7 @@ Francja
             - Cite Crombez
         Billy-Montigny
             - Terril 101
-            - Terril 84 
+            - Terril 84
             - Cite de la Fosse no.10
             - Silo de Mericourt et Chemin des Rescapes
         Rouvroy
@@ -2359,7 +2355,7 @@ Francja
             - Ancien site minier de la fosse 11-19 de la Compagnie des Mines de Lens
             - Terril no.74 (11 - 19 de Lens Est)
             - Terril no.74A (11 - 19 de Lens Ouest)
-            - Terril no.74b 
+            - Terril no.74b
             - Ecole primaire Pierre Brossolette
             - Chevalement du no.3 bis de Lens/Puits no.3 bis Saint-Ame
             - Chevalement du no.1 bis de Lievin/Puits no.1 bis
@@ -2491,7 +2487,7 @@ Francja
             - Cave d’Ay - underground
         Mareuil-sur-Ay
             - Coteaux de Mareuil-sur-d’Ay
-            - Cave de Mareuil-sur-d’Ay - underground 
+            - Cave de Mareuil-sur-d’Ay - underground
         Epernay
             - Avenue de Champagne
             - Fort Chabrol
@@ -2686,7 +2682,7 @@ Francja
             - La Targette British CWGC Cemetery/La Targette Military Cemetery
             - Cimetiere allemand
             - Cimetiere tchecoslovaque
-            - Memorial polonais 
+            - Memorial polonais
         Thelus
             - Lichfield Crater Cemetery
             - Zivy Crater Cemetery
@@ -3155,6 +3151,32 @@ Italia
             - Marechiaro
             - District of Casale and Santo Strato
             - Chiesa dell'Addolorata
+            - church San Gennaro extra Moenia
+            - Catacombs of San Gennaro
+            - Catacombs of San Gaudioso
+            - church San Giorgio Maggiore
+            - church San Giovanni Maggiore
+            - Castel dell'Ovo
+            - Santa Chiara
+            - Convento di San Lorenzo Maggiore
+            - church San Lorenzo Maggiore
+            - church Santa Maria Donna Regina Vecchia
+            - church Santa Maria Incoronata
+            - Church of San Domenico Maggiore
+            - Castel Nuovo
+            - Piazza del Plebiscito
+            - Royal Palace
+            - Chiesa di Santa Maria della Verita/Convent of Sant'Agostino degli Scalzi
+            - Jesuit College/Universita Federico II
+            - Palazzo Buono
+            - Albergo dei Poveri
+            - National Archaeological Museum
+            - Certosa e Museo di San Martino/Certosa of Suor Orsola Benincasa
+            - Villa Pignatelli/Museo Pignatelli
+        Roma
+            - historic centre
+Watykan
+            - historic centre of Rome
 Albania
         Lumi i gashit
             - primeval beech forest
