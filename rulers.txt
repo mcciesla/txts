@@ -61,7 +61,7 @@ Adiabene
 
 Adyge
 
-Afganistan
+Afganistan ( Afghánistán )
   Królestwo Afganistanu
     Dynastia Durrani
       Ahmad Durr-i Durran	                              1747-1772
@@ -1374,7 +1374,7 @@ Arles
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Armenia
+Armenia ( Arménie )
   Tigranes Erwanduni	                                  ok.550  p.n.e.
   Orontes                          	                    ok.320
   Sames                       	                        ok.260
@@ -2801,6 +2801,10 @@ Bamian
   Bibliografia :
       Dzieje dawnych Turków
 
+Bangladéš
+  Bibliografia :
+      Atlas čínských dějin
+
 Banokowie
   Buffalo Horn                                          ?-1878
   Bibliografia :
@@ -3140,7 +3144,7 @@ Bhrgukaczczha
   Bibliografia :
       Starověká Indie
 
-Bhutan
+Bhutan ( Bhútán )
   Bibliografia :
       Tybet - zarys historii kultury
 
@@ -3175,7 +3179,7 @@ Biała Serbia ( Sorabowie , Serbowie połabscy )
       Zapomianie narody Europy
       Słowianie połabscy - Dzieje zagłady
 
-Birma ( Myanmar , Mjanmar )
+Birma ( Myanmar , Mjanmar , Barma )
   Mranma ( Pagan )
     Narathihipate                                       przed 1273-1286 ( wg K.W.N.I.W.D. )
     Thihathu                                            1286-? ( wg K.W.N.I.W.D. )
@@ -3690,6 +3694,10 @@ Biskupstwo Brixen
       Fridrich Barbarossa – císař a rytíř
 
 Brukterowie
+
+Brunej ( Brunej )
+  Bibliografia :
+      Atlas čínských dějin
 
 Księstwo Brunszwiku ( Duchy of Brunswick )
   Starsza linia na Brunszwiku
@@ -4374,7 +4382,7 @@ Chindánu
   Bibliografia :
       Asýrie - od městského státu k říši
 
-Chiny
+Chiny ( Čína )
   Huang-Ti      	                                      2486(2402) p.n.e.-? ( wg H.C. )
       			                                            2697-2597 ( Huang-ti wg S.S.F.Z.H. ) ( Chuang-ti wg E.P. )
                                                         ? ( Chuang-ti wg K.F. )
@@ -4383,19 +4391,19 @@ Chiny
   Jao		                                                ? ( wg H.C. i S.S.F.Z.H. )
   Szun             	                                    ?-2205(1989) ( wg H.C. )
       			                                            ? ( wg S.S.F.Z.H. )
-  Dynastia Sia ( Hia-Kie, Xia )
+  Dynastia Sia ( Hia-Kie, Xia , Dynastie Sia )
     Jü               	                                  2205(1989)-? ( wg H.C. )
       			                                            2205-2198 ( Ta Jü wg E.P. )
-      			                                            ? ( wg S.S.F.Z.H. )
+      			                                            ? ( wg S.S.F.Z.H. ) ( Ta Jü (Velký Jü) wg A.Č.D. )
     Czie           	                                    ?-1766(1557)
-  Dynastia Szang ( Szang-In )
+  Dynastia Szang ( Szang-In , Dynastie Šang )
     T´ang          	                                    ok.1700 ( wg H.C. )
       			                                            ? ( Tang wg S.S.F.Z.H. )
     Lin Wang       	                                    ok.1400-ok.1360
     Czou Sin         	                                  ok.1122(1111)(1066)(1028) ( wg H.C. )
     Wu Keng        	                                    ok.1122(1111)(1066)(1028) ( wg H.C. )
     Czou     	                                          1154-1122 ( wg S.S.F.Z.H. )
-  Dynastia Czou ( Zhou )
+  Dynastia Czou ( Zhou , Dynastie Čou , Stát Čou )
     Czou                    	                          ok.1200-ok.1170 ( wg V.N.M.S.D. )
       			        	                                  ? ( wg H.C. )
     Wu Wang            	                                ok.1170-1132 ( wg V.N.M.S.D. )
@@ -4421,6 +4429,7 @@ Chiny
     Süan Wang            	                              808-787 ( wg V.N.M.S.D. )
       			  	                                        827-781 ( wg H.C. )
     Ju Wang                	                            781-771 ( wg H.C. )
+                                                        ?-771 ( Jou-wang wg A.Č.D. )
     Pching Wang         	                              787-736 ( wg V.N.M.S.D. )
       			  	                                        ok.770 ( P´ing Wang wg H.C. )
     Chuan Wang          	                              736-713
@@ -4461,27 +4470,29 @@ Chiny
     Han Sin		                                          203-202 ( wg S.S.F.Z.H. )
     T´ien Heng		                                      ? ( wg S.S.F.Z.H. )
     Liu Fei		                                          201-po 197 ( wg S.S.F.Z.H. )
-  Państwo Lu
-  Państwo Wej
-  Państwo Jen
+  Stát Čchi ( Stát Tchien )
+  Państwo Lu ( Stát Lu )
+  Państwo Wej ( Stát Wej )
+  Państwo Jen ( Stát Jen )
     Hi				                                          ?-222 ( wg S.S.F.Z.H. )
     Han Kuang			                                      209-207/6 ( wg S.S.F.Z.H. )
     Tsang T´u			                                      207-202 ( wg S.S.F.Z.H. )
     Liu Kuan			                                      202-195 ( wg S.S.F.Z.H. )
     Liu Kien			                                      195-? ( wg S.S.F.Z.H. )
-  Państwo Ts´ao
-  Państwo Sung
-  Państwo Cz´en
+  Państwo Ts´ao ( Stát Cchao )
+  Państwo Sung ( Stát Sung )
+  Państwo Cz´en ( Stát Čchen )
   Państwo Ts´ai
-  Państwo Czeng
-  Państwo Wu
+  Stát Čchaj
+  Państwo Czeng ( Stát Čeng )
+  Państwo Wu ( Stát Wu )
     Fu-czai			                                        495-477 ( wg S.S.F.Z.H. )
     Liu Pi				                                      195-? ( wg S.S.F.Z.H. )
-  Państwo Jüe ( Yue )
+  Państwo Jüe ( Yue , Stát Jüe )
     Kou-tsien			                                      496-? ( wg S.S.F.Z.H. )
   Państwo Pa
   Państwo Szu
-  Państwo Czao ( Zhao )
+  Państwo Czao ( Zhao , Stát Čao )
     Tao Siang			                                      ? ( wg S.S.F.Z.H. )
     Wu Cz´en			                                      209-? ( wg S.S.F.Z.H. )
     Hie				                                          208-207 i 206-204 ( wg S.S.F.Z.H. )
@@ -4497,7 +4508,7 @@ Chiny
     Pao				                                          205-204 ( wg S.S.F.Z.H. )
   Państwo Han
     Liu Pang			                                      207-202 ( wg S.S.F.Z.H. )
-  Państwo Han
+  Państwo Han ( Stát Chan )
     Süan-huei			                                      332-312 ( wg S.S.F.Z.H. )
     Siang-ai			                                      311-296 ( wg S.S.F.Z.H. )
     Li				                                          295-273 ( wg S.S.F.Z.H. )
@@ -4509,7 +4520,7 @@ Chiny
     Sin				                                          202-? ( wg S.S.F.Z.H. )
   Państwo T´ien
   Państwo Tsou
-  Państwo Cz´in ( Ts´in, Qin )
+  Państwo Cz´in ( Ts´in, Qin , Stát Ťin )
     Siang				                                        776-? ( wg S.S.F.Z.H. )
     Siao                                        	      361-337 ( wg H.C. )
       					                                        przed 361-? ( Szao wg S.S.F.Z.H. )
@@ -4519,8 +4530,9 @@ Chiny
     Czuang-siang			                                  248-247(245) ( wg S.S.F.Z.H. )
     Szy Huang Ti ( Czao Czeng )	                        247-221 ( wg D.Ś. )
                                                         246-221 ( wg H.C. ) ( Czeng wg S.S.F.Z.H. ) ( Čching Š´-chuang-ti wg E.P. )
-    Tsy-ing			207 ( wg S.S.F.Z.H. )
-  Państwo Cz´u ( Chu )
+                                                        przed 223-221 ( Jing Čcheng wg A.Č.D. ) [Emperor Szy Huang Ti]
+    Tsy-ing			                                        207 ( wg S.S.F.Z.H. )
+  Państwo Cz´u ( Chu , Stát Čchu )
     In				                                          ? ( wg S.S.F.Z.H. )
     Cz´angp´ingu			                                  224-223 ( wg S.S.F.Z.H. )
     Siang K´iang			                                  209 ( wg S.S.F.Z.H. )
@@ -4585,20 +4597,22 @@ Chiny
     Liu Cz´ang			                                    196-? ( wg S.S.F.Z.H. )
   Królestwo Yan
   Cesarstwo Chin
-    Dynastia Cz´in ( Ts´in, Qin Dynasty )
+    Dynastia Cz´in ( Ts´in, Qin Dynasty , Dynastie Čchin )
       Szy Huang Ti ( Czao Czeng , Ying Zheng )          221-210 ( wg D.Ś. i H.C. ) ( Pierwszy Cesarz wg S.S.F.Z.H. ) ( Čchin Š´-chuang-ti wg E.P. ) ( Shihuang Di wg Ř.S.J.Ď.S. ) ( Shi Huang Di (秦始皇帝, 嬴政) wg T.O.M.O.C.S.D. )
                                                         263-236 ( wg V.N.M.S.D. )
              				             	                      221-? ( wg S.B.W. )
       					   	                                    ? ( wg H.P.S. )
+                                                        221-210 (?-jesień) ( Čchin Š'-chuang-ti wg A.Č.D. )
       Êr Szy Huang Ti ( Ying Huhai )           	        210-207 ( wg D.Ś. i H.C. ) ( Hu-hai wg S.S.F.Z.H. ) ( Er Shi Huang Di wg T.O.M.O.C.S.D. )
                                                         236-228 ( wg V.N.M.S.D. )
       Cz´in Wang                                 	      207 ( wg D.Ś. ) ( Tzu Jing wg H.C. )
-    Dynastia zachodnia Han ( Western Han Dynasty )
+    Dynastia zachodnia Han ( Western Han Dynasty , Dynastie Chan )
       Kao Ti ( Liu Czi , Kao Cu , Liu Bang )            207-195 ( wg D.Ś. )
                                                         228-211 ( wg V.N.M.S.D. )
       				        	                                206-195 ( Liu Pang wg H.C. ) ( Gao Di (汉高帝, 刘邦) wg T.O.M.O.C.S.D. )
       					                                        202-195 ( Liu Pang ( Kao-tsu ) wg S.S.F.Z.H. )
       					                                        206/2-195 ( Liou Pang ( Liou Ťi , Kao-cu ) wg E.P. )
+                                                        202-? ( Liou Pang wg A.Č.D. )
       Hui Ti ( Liu Ying )                    	          195-188 ( wg D.Ś. ) ( Huei wg S.S.F.Z.H. )
                                                         211-196 ( wg V.N.M.S.D. )
       				        	                                194-188 ( Huei wg H.C. )
@@ -4613,12 +4627,14 @@ Chiny
       Czing Ti ( Liu Qi )               	              157-141 ( wg D.Ś. ) ( Jing Di wg T.O.M.O.C.S.D. )
                                                         172-162 ( wg V.N.M.S.D. )
       					                                        156-141 ( King wg S.S.F.Z.H. )
+                                                        ? ( Ťing-t'i wg A.Č.D. )
       Wu Ti ( Liu Che )                      	          141-87 ( wg D.Ś. i S.S.F.Z.H. ) ( Wu Di wg T.O.M.O.C.S.D. )
                                                         162-109 ( wg V.N.M.S.D. )
                                                         140-86 ( wg S.A. )
                                                         140-87 ( wg H.C. )
       				        	                                141-86 ( wg H.P.S. )
                                                         ok.150 ( wg K.W.N.I.W.D. )
+                                                        przed 138-po 136 ( Wu-ti wg A.Č.D. )
       Czao Ti ( Liu Fuling )               	            87-74 ( wg D.Ś. ) ( Zhao Di wg T.O.M.O.C.S.D. )
                                                         109-86 ( wg V.N.M.S.D. )
       Śuan Ti ( Liu Xun )                  	            74-48 ( wg D.Ś. )
@@ -4680,7 +4696,7 @@ Chiny
       				    	                                    190-221 ( wg H.C. )
                                                         191-222 ( wg V.N.M.S.D. )
     Epoka Trzech Królestw ( Three Kingdoms )
-      Dynastia Wei
+      Dynastia Wei ( Stát Wej )
         Ts´ao Ts´ao                 	                  155-220 ( wg H.C. )
         Wen Ti ( Ts´ao P´ei , Cao Pi )                  220-226 ( wg D.Ś. ) ( Wen Di wg T.O.M.O.C.S.D. )
       			              	                            221-226 ( wg H.C. )
@@ -4705,9 +4721,10 @@ Chiny
         Czing Ti ( Sun Xiu )         	                  258-264 ( wg D.Ś. ) ( Jing Di wg T.O.M.O.C.S.D. )
         Mo Ti                         	                264-280 ( wg D.Ś. )
         Wucheng ( Sun Hao )                             264-280 ( Marquis Wucheng wg T.O.M.O.C.S.D. )
-      Dynastia zachodnia Czin ( Jin )
+      Dynastia zachodnia Czin ( Jin , Dynastie Ťin , Stát Ťin )
         Wu Ti ( Sy-ma Jen )  	                          266-290 ( wg D.Ś. )
                                                         265-290 ( wg V.N.M.S.D. )
+                                                        280-? ( Wu-ti wg A.Č.D. )
         Hui Ti                        	                290-307 ( wg D.Ś. )
                                                         290-301 ( wg V.N.M.S.D. )
         Huai Ti                      	                  307-311 ( wg D.Ś. )
@@ -4719,8 +4736,9 @@ Chiny
         Liu Ts´ung         		                          ok.316 ( wg H.C. )
       Dynastia późniejsze Czao
         Szy Le           		                            329-? ( wg H.C. )
-      Dynastia wczesne Cz´in
+      Dynastia wczesne Cz´in ( Stát Čchin )
         Fu Czien            		                        ok.383 ( wg H.C. )
+                                                        przed 383-? ( Fu Ťien wg A.Č.D. )
     Jin Dynasty
       Western Jin                                       [=Dynastia zachodnia Czin]
         Wu Di ( Sima Yan )                              265-290 ( 晉武帝 (司马炎) wg T.O.M.O.C.S.D. )
@@ -4760,11 +4778,13 @@ Chiny
                                                         394-416 ( wg V.N.M.S.D. )
         Kung Ti                        	                419-420 ( wg D.Ś. )
                                                         416-420 ( wg V.N.M.S.D. )
-      Dynastia Liu Sung ( Song )
+      Dynastia Liu Sung ( Song , Dynastie Sung )
         Wu Ti ( Liu Jü )  		                          420-422 ( wg D.Ś. ) ( Wu Di (Liu Yu, 宋武帝, 刘裕) wg T.O.M.O.C.S.D. )
+                                                        420-? (lato-?) ( Liou Jü wg A.Č.D. )
         Szao Ti ( Liu Yifu )  		                      422-424 ( wg D.Ś. ) ( Shao Di wg T.O.M.O.C.S.D. )
         Wen Ti ( Liu Yilong )  		                      424-453 ( wg D.Ś. ) ( Wen Di wg T.O.M.O.C.S.D. )
                                                       	420-451 ( wg V.N.M.S.D. )
+                                                        ? ( Wen-ti wg A.Č.D. )
         Siao Wu Ti ( Liu Jun )	                        453-464 ( wg D.Ś. ) ( Xiaowu Di wg T.O.M.O.C.S.D. )
                                                        	451-463 ( wg V.N.M.S.D. )
         Cz´ien Fei Ti       		                        464-466 ( wg D.Ś. )
@@ -4786,15 +4806,16 @@ Chiny
                                                         492-543 ( wg V.N.M.S.D. )
         Tung-hun Hou               	                    498-501 ( wg D.Ś. ) ( Donghun (Marquis Donghun, Xiao Baojuan) wg T.O.M.O.C.S.D. )
         Ho Ti ( Xiao Baorong )                          501-502 ( wg D.Ś. ) ( He Di wg T.O.M.O.C.S.D. )
-      Dynastia Liang
+      Dynastia Liang ( Stát Liang )
         Wu Ti ( Siao Jen ) 	 	                          502-549 ( wg D.Ś. ) ( Wu Di (Xiao Jan, 梁武帝, 蕭衍) wg T.O.M.O.C.S.D. )
         Czien Wen Ti ( Xiao Gang )                      549-551 ( wg D.Ś. ) ( Jianwen Di wg T.O.M.O.C.S.D. )
                                                         543-556 ( wg V.N.M.S.D. )
         Jü-czang Wang       	                          551 ( wg D.Ś. )
         Jüan Ti ( Xiao Yi )                   	        552-555 ( wg D.Ś. ) ( Juan Di wg T.O.M.O.C.S.D. )
         Czing Ti ( Xiao Fangzhi )                 		  555-557 ( wg D.Ś. ) ( Jing Di wg T.O.M.O.C.S.D. )
-      Dynastia Cz´en ( Chen )
+      Dynastia Cz´en ( Chen , Dynastie Čchen )
         Wu Ti ( Cz´en Pa-sien )  	                      557-559 ( wg D.Ś. ) ( Wu Di (Chen Baxian, 陳武帝) wg T.O.M.O.C.S.D. )
+                                                        ok.560-? ( Čchen Pa-sien wg A.Č.D. )
         Wen Ti ( Chen Qian )                           	559-566 ( wg D.Ś. ) ( Wen Di wg T.O.M.O.C.S.D. )
                                                         556-569 ( wg V.N.M.S.D. )
         Lin-hai Wang                  	                566-568 ( wg D.Ś. )
@@ -4803,7 +4824,7 @@ Chiny
                                                         569-581 ( wg V.N.M.S.D. )
         Hou Czu ( Chen Shubao )          	              582-589 ( wg D.Ś. ) ( Hou Zhu wg T.O.M.O.C.S.D. )
     Północne Dynastie ( Northern Dynasty )
-      Dynastia północnego Wei ( Sien-pei , T'opa , Northern Wei , Dai )
+      Dynastia północnego Wei ( Sien-pei , T'opa , Northern Wei , Dai , Stát severní Wej )
         Tao Wu Ti ( T´o-pa Kuei ) 	                    386-409 ( wg D.Ś. ) ( Daowu Di (Tuoba Gui) wg T.O.M.O.C.S.D. )
         Ming Jüan Ti ( Tuoba Si )       	              409-423 ( wg D.Ś. ) ( Mingyuan Di wg T.O.M.O.C.S.D. )
         T´ai Wu Ti ( T´opa Tao )    	                  423-452 ( wg D.Ś. ) ( Taiwu Di (Tuoba Tao) wg T.O.M.O.C.S.D. )
@@ -4813,6 +4834,7 @@ Chiny
         Sien Wen Ti ( Tuoba Hong )     	                465-471 ( wg D.Ś. ) ( Xianwen Di wg T.O.M.O.C.S.D. )
         Siao Wen Ti ( Yuan Hong )        	              471-499 ( wg D.Ś. ) ( Xiaowen Di wg T.O.M.O.C.S.D. )
                                                         ok.500 ( Xiawen wg Ř.S.J.Ď.S. )
+                                                        ok.485 ( Siao-wen-ti wg A.Č.D. )
         Śuan Wu Ti ( Yuan Ke )         	                499-515 ( wg D.Ś. ) ( Xuanwu Di wg T.O.M.O.C.S.D. )
       					                                        ? ( Hüan-wu-ti wg D.D.T. )
         Siao Ming Ti ( Yuan Xu )        	              515-528 ( wg D.Ś. ) ( Xiaoming Di wg T.O.M.O.C.S.D. )
@@ -4827,9 +4849,9 @@ Chiny
                                                         532-534 ( Xiaowu Di wg T.O.M.O.C.S.D. )
       Dynatia wschodniego Wei ( Sien-pei , Eastern Wei )
         Siao Cing Ti ( T´o-pa Szan-czien )	            534-550 ( wg D.Ś. ) ( Xiaojing Di (Yuan Shanjian) wg T.O.M.O.C.S.D. )
-      Dynastia północnego Cz´i ( Pej C`i , Northern Qi )
+      Dynastia północnego Cz´i ( Pej C`i , Northern Qi , Stát severní Čchi )
         Wen Śuan Ti ( Kao Jang )	                      550-559 ( wg D.Ś. ) ( Wenxuan Di (Gao Yang) wg T.O.M.O.C.S.D. )
-      					                                        550-? ( wg D.D.T. )
+      					                                        550-? ( wg D.D.T. i A.Č.D. )
         Fei Ti                               	          559-560 ( wg D.Ś. )
         Gao Yin                                         559-560 ( wg T.O.M.O.C.S.D. )
         Siao Czao Ti ( Gao Yan )         	              560-561 ( wg D.Ś. ) ( Xiaozhao Di wg T.O.M.O.C.S.D. )
@@ -4843,9 +4865,9 @@ Chiny
         Yuan Qin                                        551-554 ( wg T.O.M.O.C.S.D. )
         Kung Ti ( Yuan Kuo )               	            554-557 ( wg D.Ś. )
                                                         554-556 ( Gong Di wg T.O.M.O.C.S.D. )
-      Dynastia północnego Czou ( Sien-pei , Pej Czou , Northern Zhou )
+      Dynastia północnego Czou ( Sien-pei , Pej Czou , Northern Zhou , Stát severní Čou )
         Siao Min Ti ( Jü-wen Czüe )	                    557 ( wg D.Ś. ) ( Xiaomin Di (Yuwen Jue) wg T.O.M.O.C.S.D. )
-      				                                          557-? ( Jüwen Cü wg D.D.T. )
+      				                                          557-? ( Jüwen Cü wg D.D.T. ) ( Jü-wen Ťüe wg A.Č.D. )
         Ming Ti ( Yuwen Yu )                       	    557-560 ( wg D.Ś. ) ( Ming Di wg T.O.M.O.C.S.D. )
         Wu Ti ( Yuwen Yong )                       	    560-578 ( wg D.Ś. ) ( Wu Di wg T.O.M.O.C.S.D. )
       						                                      przed 579-? ( wg D.D.T. )
@@ -4853,33 +4875,38 @@ Chiny
         Czing Ti ( Yuwen Chan )                    	    579-581 ( wg D.Ś. ) ( Jing Di wg T.O.M.O.C.S.D. )
       Kao Pao-ning		                                  przed 581-po 582 ( wg D.D.T. )
     Dynastia Hou Liang
-    Dynastia Sui ( Suej )
+    Dynastia Sui ( Suej , Dynastie Suej )
       Wen Ti ( Jang Czien , Yang Jian )	                581-604 ( wg D.Ś. i V.N..S.D. ) ( Wen Di (隋文帝, 杨坚) wg T.O.M.O.C.S.D. )
       			             	                              581/9-604 ( wg H.C. )
       					                                        581-604 ( ?-lipiec ) ( Wen-ti ( Jang Cien ) wg D.D.T. )
+                                                        581-? ( Jang Ťien (Wen-ti) wg A.Č.D. )
       Jang Ti ( Jang Kuang )         	                  604-617 ( wg D.Ś. )
                                                         604-619 ( wg V.N.M.S.D. )
       				      	                                  ? ( wg H.C. )
       					                                        604-po 617 ( Jang-ti wg D.D.T. )
                                                         604-618 ( Yang Di (Yang Guang) wg T.O.M.O.C.S.D. )
+                                                        przed 617-? ( Jang-ti wg A.Č.D. )
       Kung Ti ( Yang You )             	                617-618 ( wg D.Ś. )
                                                         618 ( Gong Di wg T.O.M.O.C.S.D. )
     Księstwo Pej Liang
     Księstwo Si Liang
       Li Hao			                                      ? ( wg D.D.T. )
-    Dynastia T´ang ( Tang )
+    Dynastia T´ang ( Tang , Dynastie Tchang )
       Kao Tsu ( Li Jüan , Chin Jao Ti  )	              618-626 ( wg D.Ś. ) ( Sui Li Jüan wg H.C. ) ( Li-Jüan (Kao-cu) wg E.P. ) ( Gao Zu (Li Yuan, 唐高祖, 李渊) wg T.O.M.O.C.S.D. )
                                                         619-628 ( wg V.N.M.S.D. )
       						                                      618-626 ( 18.7.-4.9. ) ( Kaocu wg D.D.T. )
+                                                        618-? (lato-?) ( wg A.Č.D. )
       Ta´i Tsung ( Li Szy-Min )                  	      626-649 ( wg D.Ś. ) ( Tai Zong (Li Shimin, 李世民, 唐太宗) wg T.O.M.O.C.S.D. )
                                                         628-651 ( wg V.N.M.S.D. )
       					  	                                    627-649 ( wg H.C. )
       					  	                                    ok.627-? ( T´aj-cung wg T.Z.H.K. )
       						                                      626-649 ( 4.9.-10.7. ) ( T´ajcung wg D.D.T. )
                                                         przed 644-? ( Tai Zhong wg Ř.S.J.Ď.S. )
+                                                        ?-649 (?-lato) ( Tchaj-cung wg A.Č.D. )
       Kao Tsung ( Li Zhi )                           	  649-683 ( wg D.Ś. ) ( Kaocung wg D.D.T. ) ( Gao Zong wg T.O.M.O.C.S.D. )
                                                         651-685 ( wg V.N.M.S.D. )
       					  	                                    650-683 ( wg H.C. )
+                                                        649-? ( Kao-cung wg A.Č.D. )
       Czung Tsung ( Li Xian )                           684 i 705-710 ( wg D.Ś. )
       					   	                                    684-685 i 705-710 ( wg H.C. )
       						                                      ?-684 i 703-710 ( Czungcung wg D.D.T. )
@@ -4890,8 +4917,10 @@ Chiny
       						                                      710-712 ( Żujcung wg D.D.T. )
                                                         684 i 710-712 ( Rui Zong wg T.O.M.O.C.S.D. )
       Wu Zetian                                         684-690 ( Wu Zhao (武周则天皇帝, 武曌) wg T.O.M.O.C.S.D. )
+                                                        690-? (?.10.-?) ( Wu Čao wg A.Č.D. )
       Śuan Tsung ( Li Lung-c´i )                 	      712-756 ( wg D.Ś. ) ( Li Lung-Czi wg H.C. ) ( Li Lung-T´i ( Süan-cung ) wg E.P. ) ( Xuan Zong (Li Longji, 唐玄宗, 李隆基) wg T.O.M.O.C.S.D. )
       						                                      712-755 i przed 759-? ( Hüangcung wg D.D.T. )
+                                                        przed 730-po 733 ( Süan-cung (Suang-cung) wg A.Č.D. )
       Su Tsung ( Li Heng )                        	    756-762 ( wg D.Ś. i V.N.M.S.D. i H.C. ) ( Su Zong wg T.O.M.O.C.S.D. )
       						                                      756-? ( Sucung wg D.D.T. )
       Tai Tsung ( Li Yu )                              	762-779 ( wg D.Ś. i V.N.M.S.D. ) ( Dai Zong wg T.O.M.O.C.S.D. )
@@ -4899,11 +4928,13 @@ Chiny
       Te Tsung ( Li Kuo )                              	779-805 ( wg D.Ś. ) ( De Zong wg T.O.M.O.C.S.D. )
                                                     	  779-803 ( wg V.N.M.S.D. )
       					                                        778-po 783 ( Tecung wg D.D.T. )
+                                                        ok.780 ( Te-cung wg A.Č.D. )
       Szun Tsung ( Li Song )                           	805 ( wg D.Ś. ) ( Shun Zong wg T.O.M.O.C.S.D. )
       						                                      ?-805 ( Szungcung wg D.D.T. )
       Sien Tsung ( Li Chun )                           	805-820 ( wg D.Ś. ) ( Xian Zong wg T.O.M.O.C.S.D. )
                                                        	803-833 ( wg V.N.M.S.D. )
       						                                      805-? ( Siencung wg D.D.T. )
+                                                        przed 817-? ( Sien-cung wg A.Č.D. )
       Mu Tsung ( Li Heng )                             	820-824 ( wg D.Ś. ) ( Mu Zong wg T.O.M.O.C.S.D. )
       						                                      821-? ( Mucung wg D.D.T. )
       Czing Tsung ( Li Zhan )                        	  824-827 ( wg D.Ś. )
@@ -4935,11 +4966,12 @@ Chiny
     Dynastia Cz´i
       Huang Cza´o      	                                880-?  ( wg H.C. )
     Epoka Pięciu Dynastii ( Five Dynasties )
-      Dynastia późniejszych Liang ( Later Liang )
+      Dynastia późniejszych Liang ( Later Liang , Dynastie Liang )
         Ta´i Tsu ( Czu Wen , Zhu Huang )                907-912 ( wg D.Ś. i H.C. ) ( Tai Zu (后梁太祖, 朱晃, Wen, Quanzhong) wg T.O.M.O.C.S.D. )
+                                                        907-? (lato-?) ( Ču Wen wg A.Č.D. )
         Jing Wang                   	                  912-913 ( wg D.Ś. )
         Mo Ti ( Zhu Zhen )             	                913-923 ( wg D.Ś. i T.O.M.O.C.S.D. )
-      Dynastia późniejszych T´ang ( Later Tang ) ( turecka )
+      Dynastia późniejszych T´ang ( Later Tang , Dynastie pozdní Tchang ) ( turecka , Šatoové )
         Czuang Tsung ( Li Ts´un-śu )	                  923-926 ( wg D.Ś. ) ( Zhuang Zong (Li Cunxu) wg T.O.M.O.C.S.D. )
       				             	                            923-? ( wg H.C. )
         Ming Tsung ( Li Dan )                    	      926-933 ( wg D.Ś. ) ( Ming Zong wg T.O.M.O.C.S.D. )
@@ -4976,10 +5008,11 @@ Chiny
     Państwo Ting Nan
     Dynastia północnych Han
     Cesarstwa Graniczne
-      Dynastia Liao ( Kitanowie , Khitan )
+      Dynastia Liao ( Kitanowie , Khitan , Dynastie Liao )
         T´ai Tsu ( Je-lü A-pao-czi )		                907-926 ( wg D.Ś. )
       				         		                              916-926 ( Apaoczi wg H.C. )
                                                         907-927 ( Tai Zu (Yelü Abaoji, 辽太祖, 耶律阿保机) wg T.O.M.O.C.S.D. )
+                                                        916-? (wiosna-?) ( A-pao-ťi wg A.Č.D. )
         T´ai Tsung ( Yelü Deguang )                     927-947 ( wg D.Ś. ) ( Tai Zong wg T.O.M.O.C.S.D. )
       				         		                              926-? ( Te-Kuang wg H.C. )
         Szy Tsung ( Yelü Ruan )        		              947-951 ( wg D.Ś. ) ( Shi Zong wg T.O.M.O.C.S.D. )
@@ -4989,9 +5022,9 @@ Chiny
         Sing Tsung ( Yelü Zongzhen )   		              1031-1055 ( wg D.Ś. ) ( Xing Zong wg T.O.M.O.C.S.D. )
         Tao Tsung ( Yelü Hongji )    		                1055-1101 ( wg D.Ś. ) ( Dao Zong wg T.O.M.O.C.S.D. )
         T´ien-tso Ti ( Yelü Yanxi )                 		1101-1125 ( wg D.Ś. ) ( Tainzuo Di wg T.O.M.O.C.S.D. )
-      Dynastia Kin ( Czin , Jin ) ( Dżurczenowie )
+      Dynastia Kin ( Czin , Jin , Dynastie Ťin ) ( Dżurczenowie , Džürčenové )
         T´ai Tsu ( Wan-jen A-ku-ta )	                  1115-1123 ( wg D.Ś. ) ( Tai Zu (Wanyan Min, Aguda) wg T.O.M.O.C.S.D. )
-      		                                              1115-? ( Akuta wg H.C. )
+      		                                              1115-? ( Akuta wg H.C. ) ( A-ku-ta wg A.Č.D. )
         T´ai Tsung ( Wanyan Sheng )              	      1123-1135 ( wg D.Ś. ) ( Tai Zong wg T.O.M.O.C.S.D. )
         Si Tsung ( Wanyan Dan )                  	      1135-1150 ( wg D.Ś. )
                                                         1135-1149 ( Xi Zong wg T.O.M.O.C.S.D. )
@@ -5003,16 +5036,20 @@ Chiny
         U-tu-pu                                    	    ok.1215 ( wg I.M. )
         Śuan Tsung ( Wanyan Xun )               	      1213-1224 ( wg D.Ś. )
                                                         1213-1223 ( Xuan Zong wg T.O.M.O.C.S.D. )
+                                                        przed 1215-? ( Süan-cung wg A.Č.D. )
         Nin-kia-su                                	    1223-1234 ( wg I.M. )
         Ai Tsung ( Wanyan Shouxu )                 	    1224-1234 ( wg D.Ś. )
                                                         1223-1234 ( Ai Zong wg T.O.M.O.C.S.D. )
+                                                        przed 1232-? ( Aj-cung wg A.Č.D. )
         Mo Ti                                       	  1234 ( wg D.Ś. )
-    Song Dynasty
+    Song Dynasty ( Dynastie Sung )
       Dynastia północnych Sung ( Northern Song )
         T´ai Tsu ( Czao K´uang-jin )		                960-976 ( wg  D.Ś. i H.C. ) ( Čao Kchuang-jin wg E.P. ) ( Tai Zu (Zhao Kuangyin, 宋太祖, 赵匡胤) wg T.O.M.O.C.S.D. )
                                                         960-977 ( wg V.N.M.S.D. )
+                                                        ok.960-? ( Čao Kchuang-jin (Tchaj-cu) wg A.Č.D. )
         T´ai Tsung ( Zhao Kuangyi )                     976-997 ( wg D.Ś. i H.C. ) ( Tai Zong (Zhao Jiong, Zhao Guangyi, 宋太宗, 赵匡义) wg T.O.M.O.C.S.D. )
                                                         977-998 ( wg V.N.M.S.D. )
+                                                        ?-997 ( Tchaj-cung wg A.Č.D. )
         Czen Tsung ( Zhao Heng )                 	      997-1022 ( wg D.Ś. ) ( Zhen Zong (宋真宗, 赵恒) wg T.O.M.O.C.S.D. )
                                                         998-1022 ( wg V.N.M.S.D. i H.C. )
         Żen Tsung ( Zhao Zhen )                  	      1022-1063 ( wg V.N.M.S.D. i D.Ś. ) ( Ren Zong (宋仁宗, 赵祯) wg T.O.M.O.C.S.D. )
@@ -5029,6 +5066,7 @@ Chiny
       Dynastia południowych Sung ( Southern Song )
         Kao Tsung ( Zhao Gou )        	                1127-1162 ( wg D.Ś. i H.C. ) ( Gao Zong (宋高宗, 赵构) wg T.O.M.O.C.S.D. )
         			          	                              ? ( Kao Cung wg K. )
+                                                        1127-? (?.6.-?) ( Čao Kou (Kao-cung) wg A.Č.D. )
         Siao Tsung ( Zhao Shen )                        1162-1189 ( wg V.N.M.S.D. i D.Ś. ) ( Xiao Zong (宋孝宗, 赵昚) wg T.O.M.O.C.S.D. )
         Kuang Tsung	( Zhao Dun )                        1189-1194 ( wg D.Ś. ) ( Guang Zong wg T.O.M.O.C.S.D. )
         Ning Tsung ( Zhao Kuo )                         1194-1224 ( wg D.Ś. ) ( Ning Zong (宋宁宗, 赵扩) wg T.O.M.O.C.S.D. )
@@ -5043,7 +5081,7 @@ Chiny
         Ti Ping ( Zhao Bing )  	                        1278-1279 ( wg D.Ś. ) ( Bing wg T.O.M.O.C.S.D. )
                                                       	?-1279 ( wg I.M. )
                                                         ?-1279 (?-9.3.) ( Czao Ping wg K.W.N.I.W.D. )
-    Dynastia Jüan ( Yuan , Juan ) ( Mongołowie )
+    Dynastia Jüan ( Yuan , Juan , Dynastie Jüan ) ( Mongołowie )
       Tai Zu ( Genghis Khan )                           1206-1227 ( 元太祖 (Borjigin Temujin, 成吉思汗) wg T.O.M.O.C.S.D. )
       Tolui                                             1227-1229 ( wg T.O.M.O.C.S.D. )
       Tai Zong ( Ogedei )                               1229-1241 ( 元太宗 (Borjigin Ogedei, 窝阔台) wg T.O.M.O.C.S.D. )
@@ -5058,9 +5096,11 @@ Chiny
                                                         ? ( Kublajchán wg Ř.S.J.Ď.S. )
                                                         ok.1250 ( Kublaj chán wg K.F. )
                                                         1271-1294 (?.12.-18.2.) ( Kubiłaj wg K.W.N.I.W.D. )
+                                                        1271-po 1293 (?.12.-?) ( Chubilaj wg A.Č.D. )
       Cz´eng Tsung ( Temür )     	                      1294-1307 ( wg V.N.M.S.D. i D.Ś. ) ( Cheng Zong (Temur, Borjigin Temur, 元成宗, 铁穆耳) wg T.O.M.O.C.S.D. )
       				         	                                1295-1307 ( wg T.Z.H.K. )
                                                         przed 1301-? (?.9.-?) ( Temur wg K.W.N.I.W.D. )
+                                                        przed 1303-po 1313 ( Temür Öldžejtü wg A.Č.D. )
       Wu Tsung ( Kajszan )         	                    1307-1311 ( wg V.N.M.S.D. i D.Ś. ) ( Wu Zong (Qayshan, Borjigin Qayshan, 元武宗, 海山) wg T.O.M.O.C.S.D. )
       Żen Tsung ( Ajurbarwada ) 	                      1311-1320 ( wg D.Ś. ) ( Ren Zong (Ayurparibhadra, Borjigin Ayurparibhadra, 元仁宗, 爱育黎拔力八达) wg T.O.M.O.C.S.D. )
       Bujantu                               	          1311-1320 ( wg I.M. )
@@ -5076,18 +5116,23 @@ Chiny
                                                         1333-1369 ( Togan Timur wg Ř.S.J.Ď.S. )
                                                         1331-1367 ( wg V.N.M.S.D. )
                                                         ? ( Togon Temur wg K.W.N.I.W.D. )
+                                                        1333-po 1368 ( Toghon-Tömür wg A.Č.D. )
       Toktoa                                            ? ( wg K.W.N.I.W.D. )
-    Dynastia Ming
+    Dynastia Ming ( Dynastie Ming )
       Hung Wu ( T´ai Tsu , Czu Jüan-czang )	            1368-1398 ( wg D.Ś. i H.C. ) ( Ču Jüan-čang ( Tchaj-cu ) wg E.P. ) ( Tai Zu (Zhu Yuanzhang, Hongwu, 明太祖, 朱元璋) wg T.O.M.O.C.S.D. )
                                                        	1367-1398 ( wg V.N.M.S.D. )
       						  	                                  1368-?   ( wg T.Z.H.K. )
-      Czien Wen ( Hui Ti , Zhu Yunwen )                 1398-1402 ( wg D.Ś. i V.N.M.S.D. ) ( Hui Di (Jianwen) wg T.O.M.O.C.S.D. )
+                                                        1364/8-1398 (początek/?.1.-lato) ( Ču Jüan-čang (Chung-wu) wg A.Č.D. )
+      Czien Wen ( Hui Ti , Zhu Yunwen )                 1398-1402 ( wg D.Ś. i V.N.M.S.D. ) ( Hui Di (Jianwen) wg T.O.M.O.C.S.D. ) ( Ču Sün-wen (Ťien-wen) wg A.Č.D. )
       						  	                                  1398-1403 ( Huei Ti wg H.C. )
       Jung Lo ( Cz´eng Tsu , Zhu Di )                  	1402-1424 ( wg D.Ś. ) ( Cheng Zu (Yongle, 明成祖, 朱棣) wg T.O.M.O.C.S.D. )
                                                       	1402-1425 ( wg V.N.M.S.D. )
       						  	                                  1403-1424 ( wg H.C. ) ( Jung Le wg T.Z.H.K. )
+                                                        1402-1424 (?-?.8.) ( Ču Ti (Jung-le) wg A.Č.D. )
       Hung Si ( Żen Tsung , Zhu Gaochi )               	1424-1425 ( wg D.Ś. ) ( Ren Zong (Hongxi, 明仁宗, 朱高炽) wg T.O.M.O.C.S.D. )
+                                                        ? ( Chung-si wg A.Č.D. )
       Śuan Te ( Śuan Tsung , Zhu Zhanji )               1425-1435 ( wg D.Ś. i V.N.M.S.D. ) ( Xuan Zong (Xuande) wg T.O.M.O.C.S.D. )
+                                                        przed 1431-? ( Süan-te wg A.Č.D. )
       Czeng T´ung ( T´ien Szun , Jing Tsung ) 	        1435-1449 i 1457-1464 ( wg D.Ś. )
                                                         1435-1449 i 1456-1464 ( wg V.N.M.S.D. )
       						  	                                  1436-1449 i 1457-1464 ( wg H.C. )
@@ -5106,29 +5151,38 @@ Chiny
       Wan Li ( Szen Tsung , Zhu Yijun )                	1572-1620 ( wg D.Ś. ) ( Shen Zong (Wanli, 明神宗, 朱翊鈞) wg T.O.M.O.C.S.D. )
                                                       	1573-1621 ( wg V.N.M.S.D. )
       						   	                                  1573-1619 ( wg H.C. )
+                                                        ok.1575 ( Wan-li wg A.Č.D. )
       T´ai Cz´ang ( Kuang Tsung , Zhu Changluo )       	1620 ( wg D.Ś. ) ( Guang Zong (Taichang, 明光宗, 朱常洛) wg T.O.M.O.C.S.D. )
       T´ien Cz´i ( Si Tsung , Zhu Youxiao )            	1620-1627 ( wg D.Ś. ) ( Xi Zong (Tianqi, 明熹宗, 朱由校) wg T.O.M.O.C.S.D. )
       Hwea Tsung                                       	1621-1644 ( wg V.N.M.S.D. )
       Cz´ung Czen ( Czuang-lie Ti , Zhu Youjian )      	1627-1644 ( wg D.Ś. ) ( Czung Czeng wg H.C. ) ( Si Zong (Chongzhen) wg T.O.M.O.C.S.D. )
-    Dynastia Szun
-      Li Tzu-Cz´eng     	                              1644 -? ( wg H.C. )
+                                                        ?-1644 (?-25.4.) ( Čchung-čen wg A.Č.D. )
+    Dynastia Szun ( Dynastie Šun )
+      Li Tzu-Cz´eng     	                              1644-? ( wg H.C. ) ( Li C'-čcheng (Ta-šun) wg A.Č.D. )
+    Dynastie Ta-sia
+      Čang Sieng-čung                                   1644-? (?.11.-?) ( wg A.Č.D. )
     Dynastia południowych Ming
       Czu Ju-Sung         	                            ? ( wg H.C. )
-      Czu Jü-Czien	                                    1645-1646 ( ?.8.-? ) ( wg H.C. )
+      Czu Jü-Czien	                                    1645-1646 (?.8.-?) ( wg H.C. )
+                                                        1645-1646 (?.8.-jesień) ( Lung-wu wg A.Č.D. )
       Czu Ju-Lang 	                                    ok.1648-1662 ( wg H.C. )
     Dynastia Czou
       Wu San-Kuei	                                      1673-1681 ( wg H.C. )
-    Dynastia Cz´ing ( Qing , Dynastia późniejsza Kin , Tin , Later Jin ) ( Manczu , mandżurska )
+                                                        1674-? ( Wu San-kuej wg A.Č.D. )
+    Dynastia Cz´ing ( Qing , Dynastia późniejsza Kin , Tin , Later Jin , Dynastie Ťin , Dynastie Čching ) ( Manczu , mandżurska )
       Tai Zu ( Nurhaczi , Aisin Gioro Nurhaci )         1616-1626 ( 清太祖 (Tianming, 努尔哈赤) wg T.O.M.O.C.S.D. ) ( wg H.C. ) ( Nurhači wg E.P. )
+                                                        1616-? ( Nurhači wg A.Č.D. )
       Tai Zong ( Abahai , Aisin Gioro Abahai )          1636-1643 ( wg H.C. )
       							                                    ?-1643 ( Abachaj Abagaj wg E.P. )
                                                         1626-1643 ( 清太宗 (Tiancong, Chongde, 皇太极) wg T.O.M.O.C.S.D. )
       Szun Czy ( Szy Tsu , Aisin-gioro Fu-lin )	        1644-1661 ( wg D.Ś. i V.N.M.S.D. i H.C. )
                                                         1643-1661 ( Shi Zu (Shunzi, Aisin Gioro Fulin, Fulin, 顺治帝, 福临) wg T.O.M.O.C.S.D. )
+                                                        1644-? (?.10.-?) ( Šun-č'a wg A.Č.D. )
       K´ang Si ( Szeng Tsu , Süan-jie )     		        1661-1722 ( wg D.Ś. ) ( Süan Se wg H.C. ) ( Sheng Zu (Aisin Gioro Xuanye, Kangxi, Xuanye, 康熙帝, 玄烨) wg T.O.M.O.C.S.D. )
                                                         1661-1723 ( wg V.N.M.S.D. )
       						    	                                1662-1722 ( K´ang-si wg T.Z.H.K. )
       							                                    1662-1722 ( ?-20.12. ) ( Kchang-si ( Šeng-cu ) wg E.P. )
+                                                        ? ( Kchang-si wg A.Č.D. )
       Jung Czeng ( Szy Tsung , Yinzhen )              	1722-1735 ( wg D.Ś. ) ( Shi Zong (Aisin Gioro Yinzhen, Yongzheng, 雍正帝, 胤禛) wg T.O.M.O.C.S.D. )
                                                      	  1723-1735 ( wg V.N.M.S.D. i T.Z.H.K. )
       						     	                                1723-1736 ( wg H.C. )
@@ -5137,6 +5191,7 @@ Chiny
       						     	                                1736-1796 ( wg H.C. ) ( Čchien-lung ( Kao-cung ) wg E.P. )
       			                                            1735-1795 ( C´ien-lung wg T.Z.H.K. )
                                                         ? ( Cian Lung wg K.W.N.I.W.D. )
+                                                        ok.1750 ( Čchien-lung wg A.Č.D. )
       Czia Cz´ing ( Żen Tsung , Yongyan )             	1796-1820 ( wg D.Ś. i V.N.M.S.D. i H.C. ) ( Ren Zong (Aisin Gioro Yongyan, Jiaqing, 嘉庆帝, 颙琰) wg T.O.M.O.C.S.D. )
       Tao Kuang ( Śuan Tsung , Minning )               	1820-1850 ( wg D.Ś. i V.N.M.S.D. ) ( Xuan Zong (Aisin Gioro Minning, Daoguang, 道光帝, 旻宁) wg T.O.M.O.C.S.D. )
       						     	                                1821-1851 ( wg H.C. )
@@ -5145,36 +5200,65 @@ Chiny
       T´ung Czy ( Mu Tsung , Zaichun )                 	1861-1875 ( wg D.Ś. i V.N.M.S.D. ) ( Mu Zong (Aisin Gioro Zaichun, Tongzhi, 同治帝, 载淳) wg T.O.M.O.C.S.D. )
       						     	                                1862-1874 ( wg H.C. )
       Kuang Śu ( Te Tsung , Zaitian )                  	1875-1908 ( wg D.Ś. i V.N.M.S.D. ) ( De Zong (Aisin Gioro Zaitian, Guangxu, 光緒帝, 载湉) wg T.O.M.O.C.S.D. )
-                         	                              1875-1908 ( ?-14.11. ) ( Kuang Sü wg H.C. )
+                         	                              1875-1908 (?-14.11.) ( Kuang Sü wg H.C. )
+                                                        przed 1898-1908 (?.6.-?.11.) ( Kuang-sü wg A.Č.D. )
       Ci Xi                                             1895-1908 ( wg Ř.S.J.Ď.S. )
+                                                        ? ( Cch'-si wg A.Č.D. )
       Śuan T´ung ( Pu Ji , Mo Dai Huang Di )           	1908-1912 ( wg D.Ś. i V.N.M.S.D. )
       						      	                              1908-1911 i 1917 ( ?-? i 1.7.-12.7. ) ( wg H.C. )
                                                         1908-1911 ( Puyi (Aisin Gioro Puyi, Xuantong, 宣统帝, 溥仪) wg T.O.M.O.C.S.D. )
+                                                        ? i ? ( Pchu-i wg A.Č.D. )
       Jüan Sz´kchaj                                    	1912-ok.1915 ( wg V.N.M.S.D. )
-    T´ai P´ing T´ien Kuo
-      Hung Siu-Czüan	                                  1851-1864 ( 11.1.-1.6. ) ( wg H.C. )
-      Hung Fu                	                          1864 ( ?-?.10. ) ( wg H.C. )
+    T´ai P´ing T´ien Kuo ( Tchaj-ping tchien-kuo )
+      Hung Siu-Czüan	                                  1851-1864 (11.1.-1.6.) ( wg H.C. )
+                                                        1851-1864 (?.4.-?.6.) ( Chung Siou-čchüan wg A.Č.D. )
+      Hung Fu                	                          1864 (?-?.10.) ( wg H.C. )
     Ping-Nan Kuo
       Tu Wen-Siu		                                    ok.1860 ( wg H.C. )
-  Republika Chińska
-    Sun Jat-sen           	                            1911-1912 ( 1.1.-12.3 )
-    Jüan Szy-K´ai       	                              1912-1916 ( 12.3.-6.6. )
-    Li Jüan-Hung        	                              1916-1917
-    Feng Kuo-Czang	                                    1917-1918 ( ?-?.10. )
-    Sü Szy-Cz´ang      	                                1918-?
-    Czankajszek          	                              1928-1949 ( 10.10.-? ) ( wg 100.N.V.S. )
+  Republika Chińska ( Čínská republika )
+    Sun Jat-sen           	                            1911-1912 (1.1.-12.3) ( wg H.C. )
+                                                        1912 (?.1.-?.2.) ( Sunjatsen wg A.Č.D. )
+    Jüan Szy-K´ai       	                              1912-1916 (12.3.-6.6.) ( wg H.C. ) [Chinese emperor of Chung Dynasty]
+    premierzy
+      Jüan Š'-kchaj                                     przed 1913-? (?.9.-?) ( wg A.Č.D. ) [Chinese emperor of Chung Dynasty]
+    prezydenci
+      Jüan Š'-kchaj                                     ?-1915 (?-?.12.) ( wg A.Č.D. ) [Chinese emperor of Chung Dynasty]
+  Cesarstwo Chin
+    Dynastie Chung
+      Jüan Š'-kchaj                                     1915-1916 (?.12.-?.3.) ( wg A.Č.D. )
+    Jüan Š'-kchaj                                       1916 (?.3.-?.6.) ( wg A.Č.D. ) [Chinese emperor of Chung Dynasty]
+    Li Jüan-Hung        	                              1916-1917 ( wg H.C. ) [President of Chinese Republic]
+                                                        ?-1917 (?-wiosna) ( Li Jüan-chung wg A.Č.D. )
+    Sü Szy-Cz´ang      	                                1918-? ( wg H.C. )
+    Czankajszek          	                              1928-1949 (10.10.-?) ( wg 100.N.V.S. ) [President of Chinese Republic]
       				                                          ? ( Czang Kaj-szek wg M.Ś. i T.Z.H.K. )
-  Chińska Republika Ludowa
-    Mao Ce-Tung	                                        1949-1976 ( 20.10.-9.9. ) ( wg 100.N.V.S. )
+                                                        1927-? (?.4.-?) ( Čankajšek wg A.Č.D. )
+    premierzy
+      Tuan Čch-žuej                                     1917-? (?.8.-?) ( wg A.Č.D. )
+      Wu Pchej-fu                                       przed 1922-? (wiosna-?) ( wg A.Č.D. )
+    prezydenci
+      Feng Kuo-Czang	                                  1917-1918 (?-?.10.) ( wg H.C. )
+                                                        1917-? ( Feng Kuo-čang wg A.Č.D. )
+      Li Jüan-chung                                     przed 1923-1923 (?.5.-?.6.) ( wg A.Č.D. )
+      Cchao Kchun                                       ? ( wg A.Č.D. )
+      Čankajšek                                         1948-1949 (?.5.-po 22.1.) ( wg A.Č.D. )
+  Jihočínská republika
+    Sunjatsen                                           1917-1925 (?.8.-?.3.) ( wg A.Č.D. ) [Leader of Chinese Republic]
+  Čínská republika ( japonský protektorát )
+    Wang Ťing-wej                                       1940-? (?.3.-?) ( wg A.Č.D. )
+  Che-pej
+  Čínská republika ( Tchaj-wan )
+  Chińska Republika Ludowa ( Čínská lidová republika )
+    Mao Ce-Tung	                                        1949-1976 (20.10.-9.9.) ( wg 100.N.V.S. )
       			         	                                  przed 1954-po 1972 ( wg M.Ś. )
       			         	                                  przed 1956-? ( Mao Tse-tung wg T.Z.H.K. )
       				                                          ? ( Mao Tse-tung wg S.S.F.Z.H. )
                                                         przed 1960-? ( Mao Tse-tung wg F.C.A.R.F. )
                                                         przed 1959-? ( Mao wg K.W.N.I.W.D. )
+                                                        1931-? i 1949-po 1964 (7.11.-? i ?-?.7.) ( Mao Ce-tung wg A.Č.D. )
   Uwagi :
       Przed Szy Huang Ti wszystko oprócz oznaczonego wg V.N.M.S.D.
       Przed dynastią Szang wszystko oprócz oznaczonego wg H.C.
-      Republika Chińska wszystko oprócz oznaczonego wg H.C.
       Wszystko oprócz oznaczonego wg V.N.M.S.D. i D.Ś.
   Bibliografia :
       Dynastie Świata
@@ -5198,6 +5282,7 @@ Chiny
       Kolumbova flotila
       Table of Monarchs of Chinese Successive Dynasties
       Kubiłaj-chan - władca największego imperium w dziejach
+      Atlas čínských dějin
 
 Chios
   Hippoklos		                                          ?
@@ -5233,7 +5318,7 @@ Chorazmowie
 Chorezm
   Szauszafar 			                                      ?
   Abul Abbas Mamun          	                          1009-1017
-  Imperium Chorezmijskie ( Sułtanat Chorezmu )
+  Imperium Chorezmijskie ( Sułtanat Chorezmu , Chorézmská říše )
     Dynastia Anusztigina
       Kutb ad-Din Muhammad I  	                        1098-1128
       ´Ala´ ad-Din Atsyz              	                1128-1156
@@ -5631,7 +5716,7 @@ Państwo Czahamanidów
       Starověká Indie
       Encyklopedie panovníků
 
-Czampa ( Królestwo Czamów )
+Czampa ( Królestwo Czamów , Čampa )
   Džaja Indravarman IV         	                        przed 1177 n.e.-? ( wg K. )
       					                                        ? ( wg E.P. )
   Gangarádža                                            ? ( wg Ř.S.J.D.S. )
@@ -5687,7 +5772,7 @@ Państwo Czasztany
       Starověká Indie
       Říše slova - Jazykové dějiny světa
 
-Chanat Czatagajski ( Chanat Czagataja )
+Chanat Czatagajski ( Chanat Czagataja , Čagatajský chanát )
   Dynastia Czyngizydów
     Czagataj                	                          1227-1242 ( wg I.M. i D.Ś. )
       				                                          ?-1242 ( Čagataj wg E.P. )
@@ -5831,6 +5916,7 @@ Czechy
       Jan Ślepy            	                            1310-1346 ( wg D.Ś. i V.N.M.S.D. ) ( Jan Lucemburský wg D.P.I.R.G. )
       Karol                  	                          1346-1378 ( wg D.Ś. ) ( Karel IV wg D.P.I.R.G. i D.B. i Z.S.A.V.E. )
                                                         ok.1350 ( Karol IV wg Z.N.E. ) [Holy Roman Emperor]
+                                                        przed 1353-? ( Karel IV. wg A.Č.D. )
       Wacław IV         	                              1378-1419 ( wg D.Ś. )
       			   	                                        przed 1409-ok.1419 ( Václav IV wg D.P.I.R.G. )
       			   	                                        ?-1419 ( Václav IV wg Z.S.A.V.E. )
@@ -5864,6 +5950,7 @@ Czechy
       Zapomianie narody Europy
       Wielka wyprawa Księcia Racibora
       Słowianie połabscy - Dzieje zagłady
+      Atlas čínských dějin
 
 Królestwo Czedi
   Bibliografia :
@@ -6426,7 +6513,7 @@ Delfy
   Bibliografia :
       Dzieje Grecji
 
-Sułtanat Delhi
+Sułtanat Delhi ( Dillíjský sultanát )
   Dynastia Mu´izzi
     Ajbak                        	                      1206-1210 ( wg D.Ś. )
                                                       	1206-? ( Kutb-ud-dín Aibak wg S.I. )
@@ -7440,62 +7527,63 @@ Egipt
       Al-Mu´azzam Turanszah	                            1249-1250
       Szadżar ad-Durr                  	                1250
       Al-Aszraf Musa                  	                1250-1254
-    Mamelucy Bahri
-      Al-Mu´izz Ajbak                                   1250-1257 ( wg D.Ś. )
-      					                   		                  1250-1257 ( wg K.V. )
-      Al-Mansur ´Ali I                               		1257-1259
-      Al-Muzaffar Kutuz                              		1259-1260 ( wg D.Ś. )
-      					                    		                ?-1260 ( wg K.V. )
+    Mamlucký sultanát
+      Mamelucy Bahri
+        Al-Mu´izz Ajbak                                 1250-1257 ( wg D.Ś. )
+        					                   		                1250-1257 ( wg K.V. )
+        Al-Mansur ´Ali I                               	1257-1259
+        Al-Muzaffar Kutuz                              	1259-1260 ( wg D.Ś. )
+        					                    		              ?-1260 ( wg K.V. )
                                                         przed 1260-? ( Kutuz wg K.W.N.I.W.D. )
-      Az-Zahir Bajbars I                             	 	1260-1277 ( ?-lipiec ) ( wg K.V. )
-      						                                      1260-1277 ( wg D.Ś. ) ( Bajbars I Záhir wg E.P. )
-      As-Sa´id Baraka Chan                             	1277-1279
-      Al-´Adil Salamisz                              		1279
-      Al-Mansur Kala´un                              		1279-1290 ( ?-koniec ) ( wg K.V. )
-      						                                      1279-1290 ( wg D.Ś. )
-      Al-Aszraf Chalil                               		1290-1293 ( wg D.Ś. )
-      					                    		                1290-po 1291 ( wg K.V. )
-      An-Nasir Muhammad I                             	1293-1294 i 1299-1309 i 1310-1341
-      Al-´Adil Kitbugha                              		1294 -1296
-      Al-Mansur Ladżin                                 	1296-1299
-      Al-Muzaffar Bajbars II                           	1309-1310
-      Al-Mansur Abu Bakr                               	1341
-      Al-Aszraf Kudżuk                                 	1341-1342
-      An-Nasir Ahmad I                                 	1342
-      As-Salih Isma´il                                 	1342-1345
-      Al-Kamil Sza´ban I                               	1345-1346
-      Al-Muzaffar Hadżdżi I                            	1346-1347
-      An-Nasir al-Hasan                                	1347-1351 i 1354 -1361
-      As-Salih Salih                                   	1351-1354
-      Al-Mansur Muhammad II                           	1361-1363
-      Al-Aszraf Sza´ban II                             	1363-1377
-      Al-Mansur ´Ali II                                	1377-1381
-      As-Salih Hadżdżi II ( Al-Muzaffar Hadżdżi II )	  1381-1382 i 1389-1390
-    Mamelucy Burdżi
-      Az-Zahir Barkuk                       	          1382-1389 i 1390-1399
-      An-Nasir Faradż                        	          1399-1405 i 1405-1412
-      Al-Mansur ´Abd al-´Aziz          	                1405
-      Al-´Adil al-Musta´in                  	          1412
-      Al-Mu´ajjad Szajch                    	          1412-1421
-      Al-Muzaffar Ahmad II               	              1421
-      Az-Zahir Tatar                            	      1421
-      As-Salih Muhammad III             	              1421-1422
-      Al-Aszraf Barsbaj                       	        1422-1438
-      Al-´Aziz Jusuf                            	      1438
-      Az-Zahir Jakmak                        	          1438-1453
-      Al-Mansur ´Usman                     	            1453
-      Al-Aszraf Inal                             	      1453-1461
-      Al-Mu´ajjad Ahmad III               	            1461
-      Az-Zahir Chuszkadam                	              1461-1467
-      Az-Zahir Bilbaj                           	      1467
-      Az-Zahir Timurbugha                 	            1467-1468
-      Al-Aszraf Ka´itbaj                       	        1468-1496
-      An-Nasir Muhammad IV             	                1496-1498
-      Az-Zahir Kansuh I                       	        1498-1500
-      Al-Aszraf Dżanbalat                    	          1500-1501
-      Al-´Adil Tumanbaj I                    	          1501
-      Al-Aszraf Kansuh II al-Ghawri	                    1501-1516
-      Al-Aszraf Tumanbaj II                	            1516-1517
+        Az-Zahir Bajbars I                             	1260-1277 ( ?-lipiec ) ( wg K.V. )
+        						                                    1260-1277 ( wg D.Ś. ) ( Bajbars I Záhir wg E.P. )
+        As-Sa´id Baraka Chan                            1277-1279
+        Al-´Adil Salamisz                              	1279
+        Al-Mansur Kala´un                              	1279-1290 ( ?-koniec ) ( wg K.V. )
+        						                                    1279-1290 ( wg D.Ś. )
+        Al-Aszraf Chalil                               	1290-1293 ( wg D.Ś. )
+        					                    		              1290-po 1291 ( wg K.V. )
+        An-Nasir Muhammad I                             1293-1294 i 1299-1309 i 1310-1341
+        Al-´Adil Kitbugha                              	1294 -1296
+        Al-Mansur Ladżin                                1296-1299
+        Al-Muzaffar Bajbars II                          1309-1310
+        Al-Mansur Abu Bakr                              1341
+        Al-Aszraf Kudżuk                                1341-1342
+        An-Nasir Ahmad I                                1342
+        As-Salih Isma´il                                1342-1345
+        Al-Kamil Sza´ban I                              1345-1346
+        Al-Muzaffar Hadżdżi I                           1346-1347
+        An-Nasir al-Hasan                               1347-1351 i 1354 -1361
+        As-Salih Salih                                  1351-1354
+        Al-Mansur Muhammad II                           1361-1363
+        Al-Aszraf Sza´ban II                            1363-1377
+        Al-Mansur ´Ali II                               1377-1381
+        As-Salih Hadżdżi II ( Al-Muzaffar Hadżdżi II )	1381-1382 i 1389-1390
+      Mamelucy Burdżi
+        Az-Zahir Barkuk                       	        1382-1389 i 1390-1399
+        An-Nasir Faradż                        	        1399-1405 i 1405-1412
+        Al-Mansur ´Abd al-´Aziz          	              1405
+        Al-´Adil al-Musta´in                  	        1412
+        Al-Mu´ajjad Szajch                    	        1412-1421
+        Al-Muzaffar Ahmad II               	            1421
+        Az-Zahir Tatar                            	    1421
+        As-Salih Muhammad III             	            1421-1422
+        Al-Aszraf Barsbaj                       	      1422-1438
+        Al-´Aziz Jusuf                            	    1438
+        Az-Zahir Jakmak                        	        1438-1453
+        Al-Mansur ´Usman                     	          1453
+        Al-Aszraf Inal                             	    1453-1461
+        Al-Mu´ajjad Ahmad III               	          1461
+        Az-Zahir Chuszkadam                	            1461-1467
+        Az-Zahir Bilbaj                           	    1467
+        Az-Zahir Timurbugha                 	          1467-1468
+        Al-Aszraf Ka´itbaj                       	      1468-1496
+        An-Nasir Muhammad IV             	              1496-1498
+        Az-Zahir Kansuh I                       	      1498-1500
+        Al-Aszraf Dżanbalat                    	        1500-1501
+        Al-´Adil Tumanbaj I                    	        1501
+        Al-Aszraf Kansuh II al-Ghawri	                  1501-1516
+        Al-Aszraf Tumanbaj II                	          1516-1517
     Dynastia Muhammada ´Alego
       Muhammad Ali	                                    1805-1848 ( wg D.Ś. )
                                                        	1806-1848 ( wg V.N.M.S.D. )
@@ -8081,10 +8169,12 @@ Fideny
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
 
-Filipiny
-  Manuel Luis Quezón y Molina		                        1935-1942
+Filipiny ( Filipíny )
+  Manuel Luis Quezón y Molina		                        1935-1942 ( wg E.P. )
+  Rodrigo Duerte                                        przed 2016-? (lato-?) ( wg A.Č.D. )
   Bibliografia :
       Encyklopedie panovníků
+      Atlas čínských dějin
 
 Filippi ( Filippoj )
 
@@ -10098,7 +10188,7 @@ Idalion
   Bibliografia :
       Foiničané
 
-Państwo Il-Chanów ( Ilchanat Perski )
+Państwo Il-Chanów ( Ilchanat Perski , Ílchanát )
   Dynastia Czyngizydów
     Hülegü                             	                1256-1265 ( wg D.Ś. i I.M. )
                                                         1260-ok.1265 ( wg V.N.M.S.D. )
@@ -10174,11 +10264,13 @@ Indie
   Empire of India
     Victoria of Hannover                                1837-1901 ( wg V.K.T.H.O.H.E. )
   Nehru                                                 ? ( wg F.C.A.R.F. )
+                                                        przed 1959-? (?.4.-?) ( Nehrú wg A.Č.D. )
   Bibliografia :
       Fidel & Che - A Revolutionary Friendship
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Atlas čínských dějin
 
-Indonezja
+Indonezja ( Indonésie )
   Sukarno                                               przed 1960-?
   Bibliografia :
       Fidel & Che - A Revolutionary Friendship
@@ -10722,7 +10814,7 @@ Januammu
   Bibliografia :
       Huryci
 
-Japonia
+Japonia ( Japonsko )
   Okres Yamato
     Jimmu                    	                          40-10 ( wg D.Ś. )
       			  	                                        660-? ( 11.2.-? ) ( wg D.J. )
@@ -11529,7 +11621,7 @@ Kamarina
   Bibliografia :
       Starożytne Cywilizacje
 
-Kambodża
+Kambodża ( Kambodža )
   Królestwo Kambodży
     Eng                           	                    1779-1783 i 1794-1797 ( wg D.Ś. )
       			         	                                  1794 -? ( wg K. )
@@ -11546,9 +11638,11 @@ Kambodża
     Norodom Suramarit	                                  1955-1960 ( wg D.Ś. ) ( Norodom Suramarita wg K. )
   Norodom Sihanouk   	                                  1960-1970
   Pol Pot                       	                      1976-1979 ( wg K. )
+                                                        ?-1978 ( Polpot wg A.Č.D. )
   Bibliografia :
       Dynastie Świata
       Khmerové
+      Atlas čínských dějin
 
 Kameiros
   Bibliografia :
@@ -12083,7 +12177,7 @@ Keš
 
 Khmerowie
   Udajáditjavarman		                                  ? ( wg K. )
-  Królestwo Khmerów w Angkor
+  Królestwo Khmerów w Angkor ( Angkor )
     Dżajawarman II              	                      802-834 ( wg D.Ś. )
                                                         802-850 ( wg R.Z.A.D.D. )
       			            	                              ok.770-ok.834 ( Džajavarman II wg K. i E.P. )
@@ -12278,7 +12372,7 @@ Kirgizi
   Bibliografia :
       Dzieje dawnych Turków
 
-Kirgizja
+Kirgizja ( Kyrgystán )
   Bakiryev                                              ?
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
@@ -12307,9 +12401,10 @@ Kisz ( Kiš )
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
       Gilgameš
 
-Kitanowie
+Kitanowie ( Kitansko )
   Bibliografia :
       Historia Chin
+      Atlas čínských dějin
 
 Kition
   Baalmilk          	                                  ok.450 p.n.e.
@@ -12375,7 +12470,7 @@ Knossos
       Mity pięciu części świata
       Zrození Řecka
 
-Koguryo
+Koguryo ( Kogurjo )
   Kwanggatcho                                           392-413
   Bibliografia :
       Dějiny Japonska
@@ -12509,13 +12604,16 @@ Korea
     Jongdžo			                                        1725-1776 ( wg E.P. )
     Čongdžo			                                        1776-1800 ( wg E.P. )
     Song Ce                            	                ? ( wg D.J. )
-  KLDR
+  Korejská lidově-demokratická republika ( KLDR , Severní Korea )
     Kim Ir-Sen ( Kim Song Ju )	                        1948-1994 ( ?-8.7. ) ( wg 100.N..S. )
+                                                        przed 1950-? (25.6.-?) ( Kim Ir-sen wg A.Č.D. )
     Kim Song il                            	            1994-? ( wg 100.N.V.S. )
+  Korejská republika ( Jižní Korea )
   Bibliografia :
       100 nejvlivnějších vojevůdců světa
       Dějiny Japonska
       Encyklopedie panovníků
+      Atlas čínských dějin
 
 Królestwo Korio ( Kao Li )
   Dynastia Wang
@@ -12950,6 +13048,7 @@ Kościół
     Innocenty IV ( Sinibaldo de´ Fieschi )   		        1241-1254 ( wg V.N.M.S.D. )
                                                         1243-1254 ( wg Tapsella )
       							                                    ? ( Innocenc IV wg D.B. i Z.S.A.V.E. ) ( Innocent IV wg V.K.T.H.O.H.E. ) ( wg K.W.N.I.W.D. )
+                                                        przed 1245-? ( Inocenc IV. wg A.Č.D. )
     Aleksander IV ( Rinaldo di Segni )                 	1254-1261 ( wg Tapsella i V.N.M.S.D. )
                                                         przed 1254-po 1257 (?.12.-lato) ( wg Z.N.E. )
     Urban IV ( Jacques  Pantaleon )                    	1261-1264 ( wg V.N.M.S.D. i D.B. )
@@ -12982,10 +13081,13 @@ Kościół
     Klement V ( Raymond Bertrand de Got )            	  1303-1313 ( wg V.N.M.S.D. )
                                                         1305-1316 ( wg Tapsella )
                                                         1305-? ( Clement V wg V.K.T.H.O.H.E. )
+                                                        ? ( Klement V. wg A.Č.D. )
     Jan XXII ( Jacques Dueze )                        	1316-1334 ( wg Tapsella i V.N.M.S.D. )
                                                         przed 1320-? ( wg M.N.C. )
+                                                        przed 1316-? ( Jan XXII. wg A.Č.D. )
     Mikołaj V ( Pietro di Corbara )                    	1328-1330 ( wg Tapsella )
-    Benedykt XII ( Jacques Fournier )                 	1334-1342
+    Benedykt XII ( Jacques Fournier )                 	1334-1342 ( wg Tapsella i V.N.M.S.D. )
+                                                        przed 1338-? (?.12.-?) ( Benedikt II. wg A.Č.D. )
     Klement VI ( Pierre Roger de Beaufort )           	1342-1352
     Innocenty VI ( Etienne Aubert )                    	1352-1362 ( wg Tapsella i V.N.M.S.D. )
       							                                    ? ( Innocenc VI wg D.B. )
@@ -13136,6 +13238,7 @@ Kościół
       Zapomianie narody Europy
       Wielka wyprawa Księcia Racibora
       Słowianie połabscy - Dzieje zagłady
+      Atlas čínských dějin
 
 Kotyora
   Bibliografia :
@@ -14448,7 +14551,7 @@ Macedonia ( Makedonie )
                                                         ok.333 ( wg F. )
 				    	                                          przed 334-po 332 ( wg D.R. )
 				    	                                          336-? ( wg S.C. )
-				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. ) ( Aleksander Macedoński wg Z.N.E. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. )
+				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. ) ( Aleksander Macedoński wg Z.N.E. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. ) ( Alexandr Makedonský wg A.Č.D. )
 				    	                                          przed 332-?  ( Aleksander Macedoński wg B.M. )
                                                         przed 324-323 ( ?-10.6. ) ( Alexandr Veliký wg T.H.S. )
 					                                              przed 332-323 ( Alexandr Veliký wg Ž.V.Ř.S. )
@@ -14540,11 +14643,9 @@ Macedonia ( Makedonie )
     Andriskos                              	            przed 148-? ( wg S.H. )
                                                         przed 152-po 148 ( wg K.1.1.P.N.E. )
   Cesarstwo Macedońskie
-    Samuel                           	                  976-1014
-    Gabriel Radomir		                                  1014-1015
-    Iwan Władysław            	                        1015-1018
-  Uwagi :
-      Cesarstwo Macedońskie wg D.Ś.
+    Samuel                           	                  976-1014 ( wg D.Ś. )
+    Gabriel Radomir		                                  1014-1015 ( wg D.Ś. )
+    Iwan Władysław            	                        1015-1018 ( wg D.Ś. )
   Bibliografia :
       Antické Černomoří
       Dynastie Świata
@@ -14582,6 +14683,7 @@ Macedonia ( Makedonie )
       Kartagina 149-146 p.n.e.
       Krassus - Polityk niespełnionych ambicji
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Atlas čínských dějin
 
 Machalata
   Bibliografia :
@@ -14725,7 +14827,7 @@ Malawia
   Bibliografia :
       Starověká Indie
 
-Malezja
+Malezja ( Malajsie )
   Bibliografia :
       Mocarstwa Świata
       Říše slova - Jazykové dějiny světa
@@ -14843,12 +14945,14 @@ Manau ( Clackmannan )
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Mandżuria
-  Nurhaczi             		                              ?
-  Mandżukuo
-    P´u-i ( Süan T´ung )	                              1931 n.e.-?
+Mandżuria ( Mandžusko )
+  Nurhaczi             		                              ? ( wg H.C. )
+  Mandżukuo ( Mandžuské císařství )
+    P´u-i ( Süan T´ung )	                              1931 n.e.-? ( wg H.C. )
+                                                        1934-? (?.3.-?) ( Pchu-i wg A.Č.D. )
   Bibliografia :
       Historia Chin
+      Atlas čínských dějin
 
 Mannai ( Mannea )
   Ullusunu                                              przed 716 p.n.e.-?
@@ -14898,7 +15002,7 @@ Marad
   Bibliografia :
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
-Marathowie
+Marathowie ( Maráthská konfederace )
   Mádhava Ráo I 		                                    1761-1772
   Bibliografia :
       Encyklopedie panovníků
@@ -15854,15 +15958,16 @@ Księstwo Monako
       Dynastie Świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Mongolia
+Mongolia ( Mongolsko )
   Tołuj                                                 1227-1231
+  Mongolská lidová republika
   Bibliografia :
       Kubiłaj-chan - władca największego imperium w dziejach
 
 Mongołowie
-  Kabuł-kahan		                                        ?
-  Ambakaj-kahan		                                      ?
-  Kutuła-kahan		                                      ?
+  Kabuł-kahan		                                        ? ( wg D.Ś. )
+  Ambakaj-kahan		                                      ? ( wg D.Ś. )
+  Kutuła-kahan		                                      ? ( wg D.Ś. )
   Imperium Mongołów
     Czyngis Chan ( Temudżyn )                           1206-1227 ( wg D.Ś. i K.V. i H.C. ) ( Czyngis-chan wg T.Z.H.K. ) ( Borjigin Temujin (Genghis Khan) wg T.O.M.O.C.S.D. )
       			    	                                      ?-1227 ( wg 100.N.V.S. )
@@ -15872,37 +15977,39 @@ Mongołowie
       			    	                                      przed 1224 -? ( Čingischán wg Z.S.A.V.E. )
       				                                          ?-1227 ( Čingischán wg E.P. )
                                                         przed 1211-? ( Čingischán wg Ř.S.J.Ď.S. )
-                                                        1206-1227 (?-lato) ( Czyngis-chan wg K.W.N.I.W.D. )
+                                                        1206-1227 (?-lato) ( Czyngis-chan wg K.W.N.I.W.D. ) ( Temüdžin (Čingischán) wg A.Č.D. )
     Tolui                                               1228-1229 ( wg T.O.M.O.C.S.D. )
     Ögedaj                     	                        1227-1245 ( wg D.Ś. )
       			    	                                      1229-1241 ( Ogotaj wg H.C. ) ( Ögedej ( Ogodej ) wg E.P. ) ( Borjigin Ogedei wg T.O.M.O.C.S.D. )
       			    	                                      1228-1241 ( Ögödej wg T.Z.H.K. )
                                                         1227-1241 (?-11.12.) ( Ogedej wg K.W.N.I.W.D. )
+                                                        przed 1232-po 1239 ( Ögödej (Ögedej) wg A.Č.D. )
     Toregene		                                        ? ( wg E.P. )
                                                         1242-1246 ( Toregene Khatun wg T.O.M.O.C.S.D. )
     Küjük ( Güjük )	                                    1245-1251 ( wg D.Ś. )
       				                                          1246-1248 ( Güjüg ( Gujuk ) wg E.P. )
                                                         1246-1249 ( Borjigin Guyuk wg T.O.M.O.C.S.D. )
                                                         1246-1248 (wiosna-?.4.) ( Gujuk wg K.W.N.I.W.D. )
+                                                        ? ( wg A.Č.D. )
     Oghul Ghaymish                                      1249-1251 ( wg T.O.M.O.C.S.D. )
     Möngke                    	                        1251-1260 ( wg D.Ś. ) ( Borjigin Mongke wg T.O.M.O.C.S.D. )
       			     	                                      ?-1260 ( wg K.V. )
       			     	                                      1251-1259 ( Mangu wg H.C. )
       				                                          ? ( wg E.P. )
                                                         1251-1259 (?-?.8.) ( Mongke wg K.W.N.I.W.D. )
+                                                        przed 1251-1259 (?-lato) ( wg A.Č.D. )
     Kubiłaj                     	                      1259-? ( wg H.C. )
       			     	                                      przed 1266-? ( wg D.J. )
       				                                          1260-? ( Chubilaj ( Kublaj-chán ) wg E.P. )
                                                         ? ( Kublajchán wg Ř.S.J.Ď.S. )
                                                         1260-1294 ( Borjigin Kublai (Kublai Khan) wg T.O.M.O.C.S.D. )
                                                         1260-1294 (?.5.-18.2.) ( wg K.W.N.I.W.D. )
+                                                        1260-po 1293 (?.5.-?) ( wg A.Č.D. )
     Arig Boge                                           1260-1264 ( Arig Mocny wg K.W.N.I.W.D. )
     Temur                                               przed 1301-? (?.9.-?) ( wg K.W.N.I.W.D. )
     Toktoa                                              ? ( wg K.W.N.I.W.D. )
     Togon Temur                                         przed 1368-? ( wg K.W.N.I.W.D. )
     Dajan                                               ? ( Dajuan wg K.W.N.I.W.D. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Velká nástěnná mapa světových dějin
       Křížové výpravy
@@ -15921,6 +16028,7 @@ Mongołowie
       Table of Monarchs of Chinese Successive Dynasties
       Kubiłaj-chan - władca największego imperium w dziejach
       Zapomianie narody Europy
+      Atlas čínských dějin
 
 County of Montbéliard
   Bibliografia :
@@ -16223,7 +16331,7 @@ Państwo Nan Jüe
   Bibliografia :
       Historia Chin
 
-Nanczao ( Nan-czao )
+Nanczao ( Nan-czao , Nan-čao )
   Księstwo Nanczao
     Kolofeng			                                      ok.753 n.e.
     Imosung			                                        przed 793-?
@@ -16434,7 +16542,7 @@ Duchy of Neopatria ( Duchy of Neopatros )
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Królestwo Nepalu
+Królestwo Nepalu ( Nepál )
   Dynastia Szah
     Prithwi Narajan Szah		                            1769-1775
     Pratap Singh                  	                    1775-1777
@@ -17226,12 +17334,14 @@ Oea
   Bibliografia :
       Kartagina 149-146 p.n.e.
 
-Ojraci
+Ojraci ( Orjati )
   Esen              		                                1440-1455 ( wg T.Z.H.S. )
+                                                        ? ( wg A.Č.D. )
   Bátur-chuntajdži		                                  1635-1654 ( wg E.P. )
   Bibliografia :
       Tybet - zarys historii kultury
       Encyklopedie panovníků
+      Atlas čínských dějin
 
 Ojtaje
   Bibliografia :
@@ -17353,7 +17463,7 @@ Osagowie
   Bibliografia :
       Czarne wampuny głoszą wojnę
 
-Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire )
+Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát )
   Dynastia Osmanli
     Osman I                          	                  1280-1324 ( wg D.Ś. )
                                                         1281-1326 ( wg V.N.M.S.D. i D.B. )
@@ -17563,7 +17673,7 @@ Pajonia
   Bibliografia :
       Dzieje Grecji
 
-Pakistan
+Pakistan ( Páakistán )
   Bibliografia :
       Mocarstwa Świata
 
@@ -18052,7 +18162,7 @@ Królestwo Persis
   Bibliografia :
       Sedm Kleopater
 
-Persja ( Iran , Persie , Peršané , Persia , Peržania )
+Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
   Achemenes                               	            ? ( wg S.B.W. i S.C. )
   Teispes                                     	        ok.675-ok.640 ( wg S.B.W. )
       				     	                                    ? ( Teušpa wg A.O.M.S.K.R. )
@@ -18452,7 +18562,7 @@ Pokasettowie
   Bibliografia :
       Wielcy Indianie Ameryki Północnej
 
-Polska
+Polska ( Polsko )
   Polanie
     Dynastia Piastów ( Dynastia piastowska )
       Piast                  		                        842-861 ( wg V.N.M.S.D. )
@@ -19177,7 +19287,7 @@ Roroni
   Bibliografia :
       Ostrovy lidojedů
 
-Rosja ( Russia )
+Rosja ( Russia , Rusko )
   Carstwo Rosji
     Dynastia Rurykowiczów
       Iwan IV Groźny                   	                1547-1584 ( wg V.N.M.S.D. i D.Ś. )
@@ -20334,7 +20444,7 @@ Rzym
     								                                    475-476 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i S.C. )
     								                                    ?-476 ( wg D.R. i D.P.I.R.G. i D.B. i Ř.S.J.Ď.S. ) ( Romulus Augustus wg Ř.V.G. )
     								                                    ? ( wg H. ) ( Romulus Augustulus wg V.K.T.H.O.H.E. )
-    Cesarstwo Wschodniorzymskie ( Byzantine Empire )
+    Cesarstwo Wschodniorzymskie ( Byzantine Empire , Byzantská říše )
       Dynastia Teodozjusza
         Flavius Arcadius ( Arkadiusz )            	    395-408 ( 17.1.-1.5. ) ( wg P.C.R. i K.R.I.C.R. )
     					         		                              395-408 ( wg V.N.M.S.D. , R.Z.A.D.D. , D.Ś. , A.Č. i Tapsella i D.R. ) ( Arkadios wg D.B. )
@@ -20555,7 +20665,7 @@ Rzym
         Manuel I                	                      1143-1180  ( wg V.N.M.S.D. , D.Ś.  i Tapsella ) ( Manuel I Komnenos wg D.B. )
     			        	                                    1143-1180 ( ?-24.9. ) ( wg K.V. )
     			        	                                    przed 1146-po 1180 ( Manuel I Komnenos wg F.B.C.A.R. )
-    				                                            ? ( Manuel I Komnénos wg E.P. )
+    				                                            ? ( Manuel I Komnénos wg E.P. ) ( Manuel I. wg A.Č.D. )
         Aleksy II               	                      1180-1183 ( wg D.Ś. i Tapsella ) ( Alexios II Komnenos wg D.B. )
                                                    	    1180-1185 ( wg V.N.M.S.D. )
         Andronik I             	                        1183-1185 ( wg D.Ś. i Tapsella ) ( Andronikos I Komnenos wg D.B. )
@@ -20665,6 +20775,7 @@ Rzym
       Kartagina 149-146 p.n.e.
       Krassus - Polityk niespełnionych ambicji
       Słowianie połabscy - Dzieje zagłady
+      Atlas čínských dějin
 
 Sabaudia ( Savoie, Savoia )
   Hrabstwo Sabaudii ( County of Sabaudia, County of Savoy, County of Savoia )
@@ -21462,7 +21573,7 @@ Królestwo Sewilli ( Ta´ifa Sewilli )
       Dynastie Świata
       Maurové a Evropa
 
-Si Hia ( Tanguci , Kaszin , Cz´iang , Si Sia , Western Xia Dynasty )
+Si Hia ( Tanguci , Kaszin , Cz´iang , Si Sia , Western Xia Dynasty , Tanguti , Říše Sia , Říše Si-sia , Dynastie Sia )
   Jing Zong ( Li Yuanhao )                              1038-1048 ( wg T.O.M.O.C.S.D. )
                                                         ok.1050 ( Li Juan-hao wg K.W.N.I.W.D. )
   Yi Zong ( Li Liangzuo )                               1048-1067 ( wg T.O.M.O.C.S.D. )
@@ -21475,10 +21586,12 @@ Si Hia ( Tanguci , Kaszin , Cz´iang , Si Sia , Western Xia Dynasty )
   Shen Zong ( Li Zunxu )                                1211-1223 ( wg T.O.M.O.C.S.D. )
   Xian Zong ( Li Dewang )                               1223-1226 ( wg T.O.M.O.C.S.D. )
   Li Xian                                               1226-1227 ( wg T.O.M.O.C.S.D. )
+                                                        ?-1226 (?-zima) ( Li Sien wg A.Č.D. )
   Bibliografia :
       Imperium Mongolskie
       Table of Monarchs of Chinese Successive Dynasties
       Kubiłaj-chan - władca największego imperium w dziejach
+      Atlas čínských dějin
 
 Siannu
   Adonibaal                                             ok.852 p.n.e.
@@ -21558,6 +21671,7 @@ Silla
   Bibliografia :
       Historia Chin
       Říše slova - Jazykové dějiny světa
+      Atlas čínských dějin
 
 Simanum ( Simarnum )
   Puszam                                                ?
@@ -21592,7 +21706,7 @@ Singapur
   Bibliografia :
       Říše slova - Jazykové dějiny světa
 
-Singosari ( Madżapahit , Imperium Madhjapahit )
+Singosari ( Madżapahit , Imperium Madhjapahit , Madžapahit )
   Ken Arok ( Radžasa ) 			                            ?-1227 n.e. ( Angrok wg E.P. )
                                                         1222 n.e.-? ( Kena Aroka (Ken Aroka, Kena Arok) wg K.W.N.I.W.D. )
                                                         1222-1227 ( Rádžasa wg Ř.S.J.D.S. )
@@ -21959,11 +22073,11 @@ Sri Lanka ( Cejlon )
       Encyklopedie panovníků
       Mity pięciu części świata
 
-Stany Zjednoczone Ameryki Północnej
+Stany Zjednoczone Ameryki Północnej ( Spojené státy americké )
   George Washington	       	                            1789-1797 ( ?.2.-? ) ( wg 100.N.V.S. )
       					                                        ? ( wg V.N.M.S.D. i Ř.S.J.Ď.S. i V.K.T.H.O.H.E. )
       			                                            przed 1792 ( Jerzy Waszyngton wg W.I.A.P. )
-  I. Adams				                                      ?
+  I. Adams				                                      ? ( wg V.N.M.S.D. )
   Thomas Jefferson		                                  przed 1801-? ( wg O.A. )
       				       	                                  ? ( wg V.N.M.S.D. )
                                                         przed 1803-? ( wg Ř.S.J.Ď.S. )
@@ -21972,11 +22086,11 @@ Stany Zjednoczone Ameryki Północnej
   James Monroe                		                      1817-1825 ( wg O.A. )
       				                                          przed 1817-? ( wg W.I.A.P. )
                                                         ? ( wg Ř.S.J.Ď.S. )
-  John Quincy Adams		                                  ?
+  John Quincy Adams		                                  ? ( wg V.N.M.S.D. )
   Andrew Jackson              		                      ok.1832 ( wg 100.N.V.S. )
       					                                        1829-po 1836 ( wg W.I.A.P. )
       					                                        ? ( wg V.N.M.S.D. i V.R.M. )
-  Martin van Buren			                                ?
+  Martin van Buren			                                ? ( wg V.N.M.S.D. )
   William Henry Harrison		                            ? ( wg V.N.M.S.D. i W.I.A.P. )
   John Tyler			                                      ? ( wg V.N.M.S.D. i W.I.A.P. )
   James Knox Polk	                                      ok.1846 ( wg 100.N.V.S. )
@@ -21985,7 +22099,7 @@ Stany Zjednoczone Ameryki Północnej
                                                         przed 1845-po 1846 ( wg Ř.S.J.Ď.S. )
   Zachary Taylor		      	                            1849-1851 ( wg W.I.A.P. )
       					                                        ? ( wg V.N.M.S.D. )
-  M.Filmore			                                        ?
+  M.Filmore			                                        ? ( wg V.N.M.S.D. )
   F. Pierce				                                      ok.1852 ( wg 100.N.V.S. )
       					                                        ? ( wg V.N.M.S.D. )
   James Buchanan		                                    przed 1858-? ( wg W.I.A.P. )
@@ -21993,17 +22107,17 @@ Stany Zjednoczone Ameryki Północnej
   Abraham Lincoln	 		                                  przed 1861-po 1864 ( wg 100.N.V.S. )
       				  	                                      przed 1862-? ( wg W.I.A.P. )
       					                                        ? ( wg V.N.M.S.D. i V.R.M. i O.A.O.C.E. )
-  A. Johnson			                                      ?
+  A. Johnson			                                      ? ( wg V.N.M.S.D. )
   Ulysses Simpson Grant       	                        1867-1875 ( wg 100.N.V.S. )
       				                                          przed 1871-? ( wg W.I.A.P. )
       					                                        ? ( wg V.N.M.S.D. i V.R.M. )
                                                         przed 1873-po 1875 ( ?.6.-? ) ( wg I.N.G.S. )
-  R. B. Hayes			                                      ?
-  I. A. Garfield			                                  ?
-  C. A. Arthur			                                    ?
+  R. B. Hayes			                                      ? ( wg V.N.M.S.D. )
+  I. A. Garfield			                                  ? ( wg V.N.M.S.D. )
+  C. A. Arthur			                                    ? ( wg V.N.M.S.D. )
   Stephen Grover Cleveland	                            przed 1888-? ( wg W.I.A.P. )
       				                                          ? ( wg V.N.M.S.D. )
-  B. Harrison			                                      ?
+  B. Harrison			                                      ? ( wg V.N.M.S.D. )
   W. McKinley                    		                    ?-1901 ( wg V.N.M.S.D. )
       					                                        ? ( wg M.Ś. )
   Theodore Roosevelt             	                      1901-1909 ( wg V.N.M.S.D. )
@@ -22011,14 +22125,14 @@ Stany Zjednoczone Ameryki Północnej
       					                                        ? ( wg W.I.A.P. )
       				        	                                przed 1906-po 1907 ( wg M.Ś. )
                                                         przed 1903-? ( wg I.N.G.S. )
-  William H. Taft                         	            1909-1913
+  William H. Taft                         	            1909-1913 ( wg V.N.M.S.D. )
   Thomas Woodrow Wilson       	                        1913-1921 ( wg V.N.M.S.D. )
       				        	                                ok.1917 ( wg 100.N.V.S. )
       					                                        przed 1917-? ( wg B.O.R.H. )
                                                         przed 1917-po 1918 (?.4.-24.12.) ( Woodrow Wilson wg V.K.T.H.O.H.E. )
-  Warren C. Harding                  	                  1921-1923
-  John Calvin Coolidge              	                  1923-1929
-  Herbert C. Hoover                   	                1929-1933
+  Warren C. Harding                  	                  1921-1923 ( wg V.N.M.S.D. )
+  John Calvin Coolidge              	                  1923-1929 ( wg V.N.M.S.D. )
+  Herbert C. Hoover                   	                1929-1933 ( wg V.N.M.S.D. )
   Franklin Delano Roosevelt      	                      1933-1945 ( wg V.N.M.S.D. )
       				        	                                przed 1939-po 1942 ( wg 100.N.V.S. )
       				        	                                przed 1939-po 1943 ( wg 100.N.U.W. )
@@ -22029,6 +22143,7 @@ Stany Zjednoczone Ameryki Północnej
       				        	                                przed 1946-po 1948 ( wg M.Ś. )
                                                         przed 1952-? ( wg F.C.A.R.F. )
                                                         ? ( Truman wg H.O.E. )
+                                                        przed 1948-? (?.11.-?) ( wg A.Č.D. )
   Dwight David Eisenhower        	                      1953-1961 ( wg V.N.M.S.D. i 100.N.V.S. )
       				         	                                przed 1953-po 1957 ( wg M.Ś. )
                                                         przed 1959-1961 ( ?.4.-20.1. ) ( wg F.C.A.R.F. )
@@ -22048,12 +22163,10 @@ Stany Zjednoczone Ameryki Północnej
   Ronald Reagan                     	                  1981-1989 ( wg V.N.M.S.D. )
       				      	                                  1981-? ( wg M.Ś. )
                                                         ? ( wg V.K.T.H.O.H.E. )
-  George Bush                         	                1989-?
-  Bill Clinton			                                    ?
+  George Bush                         	                1989-? ( wg V.N.M.S.D. )
+  Bill Clinton			                                    ? ( wg V.N.M.S.D. )
   Konfederacja
     Jefferson Davis              	                      ok.1862 n.e. ( wg 100.N.V.S. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg V.N.M.S.D.
   Bibliografia :
       Velká nástěnná mapa světových dějin
       100 nejvlivnějších vojevůdců světa
@@ -22070,6 +22183,7 @@ Stany Zjednoczone Ameryki Północnej
       Fidel & Che - A Revolutionary Friendship
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Heroes of Endurance
+      Atlas čínských dějin
 
 Stodoranie ( Hawelanie , Hawolanie , Heveller )
   Księstwo Stodorańskie
@@ -23104,6 +23218,7 @@ Państwo Śungów
   Dynastia luksemburska
     Karol IV                              	            1346-1378 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Karel IV wg D.B. )
                                                         ok.1350 ( wg Z.N.E. )
+                                                        przed 1353-? ( Karel IV. wg A.Č.D. )
     Günther ze Schwarzburga	                            1349 ( wg D.Ś. i Tapsella )
     Wacław                                	            1378-1400 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
                                                         ? ( Václav IV wg Z.S.A.V.E. )
@@ -23202,6 +23317,7 @@ Państwo Śungów
       Zapomianie narody Europy
       Wielka wyprawa Księcia Racibora
       Słowianie połabscy - Dzieje zagłady
+      Atlas čínských dějin
 
 Ta Jüe
   Bibliografia :
@@ -23221,7 +23337,7 @@ Tabaristan
 
 Tabarsaran
 
-Tadżykistan
+Tadżykistan ( Tádžikistán )
   Bibliografia :
       Svět helénismu
 
@@ -23285,7 +23401,7 @@ Tajjowie
   Bibliografia :
       Rýžoviště zlata a doly drahokamů
 
-Tajlandia
+Tajlandia ( Siam , Thajsko )
   Taksin                       		                      ? ( wg K. )
   Sukhothai
   Ayutthaya
@@ -23536,7 +23652,7 @@ Timbuktu
   Bibliografia :
       Mocarstwa Świata
 
-Imperium Timurydów ( Państwo Tamerlana )
+Imperium Timurydów ( Państwo Tamerlana , Tímúrovská říše )
   Dynastia Timurydów
     Timur Kulawy ( Tamerlan )	                          1370-1405 ( ?-18.2. ) ( wg S.A. )
       				         	                                1370-1405 ( wg D.Ś. ) ( Timur Lenk wg D.B. )
@@ -24075,7 +24191,7 @@ Wielkie Księstwo Twerskie
       Dynastie Świata
       Encyklopedie panovníků
 
-Tybet ( T´ufan )
+Tybet ( T´ufan , Tibet )
   Królestwo Tybetu
     Geser							                                  ? ( wg D.D.T. )
     gNam-ri-slon-mc´an ( gNam-ri-srong-brcan )		      ok.600-ok.627 ( wg T.Z.H.K. )
@@ -24083,6 +24199,7 @@ Tybet ( T´ufan )
     Srong-bcan-sgam-po                                  ok.627-649 ( wg T.Z.H.K. )
       					    			                              617-649 ( wg H.C. )
       								                                  629-po 644 ( Srongcangampo wg D.D.T. )
+                                                        ok.630 ( Jongcän Gampo wg A.Č.D. )
     Gungsong Gungcäna					                          641-646 ( wg E.P. )
     Mang-slon-mang-rcan                          			  649-676 ( wg T.Z.H.K. )
       				                                          ?-679 ( Mangromangcan wg D.D.T. )
@@ -24103,30 +24220,29 @@ Tybet ( T´ufan )
       								                                  ? ( wg E.P. )
       								                                  839-842 ( wg D.D.T. )
     Ösung							                                  843-905 ( wg E.P. )
-  Sa-skja-pandita                     				          1249-1253
-  ´P´ags-pa-bla-ma                  				            1253-1280
-  Bjang-cz´ub-rgjal-mc´an              				          ?
-  Seng-ge-rnam-rgjal					                          ?-1620
-  Karma-bstan-skjong					                          1623-1642
-  Dalajlama V ( Ngag-dbang-blo-bzang-rgja-mc´o )	      1642-1682
-  Dalajlama VI ( C´angs-dbjangs-rgja-mc´o ) 		        1683-1707
-  Dalajlama VII ( bsKal-bzang-rgja-mc´o )			          1708-1757
-  P´o-lha-nas ( P´o-lha-bsod-nams-stobs-rgjasa )		    1728-1747
-  ´Gjur-med-rnam-rgjala					                        1747-1750
-  Dalajlama VIII ( ´Dżam-dpal-rgja-ma )			            1758-?
-  Dalajlama IX ( Rtogs-rgja-mc´o )				              1805-?
-  Dalajlama X ( K´rims-rgja-mc´o )				              1816-?
-  Dalajlama XI ( mK´as-grub-rgja-mc´o )			            1838-?
-  Dalajlama XII ( ´P´rin-las-rgja-mc´o )			          1856-?
-  Dalajlama XIII ( T´ub-bstan-rgja-mc´o )			          1870-1933
-  Dalajlama XIV ( bsTan-´dzin-rgja-mc´o ) 			        1950-po 1959
-  Uwagi :
-      Wszystko oprócz oznaczonego wg T.Z.H.K.
+  Sa-skja-pandita                     				          1249-1253 ( wg T.Z.H.K. )
+  ´P´ags-pa-bla-ma                  				            1253-1280 ( wg T.Z.H.K. )
+  Bjang-cz´ub-rgjal-mc´an              				          ? ( wg T.Z.H.K. )
+  Seng-ge-rnam-rgjal					                          ?-1620 ( wg T.Z.H.K. )
+  Karma-bstan-skjong					                          1623-1642 ( wg T.Z.H.K. )
+  Dalajlama V ( Ngag-dbang-blo-bzang-rgja-mc´o )	      1642-1682 ( wg T.Z.H.K. )
+  Dalajlama VI ( C´angs-dbjangs-rgja-mc´o ) 		        1683-1707 ( wg T.Z.H.K. )
+  Dalajlama VII ( bsKal-bzang-rgja-mc´o )			          1708-1757 ( wg T.Z.H.K. )
+  P´o-lha-nas ( P´o-lha-bsod-nams-stobs-rgjasa )		    1728-1747 ( wg T.Z.H.K. )
+  ´Gjur-med-rnam-rgjala					                        1747-1750 ( wg T.Z.H.K. )
+  Dalajlama VIII ( ´Dżam-dpal-rgja-ma )			            1758-? ( wg T.Z.H.K. )
+  Dalajlama IX ( Rtogs-rgja-mc´o )				              1805-? ( wg T.Z.H.K. )
+  Dalajlama X ( K´rims-rgja-mc´o )				              1816-? ( wg T.Z.H.K. )
+  Dalajlama XI ( mK´as-grub-rgja-mc´o )			            1838-? ( wg T.Z.H.K. )
+  Dalajlama XII ( ´P´rin-las-rgja-mc´o )			          1856-? ( wg T.Z.H.K. )
+  Dalajlama XIII ( T´ub-bstan-rgja-mc´o )			          1870-1933 ( wg T.Z.H.K. )
+  Dalajlama XIV ( bsTan-´dzin-rgja-mc´o ) 			        1950-po 1959 ( wg T.Z.H.K. )
   Bibliografia :
       Tybet - zarys historii kultury
       Historia Chin
       Encyklopedie panovníků
       Dzieje dawnych Turków
+      Atlas čínských dějin
 
 Królestwo Celtów w Tyli ( Tylenoi , Tylici )
   Komontorios		                                        ok.278 p.n.e. ( wg A.Č. )
@@ -24220,7 +24336,7 @@ Ugarit
       Huryci
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
-Ujgurzy
+Ujgurzy ( Ujgursko )
   Szycien-sycin		                                      ?
   Pusa			                                            przed 628 n.e.-?
   T'umitu			                                          przed 631-?
@@ -24644,7 +24760,7 @@ Uzbecy
       Serce Azji
       Encyklopedie panovníků
 
-Uzbekistan
+Uzbekistan ( Uzbekistán )
   Bibliografia :
       Svět helénismu
 
@@ -25800,47 +25916,47 @@ Zirih-Garan
 Państwo Zirydów
   Bibliografia : Říše slova - Jazykové dějiny světa
 
-Złota Orda ( Chanat Kipczacki, Golden Horde )
+Złota Orda ( Chanat Kipczacki, Golden Horde , Zlatá horda , Kipčak )
   Dynastia Czyngizydów
     Batu                      	                        1227-1255 ( wg D.Ś. i I.M. )
   				                                              przed 1241-po 1248 ( Batu-chan wg E.P. )
                                                         przed 1236-po 1248 (?-?.4.) ( wg K.W.N.I.W.D. )
                                                         ok.1250 ( Batuchan wg Z.N.E. )
-    Sartak                    	                        1255-1256
-    Ulagczy                	                            1256-1257
+                                                        1242-? ( Bátú (Batú) wg A.Č.D. )
+    Sartak                    	                        1255-1256 ( wg D.Ś. i I.M. )
+    Ulagczy                	                            1256-1257 ( wg D.Ś. i I.M. )
     Berke                    	                          1257-1267 ( wg D.Ś. )
                                               	        1257-1266 ( wg I.M. )
                                                         przed 1260-po 1264 ( wg K.W.N.I.W.D. )
     Mőngke Temür	                                      1267-1280 ( wg D.Ś. i I.M. )
                                                         ? ( Mongke Temur wg K.W.N.I.W.D. )
-    Tőde Mőngke        	                                1280-1287
-    Tőle Buka              	                            1287-1291
+    Tőde Mőngke        	                                1280-1287 ( wg D.Ś. i I.M. )
+    Tőle Buka              	                            1287-1291 ( wg D.Ś. i I.M. )
     Tokta                     	                        1291-1312 ( wg D.Ś. )
                                               	        1290-1312 ( wg I.M. )
     Őzbeg                    	                          1312-1341 ( wg D.Ś. )
                                               	        1312-1342 ( wg I.M. )
     Tyny Beg               	                            1341-1342 ( wg D.Ś. )
-    Dżany Beg             	                            1342-1357
-    Berdi Beg              	                            1357-1359
-    Kulpa                     	                        1359-1360
-    Newruz                  	                          1360
-    Chidr                      	                        1360-1361
-    Temür Kodża         	                              1361
-    Urus                       	                        1374-1375
-    Tuktakija               	                          1375
-    Temür Melik         	                              1375-1377
+    Dżany Beg             	                            1342-1357 ( wg D.Ś. i I.M. )
+    Berdi Beg              	                            1357-1359 ( wg D.Ś. i I.M. )
+    Kulpa                     	                        1359-1360 ( wg D.Ś. i I.M. )
+    Newruz                  	                          1360 ( wg D.Ś. i I.M. )
+    Chidr                      	                        1360-1361 ( wg D.Ś. i I.M. )
+    Temür Kodża         	                              1361 ( wg D.Ś. i I.M. )
+    Urus                       	                        1374-1375 ( wg D.Ś. i I.M. )
+    Tuktakija               	                          1375 ( wg D.Ś. i I.M. )
+    Temür Melik         	                              1375-1377 ( wg D.Ś. i I.M. )
     Toktamisz             	                            1377-1395 ( wg D.Ś. )
                                               	        1380-1395 ( wg I.M. )
-    Temür Kutlug       	                                1395-1401
-    Szadi Beg              	                            1401-1407
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. i I.M.
+    Temür Kutlug       	                                1395-1401 ( wg D.Ś. i I.M. )
+    Szadi Beg              	                            1401-1407 ( wg D.Ś. i I.M. )
   Bibliografia :
       Dynastie Świata
       Imperium Mongolskie
   		Encyklopedie panovníků
       Kubiłaj-chan - władca największego imperium w dziejach
       Zapomianie narody Europy
+      Atlas čínských dějin
 
 Królestwo Zulu
   Senzangakona		                                      1781-1816
@@ -25867,7 +25983,7 @@ County of Zutphen
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet Socialist Republics , Soyuz Sovetskikh Sotsialisticheskikh Republik )
+Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet Socialist Republics , Soyuz Sovetskikh Sotsialisticheskikh Republik , Sovětský svaz )
   Lenin                                                 ? ( wg F.C.A.R.F. )
   Józef V. Stalin                       	              przed 1941-1953 ( wg 100.N.V.S. )
     				    	                                      przed 1934 -po 1945 ( wg M.Ś. )
@@ -25900,7 +26016,7 @@ Państwo Zyjadydów
   Bibliografia :
       Rýžoviště zlata a doly drahokamů
 
-Żoużanie
+Żoużanie ( Žuan-Žuan )
   Jüciulü			                                          ok.355 n.e.
   Czeluhoj			                                        ?
   Szelun ( Toutaj )		                                  ?-410
@@ -26075,5 +26191,6 @@ Bibliografia :
     [90] Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr. , Marc von de Mieroop , 2010
     [91] Heroes of Endurance , Wanda Rutkowska , 1976
     [92] Gilgameš , Vojtech Zamarovský , 2002
+    [93] Atlas čínských dějin , Jiří Fidler , Jaroslav Synek , 2016
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
