@@ -3142,8 +3142,14 @@ Italia
             - Viali di Circonvallazione
             - Museo Archeologico Nazionale di Firenze
             - Pazzi Chapel
+            - Villa de Careggi
+            - Villa de Castello
+            - Villa de la Petraia
+            - Jardin de Boboli
+            - Villa du Poggio Imperiale	
         Fiesole
             - hills with views on Florence and Arno valley
+            - Villa Medici de Fiesole
         Naples
             - historic centre
             - Parco Archeologico del Pausilypon
@@ -3175,6 +3181,244 @@ Italia
             - Villa Pignatelli/Museo Pignatelli
         Roma
             - historic centre
+            - Mausoleum of Augustus
+            - Mausoleum of Hadrian/Castel Sant'Angelo
+            - Column of Marcus Aurelius
+        San Gimignano
+            - historic centre
+        Siena
+            - historic centre
+            - Porta Camollia
+            - Fortezza Medicea/Fort of Santa Barbara
+            - town hall
+            - Palazzo Chigi Saracini
+            - Al Marsili/Palazzo Marsili
+        Pienza
+            - historic centre
+            - Duomo di Pienza
+            - Piazza Pio II
+            - Palazzo Piccolomini
+            - Palazzo Borgia/Diocesan Museum
+            - Palazzo degli Ammannati
+            - town hall
+            - church San Francesco
+        Urbino
+            - historic centre
+        Aeolian Islands
+            - Isola di Vulcano
+            - Isola di Salina
+        Caltagirone
+            - old town
+        Ragusa
+            - old town
+        Noto
+            - old town
+        Catania
+            - old town
+        Scicli
+            - old town
+        Modica
+            - old town
+        Palazzolo Acreide
+            - old town
+        Militello Val di Catania
+            - old town
+        Cividale del Friuli
+            - Tempietto Longobardo/Lombard Temple of Santa Maria in Valle
+            - National Archaeological Museum of Cividale del Friuli
+            - Patriarch's Palace
+            - Complesso episcopale del patriarca Callisto
+        Brescia
+            - Monastery of Santa Giulia
+            - Chiesa di San Salvatore
+            - Capitolium
+            - Roman theatre
+            - Roman forum
+            - Republican sanctuary
+        Torba
+            - Torba Monastery
+            - Santa Maria Foris Portas
+            - Basilica di San Giovanni Evangelista
+            - Torba Tower
+            - Chiesa di Santa Maria
+        Spoleto
+            - Basilica of San Salvatore
+        Pissignano
+            - Temple of Clitumnus
+        Benevento
+            - Santa Sofia Church/Santa Sofia complex
+        Monte Sant'Angelo
+            - Sanctuary of San Michele
+        Mantua
+            - historic centre
+        Sabbioneta
+            - historic centre
+        San Piero a Sieve
+            - Villa de Cafaggiolo
+            - Villa de Il Trebbio
+        Poggio a Caiano
+            - Villa de Poggio a Caiano
+        Cerreto Guidi
+            - Villa de Cerreto Guidi
+        Seravezza
+            - Palais de Seravezza
+        Pratolino
+            - Jardin de Pratolino
+        Quarrata
+            - Villa La Magia
+        Comeana
+            - Villa de Artimino
+        Porto Ceresio
+            - Monte Casolo
+            - Monte Pravello
+            - Monte Orsa
+            - Monte Sant'Elia
+        Mount Etna
+        Pisa
+            - Piazza del Duomo
+            - Pisa Cathedral
+            - Baptistry of St. John
+            - Camposanto Monumentale
+            - Leaning Tower of Pisa
+        Portovenere
+            - historical centre
+            - Isola Palmaria
+            - island Tino
+            - island Tinetto
+        Cinque Terre
+            - Monterosso al Mare
+            - Vernazza
+            - Corniglia
+            - Manarola
+            - Riomaggiore
+            - Cinque Terre National Park
+        Polcenigo
+            - Palu di Livenza Santissima/Parco archeologico di Palu di Livenza - prehistoric pile dwelling
+        Desenzano del Garda
+            - Lavagnone - prehistoric pile dwelling
+        Moniga del Garda
+            - San Sivino Gabbiano - prehistoric pile dwelling
+        Sirmione
+            - Lugana Vecchia - prehistoric pile dwelling
+        Polpenazze del Garda
+            - Lucone di Polpenazze - prehistoric pile dwelling
+            - Sito archeologico Lago Lucone - prehistoric pile dwelling
+        Piadena
+            - Lagazzi del Vho - prehistoric pile dwelling
+        Solferino
+            - Bande Corte Carpani - prehistoric pile dwelling
+        Castellaro Lagusello
+            -  Fondo Tacoli - prehistoric pile dwelling
+        Biandronno
+            - Isolino Virginia-Camilla-Isola di San Biagio - prehistoric pile dwelling
+        Bodio Lomnago
+            - Bodio centrale o delle Monete - prehistoric pile dwelling
+        Cadrezzate
+            - Il Sabbione o settentrionale - prehistoric pile dwelling
+        Azeglio
+            - VI.1-Emissario - prehistoric pile dwelling
+        Dormelletto
+            - Mercurago - prehistoric pile dwelling
+        Molina di Ledro
+            - Lake Ledro Stilt house Museum
+        Fiave
+            - Lago Carera/Zona palafitticola di Fiave - prehistoric pile dwelling
+        San Benedetto di Lugana
+            - Belvedere - prehistoric pile dwelling
+            - Frassino - prehistoric pile dwelling
+        Cerea
+            - Tombola - prehistoric pile dwelling
+        Monticelli
+            - Laghetto della Costa - prehistoric pile dwelling
+        Torino
+            - Palazzo Reale
+            - Palazzo Madama
+            - Palazzo Carignano
+            - Castello del Valentino
+            - Villa della Regina
+        Borgaretto
+            - Palazzina di Caccia di Stupinigi
+        Venaria Reale
+            - Borgo castello nel parco della Mandria
+            - Reggia di Venaria Reale
+        Moncalieri
+            - Castello di Moncalieri
+        Rivoli
+            - Castello di Rivoli
+        Aglie
+            - Castello di Aglie
+        Racconigi
+            - Castello di Racconigi
+        Govone
+            - Castello di Govone
+        Pollenzo
+            - Castello di Pollenzo
+        Capo di Ponte
+            - Parco nazionale delle incisioni rupestri di Naquane/Parco di Naquane
+            - Parco archeologico nazionale dei Massi di Cemmo
+            - Parco archeologico comunale di Seradina-Bedolina
+        Ossimo
+            - Parco archeologico di Asinino-Anvoia
+        Darfo Boario Terme
+            - Parco comunale delle incisioni rupestri di Luine
+        Sellero
+            - Parco comunale archeologico e minerario di Sellero/Parco Archeologico Sellero
+        Sonico
+            - Parco archeologico comunale di Sonico
+        Nadro
+            - Riserva naturale Incisioni rupestri di Ceto, Cimbergo e Paspardo - Foppe di Nadro Area
+        Cimbergo
+            - Riserva naturale Incisioni rupestri di Ceto, Cimbergo e Paspardo - Campanine di Cimbergo
+        Paspardo
+            - Riserva naturale Incisioni rupestri di Ceto, Cimbergo e Paspardo
+                - Sottolaiolo
+                - Castagneto, La Bolp, In Vall
+                - Plas - Capitello dei Due Pini
+                - Deria Vite - ‘al de Plaha
+        Varallo
+            - Sacro Monte o Nuova Gerusalemme di Varallo Sesia
+        Serralunga di Crea
+            - Sacro Monte of Santa Maria Assunta
+        Orta San Giulio
+            - Sacro Monte di San Francesco d’Orta San Giulio
+        Prima Cappella
+            - Sacro Monte del Rosario di Varese
+        Oropa
+            - Sacro Monte della Beata Vergine
+        Ossuccio
+            - Sacro Monte della Beata Vergine del Soccorso
+        Ronco
+            - Sacro Monte of the Holy Trinity
+        Domodossola
+            - Sacro Monte Calvario
+        Valperga
+            - Sacro Monte di Belmonte
+        Barumini
+            - Su Nuraxi
+        Sortino
+            - Necropolis of Pantalica
+            - Anaktoron
+        Siracusa
+            - Ortygia
+                - Temple of Apollo
+                - Temple of Athena
+            - Parco archeologico della Neapolis
+                - Anfiteatro romano
+                - Latomia Santa Venera
+                - Latomia dell'Intagliatella
+                - Greek Theatre
+                - Tomba di Archimede
+        Dolomity
+            - Monte Pelmo
+            - Croda da Lago group
+            - Marmolada group
+            - Sasso Vernale group
+            - Pale di San Martino group
+            - Pale di San Lucano group
+            - Vette Feltrine group
+            - Parco nazionale delle Dolomiti Bellunesi
+            - Civetta-Moiazza-Gruppe
+            - Parco Naturale Dolomiti Friulane 
 Watykan
             - historic centre of Rome
 Albania
@@ -3248,6 +3492,8 @@ Szwajcaria
             - Villa Le Lac
         Genewa
             - Immeuble Clarte
+        Riva San Vitale
+            - Monte San Giorgio
 Rosja
         Sewastopol
             - Ruins of Tauric Chersonesos
@@ -3279,3 +3525,4 @@ Multi-Country
         The Walk of Peace from Alps to Adriatic
         Mont Perdu/Monte Perdido and surroundings
         Summer solstice fire festivals in Pyrennees
+        Rhaetian Railway from Thusis through Sankt Moritz to Tirano

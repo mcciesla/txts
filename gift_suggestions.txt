@@ -52,6 +52,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - An Introduction to the Theory of Numbers - G. H. Hardy , E. M. Wright
       - Categories for the Working Mathematician - Saunders Mac Lane
       - Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory - Joseph E. Stoy
+      - They Thought They Were Free: The Germans, 1933-45 - Milton Mayer
       - In Praise of Forgetting : Historical Memory and Its Ironies - David Rieff
       - Information Theory and Coding - Norman Abramson
       - Linear and Nonlinear Programming - David G. Luenberger
