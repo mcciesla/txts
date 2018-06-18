@@ -5097,6 +5097,7 @@ Chiny ( Čína )
                                                         ok.1250 ( Kublaj chán wg K.F. )
                                                         1271-1294 (?.12.-18.2.) ( Kubiłaj wg K.W.N.I.W.D. )
                                                         1271-po 1293 (?.12.-?) ( Chubilaj wg A.Č.D. )
+                                                        przed 1267-? ( Š'-cu (Kublaj) wg N.G.Z.M. )
       Cz´eng Tsung ( Temür )     	                      1294-1307 ( wg V.N.M.S.D. i D.Ś. ) ( Cheng Zong (Temur, Borjigin Temur, 元成宗, 铁穆耳) wg T.O.M.O.C.S.D. )
       				         	                                1295-1307 ( wg T.Z.H.K. )
                                                         przed 1301-? (?.9.-?) ( Temur wg K.W.N.I.W.D. )
@@ -5127,7 +5128,7 @@ Chiny ( Čína )
       						  	                                  1398-1403 ( Huei Ti wg H.C. )
       Jung Lo ( Cz´eng Tsu , Zhu Di )                  	1402-1424 ( wg D.Ś. ) ( Cheng Zu (Yongle, 明成祖, 朱棣) wg T.O.M.O.C.S.D. )
                                                       	1402-1425 ( wg V.N.M.S.D. )
-      						  	                                  1403-1424 ( wg H.C. ) ( Jung Le wg T.Z.H.K. )
+      						  	                                  1403-1424 ( wg H.C. ) ( Jung Le wg T.Z.H.K. ) ( Jung-le wg N.G.Z.M. )
                                                         1402-1424 (?-?.8.) ( Ču Ti (Jung-le) wg A.Č.D. )
       Hung Si ( Żen Tsung , Zhu Gaochi )               	1424-1425 ( wg D.Ś. ) ( Ren Zong (Hongxi, 明仁宗, 朱高炽) wg T.O.M.O.C.S.D. )
                                                         ? ( Chung-si wg A.Č.D. )
@@ -5152,6 +5153,7 @@ Chiny ( Čína )
                                                       	1573-1621 ( wg V.N.M.S.D. )
       						   	                                  1573-1619 ( wg H.C. )
                                                         ok.1575 ( Wan-li wg A.Č.D. )
+                                                        1573-1620 ( Wan-li wg N.G.Z.M. )
       T´ai Cz´ang ( Kuang Tsung , Zhu Changluo )       	1620 ( wg D.Ś. ) ( Guang Zong (Taichang, 明光宗, 朱常洛) wg T.O.M.O.C.S.D. )
       T´ien Cz´i ( Si Tsung , Zhu Youxiao )            	1620-1627 ( wg D.Ś. ) ( Xi Zong (Tianqi, 明熹宗, 朱由校) wg T.O.M.O.C.S.D. )
       Hwea Tsung                                       	1621-1644 ( wg V.N.M.S.D. )
@@ -5178,7 +5180,7 @@ Chiny ( Čína )
       Szun Czy ( Szy Tsu , Aisin-gioro Fu-lin )	        1644-1661 ( wg D.Ś. i V.N.M.S.D. i H.C. )
                                                         1643-1661 ( Shi Zu (Shunzi, Aisin Gioro Fulin, Fulin, 顺治帝, 福临) wg T.O.M.O.C.S.D. )
                                                         1644-? (?.10.-?) ( Šun-č'a wg A.Č.D. )
-      K´ang Si ( Szeng Tsu , Süan-jie )     		        1661-1722 ( wg D.Ś. ) ( Süan Se wg H.C. ) ( Sheng Zu (Aisin Gioro Xuanye, Kangxi, Xuanye, 康熙帝, 玄烨) wg T.O.M.O.C.S.D. )
+      K´ang Si ( Szeng Tsu , Süan-jie )     		        1661-1722 ( wg D.Ś. ) ( Süan Se wg H.C. ) ( Sheng Zu (Aisin Gioro Xuanye, Kangxi, Xuanye, 康熙帝, 玄烨) wg T.O.M.O.C.S.D. ) ( Kchang-si wg N.G.Z.M. )
                                                         1661-1723 ( wg V.N.M.S.D. )
       						    	                                1662-1722 ( K´ang-si wg T.Z.H.K. )
       							                                    1662-1722 ( ?-20.12. ) ( Kchang-si ( Šeng-cu ) wg E.P. )
@@ -5192,6 +5194,7 @@ Chiny ( Čína )
       			                                            1735-1795 ( C´ien-lung wg T.Z.H.K. )
                                                         ? ( Cian Lung wg K.W.N.I.W.D. )
                                                         ok.1750 ( Čchien-lung wg A.Č.D. )
+                                                        1736/8-1796 ( Čchien-lung wg N.G.Z.M. )
       Czia Cz´ing ( Żen Tsung , Yongyan )             	1796-1820 ( wg D.Ś. i V.N.M.S.D. i H.C. ) ( Ren Zong (Aisin Gioro Yongyan, Jiaqing, 嘉庆帝, 颙琰) wg T.O.M.O.C.S.D. )
       Tao Kuang ( Śuan Tsung , Minning )               	1820-1850 ( wg D.Ś. i V.N.M.S.D. ) ( Xuan Zong (Aisin Gioro Minning, Daoguang, 道光帝, 旻宁) wg T.O.M.O.C.S.D. )
       						     	                                1821-1851 ( wg H.C. )
@@ -5202,12 +5205,14 @@ Chiny ( Čína )
       Kuang Śu ( Te Tsung , Zaitian )                  	1875-1908 ( wg D.Ś. i V.N.M.S.D. ) ( De Zong (Aisin Gioro Zaitian, Guangxu, 光緒帝, 载湉) wg T.O.M.O.C.S.D. )
                          	                              1875-1908 (?-14.11.) ( Kuang Sü wg H.C. )
                                                         przed 1898-1908 (?.6.-?.11.) ( Kuang-sü wg A.Č.D. )
+                                                        przed 1889-? ( Kuang-sü wg N.G.Z.M. )
       Ci Xi                                             1895-1908 ( wg Ř.S.J.Ď.S. )
                                                         ? ( Cch'-si wg A.Č.D. )
       Śuan T´ung ( Pu Ji , Mo Dai Huang Di )           	1908-1912 ( wg D.Ś. i V.N.M.S.D. )
       						      	                              1908-1911 i 1917 ( ?-? i 1.7.-12.7. ) ( wg H.C. )
                                                         1908-1911 ( Puyi (Aisin Gioro Puyi, Xuantong, 宣统帝, 溥仪) wg T.O.M.O.C.S.D. )
                                                         ? i ? ( Pchu-i wg A.Č.D. )
+                                                        ?-1912 ( Pchu-i wg N.G.Z.M. )
       Jüan Sz´kchaj                                    	1912-ok.1915 ( wg V.N.M.S.D. )
     T´ai P´ing T´ien Kuo ( Tchaj-ping tchien-kuo )
       Hung Siu-Czüan	                                  1851-1864 (11.1.-1.6.) ( wg H.C. )
@@ -5256,6 +5261,7 @@ Chiny ( Čína )
                                                         przed 1960-? ( Mao Tse-tung wg F.C.A.R.F. )
                                                         przed 1959-? ( Mao wg K.W.N.I.W.D. )
                                                         1931-? i 1949-po 1964 (7.11.-? i ?-?.7.) ( Mao Ce-tung wg A.Č.D. )
+                                                        1949-? ( Mao Ce-tung wg N.G.Z.M. )
   Uwagi :
       Przed Szy Huang Ti wszystko oprócz oznaczonego wg V.N.M.S.D.
       Przed dynastią Szang wszystko oprócz oznaczonego wg H.C.
@@ -5283,6 +5289,7 @@ Chiny ( Čína )
       Table of Monarchs of Chinese Successive Dynasties
       Kubiłaj-chan - władca największego imperium w dziejach
       Atlas čínských dějin
+      National Geographic - Zakázané město
 
 Chios
   Hippoklos		                                          ?
@@ -15971,7 +15978,7 @@ Mongołowie
   Imperium Mongołów
     Czyngis Chan ( Temudżyn )                           1206-1227 ( wg D.Ś. i K.V. i H.C. ) ( Czyngis-chan wg T.Z.H.K. ) ( Borjigin Temujin (Genghis Khan) wg T.O.M.O.C.S.D. )
       			    	                                      ?-1227 ( wg 100.N.V.S. )
-      			       	                                    ? ( wg D.J. ) ( Čingischán wg D.P.I.R.G. ) ( Džingischán wg S.V.J.Ž.Ž. ) ( Gengis Khan wg V.K.T.H.O.H.E. ) ( Czyngis-chan wg Z.N.E. )
+      			       	                                    ? ( wg D.J. ) ( Čingischán wg D.P.I.R.G. i N.G.Z.M. ) ( Džingischán wg S.V.J.Ž.Ž. ) ( Gengis Khan wg V.K.T.H.O.H.E. ) ( Czyngis-chan wg Z.N.E. )
           				                                      przed 1220-? ( Džingischán wg D.B. )
       			    	                                      1206-? ( wg H. )
       			    	                                      przed 1224 -? ( Čingischán wg Z.S.A.V.E. )
@@ -16005,6 +16012,7 @@ Mongołowie
                                                         1260-1294 ( Borjigin Kublai (Kublai Khan) wg T.O.M.O.C.S.D. )
                                                         1260-1294 (?.5.-18.2.) ( wg K.W.N.I.W.D. )
                                                         1260-po 1293 (?.5.-?) ( wg A.Č.D. )
+                                                        przed 1267-? ( wg N.G.Z.M. )
     Arig Boge                                           1260-1264 ( Arig Mocny wg K.W.N.I.W.D. )
     Temur                                               przed 1301-? (?.9.-?) ( wg K.W.N.I.W.D. )
     Toktoa                                              ? ( wg K.W.N.I.W.D. )
@@ -16029,6 +16037,7 @@ Mongołowie
       Kubiłaj-chan - władca największego imperium w dziejach
       Zapomianie narody Europy
       Atlas čínských dějin
+      National Geographic - Zakázané město 
 
 County of Montbéliard
   Bibliografia :
@@ -26192,5 +26201,6 @@ Bibliografia :
     [91] Heroes of Endurance , Wanda Rutkowska , 1976
     [92] Gilgameš , Vojtech Zamarovský , 2002
     [93] Atlas čínských dějin , Jiří Fidler , Jaroslav Synek , 2016
+    [94] National Geographic - Zakázané město , Juan Velasco , Jane Vessels , 2008
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
