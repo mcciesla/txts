@@ -40,7 +40,6 @@ books - The History of Western Philosophy - Bertrand Russell
       - A Profile of Mathematical Logic - Howard DeLong
       - No Two Alike - Judith Rich Harris
       - The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution - Sean B. Carroll
-      - Sapiens: A Brief History of Humankind - Yuval Noah Harari
       - Words On The Move: Why English Won’t, and Can’t, Sit Still (Like, Literally) - John McWhorter
       - To Mock a Mockingbird: And Other Logic Puzzles - Raymond M. Smullyan
       - Selected Papers on Computer Science - Donald E. Knuth
