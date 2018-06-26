@@ -88,6 +88,8 @@ William Golding - Lord of the Flies
 BEST NON-FICTION:
 -----------------
 BIOLOGIA:
+    MEDYCYNA:
+        Cesarz wszech chorób - Biografia raka ; Siddhartha Mukherjee
     NEUROLOGIA:
         Zdumiewająca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
     Červená královna - sexualita a vývoj lidské přirozenosti ; Matt Ridley
@@ -168,6 +170,8 @@ POP.SCIENCE :
     AKWARIUM:
         Moje akvárium ; Karl-Heinz Tschiesche
     BIOLOGIA:
+        MEDYCYNA:
+            Cesarz wszech chorób - Biografia raka ; Siddhartha Mukherjee
         NEUROLOGIA:
             Zdumiewająca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
         Červená královna - sexualita a vývoj lidské přirozenosti ; Matt Ridley
@@ -345,7 +349,7 @@ POP.SCIENCE :
         Fantastyka i futurologia ; Stanisław Lem
         Filozofia przypadku ; Stanisław Lem
         Severské mýty ; R. I. Page
-	MATEMATYKA:
+  	MATEMATYKA:
 	    Velká Fermatová věta ; Simon Singh
     PEDAGOGIKA:
         Cvičení pro děti při vadném držení těla ; Eva Haladová
