@@ -145,7 +145,6 @@ Polska
         Okolice Katowic
             - Halda Skalny 389m - najwyzszy punkt (sztuczny) Garbu Mikolowskiego i Plaskowyzu Katowickiego i Plaskowyzu Bytomsko-Katowickiego i Wyzyny Katowickiej i Wyzyny Slaskiej Poludniowej
             - Gora sw. Wawrzynca 355m - najwyzszy punkt Garbu Mikolowskiego
-            - Kosciol na gorze
             - Wzgorze Wandy 357m - najwyzszy punkt Plaskowyzu Murcek i Plaskowyzu Katowickiego i Plaskowyzu Bytomsko-Katowickiego
             - Drzezgowiec 318m - najwyzszy punkt Wyzyny Miechowickiej
             - Sosnia Gora 295m - najwyzszy punkt Wyzyny Siemianowickiej
@@ -3179,6 +3178,7 @@ Italia
             - National Archaeological Museum
             - Certosa e Museo di San Martino/Certosa of Suor Orsola Benincasa
             - Villa Pignatelli/Museo Pignatelli
+            - Isola la Gaiola
         Roma
             - historic centre
             - Mausoleum of Augustus
@@ -3247,6 +3247,7 @@ Italia
             - Temple of Clitumnus
         Benevento
             - Santa Sofia Church/Santa Sofia complex
+            - Arch of Trajan
         Monte Sant'Angelo
             - Sanctuary of San Michele
         Mantua
@@ -3419,6 +3420,152 @@ Italia
             - Parco nazionale delle Dolomiti Bellunesi
             - Civetta-Moiazza-Gruppe
             - Parco Naturale Dolomiti Friulane 
+            - Monte Antelao and surroundings
+            - Punta Sorapiss massif
+            - Cristallo massif
+            - Sextner Dolomiten
+            - Tofane massif
+            - Naturpark Fanes-Sennes-Prags
+            - Parco naturale Puez Odle
+            - Schlerngruppe
+            - Rosengartengruppe
+            - Latemargruppe
+            - Corno Bianco/Weisshorn massif
+            - GEOPARC Bletterbach
+            - Dolomiti di Brenta
+        Matera
+            - Sasso Caveoso
+            - Sasso Barisano
+            - Matera Cathedral
+            - Chiesa dei Santi Pietro e Paolo Caveoso
+            - Church of San Pietro Barisano
+            - Church of Santa Lucia delle Malve
+            - Chiesa di Santa Maria di Idris
+            - Convicinio di Sant’Antonio
+            - Church of Santa Barbara
+            - Rupestrian Complex of Madonna delle Virtu and San Nicola dei Greci
+            - Grotta dei Pipistrelli
+            - Chiesa di San Giovanni Battista
+            - Park of Rupestrian Churches of Matera
+        Alberobello
+            - Quartiere Monti - trulli
+            - Quartiere Aja Piccola - trulli
+            - Trullo Sovrano
+            - Museo Casa Pezzolla/Museo Storico
+            - Piazza del Mercato
+            - Casa d'Amore
+        Val d'Orcia
+            - whole area
+            - railway between Asciano and Monte Antico
+        Wenecja
+            - miasto i laguna i wyspy w lagunie
+        Tivoli
+            - Villa Adriana
+            - Villa d'Este
+        Piazza Armerina
+            - Villa Romana del Casale
+        Grinzane Cavour
+            - Castello di Grinzane/Grinzane Cavour Castle
+        Barolo
+            - Langa of Barolo - wineyards
+        Barbaresco
+            - Hills of Barbaresco - wineyards
+        Nizza Monferrato
+            - Nizza Monferrato and Barbera - wineyards
+            - historic centre
+        Canelli
+            - Canelli and Asti Spumante	
+            - historic centre
+        Vignale Monferrato
+            - Monferrato of the Inferot - wineyards
+        Vicenza
+            - historic centre - including 23 buildings constructed by Palladio in the centre
+            - Villa Trissino
+            - Villa Almerico Capra
+        Bertesina
+            - Villa Gazzotti Grimani
+        Bassano del Grappa
+            - Villa Angarano
+        Caldogno
+            - Villa Caldogno
+        Vancimuglio
+            - Villa Chiericati
+        Montecchio Precalcino
+            - Villa Forni Cerato
+        Lugo di Vicenza
+            - Villa Godi Malinverni
+            - Villa Piovene
+        Bagnolo
+            - Villa Pisani Ferri
+        Pojana Maggiore
+            - Villa Pojana
+        Finale
+            - Villa Saraceno
+        Quinto Vicentino
+            - Villa Thiene
+        Meledo
+            - Villa Trissino
+        Lisiera
+            - Villa Valmarana Zen
+        Vigardolo
+            - Villa Valmarana Bressan
+        Fratta Polesine
+            - Villa Badoer
+        Maser
+            - Villa Barbaro
+        Fanzolo
+            - Villa Emo
+        Ceggia
+            - Villa Zeno
+        Malcontenta
+            - Villa Foscari
+        Montagnana
+            - Villa Pisani
+        Piombino Dese
+            - Villa Cornaro
+        Pedemonte
+            - Villa Serego
+        Parco nazionale dell'Arcipelago di La Maddalena
+        Pozzuoli
+            - Solfatara di Pozzuoli crater
+        Baia
+            - archeological site
+        Regional Park of Campi Flegrei
+            - Bacoli
+            - Monte di Procida
+            - Procida
+            - Vivara
+            - Ischia
+        Marmore
+            - Cascata delle Marmore
+        Parco Fluviale del Nera
+        Parco Nazionale dei Monti Sibillini
+        Ferentillo
+            - Benedictine abbey San Pietro in Valle
+        Casteldilago
+            - Convento di San Francesco
+        Arrone
+            - church Santa Maria Assunta
+        Collestatte
+            - historic centre
+        Valnerina - valley of the river Nero and its surroundings
+        Stilo 
+            - Cattolica di Stilo
+        Roccelletta
+            - Basilica of Santa Maria della Roccella
+        Bivongi
+            - Monastero ortodosso di San Giovanni Theristis
+        Piragineti
+            - Abbazia Santa Maria del Patire/Santa Maria del Pathirion
+        Rossano
+            - church of San Marco
+        Santa Severina
+            - Chiesa del Pozzoleo o di Santa Filomena
+            - Battistero
+        Alessandria
+            - Cittadella of Alessandria
+        Mortola Inferiore
+            - Giardini Botanici Hanbury
 Watykan
             - historic centre of Rome
 Albania
