@@ -219,6 +219,10 @@ Czechy
             - lazne
         Frantiskovy Lazne
             - lazne
+        Sovinec
+            - hrad
+        Jindrichuv hradec
+            - zamek
 Ukraina
         Petrykivka
             - Petrykivka decorative painting
