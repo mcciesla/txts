@@ -72,6 +72,7 @@ Olaf Stapledon - Last and First Men
                - Star Maker
 Richard Phillips Feynman - Snad ti nedělají starosti cizí názory
 Stanisław Lem - Eden
+              - Fiasko
               - Odruch warunkowy
               - Profesor A. Dońda
               - Terminus
@@ -1059,8 +1060,8 @@ Lem , Stanisław - Bajki robotów - O
                             - Trzej elektrycerze - O
                             - Uranowe uszy - O
                             - Wielkie lanie - O
-				- Cyberiada - O
-				- Człowiek z Marsa - O
+				        - Cyberiada - O
+				        - Człowiek z Marsa - O
                 - Dylematy - O
                 - Dzienniki Gwiazdowe - O
                             - Z Dzienikow gwiazdowych Iljona Tichego - O
@@ -1108,6 +1109,7 @@ Lem , Stanisław - Bajki robotów - O
                 - Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś - O
                 - Teksty Ostatnie - O
                 - Wysoki Zamek - O
+                - Fiasko - O
 Lofting , Hugh - Doktor Dolittle i zielona kanarzyca - POL
 Lomová , Ivana ; Lomová , Lucie - Anča a Pepík na stopě - O
 London , Jack - Córka śniegów - POL
