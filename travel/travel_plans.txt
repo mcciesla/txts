@@ -167,6 +167,7 @@ Czechy
         Cesky Krumlov
             - centrum historyczne
         Holasovice
+            - historyczna wioska
         Telc
             - centrum historyczne
         Slavonice
@@ -175,6 +176,8 @@ Czechy
             - Bazylika sw.Prokopa
             - Dzielnica zydowska
         Mikulov
+            - historic centre
+            - Svaty kopecek
         Lednice-Valtice
         Litomysl
             - zamek
@@ -183,16 +186,21 @@ Czechy
         Brno
             - Villa Tugendhat
         Sumperk
+            - historic centre
         Trebon
             - stawy
         Cesky Raj
         Hodonin
+            - historic centre
         Mikulcice
             - ufortyfikowane osiedle z czasow Wielkich Moraw
         Kopcany
             - kosciol sw.Margarety z Antiochii
         Ostrava
             - Dolni oblast Vitkovice
+            - Mining Museum Landek Park
+            - Anselm/Eduard Urx mine
+            - Michal/ Petr Cingr mine
         Straznice
             - Mezinarodni folklorni festival - Verbunk
         Vlcnov
@@ -200,9 +208,11 @@ Czechy
         Hlinsko
             - masopustni obchuzky a masky
         Litomerice
+            - historic centre
         Terezin
             - forteca
         Zlin
+            - historic centre
         Luhacovice
             - kapiele
         Dvur Kralove
@@ -210,9 +220,12 @@ Czechy
         Kuks
             - rzezby i zamek
         Pardubice
+            - historic centre
         Kladruby nad Labem
             - konie
         Zatec
+            - historic centre
+            - mesto chmele
         Karlovy Vary
             - lazne
         Marianske Lazne
@@ -223,6 +236,13 @@ Czechy
             - hrad
         Jindrichuv hradec
             - zamek
+        Pruhonice
+            - park
+        Praha
+            - St. Longin's Rotunda/Holy Rood Rotunda
+            - Church of St. James the Greater
+            - Staronova synagoga
+            - Tynsky chram - vnitrek
 Ukraina
         Petrykivka
             - Petrykivka decorative painting
