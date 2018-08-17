@@ -39,6 +39,8 @@ books - The History of Western Philosophy - Bertrand Russell
       - The Nurture Assumption - Judith Rich Harris
       - A Profile of Mathematical Logic - Howard DeLong
       - No Two Alike - Judith Rich Harris
+      - Category Theory for the Sciences - David I. Spivak
+      - Type Theory and Formal Proof: An Introduction - Rob Nederpelt, Herman Geuvers
       - The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution - Sean B. Carroll
       - Words On The Move: Why English Won’t, and Can’t, Sit Still (Like, Literally) - John McWhorter
       - To Mock a Mockingbird: And Other Logic Puzzles - Raymond M. Smullyan

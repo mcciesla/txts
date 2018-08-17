@@ -2553,7 +2553,6 @@ Francja
             - Chateau du Jas de Bouffan/Bastide du Jas de Bouffan
             - Atelier de Cezanne
         Parc national de la Vanois
-        Massif du Mont Blanc
         Saintes-Maries-de-la-Mer
             - Reserve Naturelle de Camargue
         Reserve Naturelle des Bouches de Bonifacio
@@ -3008,6 +3007,11 @@ Italia
             - Palermo Cathedral/Cathedral of the Assumption of Virgin Mary
             - Castello della Zisa/Zisa Palace
             - Admiral’s Bridge
+            - Opera dei Pupi
+            - Museo Internazionale delle Marionette Antonio Pasqualino - marionettes
+            - Museo Etnografico Siciliano Giuseppe Pitre - marionettes
+        Randazzo
+             - Museo Civico Vagliasindi/Museo Archeologico Paolo Vagliasindi - marionettes
         Cefalu
             - Cefalu Cathedral
         Monreale
@@ -3033,6 +3037,16 @@ Italia
             - Santuario di Rivotorto
         Padova
             - Orto botanico di Padova
+            - Scrovegni Chapel
+            - Basilica di Sant’Antonio/Basilica del Santo
+            - Palazzo della Ragione
+            - Musei Civici agli Eremitani
+            - Cappella della Reggia Carrarese
+            - Oratorio di San Giorgio
+            - Chiesa dei Santi Filippo e Giacomo agli Eremitani/Church of the Eremitani
+            - Battistero della Cattedrale
+            - Oratorio di San Michele
+        Isola di San Pietro 
         Corato
             - Castel del Monte
         Modena
@@ -3205,6 +3219,7 @@ Italia
             - Certosa e Museo di San Martino/Certosa of Suor Orsola Benincasa
             - Villa Pignatelli/Museo Pignatelli
             - Isola la Gaiola
+            - Pizzaiuolo
         Roma
             - historic centre
             - Mausoleum of Augustus
@@ -3488,6 +3503,14 @@ Italia
         Tivoli
             - Villa Adriana
             - Villa d'Este
+            - Grande Cascata
+            - Temple of the Sibyl
+            - Tempo di Vesta
+            - Santuario di Ercole Vincitore
+            - Parco di Villa Gregoriana
+            - Ponte Gregoriano
+            - Villa di Manlio Vopisco
+            - Grotta di Nettuno
         Piazza Armerina
             - Villa Romana del Casale
         Grinzane Cavour
@@ -3592,13 +3615,291 @@ Italia
             - Cittadella of Alessandria
         Mortola Inferiore
             - Giardini Botanici Hanbury
+        Lucca
+            - historic centre
+            - Villa Guinigi National Museum
+            - Porta Santi Gervasio e Protasio
+            - Porta dei Borghi/Porta di Santa Maria dei Borghi
+            - Lucca Cathedral/Duomo
+            - church San Michele in Foro
+            - Basilica of San Frediano
+            - Palazzo Guinigi
+            - fortyfikacje miejskie
+        Parma
+            - historic centre
+            - Parma Cathedral/Cattedrale di Santa Maria Assunta
+            - Palazzo Vescovile/Vescovado
+            - Baptistery/Battistero di San Giovanni
+            - Palazzo Ducale i park
+            - Palazzo Pilotta
+            - Palazzo Farnese
+            - Teatro Regio
+            - Universita degli Studi di Parma
+        Pavia
+            - historic centre
+            - San Michele Maggiore church
+            - Castello Visconteo
+            - Cathedral
+            - Universita di Pavia
+        Certosa di Pavia
+            - Certosa di Pavia
+        Asinara
+        Castro
+            - Grotta Romanelli
+        Tuglie
+            - Grotta delle Veneri
+        Porto Badisco
+            - Grotta dei Cervi
+        Verbania
+            - Isola Madre - Palazzo Borromeo
+        Carciano
+            - Isola Bella - Palazzo Borromeo
+        Lago Maggiore
+            - wybrzeza i okoliczna kraina
+        Lago d'Orta
+            - wybrzeza i okoliczna kraina
+        Marsala
+            - ruiny Lilibeum
+            - Isola San Pantaleo - ruiny Mothia
+        Orvieto
+            - historic centre
+            - Piazza Duomo
+            - Piazza del Popolo
+            - Piazza della Republica
+            - Duomo
+            - Palazzi Papali
+            - Palazzo Soliano
+            - Palazzo dell'Opera del Duomo
+            - Palazzo Faina
+            - Fortezza dell'Albornoz
+            - Pozzo di San Patrizio
+        Arborea
+            - Stagno di S'Ena Arrubia
+            - Laguna di Corru S'Ittiri
+            - Laguna di Marceddi
+            - Laguna di San Giovanni
+        Santa Giusta
+            - Stagno di Pauli Maiori
+            - Stagno di Santa Giusta
+        San Giovanni di Sinis
+            - Stagno di Mistras
+        S'Arena Acoada
+            - Stagno di Sale 'e Porcus
+        Cabras
+            - Stagno di Cabras
+        Putzu Idu
+            - Stagno Sa Salina Manna
+        Sa Rocca Tunda
+            - stagno Pauli Marigosa
+        Isula de Malu 'Entu
+        Otranto
+            - katedra
+        Molfetta
+            - Duomo di San Corrado/Cattedrale di San Corrado
+        Bari
+            - Basilica di San Nicola
+            - Cathedral of San Sabino
+        Bitonto
+            - katedra
+        Troia
+            - katedra
+        Lecce
+            - Basilica di Santa Croce
+            - Palazzo della Prefettura/Palazzo dei Celestini
+            - Palazzo del Seminario
+            - Chiesa di Santa Chiara
+            - Chiesa dei Santi Niccolo e Cataldo
+            - Basilica di San Giovanni Battista del Rosario
+            - Piazza del Duomo
+        Nardo
+            - historic centre
+            - Chiesa della Purita
+            - katedra
+        Gallipoli
+            - katedra/Duomo e Curia Vescovile
+            - Chiesa Santa Maria della Purita
+            - Chiesa delle Anime
+            - Chiesa del Santissimo Crocifisso
+            - Chiesa di San Francesco di Paola
+        Galatone
+            - Santuario del crocifisso della pieta
+        Martina Franca
+            - historic centre
+        Ostuni
+            - Chiesa San Vito Martire
+            - church Santa Maria Maddalena dei Pazzi
+        Carbonia
+            - Monte Sirai archeological area
+            - Domu de janas of Monte Crobu 
+            - Nuraghe Sirai
+        Piolanas
+            - Su Carroppu
+        Villaperuccio
+            - Necropolis of Montessu/Domu de janas of Montessu
+        Bacu Abis
+            - nuraghe Seruci
+        Su Benatzu
+            - Su Benatzu cave/Pirosu cave
+        Sant'Anna Arresi
+            - Nuraghe Giara
+            - Nuraghe Punta Acuzza
+            - Nuraghe Piras
+            - Porto Pino
+        Isola di Sant'Antioco
+            - krajina ostrova
+            - Santu Antiogu
+                - Sulci ruins
+        Pinus Village
+            - Bithia ruins
+        Pula
+            - Nora archeological site
+        Bindua
+            - Grotta di Santa Barbara
+        Fluminimaggiore
+            - Su Mannu cave
+        Sant'Angelo
+            - Temple of Antas
+        Domusnovas
+            - Grotta di San Giovanni
+        Taormina
+            - Ancient theatre
+            - Odeon romano
+            - Naumachie
+            - Terme Romane
+            - Palazzo della Badia Vecchia
+            - Palazzo Duchi di Santo Stefano
+            - Corvaja Palace
+            - City Park - Lady Trevelyan Gardens
+            - Isola Bella
+        Isernia
+            - Museo nazionale paleolitico di Isernia
+            - La Pineta archeological site
+        Venosa
+            - Parco archeologico di Notarchirico
+        Carrara
+            - marble quarries in surrounding area
+        Altamura
+            - De Lucia quarry - dinosaur footprints
+            - Grotta di Lamalunga - Uomo di Altamura
+        Bologna
+            - Sanctuary of the Madonna di San Luca
+            - Via di San Luca portico
+            - Santa Maria Lacrimosa degli Alemanni
+            - portico from centre to Santa Maria Lacrimosa degli Alemanni
+            - Palazzo del Podesta portico
+            - Palazzo dei Banchi - Banchi portico
+            - Archiginnasio portico
+            - Santa Maria dei Servi portico
+            - Palazzo della Mercanzia portico
+        Altilia
+            - ruins of Saepinum
+        Via Appia
+        Via Appia - wariant Trajana
+        Caprarola
+            - Palazzo Farnese
+        Bagnaia
+            - Villa Lante
+        Bomarzo
+            - Gardens of Bomarzo/Monster's Grove
+        Bassano Romano
+            - Villa Giustiniani Odescalchi
+        Frascati
+            - Villa Mondragone
+            - Villa Taverna Parisi
+            - Villa Falconieri
+            - Villa Tuscolana
+            - Villa Aldobrandini
+            - Villa Lancellotti
+            - Villa Sora
+            - Villa Torlonia
+            - Villa Grazioli
+            - Villa Arrigoni Muti
+        Ariccia
+            - Palazzo Chigi
+        Volterra
+            - historic centre
+            - Porta dell'Arco
+            - Palazzo dei Priori
+            - katedra
+            - Baptistry
+            - Fortezza Medicea
+            - Badia Camaldolese
+            - krajina kolem mesta
+        Lajatico
+            - Villa of Spedaletto/Spedaletto farm
+        Prosecco wineyards between Conegliano and Valdobbiadene
+        Poggiomarino
+            - Area Archeo-Fluviale di Longola
+        Parco Nazionale della Sila
+        Subiaco
+            - San Benedetto Monastery
+            - Monastero di Santa Scolastica
+        Cassino
+            - Abbey of Monte Cassino
+        Castel San Vincenzo
+            - San Vincenzo Abbey
+            - Archaeological area of Volturno/San Vincenzo al Volturno
+        Valmadrera
+            - Basilica di San Pietro al Monte
+        Sant'Ambrogio di Torino
+            - Sacra di San Michele
+        San Vittore
+            - San Vittore alle Chiuse/San Vittore alle Chiuse di Genga Complex
+        Sant'Angelo in Formis
+            - Sant'Angelo in Formis abbey
+        Fara In Sabina
+            - Farfa Abbey/Santa Maria di Farfa Abbey
+        Bagnoregio
+            - Civita di Bagnoregio
+        Triassic anhydrites of the Upper Secchia Valley
+        Gessi
+            - Messinian Gypsum of Zola Predosa/Gessi di Monte Rocca, Monte Capra e Tizzano
+        San Lazzaro di Savena
+            - Messinian Gypsum of Bologna/Gessi Bolognesi, Calanchi dell'Abbadessa
+        Parco Regionale Cena del Gesso Romagnola
+        Cantu a tenore music
+        Cremona
+            - Museo del violino
+        Viterbo
+            - Macchina of Santa Rosa
+        Sassari
+            - Discesa dei Candelieri/Faradda di li candareri
+        Palmi
+            - Varia di Palmi
+        Nola
+            - Festa dei Gigli
+        Isola di Pantelleria
+            - Traditional agricultural practice of cultivating the ‘vite ad alberello’
 Watykan
             - historic centre of Rome
+            - St. Peter's Basilica
+            - Apostolic Palace/Vatican Palace
+            - Vatican library
+            - Vatican Museums
 Albania
         Lumi i gashit
             - primeval beech forest
         Rrajca
             - primeval beech forest
+        Ksamil
+            - Butrint
+        Gjirokaster
+            - historic centre
+            - Gjirokaster National Folklore Festival - Albanian folk iso-polyphony music
+        Berat
+            - historic centre
+            - Kalaja district
+        Durres
+            - Amfiteatri
+        Selce e Poshtme
+            - Royal Tombs of Selca e Poshtme
+        Pogradec
+            - historic centre
+        Rezervat Natyror i Menaxhuar Liqeni Podgradecit
+        Pojan
+            - Apollonia ruins
+        Vile-Ballaj
+            - Castle of Bashtova
 Rumunia
         Cheile Nerei-Beusnita National Park
             - primeval beech forest
@@ -3621,6 +3922,130 @@ Rumunia
             - Izvoarele Nerei - primeval beech forest
         Strimbu Baiut
             - primeval beech forest
+        Arbore
+            - Church of the Beheading of St John the Baptist
+        Manastirea Humorului
+            - Church of the Assumption of the Virgin/Dormition of the Mother of God Church
+        Vatra Moldovitei
+            - Annunciation Church/Church of the Annunciation of the Monastery of Moldovita
+        Patrauti
+            - Exaltation of the Holy Cross Church/Church of the Holy Rood
+        Dolhasca
+            - Church of St Nicholas and the Catholicon of the Monastery of Probota/St. Nicholas Church
+        Suceava
+            - St. George Church in Saint John the New Monastery
+        Gura Humorului
+            - Church of St George of the former Voronet Monastery
+        Sucevita
+            - Church of the Resurrection of Sucevita Monastery
+        Gradistea de Munte
+            - Sarmizegetusa Regia ruins
+        Costesti
+            - Costesti-Cetatuie Dacian fortress
+            - Costesti-Blidaru Dacian fortress
+        Alun
+            - Piatra Rosie Dacian fortress
+        Pestera
+            - Cetatea dacica Banita
+        Capalna
+            - Dacian fortress of Capalna
+        Sighisoara
+            - historic centre
+        Danube Delta Biosphere Reserve
+        Romanii de Jos
+            - Horezu Monastery
+        Biertan
+            - historic village
+            - fortified church
+        Prejmer
+            - historic village
+            - fortified church
+        Viscri
+            - historic village
+            - fortified church
+        Dariju
+            - historic village
+            - fortified church
+        Saschiz
+            - historic village
+            - fortified church
+            - peasant fortress
+        Calnic
+            - historic village
+            - Calnic Citadel
+        Valea Viilor
+            - historic village
+            - fortified church
+        Barsana
+            - Church of the Presentation of the Virgin at the Temple
+        Budesti
+            - Church of Saint Nicholas
+        Desesti
+            - Saint Parascheva Church/Church of the Holy Paraskeva
+        Ieud
+            - Church of the Nativity of the Virgin/Biserica din Ieud Deal
+        Plopis
+            - Church of the Archangels Michael and Gabriel/Church of the Holy Archangels
+        Poienile Izei
+            - Saint Parascheva Church/Church of the Holy Parasceve
+        Rogoz
+            - Church of the Holy Archangels
+        Surdesti
+            - Church of the Archangels Michael and Gabriel/Church of the Holy Archangels
+        Curtea de Arges
+            - Arges Royal Court and Church Medieval Ensemble
+            - monastery
+            - Bis San Nicoara
+        Maldaresti
+            - Cula Greceanu
+        Iasi
+            - Trei Ierarhi Monastery
+        Densus
+            - Densus church/St Nicholas' Church
+        Alba Iulia
+            - historic centre
+            - Apulum ruins
+            - fortifications
+            - St. Michael's Cathedral
+            - Princes Palace Transylvania
+            - Reunification Cathedral/Coronation Cathedral
+            - Palatul Apor
+            - Batthyaneum Library
+        Manastirea Neamt
+            - Neamt Monastery
+        Muntii Retezat
+        Murfatlar
+            - Basarabi Cave Complex
+        Sanpetru
+            - Sanpetru formation/Valea Dinozaurilor
+        Targu Jiu
+            - Sculptural Ensemble of Constantin Brancusi
+                - The Table of Silence
+                - The Gate of the Kiss 
+                - The Endless Column
+        Sibiu
+            - historic centre
+            - Piata Albert Huet
+            - Piata Mare
+            - Piata Mica
+            - Piata Dragoner
+            - Lutheran Cathedral of Saint Mary/St. Mary's Parish Church
+            - Casa Altemberger/Altenberger Haus
+            - Palatul Brukenthal
+        Coltesti
+            - Cetatea Trascaului
+        Rimetea
+            - historic village
+        Rosia Montana
+            - mining town
+            - Ruins of Alburnus Maior
+            - Gold Mining Museum/Roman galleries Mining Museum
+        Caracal
+            - festival featuring Calus dance
+        Doina music and colindas
+        Horezu
+            - Strada Olari - Horezu ceramics
+        Jocul Fecioresc/Lad's dances
 Bulgaria
         Central Balkan National Park
             - Boatin Reserve - primeval beech forest
@@ -3632,6 +4057,133 @@ Bulgaria
             - Peesh skali Reserve - primeval beech forest
             - Sokolna Reserve - primeval beech forest
             - Steneto Reserve - primeval beech forest
+        Sofia
+            - Boyana Church
+        Madara
+            - Madara Rider
+        Iwanowo
+            - Rock-hewn Churches of Ivanovo
+        Kazanlak
+            - Thracian Tomb of Kazanlak
+        Stari Nesebar
+            - old town
+            - Church of Saint Sophia
+            - ancient town wall
+            - agora
+            - acropolis
+            - temple of Apollo
+        Rila
+            - Rila Monastery
+            - Nunnery Orlitsa/Orlitsa Convent
+            - Pchelino Convent
+            - St. Luke Hermitage
+            - Grave of St. Ivan Rilski
+        Sveshtari
+            - Thracian Tomb of Sveshtari
+        Pirin National Park
+        Srebarna
+            - Srebarna Nature Reserve
+        Nikyup
+            - Nicopolis ad Istrum ruins
+        Bachkovo
+            - Bachkovo Monastery
+        Silistra
+            - Roman Tomb of Silistra/Rimska grobnitsa v Silistra
+            - Durostorum archeological site/Ancient settlement Durostorum
+            - Silistra Regional Museum of History
+            - Roman villa
+        Rabisha
+            - Magurata cave
+        Slanchevo
+            - Pobiti Kamani Natural Monument
+        Belogradchik
+            - Belogradchishki skali
+        Rusenski Lom Natural Park
+        Rozhen
+            - Rozhen Monastery
+        Melnik
+            - Despot Slav's Fortress
+            - historic centre
+            - Melnik Earth Pyramids
+        Vratsa
+            - Vrachanski Karst Reserve
+            - Skaklia waterfall
+        Stara Zagora
+            - Neolithic Dwellings Museum
+        Plovdiv
+            - Old Plovdiv/Ancient Plovdiv
+            - Nebet Tepe archeological site
+            - Roman theatre/Antique Theatre
+            - Ancient Stadium of Philipopolis
+            - Small Basilica
+            - Bishop's Basilica/Golyama bazilika na Filipopol
+            - Late-Antique Irene Building
+            - Plovdiv National Archaeological Museum
+        Aleksandrovo
+            - Thracian tomb of Aleksandrovo 
+        Koprivshtitsa
+            - National Festival of Bulgarian Folklore
+        Shipka
+            - Thracian tomb Ostrusha/Cult-mortuary complex in Ostrusha mound
+            - Tomb in Golyama Kosmatka mound
+            - Thracian tomb Shushmanets/Tomb in Shushmanetz mound
+            - Thracian tomb Griffins/Tomb in Golyama gola mogila mound Griffins
+            - Thracian tomb Helvetia/Tomb in Malka gola mogila mound Helvetia
+            - Thracian tomb Golyama Arsenalka
+        Kran
+            - Sarafova mogila
+            - Svetitzata mound
+        Vidin
+            - fortress towers of Bononia
+        Archar
+            - Colonia Ulpia Traiana Ratiaria archeological site
+        Lom
+            - Ruins of Roman fortress Almus/Ancient town and necropolis Aimus
+            - Lom Museum of History
+        Harlets
+            - Fortress Augusta archeological site/Ancient fortress Augustae
+        Oryahovo
+            - Oryahovo museum of history
+            - Kaleto/Vikus Bappen ruins
+        Dolni Vadin
+            - Valeriana ruins
+        Baikal
+            - Palatium ruins
+        Gigen
+            - Oescus archeological site/Roman town Colonia Ulpia Oescus
+        Belene
+            - Dimum archeological site/Roman town Dimum
+            - Quintodimum ruins
+        Svishtov
+            - Archaeological reserve Ancient town Novae/Novae archeological site
+        Krivina
+            - Ancient and medieval settlement latrus/Iatrus archeological site
+        Batin
+            - Skaidava Fortress
+        Mechka
+            - Ancient fortress Trimammium/Trimammium ruins
+        Ruse
+            - Ancient fortress Sexaginta prista archeological site
+            - Regional Historical Museum
+        Marten
+            - Ancient fortress Tegra/Ancient fortress Tigra/Tegris ruins/Terris Fortress ruins
+        Nova Cherna
+            - Mediolana Fortress ruins/Ancient and medieval settlement Kynton
+        Tutrakan
+            - Ancient fortress and settlement Transmarisca/Transmarisca - southern and northern archeological site
+            - Tutrakan Museum of History
+        Dolno Riahovo
+            - Roman fortress Nigrinianis/Nigrinianis ruins
+        Malak Preslavets
+            - Ancient and medieval fortress Candidiana/Candidiana fortress ruins
+        Vetren
+            - Ancient fortress Tegulicium/Tegulitium ruins
+        Bistritsa Babi singing group
+        Balgari/Bulgari
+            - Nestinarstvo ritual
+        Chiprovtsi
+            - Chiprovtsi kilims/carpet-making
+        Surova folk feast in Pernik region
 Hiszpania
         Sierra de Ayllon
             - Parque Natural Hayedo de la Tejera Negra - primeval beech forest
@@ -3719,3 +4271,5 @@ Multi-Country
         Mont Perdu/Monte Perdido and surroundings
         Summer solstice fire festivals in Pyrennees
         Rhaetian Railway from Thusis through Sankt Moritz to Tirano
+        Pelagos Sanctuary for Mediterranean Marine Mammals/International Ligurian Sea Cetacean Sanctuary
+        Massif du Mont Blanc
