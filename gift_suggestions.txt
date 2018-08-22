@@ -114,6 +114,7 @@ books - The History of Western Philosophy - Bertrand Russell
                 - Wielkosc urojona
                 - Golem XIV
                 - Pokoj na Ziemi
+    Thorgal - wszystkie komiksy
 movies - The Act of Killing - Joshua Oppenheimer
        - The Look of Silence - Joshua Oppenheimer
        - Joseph Campbell and the Power of Myth
@@ -121,3 +122,4 @@ movies - The Act of Killing - Joshua Oppenheimer
        - The Vietnam War - Ken Burns and Lynn Novick
        - The Dawn Wall - Josh Lowell and Peter Mortimer
        - The Atomic Cafe
+       - Free Solo
