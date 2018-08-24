@@ -15,16 +15,16 @@ Stanisław Lem - Cyberiada
               - Próżnia Doskonała
               - Solaris
 Umberto Eco - Foucaultovo kyvadlo
-Witold Gombrowicz - Kosmos
 ----------------
-Ladislav Fuks - Spalovač mrtvol
 Franz Kafka - Proces
 Jorge Luis Borges - Funes, His Memory
                   - Tlon, Uqbar, Orbis Tertius
+Ladislav Fuks - Spalovač mrtvol
 Stanisław Lem - Golem
               - Kongres Futurologiczny
               - Z Dzienikow gwiazdowych Iljona Tichego - Podróż dwudziesta pierwsza
 Witold Gombrowicz - Ferdydurke
+                  - Kosmos
 ----------------
 Adam Mickiewicz - Pani Twardowska
 Aldous Huxley - Brave New World
@@ -48,6 +48,7 @@ Stanisław Lem - Ananke
               - Niezwyciężony
               - Patrol
               - Rozprawa
+Tadeusz Borowski - Pożegnanie z Marią (as whole collection of stories)
 Ursula K. Le Guin - The Dispossessed
 ----------------
 Adam Bahdaj - Pilot i ja
@@ -500,10 +501,10 @@ Borges , Jorge Luis - Ars Poetica - EN
                     - Komnata soch - CZ
                     - Muhammadův dvojník - CZ
                     - Muž z růžového nároží - CZ
-					- Obecné dějiny hanebnosti - CZ
+					          - Obecné dějiny hanebnosti - CZ
                     - Podvedený čaroděj - CZ
                     - Příběh dvou mužů, kteří měli sen - CZ
-					- Teologem i po smrti - CZ
+					          - Teologem i po smrti - CZ
                     - The Aleph - EN
                         - Museum - EN
                             - In Memoriam, J.F.K. - EN
@@ -551,7 +552,31 @@ Borges , Jorge Luis - Ars Poetica - EN
                             - The Yellow Rose - EN
                             - Toenails - EN
                     - The Book of Imaginary Beings - EN
-					- Velkodušný nepřítel - CZ
+					          - Velkodušný nepřítel - CZ
+Borowski , Tadeusz - Pożegnanie z Marią i inne opowiadania - O
+                        - Pożegnanie z Marią - O
+                        - Chłopiec z Biblią - O
+                        - Dzień na Harmenzach - O
+                        - Proszę Państwa do gazu - O
+                        - U nas, w Auschwitzu - O
+                        - Ludzie, którzy szli - O
+                        - Śmierć powstańca - O
+                        - Bitwa pod Grunwaldem - O
+                        - Kamienny świat - O
+                          - Kamienny świat - O
+                          - Opowiadanie z prawdziwego życia - O
+                          - Śmierć Schillingera - O
+                          - Człowiek z paczką - O
+                          - Kolacja - O
+                          - Milczenie - O
+                          - Spotkanie z dzieckiem - O
+                          - Koniec wojny - O
+                          - "Independence Day" - O
+                          - Podróż Pulmanem - O
+                          - Dziewczyna ze spalonego domu - O
+                          - Odwiedziny - O
+                        - Ofensywa styczniowa - O
+                        - Muzyka w Herzenburgu - O
 Bradbury , Ray - Fahrenheit 451 - O
 Broniewski , Władysław - Dla dzieci - O
                             - Babie lato - O
