@@ -4209,9 +4209,267 @@ Hiszpania
         Parque Nacional de Ordesa y Monte Perdido
             - Escuain Valley
             - landscape of the park
+        Santillana del Mar
+            - Cave of Altamira
+            - Collegiate Church of Santa Juliana/Collegiale de Santa Juliana et son Cloitre
+        San Roman
+            - Cueva de la Pena de Candamo
+        Ribadesella
+            - Tito Bustillo Cave
+        Puertas
+            - Cueva de La Covaciella
+        Llonin
+            - La Concha de la Cueva
+        Colombres
+            - Cueva del Pindal
+        Riclones
+            - Cueva de Chufin
+        Rivero
+            - Cueva de Hornos de la Pena
+        Puente Viesgo
+            - Cave of El Castillo
+            - Cave of Las Monedas
+            - Cueva de La Pasiega
+            - Cave of Las Chimeneas
+        Escobedo de Camargo
+            - Cueva del Pendo
+        Barrio La Iglesia
+            - Cueva de La Garma
+        Ramales de la Victoria
+            - Cueva de Covalanas
+        Kortezubi Enderika
+            - Santimamine cave
+        Zestoa
+            - Cueva de Ekain
+        Orio
+            - Altxerri cave
+        Segovia
+            - old toen
+            - roman aqueduct
+            - Alcazar of Segovia
+            - Segovia Cathedral
+            - Real Casa de Moneda - mint
+        Oviedo
+            - San Miguel de Lillo church
+            - Santa Maria del Naranco/Santa Maria del Naranjo church
+            - Cathedral of San Salvador/Camara Santa de Oviedo
+            - Basilica of San Julian de los Prados
+            - La Foncalada
+        Cordoba
+            - historic centre
+            - Alcazar de los Reyes Cristianos
+        Granada
+            - Generalife
+        Burgos
+            - Burgos Cathedral
+        San Lorenzo de El Escorial
+            - El Escorial
+        Barcelona
+            - Park Guell
+            - Palau Guell
+            - Casa Mila
+            - Casa Vicens
+            - Sagrada Familia/Nativity Facade and Crypt of the Sagrada Familia
+            - Casa Batllo
+            - Palau de la Musica Catalana
+            - Hospital de Sant Pau
+        Campumanes
+            - Santa Cristina de Lena church
+        Santa Coloma de Cervello
+            - Cripta de la Colonia Guell
+        Santiago de Compostela
+            - old town
+            - Santa Maria del Conxo Monastery
+            - Cathedral of Santiago de Compostela
+            - Praza do Obradoiro
+        Avila
+            - old town
+            - fortifications
+            - katedra
+            - Puerta de San Vicente
+            - Puerta del Alcazar
+            - Hermitage of San Segundo
+            - Basilica of San Vicente
+            - Church of San Andres
+            - Church of San Pedro
+            - Church of San Nicolas
+            - Ermita de Nuestra Senora de la Cabeza/Church of Santa Maria de la Cabeza
+            - Iglesia de San Martin
+            - Convento de la Encarnacion
+            - Convento de San Jose
+            - Real Monasterio de Santo Tomas/Royal Monastery of Santo Tomas
+        Teruel
+            - katedra/Cathedral of Saint Mary of Mediavilla
+            - San Pedro Church
+            - Iglesia de San Martin
+            - Iglesia del Salvador
+        Calatayud
+            - Collegiate church of Santa Maria/Abside y claustro y torre de colegiata de Santa Maria/Apse and cloister and tower of Colegiata de Santa Maria
+        Cervera de la Canada
+            - Iglesia de Santa Tecla
+        Tobed
+            - Iglesia de Santa Maria
+        Zaragoza
+            - The Aljaferia Palace/Mudejar remains of the Palace of Aljaferia
+            - Iglesia de San Pablo
+            - La Seo Cathedral
+        Toledo
+            - historic centre
+        San Sebastian de La Gomera
+            - Parque Nacional de Garajonay
+        Salamanca
+            - old town
+            - Colegio de los Irlandeses/Archbishop Fonseca College
+            - Iglesia de San Marcos
+            - Church of Sancti Spiritus
+            - Convento de Santa Clara/Convento de las Claras
+            - Casa-Convento de Santa Teresa 
+            - Iglesia de San Juan Bautista de Barbalos
+            - San Cristobal church
+            - Plaza Mayor
+            - Puente Romano
+            - Old Cathedral
+            - Palacio de la Salina
+            - Palacio de Monterrey
+            - Universidad Pontificia
+        Sevilla
+            - Seville Cathedral
+            - General Archive of the Indies/Archivo de Indias
+            - Alcazar
+        Caceres
+            - old town
+        Parc natural de ses Salines
+        Eivissa
+            - Dalt Vila/fortified old town
+            - Necropoli de Puig des Molins 
+        Sant Jordi de ses Salines
+            - Sa Caleta Phoenician Settlement
+        l'Espluga de Francoli
+            - Poblet Monastery
+        Ubeda
+            - historic centre
+            - Plaza Vazquez de Molina
+            - Vazquez de Molina Palace
+            - Sacra Capilla del Salvador
+        Baeza
+            - historic centre
+            - Plaza de Santa Maria
+            - Catedral de la Natividad de Nuestra Senora de Baeza
+            - San Felipe Neri Seminary
+        Merida
+            - Acueducto de los Milagros
+            - Acueducto de San Lazaro
+            - Alcantarilla Bridge
+            - Puente Romano/Guadiana River Dam and Roman Bridge over Guadiana River
+            - Alcazaba
+            - Roman Theatre
+            - Roman amphitheatre
+            - Casa del Anfiteatro/Amphitheatre House
+            - Trajan Arch
+            - Templo Culto Imperial/Concordia Temple
+            - Xenodoquio/Santa Catalina Basilica
+            - Basilica de Santa Eulalia/Santa Eulalia Basilica and Temple of Mars
+            - Circus Maximus
+            - Casa del Mitreo
+            - Los Columbarios
+            - Co-cathedral of Saint Mary Major of Merida
+            - Iglesia de Santa Clara
+            - Museo del Arte Visigodo
+            - Proserpina Dam
+            - Foro Romano
+            - Torre Albarrana y Muralla Romana/Roman Wall and Albarrana Islamic Tower
+            - National Museum of Roman Art
+            - Obelisco de Santa Eulalia
+            - Puente Romano de la Puerta/Roman Bridge over Albarregas River
+            - Temple of Diana
+            - Pozos de Nieve/Roman Baths and snow pit
+        Trujillanos
+            - Basilica Casa Herrera
+            - Cornalvo Dam
+        Alange
+            - Balneario de Alange/Thermal Baths
+        Guadelupe
+            - Real Monasterio de Guadalupe/Royal Monastery of Santa Maria de Guadalupe
+        Camino de Santiago
+            - Chemin de la Cote
+            - Chemin Primitif
+            - Chemin de l’Interieur
+            - Chemin de la Liebana
+            - Chemin Francais
+            - Camino del Norte
+        Corniana
+            - Monasteriu de San Salvador/Eglise et Monastere de San Salvador
+        Lugo
+            - katedra
+            - city wall remains
+        Ziortza-Bolibar
+            - Zenarruzako Santa Maria Kolegiata/Collegiale de Ziortza
+        Bilbao
+            - Cathedrale de Saint Jacques Apotre
+        Castro Urdiales
+            - Church of Santa Maria de la Asuncion
+        Priesca
+            - Church of San Salvador de Priesca
+        Soutu Lluina
+            - Iglesia de Santa Maria/Eglise Santa Maria de Soto de Luina
+        Mondonedo
+            - Catedral de Mondonedo
+        Sobrado dos Monxes
+            - Monaster de Sobrado Dos Monxes/Mosteiro de Sobrado dos Monxes
+        Zegama
+            - San Adriango tunela
+        Vitoria-Gasteiz
+            - Santa Maria katedrala
+        Haro
+            - Puente de Brinas/Pont de Brinas sur le Fleuve Ebro
+        Potes
+            - Monastere de Santo Toribio de Liebana
+        Donana National Park
+        Cuenca
+            - historic centre
+            - Barrio del Castillo
+            - Barrio del San Anton
+            - Barrio Tiradores
+        Valencia
+            - La Lonja de la Seda/Silk Exchange
+        Las Medulas
+            - Las Medulas - terrain after Roman gold mining
+            - Esteiles de la Balouta
+            - Esteiles de Yeres
+        Puente de Domingo Florez
+            - Esteiles de Valdebria
+        San Millan de la Cogolla
+            - Monastery of San Millan de Yuso/Yuso Monastery and Monastic Kitchen Gardens
+            - Monastery of San Millan de Suso
+        Castillejo de Martin Viejo
+            - Siega Verde archeological site
 Portugalia
         Nazare
             - olbrzymie fale        
+        Villa Nova de Foz Coa
+            - Broeira archeological site
+            - Canada do Inferno archeological site
+            - Rego da Vide archeological site
+            - Fonte Frieira archeological site/Quinta das Tulhas archeological site
+            - Meijapao archeological site	
+            - Vale de Moinhos archeological site
+        Cidadelhe
+            - Faia archeological site
+        Algodres
+            - Faia-Vale Afonsinho archeological site
+        Almendra
+            - Prehistoric Rock-Art Site of Penascosa
+            - Ribeirinha archeological site
+        Tomadias
+            - Quinta da Barca archeological site
+            - Cardina/Salto do Boi archeological site
+        Castelo Melhor
+            - Olgas de Ervamoira/Quinta da Ervamoira archeological site
+            - Namorados/Vale de Namoradas archeological site
+        Muxagata
+            - Fariseu/Quinta do Fariseu archeological site
+            - Ribeira de Piscos/Quinta dos Poios archeological site
+            - Vale de Figueira/Teixugo archeological site
 Wielka Brytania
         Bath
             - lazne
