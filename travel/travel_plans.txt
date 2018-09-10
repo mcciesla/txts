@@ -210,7 +210,8 @@ Czechy
         Litomerice
             - historic centre
         Terezin
-            - forteca
+            - mala pevnost - dokonczyc muzeum i wystawe
+            - podziemne korytarze fortecy
         Zlin
             - historic centre
         Luhacovice
@@ -3046,7 +3047,7 @@ Italia
             - Chiesa dei Santi Filippo e Giacomo agli Eremitani/Church of the Eremitani
             - Battistero della Cattedrale
             - Oratorio di San Michele
-        Isola di San Pietro 
+        Isola di San Pietro
         Corato
             - Castel del Monte
         Modena
@@ -3185,7 +3186,7 @@ Italia
             - Villa de Castello
             - Villa de la Petraia
             - Jardin de Boboli
-            - Villa du Poggio Imperiale	
+            - Villa du Poggio Imperiale
         Fiesole
             - hills with views on Florence and Arno valley
             - Villa Medici de Fiesole
@@ -3460,7 +3461,7 @@ Italia
             - Vette Feltrine group
             - Parco nazionale delle Dolomiti Bellunesi
             - Civetta-Moiazza-Gruppe
-            - Parco Naturale Dolomiti Friulane 
+            - Parco Naturale Dolomiti Friulane
             - Monte Antelao and surroundings
             - Punta Sorapiss massif
             - Cristallo massif
@@ -3523,7 +3524,7 @@ Italia
             - Nizza Monferrato and Barbera - wineyards
             - historic centre
         Canelli
-            - Canelli and Asti Spumante	
+            - Canelli and Asti Spumante
             - historic centre
         Vignale Monferrato
             - Monferrato of the Inferot - wineyards
@@ -3598,7 +3599,7 @@ Italia
         Collestatte
             - historic centre
         Valnerina - valley of the river Nero and its surroundings
-        Stilo 
+        Stilo
             - Cattolica di Stilo
         Roccelletta
             - Basilica of Santa Maria della Roccella
@@ -3730,7 +3731,7 @@ Italia
             - church Santa Maria Maddalena dei Pazzi
         Carbonia
             - Monte Sirai archeological area
-            - Domu de janas of Monte Crobu 
+            - Domu de janas of Monte Crobu
             - Nuraghe Sirai
         Piolanas
             - Su Carroppu
@@ -4021,7 +4022,7 @@ Rumunia
         Targu Jiu
             - Sculptural Ensemble of Constantin Brancusi
                 - The Table of Silence
-                - The Gate of the Kiss 
+                - The Gate of the Kiss
                 - The Endless Column
         Sibiu
             - historic centre
@@ -4120,7 +4121,7 @@ Bulgaria
             - Late-Antique Irene Building
             - Plovdiv National Archaeological Museum
         Aleksandrovo
-            - Thracian tomb of Aleksandrovo 
+            - Thracian tomb of Aleksandrovo
         Koprivshtitsa
             - National Festival of Bulgarian Folklore
         Shipka
@@ -4323,7 +4324,7 @@ Hiszpania
             - Iglesia de San Marcos
             - Church of Sancti Spiritus
             - Convento de Santa Clara/Convento de las Claras
-            - Casa-Convento de Santa Teresa 
+            - Casa-Convento de Santa Teresa
             - Iglesia de San Juan Bautista de Barbalos
             - San Cristobal church
             - Plaza Mayor
@@ -4341,7 +4342,7 @@ Hiszpania
         Parc natural de ses Salines
         Eivissa
             - Dalt Vila/fortified old town
-            - Necropoli de Puig des Molins 
+            - Necropoli de Puig des Molins
         Sant Jordi de ses Salines
             - Sa Caleta Phoenician Settlement
         l'Espluga de Francoli
@@ -4445,13 +4446,13 @@ Hiszpania
             - Siega Verde archeological site
 Portugalia
         Nazare
-            - olbrzymie fale        
+            - olbrzymie fale
         Villa Nova de Foz Coa
             - Broeira archeological site
             - Canada do Inferno archeological site
             - Rego da Vide archeological site
             - Fonte Frieira archeological site/Quinta das Tulhas archeological site
-            - Meijapao archeological site	
+            - Meijapao archeological site
             - Vale de Moinhos archeological site
         Cidadelhe
             - Faia archeological site
@@ -4509,8 +4510,8 @@ Vietnam
         Tam Coc
             - Bich Dong
             - Tam Coc caves
-                    - Hang Ca 
-                    - Hang Hai 
+                    - Hang Ca
+                    - Hang Hai
                     - Hang Ba
             - Hang Mua
             - Thai Vi temple
