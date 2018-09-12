@@ -218,7 +218,7 @@ Ajuthja
   Bibliografia :
       Encyklopedie panovníků
 
-Akad ( Agade , Akkad , Akkade )
+Akad ( Agade , Akkad , Akkade , Akkadian Empire )
   Szarru-kin ( Sargon )                  	              2334-2279 ( wg D.Ś. ) ( Szarrumkin wg S.C. ) ( Sargon Akkadský wg A.O.M.S.K.R. ) ( Sargon Akkadský (Šarru-kín) wg D.S.B.V. )
                                                         ok.1805-ok.1760 ( wg V.N.M.S.D. )
      				      	                                    ok.2340-ok.2310 ( wg S.B.W. )
@@ -227,6 +227,7 @@ Akad ( Agade , Akkad , Akkade )
         				      	                                ok.2316-2280 ( Szarrukin wg H.P.S. )
 					                                              2340-2284 ( wg M.P.M. )
                                                         ok.2300 ( Sargon I ( Šarrukín ) wg Ř.S.J.Ď.S. )
+                                                        ok.2250 ( Sargon the Great wg S.A.B.H.O.H. )
   Rimusz                                       	        2278-2270 ( wg D.Ś. i S.C. ) ( Rímuš wg D.S.B.V. )
 				     	                                          ok.2310-ok.2260 ( wg S.B.W. )
 					                                              ? ( Rímuš wg M.P.M. )
@@ -273,6 +274,7 @@ Akad ( Agade , Akkad , Akkade )
       Říše slova - Jazykové dějiny světa
       Huryci
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Sapiens - A Brief History of Humankind
 
 Akarnania
   Bibliografia :
@@ -509,7 +511,7 @@ Aleppo ( Halab )
       Encyklopedie panovníků
       Huryci
 
-Algieria
+Algieria ( Algeria )
   Ahmed Ben Bella                                       przed 1963-1965 ( ?.3.-?.6. )
   Bibliografia :
       Fidel & Che - A Revolutionary Friendship
@@ -726,7 +728,7 @@ Andros
   Bibliografia :
       Dzieje Grecji
 
-Anglia
+Anglia ( England )
   Królestwo Anglii
     Dynastia saska z Wessexu
       Egbert             	                              802-839 ( wg D.Ś. )
@@ -811,6 +813,7 @@ Anglia
       Ryszard I Lwie Serce	                            1189-1199 ( wg D.Ś. , Tapsella i V.N.M.S.D. ) ( Richard Lví Srdce wg D.B. )
 			            	                                    1189-1199 ( ?-6.4. ) ( wg 100.N.V.S. )
 			            	                                    przed 1190-1199 ( ?-11.4. )  ( wg K.V. )
+                                                        przed 1199-? ( Richard the Lionheart wg S.A.B.H.O.H. )
       Jan bez Ziemi              	                      1199-1216 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Jan Bezzemek wg D.P.I.R.G. )
 					                                              ? ( Jan I Bezzemek wg E.P. ) ( John wg V.K.T.H.O.H.E. )
                                                         przed 1204-? ( Jan Bezzemek wg Ř.S.J.Ď.S. )
@@ -824,8 +827,10 @@ Anglia
 					                                              1272-1307 ( ?-7.7. ) ( Eduard I wg E.P. )
                                                         przed 1283-po 1301 ( Eduard I wg Ř.S.J.Ď.S. )
                                                         przed 1287-po 1304 ( wg K.W.N.I.W.D. )
+                                                        ?-1307 ( wg S.A.B.H.O.H. )
       Edward II                     	                  1307-1327 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
                                                         przed 1307-? ( wg K.W.N.I.W.D. )
+                                                        1307-? ( wg S.A.B.H.O.H. )
       Edward III                    	                  1327-1377 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 			             	                                    przed 1340-? ( wg B.M. )
 					                                              ? ( Eduard III wg E.P. )
@@ -862,7 +867,7 @@ Anglia
       Maria I                 	                        1553-1558
       Elżbieta I              	                        1558-1603 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Alžběta I wg Ř.S.J.Ď.S. )
 			     	                                            przed 1568-po 1587 ( Alžběta I wg O.A. )
-		         		                                        ? ( wg P.J.D. ) ( Elżbieta wg 100.N.U.W. )
+		         		                                        ? ( wg P.J.D. ) ( Elżbieta wg 100.N.U.W. ) ( Elizabeth I wg S.A.B.H.O.H. )
 			     	                                            1558-? ( wg M.Ś. )
 			     	                                            ?-1603 ( Alžběta I wg V.R.M. ) ( Elizabeth I wg V.K.T.H.O.H.E. )
       Karol V              	                            przed 1559-?      ( wg B.M. )
@@ -924,7 +929,7 @@ Anglia
 		          	                                        przed 1775-po 1783 ( wg W.I.A.P. )
 			                                                  ? ( wg 100.N.U.W. )
 		          	                                        przed 1776-? ( wg M.Ś. )
-  Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ( United Kingdom , Great Britain )
+  Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ( United Kingdom , Great Britain , Britain )
     Dynastia hanowerska
       Jerzy III       	                                1801-1820 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( George III wg V.K.T.H.O.H.E. )
 			                                                  ? ( wg 100.N.U.W. )
@@ -935,6 +940,7 @@ Anglia
       Wilhelm IV	                                      1830-1837 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( William IV wg V.K.T.H.O.H.E. )
       Wiktoria    	                                    1837-1901 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Victoria (Alexandrine Victoire) wg V.K.T.H.O.H.E. )
 			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. )
+                                                        przed 1881-? ( Victoria wg S.A.B.H.O.H. )
     Dynastia Sachsen-Coburg-Gotha
       Edward VII         	                              1901-1910 ( wg D.Ś. i V.N.M.S.D. i Tapsella i V.K.T.H.O.H.E. )
                                                         przed 1904-? ( wg H.O.E. )
@@ -954,7 +960,7 @@ Anglia
       David Lloyd George                                przed 1918-po 1921 (?.12.-?.6.) ( wg V.K.T.H.O.H.E. )
       Winston Churchill                                 ? ( wg V.K.T.H.O.H.E. i E.N.T.C.F.R.S.H.A.P. )
       Clement Attlee                                    przed 1948-po 1949 ( wg V.K.T.H.O.H.E. )
-  Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej ( United Kingdom , Great Britain )
+  Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej ( United Kingdom , Great Britain , Britain )
     Dynastia Windsor
       Elżbieta II         	                            1953-? ( wg D.Ś. i V.N.M.S.D. i O.A.O.C.E. i Tapsella )
                                                         1953-po 2011 (?-?.5.) ( Elizabeth II wg V.K.T.H.O.H.E. )
@@ -1000,6 +1006,7 @@ Anglia
       Słowianie połabscy - Dzieje zagłady
       Heroes of Endurance
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      Sapiens - A Brief History of Humankind
 
 Anglowie
 
@@ -1886,65 +1893,66 @@ Asyria ( Asýrie , Assyria , Assiro )
       				      	                                  967-935 ( Tukulti-apil-Eszara wg S.B.W. )
   Aszur-dan II                               	          934-912 ( wg D.Ś. i S.B.W. i K.T.V.S.O. ) ( Aszurdan II wg S.C. i Hur. ) ( Aššur-dán II wg A.O.M.S.K.R. ) ( Aššur-dán II. wg D.S.B.V. )
                                                       	930-911 ( wg V.N.M.S.D. )
-  Adad-nirari II                             	          911-891 ( wg D.Ś. i S.B.W. i K.T.V.S.O. i A.O.M.S.K.R. ) ( III wg V.N.M.S.D. ) ( Adadnirari II wg S.C. ) ( Adad-nárárí wg Ř.S.J.Ď.S. ) ( Adad-nárárí II. wg D.S.B.V. )
+  Late Assyrian Empire
+    Adad-nirari II                             	        911-891 ( wg D.Ś. i S.B.W. i K.T.V.S.O. i A.O.M.S.K.R. ) ( III wg V.N.M.S.D. ) ( Adadnirari II wg S.C. ) ( Adad-nárárí wg Ř.S.J.Ď.S. ) ( Adad-nárárí II. wg D.S.B.V. )
       					                                        909-889 ( Adadnirári II wg E.P. )
-  Tukulti-Ninurta II                      	            890-884 ( wg D.Ś. i S.B.W. ) ( Tukultininurta II wg S.C. ) ( Tukultí-Ninurta II wg A.O.M.S.K.R. ) ( Tukultí-Ninurta II. wg D.S.B.V. )
+    Tukulti-Ninurta II                      	          890-884 ( wg D.Ś. i S.B.W. ) ( Tukultininurta II wg S.C. ) ( Tukultí-Ninurta II wg A.O.M.S.K.R. ) ( Tukultí-Ninurta II. wg D.S.B.V. )
                                                         891-885 ( wg V.N.M.S.D. )
-  Aszurnasirpal II                         	            883-859 ( wg D.Ś. i K.T.V.S.O. ) ( Aszur-nasir-apli II wg S.B.W. ) ( Assurnasirpal II wg F. i H.P.S. ) ( Aszurnasirpali II wg S.C. ) ( Aššurnasirpal II wg A.O.M.S.K.R. i M.P.M. ) ( Aššurnasirpal II. (Aššurnasirpal) wg D.S.B.V. )
+    Aszurnasirpal II                         	          883-859 ( wg D.Ś. i K.T.V.S.O. ) ( Aszur-nasir-apli II wg S.B.W. ) ( Assurnasirpal II wg F. i H.P.S. ) ( Aszurnasirpali II wg S.C. ) ( Aššurnasirpal II wg A.O.M.S.K.R. i M.P.M. ) ( Aššurnasirpal II. (Aššurnasirpal) wg D.S.B.V. )
                                                         885-860 ( wg V.N.M.S.D. )
       					                                        884-859 ( Aššurnasirpal wg Z.Ř. )
-  Szalmaneser III                          	            858-824 ( wg D.Ś. ) ( Szulmanu-aszared III wg S.B.W. ) ( Salmanassar III wg K.T.V.S.O. i S.C. i H.P.S. i A.O.M.S.K.R. ) ( Salmanasar III wg Hur. ) ( Salmanassar III. wg D.S.B.V. )
+    Szalmaneser III                          	          858-824 ( wg D.Ś. ) ( Szulmanu-aszared III wg S.B.W. ) ( Salmanassar III wg K.T.V.S.O. i S.C. i H.P.S. i A.O.M.S.K.R. ) ( Salmanasar III wg Hur. ) ( Salmanassar III. wg D.S.B.V. )
                              			     	                858/9-824 ( Salmanasar III wg F. )
                                                         860-825 ( II wg V.N.M.S.D. )
       					                                        859-824 ( Šalmaneser III wg Z.Ř. )
       					                                        ? ( Salmanassar III wg M.P.M. )
-  Szamszi-Adad V                        	              823-811 ( wg D.Ś. i S.B.W. ) ( Šamší-Adad V. wg D.S.B.V. )
+    Szamszi-Adad V                        	            823-811 ( wg D.Ś. i S.B.W. ) ( Šamší-Adad V. wg D.S.B.V. )
                                                         825-811 ( IV wg V.N.M.S.D. )
       				     	                                    823-810 ( wg K.T.V.S.O. ) ( Šamší-Adad V wg  A.O.M.S.K.R. )
                     		    		                        ok.810 ( wg F. )
                                                         ? ( wg H.P.S. ) ( Šamší-Adad V wg M.P.M. )
-  Adad-nirari III                            	          810-783 ( wg D.Ś. i S.B.W. ) ( Adad-nárárí III. wg D.S.B.V. )
+    Adad-nirari III                            	        810-783 ( wg D.Ś. i S.B.W. ) ( Adad-nárárí III. wg D.S.B.V. )
                                                         811-782 ( IV wg V.N.M.S.D. )
                                                         809-782 ( Adadnirari III wg K.T.V.S.O i F. )
       				      	                                  ? ( wg H.P.S. )
       				      	                                  809-784 ( wg A.O.M.S.K.R. )
-  Szalmaneser IV                          	            782-773 ( wg D.Ś. ) ( Szulmanu-aszared wg S.B.W. ) ( Salmanassar IV. wg D.S.B.V. )
+    Szalmaneser IV                          	          782-773 ( wg D.Ś. ) ( Szulmanu-aszared wg S.B.W. ) ( Salmanassar IV. wg D.S.B.V. )
                                                         782-771 ( III wg V.N.M.S.D. )
       				      	                                  781-772 ( Salmanassar IV wg K.T.V.S.O. )
       				         	                                ? ( Salmanassar IV wg A.O.M.S.K.R. )
-  Aszur-dan III                              	          772-755 ( wg D.Ś. ) ( Aššur-dán III. wg D.S.B.V. )
+    Aszur-dan III                              	        772-755 ( wg D.Ś. ) ( Aššur-dán III. wg D.S.B.V. )
                                                         771-753 ( wg V.N.M.S.D. )
       				      	                                  771-754 ( wg K.T.V.S.O. )
       				        	                                ? ( Aššur-dán III wg A.O.M.S.K.R. )
-  Aszur-nirari V                            	          754-745 ( wg D.Ś. ) ( Aszur-nirari I wg S.B.W. ) ( Aššur-nárarí V wg A.O.M.S.K.R. ) ( Aššur-nárárí V. wg D.S.B.V. )
+    Aszur-nirari V                            	        754-745 ( wg D.Ś. ) ( Aszur-nirari I wg S.B.W. ) ( Aššur-nárarí V wg A.O.M.S.K.R. ) ( Aššur-nárárí V. wg D.S.B.V. )
                                                         753-745 ( wg V.N.M.S.D. )
       				       	                                  753-746 ( wg K.T.V.S.O. )
-  Tiglat-Pilesar III                         	          744-727 ( wg D.Ś. ) ( Tukulti-apil-eszara III wg S.B.W. ) ( Tiglatpilesar III wg S.C. i Ř.S.J.Ď.S. ) ( Tiglatpilesar III. wg D.S.B.V. )
+    Tiglat-Pilesar III                         	        744-727 ( wg D.Ś. ) ( Tukulti-apil-eszara III wg S.B.W. ) ( Tiglatpilesar III wg S.C. i Ř.S.J.Ď.S. ) ( Tiglatpilesar III. wg D.S.B.V. )
                                                         745-ok.730 ( II wg V.N.M.S.D. )
       				       	                                  745-727 ( wg K.T.V.S.O. ) ( Tiglatpilesar III wg F. i H.P.S. i Z.Ř. )
       				       	                                  745-728 ( Tiglatpilesar III wg A.O.M.S.K.R. )
       					                                        ? ( Tiglatpilesar III wg M.P.M. )
                                                         przed 742-? ( Tiglatpilesar III wg Hur. )
-  Szalmaneser V                    	                    726-722 ( wg D.Ś. ) ( Szulmanu-aszared V wg S.B.W. ) ( Salmanassar V wg K.T.V.S.O. i F. ) ( Salmanasar V wg S.C. ) ( Salmanassar V. wg D.S.B.V. )
+    Szalmaneser V                    	                  726-722 ( wg D.Ś. ) ( Szulmanu-aszared V wg S.B.W. ) ( Salmanassar V wg K.T.V.S.O. i F. ) ( Salmanasar V wg S.C. ) ( Salmanassar V. wg D.S.B.V. )
                                                         ok.730-ok.720 ( IV wg V.N.M.S.D. )
       				      	                                  727-722 ( Salmanassar V wg H.P.S. )
       				      	                                  725-722 ( Salmanassar V A.O.M.S.K.R. )
-  Sargon II                                     	      721-705 ( wg D.Ś.,V.N.M.S.D., K.T.V.S.O. , F. i S.C. i M.P.M. i Ř.S.J.Ď.S. ) ( Szarru-kin II wg S.B.W. ) ( Sargon II. wg D.S.B.V. ) ( Sargon II. (Sargon) wg Gilg. )
+    Sargon II                                     	    721-705 ( wg D.Ś.,V.N.M.S.D., K.T.V.S.O. , F. i S.C. i M.P.M. i Ř.S.J.Ď.S. ) ( Szarru-kin II wg S.B.W. ) ( Sargon II. wg D.S.B.V. ) ( Sargon II. (Sargon) wg Gilg. )
       				      	                                  722-705 ( wg H.P.S. i A.O.M.S.K.R. i Z.Ř. )
       				      	                                  przed 713-? ( wg T. )
       					                                        przed 722-po 721 ( wg Ž.V.Ř.S. )
                                                         przed 714-? ( wg Hur. )
-  Sennacherib                             	            704-681 ( wg D.Ś. i  S.C. ) ( Sin-ahe-eriba wg S.B.W. ) ( Sinacherib wg K.T.V.S.O. i A.O.M.S.K.R. i Ř.S.J.Ď.S. )
+    Sennacherib                             	          704-681 ( wg D.Ś. i  S.C. ) ( Sin-ahe-eriba wg S.B.W. ) ( Sinacherib wg K.T.V.S.O. i A.O.M.S.K.R. i Ř.S.J.Ď.S. )
                                                         705-681 ( wg V.N.M.S.D. i Z.Ř. ) ( Sinacherib wg F. i M.P.M. ) ( Sanheryb wg H.P.S. ) ( Sancherib wg T. )
       					                                        przed 701-? ( Sancheríb wg Ž.V.Ř.S. )
                                                         705/4-681 ( Sinacherib (Sanherib) wg D.S.B.V. )
-  Esarhaddon ( Asarhaddon )     	                      680-669 ( wg D.Ś. i K.T.V.S.O. i F. i S.C. i M.P.M. i D.S.B.V. ) ( Aszur-aha-iddina  wg S.B.W. )
+    Esarhaddon ( Asarhaddon )     	                    680-669 ( wg D.Ś. i K.T.V.S.O. i F. i S.C. i M.P.M. i D.S.B.V. ) ( Aszur-aha-iddina  wg S.B.W. )
                                                         680-669 ( ?-?.11. ) ( wg A.O.M.S.K.R. )
                                                         681-668 ( wg V.N.M.S.D. )
                                                         681-669 ( Assarhaddon wg H.P.S. ) ( wg Z.Ř. )
       				      	                                  przed 679-?  ( wg T. )
                                                         ? ( wg Ř.S.J.Ď.S. )
-  Aszurbanipal                               	          668-627 ( wg D.Ś. ) ( Aššurbanipal wg A.O.M.S.K.R. i M.P.M. i Ř.S.J.Ď.S. ) ( Aššurbanipal (Sardanapal, Assurbanipal) wg D.S.B.V. )
+    Aszurbanipal                               	        668-627 ( wg D.Ś. ) ( Aššurbanipal wg A.O.M.S.K.R. i M.P.M. i Ř.S.J.Ď.S. ) ( Aššurbanipal (Sardanapal, Assurbanipal) wg D.S.B.V. )
                                                         668-626 ( wg V.N.M.S.D. ) ( Assurbanipal wg F. )
       				       	                                  669-630 ( Aszur-bani-apli wg S.B.W. ) ( Aššurbanipal wg Z.Ř. )
       				      	                                  668-632 ( wg K.T.V.S.O. )
@@ -1952,19 +1960,19 @@ Asyria ( Asýrie , Assyria , Assiro )
       				      	                                  669-ok.630 ( Assurbanipal wg H.P.S. )
                                                         ? ( Asurbanipal wg Hur. )
                                                         668-631 ( Aššurbanipal wg Gilg. )
-  Aszur-etil-ilani                            	        626-? ( wg D.Ś. )
+    Aszur-etil-ilani                            	      626-? ( wg D.Ś. )
                                                         620-ok.610 ( wg V.N.M.S.D. )
       				       	                                  630-623 ( Aszur-etel-ilani wg S.B.W. )
       				       	                                  631-628 ( wg K.T.V.S.O. )
       				     	                                    ? ( Assuretililani wg H.P.S. ) ( Aššur-etil-iláni wg A.O.M.S.K.R. )
                                                         627-623 ( Aššur-etel-iláni (Aššur-etellu-ili) wg D.S.B.V. )
-  Sin-szumu-liszir               	                      ? ( wg D.Ś. ) ( Sín-šuma-lišir wg A.O.M.S.K.R. )
-  Sin-szar-iszkun                       	              ?-612 ( wg D.Ś. )
+    Sin-szumu-liszir               	                    ? ( wg D.Ś. ) ( Sín-šuma-lišir wg A.O.M.S.K.R. )
+    Sin-szar-iszkun                       	            ?-612 ( wg D.Ś. )
       				      	                                  623-612 ( wg S.B.W. )
                                                         627-612 ( wg K.T.V.S.O. )
       				      	                                  ? ( Sinsariskun wg H.P.S. ) ( Sín-šarra-iškun wg A.O.M.S.K.R. ) ( Sín-šara-iškun wg M.P.M. )
                                                         622-612 ( Sín-šarra-iškun wg D.S.B.V. )
-  Aszur-uballit II                           	          611-609 ( wg D.Ś. )
+    Aszur-uballit II                           	        611-609 ( wg D.Ś. )
       				      	                                  612-610 ( wg S.B.W. )
       				      	                                  612-609 ( wg K.T.V.S.O. )
       				     	                                    ? ( Assurubalit wg H.P.S. )
@@ -2304,7 +2312,7 @@ Emirat Aydin
   Bibliografia :
       Dějiny Byzance
 
-Imperium Azteków
+Imperium Azteków ( Aztecs )
   Acamapichtli                                          1372-1391 ( wg D.Ś. )
       							                                    1377-1389 ( wg E.P. )
       							                                    ? ( Akamapicztli wg M.P.C.Ś. )
@@ -2326,6 +2334,7 @@ Imperium Azteków
        					                        	              ? ( Montezuma wg W.C.M.A.I.I. i Z..V.C. i A.S.A.O.T.D.O.T.I. ) ( Montekosoma wg M.P.C.Ś. )
       							                                    1503-1520 ( Moctezuma II Xocoyotzin wg E.P. )
                                                         przed 1519-? ( 8.11.-? ) ( Motecuhzoma wg Ř.S.J.Ď.S. )
+                                                        przed 1519-? ( Montezuma II wg S.A.B.H.O.H. )
   Cuitlahuac                                           	1520 ( wg D.Ś. )
       					            		                        1520 ( czerwiec-październik ) ( Cuitlahuaca wg O.A. )
                                                         ?-1520 ( Cuitláhuac wg E.P. )
@@ -2343,6 +2352,7 @@ Imperium Azteków
       Mity pięciu części świata
       A Short Account Of The Destruction Of The Indies
       Říše slova - Jazykové dějiny světa
+      Sapiens - A Brief History of Humankind
 
 Azuhinum
   Tahiszatili                                           ok.2125 p.n.e.
@@ -2365,6 +2375,7 @@ Babilonia ( Babylonie )
                                                 	      1728-1686 ( Hammurapi wg H.P.S. ) ( Hammurabi wg Hur. )
       				                                          ? ( Chammurapi wg A.O.M.S.K.R. i G.E.B.E.G.B. )
                                                         ok.1750 ( Chammurapi wg Ř.S.J.Ď.S. )
+                                                        przed ok.1776-? ( Hammurabi wg S.A.B.H.O.H. )
     Samsu-iluna         	                              1749-1712 ( Szamszu-iluna wg S.B.W. ) ( wg D.Ś. i M.P.M. i D.S.B.V. ) ( Samsuiluna wg S.C. )
     Abi-eszu                	                          1711-1684 ( Abi-eszuch wg S.B.W. ) ( wg D.Ś. ) ( Abí-ešuch wg M.P.M. i D.S.B.V. )
     Ammi-ditana              	                          1683-1647 ( Ammiditana wg S.B.W. ) ( wg D.Ś. ) ( Ammí-ditána wg D.S.B.V. )
@@ -2621,6 +2632,7 @@ Babilonia ( Babylonie )
       Gödel, Escher, Bach - existenciální gordická balada
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
       Gilgameš
+      Sapiens - A Brief History of Humankind
 
 Badachszan
   Bibliografia :
@@ -3069,6 +3081,7 @@ Belgia ( Belgium )
                                                         ? ( Leopold wg V.K.T.H.O.H.E. )
       Leopold II        	                              1865-1909 ( wg D.Ś. i V.N.M.S.D. )
                                                         przed 1885-? ( Leopold wg Ř.S.J.Ď.S. )
+                                                        przed 1876-? ( wg S.A.B.H.O.H. )
       Albert I             	                            1909-1934 ( wg D.Ś. i V.N.M.S.D. )
       Leopold III		                                    1934-1951 ( wg D.Ś. i V.N.M.S.D. )
       Baudouin          	                              1951-1993 ( wg D.Ś. i V.N.M.S.D. )
@@ -3078,6 +3091,7 @@ Belgia ( Belgium )
       Velká nástěnná mapa světových dějin
       Říše slova - Jazykové dějiny světa
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Sapiens - A Brief History of Humankind
 
 Bellontowie
 
@@ -4626,12 +4640,12 @@ Chiny ( Čína , China )
       Szy Huang Ti ( Czao Czeng , Ying Zheng )          221-210 ( wg D.Ś. i H.C. ) ( Pierwszy Cesarz wg S.S.F.Z.H. ) ( Čchin Š´-chuang-ti wg E.P. ) ( Shihuang Di wg Ř.S.J.Ď.S. ) ( Shi Huang Di (秦始皇帝, 嬴政) wg T.O.M.O.C.S.D. )
                                                         263-236 ( wg V.N.M.S.D. )
              				             	                      221-? ( wg S.B.W. )
-      					   	                                    ? ( wg H.P.S. )
+      					   	                                    ? ( wg H.P.S. ) ( Qín Shǐ Huángdì wg S.A.B.H.O.H. )
                                                         221-210 (?-jesień) ( Čchin Š'-chuang-ti wg A.Č.D. )
       Êr Szy Huang Ti ( Ying Huhai )           	        210-207 ( wg D.Ś. i H.C. ) ( Hu-hai wg S.S.F.Z.H. ) ( Er Shi Huang Di wg T.O.M.O.C.S.D. )
                                                         236-228 ( wg V.N.M.S.D. )
       Cz´in Wang                                 	      207 ( wg D.Ś. ) ( Tzu Jing wg H.C. )
-    Dynastia zachodnia Han ( Western Han Dynasty , Dynastie Chan )
+    Dynastia zachodnia Han ( Western Han Dynasty , Dynastie Chan , Han Empire )
       Kao Ti ( Liu Czi , Kao Cu , Liu Bang )            207-195 ( wg D.Ś. )
                                                         228-211 ( wg V.N.M.S.D. )
       				        	                                206-195 ( Liu Pang wg H.C. ) ( Gao Di (汉高帝, 刘邦) wg T.O.M.O.C.S.D. )
@@ -4943,6 +4957,7 @@ Chiny ( Čína , China )
                                                         684 i 710-712 ( Rui Zong wg T.O.M.O.C.S.D. )
       Wu Zetian                                         684-690 ( Wu Zhao (武周则天皇帝, 武曌) wg T.O.M.O.C.S.D. )
                                                         690-? (?.10.-?) ( Wu Čao wg A.Č.D. )
+                                                        ok.700 ( wg S.A.B.H.O.H. )
       Śuan Tsung ( Li Lung-c´i )                 	      712-756 ( wg D.Ś. ) ( Li Lung-Czi wg H.C. ) ( Li Lung-T´i ( Süan-cung ) wg E.P. ) ( Xuan Zong (Li Longji, 唐玄宗, 李隆基) wg T.O.M.O.C.S.D. )
       						                                      712-755 i przed 759-? ( Hüangcung wg D.D.T. )
                                                         przed 730-po 733 ( Süan-cung (Suang-cung) wg A.Č.D. )
@@ -5067,7 +5082,7 @@ Chiny ( Čína , China )
                                                         1223-1234 ( Ai Zong wg T.O.M.O.C.S.D. )
                                                         przed 1232-? ( Aj-cung wg A.Č.D. )
         Mo Ti                                       	  1234 ( wg D.Ś. )
-    Song Dynasty ( Dynastie Sung )
+    Song Dynasty ( Dynastie Sung , Song Empire )
       Dynastia północnych Sung ( Northern Song )
         T´ai Tsu ( Czao K´uang-jin )		                960-976 ( wg  D.Ś. i H.C. ) ( Čao Kchuang-jin wg E.P. ) ( Tai Zu (Zhao Kuangyin, 宋太祖, 赵匡胤) wg T.O.M.O.C.S.D. )
                                                         960-977 ( wg V.N.M.S.D. )
@@ -5114,7 +5129,7 @@ Chiny ( Čína , China )
       Ding Zong ( Borjigin Guyuk )                      1246-1249 ( wg T.O.M.O.C.S.D. )
       Oghul Ghaymish                                    1249-1251 ( wg T.O.M.O.C.S.D. )
       Xian Zong ( Borjigin Mongke )                     1251-1260 ( wg T.O.M.O.C.S.D. )
-      Szy Tsu ( Kubilaj )              	                1260-1294 ( wg D.Ś. i V.N.M.S.D. i T.Z.H.K. ) ( Shi Zu (Kublai, Borjigin Kublai, 元世祖, 忽必烈) wg T.O.M.O.C.S.D. )
+      Szy Tsu ( Kubilaj )              	                1260-1294 ( wg D.Ś. i V.N.M.S.D. i T.Z.H.K. ) ( Shi Zu (Kublai, Borjigin Kublai, 元世祖, 忽必烈) wg T.O.M.O.C.S.D. ) [Mongolian Khan]
       				         	                                1271-? ( Kubiłaj wg H.C. )
       				         	                                ok.1265 ( wg M.Ś. )
                                                         1271-1294 ( ?-18.2. ) ( Chubilaj ( Kublaj-chán ) wg E.P. )
@@ -5123,6 +5138,7 @@ Chiny ( Čína , China )
                                                         1271-1294 (?.12.-18.2.) ( Kubiłaj wg K.W.N.I.W.D. )
                                                         1271-po 1293 (?.12.-?) ( Chubilaj wg A.Č.D. )
                                                         przed 1267-? ( Š'-cu (Kublaj) wg N.G.Z.M. )
+                                                        przed 1281-? ( Kublai Khan wg S.A.B.H.O.H. )
       Cz´eng Tsung ( Temür )     	                      1294-1307 ( wg V.N.M.S.D. i D.Ś. ) ( Cheng Zong (Temur, Borjigin Temur, 元成宗, 铁穆耳) wg T.O.M.O.C.S.D. )
       				         	                                1295-1307 ( wg T.Z.H.K. )
                                                         przed 1301-? (?.9.-?) ( Temur wg K.W.N.I.W.D. )
@@ -5144,7 +5160,7 @@ Chiny ( Čína , China )
                                                         ? ( Togon Temur wg K.W.N.I.W.D. )
                                                         1333-po 1368 ( Toghon-Tömür wg A.Č.D. )
       Toktoa                                            ? ( wg K.W.N.I.W.D. )
-    Dynastia Ming ( Dynastie Ming )
+    Dynastia Ming ( Dynastie Ming , Ming Dynasty , Ming Empire )
       Hung Wu ( T´ai Tsu , Czu Jüan-czang )	            1368-1398 ( wg D.Ś. i H.C. ) ( Ču Jüan-čang ( Tchaj-cu ) wg E.P. ) ( Tai Zu (Zhu Yuanzhang, Hongwu, 明太祖, 朱元璋) wg T.O.M.O.C.S.D. )
                                                        	1367-1398 ( wg V.N.M.S.D. )
       						  	                                  1368-?   ( wg T.Z.H.K. )
@@ -5196,9 +5212,10 @@ Chiny ( Čína , China )
     Dynastia Czou
       Wu San-Kuei	                                      1673-1681 ( wg H.C. )
                                                         1674-? ( Wu San-kuej wg A.Č.D. )
-    Dynastia Cz´ing ( Qing , Dynastia późniejsza Kin , Tin , Later Jin , Dynastie Ťin , Dynastie Čching ) ( Manczu , mandżurska )
+    Dynastia Cz´ing ( Qing , Dynastia późniejsza Kin , Tin , Later Jin , Dynastie Ťin , Dynastie Čching , Qing Dynasty ) ( Manczu , mandżurska )
       Tai Zu ( Nurhaczi , Aisin Gioro Nurhaci )         1616-1626 ( 清太祖 (Tianming, 努尔哈赤) wg T.O.M.O.C.S.D. ) ( wg H.C. ) ( Nurhači wg E.P. )
                                                         1616-? ( Nurhači wg A.Č.D. )
+                                                        ? ( Nurhaci wg S.A.B.H.O.H. )
       Tai Zong ( Abahai , Aisin Gioro Abahai )          1636-1643 ( wg H.C. )
       							                                    ?-1643 ( Abachaj Abagaj wg E.P. )
                                                         1626-1643 ( 清太宗 (Tiancong, Chongde, 皇太极) wg T.O.M.O.C.S.D. )
@@ -5318,6 +5335,7 @@ Chiny ( Čína , China )
       Atlas čínských dějin
       National Geographic - Zakázané město
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      Sapiens - A Brief History of Humankind
 
 Chios
   Hippoklos		                                          ?
@@ -6549,7 +6567,7 @@ Delfy
   Bibliografia :
       Dzieje Grecji
 
-Sułtanat Delhi ( Dillíjský sultanát )
+Sułtanat Delhi ( Dillíjský sultanát , Sultanate of Delhi )
   Dynastia Mu´izzi
     Ajbak                        	                      1206-1210 ( wg D.Ś. )
                                                       	1206-? ( Kutb-ud-dín Aibak wg S.I. )
@@ -6912,7 +6930,7 @@ Egipt ( Egypt )
   Wczesna Epoka Dynastyczna
     1.dynastia ( tynicka )
       Horus Aha ( Meni , Menes , Naarmer )	            ok.3100-ok.3066 ( wg D.Ś. )
-      					            		                        ok.3000 ( Narmer wg S.C. )
+      					            		                        ok.3000 ( Narmer wg S.C. ) ( wg S.A.B.H.O.H. )
       						          	                          ? ( wg H.P.S. ) ( wg Ř.S.J.Ď.S. )
       							                                    ok.3100 ( Narmer wg E.P. )
       Teta ( Aaha )                                     ? ( wg V.N.M.S.D. )
@@ -7183,7 +7201,7 @@ Egipt ( Egypt )
       							                                    ? ( wg H.P.S. i A.O.M.S.K.R. ) ( Achnaton wg E.P. i Ž.V.Ř.S. i M.P.M. )
                                                         ok.1330 ( Achnaton wg Ř.S.J.Ď.S. )
                                                         ok.1325 ( wg Hur. )
-                                                        ok.1350 ( Achnaton wg D.S.B.V. )
+                                                        ok.1350 ( Achnaton wg D.S.B.V. ) ( Akhenaten wg S.A.B.H.O.H. )
       Anchcheprure Semenchkare                      	  1336-1334 ( wg D.Ś. )
       Nebcheprure Tutanchamon                         	1334-1325 ( wg D.Ś. )
       						    	                                1361-1352 ( Tutankhamon wg S.B.W. )
@@ -7209,7 +7227,7 @@ Egipt ( Egypt )
       Usermare Ramzes II        	                      1279(1290)-1212 ( wg D.Ś. )
       					                                        1304-1238 ( wg S.B.W. )
       					                                        1290-1224 ( wg K.T.V.S.O. )
-      					                                        ? ( wg D.G. ) ( Ramesse II wg Ř.S.J.Ď.S. ) ( Rameses II (Ozymandias) wg V.K.T.H.O.H.E. )
+      					                                        ? ( wg D.G. ) ( Ramesse II wg Ř.S.J.Ď.S. ) ( Rameses II (Ozymandias) wg V.K.T.H.O.H.E. ) ( Ramses II wg S.A.B.H.O.H. )
       					                                        1291-1224 ( wg H.P.S. )
       					                                        1290-1224 ( wg S.C. )
       					                                        przed ok.1300-? ( Ramesse II wg E.P. )
@@ -7501,7 +7519,7 @@ Egipt ( Egypt )
       							    	                              ok.47 ( wg 100.N.V.S. )
       							    	                              47-30 ( VII wg H.P.S. ) ( wg K.R.I.C.R. )
       							    	                              przed 31-? ( wg B.M. ) ( Kleopatra VII wg Ž.V.Ř.S. )
-      								                                  ? ( VII wg E.P. i Z.Ř. )
+      								                                  ? ( VII wg E.P. i Z.Ř. ) ( Cleopatra wg S.A.B.H.O.H. )
       								                                  przed 44-30 ( ?-?.8. ) ( wg Z.V.C. )
       								                                  ?-30 ( wg T.P.Ž.C. )
       								                                  przed 47-30 ( wg O.A.O.C.E. )
@@ -7641,6 +7659,7 @@ Egipt ( Egypt )
       Fu´ad II                              	          1952-1953 ( wg D.Ś. )
   Nasser                                                przed 1959-po 1964 ( wg F.C.A.R.F. )
   Mubarak                                               przed 2011-? ( wg V.K.T.H.O.H.E. )
+                                                        przed 2010-po 2011 ( wg S.A.B.H.O.H. )
   Uwagi :
       Wszystko oprócz oznaczonych przed Dynastią Muhammada Alego wg D.Ś.
       Wszystko oprócz oznaczonego od 18. do 20.,22. ,24. ,25. i 26. dynastii wg D.Ś. i S.B.W.
@@ -7694,6 +7713,7 @@ Egipt ( Egypt )
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
       Gilgameš
       Cesarz wszech chorób - Biografia raka
+      Sapiens - A Brief History of Humankind
 
 Egrisi
   Bibliografia :
@@ -8491,11 +8511,13 @@ Francja ( France )
       Ludwik XV         	                              1715-1774  ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Louis XV wg V.K.T.H.O.H.E. )
 			     	                                            ok.1738 ( wg 100.N.V.S. )
 				                                                ? ( wg 100.N.U.W. i M.Ś. ) ( Ludvík XV wg V.F.V. )
+                                                        przed 1717-? ( Louis XV wg S.A.B.H.O.H. )
       Ludwik XVI        	                              1774-1792 ( wg D.Ś. i Tapsella )
                                              	          1774-1789 ( wg V.N.M.S.D. )
 				                                                przed 1781-? ( wg 100.N.U.W. )
 				                                                ? ( wg M.Ś. ) ( Ludvík XVI wg V.F.V. )
                                                         1774-1793 ( Louis XVI wg V.K.T.H.O.H.E. )
+                                                        przed 1789-? ( Louis XVI wg S.A.B.H.O.H. )
       Ludwik XVII           	                          1793-1795 ( wg D.Ś. i V.N.M.S.D. )
   1.Republika
     Konsulat
@@ -8503,6 +8525,7 @@ Francja ( France )
                                          	              przed 1799-?   ( wg 100.N.U.W. )
 				                                                przed 1800-? ( wg V.F.V. )
                                                         przed 1800-1805 ( Napoleon (Buonaparti, Napoléon) wg V.K.T.H.O.H.E. )
+                                                        przed 1798-? ( Napoleon wg S.A.B.H.O.H. )
   Pierwsze Cesarstwo
     Dynastia Bonaparte
       Napoleon I		                                    1804-1814 i 1815 ( wg D.Ś. i V.N.M.S.D. )
@@ -8512,10 +8535,11 @@ Francja ( France )
 			    	                                            ?-1814 ( wg 100.N.U.W. )
 			    	                                            przed 1805-? ( Napoleon Bonaparte wg B.M. )
 			    	                                            przed 1798-1814 i 1815 ( wg M.Ś. )
-			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. )
+			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. )
 				                                                przed 1812-? ( Napoleon Bonaparte wg B.O.R.H. )
 				                                                przed 1815-? ( Napoleon wg G.T.G. )
                                                         1805-1814 i 1815 (?-11.4. i ?-?.6.) ( Napoleon wg V.K.T.H.O.H.E. )
+                                                        ?-po 1805 ( Napoleon wg S.A.B.H.O.H. )
       Napoleon II         	                            1815 ( wg D.Ś. )
   Królestwo Francji
     Dynastia burbońska ( The Bourbons )
@@ -8540,6 +8564,7 @@ Francja ( France )
 				                                                ? ( wg V.R.M. i K. i S.Z.L. )
 				                                                przed 1865-1870 ( wg V.F.V. )
                                                         1852-po 1870 ( Charles Louis-Napoleon Bonaparte wg V.K.T.H.O.H.E. )
+                                                        ok.1865 ( wg S.A.B.H.O.H. )
   Third Republic
   prime ministers
     Georges Clemenceau                                  ? ( wg E.N.T.C.F.R.S.H.A.P. )
@@ -8591,6 +8616,7 @@ Francja ( France )
       Słowianie połabscy - Dzieje zagłady
       Sztukmistrz z Lublina
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      Sapiens - A Brief History of Humankind
 
 Wielkie Księstwo Frankfurtu
   Karol Teodor Dalberg                                  1810-1813
@@ -9217,7 +9243,7 @@ Guelders
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Imperium Guptów
+Imperium Guptów ( Gupta Empire )
   Dynastia Guptów
     Gupta                   	                          275-300
     Ghatotkacza         	                              300-320 ( wg D.Ś. )
@@ -9614,16 +9640,6 @@ Hassu
   Aniszhurbi                                            ?
   Bibliografia :
       Huryci
-
-
-Haszymidzkie Królestwo Jordanii
-  Dynastia Haszymidów
-    ´Abd Allah	                                        1949-1951
-    Talal              	                                1951-1952 ( wg D.Ś. )
-    Husajn          	                                  1952-?
-  Bibliografia :
-      Dynastie Świata
-      Velká nástěnná mapa světových dějin
 
 Hattina ( Unki )
   Lubarna                                               ok.870 p.n.e.
@@ -10339,7 +10355,7 @@ Indrapura
   Bibliografia :
       Khmerové
 
-Imperium Inków
+Imperium Inków ( Inca Empire , Incas )
   Pachacuti           		                              1438-1471 ( wg D.Ś. i Ř.I. i O.A. )
       				                                          1438-1463(1471) ( Pačakuti wg E.P. )
                                                         ? ( wg Ř.S.J.Ď.S. )
@@ -10358,7 +10374,7 @@ Imperium Inków
       		          		                                ok.1532 ( wg 100.N.V.S. )
       		          		                                1527(1532)-1533 ( ?-29.8. ) ( wg O.A. )
                                             		        przed 1528-po 1532 ( Atahualpa wg V.R.M. )
-      			       	                                    ? ( Atahualpa wg W.C.M.A.I.I. i A.S.A.O.T.D.O.T.I. )
+      			       	                                    ? ( Atahualpa wg W.C.M.A.I.I. i A.S.A.O.T.D.O.T.I. i S.A.B.H.O.H. )
                                                         przed 1532-? ( wg Ř.S.J.Ď.S. )
   Tupac Inka Yupanqui  	                                ? ( wg O.L. )
   Tupac Amaru II         	                              1780-1781 ( ?-?.5. ) ( wg V.R.M. )
@@ -10375,6 +10391,7 @@ Imperium Inków
       Encyklopedie panovníků
       A Short Account Of The Destruction Of The Indies
       Říše slova - Jazykové dějiny světa
+      Sapiens - A Brief History of Humankind
 
 Iolkos
   Aison		                                              ? ( wg Z.Ř. )
@@ -10392,7 +10409,7 @@ Irak ( Iraq )
     Saddam Husajn		                                    1977-? ( wg 100.N.V.S. )
       			  	                                        ok.1991 ( wg S.C. )
       			  	                                        przed 1991-? ( wg M.Ś. )
-      				                                          ? ( wg M.P.M. )
+      				                                          ? ( wg M.P.M. ) ( Saddam Hussein wg S.A.B.H.O.H. )
                                                         przed 2000-? ( wg Ř.S.J.Ď.S. )
                                                         przed 2003-? ( Saddam Hussein wg E.N.T.C.F.R.S.H.A.P. )
   Bibliografia :
@@ -10404,6 +10421,7 @@ Irak ( Iraq )
       Mezopotámie - počátky měst
       Říše slova - Jazykové dějiny světa
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      Sapiens - A Brief History of Humankind
 
 Irkata
   Bibliografia :
@@ -11298,11 +11316,18 @@ County of Joigny
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Królestwo Jordanii
-  Dynastia Haszymidów
-    ´Abd Allah                                          1946-1949
+Jordania ( Jordan )
+  Królestwo Jordanii
+    Dynastia Haszymidów
+      ´Abd Allah                                        1946-1949 ( wg D.Ś. )
+  Haszymidzkie Królestwo Jordanii
+    Dynastia Haszymidów
+      ´Abd Allah	                                      1949-1951
+      Talal              	                              1951-1952 ( wg D.Ś. )
+      Husajn          	                                1952-?
   Bibliografia :
       Dynastie Świata
+      Velká nástěnná mapa světových dějin
 
 Jorubowie
   Szango		                                            ?
@@ -11416,7 +11441,7 @@ Królestwo Judy ( Království Judy , Juda , Judsko , Judah )
       Říše slova - Jazykové dějiny světa
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
-Jugosławia
+Jugosławia ( Yugoslavia )
   Królestwo Jugosławii
     Dynastie Obrenoviczów i Karadjordjeviczów
       Aleksander I	                                    1929-1934 ( wg D.Ś. i V.N.M.S.D. )
@@ -11499,7 +11524,10 @@ Kalatse
   Bibliografia :
       Dzieje dawnych Turków
 
-Kaledończycy
+Kaledończycy ( Caledonians )
+  Calgacus                                              ?
+  Bibliografia :
+      Sapiens - A Brief History of Humankind
 
 Kalifat
   Mohamed	                                              622-632 ( wg D.B. )
@@ -11559,7 +11587,7 @@ Kalifat
       		                   	                          ? ( Marvan wg Z.S.A.V.E. )
   ´Abdallah ibn az-Zubair	                              683-692 ( 7.10.-1(27).10. ) ( wg R.Z.A.D.D. )
       				                                          680-692 ( Ibn az-Zubajr wg E.P. )
-  Dynastia ´Abbasydów w Bagdadzie ( Kalifat Abbasydzki w Bagdadzie )
+  Dynastia ´Abbasydów w Bagdadzie ( Kalifat Abbasydzki w Bagdadzie , Abbasid Caliphate )
     Abu al-´Abbas as-Saffah	                            750-754 ( wg D.Ś. )
       			              	                            749-? ( Abu l-Abbás wg M.A.E. )
     Al-Mansur                         	                754-775 ( wg D.Ś. )
@@ -11906,7 +11934,7 @@ Królestwo Karsu
       Dynastie Świata
       Arménie
 
-Kartagina ( Quart Hadaszt )
+Kartagina ( Quart Hadaszt , Carthage )
   Elissa ( Dydona )		                                  ok.820 p.n.e. ( wg S.B.W: i F. )
       				                                          ? ( Didona wg Z.Ř. i Ř.S.J.Ď.S. )
                                                         1234/941 p.n.e.-? ( wg K.1.1.P.N.E. )
@@ -12021,7 +12049,7 @@ Królestwo Kastylii i Leonu
                                                         1474-1516 ( wg V.N.M.S.D. )
         				                                        przed 1492-? ( Ferdynand Aragoński wg W.C.M.A.I.I. ) ( Ferdynand wg M.Ś. i K.W.N.I.W.D. )
         					                                      przed 1493-po 1515 ( Ferdinand The Catholic wg A.S.A.O.T.D.O.T.I. )
-                                                        ? ( Ferdynand II Aragoński wg P.J.D. )
+                                                        ? ( Ferdynand II Aragoński wg P.J.D. ) ( Ferdinand wg S.A.B.H.O.H. )
                                                         przed 1486-po 1492 (1.5.-17.4.) ( Ferdinand Aragonský wg K.F. )
       Izabela I Katolicka             	                1474-1504 ( wg D.Ś. ) ( Isabela Kastilská wg D.P.I.R.G. ) ( Isabelle of Castille (Isabella of Castille) wg V.K.T.H.O.H.E. )
                                                         1474-1512 ( wg V.N.M.S.D. )
@@ -12030,6 +12058,7 @@ Królestwo Kastylii i Leonu
         					                                      przed 1493-1504 ( ?-26.11. ) ( Isabella wg A.S.A.O.T.D.O.T.I. )
                                                         1474-po 1504 ( Isabela wg Ř.S.J.Ď.S. )
                                                         przed 1486-po 1492 (1.5.-17.4.) ( Izabela Kastilská wg K.F. )
+                                                        ? ( Isabella wg S.A.B.H.O.H. )
     Dynastia habsburska
       Filip I Piękny                      	            1504-1506 ( wg D.Ś. )
       Joanna Szalona                   	                1504-1506 ( wg D.Ś. )
@@ -12050,6 +12079,7 @@ Królestwo Kastylii i Leonu
       Kolumbova flotila
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Kubiłaj-chan - władca największego imperium w dziejach
+      Sapiens - A Brief History of Humankind
 
 Kaszgaria
   Emirat Kaszgarii
@@ -12446,7 +12476,7 @@ Kirgizja ( Kyrgystán , Kyrgyzstan )
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Kisz ( Kiš )
+Kisz ( Kiš , Kish )
   Me.barage.si Aga ( Agga )	                            po 2630-przed 2500 ( wg S.B.W. )
       					                                        ? ( Akka wg M.P.M. ) ( Mebaragesi wg D.S.B.V. )
   En.me.baragesi                     	                  ok.2620-ok.2600 ( wg S.B.W. )
@@ -12461,7 +12491,7 @@ Kisz ( Kiš )
       					                                        ? ( Ur-zababa wg M.P.M. )
   Utuk				                                          ? ( wg S.B.W. )
   Uchub				                                          ? ( wg M.P.M. )
-  Sargon ( Šarru-kín )                                  ? ( Sargon akkadský wg D.S.B.V. ) [King of Akkad]
+  Sargon ( Šarru-kín )                                  ? ( Sargon akkadský wg D.S.B.V. ) ( Sargon wg S.A.B.H.O.H. ) [King of Akkad]
   Ipchur-Kiš                                            ok.2240 ( wg D.S.B.V. )
   Bibliografia :
       Starożytny Bliski Wschód
@@ -12469,6 +12499,7 @@ Kisz ( Kiš )
       Mezopotámie - počátky měst
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
       Gilgameš
+      Sapiens - A Brief History of Humankind
 
 Kitanowie ( Kitansko )
   Bibliografia :
@@ -13493,7 +13524,7 @@ Kusz ( Kúš )
   Bibliografia :
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
-Kuszanie
+Kuszanie ( Kushan Empire )
   Kujula Kadphises	                                    ?-64 n.e. ( wg S.I. ) ( Kadfiz I wg S.A. )
   Wima                      	                          ok.64 -ok.78 ( wg S.A. i S.I. )
       				                                          ok.78-100 ( Kadfises II Víma wg E.P. )
@@ -14021,7 +14052,7 @@ Państwo Liczczhawijów
   Bibliografia :
       Starověká Indie
 
-Królestwo Lidii
+Królestwo Lidii ( Lydia )
   Atys                              	                  ? ( wg D.R. )
   Adrymetos              	                              1550-1500 ( wg V.N.M.S.D. )
   Triolos                    	                          1500-1490 ( wg V.N.M.S.D. )
@@ -14064,6 +14095,7 @@ Królestwo Lidii
       				                                          ok.607-560 ( Alyattés wg E.P. )
       				                                          617-560 ( Alyattes wg Z.Ř. )
                                                         ok.610-ok.560 ( Alyattes wg D.S.B.V. )
+                                                        ok.640 ( Alyattes wg S.A.B.H.O.H. )
     Krezus ( Kroisos )	                                560-547 ( wg D.Ś. i A.Č. i E.P. i D.S.B.V. )
                                                     	  562-546 ( wg V.N.M.S.D. )
                                                     	  ?-546 ( wg S.B.W. i H.P.S. i K.Ř. )
@@ -14090,6 +14122,7 @@ Królestwo Lidii
       Klasické Řecko
       Říše slova - Jazykové dějiny světa
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Sapiens - A Brief History of Humankind
 
 Księstwo Liechtensteinu
   Antoni Florian            	                          1719-1721
@@ -14623,7 +14656,7 @@ Macedonia ( Makedonie )
     Filip II Macedoński               	                359-336 ( wg A.Č. , D.Ś. i V.N.M.S.D. i S.C. i D.P.I.R.G. i H.P.S. i S.K. ) ( Filip II Makedonský wg E.P. i K.Ř. )
 				    	                                          ?-336 ( wg 100.N.V.S. )
 				    	                                          358-336 ( Filip wg D.G. )
-					                                              ? ( wg D.R. ) ( Filip Makedonský wg T.P.Ž.C. ) ( Filip Macedoński wg O.A.O.C.E. )
+					                                              ? ( wg D.R. ) ( Filip Makedonský wg T.P.Ž.C. ) ( Filip Macedoński wg O.A.O.C.E. ) ( Philip wg S.A.B.H.O.H. )
 				    	                                          przed 358-po 339 ( wg T. )
 				    	                                          przed 338-336 ( wg T.H.S. )
   				    	                                        ?-336 ( ?-lato ) ( wg S.H. )
@@ -14638,7 +14671,7 @@ Macedonia ( Makedonie )
                                                         ok.333 ( wg F. )
 				    	                                          przed 334-po 332 ( wg D.R. )
 				    	                                          336-? ( wg S.C. )
-				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. ) ( Aleksander Macedoński wg Z.N.E. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. ) ( Alexandr Makedonský wg A.Č.D. )
+				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. ) ( Aleksander Macedoński wg Z.N.E. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. ) ( Alexandr Makedonský wg A.Č.D. ) ( Alexander the Great wg S.A.B.H.O.H. )
 				    	                                          przed 332-?  ( Aleksander Macedoński wg B.M. )
                                                         przed 324-323 ( ?-10.6. ) ( Alexandr Veliký wg T.H.S. )
 					                                              przed 332-323 ( Alexandr Veliký wg Ž.V.Ř.S. )
@@ -14771,6 +14804,7 @@ Macedonia ( Makedonie )
       Krassus - Polityk niespełnionych ambicji
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
       Atlas čínských dějin
+      Sapiens - A Brief History of Humankind
 
 Machalata
   Bibliografia :
@@ -14868,7 +14902,7 @@ Królestwo Majorki ( Kingdom of Mallorca )
       Dynastie Świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Majowie
+Majowie ( Maya )
   Kanče            	                                    ?
   Pat                 	                                przed 1848 n.e.-?
   Balam		                                              ?
@@ -15134,6 +15168,7 @@ Mari
       				                                          ? ( Zimrí-Lim wg M.P.M. )
                                                         ok.1715-1693 ( Zimrilim wg Hur. )
                                                         ok.1775-1762 ( Zimrí-Lim wg D.S.B.V. )
+                                                        przed ok.1776-? ( Zimrilim wg S.A.B.H.O.H. )
   Bibliografia :
       Starożytny Bliski Wschód
       Starożytne Cywilizacje
@@ -15141,6 +15176,7 @@ Mari
       Mezopotámie - počátky měst
       Huryci
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Sapiens - A Brief History of Humankind
 
 Królestwo Marinidów
   Dynastia Marinidów
@@ -15306,7 +15342,7 @@ County of Maurienne
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Imperium Maurjów ( Říše Maurjů )
+Imperium Maurjów ( Říše Maurjů , Mauryan Empire , Maurya Empire )
   Dynastia Maurjów
     Czandragupta Maurja	                                321-297 ( wg D.Ś. i S.I. )
       			         	                                  przed 304-? ( wg S.C. )
@@ -16057,7 +16093,7 @@ Mongołowie
   Kabuł-kahan		                                        ? ( wg D.Ś. )
   Ambakaj-kahan		                                      ? ( wg D.Ś. )
   Kutuła-kahan		                                      ? ( wg D.Ś. )
-  Imperium Mongołów
+  Imperium Mongołów ( Mongol Empire )
     Czyngis Chan ( Temudżyn )                           1206-1227 ( wg D.Ś. i K.V. i H.C. ) ( Czyngis-chan wg T.Z.H.K. ) ( Borjigin Temujin (Genghis Khan) wg T.O.M.O.C.S.D. )
       			    	                                      ?-1227 ( wg 100.N.V.S. )
       			       	                                    ? ( wg D.J. ) ( Čingischán wg D.P.I.R.G. i N.G.Z.M. ) ( Džingischán wg S.V.J.Ž.Ž. ) ( Gengis Khan wg V.K.T.H.O.H.E. ) ( Czyngis-chan wg Z.N.E. )
@@ -16095,6 +16131,7 @@ Mongołowie
                                                         1260-1294 (?.5.-18.2.) ( wg K.W.N.I.W.D. )
                                                         1260-po 1293 (?.5.-?) ( wg A.Č.D. )
                                                         przed 1267-? ( wg N.G.Z.M. )
+                                                        przed 1281-? ( Kublai Khan wg S.A.B.H.O.H. )
     Arig Boge                                           1260-1264 ( Arig Mocny wg K.W.N.I.W.D. )
     Temur                                               przed 1301-? (?.9.-?) ( wg K.W.N.I.W.D. )
     Toktoa                                              ? ( wg K.W.N.I.W.D. )
@@ -16120,6 +16157,7 @@ Mongołowie
       Zapomianie narody Europy
       Atlas čínských dějin
       National Geographic - Zakázané město
+      Sapiens - A Brief History of Humankind
 
 County of Montbéliard
   Bibliografia :
@@ -16784,7 +16822,7 @@ Niemcy ( Germany )
     Konrad III                                          przed 1142-1152 ( wg S.P.D.Z. ) [Holy Roman Emperor]
     Frederick Barbarossa                                1152-1190 ( wg V.K.T.H.O.H.E. )
   Cesarstwo Niemiec
-    Dynastia Hohenzollernów
+    Dynastia Hohenzollernów ( Hohenzollern Empire )
       Wilhelm I         	                              1871-1888 ( wg D.Ś. i V.N.M.S.D. ) ( William I wg V.K.T.H.O.H.E. ) [King of Prussia Wilhelm I]
       			         	                                  ? ( wg M.Ś. ) ( Vilém I wg F.B.C.A.R. )
       Fryderyk III		                                  1888 ( wg D.Ś. i V.N.M.S.D. )
@@ -16793,15 +16831,17 @@ Niemcy ( Germany )
       			         	                                  ? ( wg M.Ś. i M.W.H. ) ( Vilém II wg Z.V.C. )
       				                                          1888-? (15.6.-?) ( wg G.T.G. )
                                                         przed 1908-? ( wg C.W.C.B.R. )
-  chancellors
-    Von Papen                                           przed 1932-? ( wg V.K.T.H.O.H.E. )
-  3. Rzesza
+                                                        przed 1900-? ( wg S.A.B.H.O.H. )
+  Weimar Republic
+    chancellors
+      Von Papen                                         przed 1932-? ( wg V.K.T.H.O.H.E. )
+  3. Rzesza ( Third Reich )
     Adolf Hitler           	                            1933-1945 ( ?-30.4. ) ( wg 100.N.V.S. )
       			   	                                        przed 1944 -? ( wg K.B.T. i P.S. )
       			   	                                        1933-? ( wg 100.N.U.W. )
       			   	                                        1933-po 1941 ( wg M.Ś. )
                                                         1933-po 1945 (?-21.1.) ( wg V.K.T.H.O.H.E. )
-      			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. i M.W.H. ) ( Hitler wg E.N.T.C.F.R.S.H.A.P. )
+      			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. i M.W.H. ) ( Hitler wg E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. )
   German Democratic Republic ( NRD , East Germany , German Democratic Republic )
   German Federal Republic ( RFN , West Germany )
     chancellors
@@ -16826,6 +16866,7 @@ Niemcy ( Germany )
       Cesarz wszech chorób - Biografia raka
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
       Muzyka w Herzenburgu
+      Sapiens - A Brief History of Humankind
 
 Niger
   Bibliografia :
@@ -18280,8 +18321,9 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       				        	                                640-600 ( wg S.B.W. )
   Ariaramnes                              	            640-590 ( wg S.B.W. )
   Kambyzes I			                                      ? ( wg S.B.W. i 100.N.V.S. )
-  Dynastia Achemenidów ( Achaimenovci , Achaemenids )
-    Cyrus II ( Kurusz )           	                    559-529 ( wg A.Č. i V.N.M.S.D. i R.Z.A.D.D. ) ( Cyrus wg D.G. ) ( Kyros II Veliký wg K.Ř. )
+  Persian Empire
+    Dynastia Achemenidów ( Achaimenovci , Achaemenids )
+      Cyrus II ( Kurusz )           	                  559-529 ( wg A.Č. i V.N.M.S.D. i R.Z.A.D.D. ) ( Cyrus wg D.G. ) ( Kyros II Veliký wg K.Ř. )
                                                         550-ok.530 ( wg S.A. )
                                                         559-530 ( wg D.Ś. ) ( Cyrus Wielki wg S.C. ) ( Kyros II wg T. ) ( Kýros (Kyros, Cyrus, Kýros II.) wg D.S.B.V. )
       				         	                                558-530 ( wg K.T.V.S.O. ) ( Cyrus Wielki wg  100.N.V.S. )
@@ -18290,19 +18332,20 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       				          	                              558-529 ( Cyrus wg H.P.S. ) ( Kýros II Starší ( Kýros II Veliký ) wg E.P. )
       					                                        ok.550-po 539 ( Kýros II wg M.P.M. )
                                                         557-529 ( Kýros Starší wg Ř.S.J.Ď.S. )
-    Kambizes                         	                  529-522 ( wg A.Č. i D.Ś. i S.A. i K.T.V.S.O. ) ( Kambyzes wg S.C. ) ( Kambyzes II wg H.P.S. ) ( Kambýses wg E.P. ) ( Kambýsés (Mesutire) wg D.S.B.V. )
+                                                        ok.550 ( Cyrus the Great wg S.A.B.H.O.H. )
+      Kambizes                         	                529-522 ( wg A.Č. i D.Ś. i S.A. i K.T.V.S.O. ) ( Kambyzes wg S.C. ) ( Kambyzes II wg H.P.S. ) ( Kambýses wg E.P. ) ( Kambýsés (Mesutire) wg D.S.B.V. )
                                                         529-521 ( wg V.N.M.S.D. )
       				          	                              530-522 ( wrzesień-? )( Kambyzes II wg S.B.W. )
                                                         ? ( Kambyzes wg F. ) ( Kambyzes II wg 100.N.V.S. ) ( Kambýses wg S.H. i Ř.S.J.Ď.S. )
       				     	                                    ok.525 ( Kambyzes wg D.G. )
       					                                        przed 525-po ok.522 ( Kambyses wg Z.Ř. )
-    Gaumata ( Smerdis )    	                            522 ( ?-?.9. ) ( wg A.Č. i D.Ś. i S.A. )
+      Gaumata ( Smerdis )    	                          522 ( ?-?.9. ) ( wg A.Č. i D.Ś. i S.A. )
                                                         521 ( wg V.N.M.S.D. )
       				     	                                    522 ( 1.6.-?.9. ) ( wg S.B.W. )
                                                         ok.522 ( wg S.C. )
       					                                        ? ( wg E.P. )
                                                         522 ( Gaumáta (Bardija) wg D.S.B.V. )
-    Dariusz I Wielki               	                    521-485 ( wg A.Č. i V.N.M.S.D. )
+      Dariusz I Wielki               	                  521-485 ( wg A.Č. i V.N.M.S.D. )
                                                         521-486 ( wg D.Ś. i R.Z.A.D.D. i F. i S.C. ) ( Dareios I wg K.Ř. ) ( Dáreios (Dáreios I.) wg D.S.B.V. )
                                                         522-486 ( wg S.A. i S.I. i D.G. ) ( Dareios I wg T. ) ( Dareios I Veliký wg E.P. ) ( Dáreios I wg M.P.M. )
       				     	                                    522-486 ( 22.12.-? ) ( wg S.B.W. )
@@ -18312,7 +18355,8 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       				     	                                    ? ( Dareios wg T.H.S. ) ( Dáreios I wg S.H. ) ( Dariusz Wielki wg P.J.D. ) ( Dareios (Dareios I., Darajaváuš) wg Gilg. ) ( Dariusz wg C.W.C.B.R. )
                                                         522-? ( Dárejavóš ( Dáreios ) wg Ř.S.J.Ď.S. )
       					                                        522/1-486 ( Dareios I wg Z.Ř. )
-    Kserkses I                       	                  485-465 ( wg A.Č. i D.Ś. i F. i S.C. ) ( Kserkses wg H.P.S. ) ( Xerxés wg Ř.S.J.Ď.S. ) ( Xerxes (Xerxés I.) wg D.S.B.V. )
+                                                        przed ok.500-? ( Darius I wg S.A.B.H.O.H. )
+      Kserkses I                       	                485-465 ( wg A.Č. i D.Ś. i F. i S.C. ) ( Kserkses wg H.P.S. ) ( Xerxés wg Ř.S.J.Ď.S. ) ( Xerxes (Xerxés I.) wg D.S.B.V. )
                                                         485-464 ( wg V.N.M.S.D. )
       				           	                              486-po 480 ( Kserkses wg D.G. )
       				   	                                      przed 480-? ( Xerxes I wg D.P.I.R.G. ) ( Kserkses wg B.M. ) ( Xerxés wg S.H. )
@@ -18320,39 +18364,39 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       				   	                                      ? ( Xerxes wg T.H.S. ) ( Xerxes I wg Z.Ř. ) ( Xerxes (Chšajaraša) wg Gilg. )
       					                                        przed 486-? ( Xerxés wg M.P.M. )
       					                                        486-465 ( Xerxes I wg K.Ř. )
-    Artakserkses I Długoręki	                          464-424 (wg V.N.M.S.D. , D.Ś. i A.Č. i S.B.W. )
+      Artakserkses I Długoręki	                        464-424 (wg V.N.M.S.D. , D.Ś. i A.Č. i S.B.W. )
       				    	                                    ? ( wg F. )
       				    	                                    przed 465-po 455 ( Artakserkses wg D.G. )
       				    	                                    464-425 ( wg S.C. )
       				    	                                    ? ( wg H.P.S. ) ( Artaxerxes wg T.H.S. ) ( Artaxerxés wg Ř.S.J.Ď.S. )
       					                                        465-424 ( Artaxerxes I wg K.Ř. )
                                                         464-424/3 ( Artaxerxés I. wg D.S.B.V. )
-    Kserkses II                           	            424 (koniec ) ( wg S.B.W. )
+      Kserkses II                           	          424 (koniec ) ( wg S.B.W. )
       				          	                              424 ( wg A.Č. i D.Ś. ) ( Xerxés II. wg D.S.B.V. )
-    Sogdianus                            	              424 ( wg A.Č. i D.Ś. ) ( Sogdianos wg D.S.B.V. )
-    Dariusz II Notos                   	                423-405 ( wg A.Č. i D.Ś. i S.C. ) ( Dáreios II. wg D.S.B.V. )
+      Sogdianus                            	            424 ( wg A.Č. i D.Ś. ) ( Sogdianos wg D.S.B.V. )
+      Dariusz II Notos                   	              423-405 ( wg A.Č. i D.Ś. i S.C. ) ( Dáreios II. wg D.S.B.V. )
                                                         424-405 ( wg V.N.M.S.D. )
       				       	                                  424-404 ( wg S.B.W. i F. ) ( Dareios II wg E.P. )
       				       	                                  przed 407-405/4 ( Dariusz wg D.G. )
       					                                        ? ( Dáreios II wg M.P.M. )
       					                                        423-405/4 ( Dareios II wg K.Ř. )
-    Artakserkses II Mnemon	                            404-359 ( wg A.Č. i D.Ś. i S.C. ) ( Artaxerxes II. (Artaxerxés II.) wg D.S.B.V. )
+      Artakserkses II Mnemon	                          404-359 ( wg A.Č. i D.Ś. i S.C. ) ( Artaxerxes II. (Artaxerxés II.) wg D.S.B.V. )
                                                         405-359 ( wg V.N.M.S.D. )
       				       	                                  404-? ( wg S.B.W. )
       				       	                                  405/4–359/8 ( ?-zima ) ( Artakserkses wg D.G. )
       				       	                                  przed 401-? ( wg H.P.S. )
       					                                        ? ( Artaxerxes II wg M.P.M. )
       					                                        404-358 ( Artaxerxes II wg K.Ř. )
-    Artakserkses III Ochos      	                      358-338 ( wg A.Č. , D.Ś. i S.B.W.  ) ( Artaxerxés III wg Ž.V.Ř.S. ) ( Artaxerxes III wg K.Ř. ) ( Artaxerxés III. wg D.S.B.V. )
+      Artakserkses III Ochos      	                    358-338 ( wg A.Č. , D.Ś. i S.B.W.  ) ( Artaxerxés III wg Ž.V.Ř.S. ) ( Artaxerxes III wg K.Ř. ) ( Artaxerxés III. wg D.S.B.V. )
                                                         359-338 ( wg V.N.M.S.D. )
       				        	                                ok.345 ( wg F. )
       				        	                                przed 365-338 ( Artakserkses Ochos wg D.G. )
       					                                        ? ( wg H.P.S. ) ( Artaxerxés III wg S.H. )
-    Arses                               	              337-336 ( wg A.Č. i D.Ś. ) ( Artaxerxés IV. wg D.S.B.V. )
+      Arses                               	            337-336 ( wg A.Č. i D.Ś. ) ( Artaxerxés IV. wg D.S.B.V. )
                                                         338-336 ( wg V.N.M.S.D. i K.Ř. )
       				     	                                    po 338-? ( wg S.B.W. )
       				     	                                    ?-336 ( wg D.G. )
-    Dariusz III Kodomanos    	                          335-330 ( wg A.Č. i D.Ś. i S.C. )
+      Dariusz III Kodomanos    	                        335-330 ( wg A.Č. i D.Ś. i S.C. )
                                                         336-330 ( wg V.N.M.S.D. i H.P.S. ) ( Dareios III wg E.P. )
       				     	                                    ok.330 ( wg 100.N.V.S. )
       				     	                                    przed 334-? ( Dariusz Kodomannos wg D.G. )
@@ -18361,7 +18405,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       					                                        przed 333-po 331 ( Dáreios III wg M.P.M. )
       					                                        336-? ( Dareios III wg K.Ř. )
                                                         335-331 ( Dáreios III. wg D.S.B.V. )
-    Bessos                             	                330-? ( wg H.P.S. )
+      Bessos                             	              330-? ( wg H.P.S. )
       				     	                                    ok.330 ( Artaxerxés ( Béssos ) wg S.H. )
   Dynastia Sasanidów
     Ardaszir I                       	                  224-240 ( wg A.Č. )
@@ -18490,6 +18534,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
     Aszraf            	                                1725-1729 ( wg D.Ś. )
   Dynastia Afszarydów
     Nadir              	                                1736-1747 ( wg V.N.M.S.D. i D.Ś. ) ( Náder Chán wg E.P. )
+                                                        ? ( Nader Shah wg S.A.B.H.O.H. )
     ´Adil              	                                1747-1748 ( wg D.Ś. )
     Ibrahim          	                                  1748-1749 ( wg D.Ś. )
     Szahruch       	                                    1748-1749 i 1750-1796 ( wg D.Ś. )
@@ -18548,6 +18593,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       Gilgameš
       Cesarz wszech chorób - Biografia raka
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      Sapiens - A Brief History of Humankind
 
 Peru
   Bibliografia :
@@ -19642,11 +19688,11 @@ Rzym
     		     		                                        ? ( Tarkwiniusz Pyszny wg H.P.S. ) ( wg K.Ř. )
     				                                            ?-ok.510/07 ( wg Z.Ř. )
     				                                            ?-509 ( Tarkwiniusz Pyszny wg O.A.O.C.E. )
-  Republika Rzymska
+  Republika Rzymska ( Roman Republic )
     Junius Brutus                                       509 ( wg V.N.M.S.D. ) ( Lucjusz Juniusz Brutus wg D.R. i K.R.I.C.R. )
     Tarkwiniusz Kolatyn                                 509 ( wg K.R.I.C.R. )
     Publiusz Waleriusz				           		            509 ( wg K.R.I.C.R. )
-    Marek Horacjusz Pulwillus			           		        509
+    Marek Horacjusz Pulwillus			           		        509 ( wg D.R. i K.R.I.C.R. )
     Kwintus Postumiusz Tubertus  			  		            502  ( wg K.R.I.C.R. )
     Spuriusz Kasjusz Wecellinus                     		502 i 493 i 486 ( wg D.R. )
     							           		                        ? i 493 i 486 ( wg K.R.I.C.R. )
@@ -19659,8 +19705,8 @@ Rzym
     									                                  460 i 458 i ? ( Lucius Quinctius Cincinnatus wg Z.V.C. )
     Lucjusz Minuncjusz Augurynus			       		        458 ( wg D.R. )
     Aterniusz					           		                    454 ( wg K.R.I.C.R. )
-    Lucjusz Waleriusz Potitus                          	449
-    Marek Horacjusz Barbatus                         		449
+    Lucjusz Waleriusz Potitus                          	449 ( wg D.R. i K.R.I.C.R. )
+    Marek Horacjusz Barbatus                         		449 ( wg D.R. i K.R.I.C.R. )
     Aulus Postumiusz Tubertus			           		        431 ( wg K.R.I.C.R. )
     Aulus Aureliusz Kossus						                  428 ( wg D.R. )
     Emiliusz Mamercynus				           		            426 ( wg K.R.I.C.R. )
@@ -19672,7 +19718,7 @@ Rzym
     Aulus Korneliusz Kossus				    	                385 ( wg K.R.I.C.R. )
     Tytus Kwinkcjusz Cyncynat			           		        380 ( wg K.R.I.C.R. )
     Publiusz Manliusz Kapitolinus			           		    368 ( wg K.R.I.C.R. )
-    Lucjusz Sekstiusz Lateran		           			        366
+    Lucjusz Sekstiusz Lateran		           			        366 ( wg D.R. i K.R.I.C.R. )
     Tytus Manliusz							                        ? ( wg K.R.I.C.R. )
     Gnejusz Manliusz				           		              358 ( wg K.R.I.C.R. )
     Gajusz Marcjusz Rutilus				       	              356 ( wg K.R.I.C.R. )
@@ -19684,7 +19730,7 @@ Rzym
     							           		                        339 i ? i 320 ( Kwintus Publiliusz Filon wg K.R.I.C.R. )
     									                                  ? ( Publius Philo wg Z.V.C. )
     Lukrecjusz Furiusz Kamillus			           		      338 ( wg K.R.I.C.R. )
-    Gajusz Meniusz Antiaticus			           		        338
+    Gajusz Meniusz Antiaticus			           		        338 ( wg D.R. i K.R.I.C.R. )
     Gajusz Peteliusz					        	                326 ( wg K.R.I.C.R. )
     Lucjusz Papiriusz Kursor				         	          326 i 320 i 293 i ? ( wg K.R.I.C.R. )
     							           		                        293 ( wg D.R. )
@@ -19694,7 +19740,7 @@ Rzym
     Tytus Minuncjusz				           		              305 ( wg K.R.I.C.R. )
     Gajusz Juniusz Bubulkus				           	          302 ( wg K.R.I.C.R. )
     Marek Waleriusz Maksymus 	                          300 ( Marcus Valerius Maximus wg D.R. ) ( Marek Waleriusz Korwus wg K.R.I.C.R. )
-    Lucjusz Korneliusz Scypion Barbatus		           		298
+    Lucjusz Korneliusz Scypion Barbatus		           		298 ( wg D.R. i K.R.I.C.R. )
     Appiusz Klaudiusz Cekus				         	            296 ( wg K.R.I.C.R. )
     Wolumniusz					           		                  296 ( wg K.R.I.C.R. )
     Rullianus							                              295 ( wg Z.V.C. )
@@ -19712,7 +19758,7 @@ Rzym
     Gajusz Duiliusz					         	                  260 ( wg D.R. i B.M. i K.R.I.C.R. )
     Gajusz Korneliusz Scypion Asina			       	        260 ( wg K.R.I.C.R. ) ( Gnejusz Korneliusz Scypion wg K.1.1.P.N.E. )
     Aulus Atyliusz Kalatyn				           		        ok.260 ( wg K.R.I.C.R. )
-    Lucjusz Korneliusz Scypion Młodszy		           		259
+    Lucjusz Korneliusz Scypion Młodszy		           		259 ( wg D.R. i K.R.I.C.R. )
     Gajusz Emiliusz Regulus				        	            256 ( wg D.R. ) ( M. Atiliusz Regulus wg H.P.S. ) ( Marek Atyliusz Regulus wg K.1.1.P.N.E. )
     							           		                        257-256 ( Gajusz Atyliusz Regulus wg K.R.I.C.R. )
     Lucjusz Manliusz Wulson				      	              256 ( wg D.R. i K.R.I.C.R. )
@@ -19762,7 +19808,7 @@ Rzym
     Publiusz Licyniusz Krassus			           		      205 ( wg K.R.I.C.R. ) ( Publiusz Licyniusz Krassus Diwes (Publiusz Licyniusz Krassus Dives, Publius Crassus Dives) wg K.P.N.A. )
     Publiusz Semproniusz Tuditanus			        	      204 ( wg K.R.I.C.R. )
     Gajusz Serwiliusz Geminus			           		        202 ( wg K.R.I.C.R. )
-    Publiusz Sulpicjusz Galba                           200
+    Publiusz Sulpicjusz Galba                           200 ( wg D.R. i K.R.I.C.R. )
     Sekstus Eliusz Petus      				       	          198 ( wg D.R. )
     Tytus Kwinkcjusz Flaminiusz			           		      198 ( wg K.R.I.C.R. ) ( Flamininus wg L. ) ( Tytus Kwinkcjusz Flaminus wg K.1.1.P.N.E. )
     							           		                        197 ( Titus Quintius Flaminius wg S.H. )
@@ -19773,15 +19819,15 @@ Rzym
     Gnejusz Domicjusz Ahenobarbus			 	                192 ( wg D.R. )
     Lucjusz Flaminius				           		              192 ( wg K.R.I.C.R. )
     Maniusz Acyliusz Glabrion			           		        191 ( wg D.R. i K.1.1.P.N.E. ) ( Manliusz Acyliusz Glabrion wg K.R.I.C.R. )
-    Publiusz Korneliusz Scypion Nazyka 		           		191
+    Publiusz Korneliusz Scypion Nazyka 		           		191 ( wg D.R. i K.R.I.C.R. )
     Gajusz Leliusz					           		              190 ( wg D.R. )
     Lucjusz Korneliusz Scypion			           		      190 ( wg D.R. i K.R.I.C.R. )
                                                         ? ( wg K.1.1.P.N.E. )
-    Marek Fulwiusz Nobilior                             189
-    Gnejusz Manliusz Wulson				         	            189
+    Marek Fulwiusz Nobilior                             189 ( wg D.R. i K.R.I.C.R. )
+    Gnejusz Manliusz Wulson				         	            189 ( wg D.R. i K.R.I.C.R. )
     Gajusz Liwiusz					         		                188 ( wg D.R. )
     Gajusz Flaminiusz				           		              187 ( wg D.R. )
-    Marek Emiliusz Lepidus				         	            187
+    Marek Emiliusz Lepidus				         	            187 ( wg D.R. i K.R.I.C.R. )
     Lucjusz Porcjusz Licyniusz			           		      184 ( wg D.R. )
     Lucjusz Emiliusz Paulus				          	          182 ( wg D.R. i K.R.I.C.R. )
     Publiusz Korneliusz Cetegus			           		      181 ( wg K.R.I.C.R. )
@@ -19797,7 +19843,7 @@ Rzym
     							           	                          172 i 158 ( Gaius Popilius Laenas wg S.H. )
     Publiusz Licyniusz Krassus			           		      171 ( wg D.R. ) ( Publius Crassus wg K.P.N.A. )
     Gajusz Kasjusz Longinus				         	            171 ( wg K.R.I.C.R. )
-    Aulus Hostyliusz Mancynus			           		        170
+    Aulus Hostyliusz Mancynus			           		        170 ( wg D.R. i K.R.I.C.R. )
     Marek Licyniusz Krassus                             170 ( wg K.P.N.A. )
     Kwintus Marcjusz Filippus			           		        169 ( wg D.R. )
     Lucjusz Emiliusz Paulus    			           		      168 ( wg D.R. i H.P.S. i K.R.I.C.R. ) ( Lucius Aemilius Paulus wg S.H. )
@@ -19808,7 +19854,7 @@ Rzym
                                                         155 ( Publiusz Scypion Nazyka wg K.R.I.C.R. )
     Gajusz Faniusz					         	                  161 ( wg K.R.I.C.R. )
     Marek Korneliusz Cetegus			           		        161 ( wg K.R.I.C.R. )
-    Marek Klaudiusz Marcellus			           		        155
+    Marek Klaudiusz Marcellus			           		        155 ( wg D.R. i K.R.I.C.R. )
     Kwintus Opimiusz 				           		              ok.154 ( wg D.R. )
     							           		                        154 ( wg K.R.I.C.R. )
     Kwintus Fulwiusz Nobilior			           		        153 ( wg D.R. )
@@ -19824,17 +19870,17 @@ Rzym
     Kwintus Cecyliusz Metellus Macedoński		         	  143 ( wg D.R. i K.R.I.C.R. )
                                                         ? ( Kwintus Cecyliusz Metellus Macedonikus wg K.1.1.P.N.E. )
     Appiusz Klaudiusz				           		              143 ( wg K.R.I.C.R. )
-    Kwintus Fabiusz Maksymus Serwilianus		        	  142
+    Kwintus Fabiusz Maksymus Serwilianus		        	  142 ( wg D.R. i K.R.I.C.R. )
     Metellus Kalwus						                          142 ( wg L. )
-    Kwintus Pompejusz				           		              141
-    Gajusz Leliusz					           		              140
+    Kwintus Pompejusz				           		              141 ( wg D.R. i K.R.I.C.R. )
+    Gajusz Leliusz					           		              140 ( wg D.R. i K.R.I.C.R. )
     Serwiusz Cepion					        	                  140 ( wg D.R. ) ( Kwintus Serwiliusz Cepion wg K.R.I.C.R. )
     Decimus Juniusz Brutus				        	            138 ( wg D.R. ) ( Decymus Juniusz Brutus wg K.R.I.C.R. )
-    Gajusz Hostyliusz Mancynus			           		      137
+    Gajusz Hostyliusz Mancynus			           		      137 ( wg D.R. i K.R.I.C.R. )
     Publiusz Rupiliusz                                	ok.135 ( wg H.P.S. )
     							           		                        132 ( wg K.R.I.C.R. )
     Marek Popiliusz						                          ? ( wg D.R. )
-    Lucjusz Kalpurniusz Pizon Frugi                     133
+    Lucjusz Kalpurniusz Pizon Frugi                     133 ( wg D.R. i K.R.I.C.R. )
     Publiusz Mucjusz Scewola			           		        133 ( wg D.R. i K.R.I.C.R. ) ( Publius Mucius wg Z.V.C. )
     Publiusz Popiliusz Lenas				         	          132 ( wg D.R. )
     Publiusz Licyniusz Krassus			           		      131 ( wg D.R. i K.1.1.P.N.E. ) ( Licinius Crassus wg T.H.S. ) ( Publius Licinius Crassus Mucianus  wg S.H. ) ( Publiusz Licyniusz Krassus Diwes Mucianus (Publius Crassus Dives Mucianus) wg K.P.N.A. )
@@ -19843,30 +19889,30 @@ Rzym
     Manliusz Akwiliusz				           		            129 ( wg D.R. ) ( Maniusz Akwiliusz wg K.R.I.C.R. ) ( Manius Aquilius wg S.H. )
                                                         ? ( Maniusz Akwiliusz wg K.1.1.P.N.E. )
     Semproniusz Tudynatus				         	              129 ( wg D.R. ) ( Gajusz Semproniusz Tuditanus wg K.R.I.C.R. )
-    Marek Fulwiusz Flakkus				        	            125
+    Marek Fulwiusz Flakkus				        	            125 ( wg D.R. i K.R.I.C.R. )
     Kwintus Cecyliusz Metellus			           		      123 i 113 i 109 ( wg K.R.I.C.R. )
     Gajusz Fanniusz					        	                  122 ( wg D.R. )
     Gajusz Domicjusz Ahenobarbus			        	        122 ( wg D.R. ) ( Gnejusz Domicjusz Ahenobarbus wg K.R.I.C.R. )
     Lucjusz Opimiusz				           		              122/1 ( wg D.R. )
                                                         121 ( wg K.R.I.C.R. ) ( Lucius Opimius wg Z.V.C. )
-    Kwintus Fabiusz Maksymus			           		        121
-    Gajusz Papiriusz Karbon				       	              120
+    Kwintus Fabiusz Maksymus			           		        121 ( wg D.R. i K.R.I.C.R. )
+    Gajusz Papiriusz Karbon				       	              120 ( wg D.R. i K.R.I.C.R. )
     Lucjusz Cecyliusz Metellus			           		      119 ( wg K.R.I.C.R. )
     Metellus Dalmaticus						                      119 ( wg L. )
     Kwintus Marcjusz Reks                               118 ( wg K.P.N.A. )
     Publiusz Papiriusz Karbon			             	        ? ( wg K.R.I.C.R. )
     Lucjusz Emiliusz Skaurus				       	            115 ( wg K.R.I.C.R. )
     Marek Emiliusz Skaurus				        	            115 i 107 ( wg D.R. )
-    Gajusz Porcjusz Katon				           		          114
+    Gajusz Porcjusz Katon				           		          114 ( wg D.R. i K.R.I.C.R. )
     Gajusz Cecyliusz Metellus Kaprariusz               	113-112 ( wg D.R. )
     Gnejusz Papiriusz Karbon			           		        113 ( wg D.R. i K.R.I.C.R. ) ( Gnaeus Papirius Carbo wg Ř.V.G. ) ( Papirius Carbo wg Z.V.C. )
-    Marek Liwiusz Druzus				           		          112
-    Lucjusz Kalpurniusz Bestia			           		      111
-    Spuriusz Postumiusz Albinus			           		      110
+    Marek Liwiusz Druzus				           		          112 ( wg D.R. i K.R.I.C.R. )
+    Lucjusz Kalpurniusz Bestia			           		      111 ( wg D.R. i K.R.I.C.R. )
+    Spuriusz Postumiusz Albinus			           		      110 ( wg D.R. i K.R.I.C.R. )
     Marek Minuncjusz				           		              110 ( wg K.R.I.C.R. )
     Marek Juniusz Sylanus				         		            109 ( wg D.R. ) ( Marek Juniusz Silanus wg K.R.I.C.R. )
     Metellus Numidicus						                      109 ( wg L. )
-    Lucjusz Kasjusz Longinus				       	            107
+    Lucjusz Kasjusz Longinus				       	            107 ( wg D.R. i K.R.I.C.R. )
     Gajusz Mariusz					       	                    106 i 104-100 i 86 ( wg D.R. )
     							           		                        100 ( wg S.C. )
     							           		                        107-106 i 104-101 ( wg H.P.S. )
@@ -19877,7 +19923,7 @@ Rzym
                                                         107 i 104-100 i 86 ( Marius wg K.P.N.A. )
     Kwintus Serwiliusz Cepion			           		        106 ( wg D.R. i K.R.I.C.R. )
     									                                  109 ( Servilius Caepio wg Z.V.C. )
-    Gnejusz Maliusz Maksymus			           		        105
+    Gnejusz Maliusz Maksymus			           		        105 ( wg D.R. i K.R.I.C.R. )
     Publiusz Rutyliusz Rufus				        	          105 i ok.90 ( Publiusz Rutyliusz Lupus wg D.R. )
                                                         90 ( wg K.R.I.C.R. )
     Kwintus Lutacjusz Katulus			           		        102 i 78 ( wg K.R.I.C.R. )
@@ -19892,15 +19938,15 @@ Rzym
     Publiusz Krassus                                    96 ( wg D.R. )
     Gnejusz Domicjusz Ahenobarbus			        	        96 ( wg D.R. )
     Lucjusz Licyniusz Krassus			           		        95 ( wg D.R. i K.R.I.C.R. ) ( Lucius Crassus wg K.P.N.A. )
-    Kwintus Mucjusz Scewola			           		          95
+    Kwintus Mucjusz Scewola			           		          95 ( wg D.R. i K.R.I.C.R. )
     Gajusz Celiusz Kaldus				           		          94 ( wg D.R. )
     Lucjusz Marcjusz Filip   				      	            91 ( wg D.R. i L. ) ( Lucjusz Marcjusz Filippus wg O.A.O.C.E. )
     Sekstus Cezar							                          91 ( wg L. )
     Lucjusz Juliusz Cezar				            		        90 ( wg D.R. i K.R.I.C.R. ) ( Lucius Julius Caesar wg T.P.Ž.C. i K.P.N.A. )
     Gnejusz Pompejusz Strabon			            		      89 ( wg D.R. i K.R.I.C.R. i O.A.O.C.E. )
                                                         90 ( wg K.P.N.A. )
-    Lucjusz Porcjusz Katon					                    89
-    Marek Porcjusz Katon Starszy 			            		  89
+    Lucjusz Porcjusz Katon					                    89 ( wg D.R. i K.R.I.C.R. )
+    Marek Porcjusz Katon Starszy 			            		  89 ( wg D.R. i K.R.I.C.R. )
     Katon								                                89 ( ?-wiosna ) ( wg L. )
     Lucjusz Korneliusz Sulla					                  88 i 80-79 ( wg D.R. i K.R.I.C.R. )
     							            		                      82-79 ( wg H.P.S. ) ( Lucius Cornelius Sulla wg D.P.I.R.G. )
@@ -19981,7 +20027,7 @@ Rzym
                                                         59 i 49-44 ( Gajusz Juliusz Cezar wg S.C. )
                                                         59 i 49-44 ( ?-15.3. ) ( wg H.P.S. i K.R.I.C.R. i Z.V.C. )
                                                         przed 49-po 48 ( wg B.M. )
-                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. ) ( Cezar wg Z.N.E. )
+                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. ) ( Cezar wg Z.N.E. ) ( Julius Caesar wg S.A.B.H.O.H. )
                                                         ?-ok.44 ( wg T. )
                                                         59 i przed 48-44 ( ?-15.3. ) ( Caesar wg S.K. )
                                                         przed 47-po 44 ( wg S.H. )
@@ -20011,7 +20057,7 @@ Rzym
     Marek Klaudiusz Marcellus			            		      51 ( wg D.R. i K.R.I.C.R. i O.A.O.C.E. )
     Serwiusz Sulpicjusz Rufus			            		      51 ( wg K.R.I.C.R. )
     Gajusz Klaudiusz Marcellus			            		    50 ( wg D.R. i O.A.O.C.E. )
-    Lucjusz Emiliusz Paulus				        	            50
+    Lucjusz Emiliusz Paulus				        	            50 ( wg D.R. i K.R.I.C.R. )
     Lucjusz Korneliusz Lentulus			            		    49 ( wg D.R. )
     Marcus Antonius ( Marek Antoniusz )				          44 ( wg Z.V.C. i O.A.O.C.E. )
     Dolabella							                              44 ( wg O.A.O.C.E. )
@@ -20041,7 +20087,6 @@ Rzym
     								                                    przed 42-po 31 ( Antonius wg Ž.V.Ř.S. )
     								                                    43-30 ( 11.11.-?.8. ) ( Marcus Antonius wg Z.V.C. )
     								                                    43-30 ( początek października -? ) ( Marcus Antonius wg T.P.Ž.C. )
-    								                                    43-?
     								                                    ? ( Marek Antonius wg K.Ř. )
                                                         ?-30 ( wg K.P.N.A. )
     Marek Emiliusz Lepidus					                    43-36 ( wg D.R. i K.R.I.C.R. i O.A.O.C.E. )
@@ -20049,14 +20094,14 @@ Rzym
     								                                    ? ( wg Ž.V.Ř.S. )
     								                                    43-? ( 11.11.-? ) ( wg Z.V.C. )
     								                                    43-? ( początek października -? ) ( wg T.P.Ž.C. )
-  Cesarstwo Rzymskie
+  Cesarstwo Rzymskie ( Roman Empire )
     Dynastia julijsko-klaudyjska
       Gaius Julius Caesar Octavianus Augustus          	27 p.n.e.-14 n.e ( 16.1.-19.8. ) ( wg P.C.R. i K.R.I.C.R. i Z.V.C. i T.P.Ž.C. )
     						          		                          27 p.n.e.-14 n.e. ( Oktawian wg S.C. ) ( wg D.Ś. i A.Č. i Ž.V.Ř.S. ) ( Gajusz Juliusz Cezar Oktawianus wg H.P.S. ) ( wg T.H.S. ) ( August wg O.A.O.C.E. ) ( Augustus (Octavius Caesar) wg V.K.T.H.O.H.E. )
     						          		                          27 p.n.e.-14 n.e. ( ?-14.9. ) ( Gajusz Juliusz Cezar Oktawian wg D.R. )
                                                         30 p.n.e.-14 n.e. ( wg V.N.M.S.D. i Tapsella )
     						          		                          31 p.n.e.-14 n.e. ( wg D.P.I.R.G. )
-    							       	                              ? ( wg A.O.M.S.K.R. i D.B. i Z.Ř. ) ( Oktavián wg T. ) ( Oktawian August wg Z.N.E. )
+    							       	                              ? ( wg A.O.M.S.K.R. i D.B. i Z.Ř. ) ( Oktavián wg T. ) ( Oktawian August wg Z.N.E. ) ( Augustus wg S.A.B.H.O.H. )
     						          		                          przed 23 p.n.e.-14 n.e. ( August wg Ř.V.G. )
     						          		                          27 p.n.e.-? ( wg S.H. )
     								                                    przed 14 p.n.e.-? ( wg E.P. )
@@ -20077,6 +20122,7 @@ Rzym
     								                                    41-54 ( ?-?.10. ) ( Tiberius Claudius Germanicus wg Z.V.C. )
     								                                    ?-54 ( Tiberius Claudius Germanicus wg T.P.Ž.C. ) ( wg K.Ř. )
     								                                    przed 43-? ( wg O.A.O.C.E. i Z.N.E. )
+                                                        ? ( Claudius wg S.A.B.H.O.H. )
       Lucius Domitius Claudius Nero ( Neron )           54-68 ( 13.10.-9.6. ) ( wg P.C.R. i K.R.I.C.R. )
     						           		                          54-68 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i S.C. i Ř.V.G. i Ž.V.Ř.S. i Z.V.C. ) ( Lucius	Domitius Ahenobarbus Nero	Claudius Caesar ( Lucjusz	Domicjusz Ahenobarbus ) wg D.R. i H.P.S. )
     							  	                                  ? ( Nero wg S.H. i O.A.O.C.E. ) ( wg Z.N.E. )
@@ -20126,7 +20172,7 @@ Rzym
     								                                    96-98 ( ?.9.-?.1. ) ( wg Z.V.C. )
       Marcus Ulpius Traianus ( Marek Ulpiusz Trajan )	  98-117 ( 27.1.-8.8. ) ( wg P.C.R. i K.R.I.C.R.  )
     								                                    98-117 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i D.R. i S.C. i D.P.I.R.G. i H.P.S. i Ž.V.Ř.S. ) ( Traján wg Ř.V.G. )
-                                                        ? ( wg A.O.M.S.K.R. ) ( Traján wg K. )
+                                                        ? ( wg A.O.M.S.K.R. ) ( Traján wg K. ) ( Trajan wg S.A.B.H.O.H. )
     								                                    przed 101-po 104 ( wg T. )
     								                                    98-117 ( ?-?.8. ) ( wg Z.V.C. )
     								                                    przed 102-po 106 ( wg K.H. )
@@ -20135,12 +20181,12 @@ Rzym
                                                         117-138 ( wg V.N.M.S.D. , D.Ś. ,  A.Č. i Tapsella i S.C. i T. i Ř.V.G. i Ž.V.Ř.S. i Z.V.C. i O.A.O.C.E. ) ( Lucjusz Eliusz Hadrian wg H.P.S. )
                      							                      ok.117 ( wg F. )
     								                                    117-138 ( ?-lipiec ) ( wg D.R. )
-    								                                    ? ( wg T.H.S. i S.H. i Ř.S.J.Ď.S. )
+    								                                    ? ( wg T.H.S. i S.H. i Ř.S.J.Ď.S. ) ( Hadrian wg S.A.B.H.O.H. )
                                                         przed 120-? ( Hadrian wg Z.N.E. )
       Titus Aurelius Fulvus Boionius Arrius Antoninus   138-161 (10.7.-7.3. ) ( Antoninus Pius wg P.C.R. i K.R.I.C.R. )
     								                                    138-161 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i S.C. i T. i Ř.V.G. i Ž.V.Ř.S. ) ( Tytus Aureliusz Antoninus Pius wg H.P.S. ) ( Titus Aurelius Fulvius Boionius Arrius Antoninus wg Z.V.C. )
     							  	                                  138-161 ( ?-marzec ) ( Tytus Aureliusz Antoninus wg D.R. )
-                                                        ? ( Antoninus Pius wg Z.N.E. i K.P.N.A. )
+                                                        ? ( Antoninus Pius wg Z.N.E. i K.P.N.A. ) ( Antoninius Pius wg S.A.B.H.O.H. )
       Lucius Aurelius Verus ( Lucjusz Werus )           161-169 ( 7.3.-?(początek).2. ) ( wg P.C.R. )
     								                                    161-169 ( wg V.N.M..D. , D.Ś. , A.Č. , Tapsella , D.R. i S.C. i Ž.V.Ř.S. i Z.V.C. )
     								                                    ? ( wg H.P.S. )
@@ -20152,7 +20198,7 @@ Rzym
     								                                    161-180 ( wg V.N.M.S.D. , D.Ś. , A.Č. i S.C. i H.P.S. i Ř.V.G. i Ž.V.Ř.S. ) ( Marcus Aurelius Verus wg Tapsella ) ( Marcus Aurelius Annius Verus wg Z.V.C. )
     		  						                                  161-180 ( ?-marzec )( wg D.R. )
     		  						                                  przed 172-po 175 ( wg D.P.I.R.G. )
-    		         						                            ? ( Marek Aurelius wg T. ) ( Marcus Aurelius wg V.K.T.H.O.H.E. )
+    		         						                            ? ( Marek Aurelius wg T. ) ( Marcus Aurelius wg V.K.T.H.O.H.E. i S.A.B.H.O.H. )
     		  						                                  przed 179-? ( Marek Aurelius wg Z.S.A.V.E. )
                                                         przed 178-po 180 ( wg Z.N.E. )
       Marcus Aurelius Antoninus Commodus ( Kommodus )	  180-192 ( 17.3.-31.12. ) ( wg P.C.R. i K.R.I.C.R.  )
@@ -20172,7 +20218,7 @@ Rzym
     								                                    ? ( Marek Didiusz Julian wg H.P.S. )
     Dynastia Sewerów
       Lucius Septimius Severus ( Septymiusz Sewer )     193-211 ( ?.4.-4.2. ) ( Lucjusz Septymiusz Sewer wg P.C.R. i K.R.I.C.R.  )
-    								                                    193-211 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i D.R. i S.C. i Ž.V.Ř.S. i Z.V.C. ) ( Lucjusz Septimiusz Sewer wg H.P.S. ) ( Septimius Sever wg T. )
+    								                                    193-211 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i D.R. i S.C. i Ž.V.Ř.S. i Z.V.C. ) ( Lucjusz Septimiusz Sewer wg H.P.S. ) ( Septimius Sever wg T. ) ( Septimius Severus wg S.A.B.H.O.H. )
     								                                    ? ( wg D.B. i Z.N.E. ) ( Septimus Severus wg Ř.S.J.Ď.S. )
                                                         przed 208-211 ( wg Z.N.E. )
       Gaius Pescennius Niger                            193-194 ( kwiecień-jesień ) ( Gajusz Pesceniusz Niger wg P.C.R. i K.R.I.C.R.  )
@@ -20204,7 +20250,7 @@ Rzym
     							         	                            przed 218-? ( wg D.R. )
     							       	                              ?-218 ( Diadumeniusz wg K.R.I.C.R. )
       Marcus Aurelius Antoninus ( Heliogabal )          218-222 ( 16.5.-11.3. ) ( wg P.C.R. ) ( Basjanus wg K.R.I.C.R. )
-    							       	                              218-222 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella ) ( Marek Aureliusz Antoninus ( Wariusz Awidiusz Bassjanus ) wg D.R. ) ( Elagabal wg H.P.S. ) ( Elagabalus wg E.P. )
+    							       	                              218-222 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella ) ( Marek Aureliusz Antoninus ( Wariusz Awidiusz Bassjanus ) wg D.R. ) ( Elagabal wg H.P.S. ) ( Elagabalus wg E.P. i S.A.B.H.O.H. )
     								                                    ? ( Elagabalus wg Ž.V.Ř.S. ) ( Elagabal wg Z.V.C. )
       Marcus Aurelius Severus Alexander		              222-235 ( 11.3.-21.3. ) ( Sewer Aleksander wg P.C.R. ) ( Aleksjan wg K.R.I.C.R. )
     							       	                              222-235 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella ) ( Marek Aureliusz Sewer Aleksander wg H.P.S. ) ( Severus Alexander wg Ř.S.J.Ď.S. )
@@ -20234,7 +20280,7 @@ Rzym
     								                                    238-244 ( lato-?.3. ) ( wg K.R.I.C.R. )
     								                                    ? ( Gordianus Minor wg Z.V.C. )
       Marcus Julius Philippus Arabs ( Filip I Arab )    244-249 ( ?.3.-?.9. ) ( wg P.C.R. ) ( Marek Juliusz Filip Arab wg K.R.I.C.R. )
-    								                                    244-249 ( wg V.N.M.S.D. , D.Ś. , A.Č. , Tapsella , D.R. ) ( Marcus Iulius Philippus Arabs wg E.P. )
+    								                                    244-249 ( wg V.N.M.S.D. , D.Ś. , A.Č. , Tapsella , D.R. ) ( Marcus Iulius Philippus Arabs wg E.P. ) ( Philip (Philip the Arab) wg S.A.B.H.O.H. )
                          							                  244-po 248 ( Filip Arab wg H.P.S. )
     								                                    ? ( wg Z.V.C. )
       Marcus Julius Severus Philippus ( Filip II )      247-249 ( wg D.Ś. i A.Č. ) ( Filip wg D.R. )
@@ -20379,10 +20425,11 @@ Rzym
           								                              306-337 ( wg R.Z.A.D.D. i Tapsella i S.C. ) ( Konstantyn Wielki wg H.P.S. ) ( Konstantin Veliký wg T. i Ř.V.G. i Ž.V.Ř.S. ) ( Konstantin I Veliký wg Z.Ř. )
            								                              ok.330 ( wg K.V. )
     	  							                                  307-308 i 310-337 ( ?-listopad i ? ) ( wg D.R. )
-          								                              324-337 ( ?-?.10. ) ( Konstantin I Veliký wg D.B. )
+          								                              324-337 (?-?.10.) ( Konstantin I Veliký wg D.B. )
                  							                          ? ( Konstantin Veliký wg Z.S.A.V.E. i F.B.C.A.R. )
     								                                    przed 324-po 325 ( Konstantin I wg E.P. )
                                                         przed 330-? ( Konstantin Veliký wg Ř.S.J.Ď.S. ) ( Constantine wg V.K.T.H.O.H.E. )
+                                                        306-? ( Constantine (Constantine the Great) wg S.A.B.H.O.H. )
       Valerius Licinianus Licinius 	                    308-324 ( 11.11.-18.9. ) ( Licynian Licyniusz wg P.C.R. i K.R.I.C.R. )
     							  	                                  308-324 ( wg D.R. i E.P. )
     							  	                                  307-324 ( Gaius Flavius Valerius Licinius wg Tapsella )
@@ -20442,7 +20489,7 @@ Rzym
                                                         364-378 ( 28.3.-9.8. ) ( wg P.C.R. )
                                                         364-379 ( wg V.N.M.S.D. )
     							                                      ? ( wg S.C. )
-    						           	                            ?-378 ( wg M.A.E. i H.P.S. i Ř.V.G. i Z.N.E. )
+    						           	                            ?-378 ( wg M.A.E. i H.P.S. i Ř.V.G. i Z.N.E. ) ( Valence wg S.A.B.H.O.H. )
     						           	                            364-378 ( 28.2.-9.8. ) ( wg K.R.I.C.R. )
     						           	                            przed 367-378 ( Valent wg H. )
     						           	                            364-378 ( ?-9.8. ) ( wg D.B. )
@@ -20489,7 +20536,7 @@ Rzym
       Arkadiusz					 	                              383-395 ( wg D.R. )
     							 	                                    383-395 ( 19.1.-17.1. ) ( wg K.R.I.C.R. )
     							 	                                    394-395 ( Arkadios wg D.B. )
-    Cesarstwo Zachodniorzymskie
+    Cesarstwo Zachodniorzymskie ( Western Roman Empire )
       Flavius Honorius ( Honoriusz )                    395-423 ( 17.1.-15.8. ) ( wg P.C.R. )
     								                                    395-423 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i D.R. i S.C. i D.B. )
     								                                    395-? ( wg H.P.S. )
@@ -20693,7 +20740,7 @@ Rzym
         Staurakios                         	            811 ( wg D.Ś. , R.Z.A.D.D. i Tapsella i D.B. )
         Michał I Rangabe              	                811-813 ( wg V.N.M.S.D. , D.Ś. , R.Z.A.D.D. i Tapsella ) ( Michael I Rangabe wg D.B. )
     					                                          ? ( Michael I wg Z.S.A.V.E. )
-        Leon V Armeńczyk         	                      813-820
+        Leon V Armeńczyk         	                      813-820 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella i D.B. )
       Dynastia amoryjska
         Michał II Amoryjczyk        	                  820-829 ( wg D.Ś. , R.Z.A.D.D. i Tapsella ) ( Michael II wg D.B. )
                                                         820-828 ( wg V.N.M.S.D. )
@@ -20839,16 +20886,6 @@ Rzym
     				        	                                  1449-1453 ( ?-29.5. ) ( Konstantinos XI Palaiologos wg D.B. )
   Roman Republic (after 1797)
   Roman Republic (1848-1849)
-  Uwagi :
-      Wszystko oprócz oznaczonego w Królestwo Rzymu wg V.N.M.S.D. i D.R.
-      Od Republiki Rzymskiej wszystko oprócz oznaczonego wg D.R. i K.R.I.C.R.
-      Od Cesarstwa Rzymskiego wszystko oprócz oznaczonego wg V.N.M.S.D. , P.C.R. , D.Ś. , A.Č. i Tapsella i D.R.
-      Od Dynastii Konstantyna wszystko oprócz oznaczonego wg V.N.M.S.D. , R.Z.A.D.D. , D.Ś. , A.Č. , P.C.R. i Tapsella i D.R.
-      Cesarstwo Zachodniorzymskie wszystko oprócz oznaczonego wg V.N.M.S.D. ,	P.C.R. , D.Ś. , A.Č. i Tapsella
-      Od Cesarstwa Wschodniorzymskiego wg V.N.M.S.D. , R.Z.A.D.D. , D.Ś. , A.Č. , P.C.R. i Tapsella
-      Od Dynastii Justynów wszystko oprócz oznaczonego wg V.N.M.S.D. , D.Ś. , P.C.R. , R.Z.A.D.D. i Tapsella
-      Od Filippikosa Bardanesa wszystko oprócz oznaczonego wg V.N.M.S.D. , D.Ś. ,	R.Z.A.D.D. i Tapsella i D.B.
-      Od Nicefora II wszystko oprócz oznaczonego wg V.N.M.S.D. , D.Ś. i Tapsella i D.B.
   Bibliografia :
       Antické Černomoří
       Dynastie Świata
@@ -20898,6 +20935,7 @@ Rzym
       Słowianie połabscy - Dzieje zagłady
       Atlas čínských dějin
       The Beginning of Infinity - Explanations that Transform the World
+      Sapiens - A Brief History of Humankind
 
 Sabaudia ( Savoie, Savoia )
   Hrabstwo Sabaudii ( County of Sabaudia, County of Savoy, County of Savoia )
@@ -21426,7 +21464,7 @@ Państwo Seldżuków w Iraku i zachodniej Persji
   Bibliografia :
       Dynastie Świata
 
-Królestwo Seleucydów
+Królestwo Seleucydów ( Seleucid Empire )
   Seleukos I Nikator                                	  312-281 ( wg D.Ś. i A.Č. )
                                                         312-280 ( wg V.N.M.S.D. )
       					       	                                ? ( wg D.R. i Ř.S.J.Ď.S. ) ( Seleucus wg K.P.N.A. )
@@ -21834,7 +21872,7 @@ Singapur ( Singapore )
   Bibliografia :
       Říše slova - Jazykové dějiny světa
 
-Singosari ( Madżapahit , Imperium Madhjapahit , Madžapahit )
+Singosari ( Madżapahit , Imperium Madhjapahit , Madžapahit , Majapahit )
   Ken Arok ( Radžasa ) 			                            ?-1227 n.e. ( Angrok wg E.P. )
                                                         1222 n.e.-? ( Kena Aroka (Ken Aroka, Kena Arok) wg K.W.N.I.W.D. )
                                                         1222-1227 ( Rádžasa wg Ř.S.J.D.S. )
@@ -22291,11 +22329,13 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
                                                         przed 1952-? ( wg F.C.A.R.F. )
                                                         ? ( Truman wg H.O.E. ) ( Harry Truman wg C.W.C.B.R. )
                                                         przed 1948-? (?.11.-?) ( wg A.Č.D. )
+                                                        przed 1945-? (?.8.-?) ( wg S.A.B.H.O.H. )
   Dwight David Eisenhower        	                      1953-1961 ( wg V.N.M.S.D. i 100.N.V.S. )
       				         	                                przed 1953-po 1957 ( wg M.Ś. )
                                                         przed 1959-1961 ( ?.4.-20.1. ) ( wg F.C.A.R.F. )
                                                         ? ( Eisenhower wg H.O.E. )
                                                         przed 1960-? ( Dwight Eisenhower wg E.N.T.C.F.R.S.H.A.P. )
+                                                        przed 1961-? ( Dwight Eisenhower wg S.A.B.H.O.H. )
   John Fitzgerald Kennedy		                            1961-1963 ( wg V.N.M.S.D. )
                                                         1961-1963 ( 20.1.-22.11. ) ( wg F.C.A.R.F. )
       				         	                                ? ( wg O.L. i M.Ś. ) ( John F. Kennedy wg E.N.T.C.F.R.S.H.A.P. )
@@ -22321,6 +22361,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
   Bill Clinton			                                    ? ( wg V.N.M.S.D. i E.N.T.C.F.R.S.H.A.P. )
   George W. Bush                                        przed 2001-po 2003 ( wg E.N.T.C.F.R.S.H.A.P. )
   Barack Obama                                          2009-2017 ( Obama wg E.N.T.C.F.R.S.H.A.P. )
+                                                        przed 2011-? ( Obama wg S.A.B.H.O.H. )
   Donald Trump                                          2017-po 2017 (?-?.6.) ( wg E.N.T.C.F.R.S.H.A.P. )
   Bibliografia :
       Velká nástěnná mapa světových dějin
@@ -22342,6 +22383,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
       Cesarz wszech chorób - Biografia raka
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
       The Beginning of Infinity - Explanations that Transform the World
+      Sapiens - A Brief History of Humankind
 
 Stodoranie ( Hawelanie , Hawolanie , Heveller )
   Księstwo Stodorańskie
@@ -22690,9 +22732,11 @@ Syrakuzy
 Syria
   Królestwo Syrii
     Dynastia Haszymidów
-      Fajsal I                                          ok.1920 n.e.
+      Fajsal I                                          ok.1920 n.e. ( wg D.Ś. )
+  Hafez el-Asad                                         ? ( wg S.A.B.H.O.H. )
   Bibliografia :
       Dynastie Świata
+      Sapiens - A Brief History of Humankind
 
 Księstwo Syspiritis
   Dynastia Bagratydów
@@ -22813,7 +22857,7 @@ Szian ( Šian )
   Bibliografia :
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
-Szkocja
+Szkocja ( Scotland )
   Fergus I                 	                            330-305
   Eugenius I             	                              357-377
   Fergus II                	                            404-420
@@ -23726,6 +23770,10 @@ Teos
   Bibliografia :
       Zrození Řecka
 
+Teotihuacan
+  Bibliografia :
+      Sapiens - A Brief History of Humankind
+
 Tepehuanowie
   Kvatlatat                                             ?
   Bibliografia :
@@ -23806,6 +23854,11 @@ Sułtanat Tidore
       Ostrovy lidojedů
       Říše slova - Jazykové dějiny světa
 
+Tikal
+  Chak Tok Ich'aak                                      ?-378 n.e.
+  Bibliografia :
+      Sapiens - A Brief History of Humankind
+
 Timbuktu
   Bibliografia :
       Mocarstwa Świata
@@ -23822,7 +23875,7 @@ Imperium Timurydów ( Państwo Tamerlana , Tímúrovská říše )
                                                         1370-1406 ( wg V.N.M.S.D. )
       					                                        ?-1405 ( wg E.P. )
                                                         ok.1350 ( Tímúr Leng ( Tamerlán , Timur Kulhavec ) wg Ř.S.J.Ď.S. )
-                                                        ? ( wg K.W.N.I.W.D. )
+                                                        ? ( wg K.W.N.I.W.D. ) ( Tamerlane wg S.A.B.H.O.H. )
     Miranszah                             	            1405-1408 ( wg D.Ś. )
     Chalil                                     	        1405-1409 ( wg D.Ś. i S.A. )
     Pir Muhammad                     	                  1406-1410 ( wg V.N.M.S.D. )
@@ -23841,6 +23894,7 @@ Imperium Timurydów ( Państwo Tamerlana , Tímúrovská říše )
       Encyklopedie panovníků
       Říše slova - Jazykové dějiny světa
       Kubiłaj-chan - władca największego imperium w dziejach
+      Sapiens - A Brief History of Humankind
 
 Sułtanat Tipu
   Bibliografia :
@@ -23890,7 +23944,7 @@ Ta´ifa Toledo
   Bibliografia :
       Maurové a Evropa
 
-Toltekowie
+Toltekowie ( Toltecs )
   Kecalkoatl	                                          ?
   Uemak		                                              ?
   Bibliografia :
@@ -24855,7 +24909,7 @@ Uruk
   Lugal.banda		                                        ?	( wg S.B.W. i M.P.C.Ś. ) ( Lugalbanda wg D.S.B.V. i Gilg. )
   Dumuzi                         	                      ? ( wg S.C. i Gilg. )
   Gilgamesz                 	                          2590-2570 ( wg S.B.W. )
-      				                                          ? ( wg S.C. i M.P.C.Ś. ) ( Gilgameš wg M.P.M. i D.S.B.V. )
+      				                                          ? ( wg S.C. i M.P.C.Ś. ) ( Gilgameš wg M.P.M. i D.S.B.V. ) ( Gilgamesh wg S.A.B.H.O.H. )
                                                         ok.2600 ( Bilgames (Gilgameš, Giš, Gišgimaš, Gilgamos) wg Gilg. )
   En.szakusz.Ana           	                            ok.2430 ( wg S.B.W. )
   Lugal.kini.szedu-du	                                  ok.2430-ok.2420 ( wg V.N.M.S.D. )
@@ -24893,6 +24947,7 @@ Uruk
       Huryci
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
       Gilgameš
+      Sapiens - A Brief History of Humankind
 
 Urum
   Bibliografia :
@@ -25599,7 +25654,7 @@ Wielki Pölü ( Baltistan )
   Bibliografia :
       Dzieje dawnych Turków
 
-Sułtanat Wielkich Seldżuków
+Sułtanat Wielkich Seldżuków ( Seljuks )
   Dynastia Seldżukidów
     Seldžuk                    	                        ? ( wg D.B. )
     Čanghri-Beg             	                          ? ( wg D.B. )
@@ -26144,7 +26199,7 @@ Złota Orda ( Chanat Kipczacki, Golden Horde , Zlatá horda , Kipčak )
       Zapomianie narody Europy
       Atlas čínských dějin
 
-Królestwo Zulu
+Królestwo Zulu ( Zulu Empire )
   Senzangakona		                                      1781-1816
   Sigujana                 	                            1816
   Shaka                     	                          1816-1828 ( ?-23.9. ) ( wg 100.N.V.S. )
@@ -26170,7 +26225,7 @@ County of Zutphen
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet Socialist Republics , Soyuz Sovetskikh Sotsialisticheskikh Republik , Sovětský svaz )
-  Lenin                                                 ? ( wg F.C.A.R.F. i E.N.T.C.F.R.S.H.A.P. )
+  Lenin                                                 ? ( wg F.C.A.R.F. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. )
   Józef V. Stalin                       	              przed 1941-1953 ( wg 100.N.V.S. )
     				    	                                      przed 1934 -po 1945 ( wg M.Ś. )
                                                         przed 1953-? ( wg P.J.D. )
@@ -26184,7 +26239,7 @@ Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet
                                                         ? ( Nikita Khrushchev wg V.K.T.H.O.H.E. ) ( Khrushchev wg E.N.T.C.F.R.S.H.A.P. )
   Leonid Brežněv		                                    ?	( wg B.O.H.R. ) ( Leonid Brezhnev wg V.K.T.H.O.H.E. ) ( Brezhnev wg E.N.T.C.F.R.S.H.A.P. )
                                                         1964-po 1967 ( ?.10.-? ) ( wg F.C.A.R.F. )
-  Michaił Gorbaczow		                                  ? ( wg M.Ś. )
+  Michaił Gorbaczow		                                  ? ( wg M.Ś. ) ( Mikhail Gorbachev wg S.A.B.H.O.H. )
                                                         1985-1991 (?.3.-31.12.) ( Mikhail Gorbachev wg V.K.T.H.O.H.E. )
                                                         przed 1986-? ( Mikhail Gorbachev wg E.N.T.C.F.R.S.H.A.P. )
   presidents
@@ -26199,6 +26254,7 @@ Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      Sapiens - A Brief History of Humankind
 
 Państwo Zyjadydów
   Ibrahim ibn Muhammad                                  859-902
@@ -26229,23 +26285,23 @@ Państwo Zyjadydów
 Żydzi
   Jozue              		                                1451-1426 ( wg V.N.M.S.D. )
       		      		                                    ok.1230 ( wg K.T.V.S.O. )
-  Otniel             		                                ok.1409-ok.1369
-  Ehud              		                                ok.1369-ok.1356
-  Szamgar         		                                  ok.1356-ok.1338
-  Debora           		                                  ok.1338-1291
-  Barak             		                                ok.1338-1291
+  Otniel             		                                ok.1409-ok.1369 ( wg V.N.M.S.D. )
+  Ehud              		                                ok.1369-ok.1356 ( wg V.N.M.S.D. )
+  Szamgar         		                                  ok.1356-ok.1338 ( wg V.N.M.S.D. )
+  Debora           		                                  ok.1338-1291 ( wg V.N.M.S.D. )
+  Barak             		                                ok.1338-1291 ( wg V.N.M.S.D. )
   Gedeon          		                                  1291-1251 ( wg V.N.M.S.D. )
       		      		                                    ok.1100 ( wg K.T.V.S.O. )
-  Tola               		                                1251-1228
-  Jair                 		                              1228-1206
-  Ibsan             		                                1200-1193
-  Elon               		                                1193-1183
-  Abdon            		                                  1183-1175
-  Samson          		                                  1175-ok.1155
-  Eli                  		                              ok.1155-ok.1115
-  Samuel           		                                  ok.1115-1095
+  Tola               		                                1251-1228 ( wg V.N.M.S.D. )
+  Jair                 		                              1228-1206 ( wg V.N.M.S.D. )
+  Ibsan             		                                1200-1193 ( wg V.N.M.S.D. )
+  Elon               		                                1193-1183 ( wg V.N.M.S.D. )
+  Abdon            		                                  1183-1175 ( wg V.N.M.S.D. )
+  Samson          		                                  1175-ok.1155 ( wg V.N.M.S.D. )
+  Eli                  		                              ok.1155-ok.1115 ( wg V.N.M.S.D. )
+  Samuel           		                                  ok.1115-1095 ( wg V.N.M.S.D. )
   Jefte			                                            ?	( wg S.B.W. )
-  Królestwo Żydowskie
+  Królestwo Żydowskie ( Kingdom of Judaea , Judaea )
     Saul                      	                        1020-1010 ( wg D.Ś. )
                                                  	      1095-1055 ( wg V.N.M.S.D. )
       				                                          1030-1010 ( wg S.B.W. )
@@ -26259,7 +26315,7 @@ Państwo Zyjadydów
       				                                          ok.950 ( wg D.G. )
       				                                          ok.1006-965 ( wg S.C. )
       				                                          ok.1000-ok.985 ( wg H.P.S. )
-      				                                          ? ( David wg Ž.V.Ř.S. i D.S.B.V. ) ( wg Hur. i K.W.N.I.W.D. )
+      				                                          ? ( David wg Ž.V.Ř.S. i D.S.B.V. i S.A.B.H.O.H. ) ( wg Hur. i K.W.N.I.W.D. )
     Salomon		                                          970-931 ( wg D.Ś. i S.B.W. )
                                                  	      1015-975 ( wg V.N.M.S.D. )
                                                  	      965-926 ( wg K.T.V.S.O. )
@@ -26268,8 +26324,6 @@ Państwo Zyjadydów
       				                                          965-928 ( wg S.C. )
       				                                          975-935 ( wg H.P.S. )
       			       	                                    ? ( wg O.L. ) ( Šalamoun wg E.P. i D.S.B.V. ) ( Šalomoun wg Ž.V.Ř.S. ) ( Solomon wg A.S.A.O.T.D.O.T.I. )
-  Uwagi :
-      Wszystko oprócz oznaczonego przed Królestwem Żydowskim wg V.N.M.S.D.
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -26286,6 +26340,7 @@ Państwo Zyjadydów
       Młot Na Czarownice
       Kubiłaj-chan - władca największego imperium w dziejach
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
+      Sapiens - A Brief History of Humankind
 
 Bibliografia :
     [1] Monarchs , Rulers , Dynasties and Kingdoms of the World , R.F.Tapsell , 1984
@@ -26386,5 +26441,6 @@ Bibliografia :
     [96] Enlightenment Now - The Case For Reason, Science, Humanism, and Progress , Steven Pinker , 2018
     [97] The Beginning of Infinity - Explanations that Transform the World , David Deutsch , 2012
     [98] Muzyka w Herzenburgu , Tadeusz Borowski , 2016
+    [99] Sapiens - A Brief History of Humankind , Yuval Noah Harrari , 2011
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
