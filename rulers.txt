@@ -728,7 +728,7 @@ Andros
   Bibliografia :
       Dzieje Grecji
 
-Anglia ( England )
+Anglia ( England , Anglie )
   Królestwo Anglii
     Dynastia saska z Wessexu
       Egbert             	                              802-839 ( wg D.Ś. )
@@ -752,7 +752,7 @@ Anglia ( England )
 				                                                901-925 ( wg V.N.M.S.D. )
 				                                                899-925 ( wg Tapsella )
       Elfweard               	                          924  ( wg D.Ś. )
-      Athelstan           	                            924 -939 ( wg D.Ś. )
+      Athelstan           	                            924-939 ( wg D.Ś. )
 					                                              925-940 ( wg V.N.M.S.D. )
 				                                                925-939 ( wg Tapsella )
 				                                                924-939 ( ?-27.10. ) ( wg E.P. )
@@ -760,7 +760,7 @@ Anglia ( England )
                                                	        940-946 ( wg V.N.M.S.D. )
 				                                                ?-946 ( Edmund I Nádherný wg E.P. )
                                                         przed 944-po 945 ( Edmund The Elder wg V.K.T.H.O.H.E. )
-      Edred                     	                      946-955
+      Edred                     	                      946-955 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
       Edwy                    	                        955-959 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 				                                                ? ( Edwin wg E.P. )
       Edgar Spokojny      		                          957-975  ( wg V.N.M.S.D. i D.Ś. )
@@ -776,7 +776,7 @@ Anglia ( England )
 					                                              978-1016 ( ?-23.4. ) ( Ethelred II Nerozvážný ( Váhavý ) wg E.P. )
       Edmund II Żelazny              	                  1016 ( wg D.Ś. i Tapsella )
 					                                              ?-1016 ( ?-30.11. ) ( Edmund II Ironside wg E.P. )
-      Edward Święty Wyznawca  	                        1042-1066
+      Edward Święty Wyznawca  	                        1042-1066 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
       Harold II Godwinson           	                  1066 ( wg D.Ś. i Tapsella i 100.N.V.S. )
 				       	                                        ?-1066 ( wg B.M. )
     Dynastia duńska
@@ -797,7 +797,7 @@ Anglia ( England )
 				         	                                      1066-1087 ( 25.12.-9.9 ) ( wg 100.N.V.S. )
 				         	                                      1066-? ( Vilém Dobyvatel wg D.P.I.R.G. ) ( William of Normandy (William The Conqueror) wg V.K.T.H.O.H.E. )
                                                         przed 1086-? ( Wilhelm Zdobywca wg K.W.N.I.W.D. )
-      Wilhelm II Rufus ( Rudy )     	                  1087-1100
+      Wilhelm II Rufus ( Rudy )     	                  1087-1100 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
       Henryk I                              	          1100-1135 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 				         	                                      przed 1106-? ( Jindřich I wg F.B.C.A.R. )
     Dynastia z Blois
@@ -849,7 +849,7 @@ Anglia ( England )
       Edward IV           	                            1461-1470 i 1471-1483 ( wg D.Ś. i Tapsella )
                                                	        1461-1483 ( wg V.N.M.S.D. )
       Edward V             	                            1483 ( wg D.Ś. i Tapsella )
-      Ryszard III           	                          1483-1485
+      Ryszard III           	                          1483-1485 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
     Dynastia Tudorów
       Henryk VII          	                            1485-1509 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 			          	                                      ? ( wg H.C. i wg D.R. )
@@ -862,15 +862,15 @@ Anglia ( England )
 			     	                                            przed 1519-? ( Jindřich VIII wg M.A.E. )
 			     	                                            przed 1513-po 1523 ( wg M.Ś. )
                                                         przed 1536-po 1541 ( Jindřich VIII wg Ř.S.J.Ď.S. ) ( Henry VIII wg V.K.T.H.O.H.E. )
-      Edward VI           	                            1547-1553
+      Edward VI           	                            1547-1553 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
       Jane                      	                      1553 ( wg D.Ś. )
-      Maria I                 	                        1553-1558
+      Maria I                 	                        1553-1558 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
       Elżbieta I              	                        1558-1603 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Alžběta I wg Ř.S.J.Ď.S. )
 			     	                                            przed 1568-po 1587 ( Alžběta I wg O.A. )
 		         		                                        ? ( wg P.J.D. ) ( Elżbieta wg 100.N.U.W. ) ( Elizabeth I wg S.A.B.H.O.H. )
 			     	                                            1558-? ( wg M.Ś. )
 			     	                                            ?-1603 ( Alžběta I wg V.R.M. ) ( Elizabeth I wg V.K.T.H.O.H.E. )
-      Karol V              	                            przed 1559-?      ( wg B.M. )
+      Karol V              	                            przed 1559-? ( wg B.M. )
     Dynastia Stuartów
       Jakub I        		                                1603-1625 ( 25.7.-27.3. ) ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 		              	                                    ok.1603-po 1624 ( wg O.A. )
@@ -939,11 +939,12 @@ Anglia ( England )
                                                         przed 1822-? ( George IV wg V.K.T.H.O.H.E. )
       Wilhelm IV	                                      1830-1837 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( William IV wg V.K.T.H.O.H.E. )
       Wiktoria    	                                    1837-1901 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Victoria (Alexandrine Victoire) wg V.K.T.H.O.H.E. )
-			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. )
+			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. i P.N.D. )
                                                         przed 1881-? ( Victoria wg S.A.B.H.O.H. )
     Dynastia Sachsen-Coburg-Gotha
       Edward VII         	                              1901-1910 ( wg D.Ś. i V.N.M.S.D. i Tapsella i V.K.T.H.O.H.E. )
                                                         przed 1904-? ( wg H.O.E. )
+                                                        ? ( Edvard VII. wg P.N.D. )
       Jerzy V                	                          1910-1917 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
                                                         1910-1917 (?-?.7.) ( George V wg V.K.T.H.O.H.E. )
     Dynastia Windsor
@@ -971,8 +972,6 @@ Anglia ( England )
       Tony Blair                                        1997-2007 ( wg V.K.T.H.O.H.E. )
       Gordon Brown                                      2007-2010 ( wg V.K.T.H.O.H.E. )
       David Cameron                                     2010-? ( wg V.K.T.H.O.H.E. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D. i Tapsella
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -1007,6 +1006,7 @@ Anglia ( England )
       Heroes of Endurance
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
       Sapiens - A Brief History of Humankind
+      Přemožitel neviditelných dravců
 
 Anglowie
 
@@ -2025,7 +2025,7 @@ Atarneus
   Bibliografia :
       Dzieje Grecji
 
-Ateny ( Athens )
+Ateny ( Athens , Atény )
   Królestwo Aten
     Kekrops I      		                                  1556-ok.1520
     Kranaos      		                                    ok.1520-1503
@@ -2109,7 +2109,7 @@ Ateny ( Athens )
   Perikles             		                              443-429 ( wg D.P.I.R.G. )
       		         		                                  461-? ( Perykles wg H.P.S. )
                                                         przed 431-? ( wg Ř.S.J.Ď.S. )
-                                                        ? ( Pericles wg T.B.O.I. )
+                                                        ? ( Pericles wg T.B.O.I. ) ( Perkiles wg P.N.D. )
   Fókión               		                              przed 321-po 319 ( wg S.H. )
   Demétrios z Faléru	                                  317-307 ( wg S.H. )
   Arystion            		                              ?-ok.87 ( wg D.R. )
@@ -2137,6 +2137,7 @@ Ateny ( Athens )
       Klasické Řecko
       Říše slova - Jazykové dějiny světa
       The Beginning of Infinity - Explanations that Transform the World
+      Přemožitel neviditelných dravců
 
 Augsburg
   Konrád		                                            ?-1167 n.e.
@@ -2156,7 +2157,7 @@ Australia
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Austria
+Austria ( Rakousko )
   Dynastia Babenbergów
     Leopold I                 	                        976-994 ( wg D.Ś. )
                                                     	  928-1018 ( wg V.N.M.S.D. )
@@ -2180,14 +2181,14 @@ Austria
     Leopold V                   	                      1177-1194 ( wg D.Ś. i V.N.M.S.D. )
       			           	                                przed 1192-po 1194 ( wg 100.N.V.S. )
       			          	                                przed 1181-po 1189 ( wg F.B.C.A.R. )
-    Fryderyk I                 	                        1194-1198
+    Fryderyk I                 	                        1194-1198 ( wg D.Ś. i V.N.M.S.D. )
     Leopold VI Sławny    	                              1198-1230 ( wg D.Ś. i V.N.M.S.D. )
       			         	                                  ok.1217 ( wg K.V. )
-    Fryderyk II Bitny       	                          1230-1246
+    Fryderyk II Bitny       	                          1230-1246 ( wg D.Ś. i V.N.M.S.D. )
     Dynastia habsburska ( House of Habsburg )
       Rudolf I                       	                  1276-1282 ( wg D.Ś. )
       Rudolf II                      	                  1282-1283 ( wg D.Ś. )
-      Albrecht I                     	                  1282-1298
+      Albrecht I                     	                  1282-1298 ( wg D.Ś. i V.N.M.S.D. )
       Rudolf III                     	                  1298-1307 ( wg D.Ś. )
                                                         1298-1308 ( wg V.N.M.S.D. )
       Leopold I                      	                  1298-1326 ( wg D.Ś. )
@@ -2198,9 +2199,9 @@ Austria
                                                         1330-1358 ( wg V.N.M.S.D. )
       Otto                               	              1330-1339  ( wg D.Ś. )
                                                         1330-1358 ( wg V.N.M.S.D. )
-      Rudolf IV Założyciel    	                        1358-1365
+      Rudolf IV Założyciel    	                        1358-1365 ( wg D.Ś. i V.N.M.S.D. )
       Linia albertyńska
-        Albrecht III                       	            1365-1395
+        Albrecht III                       	            1365-1395 ( wg D.Ś. i V.N.M.S.D. )
         Albrecht IV Cierpliwy      	                    1395-1404 ( wg D.Ś. )
                                                         1395-1411 ( wg V.N.M.S.D. )
         Albrecht V                        	            1404-1439 ( wg D.Ś. )
@@ -2214,20 +2215,20 @@ Austria
                                                      	  1395-1411 ( wg V.N.M.S.D. )
         Leopold IV Gruby	1386-1411 ( wg D.Ś. )
       Linia tyrolska
-        Fryderyk IV                	                    1406-1439
-        Zygmunt                     	                  1439-1490
+        Fryderyk IV                	                    1406-1439 ( wg D.Ś. )
+        Zygmunt                     	                  1439-1490 ( wg D.Ś. )
         Ferdinand I Habsburský	                        1522-1564 ( ?-25.7. ) ( wg E.P. )
-        Ferdynand II               	                    1564-1595
-        Maksymilian III         		                    1602-1618
-        Leopold V                  	                    1619-1632
-        Ferdynand Karol         	                      1632-1662
-        Zygmunt Franciszek		                          1662-1665
+        Ferdynand II               	                    1564-1595 ( wg D.Ś. )
+        Maksymilian III         		                    1602-1618 ( wg D.Ś. )
+        Leopold V                  	                    1619-1632 ( wg D.Ś. )
+        Ferdynand Karol         	                      1632-1662 ( wg D.Ś. )
+        Zygmunt Franciszek		                          1662-1665 ( wg D.Ś. )
       Linia styryjska
-        Ernest Żelazny               	                  1406-1424
-        Albrecht VI Szczodry		                        1424-1463
-        Fryderyk V                     	                1424-1493
-        Karol II                           	            1564-1590
-        Ferdynand III                  	                1590-1619
+        Ernest Żelazny               	                  1406-1424 ( wg D.Ś. )
+        Albrecht VI Szczodry		                        1424-1463 ( wg D.Ś. )
+        Fryderyk V                     	                1424-1493 ( wg D.Ś. )
+        Karol II                           	            1564-1590 ( wg D.Ś. )
+        Ferdynand III                  	                1590-1619 ( wg D.Ś. )
       Karol V                    	                      1519-? ( wg M.Ś. )
         				                                        przed 1542-? ( Karel V wg V.F.V. )
       Ferdynand I                 	                    ? ( wg M.Ś. )
@@ -2252,10 +2253,8 @@ Austria
       Ferdynand I             	                        1835-1848 ( wg D.Ś. i V.N.M.S.D. ) ( Ferdinand I Dobrotivý wg E.P. ) ( Ferdinand I wg V.K.T.H.O.H.E. )
       Franciszek Józef I	                              1848-1916 ( wg D.Ś. i V.N.M.S.D. ) ( Franz-Josef (Franz-Joseph) wg V.K.T.H.O.H.E. )
       			         	                                  ? ( wg M.Ś. i O.K.C.J. ) ( František Jozef I wg E.P. )
+                                                        przed 1892-? (27.12.-?) ( wg P.N.D. )
       Karol I                 	                        1916-1918 ( wg D.Ś. i V.N.M.S.D. ) ( Charles wg V.K.T.H.O.H.E. )
-  Uwagi :
-      Wszyatko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
-      Linia Tyrolska i Styryjska wg D.Ś.
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -2268,6 +2267,7 @@ Austria
       Velikáni francouzské vědy
       O Krakowie Ci Ja!
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Přemožitel neviditelných dravců
 
 County of Autun
   Richard The Justiciar                                 ? [Duke of Burgundy]
@@ -3648,10 +3648,11 @@ Brandenburgia ( Brandenburg )
 Braniczowcy
 
 Brazylia ( Brazil )
-  Cesarstwo Brazylii
+  Cesarstwo Brazylii ( Brazilské císařství )
     Dynastia Bragança
       Pedro I         	                                1822-1831 ( wg D.Ś. i V.N.M.S.D. )
       Pedro II		                                      1831-1889 ( wg D.Ś. i V.N.M.S.D. )
+                                                        przed 1885-? ( wg P.N.D. )
       Quadros Janio da Silva		                        1961 ( ?.1.-?.8. ) ( Kvadrus wg E.P. )
   Juscelino Kubitshek                                   przed 1959-? ( wg F.C.A.R.F. )
   Bibliografia :
@@ -3659,6 +3660,7 @@ Brazylia ( Brazil )
       Velká nástěnná mapa světových dějin
       Encyklopedie panovníků
       Fidel & Che - A Revolutionary Friendship
+      Přemožitel neviditelných dravců
 
 Księstwo Brenny
   Mojmir ( Meinfryd )                                   ?-1127 ( wg S.P.D.Z. )
@@ -5862,6 +5864,7 @@ Chanat Czatagajski ( Chanat Czagataja , Čagatajský chanát )
       Kubiłaj-chan - władca największego imperium w dziejach
 
 Czechosłowacja ( Czechoslovakia )
+  Československá republika
   Novotny                                               przed 1960-?
   Bibliografia :
       Fidel & Che - A Revolutionary Friendship
@@ -5903,7 +5906,7 @@ Czechy
       				     	                                    1002-1003 ( ?-początek ) ( Vladivoj wg Z.S.A.V.E. )
     Jaromir                                    	        1003 i 1004-1012 i 1033-1034 ( wg D.Ś. )
                                                         przed 1007-po 1012 ( Jaromír wg Z.S.A.V.E. )
-    Bolesław I Chrobry                 	                1003-1004
+    Bolesław I Chrobry                 	                1003-1004 ( wg D.Ś. )
     Oldrzych ( Ulrych )                 	              1012-1033 ( wg D.Ś. )
       				      	                                  przed 1014 -1033 i ?-1034 ( ? i ?-9.11. ) ( Oldřich wg Z.S.A.V.E. )
     Brzetysław I                            	          1034-1055 ( wg D.Ś. )
@@ -5917,12 +5920,12 @@ Czechy
       				      	                                  przed 1063-? ( Vratislav wg Z.S.A.V.E. )
     Królestwo Czech
       Dynastia Przemyślidów
-        Wratysław II ( I )                     	        1085-1092
-    Konrad                                  	          1092
-    Brzetysław II                           	          1092-1100
+        Wratysław II ( I )                     	        1085-1092 ( wg D.Ś. )
+    Konrad                                  	          1092 ( wg D.Ś. )
+    Brzetysław II                           	          1092-1100 ( wg D.Ś. )
     Borzywoj II                             	          1100-1107 i 1117-1120 ( wg D.Ś. )
                                                         1101-1107 i 1117-1120 ( Borzywoj wg W.W.K.R. )
-    Świętopełk ( Svatopluk )         	                  1107-1109
+    Świętopełk ( Svatopluk )         	                  1107-1109 ( wg D.Ś. )
     Władysław I                             	          1109-1117 i 1120-1125 ( wg D.Ś. ) ( Władysław wg W.W.K.R. )
     Sobiesław I                              	          1125-1140 ( wg D.Ś. ) ( Soběslav I wg D.P.I.R.G. ) ( Sobiesław wg W.W.K.R. )
       					                                        ? ( Soběslav I wg F.B.C.A.R. )
@@ -5938,16 +5941,16 @@ Czechy
       				      	                                  1172-? i przed 1182-? ( wg F.B.C.A.R. )
     Sobiesław II                             	          1173-1178 ( wg D.Ś. )
       				       	                                  1173-? ( Soběslav II wg F.B.C.A.R. )
-    Konrad Otto ( Ota )                  	              1189-1191
-    Wacław II                                 	        1191-1192
-    Przemysł Ottokar ( Otakar ) I 	                    1192-1193 i 1197-1198
-    Henryk Brzetysław                   	              1193-1197
-    Władysław III Henryk              	                1197
+    Konrad Otto ( Ota )                  	              1189-1191 ( wg D.Ś. )
+    Wacław II                                 	        1191-1192 ( wg D.Ś. )
+    Przemysł Ottokar ( Otakar ) I 	                    1192-1193 i 1197-1198 ( wg D.Ś. )
+    Henryk Brzetysław                   	              1193-1197 ( wg D.Ś. )
+    Władysław III Henryk              	                1197 ( wg D.Ś. )
   Królestwo Czech
     Dynastia Przemyślidów
       Przemysł Ottokar ( Otakar ) I	                    1198-1230 ( wg D.Ś. i V.N.M.S.D. )
       				            	                            1197-1230 ( Přemysl Otakar I wg D.P.I.R.G. )
-      Wacław I                                   	      1230-1253
+      Wacław I                                   	      1230-1253 ( wg D.Ś. i V.N.M.S.D. )
       Przemysł Ottokar II Wielki       	                1253-1278 ( wg D.Ś. i V.N.M.S.D. ) ( Přemysl II Otakar wg D.P.I.R.G. ) ( Přemysl Otakár II wg D.B. )
       					      	                                ? ( Přemysl Otakar II wg Z.S.A.V.E. ) ( Otakar II (Ottaker II) wg V.K.T.H.O.H.E. ) ( Przemysł Ottokar II wg Z.N.E. )
       Wacław II                                  	      1278-1305 ( wg D.Ś. i V.N.M.S.D. ) ( Václav II wg Z.S.A.V.E. )
@@ -5956,14 +5959,6 @@ Czechy
       				             	                            ?-1306 ( Václav III wg D.P.I.R.G. i Z.S.A.V.E. )
     Dynastia habsburska
       Rudolf                                	          1306-1307 ( wg D.Ś. )
-      Albrecht                             	            1437-1439 ( wg D.Ś. i V.N.M.S.D. )
-      				     	                                    ?-1439 ( Albrecht Rakouský wg D.P.I.R.G. )
-      Władysław Pogrobowiec	                            1453-1457 ( wg D.Ś. ) ( Ladislav Pohrobek wg D.P.I.R.G. )
-                                                        1439-ok.1455 ( wg V.N.M.S.D. )
-      Ferdynand I                        	              1526-1564 ( wg D.Ś. )
-      				     	                                    1526-1564 ( ?.10.-? ) ( Ferdinand I wg D.P.I.R.G. )
-      					                                        1526-1564 ( ?-25.7. ) ( Ferdinand I Habsburský wg E.P. )
-      Ferdinand V(I)		                                1836-? ( 7.9.-? ) ( wg E.P. )
     Dynastia karyncka
       Henryk       		                                  1307-1310 ( wg D.Ś. )
     Dynastia luksemburska
@@ -5977,20 +5972,28 @@ Czechy
       Zygmunt             	                            1419-1437 ( wg D.Ś. )
       			   	                                        ?-1437 ( Zikmund Lucemburský wg D.P.I.R.G. )
       			   	                                        1419-? ( Zikmund wg Z.S.A.V.E. )
+    Dynastia habsburska
+      Albrecht                             	            1437-1439 ( wg D.Ś. i V.N.M.S.D. )
+      				     	                                    ?-1439 ( Albrecht Rakouský wg D.P.I.R.G. )
+      Władysław Pogrobowiec	                            1453-1457 ( wg D.Ś. ) ( Ladislav Pohrobek wg D.P.I.R.G. )
+                                                        1439-ok.1455 ( wg V.N.M.S.D. )
     Dynastia Poděbradów
       Jerzy z Poděbrad 	                                1458-1471 ( wg D.Ś. ) ( Jiří z Poděbrad wg D.P.I.R.G. i Z.S.A.V.E. )
                                                       	ok.1455-1471 ( wg V.N.M.S.D. )
     Dynastia Jagiellonów
       Władysław II        	                            1471-1516 ( wg D.Ś. i V.N.M.S.D. ) ( Vladislav II wg D.P.I.R.G. i Z.S.A.V.E. ) [King of Hungary]
                                                         ?-1516 ( wg V.K.T.H.O.H.E. )
+                                                        przed 1485-? ( wg P.N.D. )
       Ludwik                 	                          1516-1526 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík wg Z.S.A.V.E. ) ( Louis II wg V.K.T.H.O.H.E. ) [King of Hungary]
                                                      	  1516-1526 ( ?-29.8. ) ( Ludvík wg D.P.I.R.G. )
       			         	                                  ?-1526 ( ?-29.8. ) ( wg 100.N.V.S. )
+    Dynastia habsburska
+      Ferdynand I                        	              1526-1564 ( wg D.Ś. )
+      				     	                                    1526-1564 ( ?.10.-? ) ( Ferdinand I wg D.P.I.R.G. )
+      					                                        1526-1564 ( ?-25.7. ) ( Ferdinand I Habsburský wg E.P. )
+      Ferdinand V(I)		                                1836-? ( 7.9.-? ) ( wg E.P. )
   Republika Czeska ( Czech Republic )
     Václav Havel       	                                1993-? ( wg V.N.M.S.D. )
-  Uwagi :
-      Przed królem Otakarem I wszystko oprócz oznaczonego wg D.Ś.
-      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -6005,6 +6008,7 @@ Czechy
       Wielka wyprawa Księcia Racibora
       Słowianie połabscy - Dzieje zagłady
       Atlas čínských dějin
+      Přemožitel neviditelných dravců
 
 Królestwo Czedi
   Bibliografia :
@@ -8352,7 +8356,7 @@ Foxowie ( Fox )
   Bibliografia :
       Czarne wampuny głoszą wojnę
 
-Francja ( France )
+Francja ( France , Francie )
   Królestwo Zachodniofrankońskie ( West Francia , Francia occidentalis , Królestwo Franków Zachodnich )
     Dynastia Karolingów ( Dynastia Arnulfingów )
       Pepin Krótki                                      751-768 ( wg D.Ś. i Tapsella )
@@ -8413,12 +8417,12 @@ Francja ( France )
       Zwentibold                           	            895-900 ( wg Tapsella )
     Dynastia Robertyngów
       Robert I                   	                      922-923 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-      Rudolf ( Raul )	                                  923-936 ( wg V.N.M.S.D. , D.Ś. i R.Z.A.D.D. ) ( Rudolph wg V.K.T.H.O.H.E. )
+      Rudolf ( Raul )	                                  923-936 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. ) ( Rudolph wg V.K.T.H.O.H.E. )
     Dynastia Karolingów
-      Ludwik IV Zamorski		                            936-954 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+      Ludwik IV Zamorski		                            936-954 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
                                                         przed 942-po 950 ( Ludvík IV wg Z.S.A.V.E. )
-      Lotar                                  	          954 -986
-      Ludwik V Próżniak     	                          986-987
+      Lotar                                  	          954-986 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
+      Ludwik V Próżniak     	                          986-987 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
   Królestwo Francji
     Dynastia Kapetyngów
       Hugo Kapet           	                            987-996 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Hugues Capet wg V.K.T.H.O.H.E. )
@@ -8447,7 +8451,7 @@ Francja ( France )
 	 			                                                przed 1213-? ( Filip August wg B.M. )
 				                                                1180-po 1187 ( wg F.B.C.A.R. )
                                                         przed 1204-? ( Filip II wg Ř.S.J.Ď.S. )
-      Ludwik VIII Lew  	                                1223-1226
+      Ludwik VIII Lew  	                                1223-1226 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
       Ludwik IX Święty  	                              1226-1270 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Ludvík IX Svatý wg D.B. ) ( St. Louis wg V.K.T.H.O.H.E. )
 				                                                przed 1248-1270 ( wg K.V. )
 				                                                ? ( wg 100.N.V.S. )
@@ -8456,7 +8460,7 @@ Francja ( France )
                                                         ? ( Philippe III wg V.K.T.H.O.H.E. )
       Filip IV Piękny      	                            1285-1314 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Filip IV Sličný wg D.P.I.R.G. )
                                                         przed 1287-? ( Filip Piękny wg K.W.N.I.W.D. )
-      Ludwik X Kłótnik  	                              1314-1316
+      Ludwik X Kłótnik  	                              1314-1316 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
       Jan I Pogrobowiec	                                1316 ( wg D.Ś. )
       Filip V Długi           	                        1316-1322 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Philippe V Capet wg V.K.T.H.O.H.E. )
       Karol IV Piękny    	                              1322-1328 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Charles IV Capet wg V.K.T.H.O.H.E. )
@@ -8494,31 +8498,33 @@ Francja ( France )
         Henryk III              	                      1574-1589 ( wg V.N.M .S.D. i D.Ś. i Tapsella )
   				                                              przed 1574-? ( Jindřich III wg V.F.V. )
                                                         ? ( Henri de Valois (Henryk Walezy) wg V.K.T.H.O.H.E. )
-    Dynastia burbońska ( The Bourbons )
+    Dynastia burbońska ( The Bourbons , Rod Bourbonů , Rod Bourbonský )
       Henryk IV          	                              1589-1610 ( wg V.N.M.S.D. , D.Ś. i Tapsella i M.Ś. ) ( Henri IV wg V.K.T.H.O.H.E. )
 				                                                ? ( Henrich IV wg O.A. )
 				                                                przed 1593-po 1603 ( Jindřich IV wg V.F.V. )
       Ludwik XIII           	                          1610-1643 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Ludvík XIII wg Ř.S.J.Ď.S. ) ( Louis XIII wg V.K.T.H.O.H.E. )
 				                                                ? ( Ludvík XIII wg V.F.V. )
+                                                        przed 1626-? (?.1.-?) ( Ludvík XIII. wg P.N.D. )
       Ludwik XIV          	                            1643-1715 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Ludvík XIV wg Ř.S.J.Ď.S. ) ( Louis XIV  wg V.K.T.H.O.H.E. )
 			     	                                            ok.1652 ( wg 100.N.V.S. )
 			     	                                            przed 1682-? ( Ľudovít XIV wg O.A. )
-			   	                                              ? ( wg 100.N.U.W. i P.J.D.) ( Louis XIV wg C.O.T.U.F.T.A.T.A. )
+			   	                                              ? ( wg 100.N.U.W. i P.J.D.) ( Louis XIV wg C.O.T.U.F.T.A.T.A. ) ( Ludvík XIV. wg P.N.D. )
 			  	                                              przed 1674 -? ( wg B.M. )
 			     	                                            1661-1715 ( marzec-? ) ( wg M.Ś. )
 				                                                przed 1670-? ( Ludvík XIV wg V.F.V. )
                                                         przed 1697-? ( wg R.I.A. )
       Ludwik XV         	                              1715-1774  ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Louis XV wg V.K.T.H.O.H.E. )
 			     	                                            ok.1738 ( wg 100.N.V.S. )
-				                                                ? ( wg 100.N.U.W. i M.Ś. ) ( Ludvík XV wg V.F.V. )
+				                                                ? ( wg 100.N.U.W. i M.Ś. ) ( Ludvík XV wg V.F.V. ) ( Ludvík XV. wg P.N.D. )
                                                         przed 1717-? ( Louis XV wg S.A.B.H.O.H. )
       Ludwik XVI        	                              1774-1792 ( wg D.Ś. i Tapsella )
                                              	          1774-1789 ( wg V.N.M.S.D. )
 				                                                przed 1781-? ( wg 100.N.U.W. )
-				                                                ? ( wg M.Ś. ) ( Ludvík XVI wg V.F.V. )
+				                                                ? ( wg M.Ś. ) ( Ludvík XVI wg V.F.V. ) ( Ludvík XVI. wg P.N.D. )
                                                         1774-1793 ( Louis XVI wg V.K.T.H.O.H.E. )
                                                         przed 1789-? ( Louis XVI wg S.A.B.H.O.H. )
       Ludwik XVII           	                          1793-1795 ( wg D.Ś. i V.N.M.S.D. )
+                                                        ? ( Ludvík XVII. wg P.N.D. )
   1.Republika
     Konsulat
       Napoleon Bonaparte ( Nabuleone Buonaparte )       1799-1804 ( wg D.Ś. i V.N.M.S.D. i 100.N.V.S. )
@@ -8526,6 +8532,7 @@ Francja ( France )
 				                                                przed 1800-? ( wg V.F.V. )
                                                         przed 1800-1805 ( Napoleon (Buonaparti, Napoléon) wg V.K.T.H.O.H.E. )
                                                         przed 1798-? ( Napoleon wg S.A.B.H.O.H. )
+                                                        ? ( Napoleon wg P.N.D. )
   Pierwsze Cesarstwo
     Dynastia Bonaparte
       Napoleon I		                                    1804-1814 i 1815 ( wg D.Ś. i V.N.M.S.D. )
@@ -8540,22 +8547,25 @@ Francja ( France )
 				                                                przed 1815-? ( Napoleon wg G.T.G. )
                                                         1805-1814 i 1815 (?-11.4. i ?-?.6.) ( Napoleon wg V.K.T.H.O.H.E. )
                                                         ?-po 1805 ( Napoleon wg S.A.B.H.O.H. )
+                                                        1804-1815 ( Napoleon (Napoleon Bonaparte, Napoleon I.) wg P.N.D. )
       Napoleon II         	                            1815 ( wg D.Ś. )
   Królestwo Francji
-    Dynastia burbońska ( The Bourbons )
+    Dynastia burbońska ( The Bourbons , Rod Bourbonů , Rod Bourbonský )
       Ludwik XVIII		                                  1814-1824 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Louis XVIII wg V.K.T.H.O.H.E. )
                                                         ok.1815 ( wg 100.N.V.S. )
-                                                        ? ( wg 100.N.U.W. i M.Ś. ) ( Ludvík XVIII wg V.F.V. )
+                                                        ? ( wg 100.N.U.W. i M.Ś. ) ( Ludvík XVIII wg V.F.V. ) ( Ludvík XVIII. wg P.N.D. )
       Karol X               	                          1823-1830 ( wg D.Ś. )
                                                         1824-1830 ( wg V.N.M.S.D. i Tapsella ) ( Charles X wg V.K.T.H.O.H.E. )
                                                         ? ( Karel X wg V.F.V. )
-      Linia orleańska
+                                                        ?-1830 ( Karel X. wg P.N.D. )
+      Linia orleańska ( Rod Orleaánský )
         Ludwik Filip I	                                1830-1848 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Louis-Philippe wg V.K.T.H.O.H.E. )
             				                                    ? ( Ľudovít Filip wg O.A. )
             				                                    przed 1848-? ( Ludvík Filip wg V.F.V. )
-
+                                                        1830-1848 (?-po 24.2.) ( Ludvík Filip wg P.N.D. )
   2.Republika
-    Ludwik Napoleon Bonaparte	                          1848-1852 ( wg D.Ś. i V.N.M.S.D. )
+    Ludwik Napoleon Bonaparte	                          1848-1852 ( wg D.Ś. i V.N.M.S.D. ) [French emperor Napoleon III.]
+                                                        ? ( Ludvík Bonaparte (Ludvík Napoleon Bonaparte) wg P.N.D. )
   Drugie Cesarstwo ( Second Empire )
     Dynastia Bonaparte
       Napoleon III		                                  1852-1870 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( wg Ř.S.J.Ď.S. )
@@ -8565,16 +8575,18 @@ Francja ( France )
 				                                                przed 1865-1870 ( wg V.F.V. )
                                                         1852-po 1870 ( Charles Louis-Napoleon Bonaparte wg V.K.T.H.O.H.E. )
                                                         ok.1865 ( wg S.A.B.H.O.H. )
+                                                        1852-po 1870 (?.12.-1.9.) ( Napoleon III. wg P.N.D. )
   Third Republic
-  prime ministers
-    Georges Clemenceau                                  ? ( wg E.N.T.C.F.R.S.H.A.P. )
-  Raymond Poincaré	                                    ok.1915 ( wg V.F.V. )
+  Republique Française
+    prime ministers
+      Georges Clemenceau                                ? ( wg E.N.T.C.F.R.S.H.A.P. )
+    Sadi Carnot                                         przed 1888-1894 (14.11.-?) ( wg P.N.D. )
+    Felix Faure                                         1895-1899 (przed 5.10.-?) ( wg P.N.D. )
+    Raymond Poincaré	                                  ok.1915 ( wg V.F.V. )
                                                         przed 1918-? (24.11.-?) ( Poincaré wg V.K.T.H.O.H.E. )
+                                                        1913-1920 ( Rajmund Poincaré wg P.N.D. )
   Alexandre Millerand	                                  przed 1921-? ( wg B.O.R.H. )
   Charles de Gaulle     	                              ? ( wg O.L. i M.Ś. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg V.N.M.S.D. i D.Ś. i Tapsella
-      Do Ludwika Zamorskiego i Dynastia Robertyngów wszystko oprócz oznaczonego wg V.N.M.S.D. , D.Ś. i R.Z.A.D.D.
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -8617,6 +8629,7 @@ Francja ( France )
       Sztukmistrz z Lublina
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
       Sapiens - A Brief History of Humankind
+      Přemožitel neviditelných dravců
 
 Wielkie Księstwo Frankfurtu
   Karol Teodor Dalberg                                  1810-1813
@@ -10040,11 +10053,12 @@ Hiszpania ( Spain )
       Józef Napoleon     	                              1808-1813 ( wg D.Ś. )
                                                         1808-1814 ( wg V.N.M.S.D. )
                                                         1808-? ( Giuseppe (Joseph) wg V.K.T.H.O.H.E. )
+                                                        przed 1811-? ( Josef wg P.N.D. )
     Dynastia burbońska ( The Bourbons )
       Izabela II            	                          1833-1868 ( wg V.N.M.S.D. i D.Ś. )
                                                         1833-1870 ( Isabella wg V.K.T.H.O.H.E. )
     Dynastia sabaudzka
-      Amadeusz I         	                              1870-1873
+      Amadeusz I         	                              1870-1873 ( wg V.N.M.S.D. i D.Ś. )
     Dynastia burbońska ( The Bourbons )
       Alfons XII          	                            1874-1885 ( wg D.Ś. )
                                                    	    1874-1884 ( wg V.N.M.S.D. )
@@ -10057,8 +10071,6 @@ Hiszpania ( Spain )
     Zamora y Torres                     	              1931-1936 ( wg V.N.M.S.D. )
     Francisco Franco Bahamonde	                        1939-1975 ( wg V.N.M.S.D. i D.Ś. )
                                                         przed 1968-? ( Franco wg V.K.T.H.O.H.E. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg V.N.M.S.D. i D.Ś.
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -10074,6 +10086,7 @@ Hiszpania ( Spain )
       Říše slova - Jazykové dějiny světa
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
+      Přemožitel neviditelných dravců
 
 Księstwo Hobolinu
   Wirykind                                              ok.1100 n.e.
@@ -10706,6 +10719,7 @@ Italia ( Italy )
       			             	                              1861-? ( 18.2.-? ) ( wg 100.N.V.S. )
                                                         1861-1878 (17.3.-?) ( Vittorio Emanuele II (Victor Emanuel) wg V.K.T.H.O.H.E. )
     Humbert I                         	                1878-1900 ( wg D.Ś. i V.N.M.S.D. ) ( Umberto I Il Buono wg V.K.T.H.O.H.E. )
+                                                        przed 1884-? ( Humbert I. wg P.N.D. )
     Wiktor Emanuel III		                              1900-1946 ( wg D.Ś. i V.N.M.S.D. ) ( Vittorio Emanuele III wg V.K.T.H.O.H.E. )
       				       	                                  ? ( wg M.Ś. )
     Humbert II                        	                1946 ( wg D.Ś. )
@@ -10731,6 +10745,7 @@ Italia ( Italy )
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Słowianie połabscy - Dzieje zagłady
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      Přemožitel neviditelných dravců
 
 Państwo Ito
   Bibliografia :
@@ -15642,7 +15657,7 @@ Meksyk ( Mexico )
       Maksymilian I       	                            1864-1867 ( wg D.Ś. )
                                                       	1864-1884 ( wg V.N.M.S.D. )
       			          	                                ? ( Maxmilián wg V.R.M. )
-  Republika Meksyku
+  Republika Meksyku ( Mexická republika )
     Porfirio Díaz            	                          ? ( wg V.R.M. )
     Carranza                 	                          ? ( wg V.R.M. )
     Lázaro Cárdenas                	                    ? ( wg F.C.A.R.F. )
@@ -16791,7 +16806,7 @@ Niderlandy ( Holandia , Netherlands )
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       100 nejvlivnějších vojevůdců světa
 
-Niemcy ( Germany )
+Niemcy ( Germany , Německo )
   Królestwo Wschodniofrankońskie ( East Francia , Państwo Franków Wschodnich , Francia orientalis )
     Ludwik Niemiecki                                    przed 844-? ( wg Z.N.E. )
                                                         843-po 845 (10.8.-?) ( Ludwik II Niemiecki wg S.P.D.Z. )
@@ -16821,10 +16836,11 @@ Niemcy ( Germany )
                                                         1125-1137 ( Lotar z Supplinburga wg S.P.D.Z. )
     Konrad III                                          przed 1142-1152 ( wg S.P.D.Z. ) [Holy Roman Emperor]
     Frederick Barbarossa                                1152-1190 ( wg V.K.T.H.O.H.E. )
-  Cesarstwo Niemiec
+  Cesarstwo Niemiec ( Německé císařství )
     Dynastia Hohenzollernów ( Hohenzollern Empire )
       Wilhelm I         	                              1871-1888 ( wg D.Ś. i V.N.M.S.D. ) ( William I wg V.K.T.H.O.H.E. ) [King of Prussia Wilhelm I]
       			         	                                  ? ( wg M.Ś. ) ( Vilém I wg F.B.C.A.R. )
+                                                        1871-? ( Vilém I. wg P.N.D. )
       Fryderyk III		                                  1888 ( wg D.Ś. i V.N.M.S.D. )
       Wilhelm II        	                              1888-1918 ( wg D.Ś. i V.N.M.S.D. ) [King of Prussia Wilhelm II]
                                                         1888-1918 (?-9.11.) ( William II wg V.K.T.H.O.H.E. )
@@ -16832,16 +16848,18 @@ Niemcy ( Germany )
       				                                          1888-? (15.6.-?) ( wg G.T.G. )
                                                         przed 1908-? ( wg C.W.C.B.R. )
                                                         przed 1900-? ( wg S.A.B.H.O.H. )
+                                                        przed 1895-po 1914 ( Vilém II. wg P.N.D. )
   Weimar Republic
     chancellors
       Von Papen                                         przed 1932-? ( wg V.K.T.H.O.H.E. )
-  3. Rzesza ( Third Reich )
+  3. Rzesza ( Third Reich , III. německá říše )
     Adolf Hitler           	                            1933-1945 ( ?-30.4. ) ( wg 100.N.V.S. )
       			   	                                        przed 1944 -? ( wg K.B.T. i P.S. )
       			   	                                        1933-? ( wg 100.N.U.W. )
       			   	                                        1933-po 1941 ( wg M.Ś. )
                                                         1933-po 1945 (?-21.1.) ( wg V.K.T.H.O.H.E. )
       			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. i M.W.H. ) ( Hitler wg E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. )
+                                                        przed 1939-po 1941 (15.3.-22.6.) ( wg P.N.D. )
   German Democratic Republic ( NRD , East Germany , German Democratic Republic )
   German Federal Republic ( RFN , West Germany )
     chancellors
@@ -16867,6 +16885,7 @@ Niemcy ( Germany )
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
       Muzyka w Herzenburgu
       Sapiens - A Brief History of Humankind
+      Přemožitel neviditelných dravců
 
 Niger
   Bibliografia :
@@ -17645,10 +17664,10 @@ Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát )
     Süleyman I Wspaniały     	                          1520-1566 ( wg D.Ś. i V.N.M.S.D. i M.Ś. )
                                                         1520-1566 ( ?-5.9. ) ( wg 100.N.V.S. )
       			              	                            przed 1540-? ( Sulejman II wg D.P.I.R.G. )
-    Selim II Pijak                    	                1566-1574
+    Selim II Pijak                    	                1566-1574 ( wg D.Ś. i V.N.M.S.D. )
     Murad III                           	              1574-1595 ( wg V.N.M.S.D. i D.Ś. )
       				                                          ok.1585 ( wg A. )
-    Mehmed III                        	                1595-1603
+    Mehmed III                        	                1595-1603 ( wg D.Ś. i V.N.M.S.D. )
     Ahmed I                             	              1603-1617 ( wg D.Ś. i V.N.M.S.D. )
       					                                        przed 1606-? ( wg E.P. )
     Mustafa I                            	              1617-1618 i 1622-1623 ( wg D.Ś. )
@@ -17656,33 +17675,31 @@ Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát )
                                                         1617-1625 ( wg V.N.M.S.D. )
     Murad IV                            	              1623-1640 ( wg D.Ś. )
                                                         1625-1640 ( wg V.N.M.S.D. )
-    Ibrahim                               	            1640-1648
-    Mehmed IV                        	                  1648-1687
-    Süleyman II                                         1687-1691
-    Ahmed II                             	              1691-1695
-    Mustafa II                            	            1695-1703
-    Ahmed III                            	              1703-1730
-    Mahmud I                            	              1730-1754
-    Osman III                             	            1754-1757
-    Mustafa III                            	            1757-1774
-    Abdülhamid I                        	              1774-1789
+    Ibrahim                               	            1640-1648 ( wg D.Ś. i V.N.M.S.D. )
+    Mehmed IV                        	                  1648-1687 ( wg D.Ś. i V.N.M.S.D. )
+    Süleyman II                                         1687-1691 ( wg D.Ś. i V.N.M.S.D. )
+    Ahmed II                             	              1691-1695 ( wg D.Ś. i V.N.M.S.D. )
+    Mustafa II                            	            1695-1703 ( wg D.Ś. i V.N.M.S.D. )
+    Ahmed III                            	              1703-1730 ( wg D.Ś. i V.N.M.S.D. )
+    Mahmud I                            	              1730-1754 ( wg D.Ś. i V.N.M.S.D. )
+    Osman III                             	            1754-1757 ( wg D.Ś. i V.N.M.S.D. )
+    Mustafa III                            	            1757-1774 ( wg D.Ś. i V.N.M.S.D. )
+    Abdülhamid I                        	              1774-1789 ( wg D.Ś. i V.N.M.S.D. )
     Selim III                                	          1789-1807 ( wg D.Ś. )
                                                         1789-1808 ( wg V.N.M.S.D. )
     Mustafa IV                            	            1807-1808 ( wg D.Ś. )
     Mahmud II                            	              1808-1839 ( wg D.Ś. i V.N.M.S.D. )
       				    	                                    ok.1835 ( wg 100.N.V.S. )
-    Abdülmecid I                        	              1839-1861
-    Abdülaziz                              	            1861-1876
+    Abdülmecid I                        	              1839-1861 ( wg D.Ś. i V.N.M.S.D. )
+    Abdülaziz                              	            1861-1876 ( wg D.Ś. i V.N.M.S.D. )
     Murad V                                	            1876 ( wg D.Ś. )
     Abdülhamid II                       	              1876-1909 ( wg D.Ś. i V.N.M.S.D. )
-      					                                        ? ( wg M.P.M. )
+      					                                        ? ( wg M.P.M. ) ( Abd' ul Hámid II. wg P.N.D.)
     Mehmed V Resad                  	                  1909-1918 ( wg D.Ś. )
                                                         1909-1920 ( wg V.N.M.S.D. )
     Mehmed VI Wahidüddin	                              1918-1922 ( wg D.Ś. )
                                                         1920-1922 ( wg V.N.M.S.D. )
     Abdülmecid II                        	              1922-1924 ( wg D.Ś. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D.
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -17695,6 +17712,7 @@ Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát )
       Encyklopedie panovníků
       Říše slova - Jazykové dějiny světa
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Přemožitel neviditelných dravců
 
 Osroene
   Partamaspates                                         ? ( wg D.R. )
@@ -19265,6 +19283,7 @@ Prusy
       Wilhelm I                       	                1861-1871 ( wg V.N.M.S.D. i D.Ś. ) [Emperor of Germany]
       				         	                                ? ( wg M.Ś. )
                                                         1861-1888 ( William I wg V.K.T.H.O.H.E. )
+                                                        przed 1870-po 1871 (19.7.-9.1.) ( Vilém I. (Vilém I. Pruský, Guilelmus I.) wg P.N.D. )
       Frederick III                                     1888 ( wg V.K.T.H.O.H.E. )
       Wilhelm II ( William II )                         1888-1918 ( wg V.K.T.H.O.H.E. ) [Emperor of Germany]
   Bibliografia :
@@ -19277,6 +19296,7 @@ Prusy
       O Krakowie Ci Ja!
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Gödel, Escher, Bach - existenciální gordická balada
+      Přemožitel neviditelných dravců
 
 Księstwo przemyskie
   Wołodar                                               1097-1124
@@ -19473,7 +19493,7 @@ Rosja ( Russia , Rusko )
       						                                      1682-? ( Ivan V wg E.P. )
       Piotr I Wielki                                   	1682-1725 ( wg D.Ś. i V.N.M.S.D. )
       					    	                                  1689-1725 ( ?-8.2. ) ( wg 100.N.V.S. ) ( Petr I Veliký wg E.P. )
-      						                                      ? ( wg D.R. )
+      						                                      ? ( wg D.R. ) ( Petr Veliký wg P.N.D. )
       					    	                                  przed 1725-? ( Peter Veľký wg O.A. )
       					    	                                  przed 1698-? ( Piotr Wielki wg 100.N.U.W. )
       					    	                                  przed 1695-po 1714 ( wg B.M. )
@@ -19490,6 +19510,7 @@ Rosja ( Russia , Rusko )
                                                        	1741 ( wg V.N.M.S.D. )
       Elżbieta                                         	1741-1762 ( wg D.Ś. i  V.N.M.S.D. )
       	  				     	                                ?-1762 ( wg 100.N.V.S. i M.Ś. )
+                                                        ? ( Alžběta wg P.N.D. )
     Dynastia Holstein-Gottorp-Romanow
       Piotr III                                        	1762 ( wg D.Ś. i V.N.M.S.D. )
       								 	                                1762-? ( wg 100.N.V.S. )
@@ -19510,13 +19531,15 @@ Rosja ( Russia , Rusko )
       								 	                                przed 1814-? ( wg M.Ś. )
                                                         przed 1809-po 1812 ( Alexandr I wg Ř.S.J.Ď.S. )
                                                         przed 1807-? ( Alexander I wg V.K.T.H.O.H.E. )
+                                                        ? ( Alexandr I. wg P.N.D. )
       Mikołaj I                                        	1825-1855 ( wg V.N.M.S.D. i D.Ś. i M.Ś. )
       								 	                                ok.1828 ( wg 100.N.V.S. )
                                                         ? ( Nicholas I wg V.K.T.H.O.H.E. )
+                                                        ok.1820 ( Mikuláš I. wg P.N.D. )
       Aleksander II                                    	1855-1881 ( wg V.N.M.S.D. i D.Ś. ) ( Alexander II wg V.K.T.H.O.H.E. )
       								          	                      ? ( wg M.Ś. )
       Aleksander III                                   	1881-1894 ( wg V.N.M.S.D. i D.Ś. )
-      									                                ?	( wg B.O.R.H )
+      									                                ?	( wg B.O.R.H ) ( Alexandr III. (Alexandre III.) wg P.N.D. )
       Mikołaj II                                       	1894-1917  ( wg V.N.M.S.D. i D.Ś. )
       								  	                              1895-1917 ( 26.5.-? ) ( wg 100.N.V.S. )
       								        	                        ? ( wg M.Ś. )
@@ -19553,6 +19576,7 @@ Rosja ( Russia , Rusko )
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Kubiłaj-chan - władca największego imperium w dziejach
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      Přemožitel neviditelných dravců
 
 Księstwo Rostowskie
   Dynastia Rurykowiczów
@@ -19561,7 +19585,7 @@ Księstwo Rostowskie
       Dynastie Świata
 
 Księstwo Rostowsko-Suzdalskie
-  Oleg Svjatoslavič	                                    ?-1076
+  Oleg Svjatoslavič	                                    ?-1076 n.e.
   Bibliografia :
       Encyklopedie panovníků
 
@@ -20094,7 +20118,7 @@ Rzym
     								                                    ? ( wg Ž.V.Ř.S. )
     								                                    43-? ( 11.11.-? ) ( wg Z.V.C. )
     								                                    43-? ( początek października -? ) ( wg T.P.Ž.C. )
-  Cesarstwo Rzymskie ( Roman Empire )
+  Cesarstwo Rzymskie ( Roman Empire , Římská říše )
     Dynastia julijsko-klaudyjska
       Gaius Julius Caesar Octavianus Augustus          	27 p.n.e.-14 n.e ( 16.1.-19.8. ) ( wg P.C.R. i K.R.I.C.R. i Z.V.C. i T.P.Ž.C. )
     						          		                          27 p.n.e.-14 n.e. ( Oktawian wg S.C. ) ( wg D.Ś. i A.Č. i Ž.V.Ř.S. ) ( Gajusz Juliusz Cezar Oktawianus wg H.P.S. ) ( wg T.H.S. ) ( August wg O.A.O.C.E. ) ( Augustus (Octavius Caesar) wg V.K.T.H.O.H.E. )
@@ -20513,7 +20537,7 @@ Rzym
     Dynastia Teodozjusza
       Flavius Theodosius ( Teodozjusz I Wielki )		    379-395 ( 19.1.-17.1. ) ( wg P.C.R. i K.R.I.C.R. )
     							 	                                    379-395 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i R.Z.A.D.D. i S.C. i H.P.S. ) ( Theodosios I Veliký wg D.B. ) ( Theodosius I wg Ž.V.Ř.S. i V.K.T.H.O.H.E. )
-    							 	                                    przed 395-? ( wg D.P.I.R.G. )
+    							 	                                    przed 395-? ( wg D.P.I.R.G. ) ( Theodosius I. wg P.N.D. )
     							 	                                    ?-395 ( Theodosius Velký wg M.A.E. )
     							 	                                    378-395 ( wg D.R. )
     							 	                                    379-po 388 ( 19.1.-? ) ( Theodosios I wg H. )
@@ -20612,7 +20636,7 @@ Rzym
     								                                    475-476 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i S.C. )
     								                                    ?-476 ( wg D.R. i D.P.I.R.G. i D.B. i Ř.S.J.Ď.S. ) ( Romulus Augustus wg Ř.V.G. )
     								                                    ? ( wg H. ) ( Romulus Augustulus wg V.K.T.H.O.H.E. )
-    Cesarstwo Wschodniorzymskie ( Byzantine Empire , Byzantská říše )
+    Cesarstwo Wschodniorzymskie ( Byzantine Empire , Byzantská říše , Východořímská říše )
       Dynastia Teodozjusza
         Flavius Arcadius ( Arkadiusz )            	    395-408 ( 17.1.-1.5. ) ( wg P.C.R. i K.R.I.C.R. )
     					         		                              395-408 ( wg V.N.M.S.D. , R.Z.A.D.D. , D.Ś. , A.Č. i Tapsella i D.R. ) ( Arkadios wg D.B. )
@@ -20666,6 +20690,7 @@ Rzym
     							                                      527-565 ( ?.4.-? ) ( Justinián I Veliký ( Petr Sabbatius ) wg D.B. )
     							                                      przed 558-po 561 ( Justynian wg D.D.T. )
                                                         przed 541-? ( Justynian Wielki wg Z.N.E. )
+                                                        przed 552-? ( Justinián wg P.N.D. )
         Iustinus ( Justyn II )                          565-578 ( 15.11.-5.10. ) ( wg P.C.R. )
     							                                      565-578 ( wg V.N.M.S.D. , D.Ś. , R.Z.A.D.D. i Tapsella ) ( Justinos II wg D.B. )
     							                                      565-578 ( ?-5.10. ) ( Justin II wg E.P. )
@@ -20936,6 +20961,7 @@ Rzym
       Atlas čínských dějin
       The Beginning of Infinity - Explanations that Transform the World
       Sapiens - A Brief History of Humankind
+      Přemožitel neviditelných dravců
 
 Sabaudia ( Savoie, Savoia )
   Hrabstwo Sabaudii ( County of Sabaudia, County of Savoy, County of Savoia )
@@ -23406,7 +23432,7 @@ Państwo Śungów
                                                         1273-? ( Rudolf Habsburský wg M.A:E. )
                                                         ? ( wg V.K.T.H.O.H.E. ) ( Rudolf Habsburský wg D.P.I.R.G. ) ( Rudolf I Habsburský wg Z.S.A.V.E. )
   Dynastia Nassau
-    Adolf             	                                1292-1298
+    Adolf             	                                1292-1298 ( wg V.N.M.S.D. i	D.Ś. i Tapsella )
   Dynastia habsburska
     Albrecht I Austriacki    	                          1298-1308 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
                                                         ? ( Albrecht Habsburský wg D.P.I.R.G. )
@@ -23415,18 +23441,19 @@ Państwo Śungów
                                                         1308-1314 ( wg V.N.M.S.D. )
                                                         1312-? ( Jindřich VII Lucemburský wg D.B. )
   Dynastia Wittelsbachów
-    Ludwik IV Bawarski        	                        1314-1347
+    Ludwik IV Bawarski        	                        1314-1347 ( wg V.N.M.S.D. i	D.Ś. i Tapsella )
     Fryderyk Austriacki          	                      1314-1330 ( wg D.Ś. i Tapsella )
   Dynastia luksemburska
     Karol IV                              	            1346-1378 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Karel IV wg D.B. )
                                                         ok.1350 ( wg Z.N.E. )
                                                         przed 1353-? ( Karel IV. wg A.Č.D. )
+                                                        przed 1348-? ( Karel IV. wg P.N.D. )
     Günther ze Schwarzburga	                            1349 ( wg D.Ś. i Tapsella )
     Wacław                                	            1378-1400 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
                                                         ? ( Václav IV wg Z.S.A.V.E. )
   Dynastia Wittelsbachów
     Fryderyk                            	              1400 ( wg Tapsella )
-    Ruprecht z Palatynatu	                              1400-1410
+    Ruprecht z Palatynatu	                              1400-1410 ( wg V.N.M.S.D. i	D.Ś. i Tapsella )
   Dynastia luksemburska
     Zygmunt                              	              1410-1437 ( wg D.Ś. , V.N..S.D. i Tapsella )
                                                         1433-? ( Zikmund Lucemburský wg D.P.I.R.G. )
@@ -23461,7 +23488,7 @@ Państwo Śungów
     Rudolf II                       	                  1576-1612 ( wg V.N.M.S.D. , D.Ś. i Tapsella i M.Ś. )
                                                         ? ( wg M.A.E. i V.R.M. )
                                                         przed 1599-1612 ( wg 100.N.U.W. )
-    Maciej                           	                  1612-1619
+    Maciej                           	                  1612-1619 ( wg V.N.M.S.D. i	D.Ś. i Tapsella )
     Ferdynand II                 	                      1619-1637 ( wg V.N.M.S.D. , D.Ś. , Tapsella i M.Ś. )
     Ferdynand III                	                      1637-1657 ( wg D.Ś. )
                                                         1637-1658 ( wg V.N.M.S.D. i Tapsella )
@@ -23469,7 +23496,7 @@ Państwo Śungów
     Leopold I                      	                    1658-1705 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
                                                         przed 1683-po 1685 ( wg M.Ś. )
                                                         ? ( wg V.R.M. ) ( wg V.K.T.H.O.H.E. )
-    Józef I                           	                1705-1711
+    Józef I                           	                1705-1711 ( wg V.N.M.S.D. i	D.Ś. i Tapsella )
     Karol VI                        	                  1711-1740 ( wg V.N.M.S:D. , D.Ś. i Tapsella )
                                                         przed 1712-? ( wg M.Ś. )
     Maria Teresa                 	                      1740-1745 ( wg V.N.M.S.D. )
@@ -23488,8 +23515,6 @@ Państwo Śungów
                                                         1794-1806 ( wg V.N.M.S.D. )
                                                         ?-1806 ( I wg D.R. )
                                                         ? ( Francis II wg V.K.T.H.O.H.E. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg V.N.M.S.D. ,	D.Ś. i Tapsella
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -23520,6 +23545,7 @@ Państwo Śungów
       Wielka wyprawa Księcia Racibora
       Słowianie połabscy - Dzieje zagłady
       Atlas čínských dějin
+      Přemožitel neviditelných dravců
 
 Ta Jüe
   Bibliografia :
@@ -26442,5 +26468,6 @@ Bibliografia :
     [97] The Beginning of Infinity - Explanations that Transform the World , David Deutsch , 2012
     [98] Muzyka w Herzenburgu , Tadeusz Borowski , 2016
     [99] Sapiens - A Brief History of Humankind , Yuval Noah Harrari , 2011
+    [100] Přemožitel neviditelných dravců , František Gel , 1968
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
