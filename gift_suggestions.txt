@@ -22,6 +22,9 @@ books - The History of Western Philosophy - Bertrand Russell
       - Hermann Buhl Climbing Without Compromise - Reinhold Messner, Horst Hofler
       - Dejiny Sasu - Widukind z Corvey
       - Type-driven Development with Idris - Edwin Brady
+      - Category Theory for Programmers - Bartosz Milewski
+      - Causality: Models, Reasoning, and Inference - Judea Pearl
+      - The Strategy of Conflict - Thomas C. Schelling
       - Proofs from THE BOOK - Martin Aigner, Günter M. Ziegler
       - Feynman Lectures On Computation - Richard P. Feynman
       - Who’s #1? The Science of Rating and Ranking - Amy Langville , Carl Meyer
@@ -35,12 +38,14 @@ books - The History of Western Philosophy - Bertrand Russell
       - Dejiny Libye - Eduard Gombar
       - Let Over Lambda - Doug Hoyte
       - Surfing Uncertainty: Prediction, Action, and the Embodied Mind - Andy Clark
+      - Evil: Inside Human Violence and Cruelty - Roy Baumeister
       - The Nurture Assumption - Judith Rich Harris
       - A Profile of Mathematical Logic - Howard DeLong
       - No Two Alike - Judith Rich Harris
       - Category Theory for the Sciences - David I. Spivak
       - Type Theory and Formal Proof: An Introduction - Rob Nederpelt, Herman Geuvers
       - The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution - Sean B. Carroll
+      - The Evolution of Human Sexuality - Donald Symons
       - Words On The Move: Why English Won’t, and Can’t, Sit Still (Like, Literally) - John McWhorter
       - To Mock a Mockingbird: And Other Logic Puzzles - Raymond M. Smullyan
       - Selected Papers on Computer Science - Donald E. Knuth
@@ -59,6 +64,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - Problems in Philosophy: The Limits of Inquiry - Colin McGinn
       - Adventures of a Mathematician - Stanisław Marcin Ulam
       - Endless Forms Most Beautiful: The New Science of Evo Devo - Sean B. Carroll
+      - The Sciences of the Artificial - Herbert A. Simon
       - An Illustrated Theory of Numbers - Martin H. Weissman
       - The Insect Societies - Edward O. Wilson
       - Game Engine Black Book: Wolfenstein 3D - Fabien Sanglard
@@ -101,6 +107,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - The C Programming Language - Brian W.Kernighan, Dennis M. Ritchie
       - Hacker's Delight - Henry S. Warren
       - Compiling with Continuations - Andrew W. Appel
+      - Language and Mind - Noam Chomsky
       - A Course in Number Theory and Cryptography - Neal Koblitz
       - Linguistics: An Introduction to Language and Communication - Adrian Akmajian, Ann K. Farmer, Lee Bickmore, Richard A. Demers, Robert M. Harnish
       - C: A Reference Manual - Samuel P. Harbison, Guy L. Steele Jr.

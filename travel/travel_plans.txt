@@ -3251,18 +3251,101 @@ Italia
             - old town
         Ragusa
             - old town
+            - Cathedral of San Giovanni
+            - Santa Maria delle Scale
+            - Chiesa del Purgatorio
+            - Palazzo Cosentini
+            - Palazzo Della Cancelleria
+            - Santa Maria dell'Itria
+            - Duomo of San Giorgio
+            - Circolo di Conversazione
+            - San Giuseppe
+            - Chiesa di Sant'Antonino
+            - Chiesa di San Francesco all'Immacolata
+            - Chiesa del Santissimo Trovato
+            - Chiesa di Santa Maria di Valverde
+            - Giardini Iblei
+            - church of San Giorgio Vecchio
+            - Museo Archeologico Ibleo
+            - Chiesa di San Giacomo
+            - Palazzo Arezzo Di Trifiletti
+            - Palazzo La Rocca
+            - Corso Italia
         Noto
-            - old town
+            - Palazzo Landolina
+            - Monastero del Santissimo Salvatore
+            - Palazzo Astuto - Via Cavour
+            - Chiesa Madonna del Carmine
+            - Palazzo Trigona Di Cannicarao - Via Cavour
+            - Chiesa del Santissimo Crocifisso
+            - Jesuit College
         Catania
-            - old town
+            - Biblioteche Riunite Civica e A. Ursino Recupero
+            - Orto Botanico dell'Università di Catania
+            - San Francesco Borgia - Via dei Crociferi
+            - San Francesco d'Assisi all'Immacolata - Via dei Crociferi
+            - San Giuliano - Via dei Crociferi
+            - Jesuit College - Via dei Crociferi - close to San Francesco Borgia
+            - Teatro Massimo Bellini
+            - Palazzo Biscari 
+            - Terme Achilliane - Piazza del Duomo
+            - Church of San Gaetano alle Grotte
+            - Grotta dell'Amenano
+            - Chiesa di Sant'Agata la Vetere/Carcere + underground
+            - Basilica della Collegiata
         Scicli
             - old town
+            - Chiesa San Giovanni
+            - Chiesa di San Michele
+            - Chiesa di Santa Teresa 
+            - Museo del Costume
+            - Chiesa di San Matteo
+            - Palazzo Beneventano
+            - Castellacio
+            - San Bartolomeo
+            - Santa Maria La Nova
+            - Chiesa Madre di Sant'Ignazio
+            - Parco delle Grotte di Chiafura
+            - Complesso Santa Maria della Croce
         Modica
             - old town
+            - Duomo of San Giorgio
+            - Duomo di San Pietro
+            - Chiesa rupestre di San Nicolò Inferiore
+            - Chiesa di San Giovanni Evangelista
+            - Chiesa Santa Maria del Carmine
+            - Palazzo De Leva
+            - Castello dei Conti
+            - Antica Dolceria Bonajuto - Corso Emanuele
+            - Museo del Cioccolato di Modica
         Palazzolo Acreide
             - old town
+            - San Sebastiano
+            - Chiesa di San Paolo Apostolo
+            - San Nicolo Vescovo
+            - Akrai
+            - Casa Museo Antonino Uccello
+            - Chiesa dell'Annunziata 
+            - Santoni
+            - town hall
+            - Palazzo Pizzo
+            - San Michele Arcangelo
+            - Ruderi del castello Medievale
         Militello Val di Catania
             - old town
+            - San Benedetto
+            - San Nicolo e San Salvatore
+            - Oratorio di Santa Maria alla Catena
+            - Chiesa del SS. Sacremento al Circolo
+            - Auditorium San Domenico
+            - Santuario di Santa Maria della Stella
+            - Chiesa confraternale degli Angeli Custodi
+            - Chiesa del Purgatorio
+            - Torre castello Barresi Branciforte
+            - Fontana Ninfa Zizza
+            - Palazzo Majorana
+            - Chiesa di Santa Maria la Vetere
+            - Museo di Arte Sacra San Nicolo
         Cividale del Friuli
             - Tempietto Longobardo/Lombard Temple of Santa Maria in Valle
             - National Archaeological Museum of Cividale del Friuli
@@ -3440,14 +3523,9 @@ Italia
             - Necropolis of Pantalica
             - Anaktoron
         Siracusa
-            - Ortygia
-                - Temple of Apollo
-                - Temple of Athena
             - Parco archeologico della Neapolis
-                - Anfiteatro romano
                 - Latomia Santa Venera
                 - Latomia dell'Intagliatella
-                - Greek Theatre
                 - Tomba di Archimede
         Dolomity
             - Monte Pelmo
@@ -3760,16 +3838,6 @@ Italia
             - Temple of Antas
         Domusnovas
             - Grotta di San Giovanni
-        Taormina
-            - Ancient theatre
-            - Odeon romano
-            - Naumachie
-            - Terme Romane
-            - Palazzo della Badia Vecchia
-            - Palazzo Duchi di Santo Stefano
-            - Corvaja Palace
-            - City Park - Lady Trevelyan Gardens
-            - Isola Bella
         Isernia
             - Museo nazionale paleolitico di Isernia
             - La Pineta archeological site
