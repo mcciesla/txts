@@ -86,6 +86,7 @@ Ursula K. Le Guin - A Wizard of Earthsea
                   - The Tombs of Atuan
                   - The Ones Who Walk Away From Omelas
 William Golding - Lord of the Flies
+(Robert Cook) - Njal's Saga
 --------------------------------------------------------------------------------
 BEST NON-FICTION:
 -----------------
@@ -268,6 +269,7 @@ POP.SCIENCE :
         Fidel & Che - A revolutionary friendship ; Simon Reid-Henry
         Foiničané ; Sabatino Moscati
         Fridrich Barbarossa , císař a rytíř ; Ferdinand Opll
+        Fryderyk II Hohenstauf - Cesarz Rzymski ; Jerzy Hauziński
         Guderian - Tankový generál ; Kenneth Macksey
         Heroes of Endurance ; Wanda Rutkowska
         Historia Powszechna - Starożytność ; Józef Wolski
@@ -351,7 +353,7 @@ POP.SCIENCE :
     LINGWISTYKA:
         Říše slova - Jazykové dějiny světa ; Nicholas Ostler
     LITERATURA:
-    	Ars Poetica ; Jorge Luis Borges
+    	  Ars Poetica ; Jorge Luis Borges
         Fantastyka i futurologia ; Stanisław Lem
         Filozofia przypadku ; Stanisław Lem
         Severské mýty ; R. I. Page
@@ -363,6 +365,7 @@ POP.SCIENCE :
     PODRÓŻE:
         Asfaltowy Saloon ; Waldemar Łysiak
         Až na konec světa , výpravy v Himálaji a v Karakoramu ; Reinhold Messner
+        Broad Peak - Niebo i Piekło ; Bartek Dobroch , Przemysław Wilczyński
         Cho Oyu , tyrkysová bohyně ; Reinhold Messner
         Conquistadors of the Useless - From The Alps To Annapurna ; Lionel Terray
         Červená světlice na Nanga Parbatu ; Reinhold Messner
@@ -445,6 +448,8 @@ OTHER :
 --------------------------------------------------------------------------------
 FICTION:
 ------------------
+? - Zamarovský , Vojtech - Gilgameš - SVK
+  - Cook , Robert - Njal's Saga - EN
 Aldiss , Brian - Superhračky vydrží celé léto - CZ
                - Bez hlavy - CZ
                - Bělejší Mars - CZ
@@ -1182,7 +1187,9 @@ Makuszyński , Kornel ; Walentynowicz , Marian - 2-ga księga przygód Koziołka
 Marianowicz , Antoni - Dziesięcioro murzyniątek - O
 Marjańska , Ludmiła - Powsinoga - O
 Martin , George R.R. - A Clash of Kings - O
+                     - A Dance with Dragons - O
                      - A Feast for Crows - O
+                     - A Game of Thrones - O
                      - A Storm of Swords - O
                      - Dreamsongs , A Rretrospective Book One - O
                                     - A Song for Lya - O
@@ -1220,6 +1227,7 @@ Martin , George R.R. - A Clash of Kings - O
                                     - The Glass Flower - O
                                     - The Hedge Knight - O
                                     - Portraits of His Children - O
+                     - Fire & Blood - O
 Martínek , Vojtěch - O słonecznej pannie - POL
 May , Karel - Błękitno-purpurovy Matuzalem - POL
             - Czarny mustang - POL
@@ -1646,7 +1654,6 @@ White , Ch. P. - Smečka planin - CZ
 White , Stewart Edward - Złota żyła - POL
 Wormser , Richard - Myśliwy - POL
 Wyspiański , Stanisław - Wesele - O
-Zamarovský , Vojtech - Gilgameš - SVK
 Žáček , Jiří - Aprílová škola - O
                         - Aprílová škola - O
                         - Aprílová škola II - O

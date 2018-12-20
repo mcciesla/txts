@@ -141,60 +141,62 @@ Ailanum
       Huryci
 
 Królestwo Ailech
-  Eogan mac Niall                          		          ?-466 n.e.
-  Muiredach                                   		      466-?
-  Muirchertach mac Erc                 		              ?-536
-  Forrgus                                       		    536-566
-  Domnall Ilchegach                      		            566
-  Baetan mac Muirchertach           		                566-572
-  Eochaid                                       		    572
-  Colcu                                           		  572-580
-  Colman Rimid                             		          580-604
-  Aed Uaridnach                            		          604-612
-  Suibne Menn                               		        612-628
-  Mael Fithrich                               		      628-630
-  Crunnmael                                  		        630-?
-  Mael Duin mac Mael Fithrich		                        ?-681
-  Fergal                                          		  681-722
-  Aed Allan                                    		      722-743
-  Niall Frossach                             		        743-778
-  Mael Duin mac Aed Allan          		                  778-788
-  Aed Oirnide                                 		      788-819
-  Murchad mac Mael Duin            		                  819-823
-  Niall Caille           	                       	      823-846
-  Mael Duin mac Aed Oirnide	       	                    846-867
-  Aed Finliath 	                                	      867-879
-  Murchad mac Mael Duin             		                879-887
-  Flaithbertach mac Murchad        		                  887-896
-  Domnall mac Aed                    	   	              896-915
-  Niall Glundub                                	        915-919
-  Flaithbertach mac Domnall           	                919
-  Fergal mac Domnall                      	            919-938
-  Muirchertach mac Niall                	              938-943
-  Domnall Ua Niall                          	          943-? i 972-980
-  Flaithbertach mac Conchobar       	                  ?-962
-  Tadg mac Conchobar                    	              962
-  Conn mac Conchobar                    	              962
-  Murchad mac Flaithbertach          	                  962-972
-  Fergal mac Domnall                     	              980-989
-  Aed mac Domnall                        	              989-1004
-  Flaithbertach mac Muirchertach  	                    1004 -? i ?
-  Aed mac Flaithbertach                  	              ?
-  Niall mac Mael Sechnaill             		              ?-1061
-  Ardgar                                           	    1061-1064
-  Aed Ua Hualgairg                         	            1064-1067
-  Domnall mac Niall                        	            1067-1068
-  Aed mac Niall                                	        1068-? i 1078-1083
-  Conchobar O´Brien                        	            ?-1078
-  Donnchad                                       	      1083
-  Domnall Ua Lochlainn                   	              1083-1121
-  Conchobar mac Domnall                	                1121-? i ?-1136
-  Magnus                                            	  ?
-  Muirchertach mac Lochlainn          	                1136-? i 1160-1166
-  Domnall Ua Gairmledaig                	              ?-1160
-  Conchobar mac Muirchertach         	                  1166-1170
+  Eogan mac Niall                          		          ?-466 n.e. ( wg Tapsella )
+  Muiredach                                   		      466-? ( wg Tapsella )
+  Muirchertach mac Erc                 		              ?-536 ( wg Tapsella )
+  Forrgus                                       		    536-566 ( wg Tapsella )
+  Domnall Ilchegach                      		            566 ( wg Tapsella )
+  Baetan mac Muirchertach           		                566-572 ( wg Tapsella )
+  Eochaid                                       		    572 ( wg Tapsella )
+  Colcu                                           		  572-580 ( wg Tapsella )
+  Colman Rimid                             		          580-604 ( wg Tapsella )
+  Aed Uaridnach                            		          604-612 ( wg Tapsella )
+  Suibne Menn                               		        612-628 ( wg Tapsella )
+  Mael Fithrich                               		      628-630 ( wg Tapsella )
+  Crunnmael                                  		        630-? ( wg Tapsella )
+  Mael Duin mac Mael Fithrich		                        ?-681 ( wg Tapsella )
+  Fergal                                          		  681-722 ( wg Tapsella )
+  Aed Allan                                    		      722-743 ( wg Tapsella )
+  Niall Frossach                             		        743-778 ( wg Tapsella )
+  Mael Duin mac Aed Allan          		                  778-788 ( wg Tapsella )
+  Aed Oirnide                                 		      788-819 ( wg Tapsella )
+  Murchad mac Mael Duin            		                  819-823 ( wg Tapsella )
+  Niall Caille           	                       	      823-846 ( wg Tapsella )
+  Mael Duin mac Aed Oirnide	       	                    846-867 ( wg Tapsella )
+  Aed Finliath 	                                	      867-879 ( wg Tapsella )
+  Murchad mac Mael Duin             		                879-887 ( wg Tapsella )
+  Flaithbertach mac Murchad        		                  887-896 ( wg Tapsella )
+  Domnall mac Aed                    	   	              896-915 ( wg Tapsella )
+  Niall Glundub                                	        915-919 ( wg Tapsella )
+  Flaithbertach mac Domnall           	                919 ( wg Tapsella )
+  Fergal mac Domnall                      	            919-938 ( wg Tapsella )
+  Muirchertach mac Niall                	              938-943 ( wg Tapsella )
+                                                        ? ( Myrkjartan wg N.S. )
+  Domnall Ua Niall                          	          943-? i 972-980 ( wg Tapsella )
+  Flaithbertach mac Conchobar       	                  ?-962 ( wg Tapsella )
+  Tadg mac Conchobar                    	              962 ( wg Tapsella )
+  Conn mac Conchobar                    	              962 ( wg Tapsella )
+  Murchad mac Flaithbertach          	                  962-972 ( wg Tapsella )
+  Fergal mac Domnall                     	              980-989 ( wg Tapsella )
+  Aed mac Domnall                        	              989-1004 ( wg Tapsella )
+  Flaithbertach mac Muirchertach  	                    1004 -? i ? ( wg Tapsella )
+  Aed mac Flaithbertach                  	              ? ( wg Tapsella )
+  Niall mac Mael Sechnaill             		              ?-1061 ( wg Tapsella )
+  Ardgar                                           	    1061-1064 ( wg Tapsella )
+  Aed Ua Hualgairg                         	            1064-1067 ( wg Tapsella )
+  Domnall mac Niall                        	            1067-1068 ( wg Tapsella )
+  Aed mac Niall                                	        1068-? i 1078-1083 ( wg Tapsella )
+  Conchobar O´Brien                        	            ?-1078 ( wg Tapsella )
+  Donnchad                                       	      1083 ( wg Tapsella )
+  Domnall Ua Lochlainn                   	              1083-1121 ( wg Tapsella )
+  Conchobar mac Domnall                	                1121-? i ?-1136 ( wg Tapsella )
+  Magnus                                            	  ? ( wg Tapsella )
+  Muirchertach mac Lochlainn          	                1136-? i 1160-1166 ( wg Tapsella )
+  Domnall Ua Gairmledaig                	              ?-1160 ( wg Tapsella )
+  Conchobar mac Muirchertach         	                  1166-1170 ( wg Tapsella )
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
+      Njal's Saga
 
 Ajmarowie
   Lipe                                                  przed 1781 n.e.-?
@@ -322,10 +324,12 @@ Akszapu
       Huryci
 
 Patriarchat Akwilei
-  Pilgrim		                                            przed 1158 n.e.-?
-  Udalrich II	                                          przed 1161-?
+  Poppon z Treffen                                      1019 n.e.-? ( wg H.W. )
+  Pilgrim		                                            przed 1158-? ( wg F.B.C.A.R. )
+  Udalrich II	                                          przed 1161-? ( wg F.B.C.A.R. )
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
+      Historia Wenecji
 
 Księstwo Akwitanii ( Duchy of Aquitaine )
   Dynastia z Owernii
@@ -729,6 +733,11 @@ Principality of Andorra
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
+Hrabstwo Andrii
+  Roger                                                 przed 1177 n.e.-? (lato-?)
+  Bibliografia :
+      Historia Wenecji
+
 Andros
   Bibliografia :
       Dzieje Grecji
@@ -759,7 +768,7 @@ Anglia ( England , Anglie )
       Elfweard               	                          924  ( wg D.Ś. )
       Athelstan           	                            924-939 ( wg D.Ś. )
 					                                              925-940 ( wg V.N.M.S.D. )
-				                                                925-939 ( wg Tapsella )
+				                                                925-939 ( wg Tapsella i N.S. )
 				                                                924-939 ( ?-27.10. ) ( wg E.P. )
       Edmund I         	                                939-946 ( wg D.Ś. i Tapsella )
                                                	        940-946 ( wg V.N.M.S.D. )
@@ -1022,6 +1031,7 @@ Anglia ( England , Anglie )
       Sapiens - A Brief History of Humankind
       Přemožitel neviditelných dravců
       Historia Wenecji
+      Njal's Saga
 
 Anglowie
 
@@ -2229,7 +2239,7 @@ Austria ( Rakousko )
       Otto                               	              1330-1339  ( wg D.Ś. )
                                                         1330-1358 ( wg V.N.M.S.D. )
       Rudolf IV Założyciel    	                        1358-1365 ( wg D.Ś. i V.N.M.S.D. )
-                                                        ? ( Rudolf wg H.W. )
+                                                        przed 1361-? (?.9.-?) ( Rudolf wg H.W. )
       Linia albertyńska
         Albrecht III                       	            1365-1395 ( wg D.Ś. i V.N.M.S.D. )
         Albrecht IV Cierpliwy      	                    1395-1404 ( wg D.Ś. )
@@ -2262,7 +2272,7 @@ Austria ( Rakousko )
         Ferdynand III                  	                1590-1619 ( wg D.Ś. )
       Karol V                    	                      1519-? ( wg M.Ś. )
         				                                        przed 1542-? ( Karel V wg V.F.V. )
-      Ferdynand I                 	                    ? ( wg M.Ś. )
+      Ferdynand I                 	                    ? ( wg M.Ś. ) ( Ferdynand wg H.W. )
         				                                        1521-1564 (?-25.7.) ( Ferdinand I Habsburský wg E.P. )
       Ferdynand II             	                        1619-1637 ( wg M.Ś. )
                                                         przed 1619-? ( Ferdynand III Habsburg (Ferdynand, Ferdynand III) wg H.W. )
@@ -5747,7 +5757,7 @@ Cypr
       			  	                                        ? ( Petr I Lusignan wg D.B. )
                                                         przed 1362-1369 (?-17.1.) ( Piotr I z Lusignan wg H.W. )
       Piotr II Gruby          	                        1369-1382 ( wg D.Ś. )
-                                                        1369-po 1377 ( Piotr II wg H.W. )
+                                                        1369-po 1377 ( Piotr II (Piotr II z Lusignan) wg H.W. )
       Jakub I                   	                      1382-1398 ( wg D.Ś. )
       Janus                    	                        1398-1432 ( wg D.Ś. )
       Jan II                     	                      1432-1458 ( wg D.Ś. )
@@ -5756,7 +5766,7 @@ Cypr
       Jakub II Bękart      	                            1464-1473 ( wg D.Ś. )
                                                         1460-1473 ( Jakub z Lusignan (Jakub II Cypryjski) wg H.W. )
       Katarzyna Cornaro	                                1473-1489 ( wg D.Ś. )
-                                                        1473 i 1474-1489 ( Caterina wg H.W. )
+                                                        1473 i 1474-1489 ( Caterina (Caterina Cornaro) wg H.W. )
       Jakub III                	                        1473-1474 ( wg D.Ś. i H.W. )
   Bibliografia :
       Dynastie Świata
@@ -6368,6 +6378,7 @@ Dania ( Denmark )
     Gorm                     	                          855-908  ( wg V.N.M.S.D. )
                                                  	      ok.900 ( wg Tapsella )
                                                         przed 931-po 936 (?.10.-?) ( Gorm Stary wg S.P.D.Z. )
+                                                        ? ( wg N.S. )
   Królestwo Danii
     1. dynastia duńska
       Harald I Sinozęby               	                940-986 ( wg D.Ś. )
@@ -6376,7 +6387,8 @@ Dania ( Denmark )
       				           	                              ? ( Harald Modrozubý wg Z.S.A.V.E. )
       					                                        ok.945-ok.986 ( Harald I Modrozubý wg E.P. )
                                                         przed ok.970-987 ( Harald Sinozęby wg S.P.D.Z. )
-      Swen I Widłobrody             	                  986-1014 ( wg D.Ś. )
+                                                        ?-986 ( Harald Gormsson (Harald Blue-tooth) wg N.S. )
+      Swen I Widłobrody             	                  986-1014 ( wg D.Ś. ) ( Svein Fork-beard (Svein Haraldsson Fork-beard) wg N.S. )
                                                         985-1014 ( wg V.N.M.S.D. i Tapsella )
       					                                        przed 1000-? ( Sven I wg E.P. )
                                                         przed 1013-? ( Sveyn Vidlovous wg Ř.S.J.Ď.S. )
@@ -6514,6 +6526,7 @@ Dania ( Denmark )
       Wielka wyprawa Księcia Racibora
       Słowianie połabscy - Dzieje zagłady
       Historia Wenecji
+      Njal's Saga
 
 Dauphiné
   Bibliografia :
@@ -6777,35 +6790,36 @@ Księstwo Drohiczyńskie
 Królestwo Dublinu
   Olaf I                                           	    856-871 ( wg Tapsella )
                                                         przed 870/1-? ( Olaf The White wg V.K.T.H.O.H.E. )
-  Ivar I Ragnarson the Boneless	                        871-873
-  Eystein Olafson                          	            873-875
-  Halfdan Ragnarson                     	              875-877
-  Bard                                           	      877-881
-  Sigfrid Ivarson                            	          881-888
-  Sitric I Ivarson                            	        888-896
-  Ivar II                                          	    896-902
-  Sitric II Caoch                             	        917-920
-  Guthfrith                                     	      920-934
-  Olaf II Guthfrithson                    	            934-941
-  Blacar Guthfrithson                    	              941-945
-  Olaf III Sitricson                        	          945-948 i 953-981
-  Guthfrith Sitricson                      	            948-953
-  Gluniaran Olafson                      	              981-989
-  Sitric III Olafson                        	          989-994 i 995-1035
-  Ivar III Ivarson                           	          994-995
-  Margad Ragnaldson                   	                1035-1038 i 1046-1052
-  Ivar IV Haraldson                       	            1038-1046
-  Gudrod Sitricson                         	            1072-1075
-  Thorfinn Thorkellson                  	              1118-1124
-  Ragnald Thorkellson                   	              1136-1146
-  Ottar Ottarson                           	            1142-1148
-  Brodar Thorkellson                     	              1148-1160
-  Astell Ragnaldson                       	            1160-1170
-  Uwagi :
-      Wszystko oprócz oznaczonego wg Tapsella
+  Ivar I Ragnarson the Boneless	                        871-873 ( wg Tapsella )
+  Eystein Olafson                          	            873-875 ( wg Tapsella )
+  Halfdan Ragnarson                     	              875-877 ( wg Tapsella )
+  Bard                                           	      877-881 ( wg Tapsella )
+  Sigfrid Ivarson                            	          881-888 ( wg Tapsella )
+  Sitric I Ivarson                            	        888-896 ( wg Tapsella )
+  Ivar II                                          	    896-902 ( wg Tapsella )
+  Sitric II Caoch                             	        917-920 ( wg Tapsella )
+  Guthfrith                                     	      920-934 ( wg Tapsella )
+  Olaf II Guthfrithson                    	            934-941 ( wg Tapsella )
+  Blacar Guthfrithson                    	              941-945 ( wg Tapsella )
+  Olaf III Sitricson                        	          945-948 i 953-981 ( wg Tapsella )
+                                                        ? ( Olaf Kvaran wg N.S. )
+  Guthfrith Sitricson                      	            948-953 ( wg Tapsella )
+  Gluniaran Olafson                      	              981-989 ( wg Tapsella )
+  Sitric III Olafson                        	          989-994 i 995-1035 ( wg Tapsella )
+                                                        przed 1014-? ( Sigtrygg (Sitric, Sigtrygg Olafsson) wg N.S. )
+  Ivar III Ivarson                           	          994-995 ( wg Tapsella )
+  Margad Ragnaldson                   	                1035-1038 i 1046-1052 ( wg Tapsella )
+  Ivar IV Haraldson                       	            1038-1046 ( wg Tapsella )
+  Gudrod Sitricson                         	            1072-1075 ( wg Tapsella )
+  Thorfinn Thorkellson                  	              1118-1124 ( wg Tapsella )
+  Ragnald Thorkellson                   	              1136-1146 ( wg Tapsella )
+  Ottar Ottarson                           	            1142-1148 ( wg Tapsella )
+  Brodar Thorkellson                     	              1148-1160 ( wg Tapsella )
+  Astell Ragnaldson                       	            1160-1170 ( wg Tapsella )
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Njal's Saga
 
 Księstwo Duklja ( Diokleia )
   Stefan Vojislav                                       ?
@@ -6896,21 +6910,21 @@ Królestwo East-Anglii
                                                         ok.749-? ( Beorna wg Tapsella )
   Ethelred     	                                        761-792 ( wg V.N.M.S.D. )
                               		                      ? ( wg Tapsella )
-  Ethelbert     	                                      ?-794
-  Eadwald      	                                        ok.819-828
-  Athelstan     	                                      ok.828-837
-  Ethelweard	                                          ok.837-850
+  Ethelbert     	                                      ?-794 ( wg Tapsella )
+  Eadwald      	                                        ok.819-828 ( wg Tapsella )
+  Athelstan     	                                      ok.828-837 ( wg Tapsella )
+  Ethelweard	                                          ok.837-850 ( wg Tapsella )
   Edmund       	                                        855-870 ( wg Tapsella i E.P. )
                                                         ?-870 ( wg S.M. )
-  Guthrum      	                                        880-890
-  Eric              	                                  890-902
-  Uwagi :
-      Wszystko od Ethelberta włącznie oprócz oznaczonego wg Tapsella
+                                                        ? ( Edmund The Saint wg N.S. )
+  Guthrum      	                                        880-890 ( wg Tapsella )
+  Eric              	                                  890-902 ( wg Tapsella )
   Bibliografia :
       Velká nástěnná mapa světových dějin
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Encyklopedie panovníků
       Severské mýty
+      Njal's Saga
 
 Ebla
   Iš'ar-damu                                            ?
@@ -8350,9 +8364,9 @@ Flandria ( Flanders )
     Dynastia z Hainaut
       Baldwin VIII                	                    1191-1194 ( wg D.Ś. )
                                                         1191-1195 ( wg Tapsella )
-      Baldwin IX                   	                    1194-1205 ( wg D.Ś. )
+      Baldwin IX                   	                    1194-1205 ( wg D.Ś. ) [Emperor of Cesarstwo Łacińskie]
                                                         1195-1205 ( wg Tapsella )
-                                                        przed 1204-? ( Baldwin wg H.W. ) [Emperor of Cesarstwo Łacińskie]
+                                                        przed 1204-? ( Baldwin wg H.W. )
       Joanna                       	                    1205-1244 ( wg Tapsella i D.Ś. )
       Ferdynand                  	                      1212-1233 ( wg Tapsella )
       Tomasz Sabaudzki     	                            1237-1244 ( wg Tapsella )
@@ -8385,23 +8399,23 @@ Flius
       Dzieje Grecji
 
 Florencja ( Florence )
-  Dynastia Medyceuszy ( Medyceusze )
-    Cosimo Stary             	                          1434-1464 ( wg D.Ś. )
+  Księstwo Florencji
+    Dynastia Medyceuszy ( Medyceusze )
+      Cosimo Stary             	                        1434-1464 ( wg D.Ś. )
                                                         przed 1446-? ( Cosimo de'Medici (Kosma, Kuźma Medyceusz) wg H.W. )
-    Piero I Podagryk        	                          1464-1469 ( wg D.Ś. )
-    Giuliano de'Medici                                  ?-1478 ( wg H.W. )
-    Lorenzo Wspaniały    	                              1469-1492 ( wg D.Ś. )
+      Piero I Podagryk        	                        1464-1469 ( wg D.Ś. )
+      Giuliano de'Medici                                ?-1478 ( wg H.W. )
+      Lorenzo Wspaniały    	                            1469-1492 ( wg D.Ś. )
                                                         1469-1492 ( Lorenzo de Medici (Lorenzo the Magnificent) wg T.B.O.I. )
                                                         przed 1478-1492 ( Lorenzo de'Medici (Wawrzyniec Wspaniały) wg H.W. )
-    Piero II                      	                    1492-1494 ( wg D.Ś. )
+      Piero II                      	                  1492-1494 ( wg D.Ś. )
                                                         ?-1494 ( Piero de'Medici wg H.W. )
-  Girolamo Savonarola                                   1494-? ( wg T.B.O.I. ) ( Savonarola wg H.W. )
-  Dynastia Medyceuszy
-    Giuliano z Nemours	                                1512-1513 ( wg D.Ś. )
-    Lorenzo z Urbino        	                          1513-1519 ( wg D.Ś. )
-    Giulio                         	                    1519-1523 ( wg D.Ś. )
-    Ippolito                        	                  1524-1527 ( wg D.Ś. )
-  Księstwo Florencji
+    Girolamo Savonarola                                 1494-? ( wg T.B.O.I. ) ( Savonarola wg H.W. )
+    Dynastia Medyceuszy
+      Giuliano z Nemours	                              1512-1513 ( wg D.Ś. )
+      Lorenzo z Urbino        	                        1513-1519 ( wg D.Ś. )
+      Giulio                         	                  1519-1523 ( wg D.Ś. )
+      Ippolito                        	                1524-1527 ( wg D.Ś. )
     Alessandro            	                            1531-1537 ( wg D.Ś. )
   Bibliografia :
       Dynastie Świata
@@ -9080,7 +9094,7 @@ Genewa
       Fridrich Barbarossa – císař a rytíř
 
 Republika Genui ( Republic of Genoa )
-  Simone Boccanegra                                     przed 1344-?
+  Simone Boccanegra                                     przed 1344 n.e.-?
   Bibliografia :
       Historia Wenecji
 
@@ -9292,6 +9306,11 @@ Królestwo Granady ( Ta´ifa Granada , Sułtanat Granady )
     Muhammad XIII     	                                1485-1487
   Bibliografia :
       Dynastie Świata
+
+Hrabstwo Gray
+  Garnier z Gray                                        przed 1100 n.e.-? (?.6.-?)
+  Bibliografia :
+      Historia Wenecji
 
 Grecja ( Greece )
   Królestwo Grecji
@@ -9657,6 +9676,11 @@ Halikyaj
   Bibliografia :
       Dzieje Grecji
 
+Halogaland
+  Haleyg                                                ?
+  Bibliografia :
+      Njal's Saga
+
 Hama
   Urchilin          	                                  ok.840 p.n.e.
   Jau-bidi		                                          ok.700
@@ -9784,6 +9808,11 @@ Ha´apai
     Jerzy Tupou I                                       ok.1820 n.e.
   Bibliografia :
       Dynastie Świata
+
+Hebrides
+  Gilli                                                 ?
+  Bibliografia :
+      Njal's Saga
 
 Hebron
   Szuwardata                                            ?
@@ -10135,7 +10164,7 @@ Hiszpania ( Spain )
       		          	                                  przed 1609-? ( wg M.A.E. )
       		      	                                      ? ( wg M.Ś. i H.W. )
       Filip IV       	                                  1621-1665 ( wg V.N.M.S.D. i D.Ś. i M.Ś. ) ( Philip IV (Felipe IV) wg V.K.T.H.O.H.E. )
-                                                        przed 1627-? ( Filip IV Habsburg wg H.W. )
+                                                        przed 1627-? ( Filip IV Habsburg (Arcykatolicki Król) wg H.W. )
       Karol II	                                        1665-1700 ( wg V.N.M.S.D. i D.Ś. ) ( Carlos II (Charles II) wg V.K.T.H.O.H.E. )
       		           	                                  ? ( wg 100.N.V.S. )
                                                         przed 1697-1700 ( wg H.W. )
@@ -10561,10 +10590,10 @@ Irlandia ( Ireland )
                                                           ?-ok.450 ( Niall Noigiallach wg Tapsella )
       Nath Í                                             	ok.450-? ( wg Tapsella )
       Lóegaire                                          	452-463 ( Loeguire wg Tapsella )
-      Ailill Molt                                       	463-482
-      Lugaid                                             	482-507
+      Ailill Molt                                       	463-482 ( wg D.Ś. i Tapsella )
+      Lugaid                                             	482-507 ( wg D.Ś. i Tapsella )
       Muirchertach I                                 	    507-534 ( Muirchertach mac Erc wg Tapsella )
-      Tuathal Máelgarb                            	      534-544
+      Tuathal Máelgarb                            	      534-544 ( wg D.Ś. i Tapsella )
       Diarmait I                                         	544-565 ( Diarmait mac Cerrbel wg Tapsella )
       Forggus                                            	565-566 ( Forrgus wg Tapsella )
       Domnall Ilchelgach                          	      565-566 ( wg D.Ś. )
@@ -10575,47 +10604,47 @@ Irlandia ( Ireland )
                                                		        572 ( wg Tapsella )
       Báetán II                                          	572-586 ( Baetan mac Ninnid wg Tapsella )
       Áed                                                	586-598 ( Aed mac Ainmuire wg Tapsella )
-      Áed Sláine                                        	598-604
+      Áed Sláine                                        	598-604 ( wg D.Ś. i Tapsella )
       Colmán Rímid                                  	    598-604 ( wg D.Ś. )
                                                           604 ( wg Tapsella )
-      Áed Uaridnach                                  	    604-612   ( Aed Allan mac Domnall wg Tapsella )
-      Máel Cobo                                         	612-615
-      Suibne Menn                                      	  615-628
+      Áed Uaridnach                                  	    604-612 ( Aed Allan mac Domnall wg Tapsella )
+      Máel Cobo                                         	612-615 ( wg D.Ś. i Tapsella )
+      Suibne Menn                                      	  615-628 ( wg D.Ś. i Tapsella )
       Domnall                                            	628-642 ( Domnall mac Aed wg Tapsella )
-      Conall Cáel                                        	642-654
+      Conall Cáel                                        	642-654 ( wg D.Ś. i Tapsella )
       Cellach                                            	642-658 ( wg D.Ś. )
                                                        		654-658 ( wg Tapsella )
       Diarmait II                                       	658-665 ( Diarmait mac Aed wg Tapsella )
       Blathmac                                          	658-665 ( wg D.Ś. )
                                                       		665 ( Blathmac mac Aed wg Tapsella )
-      Sechnussach                                       	665-671
+      Sechnussach                                       	665-671 ( wg D.Ś. i Tapsella )
       Cennfáelad                                         	671-675 ( Cenn Faelad wg Tapsella )
-      Fínsnechta Fledach                             	    675-695
+      Fínsnechta Fledach                             	    675-695 ( wg D.Ś. i Tapsella )
       Loingsech                                         	695-704 ( wg D.Ś. )
                                                     		  695-703 ( wg Tapsella )
       Congal Cennmagair                            	      704-710 ( wg D.Ś. )
                                                           703-710 ( wg Tapsella )
-      Fergal                                             	710-722
-      Fogartach                                          	722-724
-      Cináed                                              724–728
-      Flaithbertach                                      	728-734
+      Fergal                                             	710-722 ( wg D.Ś. i Tapsella )
+      Fogartach                                          	722-724 ( wg D.Ś. i Tapsella )
+      Cináed                                              724–728 ( wg D.Ś. i Tapsella )
+      Flaithbertach                                      	728-734 ( wg D.Ś. i Tapsella )
       Áed Allán                                           734-743 ( wg D.Ś. )
                                                           728-743 ( Aed Allan mac Fergal wg Tapsella )
-      Domnall Midi                                      	743-763
+      Domnall Midi                                      	743-763 ( wg D.Ś. i Tapsella )
       Niall Frossach                                     	763-770 ( wg D.Ś. )
                                                       		763-778 ( wg Tapsella )
       Donnchad Midi                                    	  770-797 ( wg D.Ś. )
                                                           778-797 ( wg Tapsella )
-      Áed Oirdnide                                      	797-819
-      Conchobar                                          	819-833
-      Niall Caille                                       	833-846
-      Máel Sechnaill I                                   	846-862
-      Áed Findliath                                      	862-879
-      Flann Sinna                                        	879-916
-      Niall Glúndub                                      	916-919
-      Donnchad Donn                                  	    919-944
-      Congalach Cnogba                             	      944-956
-      Domnall ua Néill                                 	  956-980   ( Domnall ua Niall wg Tapsella )
+      Áed Oirdnide                                      	797-819 ( wg D.Ś. i Tapsella )
+      Conchobar                                          	819-833 ( wg D.Ś. i Tapsella )
+      Niall Caille                                       	833-846 ( wg D.Ś. i Tapsella )
+      Máel Sechnaill I                                   	846-862 ( wg D.Ś. i Tapsella )
+      Áed Findliath                                      	862-879 ( wg D.Ś. i Tapsella )
+      Flann Sinna                                        	879-916 ( wg D.Ś. i Tapsella )
+      Niall Glúndub                                      	916-919 ( wg D.Ś. i Tapsella )
+      Donnchad Donn                                  	    919-944 ( wg D.Ś. i Tapsella )
+      Congalach Cnogba                             	      944-956 ( wg D.Ś. i Tapsella )
+      Domnall ua Néill                                 	  956-980 ( Domnall ua Niall wg Tapsella )
       Máel Sechnaill II                                	  980-1002 i 1014-1022 ( wg D.Ś. ) ( Mael Sechneill mac Domnaill (Malachi Mor) wg V.K.T.H.O.H.E. )
         						                                      990-1011 i 1024-1032 ( wg V.N.M.S.D. )
         						                                      980-997 i 1014-1022 ( wg Tapsella )
@@ -10624,6 +10653,7 @@ Irlandia ( Ireland )
         						                                      1002-1014 ( ?-24.4. ) ( wg E.P. )
         						                                      1011-1024 ( wg V.N.M.S.D. )
         						                                      997-1014 ( wg Tapsella )
+                                                          ?-1014 ( Brian wg N.S. )
       Denis O´Brian                                    	  1058-1072 ( wg V.N.M.S.D. )
       Tairrdelbach I Ua Briain                    	      1072-1086 ( wg V.N.M.S.D. i D.Ś. ) ( Turlough O´Brien wg Tapsella )
       Muirchertach II Ua Briain                     	    1086-1119 ( wg D.Ś. )
@@ -10666,14 +10696,13 @@ Irlandia ( Ireland )
       Bertie Ahern                                        przed 1998-? (?.4.-?) ( wg V.K.T.H.O.H.E. )
       Brian Cowen                                         przed 2010-? ( wg V.K.T.H.O.H.E. )
       Enda Kenny                                          2011-? (przed ?.5.-?) ( wg V.K.T.H.O.H.E. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. i Tapsella
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Encyklopedie panovníků
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Njal's Saga
 
 Liga Irokezów
   Eskuyas                         	                    przed 1645 n.e.-?
@@ -13413,7 +13442,7 @@ Kościół
       						     	                                ? ( wg Ř.V.G. i M.N.C. )
                                                         przed 1459-1464 (?.9.-14.8.) ( wg H.W. )
     Paweł II ( Pietro Barbo )                        	  1464-1471 ( wg V.N.M.S.D. i Tapsella )
-                                                        1464-? ( Barbo wg H.W. )
+                                                        1464-? ( Barbo (Pietro Barbolo) wg H.W. )
     Sykstus IV ( Francesco della Rovere )             	1471-1484 ( wg Tapsella )
       						    	                                ? ( wg K.R.I.C.R. )
                                                         przed 1472-po 1484 (?-?.8.) ( wg H.W. )
@@ -14795,6 +14824,7 @@ Cesarstwo Łacińskie
     Jolanta                     	                      1217-1219 ( wg D.Ś. i Tapsella )
     Robert                     	                        1221-1228 ( wg D.Ś. i Tapsella ) ( Robert z Courtenay wg D.B. )
     Jan z Brienne          	                            1231-1237 ( wg D.Ś. i Tapsella ) ( Jean de Brienne wg D.B. )
+                                                        ? ( wg H.W. )
     Baldwin II               	                          1240-1261 ( wg D.Ś. )
                                       		              1228-1261 ( wg Tapsella ) ( Balduin II wg D.B. )
                                       		              ?-1261 ( wg K.V. i H.W. )
@@ -15197,8 +15227,10 @@ Mallia
       Starożytne Cywilizacje
 
 Malta
+  County of Malta
+    Enrico Pescatore                                    przed 1206 n.e.-?
   Bibliografia :
-      Vanished Kingdoms - The History of Half-Forgotten Europe
+      Historia Wenecji
 
 Mała Armenia ( Armenia Mniejsza )
   Zariadres                   	                        ok.190 p.n.e.
@@ -15267,22 +15299,24 @@ Państwo Mamertynów
   Bibliografia :
       Historia Powszechna – Starożytność
 
-Królestwo Man
-  Godred I Crovan		                                    1079-1095
-  Lagman                                  	            1095-1096
-  Donald                                   	            1096-1098
-  Magnus                                  	            1098-1103
-  Olaf I                                     	          1103-1152
-  Godred II                               	            1152-1158 i 1164 -1187
-  Somerled                                	            1158-1164
-  Reginald I                               	            1187-1226
-  Olaf II                                     	        1226-1237
-  Harald I                                   	          1237-1249
-  Reginald II                              	            1249
-  Harald II                                  	          1249-1250
-  Magnus II                                	            1252-1265
+Królestwo Man ( Isle of Man )
+  Gudrod                                                ? ( wg N.S. )
+  Godred I Crovan		                                    1079-1095 ( wg Tapsella )
+  Lagman                                  	            1095-1096 ( wg Tapsella )
+  Donald                                   	            1096-1098 ( wg Tapsella )
+  Magnus                                  	            1098-1103 ( wg Tapsella )
+  Olaf I                                     	          1103-1152 ( wg Tapsella )
+  Godred II                               	            1152-1158 i 1164 -1187 ( wg Tapsella )
+  Somerled                                	            1158-1164 ( wg Tapsella )
+  Reginald I                               	            1187-1226 ( wg Tapsella )
+  Olaf II                                     	        1226-1237 ( wg Tapsella )
+  Harald I                                   	          1237-1249 ( wg Tapsella )
+  Reginald II                              	            1249 ( wg Tapsella )
+  Harald II                                  	          1249-1250 ( wg Tapsella )
+  Magnus II                                	            1252-1265 ( wg Tapsella )
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
+      Njal's Saga
 
 Manau ( Clackmannan )
   Bibliografia :
@@ -15747,7 +15781,7 @@ Mediolan
                                                         przed 1467-? ( Galeazzo Sforza wg H.W. )
       Giovanni Galeazzo		                              1476-1494 ( wg D.Ś. )
       Ludovico Maria         	                          1494-1499 i 1500 ( wg D.Ś. )
-                                                        ?-1499 i 1500-? (? i początek-?) ( Ludovico il Moro (Ludovico) wg H.W. )
+                                                        ?-1499 i 1500-? (? i początek-?) ( Ludovico il Moro (Ludovico, Il Moro) wg H.W. )
     Ludwik XII                                          1499-? (6.10.-?) ( wg H.W. ) [King of France]
     Dynastia Sforza
       Massimiliano             	                        1512-1515 ( wg D.Ś. )
@@ -16418,10 +16452,13 @@ County of Montbéliard
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Księstwo Montferratu
-  Vilém z Montferratu	                                  ? ( wg F.B.C.A.R. )
-  Konrád                         	                      ? ( wg F.B.C.A.R. )
-  Vincenzo Gonzaga                                      ?-1627 n.e. (?-26.12.) ( wg H.W. )
+Montferratu
+  Margrabstwo Montferrato
+    Vilém z Montferratu	                                ? ( wg F.B.C.A.R. )
+    Konrád                         	                    ? ( wg F.B.C.A.R. )
+    Bonifacy z Montferratu                              ? ( wg H.W. ) [King of Królestwo Tesalonik]
+  Księstwo Montferratu
+    Vincenzo Gonzaga                                    ?-1627 n.e. (?-26.12.) ( wg H.W. )
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
       Historia Wenecji
@@ -16440,6 +16477,11 @@ Morawa
       Fridrich Barbarossa – císař a rytíř
 
 Mordwini
+
+More
+  Rognvald                                              ?
+  Bibliografia :
+      Njal's Saga
 
 Despotat Morei
   Manuel Kantakuzenos                	                  1348-1380 ( wg D.B. )
@@ -16894,7 +16936,7 @@ Królestwo Neapolu i Sycylii ( Kingdom of Sicily, Kingdom of Naples )
       			   	                                        przed 1127-1154 ( ?-26.2. ) ( wg F.B.C.A.R. )
                                                         1130-? ( Roger The Norman wg V.K.T.H.O.H.E. )
                                                         ? ( wg T.V.Q. )
-                                                        przed 1130-1154 ( Roger II z Hauteville )
+                                                        przed 1130-1154 ( Roger II z Hauteville wg H.W. )
   Wilhelm I Zły            	                            1154-1166 ( wg D.Ś. i V.N.M.S.D. )
       			   	                                        przed 1155-1166 ( ?-7.5. ) ( Vilém I wg F.B.C.A.R. )
                                                         1154-po 1159 ( Wilhelm I wg H.W. )
@@ -17103,8 +17145,11 @@ Niemcy ( Germany , Německo )
     Konrad III                                          przed 1142-1152 ( wg S.P.D.Z. ) [Holy Roman Emperor]
     Frederick Barbarossa                                1152-1190 ( wg V.K.T.H.O.H.E. )
     Filip Szwabski                                      przed 1203-? ( wg H.W. )
+    Henryk Hohenstauf                                   ? ( Henryk VI wg H.W. )
+    Rudolf Habsburg                                     ? ( wg H.W. )
     Rupert z Palatynatu                                 1400-po 1409 ( wg H.W. ) [Holy Roman Emperor]
     Zygmunt Luksemburski                                przed 1418-po 1420 ( Zygmunt wg H.W. ) [Holy Roman Emperor]
+    Ferdynand I                                         przed 1538-? (lato-?) ( Ferdynand wg H.W. ) [Holy Roman Emperor]
   Cesarstwo Niemiec ( Německé císařství )
     Dynastia Hohenzollernów ( Hohenzollern Empire )
       Wilhelm I         	                              1871-1888 ( wg D.Ś. i V.N.M.S.D. ) ( William I wg V.K.T.H.O.H.E. ) [King of Prussia Wilhelm I]
@@ -17268,6 +17313,7 @@ Królestwo Northumbrii
   Oswald Święty   		                                  634-642 ( wg V.N.M.S.D. i  D.Ś. )
                                   		                  633-641 ( wg Tapsella )
                                                         przed 633-? ( Oswald wg Z.N.E. )
+                                                        ? ( Oswald The Saint wg N.S. )
   Oswiu                 		                            642-670 ( wg V.N.M.S.D. i D.Ś. )
                                   		                  641-670 ( wg Tapsella )
                                                         przed 664-? ( Oswy wg Ř.S.J.Ď.S. i V.K.T.H.O.H.E. )
@@ -17290,12 +17336,12 @@ Królestwo Northumbrii
                                  		                    758 ( wg Tapsella )
   Ethelwald Moll		                                    759-765 ( wg D.Ś. )
                                  		                    758-765 ( wg Tapsella )
-  Alhred                		                            765-774 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+  Alhred                		                            765-774 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
   Ethelred I            		                            774 -779 i 790-796
   Elfwald I             		                            779-788 ( wg D.Ś. i Tapsella )
                                              	          778-889 ( wg V.N.M.S.D. )
-  Osred II               	                              788-790
-  Osbald                 	                              796
+  Osred II               	                              788-790 ( wg D.Ś. i Tapsella )
+  Osbald                 	                              796 ( wg D.Ś. i Tapsella )
   Eardwulf              	                              796-808 i 808-809 ( wg D.Ś. )
                                    		                  796-806 ( wg Tapsella )
   Elfwald II             	                              808 ( wg D.Ś. )
@@ -17310,13 +17356,11 @@ Królestwo Northumbrii
                                     		                849-862 ( wg Tapsella )
   Elle II                    	                          866-867 ( wg D.Ś. )
                                     		                862-867 ( Aelle wg Tapsella )
-  Egbert I                 	                            867-873
+  Egbert I                 	                            867-873 ( wg D.Ś. i Tapsella )
   Ricsige                  	                            873-876 ( Ricsig wg Tapsella )
-  Egbert II               	                            876-878
-  Eadwulf II           		                              878-913  ( wg D.Ś. )
+  Egbert II               	                            876-878 ( wg D.Ś. i Tapsella )
+  Eadwulf II           		                              878-913 ( wg D.Ś. )
   Aldred                  	                            913-927 ( wg D.Ś. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. i Tapsella
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -17324,13 +17368,14 @@ Królestwo Northumbrii
       Říše slova - Jazykové dějiny světa
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
+      Njal's Saga
 
 Królestwo Norwegii ( Norway )
-  Olaf                          	                      630-640
-  Halfdan I                  	                          640-700
-  Eystein                     	                        700-730
-  Halfdan II                 	                          730-784
-  Gudrod Gierstade	                                    784-824
+  Olaf                          	                      630-640 ( wg V.N.M.S.D. )
+  Halfdan I                  	                          640-700 ( wg V.N.M.S.D. )
+  Eystein                     	                        700-730 ( wg V.N.M.S.D. )
+  Halfdan II                 	                          730-784 ( wg V.N.M.S.D. )
+  Gudrod Gierstade	                                    784-824 ( wg V.N.M.S.D. )
   Halfdan III                	                          824-863 ( wg V.N.M.S.D. )
                                                         ? ( Hálfdan Černý wg S.M. )
   Dynastia z Vestfold
@@ -17339,22 +17384,27 @@ Królestwo Norwegii ( Norway )
                                                         ok.870-940 ( wg Tapsella )
       						                                      ok.860-933 ( Harald I Krásnovlasý wg E.P. )
                                                         ok.900 ( Harald Krásnovlasý wg S.M. )
+                                                        870-930/2 ( Harald Fair-hair (Harald Halfdanarson Fair-hair) wg N.S. )
     Eryk I Krwawy Topór                 		            928-933 ( wg D.Ś. )
                                                         934-936 ( wg V.N.M.S.D. )
                                                         ok.940-ok.945 ( wg Tapsella )
                                                         ? ( Erik Krvavá Sekyra wg S.M. )
+                                                        930-934/5 ( Eirik Blood-axe (Eirik Haraldsson Blood-axe) wg N.S. )
     Haakon I Dobry                           	          933-959 ( wg D.Ś. )
                                                         936-963 ( wg V.N.M.S.D. )
                                                         ok.945-ok.960 ( wg Tapsella )
                                                         ?-960 ( Hájon Mocný wg S.M. )
+                                                        935-961 ( Hakon The Good (Hakon) wg N.S. )
     Harald II Szara Opończa              	              959-974 ( wg D.Ś. )
                                                         963-977 ( wg V.N.M.S.D. )
                                                         ok.960-ok.970 ( wg Tapsella )
+                                                        960/1-975 ( Harald Grey-cloak (Harald Eiriksson Grey-cloak) wg N.S. )
     Jarl Haakon Sigurdsson               	              974-994 ( wg D.Ś. )
                                                         977-995 ( wg V.N.M.S.D. )
                                                         ok.970-ok.995 ( wg Tapsella )
+                                                        975-995 ( Hakon Sigurdarson (Hakon Sigurdsson) wg N.S. )
     Olaf I Trygvesson                        	          994-999 ( wg D.Ś. )
-                                                        995-1000 ( wg V.N.M.S.D. i Tapsella ) ( Olof I Tryggvesson wg E.P. ) ( Olaf Tryggwason (Óláfr Tryggvason) wg W.W.K.R. )
+                                                        995-1000 ( wg V.N.M.S.D. i Tapsella ) ( Olof I Tryggvesson wg E.P. ) ( Olaf Tryggwason (Óláfr Tryggvason) wg W.W.K.R. ) ( Olaf Tryggvason wg N.S. )
                                                         ? ( Olaf Tryggvesson wg Z.S.A.V.E. )
     Jarl Eryk                                       	  999-1015 ( wg D.Ś. )
                                                         1000-1015 ( wg Tapsella )
@@ -17363,6 +17413,7 @@ Królestwo Norwegii ( Norway )
                                                         1000-1028 ( wg V.N.M.S.D. )
                                                         1015-1028 ( wg Tapsella ) ( Olaf Święty (Óláfr Helgi, Olaf Haraldsson, Óláfr Haraldsson) wg W.W.K.R. )
       						                                      1016-1028 ( Olof II Haraldsson wg E.P. )
+                                                        ? ( Olaf wg N.S. )
     Svein Alfivason                            	        1030-1035 ( wg D.Ś. )
     Knut                                              	1028-1035 ( wg V.N.M.S.D. ) ( Kanut Wielki (Knud den Store) wg W.W.K.R. ) [King of Denmark]
       						                                      1028-1035 ( ?-12.11. ) ( Knut I Veliký wg E.P. )
@@ -17411,7 +17462,7 @@ Królestwo Norwegii ( Norway )
       						                                      1263-1280 ( ?-9.5. ) ( Magnus V Zákonodárce wg E.P. )
     Eryk II Wróg Księży                      	          1280-1299 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
       						                                      1280-1299 ( ?-15.7. ) ( Erik III Magnusson wg E.P. )
-    Haakon V Długonogi                     	            1299-1319
+    Haakon V Długonogi                     	            1299-1319 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
   Dynastia szwedzka
     Magnus VII               		                        1319-1355 ( wg D.Ś. i Tapsella ) ( Magnus II Eroksson wg E.P. )
                                                       	1319-1343 ( wg V.N.M.S.D. )
@@ -17425,13 +17476,10 @@ Królestwo Norwegii ( Norway )
     Oskar II			                                      1872-1905 ( wg E.P. )
   Dynastia duńska
     Chrystian Fryderyk		                              1814 ( wg D.Ś. )
-    Haakon VII                     	                    1905-1957 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+    Haakon VII                     	                    1905-1957 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
       					                                        1905-1957 ( ?-29.9. ) ( wg E.P. )
-    Olaf V                             	                1957-1991
+    Olaf V                             	                1957-1991 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
     Harald V                         	                  1991-? ( wg D.Ś. )
-  Uwagi :
-      Przed Dynastią z Vestfold wg V.N.M.S.D.
-      Wszystko oprócz oznaczonego wg D.Ś. i V.N.M.S.D. i Tapsella
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -17441,6 +17489,7 @@ Królestwo Norwegii ( Norway )
       Severské mýty
       Wielka wyprawa Księcia Racibora
       Słowianie połabscy - Dzieje zagłady
+      Njal's Saga
 
 Norymberga
   Dynastia Hohenzollernów
@@ -17688,7 +17737,7 @@ Państwo Odoakra
                                         	              476-? ( wg D.R. i D.B. i Ř.V.G. i Ř.S.J.Ď.S. )
       		      	                                      476-po 480 ( wg S.C. )
       		      	                                      476-? ( 23.8.-? ) ( wg K.R.I.C.R. )
-                                        	              ? ( Odoacer wg H. ) ( wg Ž.V.Ř.S. i H.W. )
+                                        	              ? ( Odoacer wg H. ) ( wg Ž.V.Ř.S. ) ( Odoakr wg H.W. )
                                                         przed 488-? ( Odoacer wg V.K.T.H.O.H.E. )
   Bibliografia :
       Velká nástěnná mapa světových dějin
@@ -17857,45 +17906,49 @@ Orchomenos
   Bibliografia :
       Dzieje Grecji
 
-Orkneje
-  Ragnvald I                         	                  ok.874-ok.875
-  Sigurd I                              	              ok.875-ok.892
-  Guthorm                             	                ok.892-ok.893
-  Hallad                                 	              ok.893-ok.894
-  Torf Einar I                        	                ok.894 -ok.910
-  Arnkel                                	              ok.910-954
-  Erlend I                              	              ok.910-954
-  Thorfinn I                          	                ok.910-977
-  Arnfinn                              	                ok.977-?
-  Havard                      		                      ?
-  Liot				                                          ?
-  Hlodve                                	              ?-ok.988
-  Sigurd II                             	              ok.988-1014
-  Somerled                            	                1014-1053
-  Brusi                                   	            1014-ok.1030
-  Einar II                               	              1014-1020
-  Thorfinn II                          	                1018-ok.1065
-  Ragnvald II                         	                1038-1046
-  Paul I                                   	            ok.1065-1098
-  Erlend II                              	              ok.1065-1098
-  Sigurd III                             	              1098-1105
-  Haakon                               	                1105-ok.1126
-  Magnus I                             	                1108-ok.1117
-  Paul II                                  	            ok.1126-1137
-  Harald I                                	            ok.1126-1131
-  Ragnvald III			                                    ok.1137-1157
-  Erlend III                              	            1154-1156
-  Harald II                               	            1139-1206
-  David                                    	            1206-1214
-  John I                                    	          1206-1231
-  Magnus II                             	              1231-1239
-  Gilbert                                  	            1239-1256
-  Magnus III                            	              1256-1276
-  Magnus IV                            	                1276-1284
-  John II                                   	          1284-ok.1312
-  Magnus V                              	              ok.1312-1329
+Orkneje ( Orkney )
+  Ragnvald I                         	                  ok.874-ok.875 ( wg Tapsella )
+  Sigurd I                              	              ok.875-ok.892 ( wg Tapsella )
+  Guthorm                             	                ok.892-ok.893 ( wg Tapsella )
+  Hallad                                 	              ok.893-ok.894 ( wg Tapsella )
+  Torf Einar I                        	                ok.894 -ok.910 ( wg Tapsella )
+  Arnkel                                	              ok.910-954 ( wg Tapsella )
+  Erlend I                              	              ok.910-954 ( wg Tapsella )
+  Thorfinn I                          	                ok.910-977 ( wg Tapsella )
+                                                        ? ( Thorfinn (Thorfinn Einarsson the Skull-splitter) wg N.S. )
+  Arnfinn                              	                ok.977-? ( wg Tapsella )
+  Havard                      		                      ? ( wg Tapsella )
+  Liot				                                          ? ( wg Tapsella )
+  Hlodve                                	              ?-ok.988 ( wg Tapsella )
+                                                        ? ( Hlodver (Hlodver Thorfinnsson) wg N.S. )
+  Sigurd II                             	              ok.988-1014 ( wg Tapsella )
+                                                        990-1014 ( Sigurd Hlodvisson (Sigurd) wg N.S. )
+  Somerled                            	                1014-1053 ( wg Tapsella )
+  Brusi                                   	            1014-ok.1030 ( wg Tapsella )
+  Einar II                               	              1014-1020 ( wg Tapsella )
+  Thorfinn II                          	                1018-ok.1065 ( wg Tapsella )
+  Ragnvald II                         	                1038-1046 ( wg Tapsella )
+  Paul I                                   	            ok.1065-1098 ( wg Tapsella )
+  Erlend II                              	              ok.1065-1098 ( wg Tapsella )
+  Sigurd III                             	              1098-1105 ( wg Tapsella )
+  Haakon                               	                1105-ok.1126 ( wg Tapsella )
+  Magnus I                             	                1108-ok.1117 ( wg Tapsella )
+  Paul II                                  	            ok.1126-1137 ( wg Tapsella )
+  Harald I                                	            ok.1126-1131 ( wg Tapsella )
+  Ragnvald III			                                    ok.1137-1157 ( wg Tapsella )
+  Erlend III                              	            1154-1156 ( wg Tapsella )
+  Harald II                               	            1139-1206 ( wg Tapsella )
+  David                                    	            1206-1214 ( wg Tapsella )
+  John I                                    	          1206-1231 ( wg Tapsella )
+  Magnus II                             	              1231-1239 ( wg Tapsella )
+  Gilbert                                  	            1239-1256 ( wg Tapsella )
+  Magnus III                            	              1256-1276 ( wg Tapsella )
+  Magnus IV                            	                1276-1284 ( wg Tapsella )
+  John II                                   	          1284-ok.1312 ( wg Tapsella )
+  Magnus V                              	              ok.1312-1329 ( wg Tapsella )
   Bibliografia:
       Monarchs , Rulers , Dynasties and Kingdoms of the World
+      Njal's Saga
 
 Osagowie
   Bibliografia :
@@ -17908,6 +17961,7 @@ Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát , Su�
     Orhan                              	                1324-1362 ( wg D.Ś. )
                                                         1326-1360 ( wg V.N.M.S.D. )
       			            	                              1326-1359 ( Orchan wg D.B. )
+                                                        ? ( wg H.W. )
     Murad I                           	                1362-1389 ( wg D.Ś. )
                                                         1360-1389 ( wg V.N.M.S.D. )
       			            	                              1359-1389 ( wg D.B. )
@@ -17999,6 +18053,11 @@ Osroene
   Bibliografia :
       Dzieje Rzymu
       Krassus - Polityk niespełnionych ambicji
+
+Kingdom of Ossory ( Osraige )
+  Kjarval                                               ?
+  Bibliografia :
+      Njal's Saga
 
 Ostrogoci ( Greutungowie )
   Ermanaryk          	                                  ok.350 n.e. ( wg A.Č. ) ( Ermanarich wg S.M. )
@@ -18995,10 +19054,12 @@ Piktowie
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Zapomianie narody Europy
 
-Principality of Piombino
-  Maria-Anna ( Elisa )                                  ?
+Principality of Piombino ( Księstwo Piombino )
+  Nicolò Ludovisi                                       przed 1645 n.e-? ( wg H.W. )
+  Maria-Anna ( Elisa )                                  ? ( wg V.K.T.H.O.H.E. )
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Historia Wenecji
 
 Pisa
   Oinomaos	                                            ?
@@ -19009,6 +19070,11 @@ Pisa
 Pistoia
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
+
+Hrabstwo Pitigliano
+  Nicolò Orsini                                         przed 1508-1510 (?-?.1.) ( Nicolò di Pitigliano wg H.W. )
+  Bibliografia :
+      Historia Wenecji
 
 Piza
   Bibliografia :
@@ -19703,6 +19769,12 @@ Rečen ( Upper Retenu )
   Ammulanasi ( Ammunenishi )                            ?
   Bibliografia :
       Říše slova - Jazykové dějiny světa
+
+Rethel
+  Hrabstwo Rethel
+    Charles                                             przed 1629 n.e.-? (8.4.-?)
+  Bibliografia :
+      Historia Wenecji
 
 Principality of Reuss
   Bibliografia :
@@ -20465,7 +20537,7 @@ Rzym
               		                                      68-69 ( wg V.N.M.S.D.,D.Ś., A.Č. i Tapsella i S.C. i E.P. ) ( Serwiusz Sulpicjusz Galba wg H.P.S. )
                                                         68-69 ( jesień-15.1. ) ( Serwiusz Sulpicjusz Galba wg D.R. )
     								                                    68-69 ( ?-?.1. ) ( wg Ž.V.Ř.S. i Z.V.C. )
-    								                                    ? ( wg T.P.Ž.C. )
+    								                                    ? ( wg T.P.Ž.C. i H.W. )
     Lucius Pison ( Pizon )                              69 ( 10.1.-15.1. ) ( wg P.C.R. )
     Marcus Salvius Otho ( Othon )                       69 ( 15.1.-16.4. ) ( wg P.C.R. ) ( Marek Othon wg R.I.C.R. )
     						           		                          69 ( wg V.N.M.S.D. , D.Ś. , A.Č. i Tapsella i S.C. i E.P. ) ( Salwiusz Otho wg H.P.S. )
@@ -21177,7 +21249,7 @@ Rzym
                                                         przed 1081-1118 (?-15.8.) ( Aleksy (Aleksy Komnen) wg H.W. )
         Jan II Kaloiannes	                              1118-1143 ( wg V.N.M.S.D. i D.Ś. i Tapsella i K.V. ) ( Ioannes II Komnenos wg D.B. )
     			          	                                  przed 1135-?  ( wg F.B.C.A.R. )
-                                                        1118-1143 (?-wiosna) ( Jan II (Jan Komnen) wg H.W. )
+                                                        1118-1143 (?-wiosna) ( Jan II (Jan Komnen, Jan II Komnen) wg H.W. )
         Manuel I                	                      1143-1180  ( wg V.N.M.S.D. , D.Ś.  i Tapsella ) ( Manuel I Komnenos wg D.B. )
     			        	                                    1143-1180 ( ?-24.9. ) ( wg K.V. )
     			        	                                    przed 1146-po 1180 ( Manuel I Komnenos wg F.B.C.A.R. )
@@ -21185,7 +21257,7 @@ Rzym
                                                         przed 1146-1180 (początek-24.9.) ( Manuel (Manuel Komnen) wg H.W. )
         Aleksy II               	                      1180-1183 ( wg D.Ś. i Tapsella ) ( Alexios II Komnenos wg D.B. )
                                                    	    1180-1185 ( wg V.N.M.S.D. )
-                                                        przed 1182-? ( Aleksy wg H.W. )
+                                                        przed 1182-? ( Aleksy (Aleksy II Komnen) wg H.W. )
         Andronik I             	                        1183-1185 ( wg D.Ś. i Tapsella ) ( Andronikos I Komnenos wg D.B. )
                                                         ?-1185 (?-?.9.) ( Andronik Komnen wg H.W. )
       Dynastia Angelos
@@ -21194,12 +21266,12 @@ Rzym
     				         	                                  przed 1188-? ( Izák II Angelos wg F.B.C.A.R. )
                                                         przed 1186-1195 i 1203-? ( Izaak Angelos (Izaak II) wg H.W. )
         Aleksy III                           	          1195-1203 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Alexios III Angelos wg D.B. )
-                                                        1195-1203 (?-17.7.) ( Aleksy wg H.W. )
+                                                        1195-1203 (?-17.7.) ( Aleksy (Aleksy III Angelos) wg H.W. )
         Aleksy IV                           	          1203-1204 ( wg D.Ś. i Tapsella )
                                                         1203-1204 ( 1.8.-? ) ( wg K.V. ) ( Alexios IV Angeloi wg D.B. )
-                                                        1203-po 1204 (1.8.-5.1.) ( Aleksy wg H.W. )
+                                                        1203-po 1204 (1.8.-5.1.) ( Aleksy (Aleksy IV Angelos) wg H.W. )
         Aleksy V Dukas Murtzuflos	                      1204 ( wg D.Ś. i Tapsella ) ( Alexios V Murtzuflos wg D.B. ) ( Alexius V wg V.K.T.H.O.H.E. )
-                                                        1204 (przed ?.3.-po 12.5.) ( Aleksy V (Aleksy Dukas, Murzuflos) wg H.W. )
+                                                        1204 (przed ?.3.-po 12.5.) ( Aleksy V (Aleksy Dukas, Murzuflos, Aleksy V Dukas) wg H.W. )
         Nikolaos Kanabos               	                1204 ( wg D.B. )
       Dynastia Laskaris ( Cesarstwo Nicei )
         Teodor I Laskaris 	                            1204-1222 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Theodoros I Laskaris wg D.B. )
@@ -21237,7 +21309,7 @@ Rzym
     				        	                                  ok.1404 ( I wg 100.N.V.S. )
     				        	                                  1390 ( Ioannes VII Palaiologos wg D.B. )
         Manuel II                        	              1391-1425 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Manuel II Palaiologos wg D.B. )
-    					                                          ? ( wg E.P. ) ( Manuel Paleolog wg H.W. )
+    					                                          ? ( wg E.P. ) ( Manuel Paleolog (Manuel II Paleolog) wg H.W. )
         Jan VIII                              	        1425-1448 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Ioannes VIII Palaiologos wg D.B. )
                                                         przed 1438-1448 (8.2.-?) ( Jan VIII Paleolog wg H.W. )
         Konstantyn XI Dragases	                        1448-1453 ( wg D.Ś. i Tapsella )
@@ -21413,7 +21485,7 @@ Saksonia
     Burchard          		                              ? ( wg Z.S.A.V.E. )
     Jindřich I Ptáčník ( Henryk I Ptasznik )            ? ( wg Z.S.A.V.E. )
                                                         przed 919 n.e.-? ( Henryk (Henryk I) wg S.P.D.Z. ) [King of Germany]
-    Otton                                               przed 962-? ( wg H.W. ) [King of Germany]
+    Otton                                               przed 962-? ( Otton Wielki wg H.W. ) [King of Germany]
     Ród Billungów
       Herman Billung                                    ? ( wg Z.N.E. )
                                                         przed 967-po 982 ( Hermann Billung wg S.P.D.Z. )
@@ -22905,6 +22977,7 @@ Sycylia
   Kingdom of Trinacria ( Królestwo Sycylii, Kingdom of Sicily )
     Dynastia aragońska
       Piotr I Wielki               	                    1282-1285 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1282-? ( Piotr III Aragoński wg H.W. )
       Jakub Sprawiedliwy     	                          1285-1295 ( wg D.Ś. i V.N.M.S.D. ) ( Jakub II wg E.P. ) [King of Aragon Jaime II]
                                                         1286-1327 (2.2.-?) ( Jaime II El Justo wg V.K.T.H.O.H.E. )
       Fryderyk II                   	                  1296-1337 ( wg D.Ś. i V.N.M.S.D. ) ( Frederico II (Frederick III) wg V.K.T.H.O.H.E. )
@@ -23163,7 +23236,7 @@ Szampania
         					                                      przed 1162-? ( Jindřich z Troyes wg F.B.C.A.R. )
       Henryk II Młodszy         	                      1181-1197 ( wg D.Ś. )
       Tybald III                        	              1197-1201 ( wg D.Ś. )
-                                                        przed 1199-1201 ( wg H.W. )
+                                                        przed 1199-1201 ( Tybald z Szampanii (Tybald) wg H.W. )
       Tybald IV Pogrobowiec	                            1201-1253 ( wg D.Ś. )
       Tybald V                          	              1253-1270 ( wg D.Ś. )
       Henryk III Gruby             	                    1270-1274 ( wg D.Ś. )
@@ -23299,7 +23372,7 @@ Szkocja ( Scotland )
                                                      	    994-995 ( IV wg V.N.M.S.D. )
       Kenneth III          	                              997-1005 ( wg D.Ś. i Tapsella )
       Grimus                 	                            995-1003 ( wg V.N.M.S.D. )
-      Malcolm II          	                              1005-1034 ( wg D.Ś. i Tapsella )
+      Malcolm II          	                              1005-1034 ( wg D.Ś. i Tapsella ) ( Melkolf wg N.S. )
                                                 	        1003-1033 ( wg V.N.M.S.D. )
                                                           przed 1031-? ( Malcolm I wg V.K.T.H.O.H.E. )
     Dynastia z Dunkeld
@@ -23373,6 +23446,7 @@ Szkocja ( Scotland )
       Říše slova - Jazykové dějiny světa
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Historia Wenecji
+      Njal's Saga
 
 Szoszoni
   Washakie                                              przed 1876 n.e.-?
@@ -24066,7 +24140,7 @@ Księstwo Tao
       Encyklopedie panovníků
 
 Księstwo Taranto
-  Boemund                                               ?
+  Boemund                                               ? ( Boemund de Hauteville wg H.W. )
   Bibliografia :
       Historia Wenecji
 
@@ -24396,12 +24470,12 @@ Toskania ( Tuscany )
     Cosimo I                   	                        1537-1574 ( wg D.Ś. )
                                                         przed 1548-? ( Cosimo I de' Medici wg V.K.T.H.O.H.E. )
                                                         ?-1574 ( Cosimo de'Medici wg H.W. )
-    Francesco I               	                        1574-1587 ( wg D.Ś. ) ( Francesco wg H.W. )
+    Francesco I               	                        1574-1587 ( wg D.Ś. ) ( Francesco (Francesco de'Medici) wg H.W. )
     Ferdinando I             	                          1587-1609 ( wg D.Ś. )
                                                         ? ( Ferdinando de'Medici (Ferdinando) wg H.W. )
     Cosimo II                 	                        1609-1621 ( wg D.Ś. )
                                                         przed 1616-? ( wg 100.N.U.W. )
-                                                        ? ( wg H.W. )
+                                                        ? ( Cosimo II de'Medici wg H.W. )
     Ferdinando II            	                          1621-1670 ( wg D.Ś. )
     Cosimo III                	                        1670-1723 ( wg D.Ś. )
     Giovanni Gastone    	                              1723-1737 ( wg D.Ś. )
@@ -24532,6 +24606,7 @@ Trerowie
       Thrákové
 
 Treviso
+  Pietro Tiepolo                                        przed 1236 n.e.-?
   Bibliografia :
       Historia Wenecji
 
@@ -25435,6 +25510,11 @@ Vatsa
   Bibliografia :
       Starověká Indie
 
+Księstwo Veglii
+  Doimo                                                 przed 1310 n.e.-?
+  Bibliografia :
+      Historia Wenecji
+
 County of Venaissin
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
@@ -25661,8 +25741,8 @@ Wenecja
     Maurizio Galbaio                                    ?-804 ( wg H.W. )
     Obelerio                            	              803-810 ( wg D.Ś. )
                                                         804-811 ( Obelerio Antenori (Obelerio degli Antenori) wg H.W. )
-    Beato Antenori                                      przed 805-po 810 (24.12.-?) ( Beato wg H.W. )
-    Valentino Antenori                                  przed 809-po 810 ( Valentino wg H.W. )
+    Beato Antenori                                      przed 805-po 810 (24.12.-?) ( Beato (Beato degli Antenori) wg H.W. )
+    Valentino Antenori                                  przed 809-po 810 ( Valentino (Valentino degli Antenori) wg H.W. )
     Agnello Particiaco            	                    810-827 ( wg D.Ś. )
                                                         811-827 ( Agnello Participazio wg H.W. )
     Giustiniano Particiaco      	                      827-829 ( wg D.Ś. ) ( Giustiniano Participazio wg H.W. )
@@ -25751,7 +25831,7 @@ Wenecja
     Marino Falier                     	                1354-1355 ( wg D.Ś. )
                                                         1351-1355 ( ?-18.5. ) ( Marino Faliero wg H.W. )
     Giovanni Gradenigo          	                      1355-1356 ( wg D.Ś. )
-                                                        1355-1356 (21.5.-?.8.) ( wg H.W. )
+                                                        1355-1356 (21.5.-?.8.) ( Nasone wg H.W. )
     Giovanni Dolfin                 	                  1356-1361 ( wg D.Ś. )
                                                         1356-1361 (?-12.7.) ( wg H.W. )
     Lorenzo Celsi                     	                1361-1365 ( wg D.Ś. )
@@ -25842,7 +25922,7 @@ Wenecja
     Alvise Mocenigo II                 	                1700-1709 ( wg D.Ś. i H.W. )
     Giovanni Cornaro II                	                1709-1722 ( wg D.Ś. )
                                                         1709-1722 (?-12.8.) ( Giovanni Corner II (Giovanni Corner) wg H.W. )
-    Alvise Mocenigo III                	                1722-1732 ( wg D.Ś. i H.W. )
+    Alvise Mocenigo III                	                1722-1732 ( wg D.Ś. )
                                                         1722-1732 (24.8.-?) ( Alvise Mocenigo (Sebastiano Mocenigo, Alvise Sebastiano Mocenigo) wg H.W. )
     Carlo Ruzzini                          	            1732-1735 ( wg D.Ś. i H.W. )
     Alvise Pisani                           	          1735-1741 ( wg D.Ś. )
@@ -26070,6 +26150,7 @@ Węgry ( Hungary )
     Dynastia habsburska
       Ferdynand I                       	              1526-1564 ( wg D.Ś. i V.N.M.S.D. )
       					                                        1526-1564 ( ?-25.7. ) ( Ferdinand I Habsburský wg E.P. )
+                                                        przed 1529-? (10.5.-?) ( Ferdynand wg H.W. )
       Maksymilian                      	                1564-1576 ( wg D.Ś. i V.N.M.S.D. )
       Rudolf                               	            1576-1608 ( wg D.Ś. )
                                                         1576-1612 ( wg V.N.M.S.D. )
@@ -26975,5 +27056,6 @@ Bibliografia :
     [99] Sapiens - A Brief History of Humankind , Yuval Noah Harrari , 2011
     [100] Přemožitel neviditelných dravců , František Gel , 1968
     [101] Historia Wenecji , John Julius Norwich , 2015
+    [102] Njal's Saga , Robert Cook , 2001
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
