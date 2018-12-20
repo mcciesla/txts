@@ -68,6 +68,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - An Illustrated Theory of Numbers - Martin H. Weissman
       - The Insect Societies - Edward O. Wilson
       - Game Engine Black Book: Wolfenstein 3D - Fabien Sanglard
+      - Game Engine Black Book: DOOM - Fabien Sanglard
       - Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery - Gottfried Vossen, Gerhard Weikum
       - The Art of SQL - Stephane Faroult, Peter Robson
       - Programming in D - Ali Cehreli
