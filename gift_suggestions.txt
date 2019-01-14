@@ -1,11 +1,9 @@
 books - The History of Western Philosophy - Bertrand Russell
       - Unpopular Essays - Bertrand Russell
-      - Real-World Functional Programming: With Examples in F# and C# - Tomas Petricek, Jon Skeet
       - Other Minds : The Octopuss and The Evolution of Intelligent Life - Peter Godfrey Smith
       - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Dynasties of the World: A Chronological and Genealogical Handbook - John E. Morby
       - Wiedźmin Tom 1-8 - Andrzej Sapkowski
-      - Blood Meridian - Cormac McCarthy
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Category Theory in Context - Emily Riehl
       - Kronika Slovanu - Helmold z Bosau
@@ -18,7 +16,6 @@ books - The History of Western Philosophy - Bertrand Russell
       - Children of Time - Adrian Tchaikovsky
       - Colossus - Dennis Feltham Jones
       - Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian, Tom Griffiths
-      - Nanga Parbat Pilgrimage: The Lonely Challenge - Hermann Buhl
       - Hermann Buhl Climbing Without Compromise - Reinhold Messner, Horst Hofler
       - Dejiny Sasu - Widukind z Corvey
       - Type-driven Development with Idris - Edwin Brady
@@ -112,7 +109,6 @@ books - The History of Western Philosophy - Bertrand Russell
       - A Course in Number Theory and Cryptography - Neal Koblitz
       - Linguistics: An Introduction to Language and Communication - Adrian Akmajian, Ann K. Farmer, Lee Bickmore, Richard A. Demers, Robert M. Harnish
       - C: A Reference Manual - Samuel P. Harbison, Guy L. Steele Jr.
-      - Keys to Great Writing - Stephen Wilbers
     Stanislaw Lem
                 - Oblok Magellana
                 - Pamietnik znaleziony w wannie
