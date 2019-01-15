@@ -1,5 +1,4 @@
-books - The History of Western Philosophy - Bertrand Russell
-      - Unpopular Essays - Bertrand Russell
+books - Unpopular Essays - Bertrand Russell
       - Other Minds : The Octopuss and The Evolution of Intelligent Life - Peter Godfrey Smith
       - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Dynasties of the World: A Chronological and Genealogical Handbook - John E. Morby
@@ -51,6 +50,7 @@ books - The History of Western Philosophy - Bertrand Russell
       - The Reasoned Schemer - Daniel P. Friedman, William E. Byrd, Oleg Kiselyov
       - The Little MLer - Matthias Felleisen, Daniel P. Friedman
       - The Little Prover - Daniel P. Friedman, Carl Eastlund
+      - The Little Typer - Daniel P. Friedman, David Thrane Christiansen
       - An Introduction to the Theory of Numbers - G. H. Hardy , E. M. Wright
       - Categories for the Working Mathematician - Saunders Mac Lane
       - Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory - Joseph E. Stoy
