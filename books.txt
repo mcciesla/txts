@@ -216,6 +216,7 @@ POP.SCIENCE :
         The God Delusion ; Richard Dawkins
         Gödel, Escher, Bach - existenciální gordická balada ; Douglas R. Hofstadter
         The Beginning of Infinity - Explanations that Transform the World ; David Deutsch
+        Darwin's Dangerous Idea - Evolution and the Meanings of Life ; Daniel C. Dennett
     FIZYKA:
         ASTRONOMIA:
             Galaktyki ; Robert Estalella
