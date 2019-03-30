@@ -35,6 +35,7 @@ books - Unpopular Essays - Bertrand Russell
       - Let Over Lambda - Doug Hoyte
       - Surfing Uncertainty: Prediction, Action, and the Embodied Mind - Andy Clark
       - Evil: Inside Human Violence and Cruelty - Roy Baumeister
+      - The Origins of Knowledge and Imagination - Jacob Bronowski
       - The Nurture Assumption - Judith Rich Harris
       - A Profile of Mathematical Logic - Howard DeLong
       - No Two Alike - Judith Rich Harris
