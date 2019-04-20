@@ -778,6 +778,10 @@ Andros
       Dzieje Grecji
 
 Anglia ( England , Anglie )
+  Kingdom of Anglo-Saxons
+    Alfred                                              ok.886-899 ( Alfred 'the Great' wg Æ.T.U.T.F.K. ) [King of Wessex]
+    Edward the Elder                                    899-924 ( wg Æ.T.U.T.F.K. )
+    Æthelstan                                           924-927 ( wg Æ.T.U.T.F.K. ) [King of England]
   Królestwo Anglii
     Dynastia saska z Wessexu
       Egbert             	                              802-839 ( wg D.Ś. )
@@ -806,47 +810,51 @@ Anglia ( England , Anglie )
 					                                              925-940 ( wg V.N.M.S.D. )
 				                                                925-939 ( wg Tapsella i N.S. )
 				                                                924-939 ( ?-27.10. ) ( wg E.P. )
-      Edmund I         	                                939-946 ( wg D.Ś. i Tapsella )
+                                                        927-939 ( Æthelstan wg Æ.T.U.T.F.K. )
+      Edmund I         	                                939-946 ( wg D.Ś. i Tapsella ) ( Edmund wg Æ.T.U.T.F.K. )
                                                	        940-946 ( wg V.N.M.S.D. )
 				                                                ?-946 ( Edmund I Nádherný wg E.P. )
                                                         przed 944-po 945 ( Edmund The Elder wg V.K.T.H.O.H.E. )
                                                         939 ( Edmund wg N.T.V.S. )
-      Edred                     	                      946-955 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+      Edred                     	                      946-955 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Eadred wg Æ.T.U.T.F.K. )
                                                         946-955/6 ( Eadred wg N.T.V.S. )
-      Edwy                    	                        955-959 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
+      Edwy                    	                        955-959 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Eadwig wg Æ.T.U.T.F.K. )
 				                                                ? ( Edwin wg E.P. )
       Edgar Spokojny      		                          957-975  ( wg V.N.M.S.D. i D.Ś. ) ( Edgar (Edgar the Peaceful) wg N.T.V.S. )
-                               			                    959-975 ( wg Tapsella )
+                               			                    959-975 ( wg Tapsella ) ( Edgar wg Æ.T.U.T.F.K. )
 					                                              959-975 ( ?-8.7. ) ( Edgar Mírumilovný ( Edgar Pečlivý ) wg E.P. )
 					                                              ? ( wg E.P. i V.K.T.H.O.H.E. )
       Edward Święty Męczennik	                          975-978 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Edward wg N.T.V.S. )
 					                                              ? ( Edvard II Mučedník wg E.P. )
+                                                        975-978 (?-18.3.) ( Edward 'the Martyr' (Edward, Edward the Martyr, Eadward) wg Æ.T.U.T.F.K. )
       Ethelred II Gnuśny              	                978-1016 ( wg D.Ś. )
                                                         978-1013 ( wg V.N.M.S.D. )
                                                         978-1013 i 1014-1016 ( wg Tapsella )
 					                                              ? ( wg E.P. )
 					                                              978-1016 ( ?-23.4. ) ( Ethelred II Nerozvážný ( Váhavý ) wg E.P. )
                                                         978-1013/4 i 1014-1016 (? i ?-23.4.) ( Æthelred (Æthelred II) wg N.T.V.S. )
+                                                        979-1013 i 1014-1016 (4.5.-? i ?-wiosna) ( Æthelred (Æthelred the Unready, Æthelred II, Æthelred 'the Unready', Æthelræd Unræd, Æthelræd, Ethlered the Unready, Ethelred II) wg Æ.T.U.T.F.K. )
       Edmund II Żelazny              	                  1016 ( wg D.Ś. i Tapsella )
+                                                        1016 (przed 23.4.-?) ( Edmund II 'Ironside' (Edmund Ironside, Edmund) wg Æ.T.U.T.F.K. )
 					                                              ?-1016 ( ?-30.11. ) ( Edmund II Ironside wg E.P. ) ( Edmund Ironside (Edmund) wg N.T.V.S. )
     Dynastia duńska
       Sven                                 	            1013-1014 ( wg V.N.M.S.D. i Tapsella ) [King of Denmark]
-                                                        1013-1014 (?-3.2.) ( Svein Forkbeard (Svein) wg N.T.V.S. )
-      Kanut Wielki                   	                  1016-1035 ( wg D.Ś. i Tapsella ) ( Knud den Store wg W.W.K.R. ) ( Cnut (Cnut the Great) wg N.T.V.S. ) [King of Denmark]
+                                                        1013-1014 (?-3.2.) ( Svein Forkbeard (Svein) wg N.T.V.S. ) ( Swein 'Forkbeard' (Swein, Swein Forkbeard, Sweyn 'Forkbeard') wg Æ.T.U.T.F.K. )
+      Kanut Wielki                   	                  1016-1035 ( wg D.Ś. i Tapsella ) ( Knud den Store wg W.W.K.R. ) ( Cnut (Cnut the Great) wg N.T.V.S. i Æ.T.U.T.F.K. ) [King of Denmark]
                                                         1014-1035 ( wg V.N.M.S.D. )
 					                                              1016/7-1035 ( ?-12.11. ) ( Knut I Veliký wg E.P. )
                                                         1018-1035 ( Cnut Sweynsson The Great wg V.K.T.H.O.H.E. )
                                                         przed 1019-1035 ( Kanut II Wielki (Kanut) wg S.P.D.Z. )
       Harold I Zajęcza Stopa    	                      1037-1040 ( wg D.Ś. )
                                                         1035-1040 ( wg V.N.M.S.D. i Tapsella )
-				          	                                    ? ( Harald wg Z.S.A.V.E. )
+				          	                                    ? ( Harald wg Z.S.A.V.E. ) ( Harold I 'Harefoot' wg Æ.T.U.T.F.K. )
 					                                              ?-1040 ( ?-17.3. ) ( Harold I Harefoot wg E.P. )
                                                         1035-1040 (?-?.3.) ( Harold Harefoot wg N.T.V.S. )
       Harthakanut                     	                1040-1042 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) [King of Denmark]
-				                                                ? ( Hardiknut wg E.P. )
+				                                                ? ( Hardiknut wg E.P. ) ( Harthacnut wg Æ.T.U.T.F.K. )
                                                         1040-1042 (?-8.6.) ( Harthacnut wg N.T.V.S. )
     Dynastia saska z Wessexu
-      Edward Święty Wyznawca  	                        1042-1066 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+      Edward Święty Wyznawca  	                        1042-1066 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Edward 'the Confessor' wg Æ.T.U.T.F.K. )
                                                         1042-1066 (?-4./5.1.) ( Edward the Confessor wg N.T.V.S. )
       Harold II Godwinson           	                  1066 ( wg D.Ś. i Tapsella i 100.N.V.S. )
                                                         ?-1066 ( wg B.M. )
@@ -862,6 +870,7 @@ Anglia ( England , Anglie )
       Henryk I                              	          1100-1135 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 				         	                                      przed 1106-? ( Jindřich I wg F.B.C.A.R. )
                                                         przed 1107-po 1114 ( Henry I wg N.T.V.S. )
+                                                        ? ( Henry I wg Æ.T.U.T.F.K. )
     Dynastia z Blois
       Stefan       	                                    1135-1154 ( wg D.Ś. i V.N.M.S.D. ) ( Stefan z Boulogne wg Tapsella )
 			                                                  ? ( Štěpán z Blois wg F.B.C.A.R. )
@@ -963,7 +972,7 @@ Anglia ( England , Anglie )
     Ryszard Cromwell 	                                  1658-1659 ( wg V.N.M.S.D. i D.Ś. )
 			         	                                        1658-przed 1660 ( wg 100.N.V.S. )
   Królestwo Anglii
-    Dynastia Stuartów
+    Dynastia Stuartów ( Stuarts )
       Karol II           	                              1660-1685 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 		              	                                    1660-? ( wg 100.N.V.S. )
 			      	                                          ? ( wg D.R. i W.I.A.P. ) ( Karel II wg E.P. i Ř.S.J.Ď.S. )
@@ -972,7 +981,7 @@ Anglia ( England , Anglie )
                                                         ?-1685 ( Charles II wg V.K.T.H.O.H.E. )
       Jakub II           	                              1685-1688 ( wg D.Ś. )
                                           	            1685-1689 ( wg V.N.M.S.D. i Tapsella )
-			        	                                        ? ( wg B.M. i M.Ś. i E.P. )
+			        	                                        ? ( wg B.M. i M.Ś. i E.P. ) ( James II wg Æ.T.U.T.F.K. )
       Anna                	                            1702-1714 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 				                                                1702-? ( wg 100.N.V.S. )
 				                                                przed 1705-? ( wg 100.N.U.W. )
@@ -1088,6 +1097,7 @@ Anglia ( England , Anglie )
       Northmen - The Viking Saga 793-1241
       Darwin's Dangerous Idea - Evolution and the Meanings of Life
       Tamerlane - Sword of Islam, Conqueror of the World
+      Æthelred the Unready - The Failed King
 
 Anglowie ( Angles )
   Bibliografia :
@@ -6678,7 +6688,7 @@ Dania ( Denmark , Tannmarkar )
                                                         936-985 ( wg V.N.M.S.D. )
                                                         ok.950-985 ( wg Tapsella )
       				           	                              ? ( Harald Modrozubý wg Z.S.A.V.E. )
-                                                        958-987 ( Harald Bluetooth (Harald) wg N.T.V.S. )
+                                                        958-987 ( Harald Bluetooth (Harald) wg N.T.V.S. ) ( Harald 'Bluetooth' wg Æ.T.U.T.F.K. )
       					                                        ok.945-ok.986 ( Harald I Modrozubý wg E.P. )
                                                         przed ok.970-987 ( Harald Sinozęby wg S.P.D.Z. )
                                                         ?-986 ( Harald Gormsson (Harald Blue-tooth) wg N.S. )
@@ -6690,6 +6700,7 @@ Dania ( Denmark , Tannmarkar )
                                                         ok.986-1014 ( Swen Widłobrody (Sveinn Tjúguskegg) wg W.W.K.R. )
                                                         przed 990-1014 ( Swen Widłobrody wg S.P.D.Z. )
                                                         987-1014 (?-3.2.) ( Svein Forkbeard (Svein) wg N.T.V.S. )
+                                                        przed 993-1014 (?-3.2.) ( Swein 'Forkbeard' (Swein Forkbeard, Swein, Sweyn 'Forkbeard') wg Æ.T.U.T.F.K. )
       Harald II                              	          1014-1018 ( wg D.Ś. ) ( Harald wg N.T.V.S. )
                                                         1014-1016 ( III wg V.N.M.S.D. )
                                                         1014-1019 ( wg Tapsella )
@@ -6697,13 +6708,14 @@ Dania ( Denmark , Tannmarkar )
                                                         1016-1035 ( wg V.N.M.S.D. )
       				      	                                  995-1035 ( Knut Veliký wg Z.S.A.V.E. )
       					                                        1018-1035 (?-12.11.) ( Knut II Veliký wg E.P. )
-                                                        ? ( Knútr wg Ř.S.J.Ď.S. ) ( Kanut Wielki wg Z.N.E. )
+                                                        ? ( Knútr wg Ř.S.J.Ď.S. ) ( Kanut Wielki wg Z.N.E. ) ( Cnut the Great (Cnut) wg Æ.T.U.T.F.K. )
                                                         1018/9-1035 ( Cnut Sweynsson The Great wg V.K.T.H.O.H.E. ) ( Cnut (Cnut the Great) wg N.T.V.S. )
                                                         przed 1019-1035 ( Kanut II Wielki (Kanut, Knut Wielki) wg S.P.D.Z. )
       Hardeknud ( Hardekanut )	                        1035-1042 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
       					                                        1035-po 1040 ( Hardiknut wg E.P. )
                                                         1035-1042 (?-8.6.) ( Harthacnut wg N.T.V.S. )
                                                         ?-1042 ( Hardeknut wg B.S. )
+                                                        ? ( Harthacnut wg Æ.T.U.T.F.K. )
       Magnus Dobry                     	                1042-1046 ( wg D.Ś. ) [King of Norway]
                                                         1042-1047 ( wg V.N.M.S.D. i Tapsella )
                                                         1042-1046/7 ( Magnus the Good wg N.T.V.S. )
@@ -6843,6 +6855,7 @@ Dania ( Denmark , Tannmarkar )
       Northmen - The Viking Saga 793-1241
       Bitwy Słowian
       Legnica 1241
+      Æthelred the Unready - The Failed King
 
 Dauphiné
   Bibliografia :
@@ -11109,6 +11122,7 @@ Irlandia ( Ireland )
         						                                      997-1014 ( wg Tapsella )
                                                           ?-1014 ( Brian wg N.S. )
                                                           1002-1014 (?-23.4.) ( Brian Boru (Brian) wg N.T.V.S. )
+                                                          przed 999-? ( Brian Boru wg Æ.T.U.T.F.K. )
       Denis O´Brian                                    	  1058-1072 ( wg V.N.M.S.D. )
       Tairrdelbach I Ua Briain                    	      1072-1086 ( wg V.N.M.S.D. i D.Ś. ) ( Turlough O´Brien wg Tapsella )
       Muirchertach II Ua Briain                     	    1086-1119 ( wg D.Ś. )
@@ -11159,6 +11173,7 @@ Irlandia ( Ireland )
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Njal's Saga
       Northmen - The Viking Saga 793-1241
+      Æthelred the Unready - The Failed King
 
 Liga Irokezów
   Eskuyas                         	                    przed 1645 n.e.-?
@@ -14444,14 +14459,17 @@ Lade
   Sigurd Håkonarson                                     przed 960-962/3 ( Sigurd (Sigurd Håkonsson) wg N.T.V.S. )
   Håkon Sigurdsson                                      ok.963-995 ( Håkon wg N.T.V.S. ) [King of Norway]
                                                         przed 974-? (13.8.-?) ( Hakon wg B.S. )
+                                                        ? ( Håkon wg Æ.T.U.T.F.K. )
   Erik Håkonarson                                       1000-1015 ( Erik of Lade (Erik, Erik Håkonsson) wg N.T.V.S. )
                                                         przed 1000-? ( Erik Haakon wg B.S. )
+                                                        ? ( Erik wg Æ.T.U.T.F.K. )
   Svein Håkonsson                                       1015 ( wg N.T.V.S. )
   Håkon Eriksson                                        ? i ?-1029 ( Håkon wg N.T.V.S. )
   Håkon Sveinsson                                       1028-1029 ( wg N.T.V.S. )
   Bibliografia :
       Northmen - The Viking Saga 793-1241
       Bitwy Słowian
+      Æthelred the Unready - The Failed King
 
 Lagasz ( Lagaš , Lagash )
   En.hengal                              	              ok.2600-ok.2575 ( wg S.B.W. )
@@ -16663,6 +16681,11 @@ Księstwo Meranii
   Bibliografia :
       Fryderyk II Hohenstauf - Cesarz Rzymski
 
+Kingdom of Mercia and Northumbria
+  Edgar                                                 957-959 [King of England]
+  Bibliografia :
+      Æthelred the Unready - The Failed King
+
 Królestwo Mercji ( Mercia )
   Crida               	                                586-593 ( wg V.N.M.S.D. )
   Wibba             	                                  593-615 ( wg V.N.M.S.D. )
@@ -16688,6 +16711,7 @@ Królestwo Mercji ( Mercia )
                                          	              755-794 ( wg V.N.M.S.D. )
       			                                            757-796 ( ?-29.7. ) ( wg E.P. )
                                                         przed 792-? ( wg N.T.V.S. )
+                                                        ? ( wg Æ.T.U.T.F.K. )
   Ecgfrith           	                                  796 ( wg D.Ś. i Tapsella )
   Cenwulf          	                                    796-821 ( wg D.Ś. ) ( Coenwulf wg Tapsella )
                                          	              794-ok.820 ( wg V.N.M.S.D. )
@@ -16719,6 +16743,7 @@ Królestwo Mercji ( Mercia )
       Zapomianie narody Europy
       Wielka wyprawa Księcia Racibora
       Northmen - The Viking Saga 793-1241
+      Æthelred the Unready - The Failed King
 
 Merkici
   Toktoa                                                ?-1204 n.e. ( ?-jesień )
@@ -18112,8 +18137,10 @@ Normandia ( Normannia , Normandy )
                                                         ok.928-942 (?-?.12.) ( William Longsword wg N.T.V.S. )
       Ryszard I Nieustraszony                 	        942-996 ( wg D.Ś. ) ( Richard the Fearless (Richard I) wg N.T.V.S. )
                                                         943-996 ( wg V.N.M.S.D. )
+                                                        przed 991-996 ( Richard I wg Æ.T.U.T.F.K. )
       Ryszard II Dobry                             	    996-1026 ( wg D.Ś. ) ( Richard II the Good (Richard of Normandy, Richard, Richard II) wg N.T.V.S. )
                                                         996-1027 ( wg V.N.M.S.D. )
+                                                        przed 1002-? ( Richard II wg Æ.T.U.T.F.K. )
       Ryszard III                                       1026-1027 ( wg D.Ś. ) ( Richard III wg N.T.V.S. )
       Robert I Diabeł                              	    1027-1035 ( wg D.Ś. i V.N.M.S.D. ) ( Robert the Magnificent wg N.T.V.S. )
         					                                      ?-1035 ( wg 100.N.V.S. )
@@ -18144,6 +18171,7 @@ Normandia ( Normannia , Normandy )
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Historia Wenecji
       Northmen - The Viking Saga 793-1241
+      Æthelred the Unready - The Failed King
 
 Królestwo Northumbrii ( Northumbria )
   Ida                     		                          547-560 ( wg V.N.M.S.D. )
@@ -18269,7 +18297,7 @@ Królestwo Norwegii ( Norway )
                                                         ?-995 ( Håkon Sigurdsson wg N.T.V.S. )
     Olaf I Trygvesson                        	          994-999 ( wg D.Ś. )
                                                         995-1000 ( wg V.N.M.S.D. i Tapsella ) ( Olof I Tryggvesson wg E.P. ) ( Olaf Tryggwason (Óláfr Tryggvason) wg W.W.K.R. ) ( Olaf Tryggvason wg N.S. ) ( Olaf Tryggvason (Olaf) wg N.T.V.S. )
-                                                        ? ( Olaf Tryggvesson wg Z.S.A.V.E. )
+                                                        ? ( Olaf Tryggvesson wg Z.S.A.V.E. ) ( Olaf Tryggvason (Unlaf, Olaf) wg Æ.T.U.T.F.K. )
                                                         ?-1000 ( Olaf Trygvasson (Trygvasson) wg B.S. )
     Jarl Eryk                                       	  999-1015 ( wg D.Ś. )
                                                         1000-1015 ( wg Tapsella )
@@ -18368,6 +18396,7 @@ Królestwo Norwegii ( Norway )
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Northmen - The Viking Saga 793-1241
       Bitwy Słowian
+      Æthelred the Unready - The Failed King
 
 Norymberga
   Dynastia Hohenzollernów
@@ -24039,7 +24068,7 @@ Stodoranie ( Hawelanie , Hawolanie , Heveller )
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
 
-Kingdom of Strathclyde ( Cumbria )
+Kingdom of Strathclyde ( Cumbria , Cumberland )
   Ywain map Dynfwal ( Owen of Cumbria )                 przed 927-po 937 ( wg V.K.T.H.O.H.E. )
                                                         ?-937 ( wg N.T.V.S. )
   Dynfwal III                                           przed 944-po 945 ( wg V.K.T.H.O.H.E. )
@@ -24766,6 +24795,7 @@ Szwecja ( Sweden )
         			     		                                  995-1024 ( Olaf Skotkonung wg Z.S.A.V.E. )
         					                                      przed 1000-? ( Olof Skottkonung wg E.P. ) ( wg B.S. )
                                                         ok.995-1021/2 ( Olaf Król Bogactw (Óláfr Skötkonungr) wg W.W.K.R. )
+                                                        ? ( wg Æ.T.U.T.F.K. )
       Anund ( Jakub )       		                        1022-1050 ( wg D.Ś. i Tapsella ) ( Önund Jacob (Önund, Jacob) wg N.T.V.S. )
                                                        	1026-1051 ( wg V.N.M.S.D. )
                                                         1021/2-ok.1050 ( Anund Jakob (Onund Jacob) wg W.W.K.R. )
@@ -24917,6 +24947,7 @@ Szwecja ( Sweden )
       Słowianie połabscy - Dzieje zagłady
       Northmen - The Viking Saga 793-1241
       Bitwy Słowian
+      Æthelred the Unready - The Failed King
 
 Shirvan
   Państwo Szyrwanszachów
@@ -25024,7 +25055,7 @@ Państwo Śungów
                                                         przed 974-983 ( Ota II wg Z.S.A.V.E. )
                                                         przed 974-? ( Ota II wg E.P. )
                                                         przed 982-? (?.6.-?) ( Otton II wg Z.N.E. )
-                                                        ?-983 ( wg S.P.D.Z. )
+                                                        ?-983 ( wg S.P.D.Z. ) ( wg Æ.T.U.T.F.K. )
                                                         973-983 (?-?.12.) ( Otton II wg H.W. )
                                                         przed 975-po 982 ( Otto wg N.T.V.S. )
                                                         przed 974-po 983 (13.8.-?) ( Otton II wg B.S. )
@@ -25286,6 +25317,7 @@ Państwo Śungów
       Bitwy Słowian
       Tamerlane - Sword of Islam, Conqueror of the World
       Legnica 1241
+      Æthelred the Unready - The Failed King
 
 Ta Jüe
   Bibliografia :
@@ -27351,6 +27383,7 @@ Werona
 
 Królestwo Wessexu ( Wessex )
   Cedric           	                                    519-534 ( wg V.N.M.S.D. ) ( Cerdric wg Tapsella )
+                                                        ? ( Cerdic wg Æ.T.U.T.F.K. )
   Kenric           	                                    534-560 ( wg V.N.M.S.D. ) ( Cynric wg Tapsella )
   Ceawlin        	                                      560-591 ( wg V.N.M.S.D. )
                             		                        560-593 ( wg D.Ś. i Tapsella )
@@ -27384,9 +27417,11 @@ Królestwo Wessexu ( Wessex )
   Æthelwulf                                             przed 851-po 855 ( wg N.T.V.S. )
   Æthelred                                              przed 868-871 (?-?.4.) ( wg N.T.V.S. )
   Alfred The Great                                      871-899 ( wg V.K.T.H.O.H.E. ) ( Alfred wg N.T.V.S. ) [King of England]
+                                                        871-899 ( Alfred (Alfred 'the Great') wg Æ.T.U.T.F.K. )
   Edward the Elder                                      899-924 ( wg N.T.V.S. ) [King of England]
   Athelstan                                             924-939 ( wg V.K.T.H.O.H.E. ) ( Æthelstan wg N.T.V.S. )
   Edmund                                                939-946 ( wg N.T.V.S. )
+  Edmund 'Ironside'                                     ? ( Edmund wg Æ.T.U.T.F.K. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -27394,6 +27429,7 @@ Królestwo Wessexu ( Wessex )
       Encyklopedie panovníků
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Northmen - The Viking Saga 793-1241
+      Æthelred the Unready - The Failed King
 
 West Ukrainian Socialist Republic
   Bibliografia :
@@ -28497,5 +28533,6 @@ Bibliografia :
     [106] Darwin's Dangerous Idea - Evolution and the Meanings of Life , Daniel C. Dennett , 1995
     [107] Tamerlane - Sword of Islam, Conqueror of the World , Justin Marozzi , 2005
     [108] Legnica 1241 , Jerzy Maroń , 1996
+    [109] Æthelred the Unready - The Failed King , Richard Abels , 2018
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
