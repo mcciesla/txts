@@ -1,9 +1,7 @@
-books - Unpopular Essays - Bertrand Russell
-      - The Demon-Haunted World: Science as a Candle in the Dark - Carl Sagan
-      - Other Minds : The Octopuss and The Evolution of Intelligent Life - Peter Godfrey Smith
+books - The Demon-Haunted World: Science as a Candle in the Dark - Carl Sagan
+      - Darwin among the Machines: The Evolution of Global Intelligence - George Dyson
       - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Dynasties of the World: A Chronological and Genealogical Handbook - John E. Morby
-      - Wiedźmin Tom 1-8 - Andrzej Sapkowski
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Category Theory in Context - Emily Riehl
       - Kronika Slovanu - Helmold z Bosau
@@ -120,6 +118,7 @@ books - Unpopular Essays - Bertrand Russell
                 - Golem XIV
                 - Pokoj na Ziemi
     Thorgal - wszystkie komiksy
+    Wiedźmin Tom 2-8 - Andrzej Sapkowski [Karolina]
 movies - The Act of Killing - Joshua Oppenheimer
        - The Look of Silence - Joshua Oppenheimer
        - Joseph Campbell and the Power of Myth
@@ -128,4 +127,3 @@ movies - The Act of Killing - Joshua Oppenheimer
        - The Dawn Wall - Josh Lowell and Peter Mortimer
        - The Atomic Cafe
        - Free Solo
-       - The Dawn Wall
