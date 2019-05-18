@@ -18,6 +18,7 @@ books - Unpopular Essays - Bertrand Russell
       - Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian, Tom Griffiths
       - Hermann Buhl Climbing Without Compromise - Reinhold Messner, Horst Hofler
       - Dejiny Sasu - Widukind z Corvey
+      - Notatki z podziemia - Fiodor Dostojewski
       - Type-driven Development with Idris - Edwin Brady
       - Category Theory for Programmers - Bartosz Milewski
       - Causality: Models, Reasoning, and Inference - Judea Pearl
