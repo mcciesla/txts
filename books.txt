@@ -118,6 +118,7 @@ FIZYKA:
 HISTORIA:
     A short account of the Destruction of the Indies ; Bartolome de las Casas
     Indiański Napoleon Gór Skalistych ; Arkady Fiedler , Marek Fiedler
+    Litwa - Początki Państw ; Jarosław Nikodem
     Monte Cassino ; Melchior Wańkowicz
     Objavovanie Ameriky ; Nicholas Hordern , Simon Dresner , Martin Hillman
     Ród Indian Algonkinów ; Arkady Fiedler , Marek Fiedler
@@ -165,6 +166,8 @@ SCIENCE :
           The D Programming Language ; Andrei Alexandrescu
         Hry s počítačem ; Stanislav Vejmola
         Principy počítačů ; Václav Jirovský
+    HISTORIA:
+        Litwa - Początki Państw ; Jarosław Nikodem
     MATEMATYKA:
         LOGIKA:
             Logika a logiky ; Jaroslav Peregrin
