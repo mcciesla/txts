@@ -942,6 +942,7 @@ Anglia ( England , Anglie )
 			     	                                            przed 1513-po 1523 ( wg M.Ś. )
                                                         przed 1536-po 1541 ( Jindřich VIII wg Ř.S.J.Ď.S. ) ( Henry VIII wg V.K.T.H.O.H.E. )
                                                         przed 1509-po 1523 (?-29.7.) ( wg H.W. )
+                                                        przed 1526-? (?.5.-?) ( wg S.II.W.I.J.C.Z.E.M.P. )
       Edward VI           	                            1547-1553 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
       Jane                      	                      1553 ( wg D.Ś. )
       Maria I                 	                        1553-1558 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
@@ -1100,6 +1101,7 @@ Anglia ( England , Anglie )
       Tamerlane - Sword of Islam, Conqueror of the World
       Æthelred the Unready - The Failed King
       Litwa - Początki Państw
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Anglowie ( Angles )
   Bibliografia :
@@ -2326,7 +2328,7 @@ Austria ( Rakousko )
                                                         przed 1225-1230 ( Leopold VI (Leopold IV) wg F.H.C.R. )
     Fryderyk II Bitny       	                          1230-1246 ( wg D.Ś. i V.N.M.S.D. )
                                                         przed 1236-1246 (?.5.-15.6.) ( Fryderyk Waleczny (Fryderyk Austriacki, Fryderyk II Waleczny) wg F.H.C.R. )
-    Dynastia habsburska ( House of Habsburg )
+    Dynastia habsburska ( House of Habsburg , Habsburgowie )
       Rudolf I                       	                  1276-1282 ( wg D.Ś. )
       Rudolf II                      	                  1282-1283 ( wg D.Ś. )
       Albrecht I                     	                  1282-1298 ( wg D.Ś. i V.N.M.S.D. )
@@ -2372,10 +2374,13 @@ Austria ( Rakousko )
         Fryderyk V                     	                1424-1493 ( wg D.Ś. )
         Karol II                           	            1564-1590 ( wg D.Ś. )
         Ferdynand III                  	                1590-1619 ( wg D.Ś. )
-      Karol V                    	                      1519-? ( wg M.Ś. )
+      Maksymilian I                                     przed 1515-? ( Maksymilian wg S.II.W.I.J.C.Z.E.M.P. )
+      Karol V                    	                      1519-? ( wg M.Ś. ) [Holy Roman Emperor]
         				                                        przed 1542-? ( Karel V wg V.F.V. )
-      Ferdynand I                 	                    ? ( wg M.Ś. ) ( Ferdynand wg H.W. )
+                                                        ? ( Karol wg S.II.W.I.J.C.Z.E.M.P. )
+      Ferdynand I                 	                    ? ( wg M.Ś. ) ( Ferdynand wg H.W. ) [Holy Roman Emperor]
         				                                        1521-1564 (?-25.7.) ( Ferdinand I Habsburský wg E.P. )
+                                                        przed 1526/7-? ( Ferdynand Habsburg (Ferdynand) wg S.II.W.I.J.C.Z.E.M.P. )
       Ferdynand II             	                        1619-1637 ( wg M.Ś. )
                                                         przed 1619-? ( Ferdynand III Habsburg (Ferdynand, Ferdynand III) wg H.W. )
       Leopold I                   	                    przed 1683-po 1685 ( wg M.Ś. )
@@ -2416,6 +2421,7 @@ Austria ( Rakousko )
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 County of Autun
   Richard The Justiciar                                 ? [Duke of Burgundy]
@@ -3852,6 +3858,7 @@ Brandenburgia ( Brandenburg )
                                                         1491-1535 ( wg V.K.T.H.O.H.E. )
       Jan                                              	1535-1571 ( wg D.Ś. )
       Joachim II Hektor                           	    1535-1571 ( wg V.N.M.S.D. i D.Ś. ) ( Joachim II Hector wg V.K.T.H.O.H.E. )
+                                                        przed 1542-po 1542 (17.11.-24.11.) ( Joachim Hohenzollern wg S.II.W.I.J.C.Z.E.M.P. )
       Jan Jerzy                                       	1571-1598 ( wg V.N.M.S.D. i D.Ś. ) ( Johann Georg wg V.K.T.H.O.H.E. )
       Joachim Fryderyk                           	      1598-1608 ( wg V.N.M.S.D. i D.Ś. ) ( Joachim III Frederick wg V.K.T.H.O.H.E. )
       Jan Zygmunt                                   	  1608-1620 ( wg D.Ś. )
@@ -3874,6 +3881,7 @@ Brandenburgia ( Brandenburg )
       Bitwy Słowian
       Legnica 1241
       Litwa - Początki Państw
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Braniczowcy
 
@@ -4298,22 +4306,22 @@ Księstwo Burgundii ( Duchy of Burgundy )
                                                         923-952 ( Hugh The Black wg V.K.T.H.O.H.E. )
     Gilbert z Chalon	                                  952-956 ( wg D.Ś. ) ( Gisilbert wg V.K.T.H.O.H.E. )
   Dynastia Robertyngów
-    Otto                      	                        956-965
-    Henryk Wielki        	                              965-1002
-    Otto Wilhelm          	                            1002-1005
+    Otto                      	                        956-965 ( wg D.Ś. )
+    Henryk Wielki        	                              965-1002 ( wg D.Ś. )
+    Otto Wilhelm          	                            1002-1005 ( wg D.Ś. )
   Dynastia Kapetyngów
     Robert I                	                          1031-1076 ( wg D.Ś. )
                                                         ?-1076 ( Robert Le Vieoux wg V.K.T.H.O.H.E. )
-    Hugo I                  	                          1076-1079
-    Odo I Rudy          	                              1079-1102
-    Hugo II                 	                          1102-1143
-    Odo II                   	                          1143-1162
+    Hugo I                  	                          1076-1079 ( wg D.Ś. )
+    Odo I Rudy          	                              1079-1102 ( wg D.Ś. )
+    Hugo II                 	                          1102-1143 ( wg D.Ś. )
+    Odo II                   	                          1143-1162 ( wg D.Ś. )
     Hugo III                	                          1162-1192 ( wg D.Ś. )
       				                                          ? ( Hugo Burgundský wg F.B.C.A.R. )
-    Odo III                  	                          1192-1218
-    Hugo IV                	                            1218-1272
-    Robert II                	                          1272-1306
-    Hugo V                  	                          1306-1315
+    Odo III                  	                          1192-1218 ( wg D.Ś. )
+    Hugo IV                	                            1218-1272 ( wg D.Ś. )
+    Robert II                	                          1272-1306 ( wg D.Ś. )
+    Hugo V                  	                          1306-1315 ( wg D.Ś. )
     Odo IV                   	                          1315-1349 ( wg D.Ś. )
                                                         ?-1350 ( Odo wg V.K.T.H.O.H.E. )
     Filip z Rouvres	                                    1349-1361 ( wg D.Ś. )
@@ -4324,15 +4332,16 @@ Księstwo Burgundii ( Duchy of Burgundy )
     Jan Nieustraszony   	                              1404-1419 ( wg D.Ś. ) ( John The Fearless (Jean sans Peur, Jan zonder Vrees) wg V.K.T.H.O.H.E. )
     Filip Dobry             	                          1419-1467 ( wg D.Ś. ) ( Philip The Good wg V.K.T.H.O.H.E. )
     Karol Zuchwały      	                              1467-1477 ( wg D.Ś. ) ( Charles The Bold (Charles Le Téméraire, Karel de Stoute) wg V.K.T.H.O.H.E. )
-  Philip The Fair of Habsburg                           ?-1506 ( wg V.K.T.H.O.H.E. )
-  Charles II                                            1506-po 1512 ( Carlos (Charles) wg V.K.T.H.O.H.E. ) [Emperor Charles V]
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
+  Habsburgowie
+    Philip The Fair of Habsburg                         ?-1506 ( wg V.K.T.H.O.H.E. )
+    Charles II                                          1506-po 1512 ( Carlos (Charles) wg V.K.T.H.O.H.E. ) [Holy Roman Emperor Charles V]
+                                                        ? ( Karol wg S.II.W.I.J.C.Z.E.M.P. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
       Fridrich Barbarossa – císař a rytíř
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Królestwo Burgundów ( Burgundians )
   Dynastia Gibichung
@@ -6350,13 +6359,15 @@ Czechy
       Władysław II        	                            1471-1516 ( wg D.Ś. i V.N.M.S.D. ) ( Vladislav II wg D.P.I.R.G. i Z.S.A.V.E. ) [King of Hungary]
                                                         ?-1516 ( wg V.K.T.H.O.H.E. )
                                                         przed 1485-? ( wg P.N.D. )
+                                                        przed 1490-1506 ( Władysław Jagielończyk (Władysław) wg S.II.W.I.J.C.Z.E.M.P. )
       Ludwik                 	                          1516-1526 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík wg Z.S.A.V.E. ) ( Louis II wg V.K.T.H.O.H.E. ) [King of Hungary]
                                                      	  1516-1526 ( ?-29.8. ) ( Ludvík wg D.P.I.R.G. )
       			         	                                  ?-1526 ( ?-29.8. ) ( wg 100.N.V.S. )
-    Dynastia habsburska
-      Ferdynand I                        	              1526-1564 ( wg D.Ś. )
+    Dynastia habsburska ( Habsburgowie )
+      Ferdynand I                        	              1526-1564 ( wg D.Ś. ) [Holy Roman Emperor]
       				     	                                    1526-1564 ( ?.10.-? ) ( Ferdinand I wg D.P.I.R.G. )
       					                                        1526-1564 ( ?-25.7. ) ( Ferdinand I Habsburský wg E.P. )
+                                                        przed 1527-? (?.7.-?) ( Ferdynand Habsburg (Ferdynand) )
       Ferdinand V(I)		                                1836-? ( 7.9.-? ) ( wg E.P. )
   Republika Czeska ( Czech Republic )
     Václav Havel       	                                1993-? ( wg V.N.M.S.D. )
@@ -6382,6 +6393,7 @@ Czechy
       Legnica 1241
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
       Litwa - Początki Państw
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Królestwo Czedi
   Bibliografia :
@@ -6654,6 +6666,7 @@ Damaszek ( Damašek )
       Al-Mu'azzam                                       przed 1225-1227 (?-11.11.) ( wg F.H.C.R. )
       An-Nasir Dawud                                    przed 1228-po 1229 (?-18.3.) ( An-Nasir wg F.H.C.R. )
       As-Salih Ismail                                   przed 1244-? ( wg F.H.C.R. )
+  Dżanberdi Gazâlî                                      ? ( Dżanberdi wg S.II.W.I.J.C.Z.E.M.P. )
   Bibliografia :
       Křížové výpravy
       Starożytny Bliski Wschód
@@ -6664,6 +6677,7 @@ Damaszek ( Damašek )
       Dějiny Byzance
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Damnonia (Damnonii)
   Bibliografia :
@@ -7258,6 +7272,10 @@ Królestwo Dublinu
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Njal's Saga
       Northmen - The Viking Saga 793-1241
+
+Republika Dubrownicka
+  Bibliografia :
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Księstwo Duklja ( Diokleia )
   Stefan Vojislav                                       ?
@@ -8578,7 +8596,7 @@ Esznunna ( Ešnunna )
       Huryci
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
-Etiopia ( Ethiopia )
+Etiopia ( Ethiopia , Abisynia )
   Aso			                                              ? ( wg M.P.C.Ś. )
   Dynastia salomońska
     Jykuno ´Amlak        	                              1270-1285
@@ -9063,6 +9081,7 @@ Francja ( France , Francie )
                                                         ? ( wg P.J.D.)
                                                         przed 1534-po 1539 ( wg Ř.S.J.Ď.S. )
                                                         1515-po 1529 (przed 4.10.-?.8.) ( Franciszek I Walezjusz (Walezjusz, Franciszek) wg H.W. )
+                                                        przed 1534-po 1544 ( wg S.II.W.I.J.C.Z.E.M.P. )
         Henryk II              	                        1547-1559 ( wg D.Ś. , V.N.M.S.D. i Tapsella i M.Ś. )
   				                                              przed 1559-? ( wg B.M. )
   				                                              przed 1552-? ( Jindřich II wg V.F.V. )
@@ -9125,7 +9144,7 @@ Francja ( France , Francie )
 			    	                                            ?-1814 ( wg 100.N.U.W. )
 			    	                                            przed 1805-? ( Napoleon Bonaparte wg B.M. )
 			    	                                            przed 1798-1814 i 1815 ( wg M.Ś. )
-			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. )
+			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. i S.II.W.I.J.C.Z.E.M.P. )
 				                                                przed 1812-? ( Napoleon Bonaparte wg B.O.R.H. )
 				                                                przed 1815-? ( Napoleon wg G.T.G. )
                                                         1805-1814 i 1815 (?-11.4. i ?-?.6.) ( Napoleon wg V.K.T.H.O.H.E. )
@@ -9170,9 +9189,11 @@ Francja ( France , Francie )
                                                         przed 1918-? (24.11.-?) ( Poincaré wg V.K.T.H.O.H.E. )
                                                         1913-1920 ( Rajmund Poincaré wg P.N.D. )
   Alexandre Millerand	                                  przed 1921-? ( wg B.O.R.H. )
-  Charles de Gaulle     	                              ? ( wg O.L. i M.Ś. ) ( Charles André de Gaulle (de Gaulle) wg T.R.L.Z.S.L.R.S.B. )
-  François Maurice Mitterrand                           ? ( Mitterand wg T.R.L.Z.S.L.R.S.B. )
-  Jacques Chirac                                        ? ( wg T.R.L.Z.S.L.R.S.B. )
+  presidents
+    Charles de Gaulle     	                            ? ( wg O.L. i M.Ś. ) ( Charles André de Gaulle (de Gaulle) wg T.R.L.Z.S.L.R.S.B. )
+    François Maurice Mitterrand                         przed 1990-? (13.2.-?) ( François Mitterand wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        ? ( Mitterand wg T.R.L.Z.S.L.R.S.B. )
+    Jacques Chirac                                      ? ( wg T.R.L.Z.S.L.R.S.B. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -9223,6 +9244,7 @@ Francja ( France , Francie )
       Legnica 1241
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
       Litwa - Początki Państw
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Wielkie Księstwo Frankfurtu
   Karol Teodor Dalberg                                  1810-1813
@@ -9784,7 +9806,7 @@ Götar ( Geats )
   Bibliografia :
       Northmen - The Viking Saga 793-1241
 
-Królestwo Granady ( Ta´ifa Granada , Sułtanat Granady )
+Królestwo Granady ( Ta´ifa Granada , Sułtanat Granady , Grenada )
   Ziriovci
   Dynastia Nasrydów
     Muhammad I       	                                  1232-1273
@@ -10694,9 +10716,9 @@ Histiaja
 
 Hiszpania ( Spain )
   Królestwo Hiszpanii
-    Dynastia habsburska
-      Karol I      	                                    1516-1556 ( wg D.Ś. , V.N.M.S.D. i D.Ř.I. I M.Ś. ) ( Carlos I wg M.A.E. ) [Emperor Charles V]
-      			                                            ? ( V wg 100.N.V.S. i wg O.A. )
+    Dynastia habsburska ( Habsburgowie )
+      Karol I      	                                    1516-1556 ( wg D.Ś. , V.N.M.S.D. i D.Ř.I. I M.Ś. ) ( Carlos I wg M.A.E. ) [Holy Roman Emperor Charles V]
+      			                                            ? ( V wg 100.N.V.S. i wg O.A. ) ( Karol wg S.II.W.I.J.C.Z.E.M.P. )
                                                         1516-1556/8 ( Charles of Ghent (Charles V) wg V.K.T.H.O.H.E. )
                                                         przed 1526-po 1551 ( Carlos ( Karel V ) wg Ř.S.J.Ď.S. )
       		         	                                    1516-? ( Karel Habsburský wg D.P.I.R.G. )
@@ -10709,6 +10731,7 @@ Hiszpania ( Spain )
                                                         ok.1550 ( wg Z.N.E. )
                                                         przed 1565-po 1586 ( wg Ř.S.J.Ď.S. )
                                                         przed 1557-1598 (?-?.9.) ( Filip (Filip Hiszpański) wg H.W. )
+                                                        przed 1565-? (8.9.-?) ( wg S.II.W.I.J.C.Z.E.M.P. )
       Filip III       	                                1598-1621 ( wg D.Ś. , V.N.M.S.D. i D.Ř.I. ) ( Philip III (Felipe III) wg V.K.T.H.O.H.E. )
       		          	                                  przed 1609-? ( wg M.A.E. )
       		      	                                      ? ( wg M.Ś. i H.W. )
@@ -10775,6 +10798,7 @@ Hiszpania ( Spain )
       Zapomianie narody Europy
       Přemožitel neviditelných dravců
       Historia Wenecji
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Księstwo Hobolinu
   Wirykind                                              ok.1100 n.e.
@@ -12314,6 +12338,7 @@ Kaledończycy ( Caledonians )
 Kalifat ( Caliphate )
   Mohamed	                                              622-632 ( wg D.B. )
                                                         ?-632 ( Muhammad wg Ř.S.J.Ď.S. ) ( Mohammed wg T.S.O.I.C.O.T.W. )
+                                                        ? ( Muhammad (Mahomet) wg S.II.W.I.J.C.Z.E.M.P. )
   Kalifowie prawowierni
     Abu Bakr      	                                    632-634 ( wg D.Ś. i V.N.M.S.D. ) ( Abú Bakr wg D.B. )
                                          	              632-634 ( 13.5.-23.8. ) ( as-Siddik wg R.Z.A.D.D. )
@@ -12477,6 +12502,7 @@ Kalifat ( Caliphate )
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
       Tamerlane - Sword of Islam, Conqueror of the World
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Kalindoja
   Bibliografia :
@@ -13393,10 +13419,12 @@ Kluzjum ( Clusium )
   Porsenna              	                              przed 508-po 505 ( wg K.R.I.C.R. )
       				                                          przed 508-? ( wg E.P. )
       				                                          ? ( wg Z.V.C. ) ( Lars Porsenna wg Z.Ř. )
+                                                        przed 507-? ( wg S.II.W.I.J.C.Z.E.M.P. )
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
       Encyklopedie panovníků
       Zdraví Vás Caesar
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Knidos
   Bibliografia :
@@ -14177,12 +14205,15 @@ Kościół
                                                         przed 1504-1513 (22.9.-21.2.) ( Juliusz (Il Veneziano) wg H.W. )
     Leon X ( Giovanni de´ Medici )                      1513-1522 ( wg V.N.M.S.D. i Tapsella )
                                                         1513-1521 (?-1.12.) ( Giovanni de'Medici wg H.W. )
+                                                        przed 1514-? ( wg S.II.W.I.J.C.Z.E.M.P. )
     Hadrian VI ( Hadrian Florensz )                   	1522-1523 ( wg V.N.M.S.D. i Tapsella )
       						    	                                ? ( Adrian z Utrechtu wg M.A.E. )
                                                         przed 1522-1523 ( Adrian z Utrechtu wg H.W. )
+                                                        przed 1523-? (3.3.-?) ( wg S.II.W.I.J.C.Z.E.M.P. )
     Klement VII ( Giulio de´ Medici )                  	1523-1534 ( wg Tapsella i V.N.M.S.D. )
                                                         przed 1529-? ( wg Ř.S.J.Ď.S. )
                                                         1523-po 1530 (?.11.-24.2.) ( Giulio de'Medici (Klemens VII, Klemens) wg H.W. )
+                                                        przed 1526-? (?.5.-?) ( Klemens VII wg S.II.W.I.J.C.Z.E.M.P. )
     Paweł III ( Alessandro Farnese )                   	1534-1549 ( wg V.N.M.S.D. )
                                                       	1534-1550 ( wg Tapsella )
                                                         ? ( wg H.W. )
@@ -14313,6 +14344,7 @@ Kościół
       Legnica 1241
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
       Litwa - Początki Państw
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Kotyora
   Bibliografia :
@@ -14358,8 +14390,10 @@ Kroton
       Dzieje Grecji
 
 Chanat Krymski ( Khanate of Crimea )
+  Mengli Giraj                                          ? ( Girej wg S.II.W.I.J.C.Z.E.M.P. )
+  Dewlet Girej                                          przed 1562-po 1564 ( wg S.II.W.I.J.C.Z.E.M.P. )
   Bibliografia :
-      Vanished Kingdoms - The History of Half-Forgotten Europe
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Zakon Krzyżacki ( Teutonic Order, Teutonic Knights, State of Teutonic Order, Ordensstaat, Order of The Brothers of The Teutonic House of The Virgin Mary in Jerusalem , Zakon Najświętszej Maryi Panny Domu Jerozolimskiego , Krzyżowcy , Państwo Zakonu Krzyżackiego , Zakon Szpitala Najświętszej Marii Panny Domu Niemieckiego , Krzyżacy )
   Henryk Walpot                               	        1198-1208 ( 5.3.-5.11. ) ( wg P.W.M.K. )
@@ -15260,13 +15294,16 @@ Litwa ( Litva , Lithuania )
                                                         1401-1430 ( wg V.K.T.H.O.H.E. )
                                                         ok.1350 ( Witold wg Z.N.E. )
                                                         przed 1412-? ( Witold (Witold Kiejstutowicz, Witold Aleksander) wg L.P.P. )
+                                                        przed 1414-? ( Witold wg S.II.W.I.J.C.Z.E.M.P. )
       Świdrygiełło ( Švitrigaila )   	                  1430-1432 ( wg D.Ś. ) ( Svidrigaila wg V.K.T.H.O.H.E. )
       Zygmunt                              	            1432-1440 ( wg V.K.T.H.O.H.E. i D.Ś. )
       Kazimierz                            	            1440-1492 ( wg D.Ś. ) ( Kazimierz III Jagiellończyk (Casimir IV Jagiellon, Casimir Jagiellończyk) wg V.K.T.H.O.H.E. ) [King of Poland]
                                                         ? ( Kazimierz Jagiellończyk wg L.P.P. )
       Aleksander                         	              1492-1506 ( wg D.Ś. ) ( Alexander wg V.K.T.H.O.H.E. ) [King of Poland]
-    Zygmunt I Stary ( Sigismund The Elder )             1506-1548 ( wg V.K.T.H.O.H.E. ) [King of Poland]
-    Zygmunt II August ( Sigismund-Augustus )            1548-1572 (?-7.7.) ( Zygmunt August wg V.K.T.H.O.H.E. ) [King of Poland]
+    Jagiellonowie
+      Zygmunt I Stary ( Sigismund The Elder )           1506-1548 ( wg V.K.T.H.O.H.E. ) [King of Poland]
+                                                        przed 1509-po 1542 (7.10.-?) ( Zygmunt I (Zygmunt, Zigsmund, I. Sigismund) wg S.II.W.I.J.C.Z.E.M.P. )
+      Zygmunt II August ( Sigismund-Augustus )          1548-1572 (?-7.7.) ( Zygmunt August wg V.K.T.H.O.H.E. ) [King of Poland]
     Henryk Walezy ( Henri de Valois )                   1573-1574 ( wg V.K.T.H.O.H.E. ) [King of Poland]
     Stefan Batory ( Istvan Bathory )                    1575/6-1586 ( Stephen Bathory wg V.K.T.H.O.H.E. ) [King of Poland]
     Zygmunt III Waza ( Sigismund Vasa )                 1587-1632 ( Sigismund III Vasa wg V.K.T.H.O.H.E. ) [King of Poland]
@@ -17288,12 +17325,20 @@ Moin-Wenedi
 
 Mołdawia
   Vojvodství Moldavské
-    Dragoš			                                        ?
-    Alexandr Dobrý		                                  ?
-    Štěpán Velký		                                    ?
-    Petr Rareš		                                      ?
+    Dragoš			                                        ? ( wg K.H. )
+    Alexandr Dobrý		                                  ? ( wg K.H. )
+    Piotr Aron                                          przed 1456 n.e.-? (29.6.-?) ( Piotr wg S.II.W.I.J.C.Z.E.M.P. )
+    Stefan IV Wielki                                    1457-po 1484 ( Stefan Wielki wg S.II.W.I.J.C.Z.E.M.P. )
+    		                                                ? ( Štěpán Velký wg K.H. )
+    Piotr IV		                                        przed 1528-po 1538 i ? (?.5.-?.1. i ?) ( Piotr Raresz wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        ? ( Petr Rareš wg K.H. )
+    Stefan VI                                           ?-1540 ( Stefan (Szarańcza) wg S.II.W.I.J.C.Z.E.M.P. )
+    Aleksander Lapusneanu                               1552-po 1553 (?-1.6.) ( wg S.II.W.I.J.C.Z.E.M.P. )
+    Stefan Tomża                                        przed 1563-? ( wg S.II.W.I.J.C.Z.E.M.P. )
+    Jan III                                             ? ( wg S.II.W.I.J.C.Z.E.M.P. )
   Bibliografia :
       Karpatské hry
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Molossis
   Bibliografia :
@@ -18920,6 +18965,8 @@ Obodrzyce ( Obodrzyci , Abodriti , Abodriten , Obodryci , Związek Obodrycki , A
       Bitwy Słowian
 
 Królestwo Obojga Sycylii ( Kingdom of The Two Sicilies )
+  Habsburgowie
+    Karol                                               ? ( wg S.II.W.I.J.C.Z.E.M.P. ) [Holy Roman Emperor Charles V]
   Dynastia burbońska
     Ferdynand I           	                            1816-1825 ( wg D.Ś. ) ( Ferdinando I wg V.K.T.H.O.H.E. )
     Franciszek I           	                            1825-1830 ( wg D.Ś. i V.N.M.S.D. ) ( Francesco I wg V.K.T.H.O.H.E. )
@@ -18933,6 +18980,7 @@ Królestwo Obojga Sycylii ( Kingdom of The Two Sicilies )
       Velká nástěnná mapa světových dějin
       100 nejvlivnějších vojevůdců světa
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Księstwo Oboleńskie
   Bibliografia :
@@ -19191,90 +19239,108 @@ Osagowie
   Bibliografia :
       Czarne wampuny głoszą wojnę
 
-Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát , Sułtanat Osmański , Imperium Osmańskie , Ottoman Sultanate )
-  Dynastia Osmanli
-    Osman I                          	                  1280-1324 ( wg D.Ś. )
+Osmanowie ( Devlet-i âl-i Osman )
+  Sulejman                                              przed 1227 n.e.-? ( wg S.II.W.I.J.C.Z.E.M.P. )
+  Ertogrul                                              ? ( wg S.II.W.I.J.C.Z.E.M.P. )
+  Osman                                                 przed 1291-1299 ( Osman wg S.II.W.I.J.C.Z.E.M.P. )
+  Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát , Sułtanat Osmański , Imperium Osmańskie , Ottoman Sultanate , Porta Ottomańska , Porta Otomańska , Wysoka Porta , Państwo Osmana , Porta )
+    Dynastia Osmanli ( Osmanowie )
+      Osman I                          	                1280-1324 ( wg D.Ś. )
                                                         1281-1326 ( wg V.N.M.S.D. i D.B. )
-    Orhan                              	                1324-1362 ( wg D.Ś. )
-                                                        1326-1360 ( wg V.N.M.S.D. )
+                                                        1299-1326 ( Osman wg S.II.W.I.J.C.Z.E.M.P. )
+      Orhan                              	              1324-1362 ( wg D.Ś. )
+                                                        1326-1360 ( wg V.N.M.S.D. ) ( Orhan I wg S.II.W.I.J.C.Z.E.M.P. )
       			            	                              1326-1359 ( Orchan wg D.B. )
                                                         ? ( wg H.W. )
-    Murad I                           	                1362-1389 ( wg D.Ś. )
-                                                        1360-1389 ( wg V.N.M.S.D. )
+      Murad I                           	              1362-1389 ( wg D.Ś. )
+                                                        1360-1389 ( wg V.N.M.S.D. ) ( Murat I (Murat) wg S.II.W.I.J.C.Z.E.M.P. )
       			            	                              1359-1389 ( wg D.B. )
                                                         przed 1373-? ( Murad wg H.W. )
                                                         przed 1389-? ( Murad wg T.S.O.I.C.O.T.W. )
-    Bayezid I Błyskawica     	                          1389-1402 ( wg D.Ś. ) ( Bajezid I wg D.B. ) ( Bajezíd I Blesk wg E.P. )
+      Bayezid I Błyskawica     	                        1389-1402 ( wg D.Ś. ) ( Bajezid I wg D.B. i S.II.W.I.J.C.Z.E.M.P. ) ( Bajezíd I Blesk wg E.P. )
                                                         1389-1403 ( wg V.N.M.S.D. )
       			            	                              ok.1402 ( wg 100.N.V.S. )
                                                         przed 1396-? (28.9.-?) ( Bajazyt I Błyskawica (Bajazyt I Yıldırun) wg H.W. )
                                                         przed 1396-po 1402 (?-28.7.) ( Bayazid I (Bajazeth, Bayazid, Ibn Othman, Bayazid Yilderim, Bayazid Thunderbolt, Bayazid Lightning) wg T.S.O.I.C.O.T.W. )
-    Isa                                    	            1402-1403 ( wg D.Ś. )
+      Isa                                    	          1402-1403 ( wg D.Ś. )
                                                         ? ( Isa Chelebi wg T.S.O.I.C.O.T.W. )
-    Süleyman                         	                  1402-1411 ( wg D.Ś. )
+      Süleyman                         	                1402-1411 ( wg D.Ś. )
                                                         1403-1413 ( wg V.N.M.S.D. )
                                                         ? ( Sulayman Chelebi wg T.S.O.I.C.O.T.W. )
-    Musa                                	              1409-1413 ( wg D.Ś. )
-    Mehmed I Čelebi             	                      1413-1421 ( wg D.Ś. i V.N.M.S.D. i D.B. )
+                                                        1403-1409 ( Sulejman Czelebi wg S.II.W.I.J.C.Z.E.M.P. )
+      Musa                                	            1409-1413 ( wg D.Ś. )
+      Mehmed I Čelebi             	                    1413-1421 ( wg D.Ś. i V.N.M.S.D. i D.B. )
                                                         przed 1413-po 1417 ( Mehmed I wg H.W. )
-                                                        ? ( Mohammed I wg T.S.O.I.C.O.T.W. )
-    Murad II                           	                1421-1444 i 1446-1451( wg D.Ś. )
+                                                        ? ( Mohammed I wg T.S.O.I.C.O.T.W. ) ( Mehmed I Czelebi (Mehmed) wg S.II.W.I.J.C.Z.E.M.P. )
+      Murad II                           	              1421-1444 i 1446-1451( wg D.Ś. )
                                                         1421-1451 ( wg V.N.M.S.D. )
       			             	                              1422-1451 ( wg D.B. )
-    Mehmed II Zdobywca      	                          1444-1446 i 1451-1481 ( wg D.Ś. )
+                                                        przed 1438-po 1441 ( Murat II wg S.II.W.I.J.C.Z.E.M.P. )
+      Mehmed II Zdobywca      	                        1444-1446 i 1451-1481 ( wg D.Ś. )
                                                         1451-1481 ( wg V.N.M.S.D. ) ( Mehmed II Dobyvatel wg D.B. )
                                                         ok.1453 ( wg K.V. )
       					                                        przed 1453-? ( wg M.Ś. ) ( Mehmet wg Ř.S.J.Ď.S. ) ( Mehmed The Conqueror wg V.K.T.H.O.H.E. )
                                                         1451-1481 (?-3.5.) ( Mehmed II (Mehmed, Mehmed Zdobywca) wg H.W. )
-    Bayezid II                         	                1481-1512 ( wg D.Ś. i V.N.M.S.D. )
+                                                        przed 1453-po 1456 (29.5.-?) ( Mehmed II (Mehmed, Mehmed Zdobywca, Mehmed II Zwycięzca, Mehmed II Fatih) wg S.II.W.I.J.C.Z.E.M.P. )
+      Bayezid II                         	              1481-1512 ( wg D.Ś. i V.N.M.S.D. )
       			              	                            ?-1512 ( wg 100.N.V.S. )
                                                         przed 1487-1512 ( Bajazyt II (Bajazyt) wg H.W. )
-    Selim I Groźny                 	                    1512-1520 ( wg D.Ś. i V.N.M.S.D. )
-                                                        1512-1520 ( ?-?.9. ) ( wg 100.N.V.S. )
+                                                        1481-1512 (?-24.4.) ( Bajezid II (Bajezid, Bajezid II Veli) wg S.II.W.I.J.C.Z.E.M.P. )
+      Selim I Groźny                 	                  1512-1520 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1512-1520 (?-?.9.) ( wg 100.N.V.S. )
                                                         1512-? ( Selim Groźny wg H.W. )
                                                         przed 1517-? ( Selim I wg T.S.O.I.C.O.T.W. )
-    Süleyman I Wspaniały     	                          1520-1566 ( wg D.Ś. i V.N.M.S.D. i M.Ś. )
+                                                        1512-1520 (24.4.-21.9.) ( Selim (Selim Jawuz, Selim I Srogi, Selim Groźny, Groźny, Selim Surowy) wg S.II.W.I.J.C.Z.E.M.P. )
+      Süleyman I Wspaniały     	                        1520-1566 ( wg D.Ś. i V.N.M.S.D. i M.Ś. )
                                                         1520-1566 ( ?-5.9. ) ( wg 100.N.V.S. )
       			              	                            przed 1540-? ( Sulejman II wg D.P.I.R.G. )
                                                         przed 1521-po 1565 (?-?.5.) ( Sulejman Wspaniały (Sulejman) wg H.W. )
-    Selim II Pijak                    	                1566-1574 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1520-1566 (30.9.-5./6./7.9.) ( Sulejman II Wspaniały (Sulejman II, Sulejman Wspaniały, Sulejman, Kanuni, Soliman, Süleyman, Sulejman II Wielki, Suliman, Prawodawca, Süleyman the Magnificent, Sleyman the Magnificent, Soliman Wspaniały, Kanuni Sułtan Sulejman, Kanunî Sultan Süleyman, Muhteşem, Soliman Segond, Solimano Secondo, Suleyman Magnificent, II Soliman, Solimano, Soliman Secondo, Sulejman Kanuni) wg S.II.W.I.J.C.Z.E.M.P. )
+      Selim II Pijak                    	              1566-1574 ( wg D.Ś. i V.N.M.S.D. )
                                                         przed 1567-? (?.11.-?) ( Selim II (Pijak) wg H.W. )
-    Murad III                           	              1574-1595 ( wg V.N.M.S.D. i D.Ś. )
+                                                        1566-1574 ( Selim II (Mest, Selim II Mest, Selim, Sary, Żółty) wg S.II.W.I.J.C.Z.E.M.P. )
+      Murad III                           	            1574-1595 ( wg V.N.M.S.D. i D.Ś. i S.II.W.I.J.C.Z.E.M.P. )
       				                                          ok.1585 ( wg A. )
-    Mehmed III                        	                1595-1603 ( wg D.Ś. i V.N.M.S.D. )
-    Ahmed I                             	              1603-1617 ( wg D.Ś. i V.N.M.S.D. )
+      Mehmed III                        	              1595-1603 ( wg D.Ś. i V.N.M.S.D. )
+      Ahmed I                             	            1603-1617 ( wg D.Ś. i V.N.M.S.D. )
       					                                        przed 1606-? ( wg E.P. )
-    Mustafa I                            	              1617-1618 i 1622-1623 ( wg D.Ś. )
-    Osman II                             	              1618-1622 ( wg D.Ś. )
+      Mustafa I                            	            1617-1618 i 1622-1623 ( wg D.Ś. )
+      Osman II                             	            1618-1622 ( wg D.Ś. )
                                                         1617-1625 ( wg V.N.M.S.D. )
-    Murad IV                            	              1623-1640 ( wg D.Ś. )
+                                                        ? ( wg S.II.W.I.J.C.Z.E.M.P. )
+      Murad IV                            	            1623-1640 ( wg D.Ś. )
                                                         1625-1640 ( wg V.N.M.S.D. )
-    Ibrahim                               	            1640-1648 ( wg D.Ś. i V.N.M.S.D. i H.W. )
-    Mehmed IV                        	                  1648-1687 ( wg D.Ś. i V.N.M.S.D. )
-    Süleyman II                                         1687-1691 ( wg D.Ś. i V.N.M.S.D. )
-    Ahmed II                             	              1691-1695 ( wg D.Ś. i V.N.M.S.D. )
-    Mustafa II                            	            1695-1703 ( wg D.Ś. i V.N.M.S.D. )
-    Ahmed III                            	              1703-1730 ( wg D.Ś. i V.N.M.S.D. )
+      Ibrahim                               	          1640-1648 ( wg D.Ś. i V.N.M.S.D. i H.W. )
+                                                        ? ( Ibrahim I (Ibrahim I Deli, Ibrahim I Idiot, Ibrahim I Wariat) wg S.II.W.I.J.C.Z.E.M.P. )
+      Mehmed IV                        	                1648-1687 ( wg D.Ś. i V.N.M.S.D. )
+      Süleyman II                                       1687-1691 ( wg D.Ś. i V.N.M.S.D. )
+                                                        ? ( Sulejman III wg S.II.W.I.J.C.Z.E.M.P. )
+      Ahmed II                             	            1691-1695 ( wg D.Ś. i V.N.M.S.D. )
+                                                        ? ( wg S.II.W.I.J.C.Z.E.M.P. )
+      Mustafa II                            	          1695-1703 ( wg D.Ś. i V.N.M.S.D. )
+      Ahmed III                            	            1703-1730 ( wg D.Ś. i V.N.M.S.D. )
                                                         przed 1714-? (?.12.-?) ( wg H.W. )
-    Mahmud I                            	              1730-1754 ( wg D.Ś. i V.N.M.S.D. )
-    Osman III                             	            1754-1757 ( wg D.Ś. i V.N.M.S.D. )
-    Mustafa III                            	            1757-1774 ( wg D.Ś. i V.N.M.S.D. )
-    Abdülhamid I                        	              1774-1789 ( wg D.Ś. i V.N.M.S.D. )
-    Selim III                                	          1789-1807 ( wg D.Ś. )
+      Mahmud I                            	            1730-1754 ( wg D.Ś. i V.N.M.S.D. )
+      Osman III                             	          1754-1757 ( wg D.Ś. i V.N.M.S.D. )
+      Mustafa III                            	          1757-1774 ( wg D.Ś. i V.N.M.S.D. )
+      Abdülhamid I                        	            1774-1789 ( wg D.Ś. i V.N.M.S.D. )
+      Selim III                                	        1789-1807 ( wg D.Ś. i S.II.W.I.J.C.Z.E.M.P. )
                                                         1789-1808 ( wg V.N.M.S.D. )
-    Mustafa IV                            	            1807-1808 ( wg D.Ś. )
-    Mahmud II                            	              1808-1839 ( wg D.Ś. i V.N.M.S.D. )
+      Mustafa IV                            	          1807-1808 ( wg D.Ś. )
+      Mahmud II                            	            1808-1839 ( wg D.Ś. i V.N.M.S.D. i S.II.W.I.J.C.Z.E.M.P. )
       				    	                                    ok.1835 ( wg 100.N.V.S. )
-    Abdülmecid I                        	              1839-1861 ( wg D.Ś. i V.N.M.S.D. )
-    Abdülaziz                              	            1861-1876 ( wg D.Ś. i V.N.M.S.D. )
-    Murad V                                	            1876 ( wg D.Ś. )
-    Abdülhamid II                       	              1876-1909 ( wg D.Ś. i V.N.M.S.D. )
+      Abdülmecid I                        	            1839-1861 ( wg D.Ś. i V.N.M.S.D. )
+                                                        ? ( Abdülmedżid wg S.II.W.I.J.C.Z.E.M.P. )
+      Abdülaziz                              	          1861-1876 ( wg D.Ś. i V.N.M.S.D. )
+      Murad V                                	          1876 ( wg D.Ś. )
+      Abdülhamid II                       	            1876-1909 ( wg D.Ś. i V.N.M.S.D. )
       					                                        ? ( wg M.P.M. ) ( Abd' ul Hámid II. wg P.N.D.)
-    Mehmed V Resad                  	                  1909-1918 ( wg D.Ś. )
+                                                        przed 1883-? ( Krwawy Sułtan wg S.II.W.I.J.C.Z.E.M.P. )
+      Mehmed V Resad                  	                1909-1918 ( wg D.Ś. )
                                                         1909-1920 ( wg V.N.M.S.D. )
-    Mehmed VI Wahidüddin	                              1918-1922 ( wg D.Ś. )
+      Mehmed VI Wahidüddin	                            1918-1922 ( wg D.Ś. )
                                                         1920-1922 ( wg V.N.M.S.D. )
-    Abdülmecid II                        	              1922-1924 ( wg D.Ś. )
+      Abdülmecid II                        	            1922-1924 ( wg D.Ś. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -19290,6 +19356,7 @@ Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát , Su�
       Přemožitel neviditelných dravců
       Historia Wenecji
       Tamerlane - Sword of Islam, Conqueror of the World
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Osroene
   Partamaspates                                         ? ( wg D.R. )
@@ -20130,6 +20197,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
     Chosrou I Anuszirwan         	                      531-579 ( wg D.Ś. , V.N.M.S.D. , A.Č. , R.Z.A.D.D. ) ( Chosroes wg D.B. )
       					                                        531-579 ( ?-?.2. ) ( Husrav I Anóšarván wg E.P. )
       					                                        przed 561-579 ( Chosroes I Anuszirwan wg D.D.T. )
+                                                        ? ( Chosrow Anuszirwan wg S.II.W.I.J.C.Z.E.M.P. )
     Hormizd IV                          	              579-590 ( wg D.Ś. i A.Č. i R.Z.A.D.D. )
                                                         579-591 ( wg V.N.M.S.D. )
       					                                        579-590 ( ?-6.2. ) ( Hormuzd IV wg D.D.T. )
@@ -20156,8 +20224,10 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
                                                       	1501-1523 ( wg V.N.M.S.D. )
       			      	                                    ok.1515 ( wg 100.N.V.S. )
       			      	                                    1502-1524 ( wg M.Ś. )
-    Tahmasp I                 	                        1524 -1576 ( wg D.Ś. )
+                                                        1499-1524 ( Ismail wg S.II.W.I.J.C.Z.E.M.P. )
+    Tahmasp I                 	                        1524-1576 ( wg D.Ś. )
                                                       	1523-1576 ( wg V.N.M.S.D. )
+                                                        1524-po 1559 (?-?.5.) ( Tahmasb (Tahmasp, Tadżmant) wg S.II.W.I.J.C.Z.E.M.P. )
     Isma´il II                   	                      1576-1577 ( wg D.Ś. )
     Sultan Muhammad	                                    1577-1587 ( wg D.Ś. )
                                                         1576-1585 ( Chodabende wg V.N.M.S.D. )
@@ -20251,6 +20321,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       Sapiens - A Brief History of Humankind
       Bitwy Słowian
       Tamerlane - Sword of Islam, Conqueror of the World
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Peru
   Bibliografia :
@@ -20650,7 +20721,7 @@ Polska ( Polsko , Poland )
                                                         1296-1320 ( wg V.N.M.S.D. )
       				          	                              ? ( Vladislav I Lokýtek wg Z.S.A.V.E. )
                                                         przed 1308-? ( Władysław Łokietek (Łokietek) wg L.P.P. )
-  Królestwo Polski ( Kingdom of Poland )
+  Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan )
     Dynastia Piastów
       Władysław I Łokietek    	                        1320-1333 ( wg D.Ś. i V.N.M.S.D. )
                                                         ? ( Władysław Łokietek wg O.K.C.J. ) ( wg T.R.L.Z.S.L.R.S.B. )
@@ -20676,25 +20747,30 @@ Polska ( Polsko , Poland )
                                                         przed 1400-? ( Jagiełło wg O.K.C.J. )
                                                         1386-1434 (?.2.-?) ( Jogaila wg V.K.T.H.O.H.E. )
                                                         ? ( Władysław Jagiełło (Jagiełło) wg L.P.P. )
-      Władysław III                	                    1434-1444 ( wg D.Ś. ) ( Władysław III Warneńczyk (Ladislas Of Varna) wg V.K.T.H.O.H.E. )
+                                                        przed 1387-po 1414 ( Jagiełło (Władysław Jagiełło) wg S.II.W.I.J.C.Z.E.M.P. )
+      Władysław III                	                    1434-1444 ( wg D.Ś. ) ( Władysław III Warneńczyk (Ladislas Of Varna) wg V.K.T.H.O.H.E. ) [King of Hungary]
                                                         1434-1445 ( wg V.N.M.S.D. )
       					                                        przed 1440-1444 ( ?-10.11. ) ( Vladislav II Jagellonský wg D.B. )
-      					                                        ?-1444 ( Vladislav III Varnenčík wg Z.S.A.V.E. )
+      					                                        ?-1444 ( Vladislav III Varnenčík wg Z.S.A.V.E. ) ( Władysław Jagiellończyk wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ?-1444 (?-10.11.) ( Władysław Warneńczyk wg H.W. )
       Kazimierz IV                 	                    1446-1492 ( wg D.Ś. i V.N.M.S.D. )
                                                         1444/6-1492 ( Kazimierz III Jagiellończyk (Casimir Jagiellon, Casimir Jagiellończyk, Casimir IV Jagiellon) wg V.K.T.H.O.H.E. )
-                                                        ? ( Kazimierz Jagiellończyk wg L.P.P. )
+                                                        ? ( Kazimierz Jagiellończyk wg L.P.P. i S.II.W.I.J.C.Z.E.M.P. )
       Jan I Olbracht                	                  1492-1501 ( wg D.Ś. i V.N.M.S.D. ) ( Jan Olbracht (John I Albert) wg V.K.T.H.O.H.E. )
-                                                        przed 1499 ( Olbracht wg O.K.C.J. )
+                                                        przed 1499-? ( Olbracht wg O.K.C.J. )
+                                                        przed 1499-po 1501 (15.4.-19.7.) ( Jan Olbracht wg S.II.W.I.J.C.Z.E.M.P. )
       Aleksander                    	                  1501-1506 ( wg D.Ś. i V.N.M.S.D. ) ( Alexander wg V.K.T.H.O.H.E. )
+                                                        przed 1502-? (9.10.-?) ( wg S.II.W.I.J.C.Z.E.M.P. )
       Zygmunt I Stary            	                      1506-1548 ( wg D.Ś. i V.N.M.S.D. ) ( Sigismund The Elder (Sigismund I) wg V.K.T.H.O.H.E. )
       			              	                            1507-1548 ( wg A. )
       					                                        przed 1520-? ( Zikmund I Starý wg E.P. )
                                                         przed 1525-? (10.5.-?) ( Zygmunt Stary wg O.K.C.J. )
+                                                        przed 1509-po 1542 (7.10.-?) ( Zygmunt I (Zygmunt, Zigsmund, I. Sigismund) wg S.II.W.I.J.C.Z.E.M.P. )
       Zygmunt II August        	                        1548-1572 ( wg D.Ś. i V.N.M.S.D. i H.W. ) ( Sigismund-Augustus (Sigismund II August, Zygmunt August) wg V.K.T.H.O.H.E. )
       					                                        przed 1571-? ( Zygmunt August wg B.M. )
                                                         ? ( Zygmunt August wg O.K.C.J. )
                                                         ok.1550 ( Zygmunt August wg L.P.P. )
+                                                        przed 1548-po 1567 ( Zygmunt August (II Zigsmund) wg S.II.W.I.J.C.Z.E.M.P. )
     Henryk Walezy                     	                1573-1575 ( wg D.Ś. i V.N.M.S.D. ) ( Henri de Valois wg V.K.T.H.O.H.E. ) [King of France]
                                                         1574 (?.2.-?) ( Henryk I Walezy (Walezjusz) wg H.W. )
     Stefan Batory                       	              1576-1586 ( wg D.Ś. )
@@ -20769,6 +20845,7 @@ Polska ( Polsko , Poland )
       Legnica 1241
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
       Litwa - Początki Państw
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Księstwo Połockie ( Principality of Polatsk )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -21124,7 +21201,7 @@ Prusy ( Prussia )
       Fryderyk II Wielki        	                      1772-1786 ( Frederick The Great (Frederick II The Great) wg V.K.T.H.O.H.E. )
                                                         1740-1786 ( 28.5.-17.8. ) ( wg 100.N.V.S. )
       					                                        1740-1786 ( wg D.Ś. i V.N.M.S.D. ) ( Fryderyk II Hohenzollern wg M.Ś. )
-      				        	                                ? ( Fryderyk Wielki wg 100.N.U.W. ) ( Fridrich II wg V.F.V. )
+      				        	                                ? ( Fryderyk Wielki wg 100.N.U.W. ) ( Fridrich II wg V.F.V. ) ( Fryderyk II wg S.II.W.I.J.C.Z.E.M.P. )
       Fryderyk Wilhelm II     	                        1786-1797 ( wg D.Ś. i V.N.M.S.D. ) ( Frederick William II wg V.K.T.H.O.H.E. )
       Fryderyk Wilhelm III    	                        1797-1840 ( wg D.Ś. i V.N.M.S.D. i M.Ś. ) ( Frederick William III wg V.K.T.H.O.H.E. )
       Fryderyk Wilhelm IV		                            1840-1861( wg V.N.M.S.D. i D.Ś. i M.Ś. ) ( Frederick William IV wg V.K.T.H.O.H.E. )
@@ -21145,6 +21222,7 @@ Prusy ( Prussia )
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Gödel, Escher, Bach - existenciální gordická balada
       Přemožitel neviditelných dravců
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Księstwo przemyskie
   Wołodar                                               1097-1124
@@ -21501,15 +21579,17 @@ Rugiowie
   Bibliografia :
       Zapomianie narody Europy
 
-Sułtanat Ikonion ( Rum )
+Sułtanat Ikonion ( Sułtanat Rum , Rum )
   Dynastia Seldżukidów ( Seljuks )
     Sulajman I          	                              1075-1086 ( wg D.Ś. )
       		              	                              1077-? ( Sulejman I wg D.B. )
+                                                        ? ( Sulejman wg S.II.W.I.J.C.Z.E.M.P. )
     Kilidż Arslan I    	                                1092-1107 ( wg D.Ś. ) ( Kilič Arslán I wg E.P. )
                     		         	                      ok.1097 ( wg K.V. )
       			        	                                  ?	( Kilič-Arslán wg D.B. )
     Szahanszah          	                              1110-1116 ( wg D.Ś. )
     Mas´ud I              	                            1116-1155 ( wg D.Ś. )
+                                                        1116-1156 ( wg S.II.W.I.J.C.Z.E.M.P. )
     Kilidż Arslan II   	                                1155-1192 ( wg D.Ś. )
       		               	                              ok.1176 ( wg K.V. )
       				                                          przed 1161-? ( Kilič-Arslán II wg D.B. )
@@ -21525,6 +21605,7 @@ Sułtanat Ikonion ( Rum )
     Kajka´us II           	                            1246-1261 ( wg D.Ś. )
     Kilidż Arslan IV	                                  1248-1266 ( wg D.Ś. )
     Kajkubad II          	                              1249-1254 ( wg D.Ś. )
+                                                        ? ( Alaeddin Kejkobad II wg S.II.W.I.J.C.Z.E.M.P. )
     Kajchusrau III      	                              1266-1284 ( wg D.Ś. )
     Mas´ud II             	                            1284-1298 i 1302-1308 ( wg D.Ś. )
     Kajkubad III         	                              1298-1302 ( wg D.Ś. )
@@ -21535,6 +21616,7 @@ Sułtanat Ikonion ( Rum )
       Fridrich Barbarossa – císař a rytíř
       Encyklopedie panovníků
       Tamerlane - Sword of Islam, Conqueror of the World
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Rumunia ( Romania )
   Księstwo Rumunii
@@ -22794,7 +22876,7 @@ Rzym
         Roman IV Diogenes          	                    1068-1071 ( wg D.Ś. i Tapsella )
     				         	                                  1068-1071 ( 1.1.-? ) ( Romanos IV Diogenes wg D.B. )
                                                         1068-1081 ( wg V.N.M.S.D. )
-                                                        przed 1071-? ( Romanos Diogenes wg Ř.S.J.Ď.S. )
+                                                        przed 1071-? ( Romanos Diogenes wg Ř.S.J.Ď.S. ) ( Romanos IV Diogenes wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ?-1071 ( Romanos IV wg N.T.V.S. )
         Michał VII Parapinakes     	                    1071-1078 ( wg D.Ś. ) ( Michał VII Ducas wg Tapsella )
                                                     		1071-1078 ( 24.10.-? ) ( Michael VII Dukas wg D.B. )
@@ -22865,6 +22947,7 @@ Rzym
         Jan VI Kantakuzen            	                  1347-1354 ( wg D.Ś. i Tapsella ) ( Ioannes VI Kantakuzenos wg D.B. )
                                                         1347-1355 ( wg V.N.M.S.D. ) ( Jan VI wg H.W. )
                                                         przed 1347-? ( wg L.P.P. )
+                                                        ? ( Jan VI wg S.II.W.I.J.C.Z.E.M.P. )
         Mateusz                            	            1353-1357 ( wg D.Ś. )
         Andronik IV                         	          1376-1379 ( wg D.Ś. i Tapsella ) ( Andronikos VI Palaiologos wg D.B. )
                                                         przed 1377-? ( Andronik wg H.W. )
@@ -22942,6 +23025,7 @@ Rzym
       Bitwy Słowian
       Tamerlane - Sword of Islam, Conqueror of the World
       Litwa - Początki Państw
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Sabaudia ( Savoie, Savoia )
   Hrabstwo Sabaudii ( County of Sabaudia, County of Savoy, County of Savoia )
@@ -23820,6 +23904,7 @@ Siedmiogród ( Transylvania )
     Ród Lačkovič
       Stefan II                                         ? ( Stefan Transylwański wg H.W. )
     Jan Hunyady			                                    przed 1456-? ( wg K.H. )
+  Jan                                                   ? ( wg S.II.W.I.J.C.Z.E.M.P. )
   Księstwo Siedmiogrodu
     Jan Zygmunt Zápolya         	                      1570-1571 ( wg D.Ś. )
       				                                          ? ( Jan Zápolský wg K.H. )
@@ -23849,6 +23934,7 @@ Siedmiogród ( Transylvania )
       Karpatské hry
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Historia Wenecji
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Siejent'o
   Inan		                                              629-645 ( ?-?.10. )
@@ -25424,7 +25510,7 @@ Państwo Śungów
       Starověká Indie
       Encyklopedie panovníků
 
-Święte Cesarstwo Rzymskie ( Święte Cesarstwo , Hole Roman Empire , Cesarstwo Rzymsko-Niemieckie )
+Święte Cesarstwo Rzymskie ( Święte Cesarstwo , Hole Roman Empire , Cesarstwo Rzymsko-Niemieckie , Cesarstwo Rzymskie , Cesarstwo Rzymskie Narodu Niemieckiego )
   Dynastia Karolingów
     Karol I Wielki ( Charlemagne )	                    800-814 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Karel Veliký wg D.B. ) ( Charles The Great wg V.K.T.H.O.H.E. ) ( Karol Wielki wg S.P.D.Z. )
                                                         800-? ( wg D.R. ) ( Karol Wielki wg K.R.I.C.R. i D.D.T. i K.W.N.I.W.D. )
@@ -25654,8 +25740,9 @@ Państwo Śungów
                                                         1433-? ( Zikmund Lucemburský wg D.P.I.R.G. )
                                                         przed 1415-? ( Zikmund Lucemburský wg E.P. )
                                                         przed 1411-po 1438 (?-16.8.) ( Zygmunt Luksembusrki wg H.W. )
+                                                        ? ( Zygmunt Luksemburczyk wg S.II.W.I.J.C.Z.E.M.P. )
     Jodok z Moraw                    	                  1410-1411 ( wg D.Ś. i Tapsella )
-  Dynastia habsburska ( House of Habsburg )
+  Dynastia habsburska ( House of Habsburg , Habsburgowie )
     Albrecht II Austriacki	                            1438-1439 ( wg D.Ś. )
                                                         1437-1439 ( wg V.N.M.S.D. i Tapsella )
     Fryderyk III                  	                    1440-1493 ( wg D.Ś. i Tapsella )
@@ -25668,7 +25755,7 @@ Państwo Śungów
                                                         1508-1519 ( wg M.Ś. )
                                                         ? ( Maxmilián I wg Ř.V.G. ) ( Maximilian von Habsburg (Maximilian I) wg V.K.T.H.O.H.E. )
                                                         przed 1494-1519 (?-12.1.) ( Maksymilian (Maksymilian Habsburg, Maksymilian I Habsburg) wg H.W. )
-    Karol V                         	                  1519-1558 ( wg D.Ś. i Tapsella i D.Ř.I. )
+    Karol V                         	                  1519-1558 ( wg D.Ś. i Tapsella i D.Ř.I. ) ( Karol wg S.II.W.I.J.C.Z.E.M.P. )
                                                         1519-1556 ( wg V.N.M.S.D. i M.A.E. )
                                                         1519-? ( Karel V wg D.P.I.R.G. )
                                                         ? ( wg 100.N.U.W. )
@@ -25682,10 +25769,11 @@ Państwo Śungów
                                                         1556-1564 ( wg V.N.M.S.D. )
                                                         1521/56-1564 ( Ferdinand of Habsburg wg V.K.T.H.O.H.E. )
                                                         1555-1564 ( wg M.Ś. )
-                                                        1556-1564 ( ?-25.7. ) ( Ferdinand I Habsburský wg E.P. )
+                                                        1556-1564 (?-25.7.) ( Ferdinand I Habsburský wg E.P. ) ( Ferdynand Habsburg (Ferdynand, Ferdynand II) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1557-? ( Ferdynand wg H.W. )
     Maksymilian II             	                        1564-1576 ( wg V.N.M.S:D. i D.Ś. i Tapsella i M.Ś. )
                                                         przed 1568-po 1574 ( Maksymilian wg H.W. )
+                                                        przed 1565-? ( Maksymilian (Maksymilian I) wg S.II.W.I.J.C.Z.E.M.P. )
     Rudolf II                       	                  1576-1612 ( wg V.N.M.S.D. , D.Ś. i Tapsella i M.Ś. )
                                                         ? ( wg M.A.E. i V.R.M. i H.W. )
                                                         przed 1599-1612 ( wg 100.N.U.W. )
@@ -25760,6 +25848,7 @@ Państwo Śungów
       Legnica 1241
       Æthelred the Unready - The Failed King
       Litwa - Początki Państw
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Ta Jüe
   Bibliografia :
@@ -26598,14 +26687,18 @@ Tun-sun
   Bibliografia :
       Khmerové
 
-Turcja ( Turkey )
-  Mustafa Kemal ( Atatürk )                             1923 n.e.-?  ( 29.10.-? ) ( wg 100.N.V.S. )
+Turcja ( Turkey , Türkiye Cumhuriyeti )
+  Mustafa Kemal ( Atatürk )                             1923 n.e.-? (29.10.-?) ( wg 100.N.V.S. )
                                                         ok.1925 ( wg Ř.S.J.Ď.S. )
-  Recep Erdogan                                         ? ( wg E.N.T.C.F.R.S.H.A.P. )
+                                                        ? ( Kemal Atatürk (Ojciec-Turek, Ojciec, Ata) wg S.II.W.I.J.C.Z.E.M.P. )
+  Republika Turcji
+    Turgut Ozal                                         przed 1990-? (13.2.-?) ( wg S.II.W.I.J.C.Z.E.M.P. )
+    Recep Erdogan                                     ? ( wg E.N.T.C.F.R.S.H.A.P. )
   Bibliografia :
       100 nejvlivnějších vojevůdců světa
       Říše slova - Jazykové dějiny světa
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Chanat Turecki
   Aszyna				                                        przed 439 n.e.-?
@@ -27931,7 +28024,7 @@ Węgry ( Hungary )
       			             	                              1000-? ( Štěpán I wg D.P.I.R.G. )
       			             	                              1001-1038 ( 15.8.-? ) ( Štěpán I wg Z.S.A.V.E. )
                                                         przed 1018-? ( Stefan I wg Z.N.E. )
-                                                        ? ( Stefan (Stefan I) wg H.W. )
+                                                        ? ( Stefan (Stefan I) wg H.W. ) ( św. Stefan wg S.II.W.I.J.C.Z.E.M.P. )
       Piotr Orseolo                	                    1038-1041 i 1044-1046 ( wg D.Ś. )
                                                         1038-1047 ( wg V.N.M.S.D. )
       		                            	                przed 1039-1041 ( Petr wg Z.S.A.V.E. )
@@ -28005,7 +28098,7 @@ Węgry ( Hungary )
       				                                          przed 1330-? ( Karel I Robert wg E.P. )
       Ludwik I Wielki    	                              1342-1382 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík I Veliký wg D.P.I.R.G. ) [King of Poland]
       			        	                                  przed 1366-? ( Ludvík wg D.B. )
-      				                                          ? ( Ludvík Veliký wg Z.S.A.V.E. )
+      				                                          ? ( Ludvík Veliký wg Z.S.A.V.E. ) ( Ludwik Wielki wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ?-1382 ( Louis of Anjou wg V.K.T.H.O.H.E. )
                                                         przed 1356-po 1379 (?-7.5.) ( Ludwik Wielki wg H.W. )
                                                         przed 1345-po 1382 ( Ludwik Andegaweński (Ludwik, Andegaweńczyk, Ludwik Wielki) wg L.P.P. )
@@ -28025,27 +28118,34 @@ Węgry ( Hungary )
       Władysław I           	                          1440-1444 ( wg D.Ś. ) ( Władysław III Warneńczyk wg V.K.T.H.O.H.E. ) [King of Poland]
       			       	                                    przed 1440-1444 ( ?-10.11. ) ( Vladislav II Jagellonský wg D.B. )
                                                         ?-1444 (?-10.11.) ( Władysław Warneńczyk wg H.W. )
+                                                        ?-1444 ( Władysław Jagiellończyk (Warneńczyk) wg S.II.W.I.J.C.Z.E.M.P. )
     Dynastia habsburska
       Władysław V Pogrobowiec	                          1445-1457 ( wg D.Ś. )
       				         	                                ?-1458 ( Ladislav Pohrobek wg D.P.I.R.G. )
       Jan                                     	        1445-1458 ( wg V.N.M.S.D. )
     Dom Hunyadi
       Maciej I Korwin      	                            1458-1490 ( wg D.Ś. i V.N.M.S.D. ) ( Matyáš Korvín wg D.P.I.R.G. )
+                                                        ?-1490 ( Matias Korwin wg S.II.W.I.J.C.Z.E.M.P. )
     Dynastia Jagiellonów
       Władysław II          	                          1490-1516 ( wg V.N.M.S.D. i D.Ś. ) ( Ladislas Jagiellon wg V.K.T.H.O.H.E. ) [King of Bohemia]
                                                         1490-? ( Vladislav II wg Z.S.A.V.E. )
+                                                        1490-1506 ( Władysław Jagiellończyk (Władysław) wg S.II.W.I.J.C.Z.E.M.P. )
       Ludwik II                	                        1516-1526 ( wg V.N.M.S.D. i D.Ś. ) ( Louis II wg V.K.T.H.O.H.E. ) [King of Bohemia]
                                                         ?-1526 ( ?-29.8. ) ( wg 100.N.V.S. i D.P.I.R.G. i H.W. )
                                                         ?-1526 ( Ludvík wg Z.S.A.V.E. )
+                                                        przed 1514-po 1526 (?-22.8.) ( Ludwik wg S.II.W.I.J.C.Z.E.M.P. )
     Dom Zápolya ( Szápolyai )
       Jan                   	                          1526-1540 ( wg D.Ś. )
                                                         ? ( Jan Zapolya wg V.K.T.H.O.H.E. )
       				                                          1526-? ( ?.11.-? ) ( Jan Zápolský wg D.P.I.R.G. )
+                                                        1526-1540 (5.11.-?) ( Jan I (Jan Zapolya, Zapolya, Jan Zopolya) wg S.II.W.I.J.C.Z.E.M.P. )
       Jan Zygmunt   	                                  1540-1570 ( wg D.Ś. )
-    Dynastia habsburska
-      Ferdynand I                       	              1526-1564 ( wg D.Ś. i V.N.M.S.D. )
+                                                        1540-po 1565 (?-28.6.) ( Jan II wg S.II.W.I.J.C.Z.E.M.P. )
+    Dynastia habsburska ( Habsburgowie )
+      Ferdynand I                       	              1526-1564 ( wg D.Ś. i V.N.M.S.D. ) [Holy Roman Emperor]
       					                                        1526-1564 ( ?-25.7. ) ( Ferdinand I Habsburský wg E.P. )
                                                         przed 1529-? (10.5.-?) ( Ferdynand wg H.W. )
+                                                        przed 1527-1564 (?-25.7.) ( Ferdynand (Ferdynand II, Ferdynand Habsburg) wg S.II.W.I.J.C.Z.E.M.P. )
       Maksymilian                      	                1564-1576 ( wg D.Ś. i V.N.M.S.D. )
       Rudolf                               	            1576-1608 ( wg D.Ś. )
                                                         1576-1612 ( wg V.N.M.S.D. )
@@ -28088,6 +28188,7 @@ Węgry ( Hungary )
       Tamerlane - Sword of Islam, Conqueror of the World
       Legnica 1241
       Litwa - Początki Państw
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Węgrzy
   Árpád                                                 ok.895 n.e.
@@ -28171,13 +28272,14 @@ Wielki Pölü ( Baltistan )
   Bibliografia :
       Dzieje dawnych Turków
 
-Sułtanat Wielkich Seldżuków ( Seljuks )
+Sułtanat Wielkich Seldżuków ( Seljuks , Seldżukowie )
   Dynastia Seldżukidów
     Seldžuk                    	                        ? ( wg D.B. )
     Čanghri-Beg             	                          ? ( wg D.B. )
     Toghryl Beg        	                                1038-1063 ( wg D.Ś. )
                                                 	      1039-1063 ( wg V.N.M.S.D. )
       		              	                              przed 1055-po 1059 ( Toghrul-Beg wg D.B. )
+                                                        przed 1055-? ( Togrul wg S.II.W.I.J.C.Z.E.M.P. )
     Alp Arslan           	                              1063-1072 ( wg D.Ś. ) ( Alp-Arslán wg D.B. )
                                                  	      1063-1074 ( wg V.N.M.S.D. )
                                                         przed 1071-? ( wg Ř.S.J.Ď.S. )
@@ -28197,6 +28299,7 @@ Sułtanat Wielkich Seldżuków ( Seljuks )
       Velká nástěnná mapa světových dějin
       Dějiny Byzance
       Říše slova - Jazykové dějiny světa
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Księstwo Wielkomorawskie ( Państwo Wielkomorawskie , Wielka Morawa , Państwo Morawskie )
   Mojmír I                  	                          po 833 n.e.-? ( wg D.P.I.R.G. )
@@ -28677,10 +28780,12 @@ Zakon Kawalerów Mieczowych ( Kawalerowie Mieczowi , Zakon Inflancki )
   Bibliografia :
       Litwa - Początki Państw
 
-Zakon Maltański ( Zakon Kawalerów Rodyjskich , Joannici , Kawalerowie Maltańscy )
-  Jean de la Valette                                    przed 1565 n.e.-?
+Zakon Maltański ( Zakon Kawalerów Rodyjskich , Joannici , Kawalerowie Maltańscy , Zakon Joannitów )
+  Philippe de l'isle Adam                               przed 1522 n.e.-? (?.12.-?) ( wg S.II.W.I.J.C.Z.E.M.P. )
+  Jean de la Valette                                    przed 1565-? ( wg H.W. )
   Bibliografia :
       Historia Wenecji
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Sułtanat Zanzibaru
   Dynastia Bu Sa´idi
@@ -28938,7 +29043,7 @@ Państwo Zyjadydów
   Eli                  		                              ok.1155-ok.1115 ( wg V.N.M.S.D. )
   Samuel           		                                  ok.1115-1095 ( wg V.N.M.S.D. )
   Jefte			                                            ?	( wg S.B.W. )
-  Królestwo Żydowskie ( Kingdom of Judaea , Judaea )
+  Królestwo Żydowskie ( Kingdom of Judaea , Judaea , Izrael )
     Saul                      	                        1020-1010 ( wg D.Ś. )
                                                  	      1095-1055 ( wg V.N.M.S.D. )
       				                                          1030-1010 ( wg S.B.W. )
@@ -28952,7 +29057,7 @@ Państwo Zyjadydów
       				                                          ok.950 ( wg D.G. )
       				                                          ok.1006-965 ( wg S.C. )
       				                                          ok.1000-ok.985 ( wg H.P.S. )
-      				                                          ? ( David wg Ž.V.Ř.S. i D.S.B.V. i S.A.B.H.O.H. ) ( wg Hur. i K.W.N.I.W.D. i F.H.C.R. )
+      				                                          ? ( David wg Ž.V.Ř.S. i D.S.B.V. i S.A.B.H.O.H. ) ( wg Hur. i K.W.N.I.W.D. i F.H.C.R. i S.II.W.I.J.C.Z.E.M.P. )
     Salomon		                                          970-931 ( wg D.Ś. i S.B.W. )
                                                  	      1015-975 ( wg V.N.M.S.D. )
                                                  	      965-926 ( wg K.T.V.S.O. )
@@ -28960,7 +29065,7 @@ Państwo Zyjadydów
       				                                          ok.950 ( wg D.G. )
       				                                          965-928 ( wg S.C. )
       				                                          975-935 ( wg H.P.S. )
-      			       	                                    ? ( wg O.L. ) ( Šalamoun wg E.P. i D.S.B.V. ) ( Šalomoun wg Ž.V.Ř.S. ) ( Solomon wg A.S.A.O.T.D.O.T.I. )
+      			       	                                    ? ( wg O.L. i S.II.W.I.J.C.Z.E.M.P. ) ( Šalamoun wg E.P. i D.S.B.V. ) ( Šalomoun wg Ž.V.Ř.S. ) ( Solomon wg A.S.A.O.T.D.O.T.I. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -28979,6 +29084,7 @@ Państwo Zyjadydów
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
       Sapiens - A Brief History of Humankind
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
 Bibliografia :
     [1] Monarchs , Rulers , Dynasties and Kingdoms of the World , R.F.Tapsell , 1984
@@ -29092,5 +29198,6 @@ Bibliografia :
     [109] Æthelred the Unready - The Failed King , Richard Abels , 2018
     [110] Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś , Stanisław Lem , Stanisław Bereś , 2018
     [111] Litwa - Początki Państw , Jarosław Nikodem , 2018
+    [112] Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty , Jerzy S. Łątka , 2004
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
