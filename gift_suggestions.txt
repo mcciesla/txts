@@ -1,7 +1,6 @@
 books - The Demon-Haunted World: Science as a Candle in the Dark - Carl Sagan
       - Darwin among the Machines: The Evolution of Global Intelligence - George Dyson
       - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
-      - Dynasties of the World: A Chronological and Genealogical Handbook - John E. Morby
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Category Theory in Context - Emily Riehl
       - Kronika Slovanu - Helmold z Bosau
@@ -10,7 +9,6 @@ books - The Demon-Haunted World: Science as a Candle in the Dark - Carl Sagan
       - Radical Enlightenment - Jonathan Israel
       - Purely Functional Data Structures - Chris Okasaki
       - How to Solve It - George Pólya
-      - Stehovani narodu a sever Evropy - Jarmila Bednarikova
       - Children of Time - Adrian Tchaikovsky
       - Colossus - Dennis Feltham Jones
       - Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian, Tom Griffiths
