@@ -213,13 +213,14 @@ POP.SCIENCE :
     ENCYKLOPEDIE:
         Moja pierwsza encyklopedia ; Simone Lamblin
     FILOZOFIA:
+        Darwin's Dangerous Idea - Evolution and the Meanings of Life ; Daniel C. Dennett
+        Gödel, Escher, Bach - existenciální gordická balada ; Douglas R. Hofstadter
         Poszukiwanie języka doskonałego ; Umberto Eco
         Przewodnik po filozofii w sześć godzin i kwadrans ; Witold Gombrowicz
         Summa Technologiae ; Stanisław Lem
-        The God Delusion ; Richard Dawkins
-        Gödel, Escher, Bach - existenciální gordická balada ; Douglas R. Hofstadter
         The Beginning of Infinity - Explanations that Transform the World ; David Deutsch
-        Darwin's Dangerous Idea - Evolution and the Meanings of Life ; Daniel C. Dennett
+        The God Delusion ; Richard Dawkins
+        Unpopular Essays ; Bertand Russell
     FIZYKA:
         ASTRONOMIA:
             Galaktyki ; Robert Estalella
@@ -304,6 +305,7 @@ POP.SCIENCE :
         Monte Cassino ; Melchior Wańkowicz
         Na Końcu Włoskiego Buta ; Michał Czartoryski
         National Geographic - Zakázané město  ; Juan Velasco , Jane Vessels
+        Normanowie i Bizancjum w XI stuleciu ; Dariusz Piwowarczyk ; 2006
         Northmen - The Viking Saga 793-1241 ; John Haywood
         O Krakowie Ci ja! - Historia Krakowa inaczej ; Antoni Wasilewski
         Objavovanie Ameriky ; Nicholas Hordern , Simon Dresner , Martin Hillman
@@ -1562,6 +1564,7 @@ Torbus , Andrzej Krzysztof - O orle białym i pierwszej stolicy - O
                            - O trzech braciach Lechu , Czechu i Rusie - O
                            - O Wawelskim Wzgórzu , smoku , Krakowie i Wandzie - O
                            - Podróż Pana Smoka - O
+Troska , J.M. (Matzal , Jan) - Záhadný ostrov - O
 Třenecký , Ladislav - Kopalnia z kudłatymi górnikami - POL
 Tuwim , Irena - Co okręt wiezie - O
 Tuwim , Julian - Wiersze dla dzieci - O

@@ -76,6 +76,7 @@ books - The Demon-Haunted World: Science as a Candle in the Dark - Carl Sagan
       - The Algortihm Design Manual - Steven S. Skiena
       - Compilers: Principles, Techniques, and Tools, Alfred V. Aho, Monica S. Lam, Ravi Sethi and Jeffrey D. Ullman
       - Combinatorial Problems and Exercises - Laszlo Lovasz
+      - The Republic - Plato
       - The Center Cannot Hold : My Journey Through Madness - Elyn R. Saks
       - Real World Haskell - Bryan O'Sullivan, John Goerzen, Donald Bruce Stewart
       - Haskell High Performance Programming - Samuli Thomasson
