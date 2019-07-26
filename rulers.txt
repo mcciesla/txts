@@ -914,6 +914,7 @@ Anglia ( England , Anglie )
                                                         przed 1283-po 1301 ( Eduard I wg Ř.S.J.Ď.S. )
                                                         przed 1287-po 1304 ( wg K.W.N.I.W.D. )
                                                         ?-1307 ( wg S.A.B.H.O.H. )
+                                                        ? ( wg U.E. )
       Edward II                     	                  1307-1327 ( wg D.Ś. i V.N.M.S.D. i Tapsella i T.S.O.I.C.O.T.W. )
                                                         przed 1307-? ( wg K.W.N.I.W.D. )
                                                         1307-? ( wg S.A.B.H.O.H. )
@@ -979,7 +980,7 @@ Anglia ( England , Anglie )
   Protektorat ( Cromwell's Protectorate )
     Oliver Cromwell  	                                  1653-1658 ( wg V.N.M.S.D. i D.Ś. )
 			         	                                        1653-1658 ( ?-3.5. ) ( wg 100.N.V.S. )
-                                                    		? ( Cromwell wg W.I.A.P. i T.Z.H.K. ) ( wg V.K.T.H.O.H.E. i H.W. )
+                                                    		? ( Cromwell wg W.I.A.P. i T.Z.H.K. i U.E. ) ( wg V.K.T.H.O.H.E. i H.W. )
 			         	                                        przed 1655-? ( wg M.Ś. )
     Ryszard Cromwell 	                                  1658-1659 ( wg V.N.M.S.D. i D.Ś. )
 			         	                                        1658-przed 1660 ( wg 100.N.V.S. )
@@ -987,7 +988,7 @@ Anglia ( England , Anglie )
     Dynastia Stuartów ( Stuarts )
       Karol II           	                              1660-1685 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
 		              	                                    1660-? ( wg 100.N.V.S. )
-			      	                                          ? ( wg D.R. i W.I.A.P. ) ( Karel II wg E.P. i Ř.S.J.Ď.S. )
+			      	                                          ? ( wg D.R. i W.I.A.P. ) ( Karel II wg E.P. i Ř.S.J.Ď.S. ) ( Charles II wg U.E. )
 				                                                przed 1672-po 1674 ( wg M.Ś. )
 				                                                przed 1664 -? ( wg O.A. )
                                                         ?-1685 ( Charles II wg V.K.T.H.O.H.E. )
@@ -1003,7 +1004,7 @@ Anglia ( England , Anglie )
 			   	                                              ?-1702 ( wg 100.N.V.S. )
 			   	                                              1689-? ( Wilhelm Orański wg D.R. )
 			   	                                              1688-po 1696 ( Wilhelm III Orański wg M.Ś. )
-                                                        ? ( William III of Orange wg V.K.T.H.O.H.E. )
+                                                        ? ( William III of Orange wg V.K.T.H.O.H.E. ) ( William wg U.E. )
       Maria II              	                          1689-1695 ( wg D.Ś. )
 				                                                1689-1702 ( wg V.N.M.S.D. )
 				                                                1689-1694 ( wg Tapsella )
@@ -1020,7 +1021,7 @@ Anglia ( England , Anglie )
       Jerzy III      	                                  1760-1801 (wg D.Ś. , V.N.M.S.D. i Tapsella ) ( George III wg V.K.T.H.O.H.E. )
 		          	                                        ok.1745 ( wg D.R. )
 		          	                                        przed 1775-po 1783 ( wg W.I.A.P. )
-			                                                  ? ( wg 100.N.U.W. )
+			                                                  ? ( wg 100.N.U.W. ) ( George III wg U.E. )
 		          	                                        przed 1776-? ( wg M.Ś. )
                                                         przed 1762-? ( wg H.W. )
   Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ( United Kingdom , Great Britain , Britain )
@@ -1030,11 +1031,11 @@ Anglia ( England , Anglie )
                                                         przed 1812-po 1814 ( wg Z.G.C.P.Z. )
       Jerzy IV    	                                    1820-1830 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
                                                         1820-1830 (29.1.-?) ( George IV (Frédéric Auguste) wg V.K.T.H.O.H.E. )
-			                                                  ? ( wg W.I.A.P. )
+			                                                  ? ( wg W.I.A.P. ) ( George IV wg U.E. )
                                                         przed 1822-? ( George IV wg V.K.T.H.O.H.E. )
       Wilhelm IV	                                      1830-1837 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( William IV wg V.K.T.H.O.H.E. )
       Wiktoria    	                                    1837-1901 ( wg D.Ś. , V.N.M.S.D. i Tapsella ) ( Victoria (Alexandrine Victoire) wg V.K.T.H.O.H.E. )
-			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. i P.N.D. )
+			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. i P.N.D. ) ( Victoria wg U.E. )
                                                         przed 1881-? ( Victoria wg S.A.B.H.O.H. )
     Dynastia Sachsen-Coburg-Gotha
       Edward VII         	                              1901-1910 ( wg D.Ś. i V.N.M.S.D. i Tapsella i V.K.T.H.O.H.E. )
@@ -1052,11 +1053,15 @@ Anglia ( England , Anglie )
       Elżbieta II            	                          1952-1953 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Elizabeth II wg V.K.T.H.O.H.E. )
 			         	                                        ? ( wg O.L. )
     prime ministers
+      John Russell                                      ? ( wg U.E. )
       Benjamin Disraeli                                 ? ( wg E.N.T.C.F.R.S.H.A.P. )
       William Gladstone                                 przed 1885-? ( wg V.K.T.H.O.H.E. )
+                                                        ? ( Gladstone wg U.E. )
       David Lloyd George                                przed 1918-po 1921 (?.12.-?.6.) ( wg V.K.T.H.O.H.E. )
-      Winston Churchill                                 ? ( wg V.K.T.H.O.H.E. i E.N.T.C.F.R.S.H.A.P. )
+                                                        ? ( Lloyd George wg U.E. )
+      Winston Churchill                                 ? ( wg V.K.T.H.O.H.E. i E.N.T.C.F.R.S.H.A.P. ) ( Churchill wg U.E. )
       Clement Attlee                                    przed 1948-po 1949 ( wg V.K.T.H.O.H.E. )
+                                                        ? ( Attlee wg U.E. )
   Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej ( United Kingdom , Great Britain , Britain )
     Dynastia Windsor
       Elżbieta II         	                            1953-? ( wg D.Ś. i V.N.M.S.D. i O.A.O.C.E. i Tapsella )
@@ -1115,6 +1120,7 @@ Anglia ( England , Anglie )
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Złoto gór czarnych - Przekleństwo złota
       Hard To Be a God
+      Unpopular Essays
 
 Anglowie ( Angles )
   Bibliografia :
@@ -1154,35 +1160,44 @@ Królestwo Antiocha Hieraksa
   Bibliografia :
       Starożytne Cywilizacje
 
-Księstwo Antiochii
-  Dynastia z Hauteville
-    Boemund I                	                          1099-1111 ( wg D.Ś. i K.V. )
-      			        	                                  ? ( Bohemund wg D.B. )
-    Tankred                     	                      1111-1112 ( wg D.Ś. i K.V. )
-      				                                          ? ( wg D.B. )
-    Roger z Salerno         	                          1112-1119 ( wg D.Ś. )
-      			      	                                    1112-1119 ( ?-28.6. ) ( wg K.V. )
+Antiochia
+  Filaret Brachiamos                                    ? ( wg N.I.B.W.XI.S. )
+  Jaghi Sijan                                           przed 1097-1098 (?-po 3.6.) ( wg N.I.B.W.XI.S. )
+  Księstwo Antiochii
+    Dynastia z Hauteville
+      Boemund I                	                        1099-1111 ( wg D.Ś. i K.V. )
+        			        	                                ? ( Bohemund wg D.B. )
+                                                        1099-1111 (?-3.3.) ( Boemund z Tarentu (Boemund) wg N.I.B.W.XI.S. )
+      Tankred                     	                    1111-1112 ( wg D.Ś. i K.V. )
+        				                                        ? ( wg D.B. )
+                                                        1111-1112 (przed wiosna-?) ( wg N.I.B.W.XI.S. )
+      Roger z Salerno         	                        1112-1119 ( wg D.Ś. i N.I.B.W.XI.S. )
+        			      	                                  1112-1119 ( ?-28.6. ) ( wg K.V. )
                                                         ?-1119 (?-?.6.) ( Roger z Antiochii wg H.W. )
-    Baldwin II                  	                      1119-1126 ( wg D.Ś. i K.V. )
-    Boemund II                	                        1126-1130 ( wg D.Ś. )
-      			       	                                    1126-1130 ( ?-luty ) ( wg K.V. )
-    Konstancja                 	                        1130-1163 ( wg D.Ś. i K.V. )
-    Rajmund z Poitiers    	                            1136-1149 ( ?-czerwiec ) ( wg K.V. )
-      			                                            1136-1149 ( wg D.Ś. )
-    Reginald z Châtillon	                              1153-1160 ( wg D.Ś. i K.V. )
-  Dynastia akwitańska
-    Boemund III Jąkała    	                            1163-1201 ( wg D.Ś. )
-      			          	                                przed 1190-? ( wg F.B.C.A.R. )
+      Baldwin II                  	                    1119-1126 ( wg D.Ś. i K.V. i N.I.B.W.XI.S. )
+      Boemund II                	                      1126-1130 ( wg D.Ś. i N.I.B.W.XI.S. )
+        			       	                                  1126-1130 ( ?-luty ) ( wg K.V. )
+      Konstancja                 	                      1130-1163 ( wg D.Ś. i K.V. i N.I.B.W.XI.S. )
+      Rajmund z Poitiers    	                          1136-1149 ( ?-czerwiec ) ( wg K.V. )
+        			                                          1136-1149 ( wg D.Ś. )
+                                                        przed 1137-1149 (?.8.-?) ( Rajmund wg N.I.B.W.XI.S. )
+      Reginald z Châtillon	                            1153-1160 ( wg D.Ś. i K.V. )
+                                                        1153-? ( Renald de Châtillon wg N.I.B.W.XI.S. )
+    Dynastia akwitańska
+      Boemund III Jąkała    	                          1163-1201 ( wg D.Ś. ) ( Boemund III wg N.I.B.W.XI.S. )
+        			          	                              przed 1190-? ( wg F.B.C.A.R. )
                                                         ? ( Boemund III wg H.W. )
-    Boemund IV Jednooki	                                1201-1216 i 1219-1233 ( wg D.Ś.)
+      Boemund IV Jednooki	                              1201-1216 i 1219-1233 ( wg D.Ś.)
                                                         przed 1228-? ( Boemund IV wg F.H.C.R. )
-    Rajmund Ruben    	                                  1216-1219 ( wg D.Ś.)
-    Boemund V               	                          1233-1252 ( wg D.Ś.)
-    Boemund VI             	                            1252-1285 ( wg D.Ś.)
+      Rajmund Ruben    	                                1216-1219 ( wg D.Ś.)
+      Boemund V               	                        1233-1252 ( wg D.Ś.)
+      Boemund VI             	                          1252-1285 ( wg D.Ś.)
                                                         przed 1260-? (24.1.-?) ( wg K.W.N.I.W.D. )
-    Boemund VII             	                          1275-1287 ( wg D.Ś.)
-    Łucja                         	                    1288-1289 ( wg D.Ś.)
-                                                  	    ?-1289 ( wg K.V. )
+                                                        1252-1275 ( wg N.I.B.W.XI.S. )
+      Boemund VII             	                        1275-1287 ( wg D.Ś. i N.I.B.W.XI.S.)
+      Łucja                         	                  1288-1289 ( wg D.Ś.)
+                                                    	  ?-1289 ( wg K.V. )
+                                                        1287-1288 ( wg N.I.B.W.XI.S. )
   Bibliografia :
       Dynastie Świata
       Křížové výpravy
@@ -1191,6 +1206,7 @@ Księstwo Antiochii
       Kubiłaj-chan - władca największego imperium w dziejach
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Normanowie i Bizancjum w XI stuleciu
 
 Antowie
   Dulebowie
@@ -1259,21 +1275,32 @@ Apsilowie
   Bibliografia :
       Antické Černomoří
 
-Księstwo Apulii
-  Dynastia z Hauteville
-    Robert Guiscard	                                    1059-1085 ( wg D.Ś. ) [Duke of Sicily]
-      			    	                                      przed 1059-po 1085 ( wg D.B. )
+Apulia
+  Księstwo Apulii
+    Argyros                                             1042-? (?.2.-?) ( wg N.I.B.W.XI.S. )
+    Gajmar IV                                           ? ( Gajmar wg N.I.B.W.XI.S. )
+  Hrabstwo Apulii
+    Wilhelm Żelazne Ramię                               1042-1045 ( wg N.I.B.W.XI.S. )
+    Drogon                                              1045-1051 ( Drogon d'Hauteville wg N.I.B.W.XI.S. )
+    Onufry                                              1051-1057 ( Onufry d'Hauteville wg N.I.B.W.XI.S. )
+    Robert Guiscard                                     1057-1059 (?-?.8.) ( Guiscard (Guiscardus, Robert d'Hauteville, Robert Gwiskard, Robert Pomysłowy, Robert, Terror Mundi, Postrach Świata) wg N.I.B.W.XI.S. ) [Count of Sicily]
+  Księstwo Apulii
+    Dynastia z Hauteville ( Ród d'Hauteville )
+      Robert Guiscard	                                  1059-1085 ( wg D.Ś. ) [Count of Sicily]
+        			    	                                    przed 1059-po 1085 ( wg D.B. )
                                                         1059-po 1084 (?-wiosna) ( Robert de Hauteville wg H.W. )
                                                         przed 1059-? ( Robert Guiscard z Apulii wg F.H.C.R. )
-    Roger Borsa            	                            1085-1111 ( wg D.Ś. )
-    Wilhelm                  	                          1111-1127 ( wg D.Ś. )
+                                                        1059-1085 (?.8.-17.7.) ( Guiscard (Guiscardus, Robert d'Hauteville, Robert Gwiskard, Robert Pomysłowy, Robert, Terror Mundi, Postrach Świata) wg N.I.B.W.XI.S. )
+      Roger Borsa            	                          1085-1111 ( wg D.Ś. ) ( Roger Sakiewka (Roger) wg N.I.B.W.XI.S. )
+      Wilhelm                  	                        1111-1127 ( wg D.Ś. )
                                                         ?-1127 (?-28.7.) ( Wilhelm I z Kapui wg F.H.C.R. )
-    Roger                                               ? ( wg F.H.C.R. )
+      Roger                                             ? ( wg F.H.C.R. )
   Bibliografia :
       Dynastie Świata
       Dějiny Byzance
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Normanowie i Bizancjum w XI stuleciu
 
 Apum
   Bibliografia :
@@ -2096,6 +2123,7 @@ Asyria ( Asýrie , Assyria , Assiro , Assyria )
                                                         705-681 ( wg V.N.M.S.D. i Z.Ř. ) ( Sinacherib wg F. i M.P.M. ) ( Sanheryb wg H.P.S. ) ( Sancherib wg T. )
       					                                        przed 701-? ( Sancheríb wg Ž.V.Ř.S. )
                                                         705/4-681 ( Sinacherib (Sanherib) wg D.S.B.V. )
+                                                        przed 701-po 698 ( wg U.E. )
     Esarhaddon ( Asarhaddon )     	                    680-669 ( wg D.Ś. i K.T.V.S.O. i F. i S.C. i M.P.M. i D.S.B.V. i D.O.T.W.A.C.A.G.H. ) ( Aszur-aha-iddina  wg S.B.W. )
                                                         680-669 ( ?-?.11. ) ( wg A.O.M.S.K.R. )
                                                         681-668 ( wg V.N.M.S.D. )
@@ -2150,6 +2178,7 @@ Asyria ( Asýrie , Assyria , Assiro , Assyria )
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
       Gilgameš
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Unpopular Essays
 
 Asyż
   Bibliografia :
@@ -3157,6 +3186,7 @@ County of Baux
 
 Bawaria
   Księstwo Bawarii ( Księstwo bawarskie )
+    Garibald                                            ? ( wg D.O.T.W.A.C.A.G.H. )
     Dynastia Agilolfingów
       Tassilo I                                         591-610 ( Tassilo wg B.S. )
       Garibaldus                                        610-po 611 ( Garibald II (Garibald) wg B.S. )
@@ -3314,6 +3344,7 @@ Bawaria
       Słowianie połabscy - Dzieje zagłady
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Bitwy Słowian
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 County of Beaune
   Bibliografia :
@@ -3336,6 +3367,7 @@ Belgia ( Belgium )
       Leopold II        	                              1865-1909 ( wg D.Ś. i V.N.M.S.D. )
                                                         przed 1885-? ( Leopold wg Ř.S.J.Ď.S. )
                                                         przed 1876-? ( wg S.A.B.H.O.H. )
+                                                        ? ( Leopold wg U.E. )
       Albert I             	                            1909-1934 ( wg D.Ś. i V.N.M.S.D. )
       Leopold III		                                    1934-1951 ( wg D.Ś. i V.N.M.S.D. )
       Baudouin          	                              1951-1993 ( wg D.Ś. i V.N.M.S.D. )
@@ -3346,6 +3378,7 @@ Belgia ( Belgium )
       Říše slova - Jazykové dějiny světa
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Sapiens - A Brief History of Humankind
+      Unpopular Essays
 
 Bellontowie
 
@@ -3377,16 +3410,16 @@ Wielkie Księstwo Bergu
   Bibliografia :
       Dynastie Świata
 
-Królestwo Bernicji ( Bryneich, Berneich , Bernicia )
-  Ida              	                                    547-559 ( wg D.Ś. )
+Królestwo Bernicji ( Bryneich, Berneich , Bernicia , Kingdom of Bernicia )
+  Ida              	                                    547-559 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                          		                            ok.547-568 ( wg Tapsella )
                                                         547-? ( Ida The Flamebearer wg V.K.T.H.O.H.E. )
-  Glappa        	                                      559-560 ( wg D.Ś. )
-  Adda           	                                      560-568 ( wg D.Ś. )
-  Ethelryk      	                                      568-572 ( wg D.Ś. ) ( Ethelric wg Tapsella )
-  Teodoryk    	                                        572-579 ( wg D.Ś. )
-  Frithuwald	                                          579-585 ( wg D.Ś. )
-  Hussa          	                                      585-592 ( wg D.Ś. )
+  Glappa        	                                      559-560 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Adda           	                                      560-568 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Ethelryk      	                                      568-572 ( wg D.Ś. ) ( Ethelric wg Tapsella ) ( Aethelric wg D.O.T.W.A.C.A.G.H. )
+  Teodoryk    	                                        572-579 ( wg D.Ś. ) ( Theoderic wg D.O.T.W.A.C.A.G.H. )
+  Frithuwald	                                          579-585 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Hussa          	                                      585-592 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Eanfrith       	                                      633-634 ( wg D.Ś. )
                           	                            632-633 ( wg Tapsella )
   Ealdred                                               ? ( wg N.T.V.S. )
@@ -3395,6 +3428,7 @@ Królestwo Bernicji ( Bryneich, Berneich , Bernicia )
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Northmen - The Viking Saga 793-1241
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Hrabstwo Bertinoro
   Bibliografia :
@@ -5692,7 +5726,7 @@ Chiny ( Čína , China )
                                                         ?-1917 (?-wiosna) ( Li Jüan-chung wg A.Č.D. )
     Sü Szy-Cz´ang      	                                1918-? ( wg H.C. )
     Czankajszek          	                              1928-1949 (10.10.-?) ( wg 100.N.V.S. ) [President of Chinese Republic]
-      				                                          ? ( Czang Kaj-szek wg M.Ś. i T.Z.H.K. )
+      				                                          ? ( Czang Kaj-szek wg M.Ś. i T.Z.H.K. ) ( Chiang Kai-shek wg U.E. )
                                                         1927-? (?.4.-?) ( Čankajšek wg A.Č.D. )
     premierzy
       Tuan Čch-žuej                                     1917-? (?.8.-?) ( wg A.Č.D. )
@@ -5747,6 +5781,7 @@ Chiny ( Čína , China )
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
       Sapiens - A Brief History of Humankind
       Tamerlane - Sword of Islam, Conqueror of the World
+      Unpopular Essays
 
 Chios
   Hippoklos		                                          ?
@@ -7058,10 +7093,10 @@ Księstwo Deheubarth ( Kingdom of Deheubarth )
       Northmen - The Viking Saga 793-1241
 
 Królestwo Deiry ( Kingdom of Deur, Kingdom of Deira )
-  Elle                    	                            569-599 ( wg D.Ś. )
+  Elle                    	                            569-599 ( wg D.Ś. ) ( Aelle wg D.O.T.W.A.C.A.G.H. )
                                  	                      ok.560-588 ( wg Tapsella )
                                                         przed ok.581-? ( Æelle wg N.T.V.S. )
-  Ethelryk           	                                  599-604 ( wg D.Ś. ) [King of Northumbria]
+  Ethelryk           	                                  599-604 ( wg D.Ś. ) ( Aethelric wg D.O.T.W.A.C.A.G.H. ) [King of Northumbria]
                                                         ?-ok.604 ( Æthelfrith wg N.T.V.S. )
   Osric               	                                633-634 ( wg D.Ś. )
                                  	                      632-633 ( wg Tapsella )
@@ -7071,6 +7106,7 @@ Królestwo Deiry ( Kingdom of Deur, Kingdom of Deira )
       Dynastie Świata
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Northmen - The Viking Saga 793-1241
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Dekan
   Dynastia Ćalukjów w Badami
@@ -8718,7 +8754,7 @@ Epir
       			                                            ? ( Pyrrhos wg T.H.S. ) ( Pyrrhós wg Z.V.C. )
       	  		                                          przed 288-272 ( Pyrrhos wg S.H. )
       			                                            przed 279-272 ( Pyrrhos wg E.P. )
-                                                        przed 280-? ( Pyrrhos wg Ř.S.J.Ď.S. )
+                                                        przed 280-? ( Pyrrhos wg Ř.S.J.Ď.S. ) ( Pyrrus wg N.I.B.W.XI.S. )
                                                         przed 280-po 274 (wiosna-?) ( Pyrrus wg K.1.1.P.N.E. )
                                                         przed 274-po 272 ( wg D.O.T.W.A.C.A.G.H. )
   Aleksander II  	                                      272-ok.250 ( wg V.N.M.S.D. )
@@ -8753,6 +8789,7 @@ Epir
       Kartagina 149-146 p.n.e.
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Normanowie i Bizancjum w XI stuleciu
 
 Eretria
   Diagoros		                                          ok.550 p.n.e.-? ( wg Z.Ř. )
@@ -8775,7 +8812,7 @@ Erythraj
   Bibliografia :
       Zrození Řecka
 
-Królestwo Essexu
+Królestwo Essexu ( Essex )
   Erchwine         	                                    530-587 ( wg V.N.M.S.D. )
   Sledda             	                                  587-597 ( wg V.N.M.S.D. )
   Sabert              	                                597-ok.614  ( wg V.N.M.S.D. )
@@ -8789,6 +8826,7 @@ Królestwo Essexu
   Swithelm          	                                  ? ( wg Tapsella )
   Sighere             	                                ok.664-680  ( wg Tapsella )
   Sebbe                	                                ok.664-694 ( wg Tapsella )
+                                                        ? ( Sebbi wg D.O.T.W.A.C.A.G.H. )
   Sigeheard         	                                  ok.694-? ( wg Tapsella )
   Suenfrid           	                                  663-693 ( wg V.N.M.S.D. )
                                	                        ok.694-? ( Swaefred wg Tapsella )
@@ -8804,6 +8842,7 @@ Królestwo Essexu
   Bibliografia :
       Velká nástěnná mapa světových dějin
       Monarchs , Rulers , Dynasties and Kingdoms of the World
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Estonia
   Jaan Tõnisson                                         przed 1933 n.e.-?
@@ -8842,59 +8881,57 @@ Esznunna ( Ešnunna )
 Etiopia ( Ethiopia , Abisynia )
   Aso			                                              ? ( wg M.P.C.Ś. )
   Dynastia salomońska
-    Jykuno ´Amlak        	                              1270-1285
-    Jagby´a Tsyjon        	                            1285-1294
-    Uyddym Ra´ad        	                              1299-1314
-    ´Amde Tsyjon I       	                              1314-1344
-    Nyuaje Krystos        	                            1344-1371
-    Nyuaje Marjam         	                            1371-1380
-    Dawid I                    	                        1380-1412
-    Teodor I                   	                        1412-1413
-    Izaak                        	                      1413-1430
-    Andrzej                    	                        1430
-    Tekle Marjam          	                            1430-1433
-    Syrue Ijesus              	                        1433
-    ´Amde Ijesus            	                          1433-1434
-    Zer´a Jaykob             	                          1434-1468
-    Beyde Marjam I        	                            1468-1478
-    Aleksander                	                        1478-1494
-    ´Amde Tsyjon II       	                            1494
-    Naod                         	                      1494-1508
+    Jykuno ´Amlak        	                              1270-1285 ( wg D.Ś. )
+    Jagby´a Tsyjon        	                            1285-1294 ( wg D.Ś. )
+    Uyddym Ra´ad        	                              1299-1314 ( wg D.Ś. )
+    ´Amde Tsyjon I       	                              1314-1344 ( wg D.Ś. )
+    Nyuaje Krystos        	                            1344-1371 ( wg D.Ś. )
+    Nyuaje Marjam         	                            1371-1380 ( wg D.Ś. )
+    Dawid I                    	                        1380-1412 ( wg D.Ś. )
+    Teodor I                   	                        1412-1413 ( wg D.Ś. )
+    Izaak                        	                      1413-1430 ( wg D.Ś. )
+    Andrzej                    	                        1430 ( wg D.Ś. )
+    Tekle Marjam          	                            1430-1433 ( wg D.Ś. )
+    Syrue Ijesus              	                        1433 ( wg D.Ś. )
+    ´Amde Ijesus            	                          1433-1434 ( wg D.Ś. )
+    Zer´a Jaykob             	                          1434-1468 ( wg D.Ś. )
+    Beyde Marjam I        	                            1468-1478 ( wg D.Ś. )
+    Aleksander                	                        1478-1494 ( wg D.Ś. )
+    ´Amde Tsyjon II       	                            1494 ( wg D.Ś. )
+    Naod                         	                      1494-1508 ( wg D.Ś. )
     Lybne Dyngyl           	                            1508-1540 ( wg D.Ś. ) ( Lebna Dengel wg E.P. )
-    Klaudiusz                  	                        1540-1559
-    Minas                        	                      1559-1563
-    Sertse Dyngyl           	                          1563-1597
-    Jakub                         	                    1597-1603 i 1604-1607
-    Za Dyngyl                 	                        1603-1604
-    Susnyjos                    	                      1607-1632
-    Fasiledes                    	                      1632-1667
-    Jan I                           	                  1667-1682
-    Ijasu I Wielki             	                        1682-1706
-    Tekle Hajmanot I       	                            1706-1708
-    Teofil                          	                  1708-1711
-    Justus                         	                    1711-1716
-    Dawid III                    	                      1716-1721
-    ´Asme Gijorgis           	                          1721-1730
-    Ijasu II Mały               	                      1730-1755
-    Ijoas I                          	                  1755-1769
-    Jan II                           	                  1769
-    Tekle Hajmanot II	                                  1769-1777
-    Teodor II                     	                    1854-1855
+    Klaudiusz                  	                        1540-1559 ( wg D.Ś. )
+    Minas                        	                      1559-1563 ( wg D.Ś. )
+    Sertse Dyngyl           	                          1563-1597 ( wg D.Ś. )
+    Jakub                         	                    1597-1603 i 1604-1607 ( wg D.Ś. )
+    Za Dyngyl                 	                        1603-1604 ( wg D.Ś. )
+    Susnyjos                    	                      1607-1632 ( wg D.Ś. )
+    Fasiledes                    	                      1632-1667 ( wg D.Ś. )
+    Jan I                           	                  1667-1682 ( wg D.Ś. )
+    Ijasu I Wielki             	                        1682-1706 ( wg D.Ś. )
+    Tekle Hajmanot I       	                            1706-1708 ( wg D.Ś. )
+    Teofil                          	                  1708-1711 ( wg D.Ś. )
+    Justus                         	                    1711-1716 ( wg D.Ś. )
+    Dawid III                    	                      1716-1721 ( wg D.Ś. )
+    ´Asme Gijorgis           	                          1721-1730 ( wg D.Ś. )
+    Ijasu II Mały               	                      1730-1755 ( wg D.Ś. )
+    Ijoas I                          	                  1755-1769 ( wg D.Ś. )
+    Jan II                           	                  1769 ( wg D.Ś. )
+    Tekle Hajmanot II	                                  1769-1777 ( wg D.Ś. )
+    Teodor II                     	                    1854-1855 ( wg D.Ś. )
   Cesarstwo Etiopii
     Dynastia salomońska
-      Teodor II                       	                1855-1868
-      Tekle Gijirgis II            	                    1868-1871
-      Jan IV                           	                1872-1889
-      Menelik II                     	                  1889-1913
-      Lydż Ijasu ( Ijasu V )	                          1913-1916
-      Zeuditu                          	                1916-1930
-      Hajle Sylassje I              	                  1930-1936 i 1941-1974
+      Teodor II                       	                1855-1868 ( wg D.Ś. )
+      Tekle Gijirgis II            	                    1868-1871 ( wg D.Ś. )
+      Jan IV                           	                1872-1889 ( wg D.Ś. )
+      Menelik II                     	                  1889-1913 ( wg D.Ś. )
+      Lydż Ijasu ( Ijasu V )	                          1913-1916 ( wg D.Ś. )
+      Zeuditu                          	                1916-1930 ( wg D.Ś. )
+      Hajle Sylassje I              	                  1930-1936 i 1941-1974 ( wg D.Ś. )
   Królestwo Etiopii ( Kingdom of Abyssinia )
     Vittorio Emanuele III                               ? ( wg V.K.T.H.O.H.E. ) [King of Italy]
     Dynastia salomońska
-      Asfa Uessen          		                          1974-1975
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
+      Asfa Uessen          		                          1974-1975 ( wg D.Ś. )
   Bibliografia :
       Dynastie Świata
       Encyklopedie panovníků
@@ -9371,6 +9408,8 @@ Francja ( France , Francie )
       Ludwik XVII           	                          1793-1795 ( wg D.Ś. i V.N.M.S.D. )
                                                         ? ( Ludvík XVII. wg P.N.D. )
   1.Republika
+    presidents of National Convention
+      Robespierre                                       ? ( wg U.E. )
     Konsulat
       Napoleon Bonaparte ( Nabuleone Buonaparte )       1799-1804 ( wg D.Ś. i V.N.M.S.D. i 100.N.V.S. )
                                          	              przed 1799-?   ( wg 100.N.U.W. )
@@ -9387,7 +9426,7 @@ Francja ( France , Francie )
 			    	                                            ?-1814 ( wg 100.N.U.W. )
 			    	                                            przed 1805-? ( Napoleon Bonaparte wg B.M. ) ( wg Z.G.C.O.P. )
 			    	                                            przed 1798-1814 i 1815 ( wg M.Ś. )
-			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. i S.II.W.I.J.C.Z.E.M.P. )
+			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i U.E. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. i S.II.W.I.J.C.Z.E.M.P. )
 				                                                przed 1812-? ( Napoleon Bonaparte wg B.O.R.H. )
 				                                                przed 1815-? ( Napoleon wg G.T.G. )
                                                         1805-1814 i 1815 (?-11.4. i ?-?.6.) ( Napoleon wg V.K.T.H.O.H.E. )
@@ -9489,6 +9528,7 @@ Francja ( France , Francie )
       Litwa - Początki Państw
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Złoto gór czarnych - Orle pióra
+      Unpopular Essays
 
 Wielkie Księstwo Frankfurtu
   Karol Teodor Dalberg                                  1810-1813
@@ -11020,7 +11060,7 @@ Hiszpania ( Spain )
       Filip II        	                                1556-1598 ( wg D.Ś. , V.N.M.S.D. i D.Ř.I. i M.Ś. ) ( Philip II (Felipe II) wg V.K.T.H.O.H.E. )
       		         	                                    1556-po 1588 ( wg O.A. )
       		         	                                    przed 1561-po 1571 ( wg M.A.E. )
-      			                                            ? ( wg V.F.V. ) ( Philip II wg A.S.A.O.T.D.O.T.I. )
+      			                                            ? ( wg V.F.V. ) ( Philip II wg A.S.A.O.T.D.O.T.I. i U.E. )
                                                         ok.1550 ( wg Z.N.E. )
                                                         przed 1565-po 1586 ( wg Ř.S.J.Ď.S. )
                                                         przed 1557-1598 (?-?.9.) ( Filip (Filip Hiszpański) wg H.W. )
@@ -11092,6 +11132,7 @@ Hiszpania ( Spain )
       Přemožitel neviditelných dravců
       Historia Wenecji
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
+      Unpopular Essays
 
 Księstwo Hobolinu
   Wirykind                                              ok.1100 n.e.
@@ -11779,7 +11820,7 @@ Italia ( Italy , Włochy )
                                                         1946 (?.5.-12.6.) ( Umberto II wg V.K.T.H.O.H.E. )
   premiers
     Bonomi                                              przed 1920-? (?.4.-?) ( wg V.K.T.H.O.H.E. )
-  Benito Mussolini                                      ? ( Mussolini wg F.C.A.R.F. i V.K.T.H.O.H.E. i H.W. ) ( wg E.N.T.C.F.R.S.H.A.P. )
+  Benito Mussolini                                      ? ( Mussolini wg F.C.A.R.F. i V.K.T.H.O.H.E. i H.W. i U.E. ) ( wg E.N.T.C.F.R.S.H.A.P. )
   Italian Republic ( Republica Italiana )
     Alcide de Gasperi                                   1946-? ( wg V.K.T.H.O.H.E. )
     Giorgio Napolitano                                  przed 2006-po 2010 ( wg V.K.T.H.O.H.E. )
@@ -11801,6 +11842,7 @@ Italia ( Italy , Włochy )
       Přemožitel neviditelných dravců
       Historia Wenecji
       Northmen - The Viking Saga 793-1241
+      Unpopular Essays
 
 Państwo Ito
   Bibliografia :
@@ -12734,10 +12776,17 @@ Państwo Kalabhrów
   Bibliografia :
       Starověká Indie
 
-Księstwo Kalabrii
-  Robert Guiscard ( Robert de Hauteville )              przed 1081-po 1084 (?-wiosna) [Duke of Sicily]
+Kalabria
+  Hrabstwo Kalabrii
+    Drogon                                              1045 n.e.-? ( Drogon d'Hauteville wg N.I.B.W.XI.S. ) [Count of Apulia]
+    Roger                                               ? ( Wielki Hrabia wg N.I.B.W.XI.S. ) [Count of Sicily Roger I]
+    Robert Guiscard                                     ?-1059 (?-?.8.) ( Guiscard (Guiscardus, Robert d'Hauteville, Robert Gwiskard, Robert Pomysłowy, Robert, Terror Mundi, Postrach Świata) wg N.I.B.W.XI.S. )
+  Księstwo Kalabrii
+    Robert Guiscard ( Robert de Hauteville )            przed 1081-po 1084 (?-wiosna) ( wg H.W. ) [Count of Sicily]
+                                                        1059-? (?.8.-?) ( Guiscard (Guiscardus, Robert d'Hauteville, Robert Gwiskard, Robert Pomysłowy, Robert, Terror Mundi, Postrach Świata) wg N.I.B.W.XI.S. )
   Bibliografia :
       Historia Wenecji
+      Normanowie i Bizancjum w XI stuleciu
 
 Państwo Kalaczurijów
   Gángéjadéva		                                        1019-ok.1040
@@ -13471,43 +13520,43 @@ Kenia ( Kenya )
       Mocarstwa Świata
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
 
-Królestwo Kentu
-  Hengest           		                                455-488 ( wg D.Ś. )
+Królestwo Kentu ( Kingdom of Kent )
+  Hengest           		                                455-488 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       				                                          454-488 ( wg V.N.M.S.D. )
       				                                          ok.450-ok.488 ( wg Tapsella )
-  Oisc                 		                              488-512
-  Octa                 		                              512-522 ( wg D.Ś. )
+  Oisc                 		                              488-512 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
+  Octa                 		                              512-522 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       				                                          512-542 ( wg V.N.M.S.D. )
       				                                          ok.512-? ( wg Tapsella )
-  Eormenric        		                                  522-560 ( wg D.Ś. )
+  Eormenric        		                                  522-560 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       				                                          542-560 ( wg V.N.M.S.D. )
       				                                          ?-560 ( Eormanric wg Tapsella )
-  Ethelbert I        		                                560-616
-  Eadbald             		                              616-640
-  Earconbert        		                                640-664
-  Egbert I             		                              664-673
-  Hlothere            		                              673-685
-  Eadric                		                            685-686 ( wg D.Ś. i Tapsella )
-  Oswine              		                              688-690 ( wg D.Ś. )
-  Swefhard           		                                689-694 ( wg D.Ś. )
-  Wihtred              		                              690-725 ( wg D.Ś. i Tapsella )
+  Ethelbert I        		                                560-616 ( wg D.Ś. i Tapsella ) ( Aethelbert I wg D.O.T.W.A.C.A.G.H. )
+  Eadbald             		                              616-640 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
+  Earconbert        		                                640-664 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
+  Egbert I             		                              664-673 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
+  Hlothere            		                              673-685 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
+  Eadric                		                            685-686 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
+  Oswine              		                              688-690 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Swefhard           		                                689-694 ( wg D.Ś. ) ( Swaefhard wg D.O.T.W.A.C.A.G.H. )
+  Wihtred              		                              690-725 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                             	          694-725 ( wg V.N.M.S.D. )
-  Ethelbert II         		                              725-748 ( wg D.Ś. )
+  Ethelbert II         		                              725-748 ( wg D.Ś. ) ( Aethelbert II wg D.O.T.W.A.C.A.G.H. )
                                  		                    725-762 ( wg Tapsella )
-  Eadberht I          		                              748-762 ( wg D.Ś. )
+  Eadberht I          		                              748-762 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       				                                          725-748 ( wg V.N.M.S.D. )
       				                                          725-761 ( Eadbert I wg Tapsella )
-  Sigered               	                              762-764 ( wg D.Ś. )
-  Heaberht             	                                764-770  ( wg D.Ś. )
-  Egbert II              	                              765-784 ( wg D.Ś. )
+  Sigered               	                              762-764 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Heaberht             	                                764-770  ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Egbert II              	                              765-784 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                    		                  ok.765-780 ( wg Tapsella )
-  Ealhmund            	                                784-785 ( wg D.Ś. )
+  Ealhmund            	                                784-785 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                    		                  ok.784-? ( wg Tapsella )
-  Eadberht II Praen	                                    796-798 ( wg D.Ś. i Tapsella )
+  Eadberht II Praen	                                    796-798 ( wg D.Ś. i Tapsella ) ( Eadberht II wg D.O.T.W.A.C.A.G.H. )
   Alric                     	                          760-794 ( wg V.N.M.S.D. )
-  Cuthred               	                              798-807 ( wg D.Ś. i Tapsella )
+  Cuthred               	                              798-807 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                               	        794-805 ( wg V.N.M.S.D. )
-  Balred                  	                            823-825 ( wg D.Ś. )
+  Balred                  	                            823-825 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                               	        805-823 ( wg V.N.M.S.D. )
                                               	        ?-825 ( wg Tapsella )
   Ethelbert		                                          przed 858-? ( Aethelbert wg E.P. )
@@ -13516,6 +13565,7 @@ Królestwo Kentu
       Velká nástěnná mapa světových dějin
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Encyklopedie panovníků
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Keos
   Bibliografia :
@@ -14176,7 +14226,7 @@ Kościół
   Euzebiusz                   	                        309-311 ( wg Tapsella )
   Miltiades                     	                      311-314 ( wg Tapsella )
   Sylwester I                  	                        314 -335 ( wg Tapsella i K.R.I.C.R. )
-      			        	                                  ? ( Silvestr I wg Z.S.A.V.E. )
+      			        	                                  ? ( Silvestr I wg Z.S.A.V.E. ) ( wg N.I.B.W.XI.S. )
   Marcus                        	                      335-337 ( wg Tapsella )
   Juliusz I                       	                    337-352 ( wg Tapsella )
       			                                            337-po 343 ( wg K.R.I.C.R. )
@@ -14305,6 +14355,7 @@ Kościół
                                                      		855-858 ( wg Tapsella )
     Anastazjusz III                                    	855-858 ( wg Tapsella )
     Mikołaj I                                          	858-867 ( wg Tapsella , V.N.M.S.D. ) ( Mikuláš I wg D.B. )
+                                                        przed 863-? ( wg N.I.B.W.XI.S. )
     Hadrian II                                         	867-872 ( wg Tapsella , V.N.M.S.D. ) ( Hadrián II wg D.B. )
       					              	                        ? ( Hadrián II wg Z.S.A.V.E. )
                                                         przed 870-? ( wg B.S. )
@@ -14365,54 +14416,66 @@ Kościół
     Grzegorz V                                         	996-999 ( wg Tapsella i V.N.M.S.D. )
       						        	                            ? ( wg D.B. i Z.S.A.V.E. )
     Sylwester                                          	999-1004 ( wg V.N.M.S.D. )
-                                                    	  999-1003 ( II wg Tapsella ) ( Silvestr II wg M.A.E. )
+                                                    	  999-1003 ( Sylwester II wg Tapsella i N.I.B.W.XI.S. ) ( Silvestr II wg M.A.E. )
       						        	                            ? ( Silvestr II wg Z.S.A.V.E. )
       				                                          999-? ( Silvestr II wg V.F.V. )
-    Jan XVII                                           	1003 ( wg V.N.M.S.D. i Tapsella )
-    Jan XVIII                                          	1004-1009 ( wg V.N.M.S.D. )
+    Jan XVII                                           	1003 ( wg V.N.M.S.D. i Tapsella i N.I.B.W.XI.S. )
+    Jan XVIII                                          	1004-1009 ( wg V.N.M.S.D. i N.I.B.W.XI.S. )
                                                     	  1003-1009 ( wg Tapsella )
-    Sergiusz IV                                        	1009-1012 ( wg V.N.M.S.D. i Tapsella )
-    Benedykt VIII                                      	1012-1024 ( wg V.N.M.S.D. i Tapsella )
+    Sergiusz IV                                        	1009-1012 ( wg V.N.M.S.D. i Tapsella i N.I.B.W.XI.S. )
+    Benedykt VIII                                      	1012-1024 ( wg V.N.M.S.D. i Tapsella i N.I.B.W.XI.S. )
     Grzegorz VI                                        	1012-1024 ( wg Tapsella )
+                                                        1012 ( wg N.I.B.W.XI.S. )
     Jan XIX                                            	1024-1033 ( wg V.N.M.S.D. i Tapsella )
                                                         przed 1024-? ( wg H.W. )
+                                                        1024-1032 ( wg N.I.B.W.XI.S. )
     Benedykt IX                                        	1033-1045 ( wg V.N.M.S.D. i Tapsella )
-    Sylwester III                                      	1045 ( wg Tapsella )
-    Grzegorz VI                                        	1045-1046 ( wg Tapsella )
+                                                        1032-1044 i 1045 i 1047-1048 ( wg N.I.B.W.XI.S. )
+    Sylwester III                                      	1045 ( wg Tapsella i N.I.B.W.XI.S. )
+    Grzegorz VI                                        	1045-1046 ( wg Tapsella ) ( Giovanni Graziano wg N.I.B.W.XI.S. )
     Klement II                                         	1046-1048 ( wg Tapsella )
+                                                        1046-1047 ( Klemens II (Suitger) wg N.I.B.W.XI.S. )
     Damasus II                                         	1048-1049 ( wg Tapsella )
+                                                        1048 ( Damazy II wg N.I.B.W.XI.S. )
     Leon IX ( Bruno z Toul )                           	1048-1054 ( wg V.N.M.S.D. )
                                                      	  1049-1055 ( wg Tapsella )
       						     	                                przed 1051-1054 ( ?-14.4. ) ( Lev IX wg D.B. )
       						         	                            ? ( Lev IX wg Z.S.A.V.E. )
-    Štěpán IX ( Fridrich Lotrinský )                   	? ( wg D.B. )
-    Wiktor II ( Gebhard z Hirschberg )                  1054 -1057 ( wg V.N.M.S.D. )
-                                                        1055-1057 ( wg Tapsella )
-    Szczepan X ( Fryderyk z Lorraine )                 	1057-1058 ( wg Tapsella )
+                                                        1049-1054 (?-19.4.) ( wg N.I.B.W.XI.S. )
+    Wiktor II ( Gebhard z Hirschberg )                  1054-1057 ( wg V.N.M.S.D. )
+                                                        1055-1057 ( wg Tapsella i N.I.B.W.XI.S. )
+    Szczepan X ( Fryderyk z Lorraine )                 	1057-1058 ( wg Tapsella ) ( Stefan IX wg N.I.B.W.XI.S. )
+                                                        ? ( Štěpán IX ( Fridrich Lotrinský ) wg D.B. )
     Benedykt X ( Jan z Tusculum )                      	1058 ( wg Tapsella )
+                                                        1058-1059 (?-początek) ( wg N.I.B.W.XI.S. )
     Mikołaj II (Gerhard z Burgundii )                  	1057-1061 ( wg V.N.M.S.D. )
                                                        	1058-1061 ( wg Tapsella i F.H.C.R. )
       						     	                                przed 1059-? ( Mikuláš II wg D.B. ) ( wg H.W. )
-    Aleksander II ( Anselmo da Baggio )                	1061-1073 ( wg Tapsella i V.N.M.S.D. )
+                                                        1059-1061 (przed ?.8.-?) ( wg N.I.B.W.XI.S. )
+    Aleksander II ( Anselmo da Baggio )                	1061-1073 ( wg Tapsella i V.N.M.S.D. i N.I.B.W.XI.S. )
       						         	                            ? ( wg B.M. )
     Honoriusz II  ( Piotr Cadalus )                    	1061-1064 ( wg Tapsella )
+                                                        1061-1072 ( wg N.I.B.W.XI.S. )
     Grzegorz VII ( Hildebrand )                        	1073-1085 ( wg Tapsella i V.N.M.S.D. ) ( Řehoř VII wg D.B. )
       						     	                                przed 1077-? ( Řehoř VII wg F.B.C.A.R. )
       						     	                                przed 1074-? ( Řehoř VII wg Z.S.A.V.E. )
                                                         przed 1084-? (wiosna-?) ( wg H.W. )
                                                         ? ( wg F.H.C.R. )
+                                                        1073-1085 (?-25.5.) ( wg N.I.B.W.XI.S. )
     Klement III ( Guibert z Rawenny )                  	1080-1100 ( wg Tapsella )
       						     	                                1095-? ( Kliment III wg D.B. )
+                                                        1080-1100 (25.6.-?) ( Klemens III wg N.I.B.W.XI.S. )
     Wiktor III ( Desiderius )                          	1085-1087 ( wg V.N.M.S.D. )
-                                                     	  1086-1087 ( wg Tapsella )
+                                                     	  1086-1087 ( wg Tapsella ) ( Dezyderiusz wg N.I.B.W.XI.S. )
     Urban II ( Odo z Chatillon )                       	1087-1099 ( wg V.N.M.S.D. )
                                                    	    1088-1099 ( wg Tapsella )
-      							                                    1088-1099 ( marzec-? ) ( wg K.V. )
+      							                                    1088-1099 (marzec-?) ( wg K.V. )
       						     	                                przed 1095-? ( wg D.P.I.R.G. i N.T.V.S. )
       						     	                                przed 1089-po 1095 ( wg D.B. )
                                                         przed 1089-po 1090 ( wg V.K.T.H.O.H.E. )
                                                         przed 1089-po 1095 (?-27.11.) ( Urban wg H.W. )
-    Paschal II ( Raniero da Bieda )                    	1099-1118 ( wg Tapsella i V.N.M.S.D. )
+                                                        1088-1099 (?-?.7.) ( wg N.I.B.W.XI.S. )
+    Paschal II ( Raniero da Bieda )                    	1099-1118 ( wg Tapsella i V.N.M.S.D. ) ( Paschalis II wg N.I.B.W.XI.S. )
       						         	                            ? ( Paschalis wg D.B. ) ( Paschalis II wg H.W. )
     Teodoryk                                           	1100-1102 ( wg Tapsella )
     Albert                                             	1102-1105 ( wg Tapsella )
@@ -14434,9 +14497,9 @@ Kościół
                                                         przed 1130-1138 ( Anaklet wg H.W. )
                                                         1130-? ( Anaklet II wg F.H.C.R. )
     Wiktor IV                                          	1138-1143 ( wg Tapsella )
-    Celestyn II ( Guido di Castello )                   1144 -1145 ( wg V.N.M.S.D. )
+    Celestyn II ( Guido di Castello )                   1144-1145 ( wg V.N.M.S.D. )
                                                         1143-1144 ( wg Tapsella )
-    Lucjusz II ( Gherardo Caccianemici )               	1144 -1145 ( wg Tapsella )
+    Lucjusz II ( Gherardo Caccianemici )               	1144-1145 ( wg Tapsella )
     Eugeniusz III ( Bernardo Paganelli )                1145-1153 ( wg Tapsella i V.N.M.S.D. )
       						                                      przed 1152-po 1153 ( Evžen III wg F.B.C.A.R. )
                                                         przed 1147-? ( wg S.P.D.Z. )
@@ -14478,7 +14541,7 @@ Kościół
       						       	                              przed 1196-? ( Celestýn III wg D.B. )
                                                         1191-po 1196 (14.4.-?.11.) ( Hiacynt Boboni-Orsini wg F.H.C.R. )
                                                         przed 1193-? ( Celestine wg N.T.V.S. )
-    Innocenty III ( Lotario di Segni )                 	1198-1216 ( wg Tapsella i V.N.M.S.D. ) ( Innocenc III wg D.B. )
+    Innocenty III ( Lotario di Segni )                 	1198-1216 ( wg Tapsella i V.N.M.S.D. i N.I.B.W.XI.S. ) ( Innocenc III wg D.B. )
       		       					                              1198-1216 ( ?-16.7. ) ( wg K.V. )
       						                                      przed 1204-? ( Inocenc III wg E.P. )
                                                         przed 1198-? ( wg H.W. )
@@ -14714,9 +14777,10 @@ Kościół
     Pius XII ( Eugenio Pacelli )                       	1939-1958 ( wg V.N.M.S.D. i Tapsella )
     Jan XXIII ( Angelo Roncalli )                      	1958-1963 ( wg V.N.M.S.D. i Tapsella )
                                                         1958-? ( wg H.W. )
-    Paweł VI  ( Giovanni Battista Montini )            	1963-1978 ( wg V.N.M.S.D. i Tapsella )
+    Paweł VI ( Giovanni Battista Montini )            	1963-1978 ( wg V.N.M.S.D. i Tapsella )
       						    	                                ? ( Pavel VI wg Z.S.A.V.E. )
                                                         przed 1965-? ( wg H.W. )
+                                                        przed 1964-? ( wg N.I.B.W.XI.S. )
     Jan Paweł I ( Albino Luciani )                     	1978-1979 ( wg V.N.M.S.D. )
                                                       	1978 ( wg Tapsella )
     Jan Paweł II ( Karol Wojtyła )                     	1979-? ( wg V.N.M.S.D. )
@@ -14766,6 +14830,7 @@ Kościół
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
       Litwa - Początki Państw
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
+      Normanowie i Bizancjum w XI stuleciu
 
 Kotyora
   Bibliografia :
@@ -15842,6 +15907,7 @@ Lombardia
 Longobardowie ( Winilowie )
   Ibor                                                  ? ( wg Z.N.E. )
   Agion                                                 ? ( wg Z.N.E. )
+  Alboin                                                przed 568 n.e.-? ( wg D.O.T.W.A.C.A.G.H. )
   Królestwo Longobardów
     Ród Gungingów
       Agelmund                                          ? ( wg Z.N.E. )
@@ -15857,62 +15923,66 @@ Longobardowie ( Winilowie )
     Ród Gausów
       Audoin                                            ok.545-ok.560 ( wg Z.N.E. )
                                                         przed 546-po 549 ( wg B.S. )
-      Alboin                   	                        569-572 ( wg D.Ś. )
+      Alboin                   	                        569-572 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                 	      568-573 ( wg V.N.M.S.D. )
                                                         ok.560-572 ( wg Z.N.E. )
                                                         przed 568-? ( wg H.W. )
-    Klef                       	                        572-574 ( wg D.Ś. i Z.N.E. )
+    Klef                       	                        572-574 ( wg D.Ś. i Z.N.E. ) ( Cleph wg D.O.T.W.A.C.A.G.H. )
                                                   	    573-575 ( wg V.N.M.S.D. )
-    Autaris                   	                        584-590 ( wg D.Ś. ) ( Authari (Authari Flavius) wg Z.N.E. )
+    Autaris                   	                        584-590 ( wg D.Ś. ) ( Authari (Authari Flavius) wg Z.N.E. ) ( Authari wg D.O.T.W.A.C.A.G.H. )
                                                         575-591 ( wg V.N.M.S.D. )
-    Agilulf                   	                        590-616 ( wg D.Ś. i Z.N.E. )
+    Agilulf                   	                        590-616 ( wg D.Ś. i Z.N.E. i D.O.T.W.A.C.A.G.H. )
                                                   	    591-615 ( wg V.N.M.S.D. )
                                                         591-po 603 (?-13.9.) ( wg B.S. )
     Dynastia bawarska
       Adaloald                	                        616-626 ( wg D.Ś. )
                                                   	    615-625 ( wg V.N.M.S.D. )
-                                                        604/616-626 ( Adawald wg Z.N.E. )
-    Arioald                   	                        626-636 ( wg D.Ś. ) ( Ariwald wg Z.N.E. )
+                                                        604/616-626 ( Adawald wg Z.N.E. i D.O.T.W.A.C.A.G.H. )
+    Arioald                   	                        626-636 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Ariwald wg Z.N.E. )
                                                   	    625-636 ( wg V.N.M.S.D. )
-    Rotari                     	                        636-652 ( wg D.Ś. i V.N.M.S.D. ) ( Rothari wg Z.N.E. )
-    Rodoald                 	                          652-653 ( wg D.Ś. i Z.N.E. )
+    Rotari                     	                        636-652 ( wg D.Ś. i V.N.M.S.D. ) ( Rothari wg Z.N.E. i D.O.T.W.A.C.A.G.H. )
+    Rodoald                 	                          652-653 ( wg D.Ś. i Z.N.E. i D.O.T.W.A.C.A.G.H. )
     Dynastia bawarska
-      Aribert I                  	                      653-661 ( wg D.Ś. i V.N.M.S.D. ) ( Aripert wg Z.N.E. )
-      Godebert                 	                        661-662 ( wg D.Ś. )
+      Aribert I                  	                      653-661 ( wg D.Ś. i V.N.M.S.D. ) ( Aripert wg Z.N.E. ) ( Aripert I wg D.O.T.W.A.C.A.G.H. )
+      Godebert                 	                        661-662 ( wg D.Ś. ) ( Godepert wg D.O.T.W.A.C.A.G.H. )
                                                         661-? ( Godepert wg Z.N.E. )
-      Bertarid                   	                      671-688 ( wg D.Ś. )
-                                                        661-? i 671-688 ( Perktarit wg Z.N.E. )
-                                                        671-686 ( wg V.N.M.S.D. )
-    Grimoald                 	                          662-671 ( wg D.Ś. i V.N.M.S.D. )
+    Grimoald                 	                          662-671 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
                                                         ?-671 ( wg Z.N.E. )
                                                         przed 664-? ( wg B.S. )
-    Garibald                  	                        671 ( wg D.Ś. )
+    Garibald                  	                        671 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
     Dynastia bawarska
+      Bertarid                   	                      671-688 ( wg D.Ś. ) ( Perctarit wg D.O.T.W.A.C.A.G.H. )
+                                                        661-? i 671-688 ( Perktarit wg Z.N.E. )
+                                                        671-686 ( wg V.N.M.S.D. )
       Kunibert Pobożny	                                688-700 ( wg D.Ś. )
                                                    	    686-700 ( wg V.N.M.S.D. )
                                                         688-700 ( Kuninkpert wg Z.N.E. )
-      Luitbert                   	                      700-701 ( wg D.Ś. )
+                                                        680/688-700 ( Cunipert wg D.O.T.W.A.C.A.G.H. )
+      Luitbert                   	                      700-701 ( wg D.Ś. ) ( Liutpert wg D.O.T.W.A.C.A.G.H. )
                                                         700-? ( Liutpert wg Z.N.E. )
-      Aribert II                 	                      701-712 ( wg D.Ś. )
-                                                        ?-712 ( Aripert II wg Z.N.E. )
-    Raginbert                 	                        701 ( wg D.Ś. )
+    Raginbert                 	                        701 ( wg D.Ś. ) ( Raginpert wg D.O.T.W.A.C.A.G.H. )
                                                   	    700-712 ( wg V.N.M.S.D. )
-    Ansbrand                 	                          712 ( wg D.Ś. ) ( Ansprand wg Z.N.E. )
-    Luitbrand                 	                        712-744 ( wg D.Ś. i V.N.M.S.D. ) ( Liutprand wg Z.N.E. )
+    Dynastia bawarska
+      Aribert II                 	                      701-712 ( wg D.Ś. ) ( Aripert II wg D.O.T.W.A.C.A.G.H. )
+                                                        ?-712 ( Aripert II wg Z.N.E. )
+    Ansbrand                 	                          712 ( wg D.Ś. ) ( Ansprand wg Z.N.E. i D.O.T.W.A.C.A.G.H. )
+    Luitbrand                 	                        712-744 ( wg D.Ś. i V.N.M.S.D. ) ( Liutprand wg Z.N.E. i D.O.T.W.A.C.A.G.H. )
         			                                          przed 713-po 714 ( Liutprand wg D.B. )
                                                         ? ( Liutprand wg H.W. )
     Hildebrand               	                          744 ( wg D.Ś. ) ( Hildeprand wg Z.N.E. )
-    Rachis                      	                      744-749 i 756-757 ( wg D.Ś. )
+                                                        735/44-744 ( Hildeprand wg D.O.T.W.A.C.A.G.H. )
+    Rachis                      	                      744-749 i 756-757 ( wg D.Ś. ) ( Ratchis wg D.O.T.W.A.C.A.G.H. )
                                                     	  744-749 ( wg V.N.M.S.D. )
                                                         przed 749-? i ? (?.5.-? i ?) ( Ratchis wg Z.N.E. )
-    Astolf                       	                      749-756 ( wg D.Ś. i V.N.M.S.D. )
+    Astolf                       	                      749-756 ( wg D.Ś. i V.N.M.S.D. ) ( Aistulf wg D.O.T.W.A.C.A.G.H. )
         			 	                                        przed 751-? ( Aistulf wg D.B. i H.W. )
                                                         749-756 (?.5.-?.12.) ( Aistulf wg Z.N.E. )
-    Dezyderiusz             	                          757-774 ( wg D.Ś. )
+    Dezyderiusz             	                          757-774 ( wg D.Ś. ) ( Desiderius wg D.O.T.W.A.C.A.G.H. )
                                                     	  756-763 ( wg V.N.M.S.D. )
         			 	                                        przed 770-774 ( wg 100.N.V.S. )
                                                         przed 768-774 (?.9.-?) ( wg Z.N.E. )
     Adelchis                                            ?-774 ( wg Z.N.E. )
+                                                        759-774 ( Adalgis wg D.O.T.W.A.C.A.G.H. )
     Karol Wielki                                        ? ( wg Z.N.E. )
     Bernhard                                            przed 815-? (1.7.-?) ( wg S.P.D.Z. )
   Bibliografia :
@@ -15924,6 +15994,7 @@ Longobardowie ( Winilowie )
       Słowianie połabscy - Dzieje zagłady
       Historia Wenecji
       Bitwy Słowian
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Królestwo Lori ( Kingdom of Lori )
   Gurgen I                	                            980-989 ( wg D.Ś. )
@@ -16286,7 +16357,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia )
     Filip II Macedoński               	                359-336 ( wg A.Č. i D.Ś. i V.N.M.S.D. i S.C. i D.P.I.R.G. i H.P.S. i S.K. ) ( Filip II Makedonský wg E.P. i K.Ř. ) ( Philip II wg D.O.T.W.A.C.A.G.H. )
 				    	                                          ?-336 ( wg 100.N.V.S. )
 				    	                                          358-336 ( Filip wg D.G. )
-					                                              ? ( wg D.R. ) ( Filip Makedonský wg T.P.Ž.C. ) ( Filip Macedoński wg O.A.O.C.E. ) ( Philip wg S.A.B.H.O.H. )
+					                                              ? ( wg D.R. ) ( Filip Makedonský wg T.P.Ž.C. ) ( Filip Macedoński wg O.A.O.C.E. ) ( Philip wg S.A.B.H.O.H. ) ( Filip wg Z.O. )
 				    	                                          przed 358-po 339 ( wg T. )
 				    	                                          przed 338-336 ( wg T.H.S. )
   				    	                                        ?-336 ( ?-lato ) ( wg S.H. )
@@ -16301,7 +16372,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia )
                                                         ok.333 ( wg F. )
 				    	                                          przed 334-po 332 ( wg D.R. )
 				    	                                          336-? ( wg S.C. )
-				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. i H.W. i F.H.C.R. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. ) ( Aleksander Macedoński wg Z.N.E. i T.R.L.Z.S.L.R.S.B. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. ) ( Alexandr Makedonský wg A.Č.D. ) ( Alexander the Great wg S.A.B.H.O.H. )
+				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. i H.W. i F.H.C.R. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. ) ( Aleksander Macedoński wg Z.N.E. i T.R.L.Z.S.L.R.S.B. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. ) ( Alexandr Makedonský wg A.Č.D. ) ( Alexander the Great wg S.A.B.H.O.H. ) ( Alexander wg U.E. )
 				    	                                          przed 332-?  ( Aleksander Macedoński wg B.M. )
                                                         przed 324-323 ( ?-10.6. ) ( Alexandr Veliký wg T.H.S. )
 					                                              przed 332-323 ( Alexandr Veliký wg Ž.V.Ř.S. )
@@ -16309,6 +16380,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia )
 					                                              przed 334-po 323 ( Alexandr Veliký wg M.P.M. )
                                                         przed 334-323 ( Alexandr Veliký wg Ř.S.J.Ď.S. )
                                                         przed 329-po 327 ( Alexander the Great wg T.S.O.I.C.O.T.W. )
+                                                        przed 331-? ( Alexandr Veliký (Alexandr) wg Z.O. )
     Filip III Arridaios                  	              323-317 ( wg D.Ś. i A.Č. i V.N.M.S.D. i H.P.S. i S.K. ) ( Philip III (Arrhidaeus) wg D.O.T.W.A.C.A.G.H. )
 				    	                                          323-? ( wg D.G. )
 				    	                                          ok.320 ( wg T. )
@@ -16444,6 +16516,8 @@ Macedonia ( Makedonie , The Kingdom of Macedonia )
       Tamerlane - Sword of Islam, Conqueror of the World
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Unpopular Essays
+      Záhadný ostrov
 
 Machalata
   Bibliografia :
@@ -17833,31 +17907,29 @@ Mon
   Bibliografia :
       Khmerové
 
-Księstwo Monako
+Księstwo Monako ( Principality of Monaco )
   Dynastia Grimaldi
-    Lambert Grimaldi         	                          1458-1494
-    Jan II                             	                1494-1505
-    Lucjan                           	                  1505-1523
-    Augustyn                       	                    1523-1532
-    Honoriusz I                    	                    1532-1581
-    Karol II                          	                1581-1589
-    Herkules                         	                  1589-1604
-    Honoriusz II                   	                    1604-1662
-    Ludwik I                         	                  1662-1701
-    Antoni                             	                1701-1731
-    Ludwika Hipolita		                                1731
-    Jakub                               	              1731-1733
-    Honoriusz III                   	                  1733-1793
-    Honoriusz IV                   	                    1814-1819
-    Honoriusz V                     	                  1819-1841
-    Florestan I                        	                1841-1856
-    Karol III                           	              1856-1889
-    Albert I                             	              1889-1922
-    Ludwik II                          	                1922-1949
-    Rainier III                          	              1949-?
+    Lambert Grimaldi         	                          1458-1494 ( wg D.Ś. )
+    Jan II                             	                1494-1505 ( wg D.Ś. )
+    Lucjan                           	                  1505-1523 ( wg D.Ś. )
+    Augustyn                       	                    1523-1532 ( wg D.Ś. )
+    Honoriusz I                    	                    1532-1581 ( wg D.Ś. )
+    Karol II                          	                1581-1589 ( wg D.Ś. )
+    Herkules                         	                  1589-1604 ( wg D.Ś. )
+    Honoriusz II                   	                    1604-1662 ( wg D.Ś. )
+    Ludwik I                         	                  1662-1701 ( wg D.Ś. )
+    Antoni                             	                1701-1731 ( wg D.Ś. )
+    Ludwika Hipolita		                                1731 ( wg D.Ś. )
+    Jakub                               	              1731-1733 ( wg D.Ś. )
+    Honoriusz III                   	                  1733-1793 ( wg D.Ś. )
+    Honoriusz IV                   	                    1814-1819 ( wg D.Ś. )
+    Honoriusz V                     	                  1819-1841 ( wg D.Ś. )
+    Florestan I                        	                1841-1856 ( wg D.Ś. )
+    Karol III                           	              1856-1889 ( wg D.Ś. )
+    Albert I                             	              1889-1922 ( wg D.Ś. )
+    Ludwik II                          	                1922-1949 ( wg D.Ś. )
+    Rainier III                          	              1949-? ( wg D.Ś. )
     Albert II                                           przed 2011-? (?.4.-?) ( wg V.K.T.H.O.H.E. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
@@ -18479,7 +18551,7 @@ Neapol
 
 Królestwo Neapolu i Sycylii ( Kingdom of Sicily, Kingdom of Naples )
   Roger II Wielki         	                            1105-1154 ( wg D.Ś. )
-                                                    	  1130-1154 ( wg V.N.M.S.D. i M.A.E. ) ( Roger II (Roger) wg N.T.V.S. )
+                                                    	  1130-1154 ( wg V.N.M.S.D. i M.A.E. ) ( Roger II (Roger) wg N.T.V.S. ) ( Roger II (Roger) wg N.I.B.W.XI.S. )
       			   	                                        1130-? ( wg D.B. )
       			   	                                        przed 1127-1154 ( ?-26.2. ) ( wg F.B.C.A.R. )
                                                         1130-? ( Roger The Norman wg V.K.T.H.O.H.E. )
@@ -18507,6 +18579,7 @@ Królestwo Neapolu i Sycylii ( Kingdom of Sicily, Kingdom of Naples )
       		        	                                    1194-po 1196 ( Jindřich VI wg D.B. )
                                                         1194-1197 (24.12.-?) ( Henryk VI (Henryk Hohenstauf) wg H.W. )
                                                         1190/4-1197 (?/25.12.-?) ( Henryk VI wg F.H.C.R. )
+                                                        1194-? ( Henryk VI wg N.I.B.W.XI.S. )
     Fryderyk I     	                                    1197-1250 ( wg D.Ś. i V.N.M.S.D. ) [Emperor Frederick II]
                                                         ?-1250 ( Frederick II of Hohenstaufen wg V.K.T.H.O.H.E. )
                                                         1198-1250 (17.5.-13.12.) ( Fryderyk II Hohenstauf (Konstantyn, Fryderyk Roger, Fryderyk, Hohenstauf, Federico II, Friedrich II, Federico, Al-Anbaratur, Fryderyk II Stauf, Frederick II of Hohenstaufen, Friedrich der Zweite, Friedrich, Friedrich II. der Hohenstaufe, Friedrich II., Fryderyk Hohenstauf, Friedrich II. von Hohenstaufen) wg F.H.C.R. )
@@ -18540,6 +18613,7 @@ Królestwo Neapolu i Sycylii ( Kingdom of Sicily, Kingdom of Naples )
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Northmen - The Viking Saga 793-1241
+      Normanowie i Bizancjum w XI stuleciu
 
 Neapolis Scytyjska
   Palako(a,e)s                                          ok.110 p.n.e.
@@ -18780,7 +18854,7 @@ Niemcy ( Germany , Německo )
       			   	                                        1933-? ( wg 100.N.U.W. )
       			   	                                        1933-po 1941 ( wg M.Ś. )
                                                         1933-po 1945 (?-21.1.) ( wg V.K.T.H.O.H.E. )
-      			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. i M.W.H. ) ( Hitler wg E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i H.T.B.A.G. )
+      			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. i M.W.H. ) ( Hitler wg E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i H.T.B.A.G. i U.E. )
                                                         przed 1939-po 1941 (15.3.-22.6.) ( wg P.N.D. )
   German Democratic Republic ( NRD , East Germany , German Democratic Republic )
   German Federal Republic ( RFN , West Germany )
@@ -18823,6 +18897,7 @@ Niemcy ( Germany , Německo )
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
       Litwa - Początki Państw
       Hard To Be a God
+      Unpopular Essays
 
 Niger
   Bibliografia :
@@ -19863,9 +19938,10 @@ Ostrogoci ( Greutungowie , Goci Wschodni )
       		         		                                  przed 451-po 455 ( wg H. )
   Widymer           		                                ok.451 ( wg D.R. )
   Theodorich Strabon  	                                przed 474-481 ( wg D.B. )
-  Królestwo Ostrogotów
-    Dynastia Amalów
-      Teodoryk Wielki    	                              493-526 ( wg D.Ś. i V.N.M.S.D. ) ( Theodorich wg Ř.V.G. )
+  Theoderic the Great                                   przed 489-493 ( wg D.O.T.W.A.C.A.G.H. )
+  Królestwo Ostrogotów ( The Ostrogothic Kingdom )
+    Dynastia Amalów ( Amal House )
+      Teodoryk Wielki    	                              493-526 ( wg D.Ś. i V.N.M.S.D. ) ( Theodorich wg Ř.V.G. ) ( Theoderic the Great wg D.O.T.W.A.C.A.G.H. )
       			         	                                  489-526 ( wg D.R. )
       				                                          475-526 ( wg S.C. )
       		       		                                    ? ( Teodorich Velký wg M.A.E. ) ( Teodoryk wg F.H.C.R. )
@@ -19874,23 +19950,23 @@ Ostrogoci ( Greutungowie , Goci Wschodni )
                                                         przed 488-526 ( Theodoric The Ostrogoth wg V.K.T.H.O.H.E. )
                                                         przed 493-526 ( wg Z.N.E. )
                                                         przed 523-? ( Teodoryk wg H.W. )
-      Atalaryk                	                        526-534 ( wg D.Ś. )
-      Amalasunta          	                            534 ( wg D.Ś. )
+      Atalaryk                	                        526-534 ( wg D.Ś. ) ( Athalaric wg D.O.T.W.A.C.A.G.H. )
+      Amalasunta          	                            534 ( wg D.Ś. ) ( Amalasuintha wg D.O.T.W.A.C.A.G.H. )
                                                      	  526-534 ( wg V.N.M.S.D. ) ( Amalasuintha wg D.B. )
       			        	                                  ?-535 ( wg S.C. )
-      Teodahad            	                            534-536 ( wg D.Ś. i V.N.M.S.D. )
+      Teodahad            	                            534-536 ( wg D.Ś. i V.N.M.S.D. ) ( Theodahad wg D.O.T.W.A.C.A.G.H. )
       			        	                                  534 -? ( Theodahad wg D.B. )
-      Witiges                 	                        536-540 ( wg D.Ś. )
+      Witiges                 	                        536-540 ( wg D.Ś. ) ( Witigis wg D.O.T.W.A.C.A.G.H. )
                                                   	    536-541 ( wg V.N.M.S.D. )
       			     	                                      ?-540 ( Vitigis wg D.B. )
-      Hildibad             	                            540-541 ( wg D.Ś. )
-      Eraryk                	                          541 ( wg D.Ś. )
-      Totila ( Baduila )	                              541-552 ( wg D.Ś. i S.C. )
+      Hildibad             	                            540-541 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Eraryk                	                          541 ( wg D.Ś. ) ( Eraric wg D.O.T.W.A.C.A.G.H. )
+      Totila ( Baduila )	                              541-552 ( wg D.Ś. i S.C. i D.O.T.W.A.C.A.G.H. )
                                                      	  542-553 ( wg V.N.M.S.D. )
       			         	                                  542-552 (?-?.4.) ( wg D.B. )
                                                         541-? ( wg Z.N.E. )
                                                         przed 546-po 549 ( wg B.S. )
-      Teja                      	                      552 ( wg D.Ś. )
+      Teja                      	                      552 ( wg D.Ś. ) ( Teias wg D.O.T.W.A.C.A.G.H. )
                                                      	  553 ( wg V.N.M.S.D. )
   Bibliografia :
       Dynastie Świata
@@ -19913,6 +19989,7 @@ Ostrogoci ( Greutungowie , Goci Wschodni )
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Northmen - The Viking Saga 793-1241
       Bitwy Słowian
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Duchy of Oświęcim
   Bibliografia :
@@ -20562,7 +20639,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
                                                         550-ok.530 ( wg S.A. )
                                                         559-530 ( wg D.Ś. ) ( Cyrus Wielki wg S.C. ) ( Kyros II wg T. ) ( Kýros (Kyros, Cyrus, Kýros II.) wg D.S.B.V. ) ( Cyrus the Great wg D.O.T.W.A.C.A.G.H. )
       				         	                                558-530 ( wg K.T.V.S.O. ) ( Cyrus Wielki wg  100.N.V.S. )
-      				   	                                      ? ( Cyrus wg F. ) ( Kýros Veliký wg A.O.M.S.K.R. i S.H. ) ( Kyros wg T.H.S. ) ( Kýros wg E.P. ) ( Kýros II Veliký wg Ž.V.Ř.S. ) ( Cyrus II Wielki wg C.W.C.B.R. ) ( Cyrus the Great wg T.S.O.I.C.O.T.W. )
+      				   	                                      ? ( Cyrus wg F. i U.E. ) ( Kýros Veliký wg A.O.M.S.K.R. i S.H. ) ( Kyros wg T.H.S. ) ( Kýros wg E.P. ) ( Kýros II Veliký wg Ž.V.Ř.S. ) ( Cyrus II Wielki wg C.W.C.B.R. ) ( Cyrus the Great wg T.S.O.I.C.O.T.W. )
       					                                        przed 550-po 546 ( Kyros II Veliký wg Z.Ř. )
       				          	                              558-529 ( Cyrus wg H.P.S. ) ( Kýros II Starší ( Kýros II Veliký ) wg E.P. )
       					                                        ok.550-po 539 ( Kýros II wg M.P.M. )
@@ -20596,7 +20673,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       				           	                              486-po 480 ( Kserkses wg D.G. )
       				   	                                      przed 480-? ( Xerxes I wg D.P.I.R.G. ) ( Kserkses wg B.M. ) ( Xerxés wg S.H. )
       				   	                                      przed 485-po 480 ( Xerxes wg T. )
-      				   	                                      ? ( Xerxes wg T.H.S. ) ( Xerxes I wg Z.Ř. ) ( Xerxes (Chšajaraša) wg Gilg. )
+      				   	                                      ? ( Xerxes wg T.H.S. i U.E. ) ( Xerxes I wg Z.Ř. ) ( Xerxes (Chšajaraša) wg Gilg. )
       					                                        przed 486-? ( Xerxés wg M.P.M. )
       					                                        486-465 ( Xerxes I wg K.Ř. )
       Artakserkses I Długoręki	                        464-424 (wg V.N.M.S.D. i D.Ś. i A.Č. i S.B.W. ) ( Atraxerxes I (Atraxerxes I Longimanus) wg D.O.T.W.A.C.A.G.H. )
@@ -20840,6 +20917,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       Tamerlane - Sword of Islam, Conqueror of the World
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Unpopular Essays
 
 Peru
   Bibliografia :
@@ -22552,7 +22630,7 @@ Rzym
     							  		                                ? ( Marcus Licinius Crassus wg S.H. ) ( Crassus wg Ž.V.Ř.S. i Ř.S.J.Ď.S. )
     							            		                      70 ( wg S.C. ) ( Crassus wg T.P.Ž.C. )
     Gnejusz Pompejusz Magnus			            		      70 i 55 i 52 ( wg D.R. i H.P.S. i K.R.I.C.R. ) ( Gnejusz pompejusz (Pompejusz, Pompejusz Wielki, Gnejusz Pompejusz Wielki, Pompey) wg K.P.N.A. )
-    									                                  ? ( Gnaeus Pompeius Magnus wg S.H. ) ( Pompeius wg Ž.V.Ř.S. i Ř.S.J.Ď.S. ) ( Pompejusz wg Z.N.E. )
+    									                                  ? ( Gnaeus Pompeius Magnus wg S.H. ) ( Pompeius wg Ž.V.Ř.S. i Ř.S.J.Ď.S. ) ( Pompejusz wg Z.N.E. ) ( Gnejusz Pompejusz (Pompejusz) wg N.I.B.W.XI.S. )
                                                         70 ( wg S.C. i L. ) ( Gnaeus Pompeius wg T.P.Ž.C. )
     									                                  70 i 55 i ? ( Gnaeus Pompeius wg Z.V.C. ) ( wg O.A.O.C.E. )
     Kwintus Hortensjusz Hortalus                        69 ( wg K.P.N.A. )
@@ -22583,7 +22661,7 @@ Rzym
                                                         59 i 49-44 ( Gajusz Juliusz Cezar wg S.C. )
                                                         59 i 49-44 (?-15.3.) ( wg H.P.S. i K.R.I.C.R. i Z.V.C. )
                                                         przed 49-po 48 ( wg B.M. )
-                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. ) ( Cezar wg Z.N.E. ) ( Julius Caesar wg S.A.B.H.O.H. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. )
+                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. ) ( Cezar wg Z.N.E. ) ( Julius Caesar wg S.A.B.H.O.H. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. ) ( Julius Caesar (Caesar) wg U.E. )
                                                         ?-ok.44 ( wg T. )
                                                         59 i przed 48-44 ( ?-15.3. ) ( Caesar wg S.K. )
                                                         przed 47-po 44 ( wg S.H. )
@@ -22594,6 +22672,7 @@ Rzym
                                                         59 i ?-44 ( ?-15.3. ) ( Gajusz Juliusz Cezar wg O.A.O.C.E. )
                                                         59 i ?-44 ( Gajusz Juliusz Cezar (Cezar) wg K.P.N.A. )
                                                         59 ( Gajusz Juliusz Cezar wg L. )
+                                                        przed 48-? ( Gajusz Juliusz Cezar (Cezar) wg N.I.B.W.XI.S. )
     Lucjusz Kalpurniusz Bibulus			            		    59 ( wg D.R. ) ( Bibulus wg O.A.O.C.E. ) ( Marek Kalpurnius Bibulus wg K.R.I.C.R. ) ( Marek Kalpurniusz Bibulus wg L. i K.P.N.A. )
     Aulus Gabiniusz					         	                  58 ( wg D.R. i K.P.N.A. )
     Lucjusz Kalpurniusz Pizon                           58 ( Lucjusz Kalpurniusz Pizon Cezoninus wg K.P.N.A. )
@@ -22671,7 +22750,7 @@ Rzym
         Gaius Claudius Nero Germanicus  ( Kaligula )	  37-41 (18.3.-24.1.) ( wg P.C.R. i K.R.I.C.R. )
           						           		                    37-41 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i S.C. ) ( Gaius Caesar Caligula ( Gajusz Cezar ) wg D.R. i Ř.V.G. ) ( Gajusz Cezar Germanik wg H.P.S. ) ( Caligula (Gaius Caesar) wg D.O.T.W.A.C.A.G.H. )
     				           				                          przed 37-? ( Caligula wg T. )
-    					 			                                    ? ( Caligula wg S.K. ) ( wg O.A.O.C.E. )
+    					 			                                    ? ( Caligula wg S.K. i U.E. ) ( wg O.A.O.C.E. )
     								                                    37-41 ( ?-24.1. ) ( Caligula wg Ž.V.Ř.S. i Z.V.C. )
     								                                    37-? ( Caligula wg T.P.Ž.C. )
         Tiberius Claudius Nero Drusus ( Klaudiusz )     41-54 (25.1.-13.10.) ( wg P.C.R. i K.R.I.C.R. )
@@ -22682,7 +22761,7 @@ Rzym
                                                         ? ( Claudius wg S.A.B.H.O.H. ) ( wg B.S. )
         Lucius Domitius Claudius Nero ( Neron )         54-68 (13.10.-9.6.) ( wg P.C.R. i K.R.I.C.R. )
     						           		                          54-68 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i S.C. i Ř.V.G. i Ž.V.Ř.S. i Z.V.C. ) ( Lucius	Domitius Ahenobarbus Nero	Claudius Caesar ( Lucjusz	Domicjusz Ahenobarbus ) wg D.R. i H.P.S. ) ( Nero (Nero Claudius Caesar, Lucius Domitius Ahenobarbus) wg D.O.T.W.A.C.A.G.H. )
-    							  	                                  ? ( Nero wg S.H. i O.A.O.C.E. ) ( wg Z.N.E. i H.W. i F.H.C.R. i L.P.P. )
+    							  	                                  ? ( Nero wg S.H. i O.A.O.C.E. i U.E. ) ( wg Z.N.E. i H.W. i F.H.C.R. i L.P.P. )
       Servius Sulpicius Galba ( Galba )                 68-69 (9.6.-15.1.) ( wg P.C.R. i K.R.I.C.R. )
               		                                      68-69 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i S.C. i E.P. i D.O.T.W.A.C.A.G.H. ) ( Serwiusz Sulpicjusz Galba wg H.P.S. )
                                                         68-69 (jesień-15.1.) ( Serwiusz Sulpicjusz Galba wg D.R. )
@@ -22754,7 +22833,7 @@ Rzym
     								                                    161-180 ( wg V.N.M.S.D. i D.Ś. i A.Č. i S.C. i H.P.S. i Ř.V.G. i Ž.V.Ř.S. ) ( Marcus Aurelius Verus wg Tapsella ) ( Marcus Aurelius Annius Verus wg Z.V.C. ) ( Marcus Aurelius wg D.O.T.W.A.C.A.G.H. )
     		  						                                  161-180 (?-marzec) ( wg D.R. )
     		  						                                  przed 172-po 175 ( wg D.P.I.R.G. )
-    		         						                            ? ( Marek Aurelius wg T. ) ( Marcus Aurelius wg V.K.T.H.O.H.E. i S.A.B.H.O.H. ) ( wg B.S. )
+    		         						                            ? ( Marek Aurelius wg T. ) ( Marcus Aurelius wg V.K.T.H.O.H.E. i S.A.B.H.O.H. i U.E. ) ( wg B.S. )
     		  						                                  przed 179-? ( Marek Aurelius wg Z.S.A.V.E. )
                                                         przed 178-po 180 ( wg Z.N.E. )
       Marcus Aurelius Antoninus Commodus ( Kommodus )	  180-192 (17.3.-31.12.) ( wg P.C.R. i K.R.I.C.R.  )
@@ -22987,7 +23066,7 @@ Rzym
            								                              ok.330 ( wg K.V. )
     	  							                                  307-308 i 310-337 (?-listopad i ?) ( wg D.R. )
           								                              324-337 (?-?.10.) ( Konstantin I Veliký wg D.B. )
-                 							                          ? ( Konstantin Veliký wg Z.S.A.V.E. i F.B.C.A.R. ) ( Konstantyn Wielki wg H.W. i B.S. ) ( Konstantyn wg F.H.C.R. )
+                 							                          ? ( Konstantin Veliký wg Z.S.A.V.E. i F.B.C.A.R. ) ( Konstantyn Wielki wg H.W. i B.S. ) ( Konstantyn wg F.H.C.R. i N.I.B.W.XI.S. )
     								                                    przed 324-po 325 ( Konstantin I wg E.P. )
                                                         przed 330-? ( Konstantin Veliký wg Ř.S.J.Ď.S. ) ( Constantine wg V.K.T.H.O.H.E. )
                                                         306-? ( Constantine (Constantine the Great) wg S.A.B.H.O.H. ) ( Constantin the Great wg N.T.V.S. )
@@ -23050,7 +23129,7 @@ Rzym
                                                         364-378 (28.3.-9.8.) ( wg P.C.R. )
                                                         364-379 ( wg V.N.M.S.D. )
     							                                      ? ( wg S.C. )
-    						           	                            ?-378 ( wg M.A.E. i H.P.S. i Ř.V.G. i Z.N.E. ) ( Valence wg S.A.B.H.O.H. )
+    						           	                            ?-378 ( wg M.A.E. i H.P.S. i Ř.V.G. i Z.N.E. i N.I.B.W.XI.S. ) ( Valence wg S.A.B.H.O.H. )
     						           	                            364-378 (28.2.-9.8.) ( wg K.R.I.C.R. )
     						           	                            przed 367-378 ( Valent wg H. )
     						           	                            364-378 (?-9.8.) ( wg D.B. )
@@ -23075,7 +23154,7 @@ Rzym
     Dynastia Teodozjusza ( Dynasty of Theodosius )
       Flavius Theodosius ( Teodozjusz I Wielki )		    379-395 (19.1.-17.1.) ( wg P.C.R. i K.R.I.C.R. )
     							 	                                    379-395 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i R.Z.A.D.D. i S.C. i H.P.S. ) ( Theodosios I Veliký wg D.B. ) ( Theodosius I wg Ž.V.Ř.S. i V.K.T.H.O.H.E. ) ( Theodosius I (Theodosius I the Great) wg D.O.T.W.A.C.A.G.H. )
-    							 	                                    przed 395-? ( wg D.P.I.R.G. ) ( Theodosius I. wg P.N.D. )
+    							 	                                    przed 395-? ( wg D.P.I.R.G. ) ( Theodosius I. wg P.N.D. ) ( Teodozjusz Wielki wg N.I.B.W.XI.S. )
     							 	                                    ?-395 ( Theodosius Velký wg M.A.E. ) ( Theodosius I wg N.T.V.S. )
     							 	                                    378-395 ( wg D.R. )
     							 	                                    379-po 388 (19.1.-?) ( Theodosios I wg H. )
@@ -23218,7 +23297,7 @@ Rzym
         Flavius Basiliscus ( Basiliskos ) 	            475-476 (?.1.-lato) ( wg P.C.R. )
     				              	                            475-476 ( wg D.Ś. i A.Č. i Tapsella i D.B. ) ( Basiliscus wg D.O.T.W.A.C.A.G.H. )
         Anastasius ( Anastazjusz I )       	            491-518 (11.4.-9.7.) ( wg P.C.R. )
-    				             	                              491-518 ( wg V.N.M.S.D. i R.Z.A.D.D. i D.Ś. i A.Č. i Tapsella i  S.C. ) ( Anastasios I wg D.B. ) ( Anastasios wg E.P. ) ( Anastasius I wg D.O.T.W.A.C.A.G.H. )
+    				             	                              491-518 ( wg V.N.M.S.D. i R.Z.A.D.D. i D.Ś. i A.Č. i Tapsella i  S.C. ) ( Anastasios I wg D.B. ) ( Anastasios wg E.P. ) ( Anastasius I wg D.O.T.W.A.C.A.G.H. ) ( Anastazy I Dikuros wg N.I.B.W.XI.S. )
         Leonides                                        484-488 ( wg D.B. )
       Dynastia Justynów ( Dynasty of Justin )
         Iustinus ( Justyn I )                           518-527 (10.7.-1.8.) ( wg P.C.R. )
@@ -23226,7 +23305,7 @@ Rzym
     							                                      518-527 (?-1.8.) ( Justin I wg E.P. )
                                                         przed 518-527 ( Justinus I wg B.S. )
         Iustinianus Flavius ( Justynian I Wielki )	    527-565 (1.4.-15.11.) ( wg P.C.R. )
-    							                                      527-565 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella i S.C. ) ( Justinián I wg D.P.I.R.G. ) ( Iustinianus I wg Ž.V.Ř.S. ) ( Justinian wg V.K.T.H.O.H.E. ) ( Justinian I (Justinian I the Great) wg D.O.T.W.A.C.A.G.H. )
+    							                                      527-565 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella i S.C. ) (Justynian I wg N.I.B.W.XI.S. ) ( Justinián I wg D.P.I.R.G. ) ( Iustinianus I wg Ž.V.Ř.S. ) ( Justinian wg V.K.T.H.O.H.E. ) ( Justinian I (Justinian I the Great) wg D.O.T.W.A.C.A.G.H. )
     						      	                                ? ( wg D.R. ) ( Justinianus wg H. ) ( Iustinán wg Z.S.A.V.E. ) ( Justynian wg F.H.C.R. )
                                                         przed 529-? ( Iustinianos wg Ř.S.J.Ď.S. )
     							                                      przed 534-? ( Justynian wg K.R.I.C.R. )
@@ -23251,6 +23330,7 @@ Rzym
                                                         ok.625 ( Maurice wg V.K.T.H.O.H.E. )
                                                         ? ( wg Z.N.E. )
                                                         przed 594-po 596 ( wg B.S. )
+                                                        ok.600 ( wg N.I.B.W.XI.S. )
         Fokas ( Fokas )                                 602-610 (23.11.-5.10.) ( wg P.C.R. )
     							                                      602-610 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella i S.C. i D.B. ) ( Phocas wg D.O.T.W.A.C.A.G.H. )
     							                                      ?-610 ( wg D.D.T. i B.S. )
@@ -23303,6 +23383,7 @@ Rzym
     				         	                                  ? ( Lev III Syrský wg Z.S.A.V.E. ) ( Leon III wg Z.N.E. )
                                                         przed 726-? ( Leon III wg H.W. )
                                                         717-po 718 (?-15.8.) ( Leon III Izauryjczyk (Leon) wg B.S. )
+                                                        ok.750 ( Leon III wg N.I.B.W.XI.S. )
         Kosmo(e)s		          	                        ? ( wg D.B. )
         Konstantyn V Kopronimos	                        741 i 743-775 ( wg D.Ś. )
                                                         720/41-741 i 743-775 ( Constantine V (Constantine V Copronymus) wg D.O.T.W.A.C.A.G.H. )
@@ -23357,7 +23438,7 @@ Rzym
     							                                      867-886 (?-22.8.) ( Basileios I wg E.P. )
     						     	                                  ? ( Basileios I wg Z.S.A.V.E. ) ( Bazyli I wg H.W. )
                                                         przed 869-po 870 ( Bazyli wg B.S. )
-        Leon VI Filozof                                 886-912 ( wg D.Ś. i R.Z.A.D.D. i Tapsella )
+        Leon VI Filozof                                 886-912 ( wg D.Ś. i R.Z.A.D.D. i Tapsella ) ( Leon wg N.I.B.W.XI.S. )
                                                         870/86-912 ( Leo VI (Leo VI the Wise) wg D.O.T.W.A.C.A.G.H. )
     					             	                            886-912 (?-11.5.) ( wg D.B. )
                                                         886-911 ( wg V.N.M.S.D. )
@@ -23391,6 +23472,7 @@ Rzym
     						 	                                      ?-970 ( Nikeforos Foka wg Z.S.A.V.E. )
     							                                      ?-969 (?-10/11.12.) ( Nikeforos II Fokas wg E.P. )
                                                         przed 967-? ( Nicefor II Fokas wg B.S. )
+                                                        ok.950 ( Nikefor II Fokas wg N.I.B.W.XI.S. )
         Jan I Tzymiskes                                 969-976 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( John Tzimiskes wg N.T.V.S. ) ( John I Tzimisces wg D.O.T.W.A.C.A.G.H. )
     						                                        969-976 (10/11.12.-10.1.) ( Ioannes I Tzimiskes wg D.B. )
     						 	                                      przed 971-? ( Jan I Cimiskes wg Z.S.A.V.E. )
@@ -23399,82 +23481,93 @@ Rzym
         Bardas Skleros                                  ? ( wg B.S. )
         Bazyli II Bulgaroktonos ( Bułgarobójca )	      976-1025 ( wg D.Ś. i Tapsella )
                                                         960/76-1025 ( Basil II (Basil II Bulgaroctonus) wg D.O.T.W.A.C.A.G.H. )
-    						 	                                      976-1025 (?-15.12.) ( Basileios II wg D.B. )
+    						 	                                      976-1025 (?-15.12.) ( Basileios II wg D.B. ) ( Bazyli II (Bazyli II Bułgarobójca) wg N.I.B.W.XI.S. )
                                                         976-1028 ( wg V.N.M.S.D. ) ( Basileios II wg Z.S.A.V.E. )
                                                         ? ( Basil II The Bulgar-Slayer wg V.K.T.H.O.H.E. )
                                                         przed 980-po 1002 ( Bazyli II (Bazyli II Bułgarobójca) wg H.W. )
                                                         przed 987-po 988 ( Basil II wg N.T.V.S. )
                                                         przed 988-po 1014 (jesień-29.7.) ( Bazyli II Bułgarobójca (Bazyli II) wg B.S. )
-        Konstantyn VIII                                 1025-1028 ( wg D.Ś. ) ( Konstantinos VIII wg D.B. )
+        Konstantyn VIII                                 1025-1028 ( wg D.Ś. ) ( Konstantinos VIII wg D.B. ) ( Konstantyn wg N.I.B.W.XI.S. )
                                                         962/1025-1028 ( Constantine VIII wg D.O.T.W.A.C.A.G.H. )
                                                         976-1028 ( wg V.N.M.S.D. i Tapsella ) ( Konstantin VIII wg Z.S.A.V.E. )
                                                         przed 980-po 1002 ( wg H.W. )
-        Roman III Argyros                               1028-1034 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Romanos III Argyros wg D.B. ) ( Romanus III Argyrus wg D.O.T.W.A.C.A.G.H. )
-        Michał IV Paflagończyk                          1034-1041 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Michael IV wg D.B. ) ( Michael IV (Michael IV the Paphlagonian) wg D.O.T.W.A.C.A.G.H. )
-        Michał V Kalafates                              1041-1042 ( wg D.Ś. ) ( Michael V wg D.B. ) ( Michael V (Michael V Calaphates) wg D.O.T.W.A.C.A.G.H. )
-        Zoë                                             1042 ( wg D.Ś. ) ( Zoe wg D.B. )
+        Roman III Argyros                               1028-1034 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Romanos III Argyros wg D.B. ) ( Romanus III Argyrus wg D.O.T.W.A.C.A.G.H. ) ( Roman III wg N.I.B.W.XI.S. )
+        Michał IV Paflagończyk                          1034-1041 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Michael IV wg D.B. ) ( Michael IV (Michael IV the Paphlagonian) wg D.O.T.W.A.C.A.G.H. ) ( Michał IV wg N.I.B.W.XI.S. )
+        Michał V Kalafates                              1041-1042 ( wg D.Ś. ) ( Michael V wg D.B. ) ( Michael V (Michael V Calaphates) wg D.O.T.W.A.C.A.G.H. ) ( Michał V wg N.I.B.W.XI.S. )
+        Zoë                                             1042 ( wg D.Ś. ) ( Zoe wg D.B. i N.I.B.W.XI.S. )
                                                         1028/42-1042/50 ( wg D.O.T.W.A.C.A.G.H. )
     							                                      1041-1054 ( wg V.N.M.S.D. )
     							                                      1028-1050 ( wg Tapsella )
-        Teodora                                         1042 i 1055-1056 ( wg D.Ś. ) ( Theodora wg D.O.T.W.A.C.A.G.H. )
+        Teodora                                         1042 i 1055-1056 ( wg D.Ś. i N.I.B.W.XI.S. ) ( Theodora wg D.O.T.W.A.C.A.G.H. )
     							                                      1042 i 1055-1056 (? i ?-lato) ( Theodora wg D.B. )
                                                         1042-1056 ( wg Tapsella )
-        Konstantyn IX Monomach                         	1042-1055 ( wg D.Ś. i Tapsella ) ( Constantine IX Monomachus wg D.O.T.W.A.C.A.G.H. )
+        Konstantyn IX Monomach                         	1042-1055 ( wg D.Ś. i Tapsella ) ( Constantine IX Monomachus wg D.O.T.W.A.C.A.G.H. ) ( Konstantyn (Konstantyn Monomach, Konstantyn IX, Monomach) wg N.I.B.W.XI.S. )
     						 	                                      1042-1055 (?-11.1.) ( Konstantinos IX Monomachos wg	D.B. )
                                                         1041-1054 ( wg V.N.M.S.D. )
     						         	                              ? ( Konstantin Monomach wg Z.S.A.V.E. i Ř.S.J.Ď.S. )
-        Michał VI Stratiotikos                          1056-1057 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Michael VI wg D.B. ) ( Michael VI (Michael VI Stratioticus) wg D.O.T.W.A.C.A.G.H. )
+        Jerzy Maniakes                                  ?-1043 ( Maniakes wg N.I.B.W.XI.S. )
+        Michał VI Stratiotikos                          1056-1057 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Michael VI wg D.B. ) ( Michael VI (Michael VI Stratioticus) wg D.O.T.W.A.C.A.G.H. ) ( Michał VI Stary wg N.I.B.W.XI.S. )
+      Dynastia Komnenów
         Izaak I Komnen                                  1057-1059 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Isaac I Comnenus wg D.O.T.W.A.C.A.G.H. )
     						 	                                      1057-1059 (1.9.-?.12.) ( Isaakios I Komnenos wg D.B. )
+                                                        1057-1059 (1.9.-po lato) ( Izaak Komnen (Izaak) wg N.I.B.W.XI.S. )
       Dynastia Dukas ( Ducas Dynasty )
-        Konstantyn X Dukas           	                  1059-1067  ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Konstantinos X Dukas wg D.B. ) ( Constantine X Dukas wg D.O.T.W.A.C.A.G.H. )
+        Konstantyn X Dukas           	                  1059-1067  ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Konstantinos X Dukas wg D.B. ) ( Constantine X Dukas wg D.O.T.W.A.C.A.G.H. ) ( Konstantyn Dukas wg N.I.B.W.XI.S. )
         Eudoksja Makrembolitissa	                      1067-1068 i 1071 ( wg D.Ś. ) ( Eudocia Macrembolitissa wg D.O.T.W.A.C.A.G.H. )
     				         	                                  1067 ( Eudokia Makrembolitissa wg D.B. )
-        Roman IV Diogenes          	                    1068-1071 ( wg D.Ś. i Tapsella ) ( Romanus IV Diogenes wg D.O.T.W.A.C.A.G.H. )
+                                                        1067 i 1071 ( Eudokia Makrembolitissa (Eudoksja) wg N.I.B.W.XI.S. )
+        Roman IV Diogenes          	                    1068-1071 ( wg D.Ś. i Tapsella ) ( Romanus IV Diogenes wg D.O.T.W.A.C.A.G.H. ) ( Roman IV (Roman, Roman Diogenes) wg N.I.B.W.XI.S. )
     				         	                                  1068-1071 (1.1.-?) ( Romanos IV Diogenes wg D.B. )
                                                         1068-1081 ( wg V.N.M.S.D. )
                                                         przed 1071-? ( Romanos Diogenes wg Ř.S.J.Ď.S. ) ( Romanos IV Diogenes wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ?-1071 ( Romanos IV wg N.T.V.S. )
         Michał VII Parapinakes     	                    1071-1078 ( wg D.Ś. ) ( Michał VII Ducas wg Tapsella )
+                                                        1071-1077/8 ( Michał VII (Michał, Parapinakes) wg N.I.B.W.XI.S. )
                                                         1060/71-1078 ( Michael VII (Michael VII Parapinaces) wg D.O.T.W.A.C.A.G.H. )
                                                     		1071-1078 (24.10.-?) ( Michael VII Dukas wg D.B. )
                                                         ? ( Michał VII wg H.W. )
         Nicefor III Botaniates        	                1078-1081 ( wg D.Ś. i Tapsella ) ( Nicephorus III Botaniates wg D.O.T.W.A.C.A.G.H. )
     				         	                                  1078-1081 (3.4.-?) ( Nikeforos III Botaneiates wg D.B. )
+                                                        1078-1081 (?-po 1.4.) ( Nikefor III Botaniates (Nikefor, Botaniates, Nikefor Botaniates, Nikefor III) wg N.I.B.W.XI.S. )
+        Konstantyn                                      1081-? ( Konstantyn Porfirogeneta wg N.I.B.W.XI.S. )
       Dynastia Komnenów ( Comnenian Dynasty )
-        Aleksy I Komnen	                                1081-1118 ( wg V.N.M.S.D. i D.Ś.  i Tapsella ) ( Alexios I Komnenos wg D.B. ) ( Alexius I Comnenus wg D.O.T.W.A.C.A.G.H. )
+        Aleksy I Komnen	                                1081-1118 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Alexios I Komnenos wg D.B. ) ( Alexius I Comnenus wg D.O.T.W.A.C.A.G.H. )
                                                    	    przed 1088-1118 ( wg K.V. )
     			   	                                          ? ( Alexios Komnenos wg Z.S.A.V.E. ) ( Aleksy I wg F.H.C.R. )
                                                         przed 1081-1118 (?-15.8.) ( Aleksy (Aleksy Komnen) wg H.W. )
                                                         przed 1095-po 1111 ( Alexius I (Alexius) wg N.T.V.S. )
-        Jan II Kaloiannes	                              1118-1143 ( wg V.N.M.S.D. i D.Ś. i Tapsella i K.V. ) ( Ioannes II Komnenos wg D.B. ) ( Jan II Komnenos wg F.H.C.R. )
+                                                        1081-1118 (4.4.-?) ( Aleksy (Aleksy I, Aleksy Komnen) wg N.I.B.W.XI.S. )
+        Jan II Kaloiannes	                              1118-1143 ( wg V.N.M.S.D. i D.Ś. i Tapsella i K.V. ) ( Ioannes II Komnenos wg D.B. ) ( Jan II Komnenos wg F.H.C.R. ) ( Jan (Jan II Komnen, Komnen, Jan II Piękny) wg N.I.B.W.XI.S. )
                                                         1092/1118-1143( John II wg D.O.T.W.A.C.A.G.H. )
     			          	                                  przed 1135-?  ( wg F.B.C.A.R. )
                                                         1118-1143 (?-wiosna) ( Jan II (Jan Komnen, Jan II Komnen) wg H.W. )
-        Manuel I                	                      1143-1180 ( wg V.N.M.S.D. i D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) ( Manuel I Komnenos wg D.B. )
+        Manuel I                	                      1143-1180 ( wg V.N.M.S.D. i D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) ( Manuel I Komnenos wg D.B. ) ( Manuel I Komnen wg N.I.B.W.XI.S. )
     			        	                                    1143-1180 (?-24.9.) ( wg K.V. )
     			        	                                    przed 1146-po 1180 ( Manuel I Komnenos wg F.B.C.A.R. )
     				                                            ? ( Manuel I Komnénos wg E.P. ) ( Manuel I. wg A.Č.D. ) ( Manuel Komnen (Manuel) wg F.H.C.R. )
                                                         przed 1146-1180 (początek-24.9.) ( Manuel (Manuel Komnen) wg H.W. )
-        Aleksy II               	                      1180-1183 ( wg D.Ś. i Tapsella ) ( Alexios II Komnenos wg D.B. ) ( Alexius II wg D.O.T.W.A.C.A.G.H. )
+        Aleksy II               	                      1180-1183 ( wg D.Ś. i Tapsella ) ( Alexios II Komnenos wg D.B. ) ( Alexius II wg D.O.T.W.A.C.A.G.H. ) ( Aleksy II Komnen (Aleksy) wg N.I.B.W.XI.S. )
                                                    	    1180-1185 ( wg V.N.M.S.D. )
                                                         przed 1182-? ( Aleksy (Aleksy II Komnen) wg H.W. )
-        Andronik I             	                        1183-1185 ( wg D.Ś. i Tapsella ) ( Andronikos I Komnenos wg D.B. ) ( Andronicus I wg D.O.T.W.A.C.A.G.H. )
+        Andronik I             	                        1183-1185 ( wg D.Ś. i Tapsella ) ( Andronikos I Komnenos wg D.B. ) ( Andronicus I wg D.O.T.W.A.C.A.G.H. ) ( Andronik wg N.I.B.W.XI.S. )
                                                         ?-1185 (?-?.9.) ( Andronik Komnen wg H.W. )
-      Dynastia Angelos ( Angelus Dynasty )
+      Dynastia Angelos ( Angelus Dynasty , Angelosi )
         Izaak II Angelos                	              1185-1195 i 1203-1204 ( wg D.Ś. i Tapsella ) ( Isaakios II Angelos wg D.B. ) (Isaac II Angelus wg D.O.T.W.A.C.A.G.H. )
                                                         1185-1195 ( wg V.N.M.S.D. ) ( Izaak Angelos wg F.H.C.R. )
+                                                        1185-1195 i 1203-? ( Izaak wg N.I.B.W.XI.S. )
     				         	                                  przed 1188-? ( Izák II Angelos wg F.B.C.A.R. )
                                                         przed 1186-1195 i 1203-? ( Izaak Angelos (Izaak II) wg H.W. )
                                                         ? ( wg L.P.P. )
-        Aleksy III                           	          1195-1203 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Alexios III Angelos wg D.B. ) ( Alexius III wg D.O.T.W.A.C.A.G.H. )
+        Aleksy III                           	          1195-1203 ( wg V.N.M.S.D. i D.Ś. i Tapsella i N.I.B.W.XI.S. ) ( Alexios III Angelos wg D.B. ) ( Alexius III wg D.O.T.W.A.C.A.G.H. )
                                                         1195-1203 (?-17.7.) ( Aleksy (Aleksy III Angelos) wg H.W. )
                                                         ? ( wg F.H.C.R. )
         Aleksy IV                           	          1203-1204 ( wg D.Ś. i Tapsella ) ( Alexius IV wg D.O.T.W.A.C.A.G.H. )
                                                         1203-1204 (1.8.-?) ( wg K.V. ) ( Alexios IV Angeloi wg D.B. )
                                                         1203-po 1204 (1.8.-5.1.) ( Aleksy (Aleksy IV Angelos) wg H.W. )
+                                                        ?-1204 (?-?.2.) ( wg N.I.B.W.XI.S. )
         Aleksy V Dukas Murtzuflos	                      1204 ( wg D.Ś. i Tapsella ) ( Alexios V Murtzuflos wg D.B. ) ( Alexius V wg V.K.T.H.O.H.E. ) ( Alexius V Ducas (Alexius V Ducas Murtzuphlus) wg D.O.T.W.A.C.A.G.H. )
                                                         1204 (przed ?.3.-po 12.5.) ( Aleksy V (Aleksy Dukas, Murzuflos, Aleksy V Dukas) wg H.W. )
+                                                        1204 (?.2.-?) ( Aleksy V Murzuflos wg N.I.B.W.XI.S. )
         Nikolaos Kanabos               	                1204 ( wg D.B. )
       Dynastia Laskaris ( Cesarstwo Nicei , Cesarstwo Nikei , Lascarid Dynasty )
         Teodor I Laskaris 	                            1204-1222 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Theodoros I Laskaris wg D.B. ) ( Theodore I Lascaris wg D.O.T.W.A.C.A.G.H. )
@@ -23591,6 +23684,8 @@ Rzym
       Litwa - Początki Państw
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Unpopular Essays
+      Normanowie i Bizancjum w XI stuleciu
 
 Sabaudia ( Savoie, Savoia )
   Hrabstwo Sabaudii ( County of Sabaudia, County of Savoy, County of Savoia )
@@ -24832,7 +24927,7 @@ South Sudan
   Bibliografia :
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
 
-Królestwo Sparty
+Królestwo Sparty ( Sparta )
   Menelaos                	                            ok.1200 p.n.e. ( wg D.G. )
       				                                          ? ( wg Z.Ř. i K.Ř. )
   Aristodemos		                                        ok.1130-1100 ( wg V.N.M.S.D. )
@@ -24976,17 +25071,15 @@ Królestwo Sparty
       				       	                                  244/3-241 ( Ágis IV wg S.H. )
       					                                        245-241 ( Ágis IV wg E.P. )
     Eudamidas III                      	                241-227 ( wg D.Ś. )
-    Archidamos V                      	                227         ( wg D.Ś. )
-    Eukleidas (dynastia Agiadów)	                      227-222  ( wg D.Ś. )
+    Archidamos V                      	                227 ( wg D.Ś. )
+    Eukleidas (dynastia Agiadów)	                      227-222 ( wg D.Ś. )
     Likurg                                   	          219-211 ( wg D.Ś. )
-    Pelops                                  	          211-207  ( wg D.Ś. )
-    Nabis                                    	          207-192  ( wg D.Ś. i E.P. i K.Ř. )
+    Pelops                                  	          211-207 ( wg D.Ś. )
+    Nabis                                    	          207-192 ( wg D.Ś. i E.P. i K.Ř. )
                                                         ok.210-191 ( wg V.N.M.S.D. )
       					                                        ? ( wg D.R. i H.P.S. i E.P. )
       				    	                                    przed 205-192 ( wg S.H. )
   Machanidas                 	                          ? ( wg H.P.S. )
-  Uwagi :
-      Wszystko oprócz otnaczonego wg D.Ś. i V.N.M.S.D.
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -25044,7 +25137,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
   John Quincy Adams		                                  ? ( wg V.N.M.S.D. )
   Andrew Jackson              		                      ok.1832 ( wg 100.N.V.S. )
       					                                        1829-po 1836 ( wg W.I.A.P. )
-      					                                        ? ( wg V.N.M.S.D. i V.R.M. i Z.G.C.O.P. )
+      					                                        ? ( wg V.N.M.S.D. i V.R.M. i Z.G.C.O.P. i U.E. )
   Martin van Buren			                                ? ( wg V.N.M.S.D. )
   William Henry Harrison		                            ? ( wg V.N.M.S.D. i W.I.A.P. )
                                                         1841-? ( wg E.N.T.C.F.R.S.H.A.P. )
@@ -25063,7 +25156,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
       					                                        ? ( wg V.N.M.S.D. i O.A. )
   Abraham Lincoln	 		                                  przed 1861-po 1864 ( wg 100.N.V.S. )
       				  	                                      przed 1862-? ( wg W.I.A.P. ) ( Lincoln wg Z.G.C.O.W.D. )
-      					                                        ? ( wg V.N.M.S.D. i V.R.M. i O.A.O.C.E. i E.N.T.C.F.R.S.H.A.P. )
+      					                                        ? ( wg V.N.M.S.D. i V.R.M. i O.A.O.C.E. i E.N.T.C.F.R.S.H.A.P. ) ( Lincoln wg U.E. )
   Konfederacja
     Jefferson Davis              	                      ok.1862 n.e. ( wg 100.N.V.S. )
   A. Johnson			                                      ? ( wg V.N.M.S.D. )
@@ -25099,7 +25192,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
   Franklin Delano Roosevelt      	                      1933-1945 ( wg V.N.M.S.D. )
       				        	                                przed 1939-po 1942 ( wg 100.N.V.S. )
       				        	                                przed 1939-po 1943 ( wg 100.N.U.W. )
-      					                                        ? ( wg O.L. i F.C.A.R.F. )
+      					                                        ? ( wg O.L. i F.C.A.R.F. ) ( Roosevelt wg U.E. )
       				        	                                przed 1937-po 1938 ( wg M.Ś. )
                                                         przed 1936-po 1937 (?-5.8.) ( Roosevelt wg C.W.C.B.R. )
   Harry S. Truman                      	                1945-1953 ( wg V.N.M.S.D. )
@@ -25170,6 +25263,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
       Złoto gór czarnych - Orle pióra
       Złoto gór czarnych - Przekleństwo złota
       Złoto gór czarnych - Ostatnia walka Dakotów
+      Unpopular Essays
 
 Księstwo Starodubskie
   Bibliografia :
@@ -25336,15 +25430,17 @@ Sycylia ( Sicily )
   Emirat Sycylii
     Abu al-Kasim                                        ?-982 (?-15.7.) ( wg B.S. )
   Księstwo Sycylii ( Hrabstwo Sycylii , County of Sicily )
-    Robert Guiscard         	                          ?-1085 ( wg M.A.E. )
+    Ród d'Hauteville
+      Robert Guiscard         	                        ?-1085 ( wg M.A.E. ) [Count of Apulia]
                                                         1059-po 1084 (wiosna) ( Robert de Hauteville wg H.W. )
                                                         ? ( wg N.T.V.S. )
-    Roger I                     	                      1072-1101 ( wg D.Ś. )
+      Roger I                     	                    1072-1101 ( wg D.Ś. )
                                                         ?-1101 ( Roger I of Sicily (Roger) wg N.T.V.S. )
-    Szymon                    	                        1101-1105 ( wg D.Ś. )
+                                                        przed 1086-po ok.1098 ( Roger (Wielki Hrabia) wg N.I.B.W.XI.S. )
+      Szymon                    	                      1101-1105 ( wg D.Ś. )
                                                         1101-1105 ( Simon wg N.T.V.S. )
-    Roger II z Hauteville                               ? ( wg H.W. ) [King of Naples and Sicily]
-                                                        1105-1130 ( Roger II (Roger) wg N.T.V.S. )
+      Roger II z Hauteville                             ? ( wg H.W. ) [King of Naples and Sicily]
+                                                        1105-1130 ( Roger II (Roger) wg N.T.V.S. ) ( Roger II (Roger II Wielki, Roger) wg N.I.B.W.XI.S. )
   Kingdom of Trinacria ( Królestwo Sycylii, Kingdom of Sicily )
     Dynastia aragońska
       Piotr I Wielki               	                    1282-1285 ( wg D.Ś. i V.N.M.S.D. )
@@ -25381,6 +25477,7 @@ Sycylia ( Sicily )
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Historia Wenecji
       Northmen - The Viking Saga 793-1241
+      Normanowie i Bizancjum w XI stuleciu
 
 Królestwo Niewolników na Sycylii
   Eunus                           	                    ok.136 p.n.e. ( wg H.P.S. )
@@ -26373,7 +26470,7 @@ Państwo Śungów
     Karol V                         	                  1519-1558 ( wg D.Ś. i Tapsella i D.Ř.I. ) ( Karol wg S.II.W.I.J.C.Z.E.M.P. )
                                                         1519-1556 ( wg V.N.M.S.D. i M.A.E. )
                                                         1519-? ( Karel V wg D.P.I.R.G. )
-                                                        ? ( wg 100.N.U.W. )
+                                                        ? ( wg 100.N.U.W. ) ( Charles V wg U.E. )
                                                         1519-1558/6 ( Charles V wg V.K.T.H.O.H.E. )
                                                         1519-1555 ( wg M.Ś. )
                                                         przed 1521-po 1522 ( Karel V wg E.P. )
@@ -26464,6 +26561,7 @@ Państwo Śungów
       Æthelred the Unready - The Failed King
       Litwa - Początki Państw
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
+      Unpopular Essays
 
 Ta Jüe
   Bibliografia :
@@ -26623,7 +26721,9 @@ Tarent
   Archytas			                                        ok.380-ok.345 ( wg K.Ř. )
   Emirat Tarentu
   Księstwo Taranto ( Hrabstwo Tarentu , Księstwo Tarentu )
-    Boemund                                             ? ( Boemund de Hauteville wg H.W. ) ( Bohemund of Taranto wg N.T.V.S. )
+    Ród d'Hauteville
+      Boemund                                           ? ( Boemund de Hauteville wg H.W. ) ( Bohemund of Taranto wg N.T.V.S. ) [Prince of Antioch Boemund I]
+                                                        przed 1096-1111 (?.6.-3.3.) ( Boemund z Tarentu wg N.I.B.W.XI.S. )
     Wilhelm                                             1194 ( wg F.H.C.R. )
     Manfred                                             1250-1266 ( wg F.H.C.R. )
   Bibliografia :
@@ -26633,6 +26733,7 @@ Tarent
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Northmen - The Viking Saga 793-1241
+      Normanowie i Bizancjum w XI stuleciu
 
 Tarkwinie
   Bibliografia :
@@ -29602,12 +29703,12 @@ Księstwo zwienigorodzkie
   Bibliografia :
       Litwa - Początki Państw
 
-Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet Socialist Republics , Soyuz Sovetskikh Sotsialisticheskikh Republik , Sovětský svaz , Związek Radziecki , ZSRR )
-  Lenin                                                 ? ( wg F.C.A.R.F. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.S.O.I.C.O.T.W. i H.T.B.A.G. ) ( Władimir I. Lenin (W.I.Lenin) wg T.R.L.Z.S.L.R.S.B. )
+Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet Socialist Republics , Soyuz Sovetskikh Sotsialisticheskikh Republik , Sovětský svaz , Związek Radziecki , ZSRR , USSR )
+  Lenin                                                 ? ( wg F.C.A.R.F. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.S.O.I.C.O.T.W. i H.T.B.A.G. i U.E. ) ( Władimir I. Lenin (W.I.Lenin) wg T.R.L.Z.S.L.R.S.B. )
   Józef V. Stalin                       	              przed 1941-1953 ( wg 100.N.V.S. )
     				    	                                      przed 1934 -po 1945 ( wg M.Ś. )
                                                         przed 1953-? ( wg P.J.D. )
-                                                        ? ( wg Ř.S.J.Ď.S. i F.C.A.R.F. ) ( J.W.Stalin wg Z.N.E. ) ( Stalin wg H.T.B.A.G. )
+                                                        ? ( wg Ř.S.J.Ď.S. i F.C.A.R.F. ) ( J.W.Stalin wg Z.N.E. ) ( Stalin wg H.T.B.A.G. i U.E. )
                                                         przed 1939-po 1945 (?-21.1.)
                                                         1924-1953 (1.1.-?) ( Joseph Stalin wg V.K.T.H.O.H.E. )
                                                         przed 1932-po 1933 ( Stalin wg E.N.T.C.F.R.S.H.A.P. )
@@ -29638,6 +29739,7 @@ Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet
       Tamerlane - Sword of Islam, Conqueror of the World
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
       Hard To Be a God
+      Unpopular Essays
 
 Państwo Zyjadydów
   Ibrahim ibn Muhammad                                  859-902
@@ -29797,5 +29899,8 @@ Bibliografia :
     [115] Złoto gór czarnych - Przekleństwo złota , Alfred Szklarski , Krystyna Szklarska , 1974
     [116] Złoto gór czarnych - Ostatnia walka Dakotów , Alfred Szklarski , Krystyna Szklarska , 1989
     [117] Hard To Be a God , Arkady Strugatsky , Boris Strugatsky , 2014
+    [118] Unpopular Essays , Bertand Russell , 2009
+    [119] Záhadný ostrov , J.M.Troska , 1994
+    [120] Normanowie i Bizancjum w XI stuleciu , Dariusz Piwowarczyk , 2006
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
