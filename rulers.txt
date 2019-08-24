@@ -1322,23 +1322,25 @@ Apulia
     Drogon                                              1045-1051 ( Drogon d'Hauteville wg N.I.B.W.XI.S. )
     Onufry                                              1051-1057 ( Onufry d'Hauteville wg N.I.B.W.XI.S. )
     Robert Guiscard                                     1057-1059 (?-?.8.) ( Guiscard (Guiscardus, Robert d'Hauteville, Robert Gwiskard, Robert Pomysłowy, Robert, Terror Mundi, Postrach Świata) wg N.I.B.W.XI.S. ) [Count of Sicily]
-  Księstwo Apulii
-    Dynastia z Hauteville ( Ród d'Hauteville )
-      Robert Guiscard	                                  1059-1085 ( wg D.Ś. ) [Count of Sicily]
+  Księstwo Apulii ( Duchy of Apulia )
+    Dynastia z Hauteville ( Ród d'Hauteville , House of Hauteville )
+      Robert Guiscard	                                  1059-1085 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Count of Sicily]
         			    	                                    przed 1059-po 1085 ( wg D.B. )
                                                         1059-po 1084 (?-wiosna) ( Robert de Hauteville wg H.W. )
                                                         przed 1059-? ( Robert Guiscard z Apulii wg F.H.C.R. )
                                                         1059-1085 (?.8.-17.7.) ( Guiscard (Guiscardus, Robert d'Hauteville, Robert Gwiskard, Robert Pomysłowy, Robert, Terror Mundi, Postrach Świata) wg N.I.B.W.XI.S. )
-      Roger Borsa            	                          1085-1111 ( wg D.Ś. ) ( Roger Sakiewka (Roger) wg N.I.B.W.XI.S. )
-      Wilhelm                  	                        1111-1127 ( wg D.Ś. )
+      Roger Borsa            	                          1085-1111 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Roger Sakiewka (Roger) wg N.I.B.W.XI.S. )
+      Wilhelm                  	                        1111-1127 ( wg D.Ś. ) ( William wg D.O.T.W.A.C.A.G.H. )
                                                         ?-1127 (?-28.7.) ( Wilhelm I z Kapui wg F.H.C.R. )
-      Roger                                             ? ( wg F.H.C.R. )
+      Roger II                                          1128-? ( Roger II the Great wg D.O.T.W.A.C.A.G.H. )
+                                                        ? ( Roger wg F.H.C.R. )
   Bibliografia :
       Dynastie Świata
       Dějiny Byzance
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Normanowie i Bizancjum w XI stuleciu
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Apum
   Bibliografia :
@@ -1406,15 +1408,16 @@ Królestwo Aragonii ( Kingdom of Aragon )
       				                                          ? ( Petr II wg E.P. ) ( Piotr wg F.H.C.R. )
     Jakub I Zdobywca     	                              1213-1276 ( wg D.Ś. i V.N.M.S.D. ) ( Jaime I El Conquistador wg V.K.T.H.O.H.E. )
       			        	                                  przed 1238-po 1246 ( Jakub I Aragonský wg M.A.E. )
-      				                                          1213-1276 ( ?-27.7. ) ( Jakub I el Conquistador wg E.P. )
-    Piotr III Wielki           	                        1276-1285 ( wg D.Ś. i V.N.M.S.D. ) ( Pedro III El Grande wg V.K.T.H.O.H.E. )
+      				                                          1213-1276 (?-27.7.) ( Jakub I el Conquistador wg E.P. )
+    Piotr III Wielki           	                        1276-1285 ( wg D.Ś. i V.N.M.S.D. ) ( Pedro III El Grande wg V.K.T.H.O.H.E. ) [King of Sicily Peter I]
       			         	                                  przed 1282-? ( Petr Aragonský wg D.B. ) ( Piotr III Aragoński wg H.W. )
       				                                          ? ( Petr III wg E.P. )
-      				                                          1276-1285 ( ?-10.11. ) ( Petr III wg E.P. )
+      				                                          1276-1285 (?-10.11.) ( Petr III wg E.P. )
+                                                        1276-? ( Peter I (Peter I the Great) wg D.O.T.W.A.C.A.G.H. )
     Alfons III Szczodry    	                            1285-1291 ( wg D.Ś. i V.N.M.S.D. ) ( Alfonso III El Franco wg V.K.T.H.O.H.E. )
       				                                          ? ( wg E.P. )
                                                         przed 1290-? ( Alfons Aragoński wg F.H.C.R. )
-    Jakub II Sprawiedliwy	                              1291-1327 ( wg D.Ś. ) ( Jaime II El Justo wg V.K.T.H.O.H.E. )
+    Jakub II Sprawiedliwy	                              1291-1327 ( wg D.Ś. ) ( Jaime II El Justo wg V.K.T.H.O.H.E. ) ( James the Just wg D.O.T.W.A.C.A.G.H. ) [King of Sicily]
                                                   	    1291-1323 ( wg V.N.M.S.D. )
       				                                          1291-1327 ( ?-2.11. ) ( wg E.P. )
     Alfons IV Łagodny    	                              1327-1336 ( wg D.Ś. ) ( Alfonso IV El Benigno wg V.K.T.H.O.H.E. )
@@ -1424,13 +1427,15 @@ Królestwo Aragonii ( Kingdom of Aragon )
                                                         przed 1351-? (?.7.-?) ( Piotr IV Aragoński wg H.W. )
     Jan I Myśliwy            	                          1387-1396 ( wg D.Ś. ) ( Juan I El Cazador wg V.K.T.H.O.H.E. )
                                                      	  1387-1395 ( wg V.N.M.S.D. )
-    Marcin Ludzki          	                            1396-1410 ( wg D.Ś. i V.N.M.S.D. ) ( Martin I El Humano wg V.K.T.H.O.H.E. )
+    Marcin Ludzki          	                            1396-1410 ( wg D.Ś. i V.N.M.S.D. ) ( Martin I El Humano wg V.K.T.H.O.H.E. ) [King od Sicily Martin II]
+                                                        1396-? ( Martin II (Martin II the Humane) wg D.O.T.W.A.C.A.G.H. )
   Dynastia z Trastámara
     Ferdynand I z Antequera	                            1412-1416 ( wg D.Ś. ) ( Fernando d'Antequera (Fernando I, Ferran d'Antequera) wg V.K.T.H.O.H.E. )
       					                                        przed 1415-1416 ( ?-2.4. ) ( Ferdinand I z Antequery wg E.P. )
     Alfons V Wspaniały            	                    1416-1458 ( wg V.N.M.S.D. i D.Ś. )
       					                                        ? ( Alfons I wg E.P. )
                                                         1416-1458 (?-po ?.3.) ( Alfonso V The Magnanimous wg V.K.T.H.O.H.E. )
+                                                        1416-? ( Alfonso I (Alfonso I the Magnanimous) wg D.O.T.W.A.C.A.G.H. )
     Jan II                                    	        1458-1479 ( wg D.Ś. i V.N.M.S.D. ) ( Juan II (John II The Great) wg V.K.T.H.O.H.E. )
     Ferdynand II Katolicki        	                    1479-1516 ( wg D.Ś. i V.N.M.S.D. ) ( Ferdinand Aragonský wg D.P.I.R.G. i M.A.E. ) ( Ferdinand II (Fernando El Católico, Ferran El Catolic) wg V.K.T.H.O.H.E. )
                                                         1479-po 1504 ( Ferdinand wg Ř.S.J.Ď.S. )
@@ -1450,6 +1455,7 @@ Królestwo Aragonii ( Kingdom of Aragon )
       Kubiłaj-chan - władca największego imperium w dziejach
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Arakan
   Bibliografia :
@@ -2490,6 +2496,7 @@ Austria ( Rakousko )
     Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
       Franciszek I           	                          1804-1835 (wg D.Ś. i V.N.M.S.D. )
       			                                            przed 1806-? ( wg D.R. )
+                                                        ? ( Francis I wg D.O.T.W.A.C.A.G.H. )
       Ferdynand I             	                        1835-1848 ( wg D.Ś. i V.N.M.S.D. ) ( Ferdinand I Dobrotivý wg E.P. ) ( Ferdinand I wg V.K.T.H.O.H.E. )
       Franciszek Józef I	                              1848-1916 ( wg D.Ś. i V.N.M.S.D. ) ( Franz-Josef (Franz-Joseph) wg V.K.T.H.O.H.E. )
       			         	                                  ? ( wg M.Ś. i O.K.C.J. ) ( František Jozef I wg E.P. ) ( Franciszek Józef wg T.R.L.Z.S.L.R.S.B. )
@@ -2512,6 +2519,7 @@ Austria ( Rakousko )
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 County of Autun
   Richard The Justiciar                                 ? ( wg V.K.T.H.O.H.E. ) ( Richard the Justicer wg D.O.T.W.A.C.A.G.H. ) [Duke of Burgundy]
@@ -3465,10 +3473,11 @@ Benin
       Mity pięciu części świata
 
 Wielkie Księstwo Bergu
-  Joachim Napoleon Murat          	                    1806-1808
-  Napoleon Ludwik Bonaparte	                            1809-1813
+  Joachim Napoleon Murat          	                    1806-1808 ( wg D.Ś. ) ( Joachim Napoleon wg D.O.T.W.A.C.A.G.H. ) [King of Naples]
+  Napoleon Ludwik Bonaparte	                            1809-1813 ( wg D.Ś. )
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Królestwo Bernicji ( Bryneich, Berneich , Bernicia , Kingdom of Bernicia )
   Ida              	                                    547-559 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
@@ -6079,6 +6088,7 @@ Cisalpine Republic
 Cispadane Republic
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Civitate
   Walter                                                ?
@@ -9111,13 +9121,14 @@ Związek Etolski
       Starożytne Cywilizacje
 
 Królestwo Etrurii ( Kingdom of Etruria )
-  Dynastia burbońska
-    Ludwik I                                	          1801-1803 ( wg D.Ś. )
+  Dynastia burbońska ( House of Bourbon )
+    Ludwik I                                	          1801-1803 ( wg D.Ś. ) ( Louis I wg D.O.T.W.A.C.A.G.H. )
                                                         1801-1803 (?-?.5.) ( Lodovico di Borbone (Louis de Bourbon, Lodovico I, Louis I d'Étrurie) wg V.K.T.H.O.H.E. )
-    Ludwik II ( Karol Ludwik )	                        1803-1807 ( wg D.Ś. ) ( Carlo Luigi (Charles-Louis, Carlo Lodovico II) wg V.K.T.H.O.H.E. )
+    Ludwik II ( Karol Ludwik )	                        1803-1807 ( wg D.Ś. ) ( Carlo Luigi (Charles-Louis, Carlo Lodovico II) wg V.K.T.H.O.H.E. ) ( Louis II (Charles Louis) wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Euboja
   Tynnondas		                                          ?
@@ -9191,43 +9202,47 @@ Fergana
 
 Ferrara
   Dom Este
-    Azzo I                     	                        1196-1212 ( wg D.Ś. )
-    Aldobrandino I       	                              1212-1215 ( wg D.Ś. )
-    Azzo II Młodszy     	                              1215-1264 ( wg D.Ś. )
+    Azzo I                     	                        1196-1212 ( wg D.Ś. ) ( Azzo VI wg D.O.T.W.A.C.A.G.H. )
+    Aldobrandino I       	                              1212-1215 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Azzo II Młodszy     	                              1215-1264 ( wg D.Ś. ) ( Azzo II (Azzo II the Younger) wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Azzo VII z Este wg H.W. )
                                                         ? ( Azzo VII z Este (Azzos z Este) wg F.H.C.R. )
   Salinguerra Torelli                                   ?-1240 ( wg H.W. )
                                                         1222-1240 (?-?.6.) ( Salinguerra II wg F.H.C.R. )
   Dom Este
     Azzon z Este                                        ? ( wg F.H.C.R. )
-    Obizzo I                  	                        1264-1289 ( wg D.Ś. )
-    Azzo III                  	                        1293-1308 ( wg D.Ś. )
+    Obizzo I                  	                        1264-1289 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Lord of Modena]
+    Azzo III                  	                        1293-1308 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ?-1308 (?-31.1.) ( Azzo VIII wg H.W. )
-    Fresco                     	                        1308 ( wg D.Ś. ) ( Folco wg H.W. )
-    Rinaldo                   	                        1317-1335 ( wg D.Ś. )
-    Niccolo I                 	                        1317-1344 ( wg D.Ś. )
-    Obizzo II                 	                        1317-1352 ( wg D.Ś. )
+    Fresco                     	                        1308 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Folco wg H.W. )
+    Rinaldo                   	                        1317-1335 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Niccolo I                 	                        1317-1344 ( wg D.Ś. ) ( Niccolò I wg D.O.T.W.A.C.A.G.H. )
+    Obizzo II                 	                        1317-1352 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         przed 1337-? (?.3.-?) ( Obizzo d'Este wg H.W. )
-    Aldobrandino III     	                              1352-1361 ( wg D.Ś. )
-    Niccolo II Kulawy	                                  1361-1388 ( wg D.Ś. )
-    Alberto                    	                        1388-1393 ( wg D.Ś. )
-    Niccolo III               	                        1393-1441 ( wg D.Ś. )
-    Leonello                  	                        1441-1450 ( wg D.Ś. )
-    Księstwo Ferrary
-      Borso                   	                        1450-1471 ( wg D.Ś. )
-      Ercole I                	                        1471-1505 ( wg D.Ś. ) ( Hercules II d'Este wg V.F.V. )
+    Aldobrandino III     	                              1352-1361 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Niccolo II Kulawy	                                  1361-1388 ( wg D.Ś. ) ( Niccolò II (Niccolò II the Lame) wg D.O.T.W.A.C.A.G.H. )
+    Alberto                    	                        1388-1393 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Niccolo III               	                        1393-1441 ( wg D.Ś. ) ( Niccolò III wg D.O.T.W.A.C.A.G.H. )
+    Leonello                  	                        1441-1450 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Borso                                               1450-1471 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Ferrara]
+    Księstwo Ferrary ( Duchy of Ferrara )
+      Borso                   	                        1450-1471 ( wg D.Ś. ) [Duke of Modena]
+                                                        1471 ( wg D.O.T.W.A.C.A.G.H. )
+      Ercole I                	                        1471-1505 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Hercules II d'Este wg V.F.V. )
                                                         przed 1476-? ( Ercole d'Este wg H.W. )
-      Alfonso I             	                          1505-1534 ( wg D.Ś. )
+      Alfonso I             	                          1505-1534 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         przed 1509-po 1512 (?-?.7.) ( Alfons wg H.W. )
-      Ercole II              	                          1534-1559 ( wg D.Ś. )
-      Alfonso II            	                          1559-1597 ( wg D.Ś. )
+      Ercole II              	                          1534-1559 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Alfonso II            	                          1559-1597 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ?-po 1597 ( Alfons wg H.W. )
-      Cesare d'Este                                     ?-1598 (?-?.1.) ( Cesare wg H.W. )
+      Cesare d'Este                                     ?-1598 (?-?.1.) ( Cesare wg H.W. ) [Duke of Modena]
+                                                        1597-1598 ( Cesare wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       Velikáni francouzské vědy
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Fideny
   Bibliografia :
@@ -9330,28 +9345,33 @@ Florencja ( Florence )
   podesta
     Orlando z Rossi                                     ? ( wg F.H.C.R. )
   Księstwo Florencji
-    Dynastia Medyceuszy ( Medyceusze )
-      Cosimo Stary             	                        1434-1464 ( wg D.Ś. )
+    Dynastia Medyceuszy ( Medyceusze , House of Medici )
+      Cosimo Stary             	                        1434-1464 ( wg D.Ś. ) ( Cosimo the Elder wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1446-? ( Cosimo de'Medici (Kosma, Kuźma Medyceusz) wg H.W. )
-      Piero I Podagryk        	                        1464-1469 ( wg D.Ś. )
+      Piero I Podagryk        	                        1464-1469 ( wg D.Ś. ) ( Piero I (Piero I the Gouty) wg D.O.T.W.A.C.A.G.H. )
       Giuliano de'Medici                                ?-1478 ( wg H.W. )
-      Lorenzo Wspaniały    	                            1469-1492 ( wg D.Ś. )
+      Lorenzo Wspaniały    	                            1469-1492 ( wg D.Ś. ) ( Lorenzo the Magnificent wg D.O.T.W.A.C.A.G.H. )
                                                         1469-1492 ( Lorenzo de Medici (Lorenzo the Magnificent) wg T.B.O.I. )
                                                         przed 1478-1492 ( Lorenzo de'Medici (Wawrzyniec Wspaniały) wg H.W. )
-      Piero II                      	                  1492-1494 ( wg D.Ś. )
+      Piero II                      	                  1492-1494 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ?-1494 ( Piero de'Medici wg H.W. )
     Girolamo Savonarola                                 1494-? ( wg T.B.O.I. ) ( Savonarola wg H.W. )
-    Dynastia Medyceuszy
-      Giuliano z Nemours	                              1512-1513 ( wg D.Ś. )
-      Lorenzo z Urbino        	                        1513-1519 ( wg D.Ś. )
-      Giulio                         	                  1519-1523 ( wg D.Ś. )
-      Ippolito                        	                1524-1527 ( wg D.Ś. )
-    Alessandro            	                            1531-1537 ( wg D.Ś. )
+    Dynastia Medyceuszy ( House of Medici )
+      Giuliano z Nemours	                              1512-1513 ( wg D.Ś. ) ( Giuliano of Nemours wg D.O.T.W.A.C.A.G.H. )
+      Lorenzo z Urbino        	                        1513-1519 ( wg D.Ś. ) ( Lorenzo of Urbino wg D.O.T.W.A.C.A.G.H. )
+      Giulio                         	                  1519-1523 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Ippolito                        	                1524-1527 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  House of Medici
+    Alessandro                                          1531-1537 ( wg D.Ś. ) [Duke of Florence]
+                                                        1531-1532 ( wg D.O.T.W.A.C.A.G.H. )
+  Duchy of Florence
+    Alessandro                                          1532-1537 ( wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       The Beginning of Infinity - Explanations that Transform the World
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 County of Foix
   Bibliografia :
@@ -11289,11 +11309,11 @@ Hiszpania ( Spain )
     Dynastia burbońska ( The Bourbons , Burbonowie )
       Filip V                	                          1700-1724 i 1724-1746 ( wg D.Ś. )
                                                     	  1700-1746 ( wg V.N.M.S.D. ) ( Felipe V (Philippe de Bourbon, Philip V) wg V.K.T.H.O.H.E. )
-      			         	                                  ? ( wg M.Ś. )
+      			         	                                  ? ( wg M.Ś. ) ( Philip V wg D.O.T.W.A.C.A.G.H. )
                                                         1700-? ( Filip d'Anjou wg H.W. )
       Ludwik I             	                            1724 ( wg D.Ś. )
       Ferdynand VI     	                                1746-1759 ( wg V.N.M.S.D. i D.Ś. ) ( Fernando VI wg V.K.T.H.O.H.E. )
-      Karol III             	                          1759-1788 ( wg D.Ś. i V.N.M.S.D. ) ( Carlos III wg V.K.T.H.O.H.E. )
+      Karol III             	                          1759-1788 ( wg D.Ś. i V.N.M.S.D. ) ( Carlos III wg V.K.T.H.O.H.E. ) ( Charles wg D.O.T.W.A.C.A.G.H. ) ( Charles I wg D.O.T.W.A.C.A.G.H. ) [King of Naples and Sicily Charles]
       			         	                                  ? ( wg V.R.M. )
                                                         przed 1770-? ( 16.4.-? ) ( Karel III wg Ř.S.J.Ď.S. )
       Karol IV             	                            1788-1808 ( wg D.Ś. i V.N.M.S.D. )
@@ -11304,7 +11324,7 @@ Hiszpania ( Spain )
       			        	                                  ? ( wg M.Ś. )
                                                         1813-1833 ( Fernando VII (Ferdinand VII) wg V.K.T.H.O.H.E. )
     Dynastia Bonaparte
-      Józef Napoleon     	                              1808-1813 ( wg D.Ś. )
+      Józef Napoleon     	                              1808-1813 ( wg D.Ś. ) ( Joseph Napoleon wg D.O.T.W.A.C.A.G.H. ) [King of Naples]
                                                         1808-1814 ( wg V.N.M.S.D. )
                                                         1808-? ( Giuseppe (Joseph) wg V.K.T.H.O.H.E. )
                                                         przed 1811-? ( Josef wg P.N.D. )
@@ -11346,6 +11366,7 @@ Hiszpania ( Spain )
       Historia Wenecji
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Unpopular Essays
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Księstwo Hobolinu
   Wirykind                                              ok.1100 n.e.
@@ -14921,6 +14942,7 @@ Kościół
     Eugeniusz IV ( Gabriele Condulmer )  		            1431-1447 ( wg Tapsella i V.N.M.S.D. )
       						   	                                  ? ( Eugenius IV wg D.B. )
                                                         1431-po 1438 ( Eugeniusz (Condulmer) wg H.W. )
+                                                        przed 1443-? ( Eugenius IV wg D.O.T.W.A.C.A.G.H. )
     Feliks V  ( Amadeusz VIII z Savoy )                	1439-1449 ( wg Tapsella )
                                                         1439-? ( Felix V (Amadeé VIII, Amadeo VIII) wg V.K.T.H.O.H.E. )
     Mikołaj V ( Tommaso Parentucelli )                 	1447-1455 ( wg V.N.M.S.D. i Tapsella )
@@ -14931,9 +14953,11 @@ Kościół
                                                         przed 1459-1464 (?.9.-14.8.) ( wg H.W. )
     Paweł II ( Pietro Barbo )                        	  1464-1471 ( wg V.N.M.S.D. i Tapsella )
                                                         1464-? ( Barbo (Pietro Barbolo) wg H.W. )
+                                                        przed 1471-? ( Paul II wg D.O.T.W.A.C.A.G.H. )
     Sykstus IV ( Francesco della Rovere )             	1471-1484 ( wg Tapsella )
       						    	                                ? ( wg K.R.I.C.R. )
                                                         przed 1472-po 1484 (?-?.8.) ( wg H.W. )
+                                                        przed 1474-? ( Sixtus IV wg D.O.T.W.A.C.A.G.H. )
     Innocenty VIII ( Giovanni Battista Cibo )          	1484-1492 ( wg Tapsella i V.N.M.S.D. )
                                                         ? ( wg M.N.C. )
                                                         przed 1484-po 1485 ( wg H.W. )
@@ -14956,13 +14980,14 @@ Kościół
       						    	                                ? ( Adrian z Utrechtu wg M.A.E. )
                                                         przed 1522-1523 ( Adrian z Utrechtu wg H.W. )
                                                         przed 1523-? (3.3.-?) ( wg S.II.W.I.J.C.Z.E.M.P. )
-    Klement VII ( Giulio de´ Medici )                  	1523-1534 ( wg Tapsella i V.N.M.S.D. )
+    Klement VII ( Giulio de´ Medici )                  	1523-1534 ( wg Tapsella i V.N.M.S.D. ) ( Giulio (Clement VII) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1529-? ( wg Ř.S.J.Ď.S. )
                                                         1523-po 1530 (?.11.-24.2.) ( Giulio de'Medici (Klemens VII, Klemens) wg H.W. )
                                                         przed 1526-? (?.5.-?) ( Klemens VII wg S.II.W.I.J.C.Z.E.M.P. )
     Paweł III ( Alessandro Farnese )                   	1534-1549 ( wg V.N.M.S.D. )
                                                       	1534-1550 ( wg Tapsella )
                                                         ? ( wg H.W. )
+                                                        przed 1545-? ( Paul III wg D.O.T.W.A.C.A.G.H. )
     Juliusz III ( Giovanni Maria Ciocchi del Monte )    1549-1555 ( wg V.N.M.S.D. )
                                                         1550-1555 ( wg Tapsella )
     Marcellus II ( Marcello Cervini )                  	1555 ( wg Tapsella  )
@@ -14974,6 +14999,7 @@ Kościół
     Pius V ( Antonio Michele Ghislieri )         		    1565-1572 ( wg V.N.M.S.D. )
                                                         1566-1572 ( wg Tapsella )
                                                         przed 1570-1572 (?-1.5.) ( wg H.W. )
+                                                        przed 1569-? ( wg D.O.T.W.A.C.A.G.H. )
     Grzegorz XIII ( Ugo Buoncompagni )               	  1572-1585 ( wg Tapsella i V.N.M.S.D. )
       						        	                            ? ( wg D.R. )
                                                         przed 1582-? ( wg H.P.S. )
@@ -15094,6 +15120,7 @@ Kościół
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Normanowie i Bizancjum w XI stuleciu
       Jezioro Pejpus 1242
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Kotyora
   Bibliografia :
@@ -16338,7 +16365,7 @@ Lotaryngia
       Karol V                                 	        1675-1690 ( wg D.Ś. )
                                                         przed 1686-? ( Karol V Leopold wg H.W. )
       Leopold                               	          1690-1729 ( wg D.Ś. )
-      Franciszek III                      	            1729-1737 ( wg D.Ś. )
+      Franciszek III                      	            1729-1737 ( wg D.Ś. ) ( Francis II wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor Francis I]
       Stanisław Leszczyński        	                    1737-1766 ( wg D.Ś. ) [King of Poland]
                                                         1735-1766 ( Stanislas wg V.K.T.H.O.H.E. )
   Bibliografia :
@@ -16387,17 +16414,19 @@ Luhuti
   Bibliografia :
       Starożytny Bliski Wschód
 
-Lukka
+Lukka ( Lucca )
   Księstwo Lukki ( Duchy of Lucca )
     Feliks Baciocchi                        	          1805-1814 ( wg D.Ś. )
-    Maria Anna ( Eliza ) Bonaparte	                    1805-1814 ( wg D.Ś. )
+    Maria Anna ( Eliza ) Bonaparte	                    1805-1814 ( wg D.Ś. ) [Grand Duchess of Tuscany]
                                                         przed 1807-po 1814( Maria-Anna (Elisa) wg V.K.T.H.O.H.E. )
+                                                        1805-? ( Marie Anne (Elisa) wg D.O.T.W.A.C.A.G.H. )
     Maria Luiza Bourbon                  	              1817-1824 ( wg D.Ś. )
                                                         1815-1824 ( Maria-Luisa wg V.K.T.H.O.H.E. )
-    Karol Ludwik                              	        1824-1847 ( wg D.Ś. )
+    Karol Ludwik                              	        1824-1847 ( wg D.Ś. ) ( Louis II (Charles Louis, Charles II) wg D.O.T.W.A.C.A.G.H. ) [King of Etruria Louis II]
   Bibliografia :
       Dynastie Świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Luksemburg ( Luxemburg )
   Hrabstwo Luksemburga ( The County of Luxemburg )
@@ -17129,42 +17158,47 @@ Mantinea ( Mantineja )
   Bibliografia :
       Dzieje Grecji
 
-Mantua
+Mantua ( Mantova )
   podesta
     Ryszard                                             ?-1237 (?-1.10.) ( wg F.H.C.R. )
   Ród Gonzaga
-    Luigi                  		                          1328-1360 ( wg D.Ś. )
+    Luigi                  		                          1328-1360 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         przed 1337-? (?.3.-?) ( Luigi Gonzaga wg H.W. )
-    Guido                 		                          1360-1369 ( wg D.Ś. )
-    Ludovico I         		                              1369-1382 ( wg D.Ś. )
-    Francesco I        	                                1382-1407 ( wg D.Ś. )
+    Guido                 		                          1360-1369 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Ludovico I         		                              1369-1382 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Francesco I        	                                1382-1407 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ? ( Francesco Gonzaga wg H.W. )
-    Gianfrancesco    	                                  1407-1444 ( wg D.Ś. )
-    Ludovico II        		                              1444-1478 ( wg D.Ś. )
-    Federico I           	                              1478-1484 ( wg D.Ś. )
+    Gianfrancesco    	                                  1407-1444 ( wg D.Ś. ) [Marquis of Mantua]
+                                                        1407-1433 ( wg D.O.T.W.A.C.A.G.H. )
   Margrabstwo Mantui
     Ród Gonzaga
-      Francesco II       	                              1484-1519 ( wg D.Ś. )
+      Gianfrancesco                                     1433-1444 ( wg D.O.T.W.A.C.A.G.H. )
+      Ludovico II        		                            1444-1478 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Federico I           	                            1478-1484 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Francesco II       	                              1484-1519 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         przed 1495-? ( Francesco Gonzaga wg H.W. )
-  Księstwo Mantui
+      Federico II                                       1519-1530 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Mantua]
+  Księstwo Mantui ( Duchy of Mantua )
     Ród Gonzaga
       Federico II       	                              1519-1540 ( wg D.Ś. )
-      Francesco III    	                                1540-1550 ( wg D.Ś. )
-      Guglielmo       	 	                              1550-1587 ( wg D.Ś. )
-      Vincenzo I       	                                1587-1612 ( wg D.Ś. )
-      Francesco IV		                                  1612 ( wg D.Ś. )
-      Ferdinando      	                                1612-1626 ( wg D.Ś. )
-      Vincenzo II     		                              1626-1627 ( wg D.Ś. )
+                                                        1530-1540 ( wg D.O.T.W.A.C.A.G.H. )
+      Francesco III    	                                1540-1550 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Guglielmo       	 	                              1550-1587 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Montferrat]
+      Vincenzo I       	                                1587-1612 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Francesco IV		                                  1612 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Ferdinando      	                                1612-1626 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Vincenzo II     		                              1626-1627 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ?-1627 (26.12.) ( Vincenzo Gonzaga wg H.W. )
-      Linia z Nevers
-        Carlo I                 	                      1631-1637 ( wg D.Ś. )
-                                                        przed 1629-po 1631 (8.4.-20.9.) ( Karol wg H.W. ) [Duke of Nevers]
-        Carlo II                   	                    1637-1665 ( wg D.Ś. )
-        Ferdinando Carlo   	                            1665-1708 ( wg D.Ś. )
+      Linia z Nevers ( Line of Nevers )
+        Carlo I                 	                      1631-1637 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Nevers]
+                                                        przed 1629-po 1631 (8.4.-20.9.) ( Karol wg H.W. )
+        Carlo II                   	                    1637-1665 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+        Ferdinando Carlo   	                            1665-1708 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Bibliografia :
         Dynastie Świata
         Historia Wenecji
         Fryderyk II Hohenstauf - Cesarz Rzymski
+        Dynasties of the World - A Chronological and Genealogical Handbook
 
 Manua
   Lu		                                                ?
@@ -17558,45 +17592,47 @@ Mediolan ( Milan )
   capitano del popolo
     Pagano z Torre                                      1240-1247 ( Della Torre wg F.H.C.R. )
   Martino                                               ? ( wg F.H.C.R. )
-  Dynastia Visconti ( Ród Visconti )
-    Matteo I Wielki      	                              1287-1302 i 1311-1322 ( wg D.Ś. )
+  Dynastia Visconti ( Ród Visconti , House of Visconti )
+    Matteo I Wielki      	                              1287-1302 i 1311-1322 ( wg D.Ś. ) ( Matteo I (Matteo I the Great) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1299-? (?.5.-?) ( Matteo Visconti wg H.W. )
-    Galeazzo I               	                          1322-1327 ( wg D.Ś. )
-    Azzone                    	                        1329-1339 ( wg D.Ś. )
+    Galeazzo I               	                          1322-1327 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Azzone                    	                        1329-1339 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         przed 1337-? (?.3.-?) ( Azzo Visconti wg H.W. )
-    Luchino                   	                        1339-1349 ( wg D.Ś. )
-    Giovanni                 	                          1339-1354 ( wg D.Ś. )
+    Luchino                   	                        1339-1349 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Giovanni                 	                          1339-1354 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         przed 1354-? ( Giovanni Visconti wg H.W. )
-    Matteo II                 	                        1354-1355 ( wg D.Ś. )
-    Galeazzo II             	                          1354-1378 ( wg D.Ś. )
-    Bernabo                  	                          1354-1385 ( wg D.Ś. )
+    Matteo II                 	                        1354-1355 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Galeazzo II             	                          1354-1378 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Bernabo                  	                          1354-1385 ( wg D.Ś. ) ( Bernabò wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1377-? (?.11.-?) ( Bernabò Visconti wg H.W. )
+    Giovanni Galeazzo                                   1378-1395 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Milan]
   Księstwo Mediolanu ( Duchy of Milan )
-    Dynastia Visconti ( Ród Visconti )
+    Dynastia Visconti ( Ród Visconti , House of Visconti )
       Giovanni Galeazzo    		                          1378-1402 ( wg D.Ś. )
                                                         przed 1387-1402 (19.4.-?) ( Gian Galeazzo Visconti (Gian Galeazzo) wg H.W. )
-      Giovanni Maria         		                        1402-1412 ( wg D.Ś. )
+                                                        1395-1402 ( wg D.O.T.W.A.C.A.G.H. )
+      Giovanni Maria         		                        1402-1412 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ?-1412 ( Giovanni Maria Visconti wg H.W. )
-      Filippo Maria            		                      1412-1447 ( wg D.Ś. )
+      Filippo Maria            		                      1412-1447 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1412-1447 (?-13.8.) ( Filippo Maria Visconti wg H.W. )
-  Złota Republika Ambrozjańska
+  Złota Republika Ambrozjańska ( Ambrosian Republic )
   Księstwo Mediolanu ( Duchy of Milan )
-    Dynastia Sforza
-      Francesco I                	                      1450-1466 ( wg D.Ś. )
+    Dynastia Sforza ( House of Sforza )
+      Francesco I                	                      1450-1466 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1450-? (26.3.-?) ( Francesco Sforza wg H.W. )
                                                         ? ( Francesco Sforza wg T.S.O.I.C.O.T.W. )
-      Galeazzo Maria         	                          1466-1476 ( wg D.Ś. )
+      Galeazzo Maria         	                          1466-1476 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         przed 1467-? ( Galeazzo Sforza wg H.W. )
-      Giovanni Galeazzo		                              1476-1494 ( wg D.Ś. )
-      Ludovico Maria         	                          1494-1499 i 1500 ( wg D.Ś. )
+      Giovanni Galeazzo		                              1476-1494 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Ludovico Maria         	                          1494-1499 i 1500 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ?-1499 i 1500-? (? i początek-?) ( Ludovico il Moro (Ludovico, Il Moro) wg H.W. )
     Ludwik XII                                          1499-? (6.10.-?) ( wg H.W. ) [King of France]
-    Dynastia Sforza
-      Massimiliano             	                        1512-1515 ( wg D.Ś. )
+    Dynastia Sforza ( House of Sforza )
+      Massimiliano             	                        1512-1515 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1512-po 1515 ( Massimiliano Sforza wg H.W. )
     Franciszek I Walezjusz                              1515-po 1519 (?-28.6.) ( Franciszek I (Walezjusz) wg H.W. ) [King of France]
-    Dynastia Sforza
-      Francesco II               	                      1521-1525 i 1529-1535 ( wg D.Ś. )
+    Dynastia Sforza ( House of Sforza )
+      Francesco II               	                      1521-1525 i 1529-1535 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         przed 1523-? i ?-1535 (29.7.-? i ?-?.10.) ( Francesco II Sforza wg H.W. )
     Karol                                               przed 1556-? ( wg H.W. ) [Holy Roman Emperor Karol V]
     Filip II                                            przed 1557-po 1559 (?-?.4.) ( Filip Hiszpański (Filip) wg H.W. ) [King of Spain]
@@ -17605,6 +17641,7 @@ Mediolan ( Milan )
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Tamerlane - Sword of Islam, Conqueror of the World
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Margrabstwo Mediolanu ( Margrabstwo Ligurii , Margrabstwo Genui )
   Azzo d'Este                                           ?
@@ -18048,22 +18085,25 @@ Modena
   Hrabstwo Modeny
     Matylda              	                              przed 1089 n.e.-? ( wg F.B.C.A.R. )
   Dom Este
-  Księstwo Modeny
-    Cesare            	                                1597-1628 ( wg D.Ś. )
-    Alfonso III     		                                1628-1629 ( wg D.Ś. )
-    Francesco I     	                                  1629-1658 ( wg D.Ś. )
-    Alfonso IV      		                                1658-1662 ( wg D.Ś. )
-    Francesco II    	                                  1662-1694 ( wg D.Ś. )
-    Rinaldo           		                              1694-1737 ( wg D.Ś. )
-    Francesco III		                                    1737-1780 ( wg D.Ś. )
-    Ercole III         		                              1780-1796 ( wg D.Ś. )
-  Dynastia habsbursko-lotaryńska
-    Franciszek IV       	                              1814-1846 ( wg D.Ś. )
-    Franciszek V        	                              1846-1859 ( wg D.Ś. )
+  Księstwo Modeny ( Duchy of Modena )
+    Dom Este
+      Borso                                             1452-? ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Ferrara]
+      Cesare            	                              1597-1628 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Ferrara]
+      Alfonso III     		                              1628-1629 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Francesco I     	                                1629-1658 ( wg D.Ś. ) ( Francis I wg D.O.T.W.A.C.A.G.H. )
+      Alfonso IV      		                              1658-1662 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Francesco II    	                                1662-1694 ( wg D.Ś. ) ( Francis II wg D.O.T.W.A.C.A.G.H. )
+      Rinaldo           		                            1694-1737 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Francesco III		                                  1737-1780 ( wg D.Ś. ) ( Francis III wg D.O.T.W.A.C.A.G.H. )
+      Ercole III         		                            1780-1796 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
+    Franciszek IV       	                              1814-1846 ( wg D.Ś. ) ( Francis IV wg D.O.T.W.A.C.A.G.H. )
+    Franciszek V        	                              1846-1859 ( wg D.Ś. ) ( Francis V wg D.O.T.W.A.C.A.G.H. )
   Grand Duchy of Modena
   Bibliografia :
       Dynastie Świata
       Fridrich Barbarossa – císař a rytíř
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Mogolistan ( Moghulistan )
   Tughluk Temur                                         przed 1360 n.e.-? ( wg T.S.O.I.C.O.T.W. )
@@ -18350,6 +18390,11 @@ Montefiascone
   Bibliografia :
       Fryderyk II Hohenstauf - Cesarz Rzymski
 
+County of Montefeltro
+  Buonconte                                             przed 1226 n.e.-?
+  Bibliografia :
+      Dynasties of the World - A Chronological and Genealogical Handbook
+
 Montferrat
   Margrabstwo Montferrato
     Vilém z Montferratu	                                ? ( wg F.B.C.A.R. )
@@ -18357,7 +18402,9 @@ Montferrat
                                                         ?-1192 n.e. (?-28.4.) ( Konrad z Montferratu wg F.H.C.R. )
     Bonifacy z Montferratu                              przed 1204-? (Boniface I wg D.O.T.W.A.C.A.G.H.) [Lord of Thessalonica]
                                                         ? ( wg H.W. )
+    Federico II                                         1536-? ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Mantua]
   Księstwo Montferratu
+    Guglielmo                                           1575-? ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Mantua]
     Vincenzo Gonzaga                                    ?-1627 (?-26.12.) ( wg H.W. )
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
@@ -18827,41 +18874,41 @@ Neapol
                                                         przed 1030 n.e.-? ( Sergiusz IV wg F.H.C.R. ) ( Sergius wg N.T.V.S. )
                                                         ? ( Sergiusz IV (Sergiusz) wg N.I.B.W.XI.S. )
   Królestwo Neapolu ( Kingdom of Naples )
-    Dynastia andegaweńska
-      Karol I                       	                  1282-1285 ( wg D.Ś. i V.N.M.S.D. ) [King of Naples and Sicily]
+    Dynastia andegaweńska ( House of Anjou )
+      Karol I                       	                  1282-1285 ( wg D.Ś. i V.N.M.S.D. ) ( Charles I wg D.O.T.W.A.C.A.G.H. ) [King of Naples and Sicily]
                                                         1282-? ( Karol Andegaweński ( Karol I Andegaweński ) wg H.W. )
       Karol II Kulawy        		                        1285-1309 ( wg D.Ś. i V.N.M.S.D. ) ( Charles II (Charles II the Lame) wg D.O.T.W.A.C.A.G.H. )
-      Robert Mądry            	                        1309-1343 ( wg D.Ś. i V.N.M.S.D. )
+      Robert Mądry            	                        1309-1343 ( wg D.Ś. i V.N.M.S.D. ) ( Robert the Wise wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1311-? ( Robert of Naples wg V.K.T.H.O.H.E. )
       Joanna I                     	                    1343-1381 ( wg D.Ś. i V.N.M.S.D. ) ( Joan wg D.O.T.W.A.C.A.G.H. )
                                                         1343-1382 ( wg V.K.T.H.O.H.E. )
-      Karol III z Durazzo   		                        1381-1386 ( wg D.Ś. )
+      Karol III z Durazzo   		                        1381-1386 ( wg D.Ś. ) ( Charles III of Durazzo wg D.O.T.W.A.C.A.G.H. ) [King of Hungary Charles of Durazzo]
                                                         1381-1385 ( wg V.N.M.S.D. )
       Louis I                                           1383-? ( wg D.O.T.W.A.C.A.G.H. )
-      Władysław                 	                      1386-1414 ( wg D.Ś. )
+      Władysław                 	                      1386-1414 ( wg D.Ś. ) ( Ladislas wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1407-po 1409 (?.8.-9.6.) ( Władysław z Durazzo (Władysław z Neapolu) wg H.W. )
                                                         1385-1414 ( wg V.N.M.S.D. )
-      Joanna II                                         1414-1435 ( wg D.Ś. i V.N.M.S.D. i V.K.T.H.O.H.E. )
+      Joanna II                                         1414-1435 ( wg D.Ś. i V.N.M.S.D. i V.K.T.H.O.H.E. ) ( Joan II wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1418-? ( wg H.W. )
       René Dobry               	                        1435-1442 ( wg D.Ś. ) ( René the Good wg D.O.T.W.A.C.A.G.H. )
-    Dynastia aragońska
-      Alfons I Wielkoduszny	                            1443-1458 ( wg D.Ś. ) [King of Aragon Alfonso V]
+    Dynastia aragońska ( House of Aragon )
+      Alfons I Wielkoduszny	                            1443-1458 ( wg D.Ś. ) ( Alfonso I (Alfonso I the Magnanimous) wg D.O.T.W.A.C.A.G.H. ) [King of Aragon Alfonso V]
                                                         1435-1458 ( wg V.N.M.S.D. )
                                                         1442/3-1458 (?-po ?.3.) ( Alfonso V The Magnanimous wg V.K.T.H.O.H.E. )
                                                         przed 1446-po 1454 ( Alfons V Aragoński (Alfons V) wg H.W. )
-      Ferdynand I                      	                1458-1494 ( wg V.N.M.S.D. i D.Ś. ) ( Fernando I (Don Ferrante) wg V.K.T.H.O.H.E. )
+      Ferdynand I                      	                1458-1494 ( wg V.N.M.S.D. i D.Ś. ) ( Fernando I (Don Ferrante) wg V.K.T.H.O.H.E. ) ( Ferdinand I wg D.O.T.W.A.C.A.G.H. )
       					                                        1458-1494 ( ?-25.1. ) ( Ferdinand I Ferrante wg E.P. )
                                                         przed 1472-po 1483 ( Ferdynand wg H.W. )
-      Alfons II                           	            1494-1495 ( wg D.Ś. )
+      Alfons II                           	            1494-1495 ( wg D.Ś. ) ( Alfonso II wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Alfonso II wg V.K.T.H.O.H.E. )
                                                         1494-1495 (?.1.-?) ( Alfons wg H.W. )
-      Ferdynand II                      	              1495-1496 ( wg D.Ś. )
+      Ferdynand II                      	              1495-1496 ( wg D.Ś. ) ( Ferdinand II wg D.O.T.W.A.C.A.G.H. )
       					                                        1494-1496 ( ?-5.10. ) ( wg E.P. )
                                                         ? ( Ferdinand II (Fernando) wg V.K.T.H.O.H.E. )
                                                         1495 i 1495-? ( Ferdynand (Ferrantino) wg H.W. )
     Karol VIII                                          1495 (12.5.-po 5.7.) ( wg H.W. ) [King of France]
-    Dynastia aragońska
-      Fryderyk                           	              1496-1501 ( wg D.Ś. )
+    Dynastia aragońska ( House of Aragon )
+      Fryderyk                           	              1496-1501 ( wg D.Ś. ) ( Frederick wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Frederico wg V.K.T.H.O.H.E. )
     Ferdynand Katolicki                                 przed 1510-po 1511 ( wg H.W. ) [King of Spain]
     Karol                                               ? ( wg H.W. ) [Holy Roman Emperor Charles V]
@@ -18870,10 +18917,10 @@ Neapol
       Carlo VIII                                        1735-1759 (Carlos VII wg V.K.T.H.O.H.E. ) [King of Spain Carlos III]
       Ferdinando IV                                     1759-1816 ( Ferdinando I wg V.K.T.H.O.H.E. ) [King of Sicily]
     Neapolitan Parthenopean Republic
-    Dynastia Bonaparte
-      Józef Napoleon                  	                1806-1808 ( wg D.Ś. ) [King of Spain]
+    Dynastia Bonaparte ( House of Bonaparte )
+      Józef Napoleon                  	                1806-1808 ( wg D.Ś. ) ( Joseph Napoleon wg D.O.T.W.A.C.A.G.H. ) [King of Spain]
                                                         1806-1808 (?.2.-?) ( Giuseppe (Joseph) wg V.K.T.H.O.H.E. )
-      Joachim Napoleon Murat  	                        1808-1815 ( wg D.Ś. i V.N.M.S.D. )
+      Joachim Napoleon Murat  	                        1808-1815 ( wg D.Ś. i V.N.M.S.D. ) ( Joachim Napoleon wg D.O.T.W.A.C.A.G.H. )
                                                         1808-po 1813 ( Joachim Murat wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
@@ -18888,56 +18935,58 @@ Neapol
       Dynasties of the World - A Chronological and Genealogical Handbook
 
 Królestwo Neapolu i Sycylii ( Kingdom of Sicily, Kingdom of Naples )
-  Roger II Wielki         	                            1105-1154 ( wg D.Ś. i J.P.1242 )
-                                                    	  1130-1154 ( wg V.N.M.S.D. i M.A.E. ) ( Roger II (Roger) wg N.T.V.S. ) ( Roger II (Roger) wg N.I.B.W.XI.S. )
-      			   	                                        1130-? ( wg D.B. )
-      			   	                                        przed 1127-1154 ( ?-26.2. ) ( wg F.B.C.A.R. )
+  House of Hauteville
+    Roger II Wielki         	                          1105-1154 ( wg D.Ś. i J.P.1242 )
+                                                      	1130-1154 ( wg V.N.M.S.D. i M.A.E. ) ( Roger II (Roger) wg N.T.V.S. ) ( Roger II (Roger) wg N.I.B.W.XI.S. ) ( Roger II (Roger II the Great) wg D.O.T.W.A.C.A.G.H. )
+        			   	                                      1130-? ( wg D.B. )
+        			   	                                      przed 1127-1154 ( ?-26.2. ) ( wg F.B.C.A.R. )
                                                         1130-? ( Roger The Norman wg V.K.T.H.O.H.E. )
                                                         ? ( wg T.V.Q. )
                                                         przed 1130-1154 ( Roger II z Hauteville wg H.W. )
                                                         1130-1154 (?.12.-?.2.) ( Roger II wg F.H.C.R. )
-  Wilhelm I Zły            	                            1154-1166 ( wg D.Ś. i V.N.M.S.D. )
-      			   	                                        przed 1155-1166 ( ?-7.5. ) ( Vilém I wg F.B.C.A.R. )
+    Wilhelm I Zły            	                          1154-1166 ( wg D.Ś. i V.N.M.S.D. )
+        			   	                                      przed 1155-1166 ( ?-7.5. ) ( Vilém I wg F.B.C.A.R. )
                                                         1154-po 1159 ( Wilhelm I wg H.W. )
                                                         1154-1166 (?-?.5.) ( Wilhelm I (Wilhelm) wg F.H.C.R. )
-  Wilhelm II Dobry      	                              1166-1189 ( wg D.Ś. i V.N.M.S.D. ) ( wg N.I.B.W.XI.S. )
+                                                        1151/4-1166 ( William I (William I the Bad) wg D.O.T.W.A.C.A.G.H. )
+    Wilhelm II Dobry      	                            1166-1189 ( wg D.Ś. i V.N.M.S.D. i N.I.B.W.XI.S. ) ( William II (William II the Good) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1172-1189 ( Vilém II Sicilský wg D.B. )
-      			   	                                        przed 1172-po 1184 ( Vilém II wg F.B.C.A.R. )
+        			   	                                      przed 1172-po 1184 ( Vilém II wg F.B.C.A.R. )
                                                         przed 1175-po 1189 ( Wilhelm Dobry (Wilhelm) wg H.W. )
                                                         przed 1184-1189 (29.10.-?.11.) ( Wilhelm II (Wilhelm) wg F.H.C.R. )
-  Tankred z Lecce	                                      1190-1194 ( wg D.Ś. )
-                                                    	  1189-1194 ( wg V.N.M.S.D. )
+    Tankred z Lecce	                                    1190-1194 ( wg D.Ś. ) ( Tancred of Lecce wg D.O.T.W.A.C.A.G.H. )
+                                                      	1189-1194 ( wg V.N.M.S.D. )
                                                         ? ( wg H.W. )
                                                         1190-1194 (?.1.-20.2.) ( Tankred wg F.H.C.R. )
-  Roger III                    	                        1192-1194 ( wg D.Ś. )
-  Wilhelm III                	                          1194 ( wg D.Ś. i F.H.C.R. )
-                                                    	  1194-1197 ( wg V.N.M.S.D. )
-  Dynastia Hohenstaufów
-    Henryk          	                                  1194-1197 ( wg D.Ś. ) [Emperor Henryk VI]
+    Roger III                    	                      1192-1194 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Wilhelm III                	                        1194 ( wg D.Ś. i F.H.C.R. ) ( William III wg D.O.T.W.A.C.A.G.H. )
+                                                      	1194-1197 ( wg V.N.M.S.D. )
+  Dynastia Hohenstaufów ( House of Hohenstaufen )
+    Henryk          	                                  1194-1197 ( wg D.Ś. ) ( Henry wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor Henry VI]
       		        	                                    1194-po 1196 ( Jindřich VI wg D.B. )
                                                         1194-1197 (24.12.-?) ( Henryk VI (Henryk Hohenstauf) wg H.W. )
                                                         1190/4-1197 (?/25.12.-?) ( Henryk VI wg F.H.C.R. )
                                                         1194-? ( Henryk VI wg N.I.B.W.XI.S. )
-    Fryderyk I     	                                    1197-1250 ( wg D.Ś. i V.N.M.S.D. ) [Emperor Frederick II]
+    Fryderyk I     	                                    1197-1250 ( wg D.Ś. i V.N.M.S.D. ) ( Frederick I wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor Frederick II]
                                                         ?-1250 ( Frederick II of Hohenstaufen wg V.K.T.H.O.H.E. )
                                                         1198-1250 (17.5.-13.12.) ( Fryderyk II Hohenstauf (Konstantyn, Fryderyk Roger, Fryderyk, Hohenstauf, Federico II, Friedrich II, Federico, Al-Anbaratur, Fryderyk II Stauf, Frederick II of Hohenstaufen, Friedrich der Zweite, Friedrich, Friedrich II. der Hohenstaufe, Friedrich II., Fryderyk Hohenstauf, Friedrich II. von Hohenstaufen) wg F.H.C.R. )
     Henryk                                              przed 1212-? (?.3.-?) ( Henryk VII wg F.H.C.R. )
-    Konrad          	                                  1250-1254 ( wg D.Ś. i V.N.M.S.D. )
+    Konrad          	                                  1250-1254 ( wg D.Ś. i V.N.M.S.D. ) ( Conrad wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor Conrad IV]
     Konradyn      	                                    1254-1258 ( wg V.N.M.S.D. )
                                                         ? ( Konradin wg F.H.C.R. )
-    Manfred        	                                    1258-1266 ( wg D.Ś. i V.N.M.S.D. )
+    Manfred        	                                    1258-1266 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
       		        	                                    przed 1258-po 1266 ( wg D.B. )
                                                         1258-1266 (?.8.-?) ( Manfred Hohenstauf wg F.H.C.R. )
       			                                            ? ( wg E.P. i H.W. )
-  Dynastia andegaweńska
-    Karol I        	                                    1266-1282 ( wg D.Ś. i V.N.M.S.D. ) ( Karel z Anjou wg D.B. ) ( Karol Andegaweński wg H.W. )
+  Dynastia andegaweńska ( House of Anjou )
+    Karol I        	                                    1266-1282 ( wg D.Ś. i V.N.M.S.D. ) ( Karel z Anjou wg D.B. ) ( Karol Andegaweński wg H.W. ) ( Charles I wg D.O.T.W.A.C.A.G.H. )
       			                                            przed 1282-? ( Karel I z Anjou wg E.P. )
-                                                        1266-? ( Charles d'Anjou wg V.K.T.H.O.H.E. ) ( Charles I wg D.O.T.W.A.C.A.G.H. )
+                                                        1266-? ( Charles d'Anjou wg V.K.T.H.O.H.E. )
                                                         1266-po 1268 (6.1.-29.10.) ( Karol I Andegaweński (Karol Andegaweński, Karol) wg F.H.C.R. )
-  Dynastia burbońska ( The Bourbons )
-    Karol             	                                1734-1759 ( wg D.Ś. ) [King of Spain Carlos III]
+  Dynastia burbońska ( The Bourbons , House of Bourbon )
+    Karol             	                                1734-1759 ( wg D.Ś. ) ( Charles wg D.O.T.W.A.C.A.G.H. ) [King of Spain Carlos III]
                                          	              1735-1759 ( VII wg V.N.M.S.D. )
-    Ferdynand IV	                                      1759-1806 i 1815-1816 ( wg D.Ś. )
+    Ferdynand IV	                                      1759-1806 i 1815-1816 ( wg D.Ś. ) ( Ferdinand IV wg D.O.T.W.A.C.A.G.H. )
                                           	            1759-1806 i 1815-1825 ( wg V.N.M.S.D. )
   Bibliografia :
       Dynastie Świata
@@ -19011,11 +19060,13 @@ Neurowie
 Nevers
   County of Nevers
     John of Nevers                                      ? ( wg T.S.O.I.C.O.T.W. ) [John the Fearless Duke of Burgundy]
-  Księstwo Nevers
-    Karol                                               przed 1627 n.e.-?
+  Księstwo Nevers ( Duchy of Nevers )
+    Karol                                               przed 1627 n.e.-? ( wg H.W. ) [Duke of Mantua Carlo I]
+                                                        ? ( Carlo I wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Historia Wenecji
       Tamerlane - Sword of Islam, Conqueror of the World
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Nez Percé ( Czute-Pa-Lu , Nez Perce , Po-ge-hdo-ke )
   Tuekakas ( Józef Starszy )               			       	przed 1855-1871 ( wg W.I.A.P. ) ( Wódz Józef wg I.N.G.S. )
@@ -19161,16 +19212,19 @@ Niemcy ( Germany , Německo )
                                                         ? ( Conrad III wg N.T.V.S. )
     Frederick Barbarossa                                1152-1190 ( wg V.K.T.H.O.H.E. )
                                                         1152-po 1158 ( Friedrich I. wg B.S. )
-    Henryk Hohenstauf                                   ? ( Henryk VI wg H.W. )
+    Henryk Hohenstauf                                   1190-? ( Henry wg D.O.T.W.A.C.A.G.H. )
+                                                        ? ( Henryk VI wg H.W. )
                                                         przed 1184-po 1190 (29.10.-?.6.) ( Henryk wg F.H.C.R. )
     Filip Szwabski                                      przed 1203-? ( wg H.W. )
                                                         1198-1208 (?.3./8.9.-21.6.) ( wg F.H.C.R. )
     Welfowie
       Otton IV                                          1198-1218 (9.6./12.7.-19.5.) ( Otton z Brunszwiku (Otto, Otto IV, Otton Welf, Otton IV Welf, Otton) wg F.H.C.R. ) [Holy Roman Emperor]
     Fryderyk II                                         1196/1211/1212-1250 (25.12./?.9./5.12.-13.12.) ( Fryderyk II Hohenstauf (Konstantyn, Fryderyk Roger, Fryderyk, Hohenstauf, Federico II, Friedrich II, Federico, Al-Anbaratur, Fryderyk II Stauf, Frederick II of Hohenstaufen, Friedrich der Zweite, Friedrich, Friedrich II. der Hohenstaufe, Friedrich II., Fryderyk Hohenstauf, Friedrich II. von Hohenstaufen) wg F.H.C.R. ) [Holy Roman Emperor]
+                                                        1212-? ( Frederick I wg D.O.T.W.A.C.A.G.H. )
     Henryk VII                                          1220/1222-1235 (26.4./8.5.-po 1.6.) ( Henryk (Heinrich VII, Heinrich VII von Hohenstaufen, Heinrich VII.) wg F.H.C.R. )
-    Konrad IV                                           1236-1254 (?.12.-20.5.) ( Konrad wg F.H.C.R. )
+    Konrad IV                                           1236-1254 (?.12.-20.5.) ( Konrad wg F.H.C.R. ) [Holy Roman Emperor]
                                                         przed 1241-po 1241 (?.4.-?.5.) ( Konrad I wg L.1241. )
+                                                        1250-? ( Conrad wg D.O.T.W.A.C.A.G.H. )
     Henryk Raspe                                        1246-1247 (22.5.-16.2.) ( wg F.H.C.R. )
     Wilhelm                                             1247-1256 (3.10.-28.1.) ( Wilhelm z Holandii wg F.H.C.R. )
                                                         1247-? ( William II wg D.O.T.W.A.C.A.G.H. )
@@ -19180,7 +19234,7 @@ Niemcy ( Germany , Německo )
                                                         ? ( wg H.W. )
     Henryk VII Luksemburski                             1308-1313 ( wg F.H.C.R. ) ( Henry VII wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor]
     Charles                                             1346-1378 ( wg D.O.T.W.A.C.A.G.H. ) [Hole Roman Emperor Charles IV]
-    Wenceslas II                                        1378-1400 ( wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor]
+    Wenceslas II                                        1378-1400 ( Wenceslas wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor]
     Rupert z Palatynatu                                 1400-po 1409 ( wg H.W. ) [Holy Roman Emperor]
     Zygmunt Luksemburski                                przed 1418-po 1420 ( Zygmunt wg H.W. ) [Holy Roman Emperor]
                                                         1410-? ( Sigismund wg D.O.T.W.A.C.A.G.H. )
@@ -19897,12 +19951,12 @@ Obodrzyce ( Obodrzyci , Abodriti , Abodriten , Obodryci , Związek Obodrycki , A
 Królestwo Obojga Sycylii ( Kingdom of The Two Sicilies )
   Habsburgowie
     Karol                                               ? ( wg S.II.W.I.J.C.Z.E.M.P. ) [Holy Roman Emperor Charles V]
-  Dynastia burbońska
-    Ferdynand I           	                            1816-1825 ( wg D.Ś. ) ( Ferdinando I wg V.K.T.H.O.H.E. )
-    Franciszek I           	                            1825-1830 ( wg D.Ś. i V.N.M.S.D. ) ( Francesco I wg V.K.T.H.O.H.E. )
-    Ferdynand II          	                            1830-1859 ( wg D.Ś. i V.N.M.S.D. )
+  Dynastia burbońska ( House of Bourbon )
+    Ferdynand I           	                            1816-1825 ( wg D.Ś. ) ( Ferdinando I wg V.K.T.H.O.H.E. ) ( Ferdinand I (Ferdinand IV) wg D.O.T.W.A.C.A.G.H. )
+    Franciszek I           	                            1825-1830 ( wg D.Ś. i V.N.M.S.D. ) ( Francesco I wg V.K.T.H.O.H.E. ) ( Francis I wg D.O.T.W.A.C.A.G.H. )
+    Ferdynand II          	                            1830-1859 ( wg D.Ś. i V.N.M.S.D. ) ( Ferdinand II wg D.O.T.W.A.C.A.G.H. )
                                                         1830-1855 ( Ferdinand II (King Bomba, Ferdinando II) wg V.K.T.H.O.H.E. )
-    Franciszek II		                                    1859-1860 ( wg D.Ś. )
+    Franciszek II		                                    1859-1860 ( wg D.Ś. ) ( Francis II wg D.O.T.W.A.C.A.G.H. )
                                                     	  ok.1860 ( wg 100.N.V.S. )
                                                         1855-1861 ( Francesco II wg V.K.T.H.O.H.E. )
   Bibliografia :
@@ -19911,6 +19965,7 @@ Królestwo Obojga Sycylii ( Kingdom of The Two Sicilies )
       100 nejvlivnějších vojevůdců světa
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Księstwo Oboleńskie
   Bibliografia :
@@ -20605,33 +20660,33 @@ Parma
   podesta
     Henryk Testa                                        ?-1247 (?-16.6.) ( wg F.H.C.R. )
   Ród Rossi
-  Księstwo Parmy ( Duchy of Parma )
-    Dynastia Farnese ( Dom Farnese )
-      Pier Luigi      	                                1545-1547 ( wg D.Ś. )
-      Ottavio          	                                1547-1586 ( wg D.Ś. )
-      Alessandro	                                      1586-1592 ( wg D.Ś. )
-      Ranuccio I     	                                  1592-1622 ( wg D.Ś. )
-      Odoardo        	                                  1622-1646 ( wg D.Ś. )
-      Ranuccio II   	                                  1646-1694 ( wg D.Ś. )
-      Francesco    	                                    1694-1727 ( wg D.Ś. )
-      Antonio         	                                1727-1731 ( wg D.Ś. )
-  Duchy of Parma and Piacenza
-    Dynastia Burbońska ( The Bourbons )
-      Karol I          	                                1731-1736 ( wg D.Ś. )
-                                                        1731-1735 ( Carlos I wg V.K.T.H.O.H.E. ) [King of Spain Carlos III]
-      Filip              	                              1748-1765 ( wg D.Ś. ) ( Felipe wg V.K.T.H.O.H.E. )
-      Ferdynand    	                                    1765-1802 ( wg D.Ś. ) ( Ferdinando wg V.K.T.H.O.H.E. )
-    Dynastia habsbursko-lotaryńska
-      Maria Ludwika     	                              1814-1847 ( wg D.Ś. ) ( Maria-Luisa wg V.K.T.H.O.H.E. )
-    Dynastia Burbońska ( The Bourbons )
-      Karol II         	                                1847-1849 ( wg D.Ś. ) ( Carlos III wg V.K.T.H.O.H.E. )
-      Karol III        	                                1849-1854 ( wg D.Ś. ) ( Carlos IV wg V.K.T.H.O.H.E. )
-      Robert           	                                1854-1859 ( wg D.Ś. ) ( Roberto wg V.K.T.H.O.H.E. )
+  Księstwo Parmy ( Duchy of Parma , Duchy of Parma and Piacenza )
+    Dynastia Farnese ( Dom Farnese , House of Farnese )
+      Pier Luigi      	                                1545-1547 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Ottavio          	                                1547-1586 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Alessandro	                                      1586-1592 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Ranuccio I     	                                  1592-1622 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Odoardo        	                                  1622-1646 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Ranuccio II   	                                  1646-1694 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Francesco    	                                    1694-1727 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Antonio         	                                1727-1731 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Dynastia Burbońska ( The Bourbons , House of Bourbon )
+      Karol I          	                                1731-1736 ( wg D.Ś. ) ( Charles I wg D.O.T.W.A.C.A.G.H. ) [King of Spain Carlos III]
+                                                        1731-1735 ( Carlos I wg V.K.T.H.O.H.E. )
+      Filip              	                              1748-1765 ( wg D.Ś. ) ( Felipe wg V.K.T.H.O.H.E. ) ( Philip wg D.O.T.W.A.C.A.G.H. )
+      Ferdynand    	                                    1765-1802 ( wg D.Ś. ) ( Ferdinando wg V.K.T.H.O.H.E. ) ( Ferdinand wg D.O.T.W.A.C.A.G.H. )
+    Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
+      Maria Ludwika     	                              1814-1847 ( wg D.Ś. ) ( Maria-Luisa wg V.K.T.H.O.H.E. ) ( Marie Louise wg D.O.T.W.A.C.A.G.H. )
+    Dynastia Burbońska ( The Bourbons , House of Bourbon )
+      Karol II         	                                1847-1849 ( wg D.Ś. ) ( Carlos III wg V.K.T.H.O.H.E. ) ( Louis II (Charles Louis) wg D.O.T.W.A.C.A.G.H. ) ( Charles II wg D.O.T.W.A.C.A.G.H. ) [King of Etruria Louis II]
+      Karol III        	                                1849-1854 ( wg D.Ś. ) ( Carlos IV wg V.K.T.H.O.H.E. ) ( Charles III wg D.O.T.W.A.C.A.G.H. )
+      Robert           	                                1854-1859 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Roberto wg V.K.T.H.O.H.E. )
   Grand Duchy of Parma
   Bibliografia :
       Dynastie Świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Paros
   Bibliografia :
@@ -24512,7 +24567,7 @@ Sardynia
   Judgeship of Logudoro
   Judgeship of Arborea
   Królestwo Sardynii ( Kingdom of Sardinia )
-    Wiktor Amadeusz II           	                      1720-1730 ( wg D.Ś. i V.N.M.S.D. )
+    Wiktor Amadeusz II           	                      1720-1730 ( wg D.Ś. i V.N.M.S.D. ) ( Victor Amadeus II wg D.O.T.W.A.C.A.G.H. ) [King of Sicily]
                                                         1718/20-1730 ( Vittorio Amadeo II (Victor Amadeus II) wg V.K.T.H.O.H.E. )
     Karol Emanuel III               	                  1730-1773 ( wg D.Ś. i V.N.M.S.D. ) ( Carlo Emanuele III wg V.K.T.H.O.H.E. )
                                                         ? ( wg H.W. )
@@ -24533,6 +24588,7 @@ Sardynia
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Sarepta
   Bibliografia :
@@ -25881,39 +25937,40 @@ Sycylia ( Sicily )
   Emirat Sycylii
     Abu al-Kasim                                        ?-982 (?-15.7.) ( wg B.S. )
   Księstwo Sycylii ( Hrabstwo Sycylii , County of Sicily )
-    Ród d'Hauteville
+    Ród d'Hauteville ( House of Hauteville )
       Robert Guiscard         	                        ?-1085 ( wg M.A.E. ) [Count of Apulia]
                                                         1059-po 1084 (wiosna) ( Robert de Hauteville wg H.W. )
                                                         ? ( wg N.T.V.S. )
-      Roger I                     	                    1072-1101 ( wg D.Ś. )
+      Roger I                     	                    1072-1101 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ?-1101 ( Roger I of Sicily (Roger) wg N.T.V.S. )
                                                         przed 1086-po ok.1098 ( Roger (Wielki Hrabia) wg N.I.B.W.XI.S. )
-      Szymon                    	                      1101-1105 ( wg D.Ś. )
+      Szymon                    	                      1101-1105 ( wg D.Ś. ) ( Simon wg D.O.T.W.A.C.A.G.H. )
                                                         1101-1105 ( Simon wg N.T.V.S. )
       Roger II z Hauteville                             ? ( wg H.W. ) [King of Naples and Sicily]
-                                                        1105-1130 ( Roger II (Roger) wg N.T.V.S. ) ( Roger II (Roger II Wielki, Roger) wg N.I.B.W.XI.S. )
+                                                        1105-1130 ( Roger II (Roger) wg N.T.V.S. ) ( Roger II (Roger II Wielki, Roger) wg N.I.B.W.XI.S. ) ( Roger II (Roger II the Great) wg D.O.T.W.A.C.A.G.H. )
   Kingdom of Trinacria ( Królestwo Sycylii, Kingdom of Sicily )
-    Dynastia aragońska
-      Piotr I Wielki               	                    1282-1285 ( wg D.Ś. i V.N.M.S.D. )
+    Dynastia aragońska ( House of Aragon )
+      Piotr I Wielki               	                    1282-1285 ( wg D.Ś. i V.N.M.S.D. ) ( Peter I (Peter I the Great) wg D.O.T.W.A.C.A.G.H. ) [King of Aragon Peter III]
                                                         1282-? ( Piotr III Aragoński wg H.W. )
-      Jakub Sprawiedliwy     	                          1285-1295 ( wg D.Ś. i V.N.M.S.D. ) ( Jakub II wg E.P. ) [King of Aragon Jaime II]
+      Jakub Sprawiedliwy     	                          1285-1295 ( wg D.Ś. i V.N.M.S.D. ) ( Jakub II wg E.P. ) ( James the Just wg D.O.T.W.A.C.A.G.H. ) [King of Aragon Jaime II]
                                                         1286-1327 (2.2.-?) ( Jaime II El Justo wg V.K.T.H.O.H.E. )
-      Fryderyk II                   	                  1296-1337 ( wg D.Ś. i V.N.M.S.D. ) ( Frederico II (Frederick III) wg V.K.T.H.O.H.E. )
+      Fryderyk II                   	                  1296-1337 ( wg D.Ś. i V.N.M.S.D. ) ( Frederico II (Frederick III) wg V.K.T.H.O.H.E. ) ( Frederick II wg D.O.T.W.A.C.A.G.H. )
       					                                        ? ( Fridrich ( don Fadrique ) wg E.P. )
       Piotr II                          	              1337-1342 ( wg D.Ś. i V.N.M.S.D. )
                                                         ?-1342 ( Piotr II Aragoński wg F.H.C.R. )
-      Ludwik                         	                  1342-1355 ( wg D.Ś. i V.N.M.S.D. )
-      Fryderyk III Prostak     	                        1355-1377 ( wg D.Ś. )
+                                                        1320/37-1342 ( Peter II wg D.O.T.W.A.C.A.G.H. )
+      Ludwik                         	                  1342-1355 ( wg D.Ś. i V.N.M.S.D. ) ( Louis wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk III Prostak     	                        1355-1377 ( wg D.Ś. ) ( Frederick III (Frederick III the Simple) wg D.O.T.W.A.C.A.G.H. )
                                                         1355-1376 ( wg V.N.M.S.D. )
-      Maria                            	                1377-1401 ( wg D.Ś. )
+      Maria                            	                1377-1401 ( wg D.Ś. ) ( Mary wg D.O.T.W.A.C.A.G.H. )
                                                         1376-1402 ( wg V.N.M.S.D. )
-      Marcin I Młodszy         	                        1390-1409 ( wg D.Ś. )
+      Marcin I Młodszy         	                        1390-1409 ( wg D.Ś. ) ( Martin I (Martin I the Younger) wg D.O.T.W.A.C.A.G.H. )
                                                         1376-1409 ( wg V.N.M.S.D. )
-      Marcin II Ludzki          	                      1409-1410 ( wg D.Ś. )
+      Marcin II Ludzki          	                      1409-1410 ( wg D.Ś. ) ( Martin II (Martin II the Humane) wg D.O.T.W.A.C.A.G.H. ) [King of Aragon]
       Alfonso V The Magnanimous                         1442/3-1458 (?-po ?.3.) ( wg V.K.T.H.O.H.E. ) [King of Aragon]
   Królestwo Sycylii ( Kingdom of Sicily )
-    Dynastia sabaudzka
-      Wiktor Amadeusz II		                            1713-1720 ( wg D.Ś. ) [Prince of Piedmont]
+    Dynastia sabaudzka ( House of Savoy )
+      Wiktor Amadeusz II		                            1713-1720 ( wg D.Ś. ) ( Victor Amadeus II ) [King of Sardinia]
                                                         1718-1720 ( wg V.N.M.S.D. )
                                                         1713-1718/20 ( Vittorio Amadeo II (Victor Amadeus II) wg V.K.T.H.O.H.E. )
     Dynastia burbońska ( The Bourbons )
@@ -25929,6 +25986,7 @@ Sycylia ( Sicily )
       Historia Wenecji
       Northmen - The Viking Saga 793-1241
       Normanowie i Bizancjum w XI stuleciu
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Królestwo Niewolników na Sycylii
   Eunus                           	                    ok.136 p.n.e. ( wg H.P.S. )
@@ -26923,11 +26981,12 @@ Państwo Śungów
     Ruprecht z Palatynatu	                              1400-1410 ( wg V.N.M.S.D. i	D.Ś. i Tapsella )
                                                         przed 1402-? ( Rupert z Palatynatu wg H.W. )
   Dynastia luksemburska
-    Zygmunt                              	              1410-1437 ( wg D.Ś. , V.N..S.D. i Tapsella )
+    Zygmunt                              	              1410-1437 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
                                                         1433-? ( Zikmund Lucemburský wg D.P.I.R.G. )
                                                         przed 1415-? ( Zikmund Lucemburský wg E.P. )
                                                         przed 1411-po 1438 (?-16.8.) ( Zygmunt Luksembusrki wg H.W. )
                                                         ? ( Zygmunt Luksemburczyk wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        przed 1433-? ( Sigismund wg D.O.T.W.A.C.A.G.H. )
     Jodok z Moraw                    	                  1410-1411 ( wg D.Ś. i Tapsella )
   Dynastia habsburska ( House of Habsburg , Habsburgowie )
     Albrecht II Austriacki	                            1438-1439 ( wg D.Ś. )
@@ -26952,6 +27011,7 @@ Państwo Śungów
                                                         przed 1520-po 1541 ( Charles V wg A.S.A.O.T.D.O.T.I. )
                                                         przed 1526-po 1551 ( Karel V wg Ř.S.J.Ď.S. )
                                                         1519-po 1556 (28.6.-?) ( Karol wg H.W. )
+                                                        przed 1530-? ( Charles V wg D.O.T.W.A.C.A.G.H. )
     Ferdynand I                  	                      1558-1564 ( wg D.Ś. i Tapsella )
                                                         1556-1564 ( wg V.N.M.S.D. )
                                                         1521/56-1564 ( Ferdinand of Habsburg wg V.K.T.H.O.H.E. )
@@ -26984,12 +27044,14 @@ Państwo Śungów
   Dynastia Wittelsbachów
     Karol VII Bawarski           	                      1742-1745 ( wg D.Ś. i Tapsella )
   Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
-    Franciszek I Lotaryński	                            1745-1765 ( wg V.N.M.S.D. , D.Ś. i Tapsella )
+    Franciszek I Lotaryński	                            1745-1765 ( wg V.N.M.S.D. i D.Ś. i Tapsella )
                                                         przed 1755-? ( František I Lotrinský wg Ř.V.G. )
+                                                        ? ( Francis I wg D.O.T.W.A.C.A.G.H. )
+                                                        1745-? ( Francis II wg D.O.T.W.A.C.A.G.H. )
     Józef II                               	            1765-1790 ( wg V.N.M.S.D. ,	D.Ś. i Tapsella )
                                                         ?-1790 ( Joseph II wg V.K.T.H.O.H.E. )
                                                         przed 1769-? (22.7.-?) ( Józef wg H.W. )
-    Leopold II                          	              1790-1792 ( wg D.Ś. i Tapsella )
+    Leopold II                          	              1790-1792 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                         1790-1794 ( wg V.N.M.S.D. )
                                                         ? ( wg V.K.T.H.O.H.E. )
     Franciszek II                      	                1792-1806 ( wg D.Ś. i Tapsella )
@@ -27575,31 +27637,34 @@ Toskania ( Tuscany )
     Jindřich Pyšný          	                          1136-1139 ( wg F.B.C.A.R. )
     Welf VI                     	                      ? ( wg F.B.C.A.R. )
     Filip			                                          ? ( wg F.B.C.A.R. )
+  House of Medici
+    Cosimo I                                            1537-1569 ( wg D.O.T.W.A.C.A.G.H. ) [Grand Duke of Tuscany]
   Wielkie Księstwo Toskanii ( Grand Duchy of Tuscany )
     Cosimo I                   	                        1537-1574 ( wg D.Ś. )
                                                         przed 1548-? ( Cosimo I de' Medici wg V.K.T.H.O.H.E. )
                                                         ?-1574 ( Cosimo de'Medici wg H.W. )
-    Francesco I               	                        1574-1587 ( wg D.Ś. ) ( Francesco (Francesco de'Medici) wg H.W. )
-    Ferdinando I             	                          1587-1609 ( wg D.Ś. )
+                                                        1569-1574 ( wg D.O.T.W.A.C.A.G.H. )
+    Francesco I               	                        1574-1587 ( wg D.Ś. ) ( Francesco (Francesco de'Medici) wg H.W. ) ( Francis I wg D.O.T.W.A.C.A.G.H. )
+    Ferdinando I             	                          1587-1609 ( wg D.Ś. ) ( Ferdinand I wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Ferdinando de'Medici (Ferdinando) wg H.W. )
-    Cosimo II                 	                        1609-1621 ( wg D.Ś. )
+    Cosimo II                 	                        1609-1621 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         przed 1616-? ( wg 100.N.U.W. )
                                                         ? ( Cosimo II de'Medici wg H.W. )
-    Ferdinando II            	                          1621-1670 ( wg D.Ś. )
-    Cosimo III                	                        1670-1723 ( wg D.Ś. )
-    Giovanni Gastone    	                              1723-1737 ( wg D.Ś. )
+    Ferdinando II            	                          1621-1670 ( wg D.Ś. ) ( Ferdinand II wg D.O.T.W.A.C.A.G.H. )
+    Cosimo III                	                        1670-1723 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Giovanni Gastone    	                              1723-1737 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
     Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
-      Franciszek II        	                            1737-1765 ( wg D.Ś. )
-      Leopold I              	                          1765-1790 ( wg D.Ś. )
-      Ferdynand III        	                            1790-1799 i 1814-1824 ( wg D.Ś. )
+      Franciszek II        	                            1737-1765 ( wg D.Ś. ) ( Francis II wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor Francis I]
+      Leopold I              	                          1765-1790 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor Leopold II]
+      Ferdynand III        	                            1790-1799 i 1814-1824 ( wg D.Ś. ) ( Ferdinand III wg D.O.T.W.A.C.A.G.H. ) [Grand Duke of Würzburg]
                                                         przed 1796-1801 i 1815-? (1.7.-? i ?) ( Ferdinando III wg V.K.T.H.O.H.E. )
-    Dynastia Bonaparte
-      Maria Anna ( Eliza )	                            1809-1814 ( wg D.Ś. )
+    Dynastia Bonaparte ( House of Bonaparte )
+      Maria Anna ( Eliza )	                            1809-1814 ( wg D.Ś. ) ( Marie Anne (Elisa) wg D.O.T.W.A.C.A.G.H. )
                                                         1807-1814 (?-po 23.2.) ( Elisa Buonaparte-Bacciochi (Maria-Anna, Elisa) wg V.K.T.H.O.H.E. )
     Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
-      Leopold II             	                          1824-1859 ( wg D.Ś. ) [Emperor Leopold II]
+      Leopold II             	                          1824-1859 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Austrian Emperor Leopold II]
                                                         ?-1859 ( wg V.K.T.H.O.H.E. )
-      Ferdynand IV        	                            1859-1860 ( wg D.Ś. )
+      Ferdynand IV        	                            1859-1860 ( wg D.Ś. ) ( Ferdinand IV wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       100 Najwybitniejszych Uczonych Wszechczasów
@@ -27607,6 +27672,7 @@ Toskania ( Tuscany )
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Historia Wenecji
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Bishopric of Toul
   Bibliografia :
@@ -28535,27 +28601,37 @@ Urbilum
       Huryci
 
 Urbino
-  Hrabstwo Urbino
+  Hrabstwo Urbino ( County of Urbino )
     Dynastia Montefeltro
-      Buonconte           		                          1226-1241
-      Montefeltrano      	  	                          1241-1253
-      Guido                   		                      1253-1285 i 1294 -1296
-      Federico I            	 	                        1296-1322
-      Nolfo                    		                      1324-1360
-      Federico II            		                        1360-1363
-      Antonio                		                        1363-1404
-      Guidantonio         		                          1404-1443
-      Oddantonio          		                          1443-1444
-  Księstwo Urbino
-    Federico III         		                            1444-1482
-    Guidobaldo I       		                              1482-1508
-    Dynastia della Rovere
-      Francesco Maria I     	                          1508-1538
-      Guidobaldo II           		                      1538-1574
-      Francesco Maria II		                            1574-1621 i 1623-1631
-      Federico Ubaldo        	                          1621-1623
+      Buonconte           		                          1226-1241 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Montefeltrano      	  	                          1241-1253 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Guido                   		                      1253-1285 i 1294-1296 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Federico I            	 	                        1296-1322 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Nolfo                    		                      1324-1360 ( wg D.Ś. )
+                                                        1322 i 1324-1360 ( wg D.O.T.W.A.C.A.G.H. )
+      Federico II            		                        1360-1363 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Antonio                		                        1363-1404 ( wg D.Ś. )
+                                                        1363-1369 i 1375-1404 ( wg D.O.T.W.A.C.A.G.H. )
+      Guidantonio         		                          1404-1443 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Oddantonio          		                          1443-1444 ( wg D.Ś. )
+                                                        1443 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Urbino]
+  Księstwo Urbino ( Duchy of Urbino )
+    Dynastia Montefeltro
+      Oddantonio                                        1443-1444 ( wg D.O.T.W.A.C.A.G.H. )
+  Hrabstwo Urbino ( County of Urbino )
+    Federico III                                        1444-1474 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Urbino]
+  Księstwo Urbino ( Duchy of Urbino )
+    Federico III         		                            1444-1482 ( wg D.Ś. )
+                                                        1474-1482 ( wg D.O.T.W.A.C.A.G.H. )
+    Guidobaldo I       		                              1482-1508 ( wg D.Ś. ) ( Guidubaldo I wg D.O.T.W.A.C.A.G.H. )
+    Dynastia della Rovere ( House of Della Rovere )
+      Francesco Maria I     	                          1508-1538 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Guidobaldo II           		                      1538-1574 ( wg D.Ś. ) ( Guidubaldo II wg D.O.T.W.A.C.A.G.H. )
+      Francesco Maria II		                            1574-1621 i 1623-1631 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Federico Ubaldo        	                          1621-1623 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 County of Urgell
   Jaime I El Conquistador                               1213-1276 [King of Aragon]
@@ -28966,215 +29042,215 @@ Weje ( Veii )
 
 Wenecja ( Venice , Venetia , Venezia )
   Republika Wenecji ( Serenissima , Rzeczpospolita Wenecka , Republika Wenecka , Republika Świętego Marka )
-    Orso                                  	            726-737 ( wg D.Ś. ) ( Ursus (Orso Ipato) wg H.W. )
-    Diodato                             	              742-755 ( wg D.Ś. ) ( Teodato Ipato (Teodato, Deusdedit) wg H.W. )
-    Galla                                 	            755-756 ( wg D.Ś. ) ( Galla Gaulo wg H.W. )
-    Domenico Monegario      	                          756-764 ( wg D.Ś. i H.W. )
-    Maurizio                           	                764-787 ( wg D.Ś. )
+    Orso                                  	            726-737 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Ursus (Orso Ipato) wg H.W. )
+    Diodato                             	              742-755 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Teodato Ipato (Teodato, Deusdedit) wg H.W. )
+    Galla                                 	            755-756 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Galla Gaulo wg H.W. )
+    Domenico Monegario      	                          756-764 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Maurizio                           	                764-787 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         764-775 ( Maurizio Galbaio wg H.W. )
-    Giovanni                           	                787-803 ( wg D.Ś. )
+    Giovanni                           	                787-803 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         775/778-804 ( Giovanni Galbaio wg H.W. )
     Maurizio Galbaio                                    ?-804 ( wg H.W. )
-    Obelerio                            	              803-810 ( wg D.Ś. )
+    Obelerio                            	              803-810 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         804-811 ( Obelerio Antenori (Obelerio degli Antenori) wg H.W. )
     Beato Antenori                                      przed 805-po 810 (24.12.-?) ( Beato (Beato degli Antenori) wg H.W. )
     Valentino Antenori                                  przed 809-po 810 ( Valentino (Valentino degli Antenori) wg H.W. )
-    Agnello Particiaco            	                    810-827 ( wg D.Ś. )
+    Agnello Particiaco            	                    810-827 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         811-827 ( Agnello Participazio wg H.W. )
-    Giustiniano Particiaco      	                      827-829 ( wg D.Ś. ) ( Giustiniano Participazio wg H.W. )
-    Giovanni Particiaco I        	                      829-836 ( wg D.Ś. )
+    Giustiniano Particiaco      	                      827-829 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Giustiniano Participazio wg H.W. )
+    Giovanni Particiaco I        	                      829-836 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         829-836 (?-29.6.) ( Giovanni Participazio (Giovanni Participazio I) wg H.W. )
-    Pietro Tradonico               	                    836-864 ( wg D.Ś. )
+    Pietro Tradonico               	                    836-864 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         836-864 (?-13.9.) ( wg H.W. )
     Giovanni Tradonico                                  przed 856-? ( wg H.W. )
-    Orso Particiaco I               	                  864-881 ( wg D.Ś. ) ( Orso Participazio (Orso, Orso Participazio I) wg H.W. )
+    Orso Particiaco I               	                  864-881 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Orso Participazio (Orso, Orso Participazio I) wg H.W. )
                                                         przed 865-? ( Orso I Partecipazio wg B.S. )
-    Giovanni Particiaco II      	                      881-887 i 887-888 ( wg D.Ś. )
+    Giovanni Particiaco II      	                      881-887 i 887-888 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         881-887 i ? ( Giovanni Participazio (Giovanni, Giovanni Participazio II) wg H.W. )
-    Pietro Candiano I             	                    887 ( wg D.Ś. )
+    Pietro Candiano I             	                    887 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         887 (?-18.9.) ( Pietro Candiano wg H.W. )
                                                         ?-887 (?-18.9.) ( Pietro I Candiano wg B.S. )
-    Pietro Tribuno                  	                  888-911 ( wg D.Ś. )
+    Pietro Tribuno                  	                  888-911 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         888-912 ( wg H.W. )
-    Orso Particiaco II             	                    911-932 ( wg D.Ś. )
+    Orso Particiaco II             	                    911-932 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         912-932 ( Orso Participazio (Orso Participazio II) wg H.W. )
-    Pietro Candiano II            	                    932-939 ( wg D.Ś. ) ( Pietro Candiano wg H.W. )
-    Pietro Badoer                   	                  939-942 ( wg D.Ś. ) ( Pietro Participazio wg H.W. )
-    Pietro Candiano III          	                      942-959 ( wg D.Ś. ) ( Pietro Candiano wg H.W. )
-    Pietro Candiano IV          	                      959-976 ( wg D.Ś. )
+    Pietro Candiano II            	                    932-939 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Pietro Candiano wg H.W. )
+    Pietro Badoer                   	                  939-942 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Pietro Participazio wg H.W. )
+    Pietro Candiano III          	                      942-959 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Pietro Candiano wg H.W. )
+    Pietro Candiano IV          	                      959-976 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         946-? i 959-976 (? i ?-lato) ( Pietro wg H.W. )
-    Pietro Orseolo I Święty    	                        976-978 ( wg D.Ś. )
+    Pietro Orseolo I Święty    	                        976-978 ( wg D.Ś. ) ( St Pietro Orseolo I wg D.O.T.W.A.C.A.G.H. )
                                                         976-978 (12.8.-1.9.) ( Pietro Orseolo (Pietro Orseolo I) wg H.W. )
-    Vitale Candiano                	                    978-979 ( wg D.Ś. i H.W. )
-    Tribuno Menio                  	                    979-991 ( wg D.Ś. ) ( Tribuno Memmo wg H.W. )
-    Pietro Orseolo II               	                  991-1009 ( wg D.Ś. )
+    Vitale Candiano                	                    978-979 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Tribuno Menio                  	                    979-991 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Tribuno Memmo wg H.W. )
+    Pietro Orseolo II               	                  991-1009 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
         			          		                            przed 1004-? ( Pietro II Orseola Giovanni wg D.B. )
                                                         991-1008 ( wg H.W. )
     Giovanni Orseolo                                    przed 1005-po 1006 ( wg H.W. )
-    Ottone Orseolo                 	                    1009-1026 ( wg D.Ś. )
+    Ottone Orseolo                 	                    1009-1026 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1008-1026 ( Otton Orseolo (Otto Orseolo) wg H.W. )
-    Pietro Centranico              	                    1026-1030 ( wg D.Ś. )
+    Pietro Centranico              	                    1026-1030 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1026-1032 ( Pietro Barbolano wg H.W. )
-    Orso Orseolo                    	                  1030-1031 ( wg D.Ś. )
+    Orso Orseolo                    	                  1030-1031 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ? ( wg H.W. )
-    Domenico Orseolo            	                      1031 ( wg D.Ś. )
+    Domenico Orseolo            	                      1031 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ? ( wg H.W. )
-    Domenico Flabiano           	                      1031-1041 ( wg D.Ś. )
+    Domenico Flabiano           	                      1031-1041 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1032-1043 ( Domenico Flabanico wg H.W. )
-    Domenico Contarini I        	                      1041-1071 ( wg D.Ś. )
+    Domenico Contarini I        	                      1041-1071 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1043-1071 ( Domenico Contarini (Contarini) wg H.W. )
-    Domenico Silvo                 	                    1071-1084 ( wg D.Ś. ) ( Domenico Selvo (Selvo) wg H.W. )
+    Domenico Silvo                 	                    1071-1084 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Domenico Selvo (Selvo) wg H.W. )
                                                         przed 1081-? (11.10-?) ( Domenico Silvio wg N.I.B.W.XI.S. )
-    Vitale Falier                      	                1084-1095 ( wg D.Ś. )
+    Vitale Falier                      	                1084-1095 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1084-1096 ( Vitale Faliero wg H.W. )
-    Vitale Michiel I                  	                1095-1101 ( wg D.Ś. )
+    Vitale Michiel I                  	                1095-1101 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1096-1102 ( Vitale Michiel wg H.W. )
-    Ordelaffo Falier                 	                  1101-1118 ( wg D.Ś. )
+    Ordelaffo Falier                 	                  1101-1118 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1102-1118 (?-lato) ( Ordelafo Faliero wg H.W. )
-    Domenico Michiel             	                      1118-1130 ( wg D.Ś. i H.W. )
-    Pietro Polani                      	                1130-1148 ( wg D.Ś. i H.W. )
-    Domenico Morosini           	                      1148-1155 ( wg D.Ś. )
+    Domenico Michiel             	                      1118-1130 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Pietro Polani                      	                1130-1148 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Domenico Morosini           	                      1148-1155 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1148-1156 ( wg H.W. )
-    Vitale Michiel II                	                  1155-1172 ( wg D.Ś. )
+    Vitale Michiel II                	                  1155-1172 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1156-1172 (?-?.5.) ( Vitale Michiel wg H.W. )
-    Sebastiano Ziani                	                  1172-1178 ( wg D.Ś. i H.W. )
+    Sebastiano Ziani                	                  1172-1178 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
         			           		                            przed 1177-? ( Sebastianus Ziani wg F.B.C.A.R. )
-    Orio Mastropiero               	                    1178-1192 ( wg D.Ś. ) ( Orio Malipiero wg H.W. )
-    Enrico Dandolo                 	                    1192-1205 ( wg D.Ś. )
+    Orio Mastropiero               	                    1178-1192 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Orio Malipiero wg H.W. )
+    Enrico Dandolo                 	                    1192-1205 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1192/1193-1205 (?/1.1.-?) ( wg H.W. )
         			           		                            przed 1202-po 1205 ( wg D.B. )
-    Pietro Ziani                        	              1205-1229 ( wg D.Ś. )
+    Pietro Ziani                        	              1205-1229 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1205-1229 (5.8.-?) ( wg H.W. )
-    Jacopo Tiepolo                  	                  1229-1249 ( wg D.Ś. )
+    Jacopo Tiepolo                  	                  1229-1249 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1229-1249 (?-wiosna) ( Giacomo Tiepolo wg H.W. )
-    Marino Morosini               	                    1249-1253 ( wg D.Ś. ) ( Marin Morosini wg H.W. )
-    Renier Zeno                       	                1253-1268 ( wg D.Ś. i H.W. )
-    Lorenzo Tiepolo                	                    1268-1275 ( wg D.Ś. )
+    Marino Morosini               	                    1249-1253 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Marin Morosini wg H.W. )
+    Renier Zeno                       	                1253-1268 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Lorenzo Tiepolo                	                    1268-1275 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1268-1275 (23.7.-?.8.) ( wg H.W. )
-    Jacopo Contarini                	                  1275-1280 ( wg D.Ś. )
+    Jacopo Contarini                	                  1275-1280 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1275-1280 (?-?.3.) ( wg H.W. )
-    Giovanni Dandolo             	                      1280-1289 ( wg D.Ś. )
+    Giovanni Dandolo             	                      1280-1289 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1280-1289 (?-2.11.) ( wg H.W. )
-    Pietro Gradenigo                	                  1289-1311 ( wg D.Ś. )
+    Pietro Gradenigo                	                  1289-1311 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1289-1311 (?-13.8.) ( Pierazzo wg H.W. )
-    Marino Zorzi                      	                1311-1312 ( wg D.Ś. )
+    Marino Zorzi                      	                1311-1312 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1311-1312 (?-?.7.) ( wg H.W. )
-    Giovanni Soranzo              	                    1312-1328 ( wg D.Ś. )
+    Giovanni Soranzo              	                    1312-1328 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1312-1328 (?-31.12.) ( wg H.W. )
-    Francesco Dandolo            	                      1329-1339 ( wg D.Ś. )
+    Francesco Dandolo            	                      1329-1339 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1329-1338/9 (?-?/31.10.) ( Cane (Francesco) wg H.W. )
-    Bartolomeo Gradenigo      	                        1339-1342 ( wg D.Ś. )
+    Bartolomeo Gradenigo      	                        1339-1342 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1339-1342 (?-28.12.) ( wg H.W. )
-    Andrea Dandolo                	                    1343-1354 ( wg D.Ś. )
+    Andrea Dandolo                	                    1343-1354 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1343-1354 (?-7.9.) ( wg H.W. )
-    Marino Falier                     	                1354-1355 ( wg D.Ś. )
-                                                        1351-1355 ( ?-18.5. ) ( Marino Faliero wg H.W. )
-    Giovanni Gradenigo          	                      1355-1356 ( wg D.Ś. )
+    Marino Falier                     	                1354-1355 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+                                                        1351-1355 (?-18.5.) ( Marino Faliero wg H.W. )
+    Giovanni Gradenigo          	                      1355-1356 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1355-1356 (21.5.-?.8.) ( Nasone wg H.W. )
-    Giovanni Dolfin                 	                  1356-1361 ( wg D.Ś. )
+    Giovanni Dolfin                 	                  1356-1361 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1356-1361 (?-12.7.) ( wg H.W. )
-    Lorenzo Celsi                     	                1361-1365 ( wg D.Ś. )
+    Lorenzo Celsi                     	                1361-1365 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1361-1365 (przed 21.8.-?) ( wg H.W. )
-    Marco Cornaro                   	                  1365-1368 ( wg D.Ś. )
+    Marco Cornaro                   	                  1365-1368 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1365-1368 (21.7.-13.1.) ( Marco Corner wg H.W. )
-    Andrea Contarini                	                  1368-1382 ( wg D.Ś. )
+    Andrea Contarini                	                  1368-1382 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1368-1382 (?-6.6.) ( wg H.W. )
-    Michele Morosini               	                    1382 ( wg D.Ś. i H.W. )
-    Antonio Venier                   	                  1382-1400 ( wg D.Ś. i H.W. )
-    Michele Steno                     	                1400-1413 ( wg D.Ś. )
+    Michele Morosini               	                    1382 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Antonio Venier                   	                  1382-1400 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Michele Steno                     	                1400-1413 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1400-1413 (?-26.12.) ( wg H.W. )
-    Tommaso Mocenigo           	                        1414-1423 ( wg D.Ś. i H.W. )
-    Francesco Foscari               	                  1423-1457 ( wg D.Ś. )
+    Tommaso Mocenigo           	                        1414-1423 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Francesco Foscari               	                  1423-1457 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1423-1457 (przed 16.4.-po ?.10.) ( wg H.W. )
-    Pasquale Malipiero             	                    1457-1462 ( wg D.Ś. )
+    Pasquale Malipiero             	                    1457-1462 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1457-1462 (30.10.-?) ( wg H.W. )
-    Cristoforo Moro                  	                  1462-1471 ( wg D.Ś. )
+    Cristoforo Moro                  	                  1462-1471 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1462-1471 (?-9.11.) ( wg H.W. )
-    Niccolo Tron                       	                1471-1473 ( wg D.Ś. ) ( Nicolò Tron wg H.W. )
-    Niccolo Marcello                 	                  1473-1474 ( wg D.Ś. )
+    Niccolo Tron                       	                1471-1473 ( wg D.Ś. ) ( Nicolò Tron wg H.W. ) ( Niccolò Tron wg D.O.T.W.A.C.A.G.H. )
+    Niccolo Marcello                 	                  1473-1474 ( wg D.Ś. ) ( Niccolò Marcello wg D.O.T.W.A.C.A.G.H. )
                                                         1473-1474 (?-1.12.) ( Nicolò Marcello wg H.W. )
-    Pietro Mocenigo                  	                  1474-1476 ( wg D.Ś. i H.W. )
-    Andrea Vendramin              	                    1476-1478 ( wg D.Ś. i H.W. )
-    Giovanni Mocenigo             	                    1478-1485 ( wg D.Ś. )
+    Pietro Mocenigo                  	                  1474-1476 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Andrea Vendramin              	                    1476-1478 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Giovanni Mocenigo             	                    1478-1485 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1478-1485 (?.5.-?) ( wg H.W. )
-    Marco Barbarigo                  	                  1485-1486 ( wg D.Ś. i H.W. )
-    Agostino Barbarigo              	                  1486-1501 ( wg D.Ś. )
+    Marco Barbarigo                  	                  1485-1486 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Agostino Barbarigo              	                  1486-1501 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1486-1501 (?.8.-?.9.) ( wg H.W. )
-    Leonardo Loredan                	                  1501-1521 ( wg D.Ś. i H.W. )
-    Antonio Grimani                  	                  1521-1523 ( wg D.Ś. )
+    Leonardo Loredan                	                  1501-1521 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Antonio Grimani                  	                  1521-1523 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1521-1523 (6.7.-7.5.) ( wg H.W. )
-    Andrea Gritti                        	              1523-1538 ( wg D.Ś. )
+    Andrea Gritti                        	              1523-1538 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1523-1538 (20.5.-28.12.) ( wg H.W. )
-    Pietro Lando                         	              1539-1545 ( wg D.Ś. i H.W. )
-    Francesco Donato                 	                  1545-1553 ( wg D.Ś. ) ( Francesco Donà wg H.W. )
-    Marcantonio Trevisan           	                    1553-1554 ( wg D.Ś. i H.W. )
-    Francesco Venier                  	                1554-1556 ( wg D.Ś. i H.W. )
-    Lorenzo Priuli                       	              1556-1559 ( wg D.Ś. i H.W. )
-    Girolamo Priuli                     	              1559-1567 ( wg D.Ś. )
+    Pietro Lando                         	              1539-1545 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Francesco Donato                 	                  1545-1553 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Francesco Donà wg H.W. )
+    Marcantonio Trevisan           	                    1553-1554 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Francesco Venier                  	                1554-1556 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Lorenzo Priuli                       	              1556-1559 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Girolamo Priuli                     	              1559-1567 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1559-1567 (?.11.-?) ( wg H.W. )
-    Pietro Loredan                      	              1567-1570 ( wg D.Ś. )
+    Pietro Loredan                      	              1567-1570 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1567-1570 (?.11.-?) ( wg H.W. )
-    Alvise Mocenigo I                	                  1570-1577 ( wg D.Ś. )
+    Alvise Mocenigo I                	                  1570-1577 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1570-1577 (?-4.6.) ( Alvise Mocenigo wg H.W. )
-    Sebastiano Venier                 	                1577-1578 ( wg D.Ś. i H.W. )
-    Niccolo da Ponte                   	                1578-1585 ( wg D.Ś. )
+    Sebastiano Venier                 	                1577-1578 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Niccolo da Ponte                   	                1578-1585 ( wg D.Ś. ) ( Niccolò da Ponte wg D.O.T.W.A.C.A.G.H. )
                                                         1578-1585 (18.3.-30.7.) ( Nicolò da Ponte wg H.W. )
-    Pasquale Cicogna                  	                1585-1595 ( wg D.Ś. i H.W. )
+    Pasquale Cicogna                  	                1585-1595 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1585-1595 (?-?.4.) ( Cicogna wg H.W. )
-    Marino Grimani                     	                1595-1605 ( wg D.Ś. i H.W. )
+    Marino Grimani                     	                1595-1605 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1595-1605 (przed 26.4.-25.12.) ( wg H.W. )
-    Leonardo Donato                   	                1606-1612 ( wg D.Ś. )
+    Leonardo Donato                   	                1606-1612 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1606-1612 (przed 6.5.-16.7.) ( Leonardo Donà wg H.W. )
-    Marcantonio Memmo            	                      1612-1615 ( wg D.Ś. i H.W. )
-    Giovanni Bembo                    	                1615-1618 ( wg D.Ś. i H.W. )
-    Niccolo Donato                      	              1618 ( wg D.Ś. )
+    Marcantonio Memmo            	                      1612-1615 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Giovanni Bembo                    	                1615-1618 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Niccolo Donato                      	              1618 ( wg D.Ś. ) ( Niccolò Donato wg D.O.T.W.A.C.A.G.H. )
                                                         1618 (?-9.5.) ( Nicolò Donà wg H.W. )
-    Antonio Priuli                        	            1618-1623 ( wg D.Ś. )
+    Antonio Priuli                        	            1618-1623 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1618-1623 (18.5.-12.8.) ( wg H.W. )
-    Francesco Contarini               	                1623-1624 ( wg D.Ś. )
+    Francesco Contarini               	                1623-1624 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1623-1624 (?-?.12.) ( wg H.W. )
-    Giovanni Cornaro I                	                1625-1629 ( wg D.Ś. )
+    Giovanni Cornaro I                	                1625-1629 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1625-1629 (?.1.-?) ( Giovanni Corner I wg H.W. )
-    Niccolo Contarini                   	              1630-1631 ( wg D.Ś. )
+    Niccolo Contarini                   	              1630-1631 ( wg D.Ś. ) ( Niccolò Contarini wg D.O.T.W.A.C.A.G.H. )
                                                         1630-1631 (2.1.-2.4.) ( Nicolò Contarini wg H.W. )
-    Francesco Erizzo                    	              1631-1646 ( wg D.Ś. )
+    Francesco Erizzo                    	              1631-1646 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1631-1646 (przed 11.4.-3.1.) ( wg H.W. )
-    Francesco Molin                     	              1646-1655 ( wg D.Ś. i H.W. )
-    Carlo Contarini                       	            1655-1656 ( wg D.Ś. ) ( Francesco Contarini wg H.W. )
-    Francesco Cornaro                  	                1656 ( wg D.Ś. )
+    Francesco Molin                     	              1646-1655 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Carlo Contarini                       	            1655-1656 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Francesco Contarini wg H.W. )
+    Francesco Cornaro                  	                1656 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1656 (17.5.-5.6.) ( Francesco Corner wg H.W. )
-    Bertuccio Valier                     	              1656-1658 ( wg D.Ś. )
+    Bertuccio Valier                     	              1656-1658 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1656-1658 (15.6.-?) ( Bertucci Valier wg H.W. )
     Giovanni Pesaro                     	              1658-1659 ( wg D.Ś. )
                                                         1658-1659 (?.3.-?) ( wg H.W. )
-    Domenico Contarini II           	                  1659-1675 ( wg D.Ś. )
+    Domenico Contarini II           	                  1659-1675 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1659-1675 (?.9.-?.1.) ( Domenico Contarini wg H.W. )
-    Niccolo Sagredo                     	              1675-1676 ( wg D.Ś. ) ( Nicolò Sagredo wg H.W. )
-    Alvise Contarini                     	              1676-1684 ( wg D.Ś. )
+    Niccolo Sagredo                     	              1675-1676 ( wg D.Ś. ) ( Nicolò Sagredo wg H.W. ) ( Niccolò Sagredo wg D.O.T.W.A.C.A.G.H. )
+    Alvise Contarini                     	              1676-1684 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1676-1684 (?-15.1.) ( wg H.W. )
-    Marcantonio Giustinian		                          1684-1688 ( wg D.Ś. )
+    Marcantonio Giustinian		                          1684-1688 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1684-1688 (?-?.3.) ( wg H.W. )
-    Francesco Morosini                	                1688-1694 ( wg D.Ś. )
+    Francesco Morosini                	                1688-1694 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1688-1694 (przed ?.7.-6.1.) ( Morosini wg H.W. )
-    Silvestro Valier                       	            1694-1700 ( wg D.Ś. )
+    Silvestro Valier                       	            1694-1700 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1694-1700 (?-7.7.) ( wg H.W. )
-    Alvise Mocenigo II                 	                1700-1709 ( wg D.Ś. i H.W. )
-    Giovanni Cornaro II                	                1709-1722 ( wg D.Ś. )
+    Alvise Mocenigo II                 	                1700-1709 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Giovanni Cornaro II                	                1709-1722 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1709-1722 (?-12.8.) ( Giovanni Corner II (Giovanni Corner) wg H.W. )
-    Alvise Mocenigo III                	                1722-1732 ( wg D.Ś. )
+    Alvise Mocenigo III                	                1722-1732 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1722-1732 (24.8.-?) ( Alvise Mocenigo (Sebastiano Mocenigo, Alvise Sebastiano Mocenigo) wg H.W. )
-    Carlo Ruzzini                          	            1732-1735 ( wg D.Ś. i H.W. )
-    Alvise Pisani                           	          1735-1741 ( wg D.Ś. )
+    Carlo Ruzzini                          	            1732-1735 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Alvise Pisani                           	          1735-1741 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1735-1741 (17.1.-17.6.) ( wg H.W. )
-    Pietro Grimani                        	            1741-1752 ( wg D.Ś. i H.W. )
-    Francesco Loredan                  	                1752-1762 ( wg D.Ś. i H.W. )
-    Marco Foscarini                      	              1762-1763 ( wg D.Ś. )
+    Pietro Grimani                        	            1741-1752 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Francesco Loredan                  	                1752-1762 ( wg D.Ś. i H.W. i D.O.T.W.A.C.A.G.H. )
+    Marco Foscarini                      	              1762-1763 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1762-1763 (?-?.3.) ( wg H.W. )
-    Alvise Mocenigo IV               	                  1763-1778 ( wg D.Ś. )
+    Alvise Mocenigo IV               	                  1763-1778 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1763-1776 (?-31.12.) ( Alvise Mocenigo (Alvise IV, Mocenigo) wg H.W. )
-    Paolo Renier                            	          1779-1789 ( wg D.Ś. )
+    Paolo Renier                            	          1779-1789 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1779-1789 (?.1.-?) ( wg H.W. )
-    Ludovico Manin                      	              1789-1797 ( wg D.Ś. )
+    Ludovico Manin                      	              1789-1797 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1789-1797 (9.5.-12.5.) ( Lodovico Manin wg H.W. )
   Republic of Venice
   Republika Wenecka (1848-1849)
@@ -29185,6 +29261,7 @@ Wenecja ( Venice , Venetia , Venezia )
       Historia Wenecji
       Bitwy Słowian
       Normanowie i Bizancjum w XI stuleciu
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Wenedowie
   Wrystleof ( Wyrtgeorn )                               ?
@@ -29393,6 +29470,7 @@ Węgry ( Hungary )
       Maria                  	                          1382-1385 i 1386-1395 ( wg D.Ś. )
                                                       	1382-1392 ( wg V.N.M.S.D. )
       Karol II z Durazzo	                              1385-1386 ( wg D.Ś. )
+                                                        1385-? ( Charles III of Durazzo wg D.O.T.W.A.C.A.G.H. )
       Władysław z Neapolu                               1403-po 1409 (?-9.6.) ( Władysław (Władysław z Durazzo) wg H.W. ) [King of Naples]
     Dynastia luksemburska
       Zygmunt       	                                  1387-1437 ( wg D.Ś. ) ( Zikmund Lucemburský wg D.P.I.R.G. i D.B. ) [Holy Roman Emperor]
@@ -29992,13 +30070,16 @@ Wu Huan
 Wu Sun
   Bibliografia :
       Historia Chin
-
-Biskupstwo Würzburg
-  Erlung		                                            ?
-  Gebhard	                                              przed 1152 n.e.-?
-  Gottfried	                                            przed 1188-1190
+Würzburg
+  Biskupstwo Würzburg
+    Erlung		                                          ? ( wg F.B.C.A.R. )
+    Gebhard	                                            przed 1152 n.e.-? ( wg F.B.C.A.R. )
+    Gottfried	                                          przed 1188-1190  ( wg F.B.C.A.R. )
+  Grand Duchy of Würzburg
+    Ferdinand III                                       1806-1814 ( wg D.O.T.W.A.C.A.G.H. ) [Grand Duke of Tuscany]
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Yamassee
   Bibliografia :
