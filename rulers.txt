@@ -1053,7 +1053,7 @@ Anglia ( England , Anglie )
       Jerzy II       	                                  1727-1760 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( George II wg D.O.T.W.A.C.A.G.H. )
 			                                                  ? ( wg W.I.A.P. )
                                                         przed 1749-? ( wg C.W.G.W. )
-      Jerzy III      	                                  1760-1801 (wg D.Ś. , V.N.M.S.D. i Tapsella ) ( George III wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
+      Jerzy III      	                                  1760-1801 (wg D.Ś. i V.N.M.S.D. i Tapsella ) ( George III wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
 		          	                                        ok.1745 ( wg D.R. )
 		          	                                        przed 1775-po 1783 ( wg W.I.A.P. )
 			                                                  ? ( wg 100.N.U.W. ) ( George III wg U.E. )
@@ -2400,83 +2400,92 @@ Australia
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
 Austria ( Rakousko )
-  Dynastia Babenbergów
-    Leopold I                 	                        976-994 ( wg D.Ś. )
-                                                    	  928-1018 ( wg V.N.M.S.D. )
-    Henryk I                  	                        994-1018 ( wg D.Ś. )
+  The Mark of Austria
+    Dynastia Babenbergów ( House of Babenberg , Die Babenberger )
+      Leopold I                 	                      976-994 ( wg D.Ś. )
+                                                      	928-1018 ( wg V.N.M.S.D. )
+                                                        975/6-994 ( wg D.O.T.W.A.C.A.G.H. )
+      Henryk I                  	                      994-1018 ( wg D.Ś. ) ( Henry I wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1015-? ( Henryk wg B.S. )
-    Adalbert                  	                        1018-1055 ( wg D.Ś. )
-                                                    	  1018-1056 ( wg V.N.M.S.D. )
-    Ernest                      	                      1055-1075 ( wg D.Ś. )
-                                                    	  1056-1075 ( wg V.N.M.S.D. )
-    Leopold II Piękny   	                              1075-1095 ( wg D.Ś. )
-                                                    	  1075-1096 ( wg V.N.M.S.D. )
-    Leopold III Święty	                                1095-1136 ( wg D.Ś. )
-                                                    	  1096-1136 ( wg V.N.M.S.D. )
-      			           	                                ? ( wg F.B.C.A.R. )
-    Leopold IV              	                          1136-1141 ( wg D.Ś. )
-                                                     	  1136-1142 ( wg V.N.M.S.D. )
-      			         	                                  ? ( wg F.B.C.A.R. )
-  Księstwo Austrii
-    Henryk II Jasomirgott	                              1141-1177 ( wg D.Ś. )
-                                                      	1142-1177 ( wg V.N.M.S.D. )
-      			           	                                1156-? ( Jindřich Jasomirgott wg F.B.C.A.R. )
-    Leopold V                   	                      1177-1194 ( wg D.Ś. i V.N.M.S.D. )
-      			           	                                przed 1192-po 1194 ( wg 100.N.V.S. )
-      			          	                                przed 1181-po 1189 ( wg F.B.C.A.R. )
+      Adalbert                  	                      1018-1055 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+                                                      	1018-1056 ( wg V.N.M.S.D. )
+      Ernest                      	                    1055-1075 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+                                                      	1056-1075 ( wg V.N.M.S.D. )
+      Leopold II Piękny   	                            1075-1095 ( wg D.Ś. ) ( Leopold II (Leopold II the Handsome) wg D.O.T.W.A.C.A.G.H. )
+                                                      	1075-1096 ( wg V.N.M.S.D. )
+      Leopold III Święty	                              1095-1136 ( wg D.Ś. ) ( St Leopold III wg D.O.T.W.A.C.A.G.H. )
+                                                      	1096-1136 ( wg V.N.M.S.D. )
+        			           	                              ? ( wg F.B.C.A.R. )
+      Leopold IV              	                        1136-1141 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Bavaria Leopold]
+                                                       	1136-1142 ( wg V.N.M.S.D. )
+        			         	                                ? ( wg F.B.C.A.R. )
+      Henry II                                          1141-1156 ( Henry II Jasomirgott wg D.O.T.W.A.C.A.G.H. ) [Duke of Austria] [Duke of Bavaria Henry XI]
+  Księstwo Austrii ( Duchy of Austria )
+    Dynastia Babenbergów ( House of Babenberg , Die Babenberger )
+      Henryk II Jasomirgott	                            1141-1177 ( wg D.Ś. )
+                                                        1142-1177 ( wg V.N.M.S.D. )
+        			           	                              1156-? ( Jindřich Jasomirgott wg F.B.C.A.R. )
+                                                        1156-1177 ( Henry II (Henry II Jasomirgott) wg D.O.T.W.A.C.A.G.H. )
+      Leopold V                   	                    1177-1194 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. ) [Duke of Styria]
+        			           	                              przed 1192-po 1194 ( wg 100.N.V.S. )
+        			          	                              przed 1181-po 1189 ( wg F.B.C.A.R. )
                                                         przed 1177-? (lato-?) ( Leopold wg H.W. )
-    Fryderyk I                 	                        1194-1198 ( wg D.Ś. i V.N.M.S.D. )
-    Leopold VI Sławny    	                              1198-1230 ( wg D.Ś. i V.N.M.S.D. )
-      			         	                                  ok.1217 ( wg K.V. )
+      Fryderyk I                 	                      1194-1198 ( wg D.Ś. i V.N.M.S.D. ) ( Frederick I wg D.O.T.W.A.C.A.G.H. )
+      Leopold VI Sławny    	                            1198-1230 ( wg D.Ś. i V.N.M.S.D. ) ( Leopold VI (Leopold VI the Glorious) wg D.O.T.W.A.C.A.G.H. ) [Duke of Styria]
+        			         	                                ok.1217 ( wg K.V. )
                                                         przed 1225-1230 ( Leopold VI (Leopold IV) wg F.H.C.R. )
-    Fryderyk II Bitny       	                          1230-1246 ( wg D.Ś. i V.N.M.S.D. )
+      Fryderyk II Bitny       	                        1230-1246 ( wg D.Ś. i V.N.M.S.D. ) ( Frederick II (Frederick II the Warlike) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1236-1246 (?.5.-15.6.) ( Fryderyk Waleczny (Fryderyk Austriacki, Fryderyk II Waleczny) wg F.H.C.R. )
     Dynastia habsburska ( House of Habsburg , Habsburgowie )
-      Rudolf I                       	                  1276-1282 ( wg D.Ś. )
-      Rudolf II                      	                  1282-1283 ( wg D.Ś. )
-      Albrecht I                     	                  1282-1298 ( wg D.Ś. i V.N.M.S.D. )
-      Rudolf III                     	                  1298-1307 ( wg D.Ś. )
+      Rudolf I                       	                  1276-1282 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [King of Germany]
+      Rudolf II                      	                  1282-1283 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Albrecht I                     	                  1282-1298 ( wg D.Ś. i V.N.M.S.D. ) ( Albert I wg D.O.T.W.A.C.A.G.H. ) [King of Germany Albert I]
+      Rudolf III                     	                  1298-1307 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [King of Bohemia Rudolf]
                                                         1298-1308 ( wg V.N.M.S.D. )
-      Leopold I                      	                  1298-1326 ( wg D.Ś. )
+      Leopold I                      	                  1298-1326 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1308-1326 ( wg V.N.M.S.D. )
-      Fryderyk III Piękny		                            1298-1330 ( wg D.Ś. )
+      Fryderyk III Piękny		                            1298-1330 ( wg D.Ś. ) ( Frederick III (Frederick III the Handsome) wg D.O.T.W.A.C.A.G.H. ) [King of Germany Frederick of Austria]
                                                         1308-1330 ( wg V.N.M.S.D. )
-      Albrecht II Kulawy      	                        1326-1358 ( wg D.Ś. )
+      Albrecht II Kulawy      	                        1326-1358 ( wg D.Ś. ) ( Albert II (Albert II the Lame) wg D.O.T.W.A.C.A.G.H. ) [Duke of Carinthia]
                                                         1330-1358 ( wg V.N.M.S.D. )
-      Otto                               	              1330-1339  ( wg D.Ś. )
+      Otto                               	              1330-1339  ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1330-1358 ( wg V.N.M.S.D. )
-      Rudolf IV Założyciel    	                        1358-1365 ( wg D.Ś. i V.N.M.S.D. )
+      Rudolf IV Założyciel    	                        1358-1365 ( wg D.Ś. i V.N.M.S.D. ) ( Rudolf IV (Rudolf IV the Founder) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1361-? (?.9.-?) ( Rudolf wg H.W. )
-      Linia albertyńska
-        Albrecht III                       	            1365-1395 ( wg D.Ś. i V.N.M.S.D. )
-        Albrecht IV Cierpliwy      	                    1395-1404 ( wg D.Ś. )
+      Linia albertyńska ( Albertine Line )
+        Albrecht III                       	            1365-1395 ( wg D.Ś. i V.N.M.S.D. ) ( Albert III wg D.O.T.W.A.C.A.G.H. )
+        Albrecht IV Cierpliwy      	                    1395-1404 ( wg D.Ś. ) ( Albert IV (Albert IV the Patient) wg D.O.T.W.A.C.A.G.H. )
                                                         1395-1411 ( wg V.N.M.S.D. )
-        Albrecht V                        	            1404-1439 ( wg D.Ś. )
+        Albrecht V                        	            1404-1439 ( wg D.Ś. ) ( Albert V wg D.O.T.W.A.C.A.G.H. ) [King of Germany Albert II]
                                                         1411-1439 ( wg V.N.M.S.D. )
-        Władysław Pogrobowiec	                          1440-1457 ( wg D.Ś. )
+        Władysław Pogrobowiec	                          1440-1457 ( wg D.Ś. ) ( Ladislas Posthumus wg D.O.T.W.A.C.A.G.H. ) [King of Hungary]
                                                         1439-1457 ( wg V.N.M.S.D. )
-      Linia leopoldyńska
-        Leopold III            	                        1365-1386 ( wg D.Ś. )
+      Linia leopoldyńska ( Leopoldine Line )
+        Leopold III            	                        1365-1386 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1365-1384 ( wg V.N.M.S.D. )
                                                         przed 1382-? ( Leopold wg H.W. )
-        Wilhelm                 	                      1386-1406 ( wg D.Ś. )
+        Wilhelm                 	                      1386-1406 ( wg D.Ś. ) ( William wg D.O.T.W.A.C.A.G.H. )
                                                      	  1395-1411 ( wg V.N.M.S.D. )
-        Leopold IV Gruby	                              1386-1411 ( wg D.Ś. )
-      Linia tyrolska
-        Fryderyk IV                	                    1406-1439 ( wg D.Ś. )
-        Zygmunt                     	                  1439-1490 ( wg D.Ś. )
-        Ferdinand I Habsburský	                        1522-1564 ( ?-25.7. ) ( wg E.P. )
-        Ferdynand II               	                    1564-1595 ( wg D.Ś. )
-        Maksymilian III         		                    1602-1618 ( wg D.Ś. )
-        Leopold V                  	                    1619-1632 ( wg D.Ś. )
-        Ferdynand Karol         	                      1632-1662 ( wg D.Ś. )
-        Zygmunt Franciszek		                          1662-1665 ( wg D.Ś. )
-      Linia styryjska
-        Ernest Żelazny               	                  1406-1424 ( wg D.Ś. )
-        Albrecht VI Szczodry		                        1424-1463 ( wg D.Ś. )
-        Fryderyk V                     	                1424-1493 ( wg D.Ś. )
-        Karol II                           	            1564-1590 ( wg D.Ś. )
-        Ferdynand III                  	                1590-1619 ( wg D.Ś. )
+        Leopold IV Gruby	                              1386-1411 ( wg D.Ś. ) ( Leopold V (Leopold V the Fat) wg D.O.T.W.A.C.A.G.H. )
+        Linia tyrolska ( Line of Tyrol )
+          Fryderyk IV                	                  1406-1439 ( wg D.Ś. ) ( Frederick IV wg D.O.T.W.A.C.A.G.H. )
+          Zygmunt                     	                1439-1490 ( wg D.Ś. ) ( Sigismund wg D.O.T.W.A.C.A.G.H. ) [Archduke of Austria]
+          Ferdinand I Habsburský	                      1522-1564 (?-25.7.) ( wg E.P. )
+          Ferdynand II               	                  1564-1595 ( wg D.Ś. )
+          Maksymilian III         		                  1602-1618 ( wg D.Ś. )
+          Leopold V                  	                  1619-1632 ( wg D.Ś. )
+          Ferdynand Karol         	                    1632-1662 ( wg D.Ś. )
+          Zygmunt Franciszek		                        1662-1665 ( wg D.Ś. )
+        Linia styryjska ( Line of Styria )
+          Ernest Żelazny               	                1406-1424 ( wg D.Ś. ) ( Ernest the Iron wg D.O.T.W.A.C.A.G.H. )
+          Albrecht VI Szczodry		                      1424-1463 ( wg D.Ś. ) ( Albert VI wg D.O.T.W.A.C.A.G.H. ) [Archduke of Austria]
+          Fryderyk V                     	              1424-1493 ( wg D.Ś. ) ( Frederick V wg D.O.T.W.A.C.A.G.H. ) [Archduke of Austria] [King of Germany Frederick III]
+          Karol II                           	          1564-1590 ( wg D.Ś. )
+          Ferdynand III                  	              1590-1619 ( wg D.Ś. )
+      Arcyksięstwo Austrii
+        Sigismund                                       1477-? ( wg D.O.T.W.A.C.A.G.H. )
+        Albert VI                                       1453-? ( wg D.O.T.W.A.C.A.G.H. )
+        Frederick V                                     1453-? ( wg D.O.T.W.A.C.A.G.H. )
       Maksymilian I                                     przed 1515-? ( Maksymilian wg S.II.W.I.J.C.Z.E.M.P. )
       Karol V                    	                      1519-? ( wg M.Ś. ) [Holy Roman Emperor]
         				                                        przed 1542-? ( Karel V wg V.F.V. )
@@ -3271,59 +3280,63 @@ Bawaria
     Karlmann                                            ?-880 ( wg S.P.D.Z. ) [King of East Francia]
   Leopold         	                                    899-ok.940 ( wg V.N.M.S.D. )
   Ludolf            	                                  ? ( wg Z.S.A.V.E. )
-  Księstwo Bawarii ( Duchy of Bavaria )
-    Dynastia Luitpoldyngów
-      Arnulf                 	                          907-937 ( wg D.Ś. )
-      			   	                                        907-937 ( ?-14.7. ) ( wg Z.S.A.V.E. )
+  Księstwo Bawarii ( Duchy of Bavaria , The Duchy of Bavaria )
+    Dynastia Luitpoldyngów ( Liutpolding House )
+      Arnulf                 	                          907-937 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      			   	                                        907-937 (?-14.7.) ( wg Z.S.A.V.E. )
                                                         przed 928-937 ( Arnulf Zły wg S.P.D.Z. )
                                                         przed 929-? ( Arnulf Zły wg B.S. )
-      Eberhard		                                      937-938 ( wg D.Ś. )
+      Eberhard		                                      937-938 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       			   	                                        przed 938-? ( wg Z.S.A.V.E. )
-      Bertold                	                          938-947 ( wg D.Ś. )
+      Bertold                	                          938-947 ( wg D.Ś. ) ( Berthold wg D.O.T.W.A.C.A.G.H. )
       			   	                                        ?-947 ( Berchtold wg Z.S.A.V.E. )
-    Dynastia saska
-      Henryk I             	                            947-955 ( wg D.Ś. ) ( Jindřich wg Z.S.A.V.E. )
-      Henryk II Kłótnik	                                955-976 i 985-995 ( wg D.Ś. ) [King of Germany]
+    Dynastia saska ( House of Saxony )
+      Henryk I             	                            947-955 ( wg D.Ś. ) ( Jindřich wg Z.S.A.V.E. ) ( Henry I wg D.O.T.W.A.C.A.G.H. )
+      Henryk II Kłótnik	                                955-976 i 985-995 ( wg D.Ś. ) ( Henry II (Henry II the Quarrelsome) wg D.O.T.W.A.C.A.G.H. ) [King of Germany]
       	                             	                  przed 974-po 984 ( Jindřich II Svárlivý wg Z.S.A.V.E. )
                                                         przed 984-? ( Henryk Kłótnik wg Z.N.E. )
                                                         ?-995 ( Henryk Kłótnik wg S.P.D.Z. )
-      Otto I Szwabski  	                                976-982 ( wg D.Ś. )
-    Dynastia Luitpoldyngów
-      Henryk III           	                            983-985 ( wg D.Ś. )
-    Dynastia saska
-      Henryk IV            	                            995-1004 i 1009-1017 ( wg D.Ś. )
+      Otto I Szwabski  	                                976-982 ( wg D.Ś. ) ( Otto I of Swabia wg D.O.T.W.A.C.A.G.H. )
+    Dynastia Luitpoldyngów ( Liutpolding House )
+      Henryk III           	                            983-985 ( wg D.Ś. ) ( Henry III wg D.O.T.W.A.C.A.G.H. )
+    Dynastia saska ( House of Saxony )
+      Henryk IV            	                            995-1004 i 1009-1017 ( wg D.Ś. ) ( Henry IV wg D.O.T.W.A.C.A.G.H. ) [King of Germany Henry II]
                                                         przed 992-? (25.5.-?) ( wg S.P.D.Z. )
                                                         przed 992-? ( wg B.S. )
-    Dynastia luksemburska
-      Henryk V           	                              1004-1009 i 1017-1026 ( wg D.Ś. )
+    Dynastia luksemburska ( House of Luxemburg )
+      Henryk V           	                              1004-1009 i 1017-1026 ( wg D.Ś. ) ( Henry V wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1005-? ( wg B.S. )
-      Henryk VII		                                    1042-1047 ( wg D.Ś. )
-    Dynastia salicka
-      Henryk VI             	                          1027-1042 i 1047-1049 ( wg D.Ś. )
-      Henryk VIII           	                          1053-1054 i 1077-1096 ( wg D.Ś. )
-      Konrad II Dziecię	                                1054-1055 ( wg D.Ś. )
-      Agnieszka z Poitiers	                            1055-1061 ( wg D.Ś. )
-    Dynastia Ezzonidów
-      Konrad I z Zütphen	                              1049-1053 ( wg D.Ś. )
-    Dynastia z Nordheim
-      Otto II           	                              1061-1070 ( wg D.Ś. )
-    Dynastia Welfów
-      Welf I                      	                    1070-1077 i 1096-1101 ( wg D.Ś. )
-      Welf II Gruby           	                        1101-1120 ( wg D.Ś. )
-      Henryk IX Czarny	                                1120-1126 ( wg D.Ś. )
+    Dynastia salicka ( Salian House )
+      Henryk VI             	                          1027-1042 i 1047-1049 ( wg D.Ś. ) ( Henry VI wg D.O.T.W.A.C.A.G.H. ) [King of Germany Henry III]
+    Dynastia luksemburska ( House of Luxemburg )
+      Henryk VII		                                    1042-1047 ( wg D.Ś. ) ( Henry VII wg D.O.T.W.A.C.A.G.H. )
+    Dynastia Ezzonidów ( Ezzonid House )
+      Konrad I z Zütphen	                              1049-1053 ( wg D.Ś. ) ( Conrad I of Zütphen wg D.O.T.W.A.C.A.G.H. )
+    Dynastia salicka ( Salian House )
+      Henryk VIII           	                          1053-1054 i 1077-1096 ( wg D.Ś. ) ( Henry VIII wg D.O.T.W.A.C.A.G.H. ) [King of Germany Henry IV]
+      Konrad II Dziecię	                                1054-1055 ( wg D.Ś. ) ( Conrad II (Conrad II the Child) wg D.O.T.W.A.C.A.G.H. )
+      Agnieszka z Poitiers	                            1055-1061 ( wg D.Ś. ) ( Agnes of Poitiers wg D.O.T.W.A.C.A.G.H. )
+    Dynastia z Nordheim ( House of Nordheim )
+      Otto II           	                              1061-1070 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Dynastia Welfów ( House of Welf )
+      Welf I                      	                    1070-1077 i 1096-1101 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Welf II Gruby           	                        1101-1120 ( wg D.Ś. ) ( Welf II (Welf II the Fat) wg D.O.T.W.A.C.A.G.H. )
+      Henryk IX Czarny	                                1120-1126 ( wg D.Ś. ) ( Henry IX (Henry IX the Black) wg D.O.T.W.A.C.A.G.H. )
       				                                          ? ( Jindřich Černý wg F.B.C.A.R. )
-      Henryk X Pyszny     	                            1126-1138 ( wg D.Ś. )
+      Henryk X Pyszny     	                            1126-1138 ( wg D.Ś. ) ( Henry X (Henry X the Proud) wg D.O.T.W.A.C.A.G.H. ) [Duke of Saxony]
       			                                            przed 1127-1139 ( Jindřich Pyšný wg F.B.C.A.R. )
-      Henryk XII Lew       	                            1156-1180 ( wg D.Ś. ) [Duke of Saxony Henryk Lew]
+    Dynastia austriacka ( House of Austria )
+      Leopold                             	            1139-1141 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Margrave of Austria Leopold IV]
+                                                        1139-? ( Leopold IV wg F.B.C.A.R. )
+    Dynastia Hohenstaufów ( House of Hohenstaufen )
+      Konrad III			                                  1141-1143 ( wg D.Ś. ) ( Conrad III wg D.O.T.W.A.C.A.G.H. ) [King of Germany Conrad III]
+    Dynastia austriacka ( House of Austria )
+      Henryk XI Jasomirgott	                            1143-1156 ( wg D.Ś. ) ( Henry XI (Henry XI Jasomirgott) wg D.O.T.W.A.C.A.G.H. ) [Duke of Austria Henry II]
+      				                                          1143-po 1154 ( Jindřich Jasomirgott wg F.B.C.A.R. )
+    Dynastia Welfów ( House of Welf )
+      Henryk XII Lew       	                            1156-1180 ( wg D.Ś. ) ( Henry XII (Henry XII the Lion) wg D.O.T.W.A.C.A.G.H. ) [Duke of Saxony Henryk Lew]
       			         	                                  1154-po 1179 ( ?.6.-? ) ( Jindřich Lev wg F.B.C.A.R. )
                                                         ? ( Henryk Lew wg S.P.D.Z. )
-    Dynastia austriacka
-      Leopold                             	            1139-1141 ( wg D.Ś. )
-      				    	                                    1139-? ( Leopold IV wg F.B.C.A.R. )
-      Henryk XI Jasomirgott	                            1143-1156 ( wg D.Ś. )
-      				                                          1143-po 1154 ( Jindřich Jasomirgott wg F.B.C.A.R. )
-    Dynastia Hohenstaufów
-      Konrad III			                                  1141-1143 ( wg D.Ś. )
     Dynastia Wittelsbachów
       Otto I                  		                      1180-1183 ( wg D.Ś. )
       			             	                              1180-? ( Ota z Wittelsbachu wg F.B.C.A.R. )
@@ -4221,62 +4234,142 @@ Brunej ( Brunej )
   Bibliografia :
       Atlas čínských dějin
 
-Księstwo Brunszwiku ( Duchy of Brunswick )
-  Starsza linia na Brunszwiku
-    Albrecht I Wielki      	                            1252-1279
-    Henry Dziwak        	                              1279-1286
-    Wilhelm                   	                        1279-1292
-    Albrecht II Tłusty      	                          1279-1318
-    Otto Łagodny         	                              1318-1344
-    Ernest                       	                      1344-1345
-    Magnus I Pobożny   	                                1344-1369
-    Magnus II Młodszy	                                  1369-1373
-    Fryderyk                      	                    1373-1400
-  Średnia linia na Brunszwiku
-    Bernard                      	                      1388-1428
-    Wilhelm I Zwycięski	                                1428-1482
-    Henryk Spokojny  	                                  1432-1473
-    Fryderyk                	                          1482-1484
-    Wilhelm II Młodszy   	                              1482-1495
-  Linia na Calenbergu
-    Eryk I Starszy      	                              1495-1540
-    Eryk II Młodszy        	                            1540-1584
-  Linia na Wolfenbüttel
-    Henryk I Starszy    	                              1495-1514
-    Henryk II Młodszy     	                            1514-1568
-    Juliusz                  	                          1568-1589
-    Henryk Juliusz     	                                1589-1613
-    Fryderyk Ulryk         	                            1613-1634
-  Henryk                   	                            1559-1598
+Principality of Brunswick-Wolfenbüttel
+  House of Welf
+    Wilhelm                   	                        1286-1292 ( William wg D.O.T.W.A.C.A.G.H. ) [Prince of Brunswick] [Duke of Brunswick-Lüneburg]
+    Albert II                                           1292-13818 ( Albert II the Fat wg D.O.T.W.A.C.A.G.H. ) [Prince of Brunswick] [Duke of Brunswick-Lüneburg]
+    Otto Łagodny         	                              1318-1344 ( Otto the Mild wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Ernest                       	                      1344-1345 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Magnus I Pobożny   	                                1344-1369 ( Magnus I (Magnus I the Pious) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Magnus II Młodszy	                                  1345/69-1373 ( Magnus II (Magnus II the Younger) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Fryderyk                      	                    1373-1400 ( Frederick wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Bernard                      	                      1400-1428 ( Bernard I wg D.O.T.W.A.C.A.G.H. )  [Duke of Brunswick-Lüneburg]
+    Henry I                                             1400-1409 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Wilhelm I Zwycięski	                                1428-1432 i 1473-1482 ( William I (William I the Victorious) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Henryk Spokojny  	                                  1432-1473 ( Henry the Pacific wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Fryderyk                	                          1482-1484 ( Frederick wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Wilhelm II Młodszy   	                              1482-1495 ( William II (William II the Younger) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Henryk I Starszy    	                              1495-1514 ( Henry I (Henry I the Elder) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Henryk II Młodszy     	                            1514-1568 ( Henry II (Henry II the Younger) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Juliusz                  	                          1568-1589 ( Julius wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Henryk Juliusz     	                                1589-1613 ( Henry Julius wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Fryderyk Ulryk         	                            1613-1634 ( Frederick Ulrich wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    August Młodszy     	                                1635-1666 ( Augustus the Younger wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Rudolf August        	                              1666-1704 ( Rudolf Augustus wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Antoni Ulryk          	                            1685/704-1714 ( Anthony Ulrich wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    August Wilhelm		                                  1714-1731 ( Augustus William wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Ludwik Rudolf       	                              1731-1735 ( Louis Rudolf wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+  Linia na Bevern ( Line of Bevern )
+    Ferdynand Albrecht                                  1735 ( Ferdinand Albert wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Karol I                                             1735-1780 ( Charles I wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Karol Wilhelm Ferdynand                         	  1780-1806 ( Charles William Ferdinand wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Fryderyk Wilhelm                                    1806-1807 ( Frederick William wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick]
+  Bibliografia :
+      Dynasties of the World - A Chronological and Genealogical Handbook
+
+Księstwo Brunszwiku ( Principality of Brunswick )
+  House of Welf
+    Albrecht I Wielki      	                            1252-1279 ( wg D.Ś. ) [Duke of Brunswick-Lüneburg]
+                                                        1267-1279 ( Albert I (Albert I the Great) wg D.O.T.W.A.C.A.G.H. )
+    Henry Dziwak        	                              1279-1286 ( wg D.Ś. ) ( Henry the Singular wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Wilhelm                   	                        1279-1286 ( wg D.Ś. ) ( William wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Albrecht II Tłusty      	                          1279-1318 ( wg D.Ś. ) [Duke of Brunswick-Lüneburg]
+                                                        1279-1286 ( Albert II (Albert II the Fat) wg D.O.T.W.A.C.A.G.H. )
   Heinrich                                              ? ( wg V.K.T.H.O.H.E. )
-  Juliusz Ernest         	                              1598-1636
-  August Młodszy     	                                  1636-1666
-  Rudolf August        	                                1666-1704
-  Antoni Ulryk          	                              1704-1714
-  August Wilhelm		                                    1714-1731
-  Ludwik Rudolf       	                                1731-1735
-  Linia na Bevern
-    Ferdynand Albrecht                                  1735
-    Karol I                                            	1735-1780
-    Karol Wilhelm Ferdynand                         	  1780-1806
-    Fryderyk Wilhelm                                   	1806-1815
-    Karol II                                           	1815-1830
-    Wilhelm                                            	1831-1884
-    Albrecht Pruski                                    	1885-1906
-    Jan Albrecht z Meklemburgii-Schwerinu	              1907-1913
-  Linia hanowerska
-    Ernest August		                                    1913-1918
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
+  Linia na Bevern ( Line of Bevern )
+    Fryderyk Wilhelm                                    1806-1815 ( wg D.Ś. )
+                                                        1813-1815 ( Frederick William wg D.O.T.W.A.C.A.G.H. )
+    Karol II                                            1815-1830 ( wg D.Ś. ) ( Charles II wg D.O.T.W.A.C.A.G.H. )
+    Wilhelm                                             1831-1884 ( wg D.Ś. )
+                                                        1830-1884 ( William wg D.O.T.W.A.C.A.G.H. )
+    regent
+      Albrecht Pruski                                   1885-1906 ( wg D.Ś. ) ( Albert of Prussia wg D.O.T.W.A.C.A.G.H. )
+      Jan Albrecht z Meklemburgii-Schwerinu	            1907-1913 ( wg D.Ś. ) ( John Albert of Mecklenburg-Schwerin wg D.O.T.W.A.C.A.G.H. )
+  Linia hanowerska ( Line of Hanover )
+    Ernest August		                                    1913-1918 ( wg D.Ś. ) ( Ernest Augustus wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
-Księstwo Brunszwiku i Lüneburga ( Księstwo brunszwicko-lüneburskie )
-  Dynastia Welfów
-    Otto I Dziecię                                      1235-1252
+Księstwo Brunszwiku i Lüneburga ( Księstwo brunszwicko-lüneburskie , Duchy of Brunswick-Lüneburg )
+  Dynastia Welfów ( House of Welf )
+    Otto I Dziecię                                      1235-1252 ( wg D.Ś. ) ( Otto I (Otto I the Child) wg D.O.T.W.A.C.A.G.H. )
+  Lüneburg
+    Starsza linia na Lüneburgu ( Old Line of Lüneburg )
+      Jan                        	                      1252-1277 ( wg D.Ś. ) ( John wg D.O.T.W.A.C.A.G.H. )
+      Otto II Surowy     	                              1277-1330 ( wg D.Ś. ) ( Otto II (Otto II the Severe) wg D.O.T.W.A.C.A.G.H. )
+      Otto III                 	                        1330-1352 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Wilhelm               	                          1330-1369 ( wg D.Ś. ) ( William wg D.O.T.W.A.C.A.G.H. )
+    Średnia linia na Lüneburgu ( Middle Line of Lüneburg )
+      Henryk I                     	                    1388-1416 ( wg D.Ś. ) ( Henry I wg D.O.T.W.A.C.A.G.H. )
+      Wilhelm Zwycięski	                                1416-1428 ( wg D.Ś. ) ( William I (William I the Victorious) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg in Brunswick William I]
+      Bernard I                    	                    1428-1434 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg in Brunswick Bernard]
+      Fryderyk Pobożny      	                          1434-1441 i 1446-1458 ( wg D.Ś. ) (Frederick the Pious wg D.O.T.W.A.C.A.G.H. )
+      Otto I Kulawy            	                        1434-1446 ( wg D.Ś. ) ( Otto I (Otto I the Lame) wg D.O.T.W.A.C.A.G.H. )
+      Bernard II                   	                    1458-1464 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Otto II                         	                1464-1471 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Henryk II Średni         	                        1471-1522 ( wg D.Ś. ) ( Henry II (Henry II the Middle) wg D.O.T.W.A.C.A.G.H. )
+      Otto III                        	                1522-1527 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Ernest I Wyznawca    	                            1522-1546 ( wg D.Ś. ) ( Ernest I (Ernest I the Confessor) wg D.O.T.W.A.C.A.G.H. )
+      Franciszek                 	                      1536-1539 ( wg D.Ś. ) ( Francis wg D.O.T.W.A.C.A.G.H. )
+      Franciszek Otto         	                        1546-1559 ( wg D.Ś. ) ( Francis Otto wg D.O.T.W.A.C.A.G.H. )
+    Nowa linia na Lüneburgu ( New Line of Lüneburg )
+      Wilhelm Młodszy       	                          1559-1592 ( wg D.Ś. ) ( William the Younger wg D.O.T.W.A.C.A.G.H. )
+      Ernest II                     	                  1592-1611 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Chrystian                   	                    1611-1633 ( wg D.Ś. ) ( Christian wg D.O.T.W.A.C.A.G.H. )
+      August Starszy          	                        1633-1636 ( wg D.Ś. ) ( August the Elder wg D.O.T.W.A.C.A.G.H. )
+      Jerzy                         	                  1636-1641 ( wg D.Ś. ) ( George wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk                    	                    1636-1648 ( wg D.Ś. ) ( Frederick wg D.O.T.W.A.C.A.G.H. )
+      Chrystian Ludwik       	                          1641-1665 ( wg D.Ś. ) ( Christian Louis wg D.O.T.W.A.C.A.G.H. )
+      Jerzy Wilhelm             	                      1648-1705 ( wg D.Ś. ) ( George William wg D.O.T.W.A.C.A.G.H. )
+      Jan Fryderyk              	                      1665-1679 ( wg D.Ś. ) ( John Frederick wg D.O.T.W.A.C.A.G.H. )
+  Brunszwik
+    Starsza linia na Brunszwiku ( Old Line of Brunswick )
+      Albrecht I Wielki      	                          1252-1279 ( wg D.Ś. ) ( Albert I (Albert I the Great) wg D.O.T.W.A.C.A.G.H. )
+      Henry Dziwak        	                            1279-1286 ( wg D.Ś. ) ( Henry the Singular wg D.O.T.W.A.C.A.G.H. )
+      Wilhelm                   	                      1279-1292 ( wg D.Ś. ) ( William wg D.O.T.W.A.C.A.G.H. )
+      Albrecht II Tłusty      	                        1279-1318 ( wg D.Ś. ) ( Albert II (Albert II the Fat) wg D.O.T.W.A.C.A.G.H. )
+      Otto Łagodny         	                            1318-1344 ( wg D.Ś. ) ( Otto the Mild wg D.O.T.W.A.C.A.G.H. )
+      Ernest                       	                    1344-1345 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Magnus I Pobożny   	                              1344-1369 ( wg D.Ś. ) ( Magnus I (Magnus I the Pious) wg D.O.T.W.A.C.A.G.H. )
+      Magnus II Młodszy	                                1369-1373 ( wg D.Ś. )
+                                                        1345/69-1373 ( Magnus II (Magnus II the Younger) wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk                      	                  1373-1400 ( wg D.Ś. ) ( Frederick wg D.O.T.W.A.C.A.G.H. )
+    Średnia linia na Brunszwiku ( Middle Line of Brunswick )
+      Bernard                      	                    1388-1428 ( wg D.Ś. ) ( Bernard I wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg in Lüneburg Bernard I]
+      Wilhelm I Zwycięski	                              1428-1482 ( wg D.Ś. ) ( William I (William I the Victorious) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg in Lüneburg William I]
+      Henryk Spokojny  	                                1432-1473 ( wg D.Ś. ) ( Henry the Pacific wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk                	                        1482-1484 ( wg D.Ś. ) ( Frederick wg D.O.T.W.A.C.A.G.H. )
+      Wilhelm II Młodszy   	                            1482-1495 ( wg D.Ś. ) ( William II (William II the Younger) wg D.O.T.W.A.C.A.G.H. )
+    Linia na Wolfenbüttel ( Line of Wolfenbüttel )
+      Henryk I Starszy    	                            1495-1514 ( wg D.Ś. ) ( Henry I (Henry I the Elder) wg D.O.T.W.A.C.A.G.H. )
+      Henryk II Młodszy     	                          1514-1568 ( wg D.Ś. ) ( Henry II (Henry II the Younger) wg D.O.T.W.A.C.A.G.H. )
+      Juliusz                  	                        1568-1589 ( wg D.Ś. ) ( Julius wg D.O.T.W.A.C.A.G.H. )
+      Henryk Juliusz     	                              1589-1613 ( wg D.Ś. ) ( Henry Julius wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk Ulryk         	                          1613-1634 ( wg D.Ś. ) ( Frederick Ulrich wg D.O.T.W.A.C.A.G.H. )
+    Linia na Calenbergu ( Line of Calenberg )
+      Eryk I Starszy      	                            1495-1540 ( wg D.Ś. ) ( Erik I (Erik I the Elder) wg D.O.T.W.A.C.A.G.H. )
+      Eryk II Młodszy        	                          1540-1584 ( wg D.Ś. ) ( Erik II (Erik II the Younger) wg D.O.T.W.A.C.A.G.H. )
+    New Line of Brunswick
+      Henryk                   	                        1559-1598 ( wg D.Ś. ) ( Henry wg D.O.T.W.A.C.A.G.H. )
+      Juliusz Ernest         	                          1598-1636 ( wg D.Ś. ) ( Julius Ernest wg D.O.T.W.A.C.A.G.H. )
+      August Młodszy     	                              1636-1666 ( wg D.Ś. ) ( Augustus the Younger wg D.O.T.W.A.C.A.G.H. )
+      Rudolf August        	                            1666-1704 ( wg D.Ś. ) ( Rudolf Augustus wg D.O.T.W.A.C.A.G.H. )
+      Antoni Ulryk          	                          1704-1714 ( wg D.Ś. )
+                                                        1685/704-1714 ( Anthony Ulrich wg D.O.T.W.A.C.A.G.H. )
+      August Wilhelm		                                1714-1731 ( wg D.Ś. ) ( Augustus William wg D.O.T.W.A.C.A.G.H. )
+      Ludwik Rudolf       	                            1731-1735 ( wg D.Ś. ) ( Louis Rudolf wg D.O.T.W.A.C.A.G.H. )
+    Linia na Bevern ( Line of Bevern )
+      Ferdynand Albrecht                                1735 ( wg D.Ś. ) ( Ferdinand Albert wg D.O.T.W.A.C.A.G.H. )
+      Karol I                                           1735-1780 ( wg D.Ś. ) ( Charles I wg D.O.T.W.A.C.A.G.H. )
+      Karol Wilhelm Ferdynand                         	1780-1806 ( wg D.Ś. ) ( Charles William Ferdinand wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick]
+  Hanower
+    Ernest August		                                    1679-1698 ( wg D.Ś. ) ( Ernest Augustus wg D.O.T.W.A.C.A.G.H. ) [Elector of Hanover]
+    Jerzy Ludwik        	                              1698-1727 ( wg D.Ś. ) ( George Louis wg D.O.T.W.A.C.A.G.H. ) [King of England George I]
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Brygantowie
   Kartymandua                                           ok.49-ok.70
@@ -6988,10 +7081,6 @@ Danes
   Bibliografia :
       Northmen - The Viking Saga 793-1241
 
-Hrabstwo Dannenbergu
-  Bibliografia :
-      Zapomianie narody Europy
-
 Dania ( Denmark , Tannmarkar )
   Skiold			                                          ok.40 p.n.e.-ok.1 n.e. ( wg V.N.M.S.D. )
   Ribe
@@ -7225,6 +7314,14 @@ Daniszmendydzi
     Melik Ghazi Kumusztakin                             ? ( Kumusztakin wg N.I.B.W.XI.S. )
   Bibliografia :
       Normanowie i Bizancjum w XI stuleciu
+
+Dannenberg
+  Hrabstwo Dannenbergu
+  Principality of Dannenberg
+    Henry                                               1569-1598 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Julius Ernest                                       1598-1636 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+  Bibliografia :
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Dauphiné
   Bibliografia :
@@ -7460,7 +7557,7 @@ Księstwo Dolnej Lotaryngii ( Księstwo Lotaryngii Dolnej , The Duchy of Lower L
     Odo             	                                  991-1012 ( wg Tapsella )
   Dynastia z Verdun ( House of Verdun )
     Gotfryd I                   	                      1012-1023 ( wg D.Ś. ) ( III wg Tapsella ) ( Godfrey I wg D.O.T.W.A.C.A.G.H. )
-    Gozelo I                    	                      1023-1044 ( wg Tapsella i D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Upper Lorraine]
+    Gozelo I                    	                      1023-1044 ( wg Tapsella i D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Upper Lorraine Gozelo]
     Gozelo II Próżniak   	                              1044-1046 ( wg Tapsella i D.Ś. ) ( Gozelo II (Gozelo II the Sluggard) wg D.O.T.W.A.C.A.G.H. )
   Dynastia luksemburska ( House of Luxemburg )
     Fryderyk	                                          1046-1065 ( wg Tapsella i D.Ś. ) ( Frederick wg D.O.T.W.A.C.A.G.H. )
@@ -10383,6 +10480,14 @@ Götar ( Geats )
   Bibliografia :
       Northmen - The Viking Saga 793-1241
 
+Principality of Göttingen
+  Albert II                                             1286 n.e.-? ( Albert II the Fat wg D.O.T.W.A.C.A.G.H. ) [Prince of Brunswick]
+  Ernest                                                1345-1367 ( wg D.O.T.W.A.C.A.G.H. ) [Prince of Brunswick-Wolfenbüttel] [Duke of Brunswick-Lüneburg]
+  William II                                            1483-1495 ( William II the Younger wg D.O.T.W.A.C.A.G.H. ) [Prince of Brunswick-Wolfenbüttel] [Duke of Brunswick-Lüneburg]
+  Bibliografia :
+      Dynasties of the World - A Chronological and Genealogical Handbook
+
+
 Królestwo Granady ( Ta´ifa Granada , Sułtanat Granady , Grenada )
   Ziriovci
   Dynastia Nasrydów
@@ -10446,6 +10551,11 @@ Księstwo Grodzieńskie
   Patirg                                                przed 1361-po 1364 ( Patirg Narymuntowic (Paterky, Patirky, Patirg Kiejstutowicz, Patryk, Patirg Kiejstutowic) wg L.P.P. )
   Bibliografia :
       Litwa - Początki Państw
+
+Principality of Grubenhagen
+  Henry the Singular                                    1286-1322 ( wg D.O.T.W.A.C.A.G.H. ) [Prince of Brunswick]
+  Bibliografia :
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Gruzja ( Georgia )
   Guaram Bagratyda	                                    przed 589 n.e.-? ( wg D.D.T. )
@@ -10841,16 +10951,31 @@ Hami ( Iwu )
   Bibliografia :
       Dzieje dawnych Turków
 
-Hanower
+Hanower ( Calenberg )
+  Principality of Calenberg
+    William I                                           1432 n.e.-? ( William I the Victorious wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Frederick                                           1483-? ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+  Principality of Calenberg-Göttingen
+    Linia na Calenbergu ( Line of Calenberg )
+      Eryk I Starszy      	                            1495-1540 ( Erik I (Erik I the Elder) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Eryk II Młodszy        	                          1540-1584 ( Erik II (Erik II the Younger) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Julius                                              1585-? ( wg D.O.T.W.A.C.A.G.H. ) [Prince of Brunswick-Wolfenbüttel] [Duke of Brunswick-Lüneburg]
+  Principality of Calenberg ( Hanover )
+    Augustus the Elder                                  1635-1636 ( wg D.O.T.W.A.C.A.G.H. ) [Prince of Lüneburg] [Duke of Brunswick-Lüneburg]
+    George                                              1636-1641 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Christian Louis                                     1641-1648 ( wg D.O.T.W.A.C.A.G.H. ) [Prince of Lüneburg] [Duke of Brunswick-Lüneburg]
+    George William                                      1648-1665 ( wg D.O.T.W.A.C.A.G.H. ) [Prince of Lüneburg] [Duke of Brunswick-Lüneburg]
+    John Frederick                                      1665-1679 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+  Ernest Augustus                                       1679-1692 ( wg D.O.T.W.A.C.A.G.H. ) [Elector of Hannover] [Duke of Brunswick-Lüneburg]
   Elektorat Hanoweru
-    Ernest August		                                    1679-1698 ( wg D.Ś. )
-                                                  	    1692-1698 ( wg V.N.M.S.D. )
-    Jerzy Ludwik        	                              1698-1727 ( wg D.Ś. i V.N.M.S.D. ) [King of England Jerzy I]
+    Ernest August		                                    1679-1698 ( wg D.Ś. ) [Duke of Brunswick-Lüneburg]
+                                                  	    1692-1698 ( wg V.N.M.S.D. ) ( Ernest Augustus wg D.O.T.W.A.C.A.G.H. )
+    Jerzy Ludwik        	                              1698-1727 ( wg D.Ś. i V.N.M.S.D. ) ( George Louis wg D.O.T.W.A.C.A.G.H. ) [King of England George I]
                                                         1698-1714 ( wg Z.N.E. )
   Królestwo Hanoweru ( Kingdom of Hanover )
     George III                                          1760-1820 ( wg V.K.T.H.O.H.E. ) [King of Great Britain George III]
-    Ernest August       	                              1837-1851 ( wg D.Ś. i V.N.M.S.D. ) ( Ernest Augustus wg V.K.T.H.O.H.E. )
-    Jerzy V                  	                          1851-1866 ( wg D.Ś. i V.N.M.S.D. )
+    Ernest August       	                              1837-1851 ( wg D.Ś. i V.N.M.S.D. ) ( Ernest Augustus wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
+    Jerzy V                  	                          1851-1866 ( wg D.Ś. i V.N.M.S.D. ) ( George V wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -10859,9 +10984,9 @@ Hanower
 
 Imperium Harszy
   Dynastia Wardhana
-    Nara-wardhana	                                      505-530
-    Radżja I                  	                        530-555
-    Aditja                     	                        555-580
+    Nara-wardhana	                                      505-530 ( wg D.Ś. )
+    Radżja I                  	                        530-555 ( wg D.Ś. )
+    Aditja                     	                        555-580 ( wg D.Ś. )
     Prabhakara             	                            580-605 ( wg D.Ś. )
                                                    	    580-606 ( Prabhákaravardhana wg S.I. )
     Radżja II                	                          605-606 ( wg D.Ś. ) ( Radżjavardhana wg S.I. )
@@ -10869,8 +10994,6 @@ Imperium Harszy
       				                                          przed 612-? ( Harša wg E.P. )
                                                         ok.650 ( Harša wg Ř.S.J.Ď.S. )
     Ardżunaszwa         	                              647-? ( wg S.I. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
       Rýžoviště zlata a doly drahokamů
@@ -10906,8 +11029,6 @@ Królestwo Hasmonejskie ( Państwo Hasmoneuszy , The Hasmonaean Kingdom )
   Antygon ( Matatiasz )                	                40-37 ( wg D.Ś. ) ( Antigonus (Mattathias) wg D.O.T.W.A.C.A.G.H. )
       				                                          ? ( Mattatjáh ( Mattathiás ) wg S.H. )
                                                         przed 39-37 ( Antigonos wg Ž.V.Ř.S. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
       Dzieje Rzymu
@@ -13558,11 +13679,13 @@ Kart-Hadasztu
       Foiničané
 
 Karyntia
-  Księstwo Karyntii
-  Hermann             	                                ?
-  Ulrich II			                                        przed 1181 n.e.-?
+  Hermann             	                                ? ( wg F.B.C.A.R. )
+  Ulrich II			                                        przed 1181 n.e.-? ( wg F.B.C.A.R. )
+  Księstwo Karyntii ( Duchy of Carinthia )
+    Albert II                                           1335-? ( Albert II the Lame wg D.O.T.W.A.C.A.G.H. ) [Duke of Austria Albert II]
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Karystos
   Bibliografia :
@@ -16358,51 +16481,51 @@ Lotaryngia
   Księstwo Lotaryngii ( Duchy of Lorraine , Duchy of Upper Lorraine )
     Konrád Rudý ( Konrad I Czerwony )                   ? ( wg Z.S.A.V.E. )
                                                         przed 954-955 (?-10.8.) ( Konrad Czerwony wg S.P.D.Z. )
-    Dynastia mozelska
-      Fryderyk I          	                            959-978 ( wg D.Ś. )
-      Thierry I             	                          978-1027 ( wg D.Ś. )
-      Fryderyk II         	                            1027-1033 ( wg D.Ś. )
-    Dynastia z Verdun
-      Gozelo                    	                      1033-1044 ( wg D.Ś. ) [Duke of Lower Lorraine Gozelo I]
+    Dynastia mozelska ( House of Moselle )
+      Fryderyk I          	                            959-978 ( wg D.Ś. ) ( Frederick I wg D.O.T.W.A.C.A.G.H. )
+      Thierry I             	                          978-1027 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Fryderyk II         	                            1027-1033 ( wg D.Ś. ) ( Frederick II wg D.O.T.W.A.C.A.G.H. )
+    Dynastia z Verdun ( House of Verdun )
+      Gozelo                    	                      1033-1044 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Lower Lorraine Gozelo I]
                                                         1033-? ( Gozelo I wg D.O.T.W.A.C.A.G.H. )
-      Gotfryd Brodaty     	                            1044-1047 ( wg D.Ś. ) ( Godfrey II (Godfrey II the Bearded) wg D.O.T.W.A.C.A.G.H. ) [Duke of Lower Lorraine Godfrey II]
-    Dynastia z Châtenois
-      Adalbert                 	                        1047-1048 ( wg D.Ś. )
-      Gerard                   	                        1048-1070 ( wg D.Ś. )
-      Thierry II                	                      1070-1115 ( wg D.Ś. )
-                                                        ? ( wg D.O.T.W.A.C.A.G.H. )
-      Szymon I               	                          1115-1139 ( wg D.Ś. )
-      Mateusz I              	                          1139-1176 ( wg D.Ś. )
+      Gotfryd Brodaty     	                            1044-1047 ( wg D.Ś. ) ( Godfrey the Bearded (Godfrey II, Godfrey II the Bearded) wg D.O.T.W.A.C.A.G.H. ) [Duke of Lower Lorraine Godfrey II]
+    Dynastia z Châtenois ( House of Châtenois )
+      Adalbert                 	                        1047-1048 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Gerard                   	                        1048-1070 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Thierry II                	                      1070-1115 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Szymon I               	                          1115-1139 ( wg D.Ś. ) ( Simon I wg D.O.T.W.A.C.A.G.H. )
+      Mateusz I              	                          1139-1176 ( wg D.Ś. ) ( Matthew I wg D.O.T.W.A.C.A.G.H. )
       			         	                                  ? ( Matyáš wg F.B.C.A.R. )
-      Szymon II              	                          1176-1206 ( wg D.Ś. )
-      Ferry II z Bitsche	                              1206-1213 ( wg D.Ś. )
-      Tybald I                  	                      1213-1220 ( wg D.Ś. )
-      Mateusz II              	                        1220-1251 ( wg D.Ś. )
-      Ferry III                  	                      1251-1303 ( wg D.Ś. )
-      Tybald II                 	                      1303-1312 ( wg D.Ś. )
-      Ferry IV                 	                        1312-1329 ( wg D.Ś. )
-      Rudolf                    	                      1329-1346 ( wg D.Ś. )
-      Jan I                      	                      1346-1390 ( wg D.Ś. )
-      Karol II                   	                      1390-1431 ( wg D.Ś. )
-    Dynastia andegaweńska
-      René I Dobry	                                    1431-1453 ( wg D.Ś. ) [Count of Provence]
+      Szymon II              	                          1176-1206 ( wg D.Ś. ) ( Simon II wg D.O.T.W.A.C.A.G.H. )
+      Ferry II z Bitsche	                              1206-1213 ( wg D.Ś. ) ( Ferry II of Bitsch wg D.O.T.W.A.C.A.G.H. )
+      Tybald I                  	                      1213-1220 ( wg D.Ś. ) ( Thiébaut I wg D.O.T.W.A.C.A.G.H. )
+      Mateusz II              	                        1220-1251 ( wg D.Ś. ) ( Matthew II wg D.O.T.W.A.C.A.G.H. )
+      Ferry III                  	                      1251-1303 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Tybald II                 	                      1303-1312 ( wg D.Ś. ) ( Thiébaut II wg D.O.T.W.A.C.A.G.H. )
+      Ferry IV                 	                        1312-1329 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Rudolf                    	                      1329-1346 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Jan I                      	                      1346-1390 ( wg D.Ś. ) ( John I wg D.O.T.W.A.C.A.G.H. )
+      Karol II                   	                      1390-1431 ( wg D.Ś. ) ( Charles II wg D.O.T.W.A.C.A.G.H. )
+    Dynastia andegaweńska ( House of Anjou )
+      René I Dobry	                                    1431-1453 ( wg D.Ś. ) ( René I (René I the Good) wg D.O.T.W.A.C.A.G.H. ) [Duke of Anjou]
                                                         przed 1442-? ( René d'Anjou wg V.K.T.H.O.H.E. )
-      Jan II                      	                    1453-1470 ( wg D.Ś. )
-      Mikołaj                    	                      1470-1473 ( wg D.Ś. )
-    Dynastia z Vaudémont
-      René II                                	          1473-1508 ( wg D.Ś. )
-      Antoni                                 	          1508-1544 ( wg D.Ś. )
-      Franciszek I                        	            1544-1545 ( wg D.Ś. )
-      Karol III Wielki                    	            1545-1608 ( wg D.Ś. )
-      Henryk II                              	          1608-1624 ( wg D.Ś. )
-      Nicole                                   	        1624-1625 ( wg D.Ś. )
-      Franciszek II z Vaudémont	                        1625 ( wg D.Ś. )
-      Karol IV                               	          1625-1675 ( wg D.Ś. )
-      Karol V                                 	        1675-1690 ( wg D.Ś. )
+      Jan II                      	                    1453-1470 ( wg D.Ś. ) ( John II wg D.O.T.W.A.C.A.G.H. )
+      Mikołaj                    	                      1470-1473 ( wg D.Ś. ) ( Nicholas wg D.O.T.W.A.C.A.G.H. )
+    Dynastia z Vaudémont ( House of Vaudémont )
+      René II                                	          1473-1508 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Antoni                                 	          1508-1544 ( wg D.Ś. ) ( Anthony wg D.O.T.W.A.C.A.G.H. )
+      Franciszek I                        	            1544-1545 ( wg D.Ś. ) ( Francis I wg D.O.T.W.A.C.A.G.H. )
+      Karol III Wielki                    	            1545-1608 ( wg D.Ś. ) ( Charles III (Charles III the Great) wg D.O.T.W.A.C.A.G.H. )
+      Henryk II                              	          1608-1624 ( wg D.Ś. ) ( Henry II wg D.O.T.W.A.C.A.G.H. )
+      Nicole                                   	        1624-1625 ( wg D.Ś. ) ( Nicola wg D.O.T.W.A.C.A.G.H. )
+      Franciszek II z Vaudémont	                        1625 ( wg D.Ś. ) ( Francis II of Vaudémont wg D.O.T.W.A.C.A.G.H. )
+      Karol IV                               	          1625-1675 ( wg D.Ś. ) ( Charles IV wg D.O.T.W.A.C.A.G.H. )
+      Karol V                                 	        1675-1690 ( wg D.Ś. ) ( Charles V wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1686-? ( Karol V Leopold wg H.W. )
-      Leopold                               	          1690-1729 ( wg D.Ś. )
-      Franciszek III                      	            1729-1737 ( wg D.Ś. ) ( Francis II wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor Francis I]
-      Stanisław Leszczyński        	                    1737-1766 ( wg D.Ś. ) [King of Poland]
+      Leopold                               	          1690-1729 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Franciszek III                      	            1729-1737 ( wg D.Ś. ) ( Francis III (Francis II) wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor Francis I]
+    House of Leszczyński
+      Stanisław Leszczyński        	                    1737-1766 ( wg D.Ś. ) ( Stanislas wg D.O.T.W.A.C.A.G.H. ) [King of Poland]
                                                         1735-1766 ( Stanislas wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
@@ -16554,37 +16677,47 @@ Hrabstwo Lüchow
 
 Księstwo Lüneburga
   Henryk                                                ? ( wg F.H.C.R. )
-  Starsza linia na Lüneburgu
-    Jan                        	                        1252-1277 ( wg D.Ś. )
-    Otto II Surowy     	                                1277-1330 ( wg D.Ś. )
-    Otto III                 	                          1330-1352 ( wg D.Ś. )
-    Wilhelm               	                            1330-1369 ( wg D.Ś. )
-  Średnia linia na Lüneburgu
-    Henryk I                     	                      1388-1416 ( wg D.Ś. )
-    Wilhelm Zwycięski	                                  1416-1428 ( wg D.Ś. )
-    Bernard I                    	                      1428-1434 ( wg D.Ś. )
-    Fryderyk Pobożny      	                            1434-1441 i 1446-1458 ( wg D.Ś. )
-    Otto I Kulawy            	                          1434-1446 ( wg D.Ś. )
-    Bernard II                   	                      1458-1464 ( wg D.Ś. )
-    Otto II                         	                  1464-1471 ( wg D.Ś. )
-    Henryk II Średni         	                          1471-1522 ( wg D.Ś. )
-    Otto III                        	                  1522-1527 ( wg D.Ś. )
-    Ernest I Wyznawca    	                              1522-1546 ( wg D.Ś. )
-    Franciszek                 	                        1536-1539 ( wg D.Ś. )
-    Franciszek Otto         	                          1546-1559 ( wg D.Ś. )
-  Nowa linia na Lüneburgu
-    Wilhelm Młodszy       	                            1559-1592 ( wg D.Ś. )
-    Ernest II                     	                    1592-1611 ( wg D.Ś. )
-    Chrystian                   	                      1611-1633 ( wg D.Ś. )
-    August Starszy          	                          1633-1636 ( wg D.Ś. )
-    Jerzy                         	                    1636-1641 ( wg D.Ś. )
-    Fryderyk                    	                      1636-1648 ( wg D.Ś. )
-    Chrystian Ludwik       	                            1641-1665 ( wg D.Ś. )
-    Jerzy Wilhelm             	                        1648-1705 ( wg D.Ś. )
-    Jan Fryderyk              	                        1665-1679 ( wg D.Ś. )
+  House of Welf
+    Starsza linia na Lüneburgu ( Old Line of Lüneburg )
+      Jan                        	                      1252-1277 ( wg D.Ś. ) [Duke of Brunswick-Lüneburg]
+                                                        1267-1277 ( John wg D.O.T.W.A.C.A.G.H. )
+      Otto II Surowy     	                              1277-1330 ( wg D.Ś. ) ( Otto II (Otto II the Severe) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Otto III                 	                        1330-1352 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Wilhelm               	                          1330-1369 ( wg D.Ś. ) ( William wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Średnia linia na Lüneburgu ( Middle Line of Lüneburg )
+      Henryk I                     	                    1388-1416 ( wg D.Ś. ) ( Henry I wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Wilhelm Zwycięski	                                1416-1428 ( wg D.Ś. ) ( William I (William I the Victorious) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Bernard I                    	                    1428-1434 ( wg D.Ś. ) [Duke of Brunswick-Lüneburg]
+                                                        1388-1409 i 1428-1434 ( wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk Pobożny      	                          1434-1441 i 1446-1458 ( wg D.Ś. ) (Frederick the Pious wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Otto I Kulawy            	                        1434-1446 ( wg D.Ś. ) ( Otto I (Otto I the Lame) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Bernard II                   	                    1458-1464 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Otto II                         	                1464-1471 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Henryk II Średni         	                        1471-1522 ( wg D.Ś. ) ( Henry II (Henry II the Middle) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Otto III                        	                1522-1527 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Ernest I Wyznawca    	                            1522-1546 ( wg D.Ś. ) ( Ernest I (Ernest I the Confessor) wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Harburg
+        Otto III                                        1527-1549 ( wg D.O.T.W.A.C.A.G.H. ) [Prince of Lüneburg Otto III]
+      Franciszek                 	                      1536-1539 ( wg D.Ś. ) ( Francis wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Duchy of Gifhorn
+        Francis                                         1539-1549 ( wg D.O.T.W.A.C.A.G.H. ) [Prince of Lüneburg Francis]
+      Franciszek Otto         	                        1546-1559 ( wg D.Ś. ) ( Francis Otto wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+    Nowa linia na Lüneburgu ( New Line of Lüneburg )
+      Wilhelm Młodszy       	                          1559-1592 ( wg D.Ś. ) ( William the Younger wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Ernest II                     	                  1592-1611 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Chrystian                   	                    1611-1633 ( wg D.Ś. ) ( Christian wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      August Starszy          	                        1633-1636 ( wg D.Ś. ) ( August the Elder wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Fryderyk                    	                    1636-1648 ( wg D.Ś. ) ( Frederick wg D.O.T.W.A.C.A.G.H. ) [Duke of Brunswick-Lüneburg]
+      Chrystian Ludwik       	                          1641-1665 ( wg D.Ś. ) [Duke of Brunswick-Lüneburg]
+                                                        1648-1665 ( Christian Louis wg D.O.T.W.A.C.A.G.H. )
+      Jerzy Wilhelm             	                      1648-1705 ( wg D.Ś. ) [Duke of Brunswick-Lüneburg]
+                                                        1665-1705 ( George William wg D.O.T.W.A.C.A.G.H. )
+      Jan Fryderyk              	                      1665-1679 ( wg D.Ś. ) [Duke of Brunswick-Lüneburg]
+      George Louis                                      1705-? ( wg D.O.T.W.A.C.A.G.H. ) [Elector of Hanover]
   Bibliografia :
       Dynastie Świata
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Lübeck
   Bibliografia :
@@ -17962,9 +18095,12 @@ Methone
   Bibliografia :
       Dzieje Grecji
 
-Bishopric of Metz
+Metz
+  County of Metz
+    Gerard                                              ?
+  Bishopric of Metz
   Bibliografia :
-      Vanished Kingdoms - The History of Half-Forgotten Europe
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Księstwo Mikulińskie
   Michał Aleksandrowicz                                 1362-po 1375 ( Michał wg L.P.P. ) [Prince of Tver]
@@ -19307,7 +19443,7 @@ Niemcy ( Germany , Německo )
     House of Nassau
       Adolf                                             1292-1298 ( wg D.O.T.W.A.C.A.G.H. )
     House of Habsburg
-      Albert I of Austria                               1298-1308 ( wg D.O.T.W.A.C.A.G.H. )
+      Albert I of Austria                               1298-1308 ( Albert I wg D.O.T.W.A.C.A.G.H. )
     House of Luxemburg
       Henryk VII Luksemburski                           1308-1313 ( wg F.H.C.R. ) ( Henry VII wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor]
     House of Wittelsbach
@@ -21932,7 +22068,7 @@ Polska ( Polsko , Poland )
                                                         1697-1733 ( August II The Strong wg V.K.T.H.O.H.E. )
     Stanisław Leszczyński           	                  1704-1709 i 1733-1736 ( wg D.Ś. )
                                                         1704-1709 ( wg V.N.M.S.D. ) ( Stanislas wg V.K.T.H.O.H.E. )
-                                                        ? ( wg H.W. )
+                                                        ? ( wg H.W. ) ( Stanislas wg D.O.T.W.A.C.A.G.H. )
     August III                                	        1733-1763 ( wg D.Ś. i V.K.T.H.O.H.E. ) [Elector of Saxony]
                                                         1733-1764 ( wg V.N.M.S.D. )
                                                         ? ( wg S.Z.L. ) ( August III Sas wg J.P.1242 )
@@ -21982,6 +22118,7 @@ Polska ( Polsko , Poland )
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Normanowie i Bizancjum w XI stuleciu
       Jezioro Pejpus 1242
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Księstwo Połockie ( Principality of Polatsk )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -24414,14 +24551,17 @@ Saksonia
                                                         1106-po 1134 ( Lotar z Supplinburga wg Z.N.E. )
                                                         1103-1125 ( Lotar III z Supplinburga wg W.W.K.R. )
                                                         przed 1113-1137 ( Lothar z Supplinburga (Lothar) wg S.P.D.Z. )
+    House of Welf
+      Henry X                                           1137-? ( Henry X the Proud wg D.O.T.W.A.C.A.G.H. ) [Duke of Bavaria Henry X]
     Albrecht Medvěd	                                    ?-1170 ( wg F.B.C.A.R. )
-    Ród Welfów
-      Jindřich Lev ( Henryk Lew )    	                  ? ( wg Z.S.A.V.E. i wg F.H.C.R. i J.P.1242 )
+    Ród Welfów ( House of Welf )
+      Jindřich Lev ( Henryk Lew )    	                  ? ( wg Z.S.A.V.E. i wg F.H.C.R. i J.P.1242 ) [Duke of Bavaria Henry XII]
                                                      	  przed 1147-po 1179 ( wg F.B.C.A.R. )
                                                         1142-po 1167 ( wg Z.N.E. )
                                                         przed 1142-po 1171 ( wg S.P.D.Z. )
                                                         przed 1160-po 1164 ( Henry the Lion (Henry) wg N.T.V.S. )
                                                         przed 1147-po 1168 (1.8.-?) ( Heinrich der Löwe wg B.S. )
+                                                        1142-? ( Henry XII (Henry XII the Lion) wg D.O.T.W.A.C.A.G.H. )
     Bernard         		                                1180-1212 ( wg D.Ś. )
       				                                          przed 1180-? ( wg F.B.C.A.R. )
       				                                          ? ( Bernhard wg Z.S.A.V.E. )
@@ -24491,6 +24631,7 @@ Saksonia
       Northmen - The Viking Saga 793-1241
       Bitwy Słowian
       Jezioro Pejpus 1242
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Salamina
   Telamon		                                            ?
@@ -25909,8 +26050,15 @@ Kingdom of Strathclyde ( Cumbria , Cumberland )
 
 Styria
   Otakar IV         	                                  przed 1180 n.e.-?
+  Duchy of Styria
+    House of Babenberg ( Die Babenberger )
+      Leopold V                                         1192-? ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Austria Leopold V]
+      Leopold VI                                        1194-? ( Leopold VI the Glorious wg D.O.T.W.A.C.A.G.H. ) [Duke of Austria Leopold VI]
+    House of Habsburg
+      Rudolf I                                          1276-? ( wg D.O.T.W.A.C.A.G.H. ) [King of Germany Rudolf I]
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Bishopric of St.Jean de Maurienne ( Bishopric of Savoy )
   Bibliografia :
@@ -28394,6 +28542,11 @@ Tyr
       Kartagina 149-146 p.n.e.
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
+County of Tyrol
+  Rudolf IV                                             1363 n.e.-? ( Rudolf IV the Founder wg D.O.T.W.A.C.A.G.H. ) [Duke of Austria Rudolf IV]
+  Bibliografia :
+      Dynasties of the World - A Chronological and Genealogical Handbook
+
 Uganda
   Bibliografia :
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
@@ -29614,6 +29767,7 @@ Węgry ( Hungary )
     Dynastia habsburska
       Władysław V Pogrobowiec	                          1445-1457 ( wg D.Ś. )
       				         	                                ?-1458 ( Ladislav Pohrobek wg D.P.I.R.G. )
+                                                        1445-? ( Ladislas Posthumus wg D.O.T.W.A.C.A.G.H. )
       Jan                                     	        1445-1458 ( wg V.N.M.S.D. )
     Dom Hunyadi
       Maciej I Korwin      	                            1458-1490 ( wg D.Ś. i V.N.M.S.D. ) ( Matyáš Korvín wg D.P.I.R.G. )
