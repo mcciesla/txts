@@ -875,9 +875,9 @@ Anglia ( England , Anglie )
                                                         1016 (przed 23.4.-?) ( Edmund II 'Ironside' (Edmund Ironside, Edmund) wg Æ.T.U.T.F.K. )
 					                                              ?-1016 ( ?-30.11. ) ( Edmund II Ironside wg E.P. ) ( Edmund Ironside (Edmund) wg N.T.V.S. )
     Dynastia duńska ( House of Denmark )
-      Sven                                 	            1013-1014 ( wg V.N.M.S.D. i Tapsella ) ( Swein Forkbeard wg D.O.T.W.A.C.A.G.H. ) [King of Denmark]
+      Sven                                 	            1013-1014 ( wg V.N.M.S.D. i Tapsella ) ( Swein Forkbeard wg D.O.T.W.A.C.A.G.H. ) [King of Denmark Sven I]
                                                         1013-1014 (?-3.2.) ( Svein Forkbeard (Svein) wg N.T.V.S. ) ( Swein 'Forkbeard' (Swein, Swein Forkbeard, Sweyn 'Forkbeard') wg Æ.T.U.T.F.K. )
-      Kanut Wielki                   	                  1016-1035 ( wg D.Ś. i Tapsella ) ( Knud den Store wg W.W.K.R. ) ( Cnut (Cnut the Great) wg N.T.V.S. i Æ.T.U.T.F.K. ) ( Cnut the Great wg D.O.T.W.A.C.A.G.H. ) [King of Denmark]
+      Kanut Wielki                   	                  1016-1035 ( wg D.Ś. i Tapsella ) ( Knud den Store wg W.W.K.R. ) ( Cnut (Cnut the Great) wg N.T.V.S. i Æ.T.U.T.F.K. ) ( Cnut the Great wg D.O.T.W.A.C.A.G.H. ) [King of Denmark Cnut I]
                                                         1014-1035 ( wg V.N.M.S.D. )
 					                                              1016/7-1035 ( ?-12.11. ) ( Knut I Veliký wg E.P. )
                                                         1018-1035 ( Cnut Sweynsson The Great wg V.K.T.H.O.H.E. )
@@ -7175,14 +7175,16 @@ Dania ( Denmark , Tannmarkar )
       Gerd                                              ? ( wg N.T.V.S. )
       Sigtrygg                                          ?-ok.935/6 ( wg N.T.V.S. )
     Hrthacnut Sveinsson                                 ok.935/6 ( Hardegon wg N.T.V.S. )
-    Gorm                     	                          855-908  ( wg V.N.M.S.D. )
+    Gorm                     	                          855-908 ( wg V.N.M.S.D. )
                                                  	      ok.900 ( wg Tapsella )
                                                         przed 931-po 936 (?.10.-?) ( Gorm Stary wg S.P.D.Z. )
                                                         ? ( wg N.S. )
+                                                        ok.950 ( Gorm the Old wg D.O.T.W.A.C.A.G.H. )
                                                         ok.936-958 ( Gorm the Old wg N.T.V.S. )
-  Królestwo Danii
-    1. dynastia duńska ( The Jelling Dynasty )
+  Królestwo Danii ( The Kingdom of Denmark )
+    1. dynastia duńska ( The Jelling Dynasty , First House of Denmark )
       Harald I Sinozęby               	                940-986 ( wg D.Ś. )
+                                                        ok.940-ok.986 ( Harald I (Harald I Bluetooth) wg D.O.T.W.A.C.A.G.H. )
                                                         936-985 ( wg V.N.M.S.D. )
                                                         ok.950-985 ( wg Tapsella )
       				           	                              ? ( Harald Modrozubý wg Z.S.A.V.E. )
@@ -7191,7 +7193,8 @@ Dania ( Denmark , Tannmarkar )
                                                         przed ok.970-987 ( Harald Sinozęby wg S.P.D.Z. )
                                                         ?-986 ( Harald Gormsson (Harald Blue-tooth) wg N.S. )
                                                         przed 974-? (13.8.-?) ( Harald Sinozęby wg B.S. )
-      Swen I Widłobrody             	                  986-1014 ( wg D.Ś. ) ( Svein Fork-beard (Svein Haraldsson Fork-beard) wg N.S. )
+      Swen I Widłobrody             	                  986-1014 ( wg D.Ś. ) ( Svein Fork-beard (Svein Haraldsson Fork-beard) wg N.S. ) [King of England Sven]
+                                                        ok.986-1014 ( Svend I (Svend I Forkbeard) wg D.O.T.W.A.C.A.G.H. )
                                                         985-1014 ( wg V.N.M.S.D. i Tapsella )
       					                                        przed 1000-? ( Sven I wg E.P. ) ( Swen Widłobrody wg B.S. )
                                                         przed 1013-? ( Sveyn Vidlovous wg Ř.S.J.Ď.S. )
@@ -7199,142 +7202,146 @@ Dania ( Denmark , Tannmarkar )
                                                         przed 990-1014 ( Swen Widłobrody wg S.P.D.Z. )
                                                         987-1014 (?-3.2.) ( Svein Forkbeard (Svein) wg N.T.V.S. )
                                                         przed 993-1014 (?-3.2.) ( Swein 'Forkbeard' (Swein Forkbeard, Swein, Sweyn 'Forkbeard') wg Æ.T.U.T.F.K. )
-      Harald II                              	          1014-1018 ( wg D.Ś. ) ( Harald wg N.T.V.S. )
+      Harald II                              	          1014-1018 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Harald wg N.T.V.S. )
                                                         1014-1016 ( III wg V.N.M.S.D. )
                                                         1014-1019 ( wg Tapsella )
-      Knud ( Kanut ) I Wielki      	                    1019-1035 ( wg D.Ś. i  Tapsella ) ( Kanut Wielki (Knud den Store) wg W.W.K.R. ) [King of England]
+      Knud ( Kanut ) I Wielki      	                    1019-1035 ( wg D.Ś. i  Tapsella ) ( Kanut Wielki (Knud den Store) wg W.W.K.R. ) ( Knud I (Knud I the Great) wg D.O.T.W.A.C.A.G.H. ) [King of England Knud]
                                                         1016-1035 ( wg V.N.M.S.D. )
       				      	                                  995-1035 ( Knut Veliký wg Z.S.A.V.E. )
       					                                        1018-1035 (?-12.11.) ( Knut II Veliký wg E.P. )
                                                         ? ( Knútr wg Ř.S.J.Ď.S. ) ( Kanut Wielki wg Z.N.E. ) ( Cnut the Great (Cnut) wg Æ.T.U.T.F.K. )
                                                         1018/9-1035 ( Cnut Sweynsson The Great wg V.K.T.H.O.H.E. ) ( Cnut (Cnut the Great) wg N.T.V.S. )
                                                         przed 1019-1035 ( Kanut II Wielki (Kanut, Knut Wielki) wg S.P.D.Z. )
-      Hardeknud ( Hardekanut )	                        1035-1042 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+      Hardeknud ( Hardekanut )	                        1035-1042 ( wg D.Ś. i V.N.M.S.D. i Tapsella i D.O.T.W.A.C.A.G.H. ) [King of England]
       					                                        1035-po 1040 ( Hardiknut wg E.P. )
                                                         1035-1042 (?-8.6.) ( Harthacnut wg N.T.V.S. )
                                                         ?-1042 ( Hardeknut wg B.S. )
                                                         ? ( Harthacnut wg Æ.T.U.T.F.K. )
-      Magnus Dobry                     	                1042-1046 ( wg D.Ś. ) [King of Norway]
+      Magnus Dobry                     	                1042-1046 ( wg D.Ś. ) ( Magnus the Good wg D.O.T.W.A.C.A.G.H. ) [King of Norway Magnus I]
                                                         1042-1047 ( wg V.N.M.S.D. i Tapsella )
                                                         1042-1046/7 ( Magnus the Good wg N.T.V.S. )
       					                                        1042-1047 ( ?-25.10. ) ( Magnus I Dobrý wg E.P. )
                                                         1043-1047 ( Magnus I Dobry wg S.P.D.Z. )
                                                         1042-po 1043 (?-29.9.) ( Magnus I Dobry (Magnus) wg B.S. )
-    Dynastia Swena Estridsena ( Dynasty of Svein Estrithson )
+    Dynastia Swena Estridsena ( Dynasty of Svein Estrithson , House of Svend Estridsen )
       Swen II Estridsen                     	          1046-1074 ( wg D.Ś. )
+                                                        1046-1074/6 ( Svend II Estridsen wg D.O.T.W.A.C.A.G.H. )
                                                         1047-1073 ( wg V.N.M.S.D. )
                                                         1047-1076 ( wg Tapsella )
       					    	                                  ? ( Sven wg Z.S.A.V.E. ) ( Swen Estridson wg Z.N.E. ) ( Swen Estridsen wg N.I.B.W.XI.S. )
                                                         1046-1074/6 ( Svein Estrithson (Svein Estrithsson, Svein) wg N.T.V.S. )
                                                         przed 1066-1076 ( Swen II Estrydsen wg S.P.D.Z. )
       Harald III Hén                             	      1074-1080 ( wg D.Ś. )
+                                                        1074/6-1080 ( Harald III wg D.O.T.W.A.C.A.G.H. )
                                                       	1076-1080 ( IV wg V.N.M.S.D. )
                                                        	1076-1080 ( wg Tapsella )
                                                         1074/6-1080 ( Harald III (Harald) wg N.T.V.S. )
-      Knud II Święty                            	      1080-1086  ( wg D.Ś. ) ( IV wg Tapsella )
+      Knud II Święty                            	      1080-1086  ( wg D.Ś. ) ( IV wg Tapsella ) ( St Knud II wg D.O.T.W.A.C.A.G.H. )
       						                                      1080-1086 (?-10.7.) ( Knut IV wg E.P. ) ( Cnut (Cnut the Holy) wg N.T.V.S. )
                                                         ? ( Knud II wg D.O.T.W.A.C.A.G.H. )
-      Olaf I Głód                                  	    1086-1095 ( wg D.Ś. ) ( IV wg Tapsella )
+      Olaf I Głód                                  	    1086-1095 ( wg D.Ś. ) ( IV wg Tapsella ) ( Oluf I Hunger wg D.O.T.W.A.C.A.G.H. )
                                                         1086-1095 (?-?.8.) ( Olaf (Olaf Hunger) wg N.T.V.S. )
-      Eryk I Zawsze Dobry                   	          1095-1103 ( wg D.Ś. i V.N.M.S.D. ) ( Eryk Zawsze Dobry (Eiríkr Eigóðr) wg W.W.K.R. )
+      Eryk I Zawsze Dobry                   	          1095-1103 ( wg D.Ś. i V.N.M.S.D. ) ( Eryk Zawsze Dobry (Eiríkr Eigóðr) wg W.W.K.R. ) ( Erik I (Erik I the Evergood) wg D.O.T.W.A.C.A.G.H. )
                                                         1095-1104 ( wg Tapsella )
                                                         1095-1103 (?-?.7.) ( Erik the Evergood (Erik Ejegod) wg N.T.V.S. )
-      Niels                                         	  1104-1134 ( wg D.Ś. i Tapsella ) ( Mikołaj wg Z.N.E. )
+      Niels                                         	  1104-1134 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) ( Mikołaj wg Z.N.E. )
                                                         1105-1135 ( wg V.N.M.S.D. )
                                                         1103-1134 ( wg W.W.K.R. )
                                                         ? ( wg N.T.V.S. )
                                                         przed 1112-? (9.8.-?) ( wg B.S. )
       Magnus Silny ( Magnús den Stærke )                ok.1130-1134 ( wg W.W.K.R. ) [King of Sweden]
-      Eryk II Pamiętny                        	        1134-1137 ( wg D.Ś. i Tapsella ) ( Eryk Godny Pamięci (Eiríkr Eimuni) wg W.W.K.R. ) ( Eryk II Bogaty wg S.P.D.Z. )
+      Eryk II Pamiętny                        	        1134-1137 ( wg D.Ś. i Tapsella ) ( Eryk Godny Pamięci (Eiríkr Eimuni) wg W.W.K.R. ) ( Eryk II Bogaty wg S.P.D.Z. ) ( Erik II (Erik II the Memorable) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1136-? ( Emmune wg B.S. )
-      Eryk III Jagnię                            	      1137-1146 ( wg D.Ś. )
+      Eryk III Jagnię                            	      1137-1146 ( wg D.Ś. ) ( Erik III (Erik III the Lamb) wg D.O.T.W.A.C.A.G.H. )
                                                         1137-1147 ( II wg V.N.M.S.D. )
                                                         1137-1147 ( wg Tapsella )
-      Knud III                                       	  1146-1157 ( wg D.Ś. )
+      Knud III                                       	  1146-1157 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1147-1157 ( V wg Tapsella )
                                                         przed 1147-? ( Kanut V Magnusson wg S.P.D.Z. ) ( Kanut wg B.S. )
-      Swen III Grathe                          	        1146-1157 ( wg D.Ś. )
+      Swen III Grathe                          	        1146-1157 ( wg D.Ś. ) ( Svend III (Svend III Grathe) wg D.O.T.W.A.C.A.G.H. )
                                                         1147-1157 ( wg V.N.M.S.D. i Tapsella )
       					        	                              przed 1152-po 1157 ( Sven wg F.B.C.A.R. )
                                                         przed 1147-? ( Swen III Grade wg S.P.D.Z. ) ( Swen wg B.S. )
-      Waldemar I Wielki                       	        1157-1182 ( wg D.Ś. i V.N.M.S.D. i Tapsella i S.P.D.Z. ) ( Waldemar I (Valdemar) wg W.W.K.R. ) ( Valdemar the Great (Valdemar) wg N.T.V.S. )
+      Waldemar I Wielki                       	        1157-1182 ( wg D.Ś. i V.N.M.S.D. i Tapsella i S.P.D.Z. ) ( Waldemar I (Valdemar) wg W.W.K.R. ) ( Valdemar the Great (Valdemar) wg N.T.V.S. ) ( Valdemar I (Valdemar I the Great) wg D.O.T.W.A.C.A.G.H. )
       					        	                              przed 1158-1182 ( ?-12.5. ) ( Valdemar I Veliký wg F.B.C.A.R. )
                                                         1157-? ( Waldemar I wg Z.N.E. )
                                                         przed 1164-po 1170 (6.7.-25.10.) ( Waldemar I (Waldemar) wg B.S. )
       Knud IV                                         	1182-1202 ( wg D.Ś. i V.N.M.S.D. ) ( VI wg Tapsella )
+                                                        1165/82-1202 ( wg D.O.T.W.A.C.A.G.H. )
       					        	                              1182-po 1187 ( Knut VI wg F.B.C.A.R. )
       						                                      1182-1202 ( ?-12.11. ) ( Knut VI Valdemarsson wg E.P. )
                                                         1182-po 1186 (?-13.4.) ( Kanut VI (Kanut) wg B.S. )
-      Waldemar II Zwycięzca              	              1202-1241 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Valdemar II (Valdemar) wg N.T.V.S. )
+      Waldemar II Zwycięzca              	              1202-1241 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Valdemar II (Valdemar) wg N.T.V.S. ) ( Valdemar II (Valdemar II the Victorious) wg D.O.T.W.A.C.A.G.H. )
       						                                      ? ( Valdemar II Vítězný wg E.P. ) ( Waldemar II wg L.P.P. )
                                                         ok.1225 ( Valdemar The Victorious wg V.K.T.H.O.H.E. )
                                                         przed 1204-po 1239 ( Waldemar II (Waldemar, Waldemar I) wg F.H.C.R. )
                                                         ? ( Waldemar II wg L.1241. )
                                                         przed 1216-po 1240 ( Waldemar II (Waldemar II Zwycięski, Waldemar) wg J.P.1242 )
-      Waldemar Młodszy                       	          1215-1231 ( wg D.Ś. )
+      Waldemar Młodszy                       	          1215-1231 ( wg D.Ś. ) ( Valdemar the Younger wg D.O.T.W.A.C.A.G.H. )
       Eryk IV Denar od Pługa                	          1241-1250 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
                                                         ? ( Eryk IV wg J.P.1242 )
-      Abel                                              1250-1252 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Krzysztof I                                     	1252-1259 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Eryk V Klipping                          	        1259-1286 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Eryk VI Menved                           	        1286-1319 ( wg D.Ś. )
+                                                        1232/41-1250 ( Erik IV (Erik IV Ploughpenny) wg D.O.T.W.A.C.A.G.H. )
+      Abel                                              1250-1252 ( wg D.Ś. i V.N.M.S.D. i Tapsella i D.O.T.W.A.C.A.G.H. )
+      Krzysztof I                                     	1252-1259 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Christopher I wg D.O.T.W.A.C.A.G.H. )
+      Eryk V Klipping                          	        1259-1286 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Erik V (Erik V Klipping) wg D.O.T.W.A.C.A.G.H. )
+      Eryk VI Menved                           	        1286-1319 ( wg D.Ś. ) ( Erik VI (Erik VI Menved) wg D.O.T.W.A.C.A.G.H. )
                                                         1286-1320 ( wg V.N.M.S.D. i Tapsella )
-      Krzysztof II                                     	1320-1326 i 1330-1332 ( wg D.Ś. )
+      Krzysztof II                                     	1320-1326 i 1330-1332 ( wg D.Ś. ) ( Christopher II wg D.O.T.W.A.C.A.G.H. )
                                                         1320-ok.1335 ( wg V.N.M.S.D. )
                                                         1320-1332 ( wg Tapsella )
-      Eryk                                             	1321-1326 i 1330-1332 ( wg D.Ś. )
-      Waldemar III                                  	  1326-1330 ( wg D.Ś. )
-      Waldemar IV Atterdag ( Dojutrek )	                1340-1375 ( wg D.Ś. i Tapsella )
+      Eryk                                             	1321-1326 i 1330-1332 ( wg D.Ś. ) ( Erik wg D.O.T.W.A.C.A.G.H. )
+      Waldemar III                                  	  1326-1330 ( wg D.Ś. ) ( Valdemar III wg D.O.T.W.A.C.A.G.H. )
+      Waldemar IV Atterdag ( Dojutrek )	                1340-1375 ( wg D.Ś. i Tapsella ) ( Valdemar IV (Valdemar IV Atterdag) wg D.O.T.W.A.C.A.G.H. )
                                                         1340-1376 ( wg V.N.M.S.D. )
       					         	                              przed 1362-? ( wg B.M. )
-    Dynastia norweska
-      Olaf II                   	                      1376-1387 ( wg V.N.M.S.D. i D.Ś. )
+    Dynastia norweska ( House of Norway )
+      Olaf II                   	                      1376-1387 ( wg V.N.M.S.D. i D.Ś. ) ( Oluf II wg D.O.T.W.A.C.A.G.H. ) [King of Norway Olav IV]
                                                       	1375-1387 ( V wg Tapsella )
-      Małgorzata I	                                    1387-1396 ( wg D.Ś. )
+      Małgorzata I	                                    1387-1396 ( wg D.Ś. ) ( Margaret I wg D.O.T.W.A.C.A.G.H. )
                                                       	1387-1412 ( wg V.N.M.S.D. i Tapsella )
-    Dynastia pomorska
-      Eryk VII         	                                1396-1439 ( wg D.Ś. )
+    Dynastia pomorska ( House of Pomerania )
+      Eryk VII         	                                1396-1439 ( wg D.Ś. ) ( Erik VII wg D.O.T.W.A.C.A.G.H. )
                                                	        1412-1438 ( wg V.N.M.S.D. )
                                                	        1412-1439 ( wg Tapsella )
       		             	                                przed 1427-? ( wg B.M. )
-    Dynastia z Palatynatu
-      Krzysztof III Bawarski	                          1440-1448 ( wg D.Ś. )
+    Dynastia z Palatynatu ( House of the Palatinate )
+      Krzysztof III Bawarski	                          1440-1448 ( wg D.Ś. ) ( Christopher III of Bavaria wg D.O.T.W.A.C.A.G.H. )
                                                         1438-1448 ( wg V.N.M.S.D. )
                                                         1439-1448 ( wg Tapsella )
-    Dynastia oldenburska
-      Chrystian I       	                              1448-1481 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+    Dynastia oldenburska ( House of Oldenburg )
+      Chrystian I       	                              1448-1481 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Christian I wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1468-? ( Christian I wg N.T.V.S. )
-      Jan ( Hans )     	                                1483-1513 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Chrystian II     	                                1513-1523 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Fryderyk I        	                              1523-1533 ( wg D.Ś. )
+      Jan ( Hans )     	                                1483-1513 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( John wg D.O.T.W.A.C.A.G.H. )
+      Chrystian II     	                                1513-1523 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Christian II wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk I        	                              1523-1533 ( wg D.Ś. ) ( Frederick I wg D.O.T.W.A.C.A.G.H. )
                                                  	      1523-1534 ( wg V.N.M.S.D. i Tapsella )
-      Chrystian III    	                                1534-1559 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Fryderyk II       	                              1559-1588 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+      Chrystian III    	                                1534-1559 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Christian III wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk II       	                              1559-1588 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Frederick II wg D.O.T.W.A.C.A.G.H. )
       		               	                              przed 1576-1588 ( wg 100.N.U.W. )
-      Chrystian IV     	                                1588-1648 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+      Chrystian IV     	                                1588-1648 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Christian IV wg D.O.T.W.A.C.A.G.H. )
       			         	                                  ? ( I wg 100.N.U.W. )
       		                	                            przed 1626-? ( wg M.Ś. )
-      Fryderyk III      	                              1648-1670 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Chrystian V      	                                1670-1699 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Fryderyk IV      	                                1699-1730 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+      Fryderyk III      	                              1648-1670 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Frederick III wg D.O.T.W.A.C.A.G.H. )
+      Chrystian V      	                                1670-1699 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Christian V wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk IV      	                                1699-1730 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Frederick IV wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1709-? (?.3.-?) ( wg H.W. )
                                                         ? ( wg J.P.1242 )
-      Chrystian VI      	                              1730-1746 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Fryderyk V        	                              1746-1766 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Chrystian VII    	                                1766-1808 ( wg D.Ś. i Tapsella )
+      Chrystian VI      	                              1730-1746 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Christian VI wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk V        	                              1746-1766 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Frederick V wg D.O.T.W.A.C.A.G.H. )
+      Chrystian VII    	                                1766-1808 ( wg D.Ś. i Tapsella ) ( Christian VII wg D.O.T.W.A.C.A.G.H. )
                                                   	    1766-1784 ( wg V.N.M.S.D. )
-      Fryderyk VI       	                              1808-1839 ( wg D.Ś. i Tapsella )
+      Fryderyk VI       	                              1808-1839 ( wg D.Ś. i Tapsella ) ( Frederick VI wg D.O.T.W.A.C.A.G.H. )
                                                    	    1784-1839 ( wg V.N.M.S.D. )
-      Chrystian VIII	                                  1839-1848 ( wg D.Ś. i Tapsella )
+      Chrystian VIII	                                  1839-1848 ( wg D.Ś. i Tapsella ) ( Christian VIII wg D.O.T.W.A.C.A.G.H. )
                                                    	    1839-1849 ( wg V.N.M.S.D. )
-      Fryderyk VII      	                              1848-1863 ( wg D.Ś. i Tapsella )
+      Fryderyk VII      	                              1848-1863 ( wg D.Ś. i Tapsella ) ( Frederick VII wg D.O.T.W.A.C.A.G.H. )
                                                    	    1849-1863 ( wg V.N.M.S.D. )
-    Linia z Glücksburga
-      Chrystian IX        	                            1863-1906 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Fryderyk VIII	                                    1906-1912 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Chrystian X         	                            1912-1947 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Fryderyk IX         	                            1947-1972 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-      Małgorzata II       	                            1972-? ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+    Linia z Glücksburga ( Line of Glücksburg )
+      Chrystian IX        	                            1863-1906 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Christian IX wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk VIII	                                    1906-1912 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Frederick VIII wg D.O.T.W.A.C.A.G.H. )
+      Chrystian X         	                            1912-1947 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Christian X wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk IX         	                            1947-1972 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Frederick IX wg D.O.T.W.A.C.A.G.H. )
+      Małgorzata II       	                            1972-? ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Margaret II wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -9918,10 +9925,14 @@ Francja ( France , Francie )
       Dynasties of the World - A Chronological and Genealogical Handbook
       Hovory s Janem Masarykem
 
-Wielkie Księstwo Frankfurtu
-  Karol Teodor Dalberg                                  1810-1813
+Frankfurt
+  Principality of Frankfurt
+    Charles Theodore                                    1806-1810 ( wg D.O.T.W.A.C.A.G.H. ) [Grand Duke of Frankfurt]
+  Wielkie Księstwo Frankfurtu ( The Grand Duchy of Frankfurt )
+    Karol Teodor Dalberg                                1810-1813 ( wg D.Ś. ) ( Charles Theodore wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Księstwo Frankonii
   Eberhard                                              przed 928-939 ( wg S.P.D.Z. )
@@ -16245,21 +16256,22 @@ Królestwo Lidii ( Lydia , The Kingdom of Lydia )
       Tamerlane - Sword of Islam, Conqueror of the World
       Dynasties of the World - A Chronological and Genealogical Handbook
 
-Księstwo Liechtensteinu
-  Antoni Florian            	                          1719-1721
-  Józef Jan                     	                      1721-1732
-  Jan Karol                     	                      1732-1748
-  Józef Wacław              	                          1748-1772
-  Franciszek Józef I       	                            1772-1781
-  Alojzy I                       	                      1781-1805
-  Jan I                             	                  1805-1836
-  Alojzy II                      	                      1836-1858
-  Jan II Dobry                	                        1858-1929
-  Franciszek I                 	                        1929-1938
-  Franciszek Józef II	                                  1938-1989
-  Jan Adam II                 	                        1989-?
+Księstwo Liechtensteinu ( Principality of Liechtenstein )
+  Antoni Florian            	                          1719-1721 ( wg D.Ś. ) ( Anthony Florian wg D.O.T.W.A.C.A.G.H. )
+  Józef Jan                     	                      1721-1732 ( wg D.Ś. ) ( Joseph John wg D.O.T.W.A.C.A.G.H. )
+  Jan Karol                     	                      1732-1748 ( wg D.Ś. ) ( John Charles wg D.O.T.W.A.C.A.G.H. )
+  Józef Wacław              	                          1748-1772 ( wg D.Ś. ) ( Joseph Wenceslas wg D.O.T.W.A.C.A.G.H. )
+  Franciszek Józef I       	                            1772-1781 ( wg D.Ś. ) ( Francis Joseph I wg D.O.T.W.A.C.A.G.H. )
+  Alojzy I                       	                      1781-1805 ( wg D.Ś. ) ( Aloysius I wg D.O.T.W.A.C.A.G.H. )
+  Jan I                             	                  1805-1836 ( wg D.Ś. ) ( John I wg D.O.T.W.A.C.A.G.H. )
+  Alojzy II                      	                      1836-1858 ( wg D.Ś. ) ( Aloysius II wg D.O.T.W.A.C.A.G.H. )
+  Jan II Dobry                	                        1858-1929 ( wg D.Ś. ) ( John II (John II the Good) wg D.O.T.W.A.C.A.G.H. )
+  Franciszek I                 	                        1929-1938 ( wg D.Ś. ) ( Francis I wg D.O.T.W.A.C.A.G.H. )
+  Franciszek Józef II	                                  1938-1989 ( wg D.Ś. ) ( Francis Joseph II wg D.O.T.W.A.C.A.G.H. )
+  Jan Adam II                 	                        1989-? ( wg D.Ś. ) ( John Adam II wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Bishopric of Liege
   Bibliografia :
@@ -18434,18 +18446,20 @@ Imperium Mogołów ( Mughal Empire , Moghul Empire )
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
       Tamerlane - Sword of Islam, Conqueror of the World
 
-Moguncja
+Moguncja ( Mainz )
   Arcybiskupstwo Moguncji
-    Adalbert            		                            przed 1125-?
-    Jindřich			                                      przed 1152-1153 ( ?-7.6. )
-    Arnold ze Selehofenu 		                            1153-1160 ( ?-?.6. )
-    Konrád z Wittelsbachu   	                          1161-1165 i 1184-?
-    Christian z Buchu		                                1165-1183 ( ?.9.-? )
+    Adalbert            		                            przed 1125 n.e.-? ( wg F.B.C.A.R. )
+    Jindřich			                                      przed 1152-1153 (?-7.6.) ( wg F.B.C.A.R. )
+    Arnold ze Selehofenu 		                            1153-1160 (?-?.6.) ( wg F.B.C.A.R. )
+    Konrád z Wittelsbachu   	                          1161-1165 i 1184-? ( wg F.B.C.A.R. )
+    Christian z Buchu		                                1165-1183 (?.9.-?) ( wg F.B.C.A.R. )
     Zygfryd                                             przed 1211-po 1212 (?.9.-9.12.) ( wg F.H.C.R. )
     Zygfryd III z Eppensteinu                           przed 1241-? (?.9.-?) ( Zygfryd wg F.H.C.R. )
+    Charles Theodore                                    1802-1803 ( wg D.O.T.W.A.C.A.G.H. ) [Grand Duke of Frankfurt]
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
       Fryderyk II Hohenstauf - Cesarz Rzymski
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Mohigenowie
   Unkas                                                 przed 1643 n.e.-?
@@ -19317,10 +19331,15 @@ Neszasz
       Antické Černomoří
 
 County of Neuchatel ( Neuchâtel )
-  Rudolf I                                              ? [Emperor Rudolf I]
+  Rudolf I                                              ? [Holy Roman Emperor Rudolf I]
   Frederick I                                           1707-? [King in Prussia]
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
+
+County of Neumarkt
+  John                                                  ?
+  Bibliografia :
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Neurowie
   Bibliografia :
@@ -19828,7 +19847,7 @@ Królestwo Northumbrii ( Northumbria , Kingdom of Northumbria )
       Northmen - The Viking Saga 793-1241
       Dynasties of the World - A Chronological and Genealogical Handbook
 
-Królestwo Norwegii ( Norway , Norsko )
+Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway )
   Olaf                          	                      630-640 ( wg V.N.M.S.D. )
   Halfdan I                  	                          640-700 ( wg V.N.M.S.D. )
   Eystein                     	                        700-730 ( wg V.N.M.S.D. )
@@ -19837,8 +19856,9 @@ Królestwo Norwegii ( Norway , Norsko )
   Halfdan III                	                          824-863 ( wg V.N.M.S.D. )
                                                         ? ( Hálfdan Černý wg S.M. )
                                                         ?-ok.880 ( Halfdan the Black wg N.T.V.S. )
-  Dynastia z Vestfold
+  Dynastia z Vestfold ( House of Westfold )
     Harald I Pięknowłosy                  	            858-928 ( wg D.Ś. )
+                                                        ok.858-ok.928 ( Harald I (Harald I Fairhair) wg D.O.T.W.A.C.A.G.H. )
                                                         863-934 ( wg V.N.M.S.D. )
                                                         ok.870-940 ( wg Tapsella )
       						                                      ok.860-933 ( Harald I Krásnovlasý wg E.P. )
@@ -19846,119 +19866,130 @@ Królestwo Norwegii ( Norway , Norsko )
                                                         870-930/2 ( Harald Fair-hair (Harald Halfdanarson Fair-hair) wg N.S. )
                                                         ok.880-ok.930/5 ( Harald Fairhair (Harald) wg N.T.V.S. )
     Eryk I Krwawy Topór                 		            928-933 ( wg D.Ś. )
+                                                        ok.928-ok.933 ( Eirik I (Eirik I Bloodaxe) wg D.O.T.W.A.C.A.G.H. )
                                                         934-936 ( wg V.N.M.S.D. )
                                                         ok.940-ok.945 ( wg Tapsella )
                                                         ? ( Erik Krvavá Sekyra wg S.M. )
                                                         ok.930-ok.936 ( Eirik Bloodaxe (Erik Bloodaxe, Erik) wg N.T.V.S. )
                                                         930-934/5 ( Eirik Blood-axe (Eirik Haraldsson Blood-axe) wg N.S. )
     Haakon I Dobry                           	          933-959 ( wg D.Ś. )
+                                                        ok.933-ok.959 ( Haakon I (Haakon I the Good) wg D.O.T.W.A.C.A.G.H. )
                                                         936-963 ( wg V.N.M.S.D. )
                                                         ok.945-ok.960 ( wg Tapsella )
                                                         ?-960 ( Hájon Mocný wg S.M. )
                                                         935-961 ( Hakon The Good (Hakon) wg N.S. )
                                                         ok.930-960 ( Håkon the Good (Håkon) wg N.T.V.S. )
     Harald II Szara Opończa              	              959-974 ( wg D.Ś. )
+                                                        ok.959-ok.974 ( Harald II (Harald II Graycloak) wg D.O.T.W.A.C.A.G.H. )
                                                         963-977 ( wg V.N.M.S.D. )
                                                         ok.960-ok.970 ( wg Tapsella )
                                                         960/1-975 ( Harald Grey-cloak (Harald Eiriksson Grey-cloak) wg N.S. )
                                                         960-ok.970 ( Harald Greycloak (Harald) wg N.T.V.S. )
     Jarl Haakon Sigurdsson               	              974-994 ( wg D.Ś. )
+                                                        ok.974-ok.994 ( Earl Haakon Sigurdsson wg D.O.T.W.A.C.A.G.H. )
                                                         977-995 ( wg V.N.M.S.D. )
                                                         ok.970-ok.995 ( wg Tapsella )
                                                         975-995 ( Hakon Sigurdarson (Hakon Sigurdsson) wg N.S. )
                                                         ?-995 ( Håkon Sigurdsson wg N.T.V.S. )
     Olaf I Trygvesson                        	          994-999 ( wg D.Ś. )
+                                                        ok.994-999/1000 ( Olav I wg D.O.T.W.A.C.A.G.H. )
                                                         995-1000 ( wg V.N.M.S.D. i Tapsella ) ( Olof I Tryggvesson wg E.P. ) ( Olaf Tryggwason (Óláfr Tryggvason) wg W.W.K.R. ) ( Olaf Tryggvason wg N.S. ) ( Olaf Tryggvason (Olaf) wg N.T.V.S. )
                                                         ? ( Olaf Tryggvesson wg Z.S.A.V.E. ) ( Olaf Tryggvason (Unlaf, Olaf) wg Æ.T.U.T.F.K. )
                                                         ?-1000 ( Olaf Trygvasson (Trygvasson) wg B.S. )
     Jarl Eryk                                       	  999-1015 ( wg D.Ś. )
+                                                        999/1000-1015 ( Earl Eirik wg D.O.T.W.A.C.A.G.H. )
                                                         1000-1015 ( wg Tapsella )
-    Jarl Svein                                      	  1015-1016 ( wg D.Ś. )
-    Olaf II Haraldsson Święty            	              1016-1030 ( wg D.Ś. )
+    Jarl Svein                                      	  1015-1016 ( wg D.Ś. ) ( Earl Svein wg D.O.T.W.A.C.A.G.H. )
+    Olaf II Haraldsson Święty            	              1016-1030 ( wg D.Ś. ) ( St Olav II wg D.O.T.W.A.C.A.G.H. )
                                                         1000-1028 ( wg V.N.M.S.D. )
                                                         1015-1028 ( wg Tapsella ) ( Olaf Święty (Óláfr Helgi, Olaf Haraldsson, Óláfr Haraldsson) wg W.W.K.R. )
       						                                      1016-1028 ( Olof II Haraldsson wg E.P. )
                                                         1015/6-1028 ( Olaf II (Olaf, St Olaf, Olaf Haraldsson) wg N.T.V.S. )
                                                         ? ( Olaf wg N.S. )
                                                         1015-1030 ( św.Olaf wg N.I.B.W.XI.S. )
-    Svein Alfivason                            	        1030-1035 ( wg D.Ś. ) ( Svein wg N.T.V.S. )
+    Svein Alfivason                            	        1030-1035 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Svein wg N.T.V.S. )
     Knut                                              	1028-1035 ( wg V.N.M.S.D. ) ( Kanut Wielki (Knud den Store) wg W.W.K.R. ) [King of Denmark]
       						                                      1028-1035 ( ?-12.11. ) ( Knut I Veliký wg E.P. )
                                                         przed 1019-1035 ( Kanut II Wielki (Kanut) wg S.P.D.Z. )
     Sven Knutsson                              	        1028-1035 ( wg Tapsella )
-    Magnus I Dobry                           	          1035-1046 ( wg D.Ś. ) [King of Denmark]
+    Magnus I Dobry                           	          1035-1046 ( wg D.Ś. ) [King of Denmark Magnus the Good]
+                                                        1035-1046/7 ( Magnus I (Magnus I the Good) wg D.O.T.W.A.C.A.G.H. )
                                                         1036-1047 ( wg V.N.M.S.D. )
                                                         1035-1047 ( wg Tapsella )
                                                         1035-1046/7 ( Magnus the Good (Magnus) wg N.T.V.S. )
       						                                      1035-1047 ( ?-25.10. ) ( Magnus I Dobrý wg E.P. )
                                                         przed 1042-po 1043 (?-29.9.) ( Magnus wg B.S. )
                                                         ? ( Magnus Dobry wg N.I.B.W.XI.S. )
-    Harald III Hardrade ( Surowy )		                  1045-1066 ( wg D.Ś. )
+    Harald III Hardrade ( Surowy )		                  1045-1066 ( wg D.Ś. ) ( Harald III (Harald III Hardrada) wg D.O.T.W.A.C.A.G.H. )
                                                         1047-1066 ( wg V.N.M.S.D. i Tapsella ) ( Harald Srogi (Haraldr Harðráði) wg W.W.K.R. )
       						                                      1047-1066 (?-25.9.) ( Harald III Krutý wg E.P. )
                                                         1045/6-1066 (?-25.9.) ( Harald Hadrada (Karald Hardrada, Harald) wg N.T.V.S. )
                                                         1046-1066 (?-25.9.) ( Harald Hardrada (Harald) wg N.I.B.W.XI.S. )
-    Magnus II                                     	    1066-1069 ( wg D.Ś. i Tapsella i N.T.V.S. )
-    Olaf III Cichy                               	      1067-1093 ( wg D.Ś. ) ( Olaf Kyrre (Olaf III, Olaf the Peaceful) wg N.T.V.S. )
+    Magnus II                                     	    1066-1069 ( wg D.Ś. i Tapsella i N.T.V.S. i D.O.T.W.A.C.A.G.H. )
+    Olaf III Cichy                               	      1067-1093 ( wg D.Ś. ) ( Olaf Kyrre (Olaf III, Olaf the Peaceful) wg N.T.V.S. ) ( Olav III (Olav III the Gentle) wg D.O.T.W.A.C.A.G.H. )
                                                         1066-1093 ( wg V.N.M.S.D. i Tapsella )
-    Haakon Magnusson                     	              1093-1095 ( wg D.Ś. ) ( Håkon Magnusson wg N.T.V.S. )
-    Magnus III Bosy                           	        1093-1103 ( wg D.Ś. i Tapsella ) ( Magnus Bosonogi (Magnús Berfœttr) wg W.W.K.R. ) ( Magnus II wg V.N.M.S.D. )
+    Haakon Magnusson                     	              1093-1095 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Håkon Magnusson wg N.T.V.S. )
+    Magnus III Bosy                           	        1093-1103 ( wg D.Ś. i Tapsella ) ( Magnus Bosonogi (Magnús Berfœttr) wg W.W.K.R. ) ( Magnus II wg V.N.M.S.D. ) ( Magnus III (Magnus III Barelegs) wg D.O.T.W.A.C.A.G.H. )
                                                         1093-1103 (?-?.8.) ( Magnus Barefoot (Magnus III Barefoot) wg N.T.V.S. )
-    Olaf Magnusson                            	        1103-1115 ( wg D.Ś. i Tapsella ) ( Óláfr Magnússon wg W.W.K.R. )
-    Eystein I                                        	  1103-1123 ( wg D.Ś. ) ( Eystein (Øystein) wg W.W.K.R. ) ( Eystein wg N.T.V.S. )
+    Olaf Magnusson                            	        1103-1115 ( wg D.Ś. i Tapsella ) ( Óláfr Magnússon wg W.W.K.R. ) ( Olav Magnusson wg D.O.T.W.A.C.A.G.H. )
+    Eystein I                                        	  1103-1123 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Eystein (Øystein) wg W.W.K.R. ) ( Eystein wg N.T.V.S. )
                                                         1103-1122 ( wg Tapsella )
-    Sigurd I Krzyżowiec                     	          1103-1130 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Sigurd Krzyżowiec (Sigurðr Jorsalafari) wg W.W.K.R. ) ( Sigurd (Sigurd I, Jorsafalar, Sigurd Jorsalfar) wg N.T.V.S. )
-    Magnus IV Ślepy                          	          1130-1135 ( wg D.Ś. i Tapsella ) ( Magnus Ślepy (Magnús Blindi) wg W.W.K.R. )
-    Harald IV Gille                             	      1130-1136 ( wg D.Ś. i Tapsella ) ( Harald Sługa Boży (Haraldr Gilli) wg W.W.K.R. )
-    Sigurd II Gęba                              	      1136-1155 ( wg D.Ś. i Tapsella )
-    Inge I Garbaty                               	      1136-1161 ( wg D.Ś. i Tapsella )
+    Sigurd I Krzyżowiec                     	          1103-1130 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Sigurd Krzyżowiec (Sigurðr Jorsalafari) wg W.W.K.R. ) ( Sigurd (Sigurd I, Jorsafalar, Sigurd Jorsalfar) wg N.T.V.S. ) ( Sigurd I (Sigurd I the Crusader) wg D.O.T.W.A.C.A.G.H. )
+    Magnus IV Ślepy                          	          1130-1135 ( wg D.Ś. i Tapsella ) ( Magnus Ślepy (Magnús Blindi) wg W.W.K.R. ) ( Magnus IV (Magnus IV the Blind) wg D.O.T.W.A.C.A.G.H. )
+    Harald IV Gille                             	      1130-1136 ( wg D.Ś. i Tapsella ) ( Harald Sługa Boży (Haraldr Gilli) wg W.W.K.R. ) ( Harald IV wg D.O.T.W.A.C.A.G.H. )
+    Sigurd II Gęba                              	      1136-1155 ( wg D.Ś. i Tapsella ) ( Sigurd II (Sigurd II Mouth) wg D.O.T.W.A.C.A.G.H. )
+    Inge I Garbaty                               	      1136-1161 ( wg D.Ś. i Tapsella ) ( Inge I (Inge I the Hunchback) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1152-? ( Inge wg N.T.V.S. )
-    Eystein II                                       	  1142-1157 ( wg D.Ś. i Tapsella )
+    Eystein II                                       	  1142-1157 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                         ok.1155 ( wg N.T.V.S. )
-    Haakon II Barczysty                      	          1157-1162 ( wg D.Ś. )
+    Haakon II Barczysty                      	          1157-1162 ( wg D.Ś. ) ( Haakon II (Haakon II Broadshouldered) wg D.O.T.W.A.C.A.G.H. )
                                                         1161-1162 ( wg Tapsella )
-    Magnus V Erlingsson                    	            1161-1184 ( wg D.Ś. )
+    Magnus V Erlingsson                    	            1161-1184 ( wg D.Ś. ) ( Magnus V wg D.O.T.W.A.C.A.G.H. )
                                                         1162-1186 ( IV wg V.N.M.S.D. )
                                                         1162-1184 ( wg Tapsella )
       						                                      1163-1184 ( ?-15.6. ) ( Magnus IV Erlingsson wg E.P. )
                                                         ?-1177 ( Magnus IV wg N.T.V.S. )
-    Sverre                                            	1177-1202 ( wg D.Ś. )
+    Sverre                                            	1177-1202 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1186-1202 ( wg V.N.M.S.D. )
                                                         1184-1202 ( wg Tapsella )
                                                         przed 1194-? ( wg N.T.V.S. )
-    Haakon III                                     	    1202-1204 ( wg D.Ś. i Tapsella )
-    Guttorm Sigurdsson                      	          1204 ( wg D.Ś. )
-    Inge II Baardsson                          	        1204-1217 ( wg D.Ś. )
-    Haakon IV Stary                            	        1217-1263 ( wg D.Ś. i Tapsella )
+    Haakon III                                     	    1202-1204 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
+    Guttorm Sigurdsson                      	          1204 ( wg D.Ś. ) ( Guttorm wg D.O.T.W.A.C.A.G.H. )
+    Inge II Baardsson                          	        1204-1217 ( wg D.Ś. ) ( Inge II wg D.O.T.W.A.C.A.G.H. )
+    Haakon IV Stary                            	        1217-1263 ( wg D.Ś. i Tapsella ) ( Haakon IV (Haakon IV the Elder) wg D.O.T.W.A.C.A.G.H. )
                                                         1207-1263 ( wg V.N.M.S.D. )
       						                                      1217-1263 (?-17.12.) ( Haakon IV Haakonsson wg E.P. )
                                                         przed 1247-? ( Hakon IV wg F.H.C.R. )
                                                         1217-1263 (?-16.12.) ( Håkon IV wg N.T.V.S. )
-    Haakon Młodszy                            	        1240-1257 ( wg D.Ś. )
+    Haakon Młodszy                            	        1240-1257 ( wg D.Ś. ) ( Haakon the Younger wg D.O.T.W.A.C.A.G.H. )
     Magnus VI Prawodawca                	              1263-1280 ( wg D.Ś. i Tapsella ) ( Magnus VI wg N.T.V.S. )
                                                         1263-1280 ( V wg V.N.M.S.D. )
-      						                                      1263-1280 ( ?-9.5. ) ( Magnus V Zákonodárce wg E.P. )
+      						                                      1263-1280 (?-9.5.) ( Magnus V Zákonodárce wg E.P. )
+                                                        1257/63-1280 ( Magnus VI (Magnus VI the Law-mender) wg D.O.T.W.A.C.A.G.H. )
     Eryk II Wróg Księży                      	          1280-1299 ( wg D.Ś. , V.N.M.S.D. i Tapsella )
-      						                                      1280-1299 ( ?-15.7. ) ( Erik III Magnusson wg E.P. )
-    Haakon V Długonogi                     	            1299-1319 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-  Dynastia szwedzka
-    Magnus VII               		                        1319-1355 ( wg D.Ś. i Tapsella ) ( Magnus II Eroksson wg E.P. )
+      						                                      1280-1299 (?-15.7.) ( Erik III Magnusson wg E.P. )
+                                                        1273/80-1299 ( Eirik II (Eirik II the Priest-hater) wg D.O.T.W.A.C.A.G.H. )
+    Haakon V Długonogi                     	            1299-1319 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Haakon V (Haakon V Longlegs) wg D.O.T.W.A.C.A.G.H. )
+  Dynastia szwedzka ( House of Sweden )
+    Magnus VII               		                        1319-1355 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) ( Magnus II Eroksson wg E.P. )
                                                       	1319-1343 ( wg V.N.M.S.D. )
     Haakon VI                 		                      1355-1380 ( wg D.Ś. )
                                                        	1343-1380 ( wg V.N.M.S.D. i Tapsella )
-      					                                        1355-1380 ( ?-1.5. ) ( Haakon VI Magnusson wg E.P. )
-    Olaf IV                      		                    1380-1387 ( wg D.Ś. i Tapsella )
+      					                                        1355-1380 (?-1.5.) ( Haakon VI Magnusson wg E.P. )
+                                                        1343/55-1380 ( wg D.O.T.W.A.C.A.G.H. )
+    Olaf IV                      		                    1380-1387 ( wg D.Ś. i Tapsella ) ( Olav IV wg D.O.T.W.A.C.A.G.H. ) [King of Denmark Olaf II]
                                                        	1380-1387 ( V wg V.N.M.S.D. )
     Małgorzata                		                      1387-1412 ( wg Tapsella )
+  Dynastia duńska ( House of Denmark )
+    Chrystian Fryderyk		                              1814 ( wg D.Ś. ) ( Christian Frederick wg D.O.T.W.A.C.A.G.H. )
   Dynastia Bernadotte
     Oskar II			                                      1872-1905 ( wg E.P. )
-  Dynastia duńska
-    Chrystian Fryderyk		                              1814 ( wg D.Ś. )
-    Haakon VII                     	                    1905-1957 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
+  Dynastia duńska ( House of Denmark )
+    Haakon VII                     	                    1905-1957 ( wg D.Ś. i V.N.M.S.D. i Tapsella i D.O.T.W.A.C.A.G.H. )
       					                                        1905-1957 (?-29.9.) ( wg E.P. )
                                                         ? ( Hakon wg H.S.J.M. )
-    Olaf V                             	                1957-1991 ( wg D.Ś. i V.N.M.S.D. i Tapsella )
-    Harald V                         	                  1991-? ( wg D.Ś. )
+    Olaf V                             	                1957-1991 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Olav V wg D.O.T.W.A.C.A.G.H. )
+    Harald V                         	                  1991-? ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -19975,6 +20006,7 @@ Królestwo Norwegii ( Norway , Norsko )
       Æthelred the Unready - The Failed King
       Normanowie i Bizancjum w XI stuleciu
       Hovory s Janem Masarykem
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Norymberga ( Nuremberg )
   Dynastia Hohenzollernów ( The House of Hohenzollern )
@@ -20393,8 +20425,9 @@ Olbia
       Dzieje Grecji
 
 Oldenburg
-  Hrabstwo Oldenburga
+  Hrabstwo Oldenburga ( County of Oldenburg )
     Christian z Oldenburga                              przed 1164 n.e.-? (6.7.-?) ( wg B.S. )
+    Christian I                                         przed 1448-? ( wg D.O.T.W.A.C.A.G.H. ) [King of Denmark Christian I]
     Dynastia Holstein-Gottorp
       Fryderyk August I          	                      1773-1777 ( wg D.Ś. )
   Księstwo Oldenburga
@@ -20410,6 +20443,7 @@ Oldenburg
   Bibliografia :
       Dynastie Świata
       Bitwy Słowian
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Olint
   Bibliografia :
@@ -25033,9 +25067,12 @@ Państwo Sátaváhanów
       Říše slova - Jazykové dějiny světa
 
 Seniorat Schellenbergu
-  Jan Adam I                                            1699-1712
+  Jan Adam I                                            1699-1712 ( wg D.Ś. ) ( John Adam I wg D.O.T.W.A.C.A.G.H. ) [Lord of Vaduz]
+  Józef Wacław		                                      1712-1718 ( wg D.Ś. ) ( Joseph Wenceslas wg D.O.T.W.A.C.A.G.H. ) [Prince of Liechtenstein]
+  Antoni Florian    		                                1718-1719 ( wg D.Ś. ) ( Anthony Florian wg D.O.T.W.A.C.A.G.H. ) [Prince of Liechtenstein]
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Duchy of Schleswig
   Knut Lavard 	                                        ok.1120-1131 ( Kanut Laward (Knud Lavard) wg W.W.K.R. )
@@ -29168,12 +29205,13 @@ Uzbekistan ( Uzbekistán )
   Bibliografia :
       Tamerlane - Sword of Islam, Conqueror of the World
 
-Seniorat Vaduz i Schellenbergu
-  Jan Adam I         	                                  1712
-  Józef Wacław		                                      1712-1718
-  Antoni Florian    		                                1718-1719
+Seniorat Vaduz
+  Jan Adam I         	                                  1712 ( wg D.Ś. ) ( John Adam I wg D.O.T.W.A.C.A.G.H. ) [Lord of Schellenberg]
+  Józef Wacław		                                      1712-1718 ( wg D.Ś. ) ( Joseph Wenceslas wg D.O.T.W.A.C.A.G.H. ) [Prince of Liechtenstein]
+  Antoni Florian    		                                1718-1719 ( wg D.Ś. ) ( Anthony Florian wg D.O.T.W.A.C.A.G.H. ) [Prince of Liechtenstein]
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Valabhí
   Dharaséna IV		                                      644-ok.653
@@ -29233,15 +29271,16 @@ County of Vermandois
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Dynasties of the World - A Chronological and Genealogical Handbook
 
-Królestwo Vestfold ( Kingdom of Vestfold )
+Królestwo Vestfold ( Kingdom of Vestfold , Westfold )
   Gudrød of Vestfold                                    ? ( wg N.T.V.S. )
-  Halfdan Czarny 	                                      ? ( wg D.Ś. ) ( Halfdan the Black wg N.T.V.S. )
+  Halfdan Czarny 	                                      ? ( wg D.Ś. ) ( Halfdan the Black wg N.T.V.S. i D.O.T.W.A.C.A.G.H. )
   Harald Fairhair                                       przed ok.870 n.e.-? ( Harald wg N.T.V.S. ) [King of Norway]
   Gudred Bjørnsson                                      przed 960-po 962 ( wg N.T.V.S. )
   Harald Grenske                                        ? [King of Agder] ( wg N.T.V.S. )
   Bibliografia :
       Dynastie Świata
       Northmen - The Viking Saga 793-1241
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Vicenza
   podesta
@@ -29761,13 +29800,14 @@ West Ukrainian Socialist Republic
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Królestwo Westfalii
-  Dynastia Bonaparte
-    Hieronim Napoleon                                   1807-1813 ( wg D.Ś. )
+Królestwo Westfalii ( The Kingdom of Westphalia )
+  Dynastia Bonaparte ( House of Bonaparte )
+    Hieronim Napoleon                                   1807-1813 ( wg D.Ś. ) ( Jerome Napoleon wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Girolamo ( Jerôme ) wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Wetulonia
   Bibliografia :

@@ -31,6 +31,7 @@ books - The Demon-Haunted World: Science as a Candle in the Dark - Carl Sagan
       - Artificial Intelligence for Humans, Volume 2: Nature-Inspired Algorithms - Jeff Heaton
       - Artificial Intelligence for Humans, Volume 3: Deep Learning and Neural Networks - Jeff Heaton
       - Dejiny Libye - Eduard Gombar
+      - Dynastie Świata - Przewodnik chronologiczny i genealogiczny - John E.Morby
       - Let Over Lambda - Doug Hoyte
       - Surfing Uncertainty: Prediction, Action, and the Embodied Mind - Andy Clark
       - Evil: Inside Human Violence and Cruelty - Roy Baumeister
