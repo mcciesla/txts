@@ -695,6 +695,11 @@ Amazonki
       Thrákové
       Mity pięciu części świata
 
+Ambohimanga
+  Andriantsimitoviaminandriana                          ok.1710 n.e.-? ( wg D.O.T.W.A.C.A.G.H. ) [King of Madagascar]
+  Bibliografia :
+      Dynasties of the World - A Chronological and Genealogical Handbook
+
 Ambrakia
   Periandros	                                          ?
   Bibliografia :
@@ -2612,36 +2617,40 @@ Emirat Aydin
   Bibliografia :
       Dějiny Byzance
 
-Imperium Azteków ( Aztecs )
+Imperium Azteków ( Aztecs , The Aztec Empire )
   Acamapichtli                                          1372-1391 ( wg D.Ś. )
       							                                    1377-1389 ( wg E.P. )
       							                                    ? ( Akamapicztli wg M.P.C.Ś. )
-  Huitzilihuitl                                       	1391-1416
+                                                        ok.1372-ok.1391 ( wg D.O.T.W.A.C.A.G.H. )
+  Huitzilihuitl                                       	1391-1416 ( wg D.Ś. )
+                                                        ok.1391-ok.1416 ( wg D.O.T.W.A.C.A.G.H. )
   Chimalpopoca                                         	1416-1427 ( wg D.Ś. )
       							                                    1414-1428 ( Čimalpopoka wg E.P. )
+                                                        ok.1416-ok.1427 ( wg D.O.T.W.A.C.A.G.H. )
   Itzcoatl                                             	1427-1440 ( wg D.Ś. i Ř.S.J.Ď.S. )
       							                                    1428-1440 ( wg E.P. )
+                                                        ok.1427-ok.1440 ( wg D.O.T.W.A.C.A.G.H. )
   Moteuczoma ( Montezuma ) I Ilhuicamina	              1440-1468 ( wg D.Ś. )
       					           		                          ok.1390-ok.1464 ( wg O.A. )
       							                                    1440-1469 ( Moctezuma I Illhuicamin wg E.P. )
                                                         ? ( Motecuhzoma I Ilhiocamin wg Ř.S.J.Ď.S. )
-  Axaycatl                                             	1468-1481
-  Tizoc                                                	1481-1486
-  Ahuitzotl                                            	1486-1502
-  Moteuczoma II Xocoyotzin                           	  1502-1520 ( wg D.Ś. )
-      					            		                        1502-1520 ( ?-czerwiec ) ( Montezuma II wg O.A. )
+                                                        ok.1440-ok.1468 ( Moteuczoma I wg D.O.T.W.A.C.A.G.H. )
+  Axaycatl                                             	1468-1481 ( wg D.Ś. )
+                                                        ok.1468-1481 ( wg D.O.T.W.A.C.A.G.H. )
+  Tizoc                                                	1481-1486 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Ahuitzotl                                            	1486-1502 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Moteuczoma II Xocoyotzin                           	  1502-1520 ( wg D.Ś. ) ( Moteuczoma II wg D.O.T.W.A.C.A.G.H. )
+      					            		                        1502-1520 (?-czerwiec) ( Montezuma II wg O.A. )
       					            		                        przed 1519-1520 ( wg 100.N.V.S. )
        					                        	              ? ( Montezuma wg W.C.M.A.I.I. i Z..V.C. i A.S.A.O.T.D.O.T.I. ) ( Montekosoma wg M.P.C.Ś. )
       							                                    1503-1520 ( Moctezuma II Xocoyotzin wg E.P. )
-                                                        przed 1519-? ( 8.11.-? ) ( Motecuhzoma wg Ř.S.J.Ď.S. )
+                                                        przed 1519-? (8.11.-?) ( Motecuhzoma wg Ř.S.J.Ď.S. )
                                                         przed 1519-? ( Montezuma II wg S.A.B.H.O.H. )
-  Cuitlahuac                                           	1520 ( wg D.Ś. )
-      					            		                        1520 ( czerwiec-październik ) ( Cuitlahuaca wg O.A. )
+  Cuitlahuac                                           	1520 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      					            		                        1520 (czerwiec-październik) ( Cuitlahuaca wg O.A. )
                                                         ?-1520 ( Cuitláhuac wg E.P. )
-  Cuauhtemoc                                           	1520-1521 ( wg D.Ś. )
-      					            	                          1520-1521 ( ?-13.8. ) ( Cuahtémoc wg O.A. i E.P. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
+  Cuauhtemoc                                           	1520-1521 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      					            	                          1520-1521 (?-13.8.) ( Cuahtémoc wg O.A. i E.P. )
   Bibliografia :
       Dynastie Świata
       100 nejvlivnějších vojevůdců světa
@@ -2653,6 +2662,7 @@ Imperium Azteków ( Aztecs )
       A Short Account Of The Destruction Of The Indies
       Říše slova - Jazykové dějiny světa
       Sapiens - A Brief History of Humankind
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Azuhinum
   Tahiszatili                                           ok.2125 p.n.e.
@@ -3671,24 +3681,23 @@ Birma ( Myanmar , Mjanmar , Barma , Burma )
   Mranma ( Pagan )
     Narathihipate                                       przed 1273-1286 ( wg K.W.N.I.W.D. )
     Thihathu                                            1286-? ( wg K.W.N.I.W.D. )
-  Królestwo Birmy
-    Dynastia Konbaung
-      Alaungpaja         	                              1752-1760
-      Naungdawgji      	                                1760-1763
-      Hsinbjuszin         	                            1763-1776
-      Singu                  	                          1776-1782
-      Maumg Maung	                                      1782
-      Bodawpaja          	                              1782-1819
-      Bagjidaw             	                            1819-1837
-      Tharrawaddy       	                              1837-1846
-      Pagan                   	                        1846-1853
-      Mindon                	                          1853-1878
-      Thibaw                 	                          1878-1885
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
+  Królestwo Birmy ( The Kingdom of Burma )
+    Dynastia Konbaung ( Konbaung Dynasty )
+      Alaungpaja         	                              1752-1760 ( wg D.Ś. ) ( Alaungpaya wg D.O.T.W.A.C.A.G.H. )
+      Naungdawgji      	                                1760-1763 ( wg D.Ś. ) ( Naungdawgyi wg D.O.T.W.A.C.A.G.H. )
+      Hsinbjuszin         	                            1763-1776 ( wg D.Ś. ) ( Hsinbyushin wg D.O.T.W.A.C.A.G.H. )
+      Singu                  	                          1776-1782 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Maumg Maung	                                      1782 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Bodawpaja          	                              1782-1819 ( wg D.Ś. ) ( Bodawpaya wg D.O.T.W.A.C.A.G.H. )
+      Bagjidaw             	                            1819-1837 ( wg D.Ś. ) ( Bagyidaw wg D.O.T.W.A.C.A.G.H. )
+      Tharrawaddy       	                              1837-1846 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Pagan                   	                        1846-1853 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Mindon                	                          1853-1878 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Thibaw                 	                          1878-1885 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       Kubiłaj-chan - władca największego imperium w dziejach
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Bistonowie
   Diomédés                                              ?
@@ -3740,7 +3749,7 @@ Bitynia ( Bithynia )
         			           		                            297-? ( Zipoités wg S.H. )
                                                         297-ok.280 ( Zipoites wg D.O.T.W.A.C.A.G.H. )
     Nikomedes I                      	                  280-ok.242 ( wg A.Č. )
-                                                        280-250  ( wg D.Ś. )
+                                                        280-250 ( wg D.Ś. )
                                                         278-243 ( wg V.N.M.S.D. )
       			           		                              ok.280-ok.250 ( Nikomédés I wg T. ) ( Níkomédés wg E.P. ) ( Nicomedes I wg D.O.T.W.A.C.A.G.H. )
       			           		                              przed 278-po 264 ( Níkomédés I wg S.H. )
@@ -4168,13 +4177,16 @@ Brazylia ( Brazil )
   Kingdom of Brazil
     Maria I                                             1815-1816 ( wg D.O.T.W.A.C.A.G.H. ) [Queen of Portugal]
     John VI                                             1816-1822 ( wg D.O.T.W.A.C.A.G.H. ) [King of Portugal]
+  Cesarstwo Brazylii ( Brazilské císařství , Empire of Brazil )
+    Dynastia Bragança ( House of Braganza )
+      Pedro I         	                                1822-1831 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. ) [King of Portugal Pedro IV]
+      Pedro II		                                      1831-1889 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
+                                                        przed 1885-? ( wg P.N.D. )
+      Quadros Janio da Silva		                        1961 (?.1.-?.8.) ( Kvadrus wg E.P. )
+  Juscelino Kubitshek                                   przed 1959-? ( wg F.C.A.R.F. )
   Cesarstwo Brazylii ( Brazilské císařství )
     Dynastia Bragança
-      Pedro I         	                                1822-1831 ( wg D.Ś. i V.N.M.S.D. ) [King of Portugal Pedro IV]
-      Pedro II		                                      1831-1889 ( wg D.Ś. i V.N.M.S.D. )
-                                                        przed 1885-? ( wg P.N.D. )
-      Quadros Janio da Silva		                        1961 ( ?.1.-?.8. ) ( Kvadrus wg E.P. )
-  Juscelino Kubitshek                                   przed 1959-? ( wg F.C.A.R.F. )
+      Quadros Janio da Silva		                        1961 (?.1.-?.8.) ( Kvadrus wg E.P. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -6401,25 +6413,24 @@ Cures ( Kures )
   Bibliografia :
       Dzieje Rzymu
 
-Królestwo Cuzco
-  Manco Capac                	                          ok.1200 n.e. ( wg D.Ś. , Ř.I. i O.A. )
+Królestwo Cuzco ( The Kingdom of Cuzco )
+  Manco Capac                	                          ok.1200 n.e. ( wg D.Ś. i Ř.I. i O.A. i D.O.T.W.A.C.A.G.H. )
       			       	                                    ok.1300 ( wg W.C.M.A.I.I. )
                                                         ? ( wg Ř.S.J.Ď.S. )
-  Sinchi Roca		                                        ?
-  Lloque Yupanqui	                                      ?
-  Mayta Capac		                                        ?
-  Capac Yupanqui		                                    ?
-  Inca Roca		                                          ?
-  Yahuar Huacac		                                      ?
-  Viracocha Inca		                                    ?
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. , Ř.I. i O.A.
+  Sinchi Roca		                                        ? ( wg D.Ś. i Ř.I. i O.A. i D.O.T.W.A.C.A.G.H. )
+  Lloque Yupanqui	                                      ? ( wg D.Ś. i Ř.I. i O.A. i D.O.T.W.A.C.A.G.H. )
+  Mayta Capac		                                        ? ( wg D.Ś. i Ř.I. i O.A. i D.O.T.W.A.C.A.G.H. )
+  Capac Yupanqui		                                    ? ( wg D.Ś. i Ř.I. i O.A. i D.O.T.W.A.C.A.G.H. )
+  Inca Roca		                                          ? ( wg D.Ś. i Ř.I. i O.A. i D.O.T.W.A.C.A.G.H. )
+  Yahuar Huacac		                                      ? ( wg D.Ś. i Ř.I. i O.A. i D.O.T.W.A.C.A.G.H. )
+  Viracocha Inca		                                    ? ( wg D.Ś. i Ř.I. i O.A. i D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       Říše Inků
       Objavovanie Ameriky
       W Czasach Majów , Azteków i Inków
       Říše slova - Jazykové dějiny světa
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Cylicja ( Chilaku , Kilikie )
   Sanduarri         	                                  ok.670 p.n.e. ( wg F. )
@@ -9237,64 +9248,79 @@ Esznunna ( Ešnunna )
 
 Etiopia ( Ethiopia , Abisynia )
   Aso			                                              ? ( wg M.P.C.Ś. )
-  Dynastia salomońska
+  Dynastia salomońska ( Solomonic Dynasty )
     Jykuno ´Amlak        	                              1270-1285 ( wg D.Ś. )
+                                                        ok.1270-ok.1285 ( Yekuno 'Amlak wg D.O.T.W.A.C.A.G.H. )
     Jagby´a Tsyjon        	                            1285-1294 ( wg D.Ś. )
+                                                        ok.1285-ok.1294 ( Yagbe´a Seyon wg D.O.T.W.A.C.A.G.H. )
     Uyddym Ra´ad        	                              1299-1314 ( wg D.Ś. )
+                                                        ok.1299-ok.1314 ( Wedem Ra´ad wg D.O.T.W.A.C.A.G.H. )
     ´Amde Tsyjon I       	                              1314-1344 ( wg D.Ś. )
+                                                        ok.1314-ok.1344 ( ´Amda Seyon I wg D.O.T.W.A.C.A.G.H. )
     Nyuaje Krystos        	                            1344-1371 ( wg D.Ś. )
+                                                        ok.1344-ok.1371 ( Newaya Krestos wg D.O.T.W.A.C.A.G.H. )
     Nyuaje Marjam         	                            1371-1380 ( wg D.Ś. )
+                                                        ok.1371-ok.1380 ( Newaya Maryam wg D.O.T.W.A.C.A.G.H. )
     Dawid I                    	                        1380-1412 ( wg D.Ś. )
+                                                        ok.1380-ok.1412 ( David I wg D.O.T.W.A.C.A.G.H. )
     Teodor I                   	                        1412-1413 ( wg D.Ś. )
+                                                        ok.1412-ok.1413 ( Theodore I wg D.O.T.W.A.C.A.G.H. )
     Izaak                        	                      1413-1430 ( wg D.Ś. )
+                                                        ok.1413-ok.1430 ( Isaac wg D.O.T.W.A.C.A.G.H. )
     Andrzej                    	                        1430 ( wg D.Ś. )
+                                                        ok.1430 ( Andrew wg D.O.T.W.A.C.A.G.H. )
     Tekle Marjam          	                            1430-1433 ( wg D.Ś. )
+                                                        ok.1430-ok.1433 ( Takla Maryam wg D.O.T.W.A.C.A.G.H. )
     Syrue Ijesus              	                        1433 ( wg D.Ś. )
+                                                        ok.1433 ( Sarwe Iyasus wg D.O.T.W.A.C.A.G.H. )
     ´Amde Ijesus            	                          1433-1434 ( wg D.Ś. )
+                                                        ok.1433-ok.1434 ( ´Amda Iyasus wg D.O.T.W.A.C.A.G.H. )
     Zer´a Jaykob             	                          1434-1468 ( wg D.Ś. )
-    Beyde Marjam I        	                            1468-1478 ( wg D.Ś. )
-    Aleksander                	                        1478-1494 ( wg D.Ś. )
-    ´Amde Tsyjon II       	                            1494 ( wg D.Ś. )
-    Naod                         	                      1494-1508 ( wg D.Ś. )
-    Lybne Dyngyl           	                            1508-1540 ( wg D.Ś. ) ( Lebna Dengel wg E.P. )
-    Klaudiusz                  	                        1540-1559 ( wg D.Ś. )
-    Minas                        	                      1559-1563 ( wg D.Ś. )
-    Sertse Dyngyl           	                          1563-1597 ( wg D.Ś. )
-    Jakub                         	                    1597-1603 i 1604-1607 ( wg D.Ś. )
-    Za Dyngyl                 	                        1603-1604 ( wg D.Ś. )
-    Susnyjos                    	                      1607-1632 ( wg D.Ś. )
-    Fasiledes                    	                      1632-1667 ( wg D.Ś. )
-    Jan I                           	                  1667-1682 ( wg D.Ś. )
-    Ijasu I Wielki             	                        1682-1706 ( wg D.Ś. )
-    Tekle Hajmanot I       	                            1706-1708 ( wg D.Ś. )
-    Teofil                          	                  1708-1711 ( wg D.Ś. )
-    Justus                         	                    1711-1716 ( wg D.Ś. )
-    Dawid III                    	                      1716-1721 ( wg D.Ś. )
-    ´Asme Gijorgis           	                          1721-1730 ( wg D.Ś. )
-    Ijasu II Mały               	                      1730-1755 ( wg D.Ś. )
-    Ijoas I                          	                  1755-1769 ( wg D.Ś. )
-    Jan II                           	                  1769 ( wg D.Ś. )
-    Tekle Hajmanot II	                                  1769-1777 ( wg D.Ś. )
-    Teodor II                     	                    1854-1855 ( wg D.Ś. )
-  Cesarstwo Etiopii
-    Dynastia salomońska
-      Teodor II                       	                1855-1868 ( wg D.Ś. )
-      Tekle Gijirgis II            	                    1868-1871 ( wg D.Ś. )
-      Jan IV                           	                1872-1889 ( wg D.Ś. )
-      Menelik II                     	                  1889-1913 ( wg D.Ś. )
-      Lydż Ijasu ( Ijasu V )	                          1913-1916 ( wg D.Ś. )
-      Zeuditu                          	                1916-1930 ( wg D.Ś. )
-      Hajle Sylassje I              	                  1930-1936 i 1941-1974 ( wg D.Ś. )
+                                                        ok.1434-1468 ( Za'ra Ya´qob wg D.O.T.W.A.C.A.G.H. )
+    Beyde Marjam I        	                            1468-1478 ( wg D.Ś. ) ( Ba'eda Maryam I wg D.O.T.W.A.C.A.G.H. )
+    Aleksander                	                        1478-1494 ( wg D.Ś. ) ( Alexander wg D.O.T.W.A.C.A.G.H. )
+    ´Amde Tsyjon II       	                            1494 ( wg D.Ś. ) ( ´Amda Seyon II wg D.O.T.W.A.C.A.G.H. )
+    Naod                         	                      1494-1508 ( wg D.Ś. ) ( Na´od wg D.O.T.W.A.C.A.G.H. )
+    Lybne Dyngyl           	                            1508-1540 ( wg D.Ś. ) ( Lebna Dengel wg E.P. ) ( Lebna Dengel (David II) wg D.O.T.W.A.C.A.G.H. )
+    Klaudiusz                  	                        1540-1559 ( wg D.Ś. ) ( Claudius wg D.O.T.W.A.C.A.G.H. )
+    Minas                        	                      1559-1563 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Sertse Dyngyl           	                          1563-1597 ( wg D.Ś. ) ( Sarsa Dengel wg D.O.T.W.A.C.A.G.H. )
+    Jakub                         	                    1597-1603 i 1604-1607 ( wg D.Ś. ) ( Jacob wg D.O.T.W.A.C.A.G.H. )
+    Za Dyngyl                 	                        1603-1604 ( wg D.Ś. ) ( Za Dengel wg D.O.T.W.A.C.A.G.H. )
+    Susnyjos                    	                      1607-1632 ( wg D.Ś. ) ( Susenyos wg D.O.T.W.A.C.A.G.H. )
+    Fasiledes                    	                      1632-1667 ( wg D.Ś. ) ( Fasiladas wg D.O.T.W.A.C.A.G.H. )
+    Jan I                           	                  1667-1682 ( wg D.Ś. ) ( John I wg D.O.T.W.A.C.A.G.H. )
+    Ijasu I Wielki             	                        1682-1706 ( wg D.Ś. ) ( Iyasu I (Iyasu I the Great) wg D.O.T.W.A.C.A.G.H. )
+    Tekle Hajmanot I       	                            1706-1708 ( wg D.Ś. ) ( Takla Haymanot I wg D.O.T.W.A.C.A.G.H. )
+    Teofil                          	                  1708-1711 ( wg D.Ś. ) ( Theophilus wg D.O.T.W.A.C.A.G.H. )
+    Justus                         	                    1711-1716 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Dawid III                    	                      1716-1721 ( wg D.Ś. ) ( David III wg D.O.T.W.A.C.A.G.H. )
+    ´Asme Gijorgis           	                          1721-1730 ( wg D.Ś. ) ( 'Asma Giyorgis wg D.O.T.W.A.C.A.G.H. )
+    Ijasu II Mały               	                      1730-1755 ( wg D.Ś. ) ( Iyasu II (Iyasu II the Little) wg D.O.T.W.A.C.A.G.H. )
+    Ijoas I                          	                  1755-1769 ( wg D.Ś. ) ( Iyo'as I wg D.O.T.W.A.C.A.G.H. )
+    Jan II                           	                  1769 ( wg D.Ś. ) ( John II wg D.O.T.W.A.C.A.G.H. )
+    Tekle Hajmanot II	                                  1769-1777 ( wg D.Ś. ) ( Takla Haymanot II wg D.O.T.W.A.C.A.G.H. )
+    Teodor II                     	                    1854-1855 ( wg D.Ś. ) ( Theodore II wg D.O.T.W.A.C.A.G.H. ) [Emperor of Ethiopia]
+  Cesarstwo Etiopii ( The Ethiopian Empire )
+    Dynastia salomońska ( Solomonic Dynasty )
+      Teodor II                       	                1855-1868 ( wg D.Ś. ) ( Theodore II wg D.O.T.W.A.C.A.G.H. )
+      Tekle Gijirgis II            	                    1868-1871 ( wg D.Ś. ) ( Takla Giyorgis II (Gobaze) wg D.O.T.W.A.C.A.G.H. )
+      Jan IV                           	                1872-1889 ( wg D.Ś. ) ( John IV wg D.O.T.W.A.C.A.G.H. )
+      Menelik II                     	                  1889-1913 ( wg D.Ś. ) ( Menelik II wg D.O.T.W.A.C.A.G.H. )
+      Lydż Ijasu ( Ijasu V )	                          1913-1916 ( wg D.Ś. ) ( Lij Iyasu (Iyasu V) wg D.O.T.W.A.C.A.G.H. )
+      Zeuditu                          	                1916-1930 ( wg D.Ś. ) ( Zawditu wg D.O.T.W.A.C.A.G.H. )
+      Hajle Sylassje I              	                  1930-1936 i 1941-1974 ( wg D.Ś. ) ( Haile Selassie I wg D.O.T.W.A.C.A.G.H. )
   Królestwo Etiopii ( Kingdom of Abyssinia , Empire of Ethiopia )
     Vittorio Emanuele III                               1936-1943 ( Victor Emmanuel III wg D.O.T.W.A.C.A.G.H. ) [King of Italy] [King of Albania]
                                                         ? ( wg V.K.T.H.O.H.E. )
-    Dynastia salomońska
-      Asfa Uessen          		                          1974-1975 ( wg D.Ś. )
+    Dynastia salomońska ( Solomonic Dynasty )
+      Asfa Uessen          		                          1974-1975 ( wg D.Ś. ) ( Asfa Wossen wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       Encyklopedie panovníků
       Mity pięciu części świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Etna
   Dejnomenes                                            ?
@@ -11158,29 +11184,31 @@ Hattina ( Unki )
   Bibliografia :
       Starożytny Bliski Wschód
 
-Hawaje
-  Królestwo Hawajów
+Hawaje ( Hawaii )
+  Królestwo Hawajów ( The Kingdom of Hawaii )
     Kamehameha				                                  ? ( wg M.P.C.Ś. )
-    Kamehameha I                                       	1795-1819
-    Kamehameha II ( Liholiho )                    	    1819-1824
-    Kamehameha III ( Kauikeaouli )             	        1825-1854
-    Kamehameha IV ( Aleksander Liholiho )	              1854-1863
-    Kamehameha V ( Lot Kamehameha )   	                1863-1872
-    Lunalilo ( Wilhelm C. Lunalilo )              	    1873-1874
-    Kalkaua ( Dawid Kalakaua )                    	    1874-1891
-    Liliuokalani                                       	1891-1893
-  Republika Hawajów
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
+    Kamehameha I                                       	1795-1819 ( wg D.Ś. )
+                                                        1782/91/95-1819 ( wg D.O.T.W.A.C.A.G.H. )
+    Kamehameha II ( Liholiho )                    	    1819-1824 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Kamehameha III ( Kauikeaouli )             	        1825-1854 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Kamehameha IV ( Aleksander Liholiho )	              1854-1863 ( wg D.Ś. ) ( Alexander Liholiho wg D.O.T.W.A.C.A.G.H. )
+    Kamehameha V ( Lot Kamehameha )   	                1863-1872 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Lunalilo ( Wilhelm C. Lunalilo )              	    1873-1874 ( wg D.Ś. ) ( William C Lunalilo wg D.O.T.W.A.C.A.G.H. )
+    Kalkaua ( Dawid Kalakaua )                    	    1874-1891 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Liliuokalani                                       	1891-1893 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Republika Hawajów ( Republic of Hawaii )
   Bibliografia :
       Dynastie Świata
       Mity pięciu części świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Ha´apai
-  Dynastia Tupou
-    Jerzy Tupou I                                       ok.1820 n.e.
+  Dynastia Tupou ( Tupou Dynasty )
+    Jerzy Tupou I                                       ok.1820 n.e. ( wg D.Ś. ) [King of Tonga]
+                                                        1820-? ( George Tupou I wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Hebrides
   Ketil Flatnose                                        ? ( wg N.T.V.S. )
@@ -11960,21 +11988,24 @@ Indrapura
   Bibliografia :
       Khmerové
 
-Imperium Inków ( Inca Empire , Incas )
+Imperium Inków ( Inca Empire , Incas , The Inca Empire )
   Pachacuti           		                              1438-1471 ( wg D.Ś. i Ř.I. i O.A. )
       				                                          1438-1463(1471) ( Pačakuti wg E.P. )
                                                         ? ( wg Ř.S.J.Ď.S. )
+                                                        ok.1438-ok.1471 ( wg D.O.T.W.A.C.A.G.H. )
   Topa Inca          		                                1471-1493 ( wg D.Ś. i Ř.I. ) ( Tupac Inca wg O.A. )
                                                         ? ( Tupac Yupangui wg Ř.S.J.Ď.S. )
+                                                        ok.1471-ok.1493 ( wg D.O.T.W.A.C.A.G.H. )
   Huayna Capac		                                      1493-1524 ( wg D.Ś. )
                                            		          1493-1527 ( wg Ř.I. i O.A. ) ( Huajna Kapak wg E.P. )
                                             		        ?-( między 1525 i 1527 ) ( wg D.Ř.I. )
       				                                          1493-? ( wg V.R.M. )
                                                         przed 1525-? ( Huayanu Capac wg Ř.S.J.Ď.S. )
-  Huascar             		                              1524-1532  ( wg D.Ś. )
+                                                        ok.1493-1524 ( wg D.O.T.W.A.C.A.G.H. )
+  Huascar             		                              1524-1532 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                            		          1527-1532 ( wg Ř.I. i O.A. ) ( Huáscar wg E.P. )
       			                                            przed 1528-1532 ( wg V.R.M. )
-  Atauhuallpa       		                                1532 ( wg D.Ś. i Ř.I. )
+  Atauhuallpa       		                                1532 ( wg D.Ś. i Ř.I. i D.O.T.W.A.C.A.G.H. )
                                             		        ?-1533 ( wg D.Ř.I. )
       		          		                                ok.1532 ( wg 100.N.V.S. )
       		          		                                1527(1532)-1533 ( ?-29.8. ) ( wg O.A. )
@@ -11997,6 +12028,7 @@ Imperium Inków ( Inca Empire , Incas )
       A Short Account Of The Destruction Of The Indies
       Říše slova - Jazykové dějiny světa
       Sapiens - A Brief History of Humankind
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Iolkos
   Aison		                                              ? ( wg Z.Ř. )
@@ -13563,32 +13595,35 @@ Kamarina
   Bibliografia :
       Starożytne Cywilizacje
 
-Kambodża ( Kambodža )
-  Królestwo Kambodży
-    Eng                           	                    1779-1783 i 1794-1797 ( wg D.Ś. )
+Kambodża ( Kambodža , Cambodia )
+  Królestwo Kambodży ( Kingdom of Cambodia )
+    Eng                           	                    1779-1783 i 1794-1797 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       			         	                                  1794 -? ( wg K. )
-    Chan                         	                      1797-1835 ( wg D.Ś. )
+    Chan                         	                      1797-1835 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       			         	                                  1806-1835 ( wg K. )
-    Mei                            	                    1835-1847 ( wg D.Ś. )
-    Duang                        	                      1847-1860 ( wg D.Ś. )
-    Norodom                   	                        1860-1904 ( wg D.Ś. )
-    Sisowath                    	                      1904-1927 ( wg D.Ś. )
+    Mei                            	                    1835-1847 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Duang                        	                      1847-1860 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Norodom                   	                        1860-1904 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Sisowath                    	                      1904-1927 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       			         	                                  1904 -? ( wg K. )
-    Monivong                   	                        1927-1941 ( wg D.Ś. ) ( Sisowath Monivong wg K. )
-    Norodom Sihanouk    	                              1941-1955 i 1993-? ( wg D.Ś. )
+    Monivong                   	                        1927-1941 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Sisowath Monivong wg K. )
+    Norodom Sihanouk    	                              1941-1955 i 1993-? ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       			         	                                  1941-1955 i 1993-? ( ?-początek i ? ) ( Norodom Sihanuk wg K. )
-    Norodom Suramarit	                                  1955-1960 ( wg D.Ś. ) ( Norodom Suramarita wg K. )
-  Norodom Sihanouk   	                                  1960-1970 ( wg D.Ś. )
+    Norodom Suramarit	                                  1955-1960 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Norodom Suramarita wg K. )
+  Norodom Sihanouk   	                                  1960-1970 ( wg D.Ś. ) [King of Cambodia]
   Pol Pot                       	                      1976-1979 ( wg K. )
                                                         ?-1978 ( Polpot wg A.Č.D. )
                                                         przed 1975-po 1979 ( wg E.N.T.C.F.R.S.H.A.P. )
                                                         ? ( Saloth Sar wg T.R.L.Z.S.L.R.S.B. )
+  presidents
+    Norodom Sihanouk                                    1991-1993 ( wg D.O.T.W.A.C.A.G.H. ) [King of Cambodia]
   Bibliografia :
       Dynastie Świata
       Khmerové
       Atlas čínských dějin
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Kameiros
   Bibliografia :
@@ -14668,33 +14703,34 @@ Korea
     Ko Choson ( Stary Choson )
     Dynastia Yi ( Li , Yi Dynasty )
       T´aejo ( Yi Songgye )		                          1392-1398 ( wg D.Ś. )
-      Chongjong                    	                    1398-1400 ( wg D.Ś. )
-      T´aejong                       	                  1400-1418 ( wg D.Ś. )
-      Sejong                          	                1418-1450 ( wg D.Ś. )
-      Munjong                       	                  1450-1452 ( wg D.Ś. )
-      Tanjong                        	                  1452-1455 ( wg D.Ś. )
-      Sejo                             		              1455-1468 ( wg D.Ś. )
-      Yejong                         		                1468-1469 ( wg D.Ś. )
-      Songjong                      	                  1469-1494 ( wg D.Ś. )
-      Yonsan-gun                  	                    1494-1506 ( wg D.Ś. )
-      Chungjong                    	                    1506-1544 ( wg D.Ś. )
-      Injong                           	                1544-1545 ( wg D.Ś. )
-      Myongjong                   	                    1545-1567 ( wg D.Ś. )
-      Sonjo                            	                1567-1608 ( wg D.Ś. )
-      Kwanghae-gun             	                        1608-1623 ( wg D.Ś. )
-      Injo                               	              1623-1649 ( wg D.Ś. )
-      Hyojong                        	                  1649-1659 ( wg D.Ś. )
-      Hyonjong                      	                  1659-1674 ( wg D.Ś. )
-      Sukchong                      	                  1674-1720 ( wg D.Ś. )
-      Kyongjong                    	                    1720-1724 ( wg D.Ś. )
-      Yongjo                          	                1724-1776 ( wg D.Ś. )
-      Chongjo                        	                  1776-1800 ( wg D.Ś. )
-      Sunjo                            	                1800-1834 ( wg D.Ś. )
-      Honjong                       		                1834-1849 ( wg D.Ś. )
-      Ch´olchong                   	                    1849-1864 ( wg D.Ś. )
-      Kojong                          	                1864-1907 ( wg D.Ś. )
+                                                        1388/92-1398 ( T'aejo (Yi Sŏnggye) wg D.O.T.W.A.C.A.G.H. )
+      Chongjong                    	                    1398-1400 ( wg D.Ś. ) ( Chŏngjong wg D.O.T.W.A.C.A.G.H. )
+      T´aejong                       	                  1400-1418 ( wg D.Ś. ) ( T'aejong wg D.O.T.W.A.C.A.G.H. )
+      Sejong                          	                1418-1450 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Munjong                       	                  1450-1452 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Tanjong                        	                  1452-1455 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Sejo                             		              1455-1468 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Yejong                         		                1468-1469 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Songjong                      	                  1469-1494 ( wg D.Ś. ) ( Sŏngjong wg D.O.T.W.A.C.A.G.H. )
+      Yonsan-gun                  	                    1494-1506 ( wg D.Ś. ) ( Yŏnsan-gun wg D.O.T.W.A.C.A.G.H. )
+      Chungjong                    	                    1506-1544 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Injong                           	                1544-1545 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Myongjong                   	                    1545-1567 ( wg D.Ś. ) ( Myŏngjong wg D.O.T.W.A.C.A.G.H. )
+      Sonjo                            	                1567-1608 ( wg D.Ś. ) ( Sŏnjo wg D.O.T.W.A.C.A.G.H. )
+      Kwanghae-gun             	                        1608-1623 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Injo                               	              1623-1649 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Hyojong                        	                  1649-1659 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Hyonjong                      	                  1659-1674 ( wg D.Ś. ) ( Hyŏnjong wg D.O.T.W.A.C.A.G.H. )
+      Sukchong                      	                  1674-1720 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Kyongjong                    	                    1720-1724 ( wg D.Ś. ) ( Kyŏngjong wg D.O.T.W.A.C.A.G.H. )
+      Yongjo                          	                1724-1776 ( wg D.Ś. ) ( Yŏngjo wg D.O.T.W.A.C.A.G.H. )
+      Chongjo                        	                  1776-1800 ( wg D.Ś. ) ( Chŏngjo wg D.O.T.W.A.C.A.G.H. )
+      Sunjo                            	                1800-1834 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Honjong                       		                1834-1849 ( wg D.Ś. ) ( Hŏnjong wg D.O.T.W.A.C.A.G.H. )
+      Ch´olchong                   	                    1849-1864 ( wg D.Ś. ) ( Ch'ŏlchong wg D.O.T.W.A.C.A.G.H. )
+      Kojong                          	                1864-1907 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ?-1907 ( wg D.J. )
-      Sunjong                         	                1907-1910 ( wg D.Ś. )
+      Sunjong                         	                1907-1910 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Dynastia Ri
     Jongdžo			                                        1725-1776 ( wg E.P. )
     Čongdžo			                                        1776-1800 ( wg E.P. )
@@ -15985,12 +16021,13 @@ County of Langres
 
 Laos
   Šrídévaníka                                           ? ( wg Ř.S.J.Ď.S. )
-  Królestwo Laosu
-    Sisavangvong       	                                1946-1959 ( wg D.Ś. )
-    Savangvatthana		                                  1959-1975 ( wg D.Ś. )
+  Królestwo Laosu ( The Kingsom of Laos , Kingdom of Laos )
+    Sisavangvong       	                                1946-1959 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Savangvatthana		                                  1959-1975 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       Říše slova - Jazykové dějiny světa
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Lapethos
   Demonik           	                                  ok.500 p.n.e.
@@ -16225,18 +16262,23 @@ Lerna
   Bibliografia :
       Dzieje Grecji
 
-Królestwo Lesotho
-  Dynastia Koena
-    Moshoeshoe I      	                                1828-1870
-    Letsie I                 	                          1870-1891
-    Lerotholi              	                            1891-1905
-    Letsie II                	                          1905-1913
-    Griffith                  	                        1913-1939
-    Seeiso                    	                        1939-1940
-    Moshoeshoe II	                                      1960-1990
-    Letsie III                	                        1990-?
+Lesotho
+  Basutoland
+    Dynastia Koena ( Koena Dynasty )
+      Moshoeshoe I      	                              1828-1870 ( wg D.Ś. ) ( Moshweshwe I wg D.O.T.W.A.C.A.G.H. )
+      Letsie I                 	                        1870-1891 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Lerotholi              	                          1891-1905 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Letsie II                	                        1905-1913 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Griffith                  	                      1913-1939 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Seeiso                    	                      1939-1940 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Moshoeshoe II	                                    1960-1966 ( wg D.Ś. ) ( Moshweshwe II wg D.O.T.W.A.C.A.G.H. ) [King of Lesotho]
+  Królestwo Lesotho ( The Kingdom of Lesotho )
+    Dynastia Koena ( Koena Dynasty )
+      Moshoeshoe II	                                    1966-1990 ( wg D.Ś. ) ( Moshweshwe II wg D.O.T.W.A.C.A.G.H. )
+      Letsie III                	                      1990-? ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Duchy of Lesser Burgundy ( Duchy of Burgundia Minor )
   Conrad von Zähringen                                  1127 n.e.-?
@@ -16762,22 +16804,29 @@ County of Louvain
   Bibliografia :
       Dynasties of the World - A Chronological and Genealogical Handbook
 
-Królestwo Luang Prabang
-  Kingkitsarat       		                                1707-1713
-  Ong Nok            		                                1713-1723
-  Inthasom            	                                1723-1749
-  Inthaphon           	                                1749-1750
-  Sotikakuman      	                                    1750-1771
-  Suriyavong         	                                  1771-1791
-  Anuruttha           		                              1791-1816
-  Mangthaturat      	                                  1816-1837
-  Suksoem             	                                1837-1850
-  Chantharat          	                                1850-1870
-  Un Kham            	                                  1870-1891
-  Sakkarin             	                                1891-1904
-  Sisavangvong		                                      1904-1945
+Królestwo Luang Prabang ( Kingdom of Luang Prabang )
+  Kingkitsarat       		                                1707-1713 ( wg D.Ś. )
+                                                        ok.1707-ok.1713 ( wg D.O.T.W.A.C.A.G.H. )
+  Ong Nok            		                                1713-1723 ( wg D.Ś. )
+                                                        ok.1713-ok.1723 ( wg D.O.T.W.A.C.A.G.H. )
+  Inthasom            	                                1723-1749 ( wg D.Ś. )
+                                                        ok.1723-ok.1749 ( wg D.O.T.W.A.C.A.G.H. )
+  Inthaphon           	                                1749-1750 ( wg D.Ś. )
+                                                        ok.1749-ok.1750 ( wg D.O.T.W.A.C.A.G.H. )
+  Sotikakuman      	                                    1750-1771 ( wg D.Ś. )
+                                                        ok.1750-ok.1771 ( wg D.O.T.W.A.C.A.G.H. )
+  Suriyavong         	                                  1771-1791 ( wg D.Ś. )
+                                                        ok.1771-1791 ( wg D.O.T.W.A.C.A.G.H. )
+  Anuruttha           		                              1791-1816 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Mangthaturat      	                                  1816-1837 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Suksoem             	                                1837-1850 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Chantharat          	                                1850-1870 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Un Kham            	                                  1870-1891 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Sakkarin             	                                1891-1904 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Sisavangvong		                                      1904-1945 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [King of Laos]
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Lugiowie
   Semnon                                                ok.278 n.e.
@@ -17249,20 +17298,24 @@ Hrabstwo Macon
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
 
-Królestwo Madagaskaru
-  Dynastia Merina ( Andriana )
-    Andriantsimitoviaminandriana		                    1710-1735
-    Andriambelomasina                     	            1735-1760
-    Andrianjafy                                  	      1760-1783
-    Andrianampoinimerina                	              1783-1809
-    Radama I                                      	    1809-1828
-    Ranavalona I                                 	      1828-1861
-    Radama II                                     	    1861-1863
-    Rasoherina                                    	    1863-1868
-    Ranavalona II                               	      1868-1883
-    Ranavalona III                              	      1883-1896
+Królestwo Madagaskaru ( The Kingdom of Madagascar )
+  Dynastia Merina ( Andriana , Merina Dynasty , Andriana Dynasty )
+    Andriantsimitoviaminandriana		                    1710-1735 ( wg D.Ś. )
+                                                        ok.1710-ok.1735 ( wg D.O.T.W.A.C.A.G.H. )
+    Andriambelomasina                     	            1735-1760 ( wg D.Ś. )
+                                                        ok.1735-ok.1760 ( wg D.O.T.W.A.C.A.G.H. )
+    Andrianjafy                                  	      1760-1783 ( wg D.Ś. )
+                                                        ok.1760-ok.1783 ( wg D.O.T.W.A.C.A.G.H. )
+    Andrianampoinimerina                	              1783-1809 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Radama I                                      	    1809-1828 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Ranavalona I                                 	      1828-1861 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Radama II                                     	    1861-1863 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Rasoherina                                    	    1863-1868 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Ranavalona II                               	      1868-1883 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Ranavalona III                              	      1883-1896 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Madida ( Maranda )
 
@@ -18181,10 +18234,11 @@ Księstwo Meklemburgii ( Księstwo meklemburskie )
       Litwa - Początki Państw
 
 Meksyk ( Mexico )
-  Cesarstwo Meksyku
-    Agustín I Iturbide	                                1822-1823 ( wg D.Ś. )
-    Dynastia habsbursko-lotaryńska
-      Maksymilian I       	                            1864-1867 ( wg D.Ś. )
+  Cesarstwo Meksyku ( Empire of Mexico )
+    House of Iturbide
+      Agustín I Iturbide	                              1822-1823 ( wg D.Ś. ) ( Agustín I wg D.O.T.W.A.C.A.G.H. )
+    Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
+      Maksymilian I       	                            1864-1867 ( wg D.Ś. ) ( Maximilian I wg D.O.T.W.A.C.A.G.H. )
                                                       	1864-1884 ( wg V.N.M.S.D. )
       			          	                                ? ( Maxmilián wg V.R.M. )
   Republika Meksyku ( Mexická republika )
@@ -18197,6 +18251,7 @@ Meksyk ( Mexico )
       Velká nástěnná mapa světových dějin
       Války rudého muže
       Fidel & Che - A Revolutionary Friendship
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Melitene ( Meliddu , Meliddi , Malatya , Melid )
   Lalli                	                                ok.853 p.n.e. ( wg K.T.V.S.O. )
@@ -19501,30 +19556,33 @@ Nez Percé ( Czute-Pa-Lu , Nez Perce , Po-ge-hdo-ke )
                                                         przed 1855-po 1863 ( Timothy wg I.N.G.S. )
   Kalkalshnatash                         			        	przed 1868-? ( wg W.I.A.P. )
                                                         przed 1863-? ( Kalkalszuatasz ( Jason ) wg I.N.G.S. )
-  Joseph ( Hinmatowyalahtqit , Heinmot Tooyalaket )     przed 1873-1904 ( ?-21.9. ) ( Józef Młodszy (In-mut-too-yah-lat-lat , Hin-amh-too-yah-laht-ket) wg W.I.A.P. )
-                                                        1871-1904 ( ?-21.9. ) ( Hejnmot Towialaket (Grom nad Górami , Wódz Józef) wg I.N.G.S. )
+  Joseph ( Hinmatowyalahtqit , Heinmot Tooyalaket )     przed 1873-1904 (?-21.9.) ( Józef Młodszy (In-mut-too-yah-lat-lat , Hin-amh-too-yah-laht-ket) wg W.I.A.P. )
+                                                        1871-1904 (?-21.9.) ( Hejnmot Towialaket (Grom nad Górami , Wódz Józef) wg I.N.G.S. )
                         								                ? ( wg O.A. )
                                                         przed 1877-? ( wg Z.G.C.P.Z. )
-  Żaba					           	           		              przed 1873-1877 ( ?-1.10. )
-  Lusterko						         	                        przed 1873-1877 ( ?-4.10. ) ( wg W.I.A.P. )
+  Żaba					           	           		              przed 1873-1877 (?-1.10.)
+  Lusterko						         	                        przed 1873-1877 (?-4.10.) ( wg W.I.A.P. )
                                                         ?-1877 ( ?-30.9./1.10. ) ( Zwierciadło (Looking Glass) wg I.N.G.S. )
   Biały Ptak						         	                      przed 1873-po 1877 ( wg W.I.A.P. )
-                                                        przed 1877-po 1878 ( ?-lato ) ( White Bird wg I.N.G.S. )
-  Too-hool-hool-zote     				           		          przed 1873-1877 ( ?-1.10. ) ( wg W.I.A.P. )
-                                                        ?-1877 ( ?-30.9./1.10. ) ( Tuhulhulzot (Mocny Głos) wg I.N.G.S. )
+                                                        przed 1877-po 1878 (?-lato) ( White Bird wg I.N.G.S. )
+  Too-hool-hool-zote     				           		          przed 1873-1877 (?-1.10.) ( wg W.I.A.P. )
+                                                        ?-1877 (?-30.9./1.10.) ( Tuhulhulzot (Mocny Głos) wg I.N.G.S. )
   Żółty Byk                                             przed 1877-po 1904 ( wg I.N.G.S. )
   Olikut                                                ?-1877 ( wg I.N.G.S. )
-  Czerwone Echo					           		                  ?-1877 ( ?-9.8. )
-  Pięć Ran 						        	                        ?-1877 ( ?-9.8. )
-  Tęcza						           		                        ?-1877 ( ?-9.8. )
-  Szczupły Łoś                                          ?-1877 ( ?-30.9./1.10. ) ( wg I.N.G.S. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg W.I.A.P.
+  Czerwone Echo					           		                  ?-1877 (?-9.8.) ( wg W.I.A.P. )
+  Pięć Ran 						        	                        ?-1877 (?-9.8.) ( wg W.I.A.P. )
+  Tęcza						           		                        ?-1877 (?-9.8.) ( wg W.I.A.P. )
+  Szczupły Łoś                                          ?-1877 (?-30.9./1.10.) ( wg I.N.G.S. )
   Bibliografia :
       Objavovanie Ameriky
       Wielcy Indianie Ameryki Północnej
       Indiański Napoleon Gór Skalistych
       Złoto gór czarnych - Przekleństwo złota
+
+Ngwane
+  Sobhuza I                                             ok.1815 n.e.-? ( wg D.O.T.W.A.C.A.G.H. ) [King of Swaziland]
+  Bibliografia :
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 County of Nice
   Bibliografia :
@@ -25636,6 +25694,11 @@ Królestwo Sewilli ( Ta´ifa Sewilli )
       Dynastie Świata
       Maurové a Evropa
 
+Kingdom of Shoa
+  Menelik II                                            ? ( wg D.O.T.W.A.C.A.G.H. ) [Emperor of Ethiopia]
+  Bibliografia :
+      Dynasties of the World - A Chronological and Genealogical Handbook
+
 Si Hia ( Tanguci , Kaszin , Cz´iang , Si Sia , Western Xia Dynasty , Tanguti , Říše Sia , Říše Si-sia , Dynastie Sia )
   Jing Zong ( Li Yuanhao )                              1038-1048 ( wg T.O.M.O.C.S.D. )
                                                         ok.1050 ( Li Juan-hao wg K.W.N.I.W.D. )
@@ -26421,17 +26484,18 @@ Bishopric of St.Jean de Maurienne ( Bishopric of Savoy )
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Królestwo Suazi
-  Dynastia Nkosi-Dlamini
-    Sobhuza I      	                                    1815-1839
-    Mswati II       	                                  1839-1865
-    Ludvonga       	                                    1865-1874
-    Mbandzeni	                                          1874-1889
-    Bunu             	                                  1889-1899
-    Sobhuza II    	                                    1921-1982
-    Mswati III      	                                  1986-?
+Królestwo Suazi ( The Kingdom of Swaziland )
+  Dynastia Nkosi-Dlamini ( Nkosi-Dlamini Dynasty )
+    Sobhuza I      	                                    1815-1839 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Mswati II       	                                  1839-1865 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Ludvonga       	                                    1865-1874 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Mbandzeni	                                          1874-1889 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Bunu             	                                  1889-1899 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Sobhuza II    	                                    1921-1982 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+    Mswati III      	                                  1986-? ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Subartu
   Bibliografia :
@@ -27843,24 +27907,23 @@ Tajlandia ( Siam , Thajsko , Thailand )
   Sukhothai
   Ayutthaya
     Paramadhirádž             	                        przed 1430 n.e.-? ( wg K. )
-  Królestwo Tajlandii
-    Dynastia Chakri
-      Rama I ( Chaophraya Chakri )       	              1782-1809
-      Rama II ( Itsarasunthon )                	        1809-1824 ( wg D.Ś. )
+  Królestwo Tajlandii ( The Kingdom of Thailand )
+    Dynastia Chakri ( Chakri Dynasty )
+      Rama I ( Chaophraya Chakri )       	              1782-1809 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Rama II ( Itsarasunthon )                	        1809-1824 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       	  				         	                            ? ( Ráma II wg K. )
-      Rama III ( Chetsadabodin )            	          1824-1851  ( wg D.Ś. )
+      Rama III ( Chetsadabodin )            	          1824-1851 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       					                                        ? ( Ráma III wg K. )
-      Rama IV ( Mongkut )                     	        1851-1868
-      Rama V ( Chulalongkorn )             	            1868-1910
-      Rama VI ( Vajiravudh )                  	        1910-1925
-      Rama VII ( Prajadhipok )               	          1925-1935
-      Rama VIII ( Ananda Mahidol )      	              1935-1946
-      Rama IX ( Bhumibol Adulyadej )	                  1946-?
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
+      Rama IV ( Mongkut )                     	        1851-1868 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Rama V ( Chulalongkorn )             	            1868-1910 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Rama VI ( Vajiravudh )                  	        1910-1925 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Rama VII ( Prajadhipok )               	          1925-1935 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Rama VIII ( Ananda Mahidol )      	              1935-1946 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Rama IX ( Bhumibol Adulyadej )	                  1946-? ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       Khmerové
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Takin
 
@@ -28248,14 +28311,15 @@ County of Tonerre
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Królestwo Tonga
-  Dynastia Tupou
-    Jerzy Tupou I               	                      1845-1893
-    Jerzy Tupou II              	                      1893-1918
-    Salote Tupou III           		                      1918-1965
-    Taufa´ahau Tupou IV		                              1965-?
+Królestwo Tonga ( The Kingdom of Tonga )
+  Dynastia Tupou ( Tupou Dynasty )
+    Jerzy Tupou I               	                      1845-1893 ( wg D.Ś. ) ( George Tupou I wg D.O.T.W.A.C.A.G.H. )
+    Jerzy Tupou II              	                      1893-1918 ( wg D.Ś. ) ( George Tupou II wg D.O.T.W.A.C.A.G.H. )
+    Salote Tupou III           		                      1918-1965 ( wg D.Ś. ) ( Sālote Tupou III wg D.O.T.W.A.C.A.G.H. )
+    Taufa´ahau Tupou IV		                              1965-? ( wg D.Ś. ) ( Tāufa'āhau Tupou IV wg D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Tonkawowie
   El Mocho                                              przed 1782 n.e.-?
@@ -29525,20 +29589,19 @@ County of Vienna
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Państwo Vilcabamba
-  Topa Huallpa           	                              1533 ( wg D.Ś. )
-  Manco Inca              	                            1533-1545 ( wg D.Ś. i D.Ř.I. )
+Państwo Vilcabamba ( The Vilcabamba State )
+  Topa Huallpa           	                              1533 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Manco Inca              	                            1533-1545 ( wg D.Ś. i D.Ř.I. i D.O.T.W.A.C.A.G.H. )
       			  	                                        przed 1536-? ( wg V.R.M. )
-  Sayri Tupac              	                            1545-1560
-  Titu Cusi Yupanqui	                                  1560-1571
-  Tupac Amaru            	                              1571-1572 ( wg D.Ř.I. i D.Ś. )
+  Sayri Tupac              	                            1545-1560 ( wg D.Ř.I. i D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Titu Cusi Yupanqui	                                  1560-1571 ( wg D.Ř.I. i D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Tupac Amaru            	                              1571-1572 ( wg D.Ř.I. i D.Ś. i D.O.T.W.A.C.A.G.H. )
       		                                              ?-1572 ( Tupac Amaru I wg V.R.M. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś. i D.Ř.I.
   Bibliografia :
       Dynastie Świata
       Dobytí říše Inků
       Války rudého muže
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 County of Vivarais
   Bibliografia :
@@ -30372,40 +30435,40 @@ Księstwo Wielkomorawskie ( Państwo Wielkomorawskie , Wielka Morawa , Państwo 
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
 
-Wietnam ( Vietnam )
+Wietnam ( Vietnam , Viêt-Nam )
   Królestwo Wietnamu
-    Dynastia Nguyen
-      Gia Long ( Nguyen Phúc-Anh )       	              1802-1806
+    Dynastia Nguyen ( Nguyên Dynasty )
+      Gia Long ( Nguyen Phúc-Anh )       	              1802-1806 ( wg D.Ś. ) ( Nguyên Phúc-Anh wg D.O.T.W.A.C.A.G.H. ) [Emperor of Vietnam]
   Cesarstwo Wietnamu
-    Dynastia Nguyen
-      Gia Long ( Nguyen Phúc-Anh )	                    1806-1820
-      Minh Mang                                  	      1820-1841 ( wg D.Ś. )
+    Dynastia Nguyen ( Nguyên Dynasty )
+      Gia Long ( Nguyen Phúc-Anh )	                    1806-1820 ( wg D.Ś. ) ( Nguyên Phúc-Anh wg D.O.T.W.A.C.A.G.H. )
+      Minh Mang                                  	      1820-1841 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       					         	                              ? ( wg K. )
-      Thieu Tri                                      	  1841-1847
-      Tu Dúc                                         	  1847-1883
-      Duc Dúc                                       	  1883
-      Hiep Hoà                                      	  1883
-      Kien Phúc                                     	  1883-1884
-      Hàm Nghi                                     	    1884-1885
-      Dong Khánh                                 	      1885-1889
-      Thành Thái                                   	    1889-1907
-      Duy Tân                                        	  1907-1916
-      Khai Dinh                                     	  1916-1925
-      Bao Dai                                         	1926-1945
-  Bao Dai           				                            1949-1955
+      Thieu Tri                                      	  1841-1847 ( wg D.Ś. ) ( Thiêu Tri wg D.O.T.W.A.C.A.G.H. )
+      Tu Dúc                                         	  1847-1883 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Duc Dúc                                       	  1883 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Hiep Hoà                                      	  1883 ( wg D.Ś. ) ( Hiêp Hoà wg D.O.T.W.A.C.A.G.H. )
+      Kien Phúc                                     	  1883-1884 ( wg D.Ś. ) ( Kiên Phúc wg D.O.T.W.A.C.A.G.H. )
+      Hàm Nghi                                     	    1884-1885 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Dong Khánh                                 	      1885-1889 ( wg D.Ś. ) ( Dông Khánh wg D.O.T.W.A.C.A.G.H. )
+      Thành Thái                                   	    1889-1907 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Duy Tân                                        	  1907-1916 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Khai Dinh                                     	  1916-1925 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Bao Dai                                         	1926-1945 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  State of Vietnam
+    Bao Dai           				                          1949-1955 ( wg D.Ś. ) [Emperor of Vietnam]
   Wietnam Południowy
   Wietnam Północny
     Quang Trung				                                  1788-po 1789 ( wg E.P. )
   Ho Chi Minh                                           przed 1960-? ( wg F.C.A.R.F. )
                                                         ? ( wg E.N.T.C.F.R.S.H.A.P. )
-  Uwagi :
-      Wszystko oprócz oznaczonego wg D.Ś.
   Bibliografia :
       Dynastie Świata
       Khmerové
       Encyklopedie panovníků
       Fidel & Che - A Revolutionary Friendship
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 Wilusa
   Aleksandu                                             ok.1300 p.n.e.
@@ -31000,23 +31063,27 @@ Złota Orda ( Chanat Kipczacki, Golden Horde , Zlatá horda , Kipčak , Juchid E
       Litwa - Początki Państw
       Jezioro Pejpus 1242
 
-Królestwo Zulu ( Zulu Empire )
+Królestwo Zulu ( Zulu Empire , The Zulu Kingdom )
   Senzangakona		                                      1781-1816 ( wg D.Ś. )
+                                                        ok.1781-ok.1816 ( wg D.O.T.W.A.C.A.G.H. )
   Sigujana                 	                            1816 ( wg D.Ś. )
-  Shaka                     	                          1816-1828 ( ?-23.9. ) ( wg 100.N.V.S. )
+                                                        ok.1816 ( wg D.O.T.W.A.C.A.G.H. )
+  Shaka                     	                          1816-1828 (?-23.9.) ( wg 100.N.V.S. )
       		             	                                1816-1828 ( wg D.Ś. )
       				                                          ?-1828 ( Čaka ( Šaka ) wg E.P. )
-  Dingane                 	                            1828-1840 ( wg D.Ś. )
+                                                        ok.1816-1828 ( wg D.O.T.W.A.C.A.G.H. )
+  Dingane                 	                            1828-1840 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       		              	                              1828-? ( wg 100.N.V.S. ) ( Dingaan wg E.P. )
-  Mpande                  	                            1840-1872 ( wg D.Ś. )
-  Cetshwayo             	                              1872-1879 i 1883-1884 ( wg D.Ś. )
+  Mpande                  	                            1840-1872 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+  Cetshwayo             	                              1872-1879 i 1883-1884 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       				                                          1873-1879 i 1883-? ( Ketčwajo ( Cetewayo ) wg E.P. )
   Uzibebe			                                          ? ( wg E.P. )
-  Dinuzulu                	                            1884-1887 ( wg D.Ś. )
+  Dinuzulu                	                            1884-1887 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Bibliografia :
       Dynastie Świata
       100 nejvlivnějších vojevůdců světa
       Encyklopedie panovníků
+      Dynasties of the World - A Chronological and Genealogical Handbook
 
 County of Zutphen
   Charles de Téméraire ( Karel de Stoute )              1467-1477 (?-5.1.) [Duke of Burgundy]
