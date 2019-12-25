@@ -1,7 +1,4 @@
-books - The Demon-Haunted World: Science as a Candle in the Dark - Carl Sagan
-      - Darwin among the Machines: The Evolution of Global Intelligence - George Dyson
-      - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
-      - First Signals: The Evolution of Multicellular Development - John Tyler Bonner
+books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
       - Category Theory in Context - Emily Riehl
@@ -15,9 +12,9 @@ books - The Demon-Haunted World: Science as a Candle in the Dark - Carl Sagan
       - Colossus - Dennis Feltham Jones
       - Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian, Tom Griffiths
       - Hermann Buhl Climbing Without Compromise - Reinhold Messner, Horst Hofler
-      - Dejiny Sasu - Widukind z Corvey
       - Notatki z podziemia - Fiodor Dostojewski
       - Type-driven Development with Idris - Edwin Brady
+      - The Book of Why: The New Science of Cause and Effect - Judea Pearl & Dana Mackenzie
       - Category Theory for Programmers - Bartosz Milewski
       - Causality: Models, Reasoning, and Inference - Judea Pearl
       - The Strategy of Conflict - Thomas C. Schelling
@@ -121,7 +118,7 @@ books - The Demon-Haunted World: Science as a Candle in the Dark - Carl Sagan
                 - Golem XIV
                 - Pokoj na Ziemi
     Thorgal - wszystkie komiksy
-    Wiedźmin Tom 2-8 - Andrzej Sapkowski [Karolina]
+    Wiedźmin Tom 3-8 - Andrzej Sapkowski [Karolina]
 movies - The Act of Killing - Joshua Oppenheimer
        - The Look of Silence - Joshua Oppenheimer
        - Joseph Campbell and the Power of Myth
