@@ -271,6 +271,7 @@ POP.SCIENCE :
         Dobytí říše Inků ; John Hemming
         Duel v Pacifiku ; Hrowe H. Saunders
         Dynastie Świata ; John E. Morby
+        Dynasties of the World - A Chronological and Genealogical Handbook ; John E. Morby
         Dywizjon 303 ; Arkady Fiedler
         Dzieje dawnych Turków ; Lew Gumilow
         Dzieje Grecji ; N.G.L. Hammond
@@ -391,6 +392,7 @@ POP.SCIENCE :
         Into The Wild ; Jon Krakauer
         Into Thin Air , A personal account of the Everest disaster ; Jon Krakauer
         Karpatské hry ;  Miloslav Nevrlý
+        Krzysztof Wielicki - Piekło mnie nie chciało ; Dariusz Kortko , Marcin Pietraszewski
         Kukuczka - opowieść o najsłynniejszym polskim himalaiście ; Dariusz Kortko , Marcin Pietraszewski
         Moje Życie na Krawędzi ; Reinhold Messner
         Mój pionowy świat ; Jerzy Kukuczka
@@ -408,6 +410,7 @@ POP.SCIENCE :
         Zwierzęta z lasu dziewiczego ; Arkady Fiedler
     PSYCHOLOGIA:
         Thinking Fast and Slow ; Daniel Kahneman
+        Prawy umysł - Dlaczego dobrych ludzi dzieli religia i polityka ? ; Jonathan Haidt
     SOCIOLOGIA:
         Outliers - The Story of Success ; Malcolm Gladwell
         The Better Angels of Our Nature - A History of Violence and Humanity ; Steven Pinker
