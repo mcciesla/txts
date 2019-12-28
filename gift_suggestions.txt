@@ -42,7 +42,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution - Sean B. Carroll
       - The Evolution of Human Sexuality - Donald Symons
       - Words On The Move: Why English Won’t, and Can’t, Sit Still (Like, Literally) - John McWhorter
-      - To Mock a Mockingbird: And Other Logic Puzzles - Raymond M. Smullyan
       - Selected Papers on Computer Science - Donald E. Knuth
       - Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Jay Sussman
       - Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronal R. Rivest, Clifford Stein
@@ -76,7 +75,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Algortihm Design Manual - Steven S. Skiena
       - Compilers: Principles, Techniques, and Tools, Alfred V. Aho, Monica S. Lam, Ravi Sethi and Jeffrey D. Ullman
       - Combinatorial Problems and Exercises - Laszlo Lovasz
-      - The Republic - Plato
       - The Center Cannot Hold : My Journey Through Madness - Elyn R. Saks
       - Real World Haskell - Bryan O'Sullivan, John Goerzen, Donald Bruce Stewart
       - Haskell High Performance Programming - Samuli Thomasson
