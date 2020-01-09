@@ -4,6 +4,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Category Theory in Context - Emily Riehl
       - Kronika Slovanu - Helmold z Bosau
       - The Elephant in the Brain: Hidden Motives in Everyday Life - Kevin Simler, Robin Hanson
+      - Not Born Yesterday: The Science of Who We Trust and What We Believe - Hugo Mercier
       - Speaking Our Minds - Thom Scott-Phillips
       - Radical Enlightenment - Jonathan Israel
       - Purely Functional Data Structures - Chris Okasaki
