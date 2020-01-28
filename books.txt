@@ -235,6 +235,7 @@ POP.SCIENCE :
         Kosmiczna Przygoda Człowieka Mądrego ; Michał Heller
         Krótka Historia Czasu ; Stephen W. Hawking
         Kwark i Jaguar ; Murray Gell-Mann
+        Matematický vesmír - Moje pátrání po nejhlubší podstatě reality ; Max Tegmark
         Mister Tompkins W Krainie Czarów ; George Gamow
         Ostatnie Trzy Minuty ; Paul Davies
         Planety i księżyce ; Robert Estalella
@@ -337,6 +338,7 @@ POP.SCIENCE :
         Starożytne Cywilizacje ; John Haywood
         Starożytny Bliski Wschód ; Daniel Arnoud
         Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty ; Jerzy S. Łątka
+        Svaté války - Dějiny křižových výprav ; Christopher Tyerman
         Svět helénismu ; Pavel Oliva
         Syn Smoka , Fragmenty Zapisków Historyka ; Sy-ma Ts´ien
         Table of Monarchs of Chinese Successive Dynasties ; China Nationality Art Photograph Publishing House
