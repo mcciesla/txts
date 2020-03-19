@@ -3101,4 +3101,5 @@
 - Region alpejski                                                                                                                                                                                   Mont Blanc/Monte Bianco 4808.72m (45.8328917N, 6.8648317E)
     - Jura Szwajcarsko-Francuska                                                                                                                                                                    Crêt de la Neige 1720m (46.2711075N, 5.9399094E)
     - Północne Przedgórze Alp                                                                                                                                                                       ?
-        - Wyżyna Szwajcarska
+        - Schweizer Mittelland/Mittelland/Wyżyna Szwajcarska/Swiss Plateau                                                                                                                          Napf 1408m (47.0041639N, 7.9400006E) (ALT - Chrüzegg 1314m (47.2984469N, 9.0201881E))
+        - Deutsches Alpenvorland/Alpenvorland/Wyżyna Bawarska/Przedgórze Alpejskie                                                                                                                  Salmaser Höhe 1254m (47.5707197N, 10.0887539E)

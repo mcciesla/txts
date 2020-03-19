@@ -18,6 +18,8 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Book of Why: The New Science of Cause and Effect - Judea Pearl & Dana Mackenzie
       - Category Theory for Programmers - Bartosz Milewski
       - Causality: Models, Reasoning, and Inference - Judea Pearl
+      - The Enigma of Reason - Dan Sperber, Hugo Mercier
+      - Warriors and Worriers: The Survival of the Sexes - Joyce F. Benenson
       - The Strategy of Conflict - Thomas C. Schelling
       - Proofs from THE BOOK - Martin Aigner, Günter M. Ziegler
       - Feynman Lectures On Computation - Richard P. Feynman
