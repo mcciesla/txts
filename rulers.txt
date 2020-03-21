@@ -4652,9 +4652,10 @@ Chanat Buchary
     Abdallah II               	                        1583-1598 ( wg S.A. )
                                                         ?-1598 ( Abdulla wg N.G.R.B.I.N.S. )
     Pir Muhammad II	                                    1598 ( wg S.A. )
-  Dynastia Astrachanidów
+  Dynastia Astrachanidów ( Dynastia Asztarchanidów )
     Dżanibeg                    	                      ok.1598 ( wg S.A. )
     Baki Muhammad 	                                    ? ( wg S.A. )
+    Imam-kuli                                           1611-1645 ( Imam-kulim wg N.G.R.B.I.N.S. )
   Abdulfaiz-chan               	                        ? ( wg S.A. )
   Nasrallah ibn Hajdar     	                            ok.1842 ( wg S.A. )
   Muzaffar                       	                      ?-1885 ( wg S.A. )
@@ -12314,6 +12315,10 @@ Królestwo Illirii
       Kronika Rzymu i Cesarstwa Rzymskiego
       Svět helénismu
 
+Imeretia
+  Bibliografia :
+      Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+
 Imola
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
@@ -13708,6 +13713,11 @@ Jugosławia ( Yugoslavia )
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Dynasties of the World - A Chronological and Genealogical Handbook
 
+Jurjew Polski
+  Abdullatif                                            przed 1509-po 1511 ( wg N.G.R.B.I.N.S. ) [Khan of Kazan]
+  Bibliografia :
+      Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+
 Jutungowie
 
 Jüepan
@@ -13729,6 +13739,7 @@ Kabardia
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
 
 Kabardyjczycy
+  Temriuk                                               ? ( wg N.G.R.B.I.N.S. )
   Ałkas                                                 przed 1589 n.e.-? ( wg N.G.R.B.I.N.S. )
   Bibliografia :
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
@@ -13808,7 +13819,7 @@ Kaledończycy ( Caledonians )
 
 Kalifat ( Caliphate , The Caliphate )
   Mohamed	                                              622-632 ( wg D.B. )
-                                                        ?-632 ( Muhammad wg Ř.S.J.Ď.S. ) ( Mohammed wg T.S.O.I.C.O.T.W. ) ( Muhammad the Prophet (Muhammad) wg D.O.T.W.A.C.A.G.H. )
+                                                        ?-632 ( Muhammad wg Ř.S.J.Ď.S. ) ( Mohammed wg T.S.O.I.C.O.T.W. ) ( Muhammad the Prophet (Muhammad) wg D.O.T.W.A.C.A.G.H. ) ( Mahomet (Muhammad Ibn Abd Allah) wg N.G.R.B.I.N.S. )
                                                         ? ( Muhammad (Mahomet) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 629-632 ( Muhammad wg S.V.D.K.V. )
   Kalifowie prawowierni ( Ortodox Caliphate )
@@ -13982,6 +13993,7 @@ Kalifat ( Caliphate , The Caliphate )
       Normanowie i Bizancjum w XI stuleciu
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+      Na granicach Rosji - Budowanie imperium na stepie 1500-1800
 
 Kalindoja
   Bibliografia :
@@ -14169,6 +14181,11 @@ Karahar
   Bibliografia :
       Huryci
 
+Karakałpacy
+  Gajib                                                 przed 1731-? (9.12.-?) ( wg N.G.R.B.I.N.S. )
+  Bibliografia :
+      Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+
 Karakkuk ( Kaja )
   Bibliografia :
       Dějiny Japonska
@@ -14280,7 +14297,7 @@ Kartagina ( Quart Hadaszt , Carthage )
       Kartagina 149-146 p.n.e.
 
 Kartli
-  Rustem-chan                                           przed 1618 n.e.-? ( wg N.G.R.B.I.N.S. )
+  Rustem-chan                                           przed 1618 n.e.-? ( Rustem wg N.G.R.B.I.N.S. )
   Bibliografia :
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
 
@@ -14481,6 +14498,12 @@ Księstwo Kaszyńskie
   Bibliografia :
       Litwa - Początki Państw
 
+Kaszyra
+  Mehmed Emin                                           1496 n.e.-? ( wg N.G.R.B.I.N.S. ) [Khan of Kazan]
+  Abdullatif                                            ? i ?-1517 ( wg N.G.R.B.I.N.S. ) [Khan of Kazan]
+  Bibliografia :
+      Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+
 Katana ( Catania )
   Mamerkos                                              ok.340 p.n.e. ( wg F. )
                                                         ? ( wg D.G. )
@@ -14560,6 +14583,8 @@ Kazachowie ( Kazachs , The Kazakhs )
     Barak                                               ?-1750 ( wg N.G.R.B.I.N.S. )
     Abłaj                                               ? ( wg N.G.R.B.I.N.S. )
   Wielka Orda
+  Orda Bukeja
+    Bukej                                               1812 n.e.-? ( wg N.G.R.B.I.N.S. )
   Bibliografia :
       Encyklopedie panovníků
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
@@ -28178,7 +28203,7 @@ Szwecja ( Sweden , Švédsko )
       Jan III                                      	    1568-1592 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( John III wg D.O.T.W.A.C.A.G.H. )
         					                                      ? ( Johan III wg E.P. )
                                                         1589-1592 ( John III Vasa wg V.K.T.H.O.H.E. )
-      Zygmunt                                	          1592-1599 ( wg D.Ś. ) ( Sigismund wg D.O.T.W.A.C.A.G.H. ) [King of Poland Sigismund III]
+      Zygmunt                                	          1592-1599 ( wg D.Ś. ) ( Sigismund wg D.O.T.W.A.C.A.G.H. ) ( Zygmunt III Waza wg N.G.R.B.I.N.S. ) [King of Poland Sigismund III]
                                                         1592-1604 ( wg Tapsella ) ( III wg V.N.M.S.D. )
                                                         1592-? ( Zygmunt III (Sigismund Vasa) wg V.K.T.H.O.H.E. )
       Karol IX                                	        1604-1611 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Charles IX wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
@@ -28244,6 +28269,7 @@ Szwecja ( Sweden , Švédsko )
       Æthelred the Unready - The Failed King
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+      Na granicach Rosji - Budowanie imperium na stepie 1500-1800
 
 Shirvan
   Państwo Szyrwanszachów
@@ -32037,10 +32063,13 @@ Duchy of Zweibrücken
   Bibliografia :
       Dynasties of the World - A Chronological and Genealogical Handbook
 
-Księstwo zwienigorodzkie
-  Andrzej                                               przed 1339-? ( wg L.P.P. )
+Zwienigorod
+  Księstwo zwienigorodzkie
+    Andrzej                                             przed 1339-? ( wg L.P.P. )
+  Abdullatif                                            ? ( wg N.G.R.B.I.N.S. ) [Khan of Kazan]
   Bibliografia :
       Litwa - Początki Państw
+      Na granicach Rosji - Budowanie imperium na stepie 1500-1800
 
 Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet Socialist Republics , Soyuz Sovetskikh Sotsialisticheskikh Republik , Sovětský svaz , Związek Radziecki , ZSRR , USSR , ZSRS )
   Lenin                                                 ? ( wg F.C.A.R.F. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.S.O.I.C.O.T.W. i H.T.B.A.G. i U.E. i H.S.J.M. i K.W.P.M.N.C. ) ( Władimir I. Lenin (W.I.Lenin) wg T.R.L.Z.S.L.R.S.B. )

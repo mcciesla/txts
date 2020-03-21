@@ -150,8 +150,9 @@ READ BOOKS:
 SCIENCE :
     BIOLOGIA:
         Wierzby - Salix Alba L. Salix fragilis L. ; Stefan Białobok , Krystyna Boratyńska , Adam Boratyński , Janina Borysiak , Władysław Chałupka , Jakub Dolatowski , Janusz B. Faliński , Jarosław Figaj , Maciej Giertych , Andrzej Grzywacz , Alina Hejnowicz , Piotr Kowalik , Janusz Surmiński , Bolesław Suszka , Alfred Szmidt
-	FILOZOFIA:
-		Filozofia Logiki ; George S. Boolos , Susan Haack , Ian Hacking , Jean van Heijenoort , Gilbert Ryle , Gila Sher , Leslie H. Tharp , Hao Wang
+        First Signals - The Evolution of Multicellular Development ; John Tyler Bonner
+	  FILOZOFIA:
+		    Filozofia Logiki ; George S. Boolos , Susan Haack , Ian Hacking , Jean van Heijenoort , Gilbert Ryle , Gila Sher , Leslie H. Tharp , Hao Wang
     FIZYKA:
         Wybrane zagadnienia z astronomii ; Jerzy Marek Kreiner
         Základy speciální teorie relativity - učební text pro výuku fyziky v I. ročníku gymnázia ; Josef Fuka , Jan Maršák , Eva Tomanová
