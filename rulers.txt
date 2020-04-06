@@ -814,16 +814,17 @@ Andegawenia ( Anjou )
       Fulko II Dobry                    	              942-960 ( wg D.Ś. ) ( Fulk II (Fulk II the Good) wg D.O.T.W.A.C.A.G.H. )
       Gotfryd I Szara Opończa	                          960-987 ( wg D.Ś. ) ( Geoffrey I (Geoffrey I Graymantle) wg D.O.T.W.A.C.A.G.H. )
       Fulko III Nerra ( Czarny )   	                    987-1040 ( wg D.Ś. ) ( Fulko III (Fulko III Nerra) wg D.O.T.W.A.C.A.G.H. )
-                                                        ok.1000 ( Fulko Nerra (Fulko Černý) wg S.V.D.K.V. )
+                                                        ok.1000 ( Fulko Nerra (Fulko Černý, Fulko III. Nerra) wg S.V.D.K.V. )
       Gotfryd II Martel                 	              1040-1060 ( wg D.Ś. ) ( Geoffrey II ( Geoffrey II Martel) wg D.O.T.W.A.C.A.G.H. )
     Dynastia z Gatinais ( House of Gâtinais )
       Gotfryd III Brodaty      	                        1060-1068 ( wg D.Ś. ) ( Geoffrey III (Geoffrey III the Bearded) wg D.O.T.W.A.C.A.G.H. )
       Fulko IV Zrzęda                   	              1068-1109 ( wg D.Ś. ) ( Fulk IV (Fulk IV the Surly) wg D.O.T.W.A.C.A.G.H. )
-                                                        przed 1096-? (?.3.-?) ( Fulko (le Réchin, Morous, Fulko z Anjou, Fulk IV of Anjou) wg S.V.D.K.V. )
+                                                        przed 1096-? (?.3.-?) ( Fulko (le Réchin, Morous, Fulko z Anjou, Fulk IV of Anjou, Fulko le Réchin) wg S.V.D.K.V. )
       Gotfryd IV Martel                	                1103-1106 ( wg D.Ś. )
       Fulko V Młodszy                  	                1109-1129 ( wg D.Ś. ) ( Fulk V (Fulk V the Younger) wg D.O.T.W.A.C.A.G.H. ) [King of Jerusalem]
                                                         przed 1120-po 1129 ( Fulko V. (Fulko, Fulko V. z Anjou) wg S.V.D.K.V. )
       Gotfryd V Piękny                  	              1129-1151 ( wg D.Ś. ) ( Geoffrey IV (Geoffrey IV the Fair) wg D.O.T.W.A.C.A.G.H. ) [Duke of Normandy]
+                                                        ? ( Godefroi wg S.V.D.K.V. )
       Henryk                                 	          1151-1189 ( wg D.Ś. ) ( Henry wg D.O.T.W.A.C.A.G.H. ) [King of England Henry II]
                                                         przed 1154-po 1188 (?-21.1.) ( Jindřich (Jindřich II.) wg S.V.D.K.V. )
       Richard I.                                        przed 1190-po 1191 ( wg S.V.D.K.V. )
@@ -3316,7 +3317,7 @@ Banokowie
       Indiański Napoleon Gór Skalistych
 
 County of Bar ( Barské hrabství , Hrabství Bar-le-Duc )
-  Jindřich II. z Baru                                   ?-1239 n.e. ( Jindřich wg S.V.D.K.V. )
+  Jindřich II. z Baru                                   ?-1239 n.e. ( Jindřich (Jindřich II.) wg S.V.D.K.V. )
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
@@ -3979,7 +3980,7 @@ Hrabstwo Blois ( Blois-Chartres )
                                                         ? ( wg D.O.T.W.A.C.A.G.H. )
   Theobald z Blois                                      ? ( wg S.V.D.K.V. )
   Theobald                                              przed 1190-? (28.7.-?) ( wg S.V.D.K.V. )
-  Ludvík                                                przed 1199-1205 (28.11.-14.4.) ( Ludvík z Blois wg S.V.D.K.V. )
+  Ludvík                                                przed 1199-1205 (28.11.-14.4.) ( Ludvík z Blois (Ludvík I.) wg S.V.D.K.V. )
   Bibliografia :
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
@@ -4201,7 +4202,7 @@ Księstwo Brabancji ( Księstwo Brabantu , The Duchy of Brabant , Brabantské v�
     Henryk I                         	                  1190-1235 ( wg D.Ś. )
                                                         1183-1235 ( wg Tapsella )
                                                         1183/90-1235 ( Henry I wg D.O.T.W.A.C.A.G.H. )
-                                                        przed 1197-po 1197 (lato-?.10.) ( Jindřich (Jindřich Brabantský) wg S.V.D.K.V. )
+                                                        przed 1197-po 1197 (lato-?.10.) ( Jindřich (Jindřich Brabantský, Jindřich I.) wg S.V.D.K.V. )
     Henryk II                        	                  1235-1248 ( wg D.Ś. i Tapsella ) ( Henry II wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1247-? ( Henryk wg F.H.C.R. )
     Henryk III                       	                  1248-1261 ( wg D.Ś. i Tapsella ) ( Henry III wg D.O.T.W.A.C.A.G.H. )
@@ -4914,7 +4915,7 @@ Księstwo Burgundii ( Duchy of Burgundy , Vévodství burgundské , Burgundsko ,
   Dynastia walezyjska ( House of Valois , Rod Valois )
     Filip Śmiały            	                          1363-1404 ( wg D.Ś. ) ( Philip the Bold wg D.O.T.W.A.C.A.G.H. ) ( Filip II. Smělý (Filip Smělý, Filip) wg S.V.D.K.V. )
                                                         1361-1404 ( Philippe Le Hardi (Philippe de Valois, Philip The Bold, Philippe III Le Hardi) wg V.K.T.H.O.H.E. )
-    Jan Nieustraszony   	                              1404-1419 ( wg D.Ś. ) ( John The Fearless (Jean sans Peur, Jan zonder Vrees) wg V.K.T.H.O.H.E. ) ( John the Fearless wg D.O.T.W.A.C.A.G.H. ) ( Jan Nebojácný wg S.V.D.K.V. )
+    Jan Nieustraszony   	                              1404-1419 ( wg D.Ś. ) ( John The Fearless (Jean sans Peur, Jan zonder Vrees) wg V.K.T.H.O.H.E. ) ( John the Fearless wg D.O.T.W.A.C.A.G.H. ) ( Jan Nebojácný (Jan Neohrožený) wg S.V.D.K.V. )
     Filip Dobry             	                          1419-1467 ( wg D.Ś. ) ( Philip The Good wg V.K.T.H.O.H.E. ) ( Philip the Good wg D.O.T.W.A.C.A.G.H. ) ( Filip III. Dobrý (Filip Burgundský, Filip Dobrotivý, Filip, Philip the Good) wg S.V.D.K.V. ) [Duke of Brabant] [Duke of Luxemburg]
     Karol Zuchwały      	                              1467-1477 ( wg D.Ś. ) ( Charles The Bold (Charles Le Téméraire, Karel de Stoute) wg V.K.T.H.O.H.E. ) ( Charles the Rash wg D.O.T.W.A.C.A.G.H. ) ( Karel Smělý (Charles the Bold) wg S.V.D.K.V. )
     Mary                                                1477-1482 ( wg D.O.T.W.A.C.A.G.H. )
@@ -5200,6 +5201,7 @@ Królestwo Cashel i Munsteru ( Kingdom of Munster )
       Dynasties of the World - A Chronological and Genealogical Handbook
 
 Ceasarea
+  Eustach Garnier                                       1110 n.e.-? ( wg S.V.D.K.V. ) [Lord of Sidon]
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
@@ -6467,7 +6469,7 @@ Civitate
 
 Hrabství Clermont-en-Beauvaisis ( Hrabství Clermont )
   Ludvík z Blois                                        ? ( wg S.V.D.K.V. )
-  Ludvík I.                                             przed 1317-po 1319 (?-?.7.) ( Ludvík z Clermontu (Ludvík) wg S.V.D.K.V. )
+  Ludvík I.                                             przed 1317-po 1319 (?-?.7.) ( Ludvík z Clermontu (Ludvík) wg S.V.D.K.V. ) [Duke of Bourbonnais Ludvík I.]
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
@@ -6679,7 +6681,7 @@ Cypr ( Kypr , Cyprus )
     Fridrich II                                         przed 1228-po 1229 ( wg S.V.D.K.V. )
     Dynastia Lusignan ( Dom Lusignan , Dynastia Lusignanów , House of Lusignan )
       Hugo II     	                                    1253-1267 ( wg D.Ś. ) ( Hugh II wg D.O.T.W.A.C.A.G.H. )
-                                                        przed 1258-1267 ( Hugo II. Kyperský wg S.V.D.K.V. )
+                                                        przed 1258-1267 ( Hugo II. Kyperský (Hugo II.) wg S.V.D.K.V. )
     Dynastia antiocheńska-Lusignan ( Dom Lusignan , House of Antioch-Lusignan )
       Hugo III                  	                      1267-1284 ( wg D.Ś. ) ( Hugh III wg D.O.T.W.A.C.A.G.H. ) [King of Jerusalem Hugh]
                                                         1267-po 1269 ( Hugo III. (Hugo) wg S.V.D.K.V. )
@@ -7456,7 +7458,7 @@ Dania ( Denmark , Tannmarkar , Dánsko )
                                                         przed ok.970-987 ( Harald Sinozęby wg S.P.D.Z. )
                                                         ?-986 ( Harald Gormsson (Harald Blue-tooth) wg N.S. )
                                                         przed 974-? (13.8.-?) ( Harald Sinozęby wg B.S. )
-                                                        950-986 ( Harald Modrozub wg S.V.D.K.V. )
+                                                        950-986 ( Harald Modrozub (Harald Modrozubý) wg S.V.D.K.V. )
       Swen I Widłobrody             	                  986-1014 ( wg D.Ś. ) ( Svein Fork-beard (Svein Haraldsson Fork-beard) wg N.S. ) [King of England Sven]
                                                         ok.986-1014 ( Svend I (Svend I Forkbeard) wg D.O.T.W.A.C.A.G.H. )
                                                         985-1014 ( wg V.N.M.S.D. i Tapsella )
@@ -7877,7 +7879,7 @@ Dilbat
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
 County of Dillingen
-  Hartmann z Dillingen-Kyburgu                          ? [Count of Kyburg Hartmann I]
+  Hartmann z Dillingen-Kyburgu                          ? ( Hartmann wg S.V.D.K.V. ) [Count of Kyburg Hartmann I]
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
@@ -8183,7 +8185,7 @@ Edessa ( Urfa )
                                                      	  ? ( Balduin wg D.B. ) ( Baldwin wg N.I.B.W.XI.S. )
                                                         1097/8-1100 (?/10.3.-?) ( Balduin I. z Boulogne (Balduin z Boulogne) wg S.V.D.K.V. )
     Dom z Rethel ( House of Rethel )
-      Baldwin II z Bourg	                              1100-1118 ( wg D.Ś. i K.V. ) ( Baldwin II of Bourg wg D.O.T.W.A.C.A.G.H. ) ( Balduin II. Le Bourcq (Balduin z Le Bourcq, Balduin) wg S.V.D.K.V. ) [King of Jerusalem Baldwin II]
+      Baldwin II z Bourg	                              1100-1118 ( wg D.Ś. i K.V. ) ( Baldwin II of Bourg wg D.O.T.W.A.C.A.G.H. ) ( Balduin II. Le Bourcq (Balduin z Le Bourcq, Balduin, Balduin II. z Le Bourcq) wg S.V.D.K.V. ) [King of Jerusalem Baldwin II]
                                                         przed 1103-po 1109 (?-?.7.) ( Baldwin II wg N.I.B.W.XI.S. )
     Richard ze Salerna                                  1105-? ( wg S.V.D.K.V. )
     Dynastia Courtenay ( House of Courtenay )
@@ -9044,7 +9046,7 @@ Egipt ( Egypt )
                                                         przed 1260-? ( Kutuz wg K.W.N.I.W.D. )
                                                         przed 1260-1260 (3.9.-?.10.) ( Kutuz wg S.V.D.K.V. )
         Az-Zahir Bajbars I                             	1260-1277 (?-lipiec) ( wg K.V. )
-        						                                    1260-1277 ( wg D.Ś. ) ( Bajbars I Záhir wg E.P. ) ( Bajbars wg F.H.C.R. ) ( Bajbars (Bajbars al-Bundukdárí) wg S.V.D.K.V. ) ( Al-Ẓāhir Baybars I wg D.O.T.W.A.C.A.G.H. )
+        						                                    1260-1277 ( wg D.Ś. ) ( Bajbars I Záhir wg E.P. ) ( Bajbars wg F.H.C.R. ) ( Bajbars (Bajbars al-Bundukdárí, Bajbars al-Bunduqdárí) wg S.V.D.K.V. ) ( Al-Ẓāhir Baybars I wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1260-po 1263 ( Baybars wg T.S.O.I.C.O.T.W. )
                                                         przed 1268-? ( Bajbars wg N.I.B.W.XI.S. )
         As-Sa´id Baraka Chan                            1277-1279 ( wg D.Ś. ) ( Al-Sa´īd Baraka Khan wg D.O.T.W.A.C.A.G.H. )
@@ -9819,7 +9821,7 @@ Flandria ( Flanders , Flandry )
     Dynastia duńska ( House of Denmark )
       Karol Dobry          	                            1119-1127 (wg D.Ś. ) ( Bl Charles the Good wg D.O.T.W.A.C.A.G.H. )
                                                      	  1119-1128 ( wg Tapsella )
-                                                        ok.1123 ( Karel Dánský (Karel) wg S.V.D.K.V. )
+                                                        ok.1123 ( Karel Dánský (Karel, Karel Dobrotivý) wg S.V.D.K.V. )
     Dynastia normandzka ( House of Normandy )
       Wilhelm Clito             	                      1127-1128  ( wg D.Ś. ) ( William Clito wg D.O.T.W.A.C.A.G.H. )
                                                         ?-1128 ( Vilém Clito wg S.V.D.K.V. )
@@ -9837,7 +9839,7 @@ Flandria ( Flanders , Flandry )
       Baldwin IX                   	                    1194-1205 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Emperor of Cesarstwo Łacińskie Baldwin I]
                                                         1195-1205 ( wg Tapsella )
                                                         przed 1204-? ( Baldwin wg H.W. )
-                                                        przed 1200-po 1204 (23.2.-12.4.) ( Balduin Flanderský (Balduin) wg S.V.D.K.V. )
+                                                        przed 1200-po 1204 (23.2.-12.4.) ( Balduin Flanderský (Balduin, Balduin IX.) wg S.V.D.K.V. )
       Joanna                       	                    1205-1244 ( wg Tapsella i D.Ś. ) ( Joan wg D.O.T.W.A.C.A.G.H. )
       Ferdynand                  	                      1212-1233 ( wg Tapsella )
                                                         przed 1213-? ( Ferrand wg F.H.C.R. )
@@ -10113,7 +10115,7 @@ Francja ( France , Francie )
   				                                              przed 1559-? ( wg B.M. )
   				                                              przed 1552-? ( Jindřich II wg V.F.V. )
                                                         ?-1559 (?-po ?.4.) ( Henryk wg H.W. )
-                                                        ? ( Jindřich II. Francouzský wg S.V.D.K.V. )
+                                                        ? ( Jindřich II. Francouzský (Jindřich II.) wg S.V.D.K.V. )
         Franciszek II		                                1559-1560 ( wg D.Ś. ) ( Francis II wg D.O.T.W.A.C.A.G.H. )
   				                                              ? ( wg V.F.V. )
         Karol IX                 	                      1560-1574 ( wg D.Ś. i Tapsella ) ( Charles IX wg D.O.T.W.A.C.A.G.H. )
@@ -10633,8 +10635,9 @@ Cesarstwo Galijskie ( The 'Gallic Empire' )
       Dynasties of the World - A Chronological and Genealogical Handbook
 
 Księstwo Galilei
+  Hugo ze Saint-Omeru                                   1101 n.e.-? ( wg S.V.D.K.V. )
   Bibliografia :
-      Historia Wenecji
+      Svaté války - Dějiny křižových výprav
 
 Galowie
   Brennus                                               przed 279 p.n.e.-?
@@ -11286,7 +11289,7 @@ Hrabstwo Hainaut ( The County of Hainault , Henegavské hrabství )
                                                       	1052-1070 ( wg Tapsella )
     Arnulf Nieszczęśliwy	                              1070-1071 ( wg D.Ś. ) ( Arnulf the Unfortunate wg D.O.T.W.A.C.A.G.H. ) [Count of Flanders]
     Baldwin II                   	                      1071-1098 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
-                                                        przed 1095-1098 ( Balduin z Monsu wg S.V.D.K.V. )
+                                                        przed 1095-1098 ( Balduin z Monsu (Balduin z Mon) wg S.V.D.K.V. )
     Baldwin III                 	                      1098-1120 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
     Baldwin IV z Mons     	                            1120-1171 ( wg D.Ś. i Tapsella ) ( Baldwin IV of Mons wg D.O.T.W.A.C.A.G.H. )
     Baldwin V                   	                      1171-1195 ( wg D.Ś. i Tapsella ) ( Baldwin VIII wg D.O.T.W.A.C.A.G.H. ) [Count of Flanders Baldwin VIII]
@@ -12006,7 +12009,7 @@ Hiszpania ( Spain , Španělsko )
       Zamora y Torres                     	            1931-1936 ( wg V.N.M.S.D. )
     Francisco Franco Bahamonde	                        1939-1975 ( wg V.N.M.S.D. i D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         przed 1968-? ( Franco wg V.K.T.H.O.H.E. )
-                                                        ? ( Franco wg H.S.J.M. ) ( Franko wg S.V.D.K.V. )
+                                                        ? ( Franco wg H.S.J.M. ) ( Franko (Francisco Franco) wg S.V.D.K.V. )
   Królestwo Hiszpanii ( The Kingdom of Spain )
     Dynastia burbońska ( The Bourbons , Burbonowie , House of Bourbon )
       Jan Karol I         	                            1975-? ( wg V.N.M.S.D. i D.Ś. ) ( Juan Carlos I wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
@@ -12974,7 +12977,7 @@ Jaćwięgowie ( Jaćwingowie , Jadźwingowie , Jaćwieży , Denowie , Dainowie ,
 Jaffa-Askalon
   Hrabství Jaffa a Askalon ( Hrabství Jaffa , Hrabství Jaffa-Askalon )
     Hugo z Le Puiset                                    1110 n.e.-? ( wg S.V.D.K.V. )
-    Hugo II z Jaffy                                     przed 1133-po 1134 ( Hugo z Jaffy (Hugo) wg S.V.D.K.V. )
+    Hugo II. z Jaffy                                     przed 1133-po 1134 ( Hugo z Jaffy (Hugo, Hugo II.) wg S.V.D.K.V. )
     Amalrich                                            ? ( wg S.V.D.K.V. ) [King of Jerusalem Amalryk I]
     Guy z Lusignanu                                     przed 1183-po 1186 ( Guy wg S.V.D.K.V. ) [King of Jerusalem Guy of Lusignan]
     Alice ze Champagne                                  ? ( wg S.V.D.K.V. )
@@ -13435,11 +13438,11 @@ Jerozolima ( Jeruzalém , Jerusalem )
                                                         przed 1109-po 1113 (?.7.-?) ( wg N.I.B.W.XI.S. )
     Dom z Rethel ( House of Rethel )
       Baldwin II z Bourg		                            1118-1131 (?-sierpień) ( wg K.V. ) ( Baldwin II of Bourg wg D.O.T.W.A.C.A.G.H. )
-      			           		                              1118-1131 ( wg D.Ś. i V.N.M.S.D. ) ( Balduin II. (Balduin, Balduin z Le Bourcq, Baldwin II of Jerusalem) wg S.V.D.K.V. )
+      			           		                              1118-1131 ( wg D.Ś. i V.N.M.S.D. ) ( Balduin II. (Balduin, Balduin z Le Bourcq, Baldwin II of Jerusalem, Balduin II. z Le Bourcq) wg S.V.D.K.V. )
                                                         przed 1119-? ( Baldwin II wg H.W. )
                                                         przed 1119-po 1126 ( Baldwin II wg N.I.B.W.XI.S. )
     Dynastia andegaweńska ( House of Anjou )
-      Fulko                                	            1131-1143 ( wg D.Ś. ) ( Fulko z Anjou (Fulko V. z Anjou, Fulk of Jerusalem) wg S.V.D.K.V. ) ( Fulk V (Fulk V the Younger) wg D.O.T.W.A.C.A.G.H. ) ( Fulk of Anjou wg D.O.T.W.A.C.A.G.H. )
+      Fulko                                	            1131-1143 ( wg D.Ś. ) ( Fulko z Anjou (Fulko V. z Anjou, Fulk of Jerusalem, Fulko V.) wg S.V.D.K.V. ) ( Fulk V (Fulk V the Younger) wg D.O.T.W.A.C.A.G.H. ) ( Fulk of Anjou wg D.O.T.W.A.C.A.G.H. )
          					                                      1131-1143 ( wrzesień-? ) ( wg K.V. )
                                                         1131-1144 ( wg V.N.M.S.D. )
                                                         1131-1136 ( wg N.I.B.W.XI.S. )
@@ -14692,7 +14695,7 @@ Keos
 
 Emirate of Kerak
   Ajjúbovci
-    an-Násir                                            przed 1239-po 1240 (koniec-?.5.) ( wg S.V.D.K.V. ) [Emir of Damascus An-Nasir Dawud]
+    an-Násir                                            przed 1239-po 1240 (koniec-?.5.) ( an-Násir Dáwúd wg S.V.D.K.V. ) [Emir of Damascus An-Nasir Dawud]
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
@@ -15955,6 +15958,7 @@ Kościół ( Papežství )
                                                         1605 ( wg Tapsella i H.W. )
     Paweł V ( Camillo Borghese )                       	1605-1621 ( wg V.N.M.S.D. i Tapsella )
                                                         1605-po 1607 (przed ?.8.-?.4.) ( wg H.W. )
+                                                        przed 1567-? ( Pavel V. wg S.V.D.K.V. )
     Grzegorz XV ( Alessandro Ludovisi )               	1621-1623 ( wg V.N.M.S.D. i Tapsella )
     Urban VIII ( Maffeo Barberini )                    	1623-1644 ( wg Tapsella i V.N.M.S.D. )
       						        	                            przed 1623-? ( wg 100.N.U.W. )
@@ -16369,7 +16373,7 @@ Kwadowie
       Zapomianie narody Europy
 
 Hrabství Kyburg
-  Hartmann z Dillingen-Kyburgu                          ? [Count of Dillingen Hartmann I]
+  Hartmann z Dillingen-Kyburgu                          ? ( Hartmann wg S.V.D.K.V. ) [Count of Dillingen Hartmann I]
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
@@ -17042,7 +17046,7 @@ Limburg
                                                         ? ( Walram III wg D.O.T.W.A.C.A.G.H. )
     Henryk IV                	                          1226-1247 ( wg Tapsella )
                                                         przed 1227-po 1228 ( wg F.H.C.R. )
-                                                        przed 1227-po 1228 (?.11.-?) ( Jindřich wg S.V.D.K.V. )
+                                                        przed 1227-po 1228 (?.11.-?) ( Jindřich (Jindřich IV.) wg S.V.D.K.V. )
     Waleran IV              	                          1247-1280 ( wg Tapsella )
     Ermengarda		                                      1280-1282 ( wg Tapsella )
     Rainald                     	                      1280-1288 ( wg Tapsella )
@@ -17093,6 +17097,7 @@ Litwa ( Litva , Lithuania )
     Mindaugas ( Mendog )                                1253-1263 ( Mindoug wg V.K.T.H.O.H.E. )
                                                         1253-po 1261 ( wg Z.N.E. )
                                                         1253-1263 (?.7.-jesień) ( Min'dovg (Mindowe, Mindot, Myndowe, Midog) wg L.P.P. )
+                                                        ? ( wg S.V.D.K.V. )
   Wielkie Księstwo Litewskie ( Grand Duchy of Litva, Vielkie Knyaztva Litvy, Magnus Ducatus Lithuaniae )
     Trojnat                                             1263-1264 ( wg L.P.P. )
     Wojsiełk                                            przed 1265-1267 ( Voišelk (Mendogowicz, Dawid, Vyšeleg) wg L.P.P. )
@@ -17613,7 +17618,7 @@ Cesarstwo Łacińskie ( Imperium Łacińskie , The Empire of Constantinople , La
                                                         1204-1205 (16.5.-?) ( Baldwin wg H.W. )
                                                         1204-1205 (?.5.-14.4.) ( Balduin Flanderský (Balduin I. z Flander, Balduin, Balduin IX., Balduin z Flander) wg S.V.D.K.V. )
     Henryk           		                                1206-1216 ( wg V.N.M.S.D. i D.Ś. ) ( Jindřich z Flander wg D.B. ) ( Henry wg D.O.T.W.A.C.A.G.H. )
-                             			                      1205-1216 ( wg Tapsella ) ( Jindřich z Flander (Jindřich Flanderský) wg S.V.D.K.V. )
+                             			                      1205-1216 ( wg Tapsella ) ( Jindřich z Flander (Jindřich Flanderský, Jindřich z Henegavska-Flander) wg S.V.D.K.V. )
                                                         ? ( Henryk z Flandrii wg H.W. ) ( Henryk z Hainaut wg F.H.C.R. )
   Dynastia Courtenay ( House of Courtenay )
     Piotr z Courtenay	                                  1217 ( wg D.Ś. ) ( Petr z Courtenay wg D.B. ) ( Peter of Courtenay wg D.O.T.W.A.C.A.G.H. )
@@ -19518,7 +19523,7 @@ Montferrat
                                                         ?-1192 n.e. (?-28.4.) ( Konrad z Montferratu wg F.H.C.R. )
     Bonifacy z Montferratu                              przed 1204-? (Boniface I wg D.O.T.W.A.C.A.G.H.) [Lord of Thessalonica]
                                                         ? ( wg H.W. )
-                                                        przed 1201-1207 (?.7.-?) ( Bonifác wg S.V.D.K.V. )
+                                                        przed 1201-1207 (?.7.-?) ( Bonifác (Bonifác III.) wg S.V.D.K.V. )
     Federico II                                         1536-? ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Mantua]
   Księstwo Montferratu
     Guglielmo                                           1575-? ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Mantua]
@@ -20116,7 +20121,7 @@ Królestwo Neapolu i Sycylii ( Kingdom of Sicily, Kingdom of Naples , Sicilské 
                                                         1194-1197 (24.12.-?) ( Henryk VI (Henryk Hohenstauf) wg H.W. )
                                                         1190/4-1197 (?/25.12.-?) ( Henryk VI wg F.H.C.R. )
                                                         1194-? ( Henryk VI wg N.I.B.W.XI.S. )
-    Fryderyk I     	                                    1197-1250 ( wg D.Ś. i V.N.M.S.D. ) ( Frederick I wg D.O.T.W.A.C.A.G.H. ) ( Fridrich I. (Fridrich II., Fridrich) wg S.V.D.K.V. ) [Holy Roman Emperor Frederick II]
+    Fryderyk I     	                                    1197-1250 ( wg D.Ś. i V.N.M.S.D. ) ( Frederick I wg D.O.T.W.A.C.A.G.H. ) ( Fridrich I. (Fridrich II., Fridrich, Fridrich II. Štaufský) wg S.V.D.K.V. ) [Holy Roman Emperor Frederick II]
                                                         ?-1250 ( Frederick II of Hohenstaufen wg V.K.T.H.O.H.E. )
                                                         1198-1250 (17.5.-13.12.) ( Fryderyk II Hohenstauf (Konstantyn, Fryderyk Roger, Fryderyk, Hohenstauf, Federico II, Friedrich II, Federico, Al-Anbaratur, Fryderyk II Stauf, Frederick II of Hohenstaufen, Friedrich der Zweite, Friedrich, Friedrich II. der Hohenstaufe, Friedrich II., Fryderyk Hohenstauf, Friedrich II. von Hohenstaufen) wg F.H.C.R. )
     Henryk                                              przed 1212-? (?.3.-?) ( Henryk VII wg F.H.C.R. )
@@ -20218,7 +20223,7 @@ Nevers
   County of Nevers ( Hrabství Nevers )
     Vilém II.                                           przed 1101 n.e.-? (?.6.-?) ( Vilém z Nevers wg S.V.D.K.V. )
     Hervé                                               przed 1209-? (14.8.-?) ( wg S.V.D.K.V. )
-    John of Nevers                                      ? ( wg T.S.O.I.C.O.T.W. ) [John the Fearless Duke of Burgundy]
+    John of Nevers                                      ? ( wg T.S.O.I.C.O.T.W. ) ( Jan Neohrožený wg S.V.D.K.V. ) [John the Fearless Duke of Burgundy]
   Księstwo Nevers ( Duchy of Nevers )
     Karol                                               przed 1627-? ( wg H.W. ) [Duke of Mantua Carlo I]
                                                         ? ( Carlo I wg D.O.T.W.A.C.A.G.H. )
@@ -20353,6 +20358,7 @@ Niemcy ( Germany , Německo )
                                                         936-972/3 (7.8.-?) ( Otto I Wielki (Otton I, Otto) wg S.P.D.Z. )
                                                         przed 936-po 972 ( Otto I Wielki (Otton, Otton I, Otton I Wielki) wg B.S. )
                                                         przed 955-? ( Otton I wg L.1241. )
+                                                        ? ( Ota I. wg S.V.D.K.V. )
       Otto II                                           973-983 (?-?.12.) ( Otton II wg S.P.D.Z. ) [Holy Roman Emperor]
                                                         961/73-983 ( wg D.O.T.W.A.C.A.G.H. )
       Otton III                                         przed 983-1002 ( wg Z.N.E. ) [Holy Roman Emperor]
@@ -20364,7 +20370,7 @@ Niemcy ( Germany , Německo )
                                                         1002-po 1003 ( Henryk II wg Z.N.E. )
                                                         przed 1003-1024 ( Henryk II wg S.P.D.Z. )
                                                         przed 1002-po 1018 ( wg B.S. )
-                                                        1002-1024 ( St Henry II wg D.O.T.W.A.C.A.G.H. )
+                                                        1002-1024 ( St Henry II wg D.O.T.W.A.C.A.G.H. ) ( Jindřich II. wg S.V.D.K.V. )
     Salian House
       Konrad II                                         przed 1033-1039 ( wg S.P.D.Z. ) [Holy Roman Emperor]
                                                         ? ( Konrad II. wg B.S. )
@@ -20372,6 +20378,7 @@ Niemcy ( Germany , Německo )
       Henryk III                                        przed 1045-1056 ( wg S.P.D.Z. ) [Holy Roman Emperor]
                                                         przed ok.1041-po 1056 (?-10.9.) ( wg B.S. )
                                                         1028/39-1056 ( Henry III wg D.O.T.W.A.C.A.G.H. )
+                                                        ? ( Jindřich III. wg S.V.D.K.V. )
       Henryk IV                                         przed 1069-1106 ( wg S.P.D.Z. ) [Holy Roman Emperor]
                                                         1056-1105 ( wg F.H.C.R. )
                                                         przed 1069-po 1070 ( wg B.S. )
@@ -20412,7 +20419,7 @@ Niemcy ( Germany , Německo )
     House of Hohenstaufen
       Fryderyk II                                       1196/1211/1212-1250 (25.12./?.9./5.12.-13.12.) ( Fryderyk II Hohenstauf (Konstantyn, Fryderyk Roger, Fryderyk, Hohenstauf, Federico II, Friedrich II, Federico, Al-Anbaratur, Fryderyk II Stauf, Frederick II of Hohenstaufen, Friedrich der Zweite, Friedrich, Friedrich II. der Hohenstaufe, Friedrich II., Fryderyk Hohenstauf, Friedrich II. von Hohenstaufen) wg F.H.C.R. ) [Holy Roman Emperor]
                                                         1212-1250 ( Frederick II (Frederick I) wg D.O.T.W.A.C.A.G.H. )
-                                                        1212/5-1250 (?/25.7.-?) ( Fridrich II. (Fridrich) wg S.V.D.K.V. )
+                                                        1212/5-1250 (?/25.7.-?) ( Fridrich II. (Fridrich, Fridrich II. Štaufský) wg S.V.D.K.V. )
       Henryk VII                                        1220/1222-1235 (26.4./8.5.-po 1.6.) ( Henryk (Heinrich VII, Heinrich VII von Hohenstaufen, Heinrich VII.) wg F.H.C.R. )
                                                         1220-1235 ( Henry wg D.O.T.W.A.C.A.G.H. )
       Konrad IV                                         1236-1254 (?.12.-20.5.) ( Konrad wg F.H.C.R. ) [Holy Roman Emperor]
@@ -21499,6 +21506,11 @@ Orkneje ( Orkney, Earldom of Orkney )
       Njal's Saga
       Northmen - The Viking Saga 793-1241
 
+Vévodství orleánské
+  Ludvík                                                przed 1396 n.e.-? ( wg S.V.D.K.V. )
+  Bibliografia:
+      Svaté války - Dějiny křižových výprav
+
 Osagowie
   Bibliografia :
       Czarne wampuny głoszą wojnę
@@ -21512,7 +21524,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané )
     Dynastia Osmanli ( Osmanowie , Osmanli Dynasty , Ottoman Dynasty )
       Osman I                          	                1280-1324 ( wg D.Ś. )
                                                         1280-1323/4 ( wg D.O.T.W.A.C.A.G.H. )
-                                                        1281-1326 ( wg V.N.M.S.D. i D.B. ) ( Osman ('Uthmán) wg S.V.D.K.V. )
+                                                        1281-1326 ( wg V.N.M.S.D. i D.B. ) ( Osman ('Uthmán, Uthmán) wg S.V.D.K.V. )
                                                         1299-1326 ( Osman wg S.II.W.I.J.C.Z.E.M.P. )
       Orhan                              	              1324-1362 ( wg D.Ś. )
                                                         1324-1362 (?-?.3.) ( wg D.O.T.W.A.C.A.G.H. )
@@ -22923,7 +22935,7 @@ Polska ( Polsko , Poland )
                                                         1080-1102 ( Władysław Herman wg W.W.K.R. )
     Zbigniew                            	              1102-1107 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1102-1108 ( wg W.W.K.R. )
-    Bolesław III Krzywousty	                            1102-1138 ( wg D.Ś. i V.N.M.S.D. i Z.N.E. ) ( Bolesław III (Bolesław III Wrymouth) wg D.O.T.W.A.C.A.G.H. ) ( Boleslav III. Křivoústý wg S.V.D.K.V. )
+    Bolesław III Krzywousty	                            1102-1138 ( wg D.Ś. i V.N.M.S.D. i Z.N.E. ) ( Bolesław III (Bolesław III Wrymouth) wg D.O.T.W.A.C.A.G.H. ) ( Boleslav III. Křivoústý (Boleslav III.) wg S.V.D.K.V. )
       				         	                                ? ( Boleslav III wg Z.S.A.V.E. ) ( Boleslav III Křivoústý wg F.B.C.A.R. ) ( Bolesław Krzywousty wg N.I.B.W.XI.S. )
                                                         1102-1138 (?-28.10.) ( Bolesław Krzywousty (Krzywousty) wg W.W.K.R. )
                                                         przed 1120-1138 (?-28.10.) ( Bolesław Krzywousty wg S.P.D.Z. )
@@ -24093,7 +24105,7 @@ Sułtanat Rum ( Sułtanat Ikonion , Rum , Sułtanat Ar-Rum , Sultanát Rúm , R�
                     		         	                      ok.1097 ( wg K.V. )
       			        	                                  ?	( Kilič-Arslán wg D.B. )
                                                         przed 1097-po 1105 (21.5.-?) ( Kilidż Arslan wg N.I.B.W.XI.S. )
-                                                        przed 1096-po 1101 (21.10.-?.9.) ( Kilič Arslan wg S.V.D.K.V. )
+                                                        przed 1096-po 1101 (21.10.-?.9.) ( Kilič Arslan (Kilič Arslan I.) wg S.V.D.K.V. )
     Szahanszah          	                              1110-1116 ( wg D.Ś. )
     Mas´ud I              	                            1116-1155 ( wg D.Ś. )
                                                         1116-1156 ( wg S.II.W.I.J.C.Z.E.M.P. )
@@ -25484,7 +25496,7 @@ Rzym
                                                         1204 (przed ?.3.-po 12.5.) ( Aleksy V (Aleksy Dukas, Murzuflos, Aleksy V Dukas) wg H.W. )
                                                         1204 (?.2.-?) ( Aleksy V Murzuflos wg N.I.B.W.XI.S. )
         Nikolaos Kanabos               	                1204 ( wg D.B. )
-                                                        1204 (27.1.-?.2.) ( Nikolas Kannavos wg S.V.D.K.V. )
+                                                        1204 (27.1.-?.2.) ( Nikolas Kannavos (Nikolaos Kannovos) wg S.V.D.K.V. )
       Dynastia Laskaris ( Cesarstwo Nicei , Cesarstwo Nikei , Lascarid Dynasty , Nikaiská říše )
         Teodor I Laskaris 	                            1204-1222 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Theodoros I Laskaris wg D.B. ) ( Theodore I Lascaris wg D.O.T.W.A.C.A.G.H. ) ( Theodor Laskaris wg S.V.D.K.V. )
         Jan III Wataces     	                          1222-1254 ( wg D.Ś. i Tapsella ) ( Ioannes III Dukas Vatatzes wg D.B. ) ( Jan III Dukas Watatzes (Watatzes, Jan Watatzes) wg F.H.C.R. ) ( John III Vatatzes wg D.O.T.W.A.C.A.G.H. )
@@ -27472,7 +27484,7 @@ Sycylia ( Sicily , Sicílie )
                                                         1286-1327 (2.2.-?) ( Jaime II El Justo wg V.K.T.H.O.H.E. )
       Fryderyk II                   	                  1296-1337 ( wg D.Ś. i V.N.M.S.D. ) ( Frederico II (Frederick III) wg V.K.T.H.O.H.E. ) ( Frederick II wg D.O.T.W.A.C.A.G.H. )
       					                                        ? ( Fridrich ( don Fadrique ) wg E.P. )
-                                                        1295-1337 ( Fridrich II. (Fridrich Sicilský) wg S.V.D.K.V. )
+                                                        1295-1337 ( Fridrich II. (Fridrich Sicilský, Fridrich II. Sicilský) wg S.V.D.K.V. )
       Piotr II                          	              1337-1342 ( wg D.Ś. i V.N.M.S.D. )
                                                         ?-1342 ( Piotr II Aragoński wg F.H.C.R. )
                                                         1320/37-1342 ( Peter II wg D.O.T.W.A.C.A.G.H. )
@@ -27541,6 +27553,7 @@ Sydon ( Sidón )
   Ozbaal                   	                            ok.340 ( wg F. )
   Ajnel                     	                          ok.335 ( wg F. )
   Abdalónymos        	                                  332-? ( Ballónymos wg S.H. )
+  Eustach Garnier                                       1110 n.e.-? ( wg S.V.D.K.V. ) [Lord of Ceasarea]
   Bibliografia :
       Starożytny Bliski Wschód
       Kralovská tažení ve starém Orientu
@@ -27548,6 +27561,7 @@ Sydon ( Sidón )
       Asýrie - od městského státu k říši
       Svět helénismu
       Encyklopedie panovníků
+      Svaté války - Dějiny křižových výprav
 
 Sykion
   Orthagoras		                                        655 p.n.e.-? ( wg D.G. )
@@ -28511,7 +28525,7 @@ Państwo Śungów
                                                         przed 1215-po 1229 ( wg K.V. )
                                                         ?-1250 ( wg D.R. )
                                                         1220-1250 ( Bedřich II wg M.A.E. ) ( Fryderyk II Hohenstauf (Fryderyk) wg H.W. ) ( Frederick II wg D.O.T.W.A.C.A.G.H. )
-                                                        1220-1250 (?.11.-?) ( Fridrich II. (Fridrich Štaufský, Fridrich, Frederick II, Frederick II of Hohenstaufen) wg S.V.D.K.V. )
+                                                        1220-1250 (?.11.-?) ( Fridrich II. (Fridrich Štaufský, Fridrich, Frederick II, Frederick II of Hohenstaufen, Fridrich II. Štaufský) wg S.V.D.K.V. )
                                                         1215/20-1250 ( Frederick II (Frederick II of Hohenstaufen) wg V.K.T.H.O.H.E. )
                                                         ? ( Fridrich II wg Z.S.A.V.E. )
                                                         1220-1250 (22.11.-13.12.) ( Fryderyk II Hohenstauf (Konstantyn, Fryderyk Roger, Fryderyk, Hohenstauf, Federico II, Friedrich II, Federico, Al-Anbaratur, Fryderyk II Stauf, Frederick II of Hohenstaufen, Friedrich der Zweite, Friedrich, Friedrich II. der Hohenstaufe, Friedrich II., Fryderyk Hohenstauf, Friedrich II. von Hohenstaufen) wg F.H.C.R. )
@@ -28856,7 +28870,7 @@ Tarent
   Emirat Tarentu
   Księstwo Taranto ( Hrabstwo Tarentu , Księstwo Tarentu )
     Ród d'Hauteville
-      Boemund                                           ? ( Boemund de Hauteville wg H.W. ) ( Bohemund of Taranto wg N.T.V.S. ) [Prince of Antioch Boemund I]
+      Boemund                                           ? ( Boemund de Hauteville wg H.W. ) ( Bohemund of Taranto wg N.T.V.S. ) ( Bohemund wg S.V.D.K.V. ) [Prince of Antioch Boemund I]
                                                         przed 1096-1111 (?.6.-3.3.) ( Boemund z Tarentu wg N.I.B.W.XI.S. )
     Wilhelm                                             1194 ( wg F.H.C.R. )
     Manfred                                             1250-1266 ( wg F.H.C.R. )
@@ -28868,6 +28882,7 @@ Tarent
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Northmen - The Viking Saga 793-1241
       Normanowie i Bizancjum w XI stuleciu
+      Svaté války - Dějiny křižových výprav
 
 Shamkhalate of Tarki
   Adyl Girej                                            przed 1722-po 1723 ( wg N.G.R.B.I.N.S. )
@@ -29225,8 +29240,9 @@ Księstwo torczewskie
       Litwa - Początki Państw
 
 Toron
-  Humfred III. z Toronu                                 ? ( wg S.V.D.K.V. )
-  Filip z Montfortu                                     przed 1239 n.e.-? ( wg S.V.D.K.V. ) [Lord of Tyre]
+  Humfred II. z Toronu                                  ?-1179 n.e. ( Humfred wg S.V.D.K.V. )
+  Humfred III. z Toronu                                 przed 1186-po 1192 (?-5.4.) ( Humfred (Humfred IV. z Toronu, Humfred z Toronu) wg S.V.D.K.V. )
+  Filip z Montfortu                                     przed 1239-? ( wg S.V.D.K.V. ) [Lord of Tyre]
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
@@ -29721,6 +29737,7 @@ Turyngia
   Margrabstwo Turyngii
     Herman                                              przed 1211-? (?.9.-?) ( wg F.H.C.R. )
     Ludwik IV Święty                                    przed 1226-1227 ( Ludwik IV wg F.H.C.R. )
+                                                        ? ( Ludvík IV wg S.V.D.K.V. )
     Henryk Raspe                                        przed 1246-? ( wg F.H.C.R. ) [King of Germany]
     Albrecht z Miśni                                    przed 1265-? ( Albrecht Durynský wg S.V.D.K.V. )
                                                         ? ( wg F.H.C.R. )
@@ -30459,10 +30476,14 @@ County of Venaissin
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Duchy of Vendôme
-  Anthony                                               ? [King of Navarre]
+Vendôme
+  Hrabství Vendôme
+    Burchard                                            ? ( wg S.V.D.K.V. )
+  Duchy of Vendôme
+    Anthony                                             ? ( wg D.O.T.W.A.C.A.G.H. ) [King of Navarre]
   Bibliografia :
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Svaté války - Dějiny křižových výprav
 
 Vercelli
   Bibliografia :
@@ -30512,6 +30533,11 @@ Vidéha
 County of Vienna
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
+
+Viennois
+  Humbert II.                                           przed 1345-po 1346 ( Humbert wg S.V.D.K.V. )
+  Bibliografia :
+      Svaté války - Dějiny křižových výprav
 
 Państwo Vilcabamba ( The Vilcabamba State )
   Topa Huallpa           	                              1533 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
@@ -31076,7 +31102,7 @@ Węgry ( Hungary , Uhry )
       Władysław I Święty		                            1077-1095 ( wg D.Ś. ) ( Ladislav I wg D.P.I.R.G. ) ( St Ladislas I wg D.O.T.W.A.C.A.G.H. ) ( Ladislav I. Svatý (Ladislav I.) wg S.V.D.K.V. )
                                                         ok.1080-1095 ( wg V.N.M.S.D. )
       Ladislav Holý                       	            ? ( wg Z.S.A.V.E. )
-      Koloman                       	                  1095-1116 ( wg D.Ś. i N.I.B.W.XI.S. i D.O.T.W.A.C.A.G.H. i S.V.D.K.V. )
+      Koloman                       	                  1095-1116 ( wg D.Ś. i N.I.B.W.XI.S. i D.O.T.W.A.C.A.G.H. ) ( Koloman I. wg S.V.D.K.V. )
                                                         1095-1114 ( wg V.N.M.S.D. )
             			              	                      ok.1096 ( wg K.V. )
       			              	                            przed 1074 -? ( wg Z.S.A.V.E. )
