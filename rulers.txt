@@ -959,7 +959,7 @@ Anglia ( England , Anglie )
                                                         ? ( Harold II wg L.P.P. )
                                                         przed 1066-? ( Harald II. (Harald II. Godwinson) wg S.V.D.K.V. )
     Dynastia normandzka ( House of Normandy )
-      Wilhelm I Zdobywca   	                            1066-1087 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( William I (William I the Conqueror) wg D.O.T.W.A.C.A.G.H. ) ( Vilém I. Dobyvatel (Vilém Dobyvatel, Vilém, Vilém Normanský) wg S.V.D.K.V. )
+      Wilhelm I Zdobywca   	                            1066-1087 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( William I (William I the Conqueror) wg D.O.T.W.A.C.A.G.H. ) ( Vilém I. Dobyvatel (Vilém Dobyvatel, Vilém, Vilém Normanský, Vilém I.) wg S.V.D.K.V. )
 				         	                                      1066-1087 (25.12.-9.9.) ( wg 100.N.V.S. )
 				         	                                      1066-? ( Vilém Dobyvatel wg D.P.I.R.G. ) ( William of Normandy (William The Conqueror) wg V.K.T.H.O.H.E. )
                                                         przed 1086-? ( Wilhelm Zdobywca wg K.W.N.I.W.D. )
@@ -1281,7 +1281,7 @@ Antiochia
       Tankred                     	                    1111-1112 ( wg D.Ś. i K.V. ) ( Tancred wg D.O.T.W.A.C.A.G.H. )
         				                                        ? ( wg D.B. )
                                                         1111-1112 (przed wiosna-?) ( wg N.I.B.W.XI.S. )
-                                                        1108/11-1112 ( wg S.V.D.K.V. )
+                                                        1108/11-1112 ( Tankred z Lecce wg S.V.D.K.V. )
       Roger z Salerno         	                        1112-1119 ( wg D.Ś. i N.I.B.W.XI.S. ) ( Roger of Salerno wg D.O.T.W.A.C.A.G.H. ) ( Roger ze Salerna (Roger) wg S.V.D.K.V. )
         			      	                                  1112-1119 (?-28.6.) ( wg K.V. )
                                                         ?-1119 (?-?.6.) ( Roger z Antiochii wg H.W. )
@@ -1860,7 +1860,7 @@ Arthamanowie
 Hrabstwo Artois ( County of Artois , The County of Artois , Hrabství Artois )
   Dynastia Kapetyngów ( Capetian House )
     Robert I Dobry            	                        1237-1250 ( wg D.Ś. ) ( Robert I (Robert I the Good) wg D.O.T.W.A.C.A.G.H. )
-                                                        przed 1249-po 1250 (?-8.2.) ( Robert wg S.V.D.K.V. )
+                                                        przed 1249-po 1250 (?-8.2.) ( Robert (Robert I.) wg S.V.D.K.V. )
     Robert II Szlachetny	                              1250-1302 ( wg D.Ś. ) ( Robert II (Robert II the Noble) wg D.O.T.W.A.C.A.G.H. )
     Matylda                       	                    1302-1329 ( wg D.Ś. ) ( Mahaut wg D.O.T.W.A.C.A.G.H. )
     Joanna I                     	                      1329-1330 ( wg D.Ś. ) ( Joan I wg D.O.T.W.A.C.A.G.H. )
@@ -2654,7 +2654,7 @@ County of Autun
 
 County of Auvergne ( Hrabství Auvergne , Hrabství Clermont )
   Bernard Hairyfoot                                     ? ( wg D.O.T.W.A.C.A.G.H. )
-  Robert                                                przed 1190 n.e.-? (28.7.-?) ( wg S.V.D.K.V. )
+  Robert                                                przed 1190 n.e.-? (28.7.-?) ( Robert z Clermontu wg S.V.D.K.V. )
   Bibliografia :
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
@@ -3736,7 +3736,7 @@ Béarn
 
 Béziers
   Raimond Roger Trencavel                               1194-1209 (?-po 14.8.) ( Raimond Roger wg S.V.D.K.V. ) [Ruler of Carcassone Raimond Roger Trencavel]  [Ruler of Albi Raimond Roger Trencavel] [Ruler of Razès Raimond Roger Trencavel]
-  Raimond II.                                           ? ( Raimond Trencavel wg S.V.D.K.V. ) [Ruler of Carcassone Raimond II] [Ruler of Limoux Raimond II]
+  Raimond II.                                           ? ( Raimond Trencavel (Raimond z Trencavelu) wg S.V.D.K.V. ) [Ruler of Carcassone Raimond II] [Ruler of Limoux Raimond II]
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
@@ -5097,7 +5097,7 @@ Księstwo Capua ( Kapua , Księstwo Kapui )
 
 Carcassone
   Raimond Roger Trencavel                               1194-1209 (?-po 14.8.) ( Raimond Roger wg S.V.D.K.V. ) [Ruler of Béziers Raimond Roger Trencavel]  [Ruler of Albi Raimond Roger Trencavel] [Ruler of Razès Raimond Roger Trencavel]
-  Raimond II.                                           ? ( Raimond Trencavel wg S.V.D.K.V. ) [Ruler of Béziers Raimond II] [Ruler of Limoux Raimond II]
+  Raimond II.                                           ? ( Raimond Trencavel (Raimond z Trencavelu) wg S.V.D.K.V. ) [Ruler of Béziers Raimond II] [Ruler of Limoux Raimond II]
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
@@ -7402,6 +7402,7 @@ Danes
 
 Dania ( Denmark , Tannmarkar , Dánsko )
   Skiold			                                          ok.40 p.n.e.-ok.1 n.e. ( wg V.N.M.S.D. )
+  Jarmeryk                                              ? ( wg G.R.I.L. )
   Ribe
     Angantyr                                            przed ok.725-? ( wg N.T.V.S. )
   Sjælland
@@ -7572,10 +7573,11 @@ Dania ( Denmark , Tannmarkar , Dánsko )
       Małgorzata I	                                    1387-1396 ( wg D.Ś. ) ( Margaret I wg D.O.T.W.A.C.A.G.H. )
                                                       	1387-1412 ( wg V.N.M.S.D. i Tapsella )
     Dynastia pomorska ( House of Pomerania )
-      Eryk VII         	                                1396-1439 ( wg D.Ś. ) ( Erik VII wg D.O.T.W.A.C.A.G.H. )
+      Eryk VII         	                                1396-1439 ( wg D.Ś. ) ( Erik VII wg D.O.T.W.A.C.A.G.H. ) [King of Sweden Eryk XIII]
                                                	        1412-1438 ( wg V.N.M.S.D. )
                                                	        1412-1439 ( wg Tapsella )
       		             	                                przed 1427-? ( wg B.M. )
+                                                        przed 1434-? ( Eryk (Eryk Pomorski) wg G.R.I.L. )
     Dynastia z Palatynatu ( House of the Palatinate )
       Krzysztof III Bawarski	                          1440-1448 ( wg D.Ś. ) ( Christopher III of Bavaria wg D.O.T.W.A.C.A.G.H. )
                                                         1438-1448 ( wg V.N.M.S.D. )
@@ -7642,6 +7644,7 @@ Dania ( Denmark , Tannmarkar , Dánsko )
       Jezioro Pejpus 1242
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+      Goci - Rzeczywistość i legenda
 
 Daniszmendydzi ( Danišmendové )
   Dynastia Daniszmendydów
@@ -7965,7 +7968,7 @@ Dreros
       Zrození Řecka
 
 Hrabství Dreux
-  Robert I. z Dreux                                     przed 1147 n.e.-? ( wg S.V.D.K.V. ) [Count of Perche Robert]
+  Robert I. z Dreux                                     przed 1147 n.e.-? ( Robert I. wg S.V.D.K.V. ) [Count of Perche Robert]
   Robert II.                                            ? ( Robert II. z Dreux wg S.V.D.K.V. )
   Bibliografia :
       Svaté války - Dějiny křižových výprav
@@ -9886,6 +9889,7 @@ Florencja ( Florence , Florencie )
     Dynastia Medyceuszy ( Medyceusze , House of Medici )
       Cosimo Stary             	                        1434-1464 ( wg D.Ś. ) ( Cosimo the Elder wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1446-? ( Cosimo de'Medici (Kosma, Kuźma Medyceusz) wg H.W. )
+                                                        1434-? ( Kuźma Medyceusz wg G.R.I.L. )
       Piero I Podagryk        	                        1464-1469 ( wg D.Ś. ) ( Piero I (Piero I the Gouty) wg D.O.T.W.A.C.A.G.H. )
       Giuliano de'Medici                                ?-1478 ( wg H.W. )
       Lorenzo Wspaniały    	                            1469-1492 ( wg D.Ś. ) ( Lorenzo the Magnificent wg D.O.T.W.A.C.A.G.H. )
@@ -9912,6 +9916,7 @@ Florencja ( Florence , Florencie )
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+      Goci - Rzeczywistość i legenda
 
 County of Foix ( Hrabství Foix )
   Roger                                                 przed 1095-? (?.4.-?) ( wg S.V.D.K.V. )
@@ -10858,17 +10863,38 @@ Glingu
   Bibliografia :
       Tybet - zarys historii kultury
 
-Goci ( Goths )
-  Kniwa            	                                    ok.250 n.e. ( wg P.C.R. )
-                                        	              przed 249-po 253 ( wg D.R. )
+Goci ( Goths , Gutones , Gotones , Guthi , Gothi , Gutonowie , Gotonowie , Gytonowie , The Goths )
+  Mars                                                  ? ( Mors (Wich) wg G.R.I.L. )
+  Tamyris                                               ? ( wg G.R.I.L. )
+  Antinus                                               ? ( wg G.R.I.L. )
+  Berig                                                 ok.1490 p.n.e.-? ( Veric (Berik) wg G.R.I.L. )
+  Gadarig                                               ? ( wg G.R.I.L. )
   Filimer           	                                  ? ( wg H. ) ( Filemer wg Z.S.A.V.E. )
+                                                        ?-1324 ( wg G.R.I.L. )
+  Tanauzis                                              ok.1323-ok.1290 ( wg G.R.I.L. )
+  Argaith                                               przed 248 n.e.-? ( wg G.R.I.L. )
+  Gunteryk                                              przed 248-? ( wg G.R.I.L. )
+  Kniwa            	                                    ok.250 ( wg P.C.R. )
+                                        	              przed 249-po 253 ( wg D.R. )
+                                                        przed 250-? ( wg G.R.I.L. )
   Vinitharius	                                          przed 375-? ( wg Z.S.A.V.E. )
   Sarus              	                                  ok.406 ( wg P.C.R. )
+  Gotfryd                                               ? ( Gotefrid wg G.R.I.L. )
+  Widigoia                                              ? ( wg G.R.I.L. )
+  Svevlad I                                             przed ok.495-? ( Svevlad wg G.R.I.L. )
+  Brus                                                  ok.500 ( wg G.R.I.L. )
+  Totilla                                               ok.500 ( wg G.R.I.L. )
+  Ostroilus                                             ok.500 ( Ostroil wg G.R.I.L. )
+  Svevlad II                                            ? ( wg G.R.I.L. )
+  Hreid-Goci ( Hrai-Gutanz , Hraeda , Hraede )
+    Heidrek                                             ? ( wg G.R.I.L. )
+    Angantyr                                            ? ( wg G.R.I.L. )
   Bibliografia :
       Poczet Cesarzy Rzymskich
       Dzieje Rzymu
       Hunové
       Zrod střední a východní Evropy
+      Goci - Rzeczywistość i legenda
 
 Państwo Gondopharesa
   Gondophares                                           ok.19-46
@@ -12066,7 +12092,7 @@ Holandia
       				                                          ?-1190 ( wg F.B.C.A.R. )
       Dirk VII              	                          1190-1203 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
       Wilhelm I            	                            1203-1222 ( wg D.Ś. i Tapsella ) ( William I wg D.O.T.W.A.C.A.G.H. )
-                                                        przed 1217-po 1217 (?.5.-21.10.) ( Vilém wg S.V.D.K.V. )
+                                                        przed 1217-po 1217 (?.5.-21.10.) ( Vilém (Vilém I.) wg S.V.D.K.V. )
       Floris IV              	                          1222-1234 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
       Wilhelm II           	                            1234-1256 ( wg D.Ś. i Tapsella ) ( William II wg D.O.T.W.A.C.A.G.H. ) [German King William]
       Floris V               	                          1256-1296 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
@@ -17134,6 +17160,7 @@ Litwa ( Litva , Lithuania )
                                                         ok.1350 ( Witold wg Z.N.E. )
                                                         przed 1412-? ( Witold (Witold Kiejstutowicz, Witold Aleksander) wg L.P.P. )
                                                         przed 1414-? ( Witold wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        przed 1415-? ( wg G.R.I.L. )
       Świdrygiełło ( Švitrigaila )   	                  1430-1432 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Svidrigaila wg V.K.T.H.O.H.E. )
       Zygmunt                              	            1432-1440 ( wg V.K.T.H.O.H.E. i D.Ś. ) ( Sigismund wg D.O.T.W.A.C.A.G.H. )
       Kazimierz                            	            1440-1492 ( wg D.Ś. ) ( Kazimierz III Jagiellończyk (Casimir IV Jagiellon, Casimir Jagiellończyk) wg V.K.T.H.O.H.E. ) ( Casimir wg D.O.T.W.A.C.A.G.H. ) [King of Poland Casimir IV]
@@ -17173,6 +17200,7 @@ Litwa ( Litva , Lithuania )
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+      Goci - Rzeczywistość i legenda
 
 Litwini
   Dom Centaurów ( House of Kentauras )
@@ -19518,7 +19546,7 @@ County of Montefeltro
 
 Montferrat
   Margrabstwo Montferrato
-    Vilém III.	                                        ? ( wg S.V.D.K.V. ) ( Vilém z Montferratu wg F.B.C.A.R. )
+    Vilém III.	                                        ? ( Vilém III. Starší wg S.V.D.K.V. ) ( Vilém z Montferratu wg F.B.C.A.R. )
     Konrád                         	                    ? ( wg F.B.C.A.R. ) [King of Jerusalem]
                                                         ?-1192 n.e. (?-28.4.) ( Konrad z Montferratu wg F.H.C.R. )
     Bonifacy z Montferratu                              przed 1204-? (Boniface I wg D.O.T.W.A.C.A.G.H.) [Lord of Thessalonica]
@@ -19616,7 +19644,7 @@ Moskwa ( Muscovy )
       				                                          1353-1359 (?-13.11.) ( Ivan II Ivanovič Sličný ( Krásný ) wg E.P. )
                                                         przed 1356-1359 ( Iwan II wg L.P.P. )
       Dymitr Doński                                     przed 1363-po 1375 ( Dymitr Iwanowicz (Dymitr) wg L.P.P. ) [Grand Prince of Vladimir]
-  Wielkie Księstwo Moskiewsko-Włodzimierskie ( Wielkie Księstwo Moskiewskie, Grand Duchy of Moscow )
+  Wielkie Księstwo Moskiewsko-Włodzimierskie ( Wielkie Księstwo Moskiewskie , Grand Duchy of Moscow , Wielkie Księstwo Moskwy )
     Dynastia Rurykowiczów ( House of Rurik )
       Dymitr Doński        	                            1359-1389 ( wg V.N.M.S.D. i D.Ś. ) ( Dimitri Donskoi wg D.O.T.W.A.C.A.G.H. ) [Grand Prince of Vladimir Dimitri Donskoi]
       			    	                                      przed 1380-? ( Dmitrij wg D.P.I.R.G. ) ( Dimitrij Donský wg Ř.S.J.Ď.S. ) ( Dymitr Iwanowicz (Dymitr) wg J.P.1242 )
@@ -19625,6 +19653,7 @@ Moskwa ( Muscovy )
       				                                          ? ( Vasilij I Dmitrijevič wg E.P. ) ( Vassili I wg T.S.O.I.C.O.T.W. )
       Wasyl II Ślepy		                                1425-1462 ( wg V.N.M.S.D. i D.Ś. ) ( Basil II (Basil II the Blind) wg D.O.T.W.A.C.A.G.H. ) ( Wasyl II (Wasyl II Rurykowicz) wg N.G.R.B.I.N.S. )
       				                                          przed 1425-? ( Vasilij II Vasiljevič wg E.P. )
+                                                        przed 1415-? ( Wasyl II wg G.R.I.L. )
       Iwan III Srogi         	                          1462-1505 ( wg D.Ś. i V.N.M.S.D. ) ( Ivan III wg D.P.I.R.G. ) ( Ivan III (Ivan III the Great) wg D.O.T.W.A.C.A.G.H. ) ( Iwan III (Ivan III, Iwan) wg N.G.R.B.I.N.S. )
       			    	                                      przed 1472-? ( Ivan III wg D.B. )
       				                                          przed 1471-? ( Ivan III Vasilijevič wg E.P. ) ( Iwan III wg J.P.1242 )
@@ -19652,6 +19681,7 @@ Moskwa ( Muscovy )
       Jezioro Pejpus 1242
       Dynasties of the World - A Chronological and Genealogical Handbook
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+      Goci - Rzeczywistość i legenda
 
 Mosul
   Emirat Mosulu
@@ -19964,7 +19994,7 @@ Królestwo Nawarry ( The Kingdom of Navarre , Navarra )
                                                         1005-1035 ( Sancho El Mayor wg V.K.T.H.O.H.E. )
     García III z Nájera         	                      1035-1054 ( wg D.Ś. ) ( García III of Nájera wg D.O.T.W.A.C.A.G.H. )
     Sancho IV z Penalén     	                          1054-1076 ( wg D.Ś. ) ( Sancho IV of Peñalén wg D.O.T.W.A.C.A.G.H. )
-                                                        przed 1069-? ( Sancho IV. Navarrský wg S.V.D.K.V. )
+                                                        przed 1069-? ( Sancho IV. Navarrský (Sancho IV.) wg S.V.D.K.V. )
     Sancho V                       	                    1076-1094 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ?-1094 ( Sancho Ramírez wg V.K.T.H.O.H.E. )
     Pedro I                           	                1094-1104 ( wg D.Ś. ) ( Peter I wg D.O.T.W.A.C.A.G.H. )
@@ -19974,7 +20004,7 @@ Królestwo Nawarry ( The Kingdom of Navarre , Navarra )
                                                         ? ( Garcia IV wg V.K.T.H.O.H.E. )
     Sancho VI Mądry          	                          1150-1194 ( wg D.Ś. ) ( Sancho VI (Sancho VI the Wise) wg D.O.T.W.A.C.A.G.H. )
     Sancho VII Mocny        	                          1194-1234 ( wg D.Ś. ) ( Sancho VII (Sancho VII the Strong) wg D.O.T.W.A.C.A.G.H. )
-                                                        przed 1212-? (6.7.-?) ( Sancho VII. Navarrský wg S.V.D.K.V. )
+                                                        przed 1212-? (6.7.-?) ( Sancho VII. Navarrský (Sancho VII.) wg S.V.D.K.V. )
   Dynastia szampańska ( House of Champagne )
     Tybald I Pogrobowiec		                            1234-1253 ( wg D.Ś. ) ( Thibaut I (Thibaut I the Posthumous, Thibaut IV, Thibaut IV the Posthumous) wg D.O.T.W.A.C.A.G.H. ) ( Theobald IV. (Theobald IV. ze Champagne, Theobald ze Champagne, Theobald) wg S.V.D.K.V. )
     Tybald II                           	              1253-1270 ( wg D.Ś. ) ( Thibaut II wg D.O.T.W.A.C.A.G.H. )
@@ -20439,7 +20469,7 @@ Niemcy ( Germany , Německo )
     House of Habsburg
       Rudolf Habsburg                                   przed 1274-? ( wg L.P.P. )
                                                         ? ( wg H.W. )
-                                                        1273-1291 ( Rudolf I wg D.O.T.W.A.C.A.G.H. ) ( Rudolf I. wg S.V.D.K.V. )
+                                                        1273-1291 ( Rudolf I wg D.O.T.W.A.C.A.G.H. ) ( Rudolf I. (Rudolf Habsburský) wg S.V.D.K.V. )
     House of Nassau
       Adolf                                             1292-1298 ( wg D.O.T.W.A.C.A.G.H. ) ( Adolf Nasavský wg S.V.D.K.V. )
     House of Habsburg
@@ -20642,7 +20672,7 @@ Normandia ( Normannia , Normandy , Normandie )
       Ryszard III                                       1026-1027 ( wg D.Ś. ) ( Richard III wg N.T.V.S. i D.O.T.W.A.C.A.G.H. )
       Robert I Diabeł                              	    1027-1035 ( wg D.Ś. i V.N.M.S.D. ) ( Robert the Magnificent wg N.T.V.S. ) ( Robert Wspaniały wg N.I.B.W.XI.S. ) ( Robert I (Robert I the Magnificent) wg D.O.T.W.A.C.A.G.H. )
         					                                      ?-1035 ( wg 100.N.V.S. )
-                                                        ?-1034/5 ( Robert (Robert I. Ďábel, Robert I. Statečný) wg S.V.D.K.V. )
+                                                        ?-1034/5 ( Robert (Robert I. Ďábel, Robert I. Statečný, Robert I.) wg S.V.D.K.V. )
       Wilhelm II Zdobywca                          	    1035-1087 (?-9.9.) ( wg 100.N.V.S. ) [King of England]
                                                         1035-1087 ( wg D.Ś. i V.N.M.S.D. ) ( William the Conqueror wg N.T.V.S. ) ( William II (William II the Conqueror) wg D.O.T.W.A.C.A.G.H. )
         					      	                              przed 1066-?  ( Vilém wg D.P.I.R.G. ) ( Wilhelm Zdobywca wg B.M. i N.I.B.W.XI.S. ) ( Vilém Dobyvatel wg Ř.S.J.Ď.S. )
@@ -20650,7 +20680,7 @@ Normandia ( Normannia , Normandy , Normandie )
                                                         przed 1066-po 1069 ( Vilém Dobyvatel (Vilém, Vilém Normanský) wg S.V.D.K.V. )
       Robert II Courte Heuse ( Krótkonogi )	            1087-1106 ( wg D.Ś. i V.N.M.S.D. i N.I.B.W.XI.S. ) ( Robert Curthose (Robert) wg N.T.V.S. ) ( Robert II (Robert II Curthose) wg D.O.T.W.A.C.A.G.H. )
         				                     	                  ok.1096 ( wg K.V. )
-                                                        przed 1095-po 1096 ( Robert II. Normandský (Robert, Robert Normandský, Robert Curthose) wg S.V.D.K.V. )
+                                                        przed 1095-po 1096 ( Robert II. Normandský (Robert, Robert Normandský, Robert Curthose, Robert II.) wg S.V.D.K.V. )
       Henryk I                                          1106-1135 ( wg D.Ś. ) ( Henry I wg D.O.T.W.A.C.A.G.H. ) [King of England]
     Dynastia z Blois ( House of Blois )
       Stefan  		                                      1135-1144 ( wg D.Ś. ) ( Stephen wg D.O.T.W.A.C.A.G.H. ) [King of England]
@@ -21557,8 +21587,9 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané )
                                                         1421-1451 ( wg V.N.M.S.D. ) ( Murad II. (Murad) wg S.V.D.K.V. )
       			             	                              1422-1451 ( wg D.B. )
                                                         przed 1438-po 1441 ( Murat II wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        1421-? ( wg G.R.I.L. )
       Mehmed II Zdobywca      	                        1444-1446 i 1451-1481 ( wg D.Ś. ) ( Mehmed II (Mehmed II the Conqueror) wg D.O.T.W.A.C.A.G.H. )
-                                                        1451-1481 ( wg V.N.M.S.D. ) ( Mehmed II Dobyvatel wg D.B. ) ( Mehmed II. Dobyvatel (Mehmed, Mehmed Dobyvatel, Mehmet II. Dobyvatel, Mehmed II.) wg S.V.D.K.V. )
+                                                        1451-1481 ( wg V.N.M.S.D. ) ( Mehmed II Dobyvatel wg D.B. ) ( Mehmed II. Dobyvatel (Mehmed, Mehmed Dobyvatel, Mehmet II. Dobyvatel, Mehmed II.) wg S.V.D.K.V. ) ( Muhammed II (Mahomet VIII) wg G.R.I.L. )
                                                         ok.1453 ( wg K.V. )
       					                                        przed 1453-? ( wg M.Ś. ) ( Mehmet wg Ř.S.J.Ď.S. ) ( Mehmed The Conqueror wg V.K.T.H.O.H.E. )
                                                         1451-1481 (?-3.5.) ( Mehmed II (Mehmed, Mehmed Zdobywca) wg H.W. )
@@ -21568,7 +21599,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané )
                                                         przed 1487-1512 ( Bajazyt II (Bajazyt) wg H.W. )
                                                         1481-1512 (?-24.4.) ( Bajezid II (Bajezid, Bajezid II Veli) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1501-? ( Bajezyd wg N.G.R.B.I.N.S. )
-      Selim I Groźny                 	                  1512-1520 ( wg D.Ś. i V.N.M.S.D. ) ( Selim I (Selim I the Grim) wg D.O.T.W.A.C.A.G.H. ) ( Selim I. (Selim I. Ukrutný, Selim Ukrutný) wg S.V.D.K.V. ) ( Selim I (Selim) wg N.G.R.B.I.N.S. )
+      Selim I Groźny                 	                  1512-1520 ( wg D.Ś. i V.N.M.S.D. ) ( Selim I (Selim I the Grim) wg D.O.T.W.A.C.A.G.H. ) ( Selim I. (Selim I. Ukrutný, Selim Ukrutný) wg S.V.D.K.V. ) ( Selim I (Selim) wg N.G.R.B.I.N.S. ) ( Salambek (Selim I) wg G.R.I.L. )
                                                         1512-1520 (?-?.9.) ( wg 100.N.V.S. )
                                                         1512-? ( Selim Groźny wg H.W. )
                                                         przed 1517-? ( Selim I wg T.S.O.I.C.O.T.W. )
@@ -21642,6 +21673,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané )
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+      Goci - Rzeczywistość i legenda
 
 Osroene
   Partamaspates                                         ? ( wg D.R. )
@@ -22885,7 +22917,7 @@ Polska ( Polsko , Poland )
       Ziemomisław	( Siemomysł )                         921-962 ( wg V.N.M.S.D. )
                                                         ? ( Ziemomysl ( Ziemuzil ) wg Z.S.A.V.E. )
                                                         ?-950/60 ( wg S.P.D.Z. )
-  Dynastia Piastów ( House of Piast )
+  Dynastia Piastów ( House of Piast , Piastowie )
     Mieszko I                          	                960-992 ( wg D.Ś. )
                                                         962-992 ( wg V.N.M.S.D. ) ( Měšek I wg Z.S.A.V.E. )
       			              	                            963-992 ( Měško I wg D.P.I.R.G. )
@@ -22895,12 +22927,13 @@ Polska ( Polsko , Poland )
                                                         przed 960-992 (?-25.5.) ( Mieszko wg S.P.D.Z. )
                                                         ok.960-992 (?-25.5.) ( Mieszko wg B.S. )
                                                         przed 966-po 991 ( Měšek I. wg S.V.D.K.V. )
+                                                        przed 965-? ( wg G.R.I.L. )
     Bolesław I Chrobry           	                      992-1025 ( wg D.Ś. i V.N.M.S.D. ) ( Boleslav Chrabrý wg D.P.I.R.G. ) ( Bolesław Chrobry wg Z.N.E. i W.W.K.R. ) ( Bolesław Chrobry (Bolesław I Wielki) wg S.P.D.Z. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. ) [King of Poland]
       			              	                            przed 993-po 1018 ( Boleslav Chrabrý wg Z.S.A.V.E. )
-                                                        ? ( Bolesław Chrobry wg O.K.C.J. ) ( Chrobry wg L.P.P. )
+                                                        ? ( Bolesław Chrobry wg O.K.C.J. ) ( Chrobry wg L.P.P. ) ( Bolesław Chrobry (Chrobry, Bolesław Chrobry Wielki) wg G.R.I.L. )
                                                         992-po 1018 (?-22.7.) ( Bolesław Chrobry (Chrobry) wg B.S. )
   Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland )
-    Dynastia Piastów ( House of Piast )
+    Dynastia Piastów ( House of Piast , Piastowie )
       Bolesław I Chrobry       	                        1025 ( wg D.Ś. i V.N.M.S.D. i W.W.K.R. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. )
                                                         1025 (?-12.6.) ( Bolesław Chrobry (Bolesław I Wielki) wg S.P.D.Z. )
       Mieszko II Lambert       	                        1025-1034 ( wg D.Ś. i V.N.M.S.D. ) ( Mieszko II (Lambert) wg D.O.T.W.A.C.A.G.H. )
@@ -22908,7 +22941,7 @@ Polska ( Polsko , Poland )
                                                         1025-1031 ( Mieszko II wg W.W.K.R. )
                                                         ?-1034 ( Mieszko II wg S.P.D.Z. )
                                                         ? ( Mieszko II wg L.P.P. i N.I.B.W.XI.S. )
-  Dynastia Piastów ( House of Piast )
+  Dynastia Piastów ( House of Piast , Piastowie )
     Mieszko II                                          1032-1034 ( wg W.W.K.R. ) [King of Poland]
                                                         ? ( wg B.S. )
     Bezprym                            	                1031-1032 ( wg D.Ś. )
@@ -22923,12 +22956,12 @@ Polska ( Polsko , Poland )
       				        	                                ? ( Boleslav II wg Z.S.A.V.E. ) ( Bolesław II Szczodry wg Z.N.E. ) ( Bolesław Szczodry (Bolesław) wg L.P.P. )
                                                         ?-1076 ( Bolesław Śmiały (Bolesław Szczodry) wg L.1241. )
   Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland )
-    Dynastia Piastów ( House of Piast )
+    Dynastia Piastów ( House of Piast , Piastowie )
       Bolesław II Śmiały        	                      1076-1079 ( wg D.Ś. ) ( Bolesław II Szczodry (Bolesław Szczodry) wg W.W.K.R. ) ( Bolesław II (Bolesław II the Bold) wg D.O.T.W.A.C.A.G.H. )
                                                         1076-1082 ( wg V.N.M.S.D. )
                                                         ? ( Bolesław Śmiały wg B.S. )
                                                         1076-? ( Bolesław Śmiały (Bolesław Szczodry) wg L.1241. )
-  Dynastia Piastów ( House of Piast )
+  Dynastia Piastów ( House of Piast , Piastowie )
     Władysław I Herman         	                        1079-1102 ( wg D.Ś. ) ( Władysław I (Herman) wg D.O.T.W.A.C.A.G.H. )
                                                         1082-1102 ( wg V.N.M.S.D. )
                                                         ? ( Władysław Herman wg O.K.C.J. i Z.N.E. i N.I.B.W.XI.S. )
@@ -22942,7 +22975,7 @@ Polska ( Polsko , Poland )
                                                         przed 1109-1138 (10.8.-28.10.) ( Bolesław Krzywousty (Krzywousty) wg B.S. )
                                                         przed 1138-? ( Bolesław Krzywousty wg L.1241. )
   Księstwo krakowskie ( Vévodství krakovské )
-    Dynastia Piastów ( House of Piast )
+    Dynastia Piastów ( House of Piast , Piastowie )
       Władysław II Wygnaniec   	                        1138-1146 ( wg D.Ś. ) ( Władysław II (Władysław II the Exile) wg D.O.T.W.A.C.A.G.H. )
                                                         1138-1145 ( wg V.N.M.S.D. )
       				  	                                      ? ( Vladislav II wg F.B.C.A.R. ) ( Władysław Wygnaniec wg L.1241. )
@@ -22989,6 +23022,7 @@ Polska ( Polsko , Poland )
                                                         przed 1257-? (9.6.-?) ( Bolesław Wstydliwy wg O.K.C.J. )
                                                         przed 1243-po 1264 ( Bolesław Wstydliwy (Bolesław V) wg Z.N.E. )
                                                         przed 1255-po 1265 ( Bolesław Wstydliwy (Bolesław) wg L.P.P. )
+                                                        ? ( Bolesław Wstydliwy wg G.R.I.L. )
       Leszek II Czarny                	                1279-1288 ( wg D.Ś. ) ( Leszek II (Leszek II the Black) wg D.O.T.W.A.C.A.G.H. )
                                                         1279-1289 ( wg V.N.M.S.D. )
                                                         ? ( wg O.K.C.J. )
@@ -23115,13 +23149,13 @@ Polska ( Polsko , Poland )
                                                         1300-? ( Václav II wg Z.S.A.V.E. )
                                                         ? ( wg L.P.P. )
       Wacław III                                        ? ( wg L.P.P. ) [King of Bohemia Wacław III]
-  Dynastia Piastów ( House of Piast )
+  Dynastia Piastów ( House of Piast , Piastowie )
     Władysław I Łokietek           	                    1305-1320 ( wg D.Ś. ) ( Władysław I the Short (Władysław I) wg D.O.T.W.A.C.A.G.H. ) [King of Poland]
                                                         1296-1320 ( wg V.N.M.S.D. )
       				          	                              ? ( Vladislav I Lokýtek wg Z.S.A.V.E. )
                                                         przed 1308-? ( Władysław Łokietek (Łokietek) wg L.P.P. )
   Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita )
-    Dynastia Piastów ( House of Piast )
+    Dynastia Piastów ( House of Piast , Piastowie )
       Władysław I Łokietek    	                        1320-1333 ( wg D.Ś. i V.N.M.S.D. ) ( Władysław I the Short (Władysław I) wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Władysław Łokietek wg O.K.C.J. ) ( wg T.R.L.Z.S.L.R.S.B. )
                                                         przed 1323-po 1331 ( Władysław Łokietek (Łokietek) wg L.P.P. )
@@ -23139,7 +23173,7 @@ Polska ( Polsko , Poland )
                                                		      1382-1399 ( wg V.N.M.S.D. )
                                                         ok.1400 ( wg O.K.C.J. )
                                                         1382-1386 ( wg V.K.T.H.O.H.E. )
-    Dynastia Jagiellonów ( House of Lithuania )
+    Dynastia Jagiellonów ( House of Lithuania , Jagiellonowie )
       Władysław II Jagiełło    	                        1386-1434 ( wg D.Ś. ) ( Władysław II Jagiełło (Jogaila) wg D.O.T.W.A.C.A.G.H. )
                                                         1399-1434 ( wg V.N.M.S.D. )
       					                                        1386-? ( Vladislav II Jagello wg Z.S.A.V.E. )
@@ -23148,6 +23182,7 @@ Polska ( Polsko , Poland )
                                                         ? ( Władysław Jagiełło (Jagiełło) wg L.P.P. )
                                                         przed 1387-po 1414 ( Jagiełło (Władysław Jagiełło) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1386-? ( Jogaila (Jahelko) wg S.V.D.K.V. )
+                                                        ?-1434 ( Władysław Jagiełło wg G.R.I.L. )
       Władysław III                	                    1434-1444 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Władysław III Warneńczyk (Ladislas Of Varna) wg V.K.T.H.O.H.E. ) [King of Hungary Władysław I]
                                                         1434-1445 ( wg V.N.M.S.D. )
       					                                        przed 1440-1444 ( ?-10.11. ) ( Vladislav II Jagellonský wg D.B. )
@@ -23272,6 +23307,7 @@ Polska ( Polsko , Poland )
       Krzysztof Wielicki - Piekło mnie nie chciało
       Svaté války - Dějiny křižových výprav
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+      Goci - Rzeczywistość i legenda
 
 Księstwo Połockie ( Principality of Polatsk , Polocké knížectví )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -23303,7 +23339,7 @@ Księstwo Pomorskie ( Pomorze Gdańskie )
   Świętopełk                                            przed 1113 n.e.-? ( wg B.S. )
   Świętopełk                                            ok.1245 ( wg Z.N.E. )
                                                         przed 1223-po 1227 (?-koniec) ( wg L.1241. )
-                                                        przed 1253-? ( Svantopolk wg S.V.D.K.V. )
+                                                        przed 1253-? ( Svantopolk (Swantopolk) wg S.V.D.K.V. )
   Městvin                                               ? ( wg S.V.D.K.V. )
   Bibliografia :
       Zapomianie narody Europy
@@ -25439,7 +25475,7 @@ Rzym
         Eudoksja Makrembolitissa	                      1067-1068 i 1071 ( wg D.Ś. ) ( Eudocia Macrembolitissa wg D.O.T.W.A.C.A.G.H. )
     				         	                                  1067 ( Eudokia Makrembolitissa wg D.B. )
                                                         1067 i 1071 ( Eudokia Makrembolitissa (Eudoksja) wg N.I.B.W.XI.S. )
-        Roman IV Diogenes          	                    1068-1071 ( wg D.Ś. i Tapsella ) ( Romanus IV Diogenes wg D.O.T.W.A.C.A.G.H. ) ( Roman IV (Roman, Roman Diogenes) wg N.I.B.W.XI.S. ) ( Roman IV. Diogenes (Roman IV.) wg S.V.D.K.V. )
+        Roman IV Diogenes          	                    1068-1071 ( wg D.Ś. i Tapsella ) ( Romanus IV Diogenes wg D.O.T.W.A.C.A.G.H. ) ( Roman IV (Roman, Roman Diogenes) wg N.I.B.W.XI.S. ) ( Roman IV. Diogenes (Roman IV. , Romanos IV. Diogenes) wg S.V.D.K.V. )
     				         	                                  1068-1071 (1.1.-?) ( Romanos IV Diogenes wg D.B. )
                                                         1068-1081 ( wg V.N.M.S.D. )
                                                         przed 1071-? ( Romanos Diogenes wg Ř.S.J.Ď.S. ) ( Romanos IV Diogenes wg S.II.W.I.J.C.Z.E.M.P. )
@@ -25622,7 +25658,7 @@ Rzym
       Svaté války - Dějiny křižových výprav
 
 Hrabství Saarbrücken
-  Šimon ze Saarbrückenu                                 przed 1218 n.e.-?
+  Šimon ze Saarbrückenu                                 przed 1218 n.e.-? ( Šimon wg S.V.D.K.V. )
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
@@ -27554,6 +27590,7 @@ Sydon ( Sidón )
   Ajnel                     	                          ok.335 ( wg F. )
   Abdalónymos        	                                  332-? ( Ballónymos wg S.H. )
   Eustach Garnier                                       1110 n.e.-? ( wg S.V.D.K.V. ) [Lord of Ceasarea]
+  Renaud Grenier                                        1171-1200 ( wg S.V.D.K.V. )
   Bibliografia :
       Starożytny Bliski Wschód
       Kralovská tažení ve starém Orientu
@@ -28201,7 +28238,8 @@ Szwecja ( Sweden , Švédsko )
                                              		        1365-1389 ( wg Tapsella )
     Dynastia duńska ( House of Denmark )
       Małgorzata                        	              1389-1412 ( wg Tapsella )
-      Eryk XIII z Pomorza         	                    1412-1440 ( wg Tapsella )
+      Eryk XIII z Pomorza         	                    1412-1440 ( wg Tapsella ) [King of Denmark Eryk VII]
+                                                        przed 1434-? ( Eryk (Eryk Pomorski) wg G.R.I.L. )
       Krzysztof z Bawarii           	                  1440-1448 ( wg Tapsella )
       Karol VIII Knutsson         	                    1448-1457 i 1464 -1465 i 1467-1470 ( wg D.Ś. i Tapsella ) ( Charles VIII (Charles VIII Knutsson) wg D.O.T.W.A.C.A.G.H. )
       Chrystian I                        	              1457-1464 i 1465-1467 ( wg D.Ś. ) ( Christian I wg D.O.T.W.A.C.A.G.H. ) [King of Denmark Christian I]
@@ -28214,9 +28252,11 @@ Szwecja ( Sweden , Švédsko )
     Dynastia Wazów ( House of Vasa )
       Gustaw I ( Gustav Vasa )       	                  1523-1560 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Gustavus I Vasa wg V.K.T.H.O.H.E. ) ( Gustavus I (Gustavus Vasa) wg D.O.T.W.A.C.A.G.H. )
       Eryk XIV                               	          1560-1568 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Erik XIV wg E.P. i D.O.T.W.A.C.A.G.H. )
+                                                        ? ( Eryk wg G.R.I.L. )
       Jan III                                      	    1568-1592 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( John III wg D.O.T.W.A.C.A.G.H. )
         					                                      ? ( Johan III wg E.P. )
                                                         1589-1592 ( John III Vasa wg V.K.T.H.O.H.E. )
+                                                        ok.1500 ( Gustaw I Waza wg G.R.I.L. )
       Zygmunt                                	          1592-1599 ( wg D.Ś. ) ( Sigismund wg D.O.T.W.A.C.A.G.H. ) ( Zygmunt III Waza wg N.G.R.B.I.N.S. ) [King of Poland Sigismund III]
                                                         1592-1604 ( wg Tapsella ) ( III wg V.N.M.S.D. )
                                                         1592-? ( Zygmunt III (Sigismund Vasa) wg V.K.T.H.O.H.E. )
@@ -28226,19 +28266,22 @@ Szwecja ( Sweden , Švédsko )
       Gustaw II Adolf                   	              1611-1632 ( ?-16.11. ) ( wg 100.N.V.S. )
         				      	                                1611-1632 ( wg D.Ś. i Tapsella i M.Ś. ) ( Gustavus Adolphus wg V.K.T.H.O.H.E. ) ( Gustavus II Adolphus wg D.O.T.W.A.C.A.G.H. )
                                                         1611-1633 ( wg V.N.M.S.D. )
+                                                        1611/7-1632 ( Gustaw Adolf wg G.R.I.L. )
       Krystyna                             	            1632-1654 ( wg D.Ś. i Tapsella ) ( Christina wg D.O.T.W.A.C.A.G.H. )
                                                         1633-1654 ( wg V.N.M.S.D. )
+                                                        ?-1654 ( wg G.R.I.L. )
     Dynastia z Palatynatu ( House of the Palatinate )
       Karol X Gustaw               	                    1654-1660 ( wg D.Ś. i V.N.M.S.D. i Tapsella i M.Ś. ) ( Charles X Gustavus wg D.O.T.W.A.C.A.G.H. )
         			             	                            przed 1658-? ( wg B.M. )
                                                         przed 1656-? ( Charles X Vasa wg V.K.T.H.O.H.E. )
+                                                        ? ( wg G.R.I.L. )
       Karol XI                           	              1660-1697 ( wg D.Ś. i V.N.M.S.D. i Tapsella i M.Ś. ) ( Charles XI wg D.O.T.W.A.C.A.G.H. )
         			             	                            ?-1697 ( wg 100.N.V.S. )
       Karol XII                          	              1697-1718 (?-30.11.) ( wg 100.N.V.S. )
         			             	                            1697-1718 ( wg D.Ś. i Tapsella i M.Ś. ) ( Charles XII wg D.O.T.W.A.C.A.G.H. )
                                                         1697-1719 ( wg V.N.M.S.D. )
         					                                      przed 1700-po 1709 ( Karel XII wg E.P. )
-        					                                      ? ( Karel XII Švédský wg B.O.R.H. )
+        					                                      ? ( Karel XII Švédský wg B.O.R.H. ) ( Charles XII wg G.R.I.L. )
                                                         przed 1700-po 1709 ( Charles XII wg V.K.T.H.O.H.E. )
       Ulryka Eleonora               	                  1718-1720 ( wg D.Ś. i Tapsella ) ( Ulrica Eleonora wg D.O.T.W.A.C.A.G.H. )
                                                         1719-1741 ( wg V.N.M.S.D. )
@@ -28284,6 +28327,7 @@ Szwecja ( Sweden , Švédsko )
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+      Goci - Rzeczywistość i legenda
 
 Shirvan
   Państwo Szyrwanszachów
@@ -29499,7 +29543,7 @@ Trypolis ( Tripolis )
   Hrabstwo Trypolisu ( The County of Tripoli , Hrabství Tripolis )
     Dynastia tuluzańska ( House of Toulouse )
       Rajmund I z Saint-Gilles	                        1102-1105 ( wg D.Ś. i K.V. ) ( Raymond I of St Gilles wg D.O.T.W.A.C.A.G.H. ) ( Raimond IV. Toulouský (Raimond I. Tripolský, Raimond I., Raimond IV. z Toulouse) wg S.V.D.K.V. ) [Count of Toulouse Raymond IV]
-      Wilhelm z Cerdagne               	                1105-1109 ( wg D.Ś. ) ( William of Cerdagne wg D.O.T.W.A.C.A.G.H. ) ( Vilém Jordan wg S.V.D.K.V. )
+      Wilhelm z Cerdagne               	                1105-1109 ( wg D.Ś. ) ( William of Cerdagne wg D.O.T.W.A.C.A.G.H. ) ( Vilém Jordan (Vilém-Jordan) wg S.V.D.K.V. )
       Bertrand                                  	      1109-1112 ( wg D.Ś. i S.V.D.K.V. ) ( Bertram wg D.O.T.W.A.C.A.G.H. ) [Count of Toulouse Bertram]
       Pons                                        	    1112-1137 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. i S.V.D.K.V. )
       Rajmund II                              	        1137-1152 ( wg D.Ś. ) ( Raymond II wg D.O.T.W.A.C.A.G.H. ) ( Raimond II. (Raimond II. Tripolský, Raimond z Tripolisu) wg S.V.D.K.V. )
