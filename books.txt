@@ -222,6 +222,7 @@ POP.SCIENCE :
         Przewodnik po filozofii w sześć godzin i kwadrans ; Witold Gombrowicz
         Summa Technologiae ; Stanisław Lem
         The Beginning of Infinity - Explanations that Transform the World ; David Deutsch
+        The Demon-haunted World - Science as a Candle in the Dark ; Carl Sagan
         The God Delusion ; Richard Dawkins
         Unpopular Essays ; Bertand Russell
     FIZYKA:

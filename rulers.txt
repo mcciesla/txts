@@ -1062,7 +1062,7 @@ Anglia ( England , Anglie )
       Jakub I        		                                1603-1625 (25.7.-27.3.) ( wg D.Ś. i V.N.M.S.D. i Tapsella ) [King of Scotland James VI]
 		              	                                    ok.1603-po 1624 ( wg O.A. )
 		              	                                    przed 1613-po 1616 ( wg W.I.A.P. )
-		              	                                    przed 1618-? ( wg 100.N.U.W. )
+		              	                                    przed 1618-? ( wg 100.N.U.W. ) ( James I (James) wg T.D.W.S.A.A.C.I.T.D. )
 		              	                                    przed 1606-po 1621 ( wg V.R.M. )
 				                                                ? ( wg E.P. ) ( Jakub wg H.W. )
                                                         przed 1616-? ( wg Ř.S.J.Ď.S. )
@@ -1108,7 +1108,7 @@ Anglia ( England , Anglie )
        				                                          ? ( Maria II Stuart wg M.Ś. )
     Dynastia Stuartów ( Stuarts , House of Stuart )
       Anna                	                            1702-1714 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Anne wg D.O.T.W.A.C.A.G.H. )
-				                                                1702-? ( wg 100.N.V.S. )
+				                                                1702-? ( wg 100.N.V.S. ) ( Anne wg T.D.W.S.A.A.C.I.T.D. )
 				                                                przed 1705-? ( wg 100.N.U.W. )
                                                         ? ( Anna Stuart wg H.W. )
     Dynastia hanowerska ( House of Hanover )
@@ -1124,7 +1124,7 @@ Anglia ( England , Anglie )
 			                                                  ? ( wg 100.N.U.W. ) ( George III wg U.E. )
 		          	                                        przed 1776-? ( wg M.Ś. )
                                                         przed 1762-? ( wg H.W. )
-  Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ( United Kingdom , Great Britain , Britain )
+  Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ( United Kingdom , Great Britain , Britain , British Empire , United Kingdom of Great Britain and Ireland , Empire )
     Dynastia hanowerska ( House of Hanover )
       Jerzy III       	                                1801-1820 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( George III wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
 			                                                  ? ( wg 100.N.U.W. )
@@ -1135,7 +1135,7 @@ Anglia ( England , Anglie )
                                                         przed 1822-? ( George IV wg V.K.T.H.O.H.E. )
       Wilhelm IV	                                      1830-1837 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( William IV wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
       Wiktoria    	                                    1837-1901 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Victoria (Alexandrine Victoire) wg V.K.T.H.O.H.E. ) ( Victoria wg D.O.T.W.A.C.A.G.H. )
-			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. i P.N.D. ) ( Victoria wg U.E. )
+			                                                  ? ( wg 100.N.U.W. i M.Ś. ) ( Viktorie wg V.R.M. i P.N.D. ) ( Victoria wg U.E. i T.D.W.S.A.A.C.I.T.D. )
                                                         przed 1881-? ( Victoria wg S.A.B.H.O.H. )
     Dynastia Sachsen-Coburg-Gotha ( House of Saxe-Coburg-Gotha )
       Edward VII         	                              1901-1910 ( wg D.Ś. i V.N.M.S.D. i Tapsella i V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
@@ -1229,6 +1229,7 @@ Anglia ( England , Anglie )
       Hovory s Janem Masarykem
       Svaté války - Dějiny křižových výprav
       Goci - Rzeczywistość i legenda
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Anglowie ( Angles )
   Bibliografia :
@@ -4163,9 +4164,10 @@ Bośnia
       Dějiny Byzance
       Encyklopedie panovníků
 
-Botswana
+Botswana ( Republic of Botswana )
   Bibliografia :
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Hrabstwo Boulogne ( Hrabství Boulogne )
   Eustach II.                                           ? ( wg S.V.D.K.V. )
@@ -5897,7 +5899,7 @@ Chiny ( Čína , China )
     Księstwo Pej Liang
     Księstwo Si Liang
       Li Hao			                                      ? ( wg D.D.T. )
-    Dynastia T´ang ( Tang , Dynastie Tchang , T'ang Dynasty )
+    Dynastia T´ang ( Tang , Dynastie Tchang , T'ang Dynasty , Tang Dynasty )
       Kao Tsu ( Li Jüan , Chin Jao Ti  )	              618-626 ( wg D.Ś. ) ( Sui Li Jüan wg H.C. ) ( Li-Jüan (Kao-cu) wg E.P. ) ( Gao Zu (Li Yuan, 唐高祖, 李渊) wg T.O.M.O.C.S.D. ) ( Li Yüan wg D.O.T.W.A.C.A.G.H. )
                                                         619-628 ( wg V.N.M.S.D. )
       						                                      618-626 ( 18.7.-4.9. ) ( Kaocu wg D.D.T. )
@@ -6272,7 +6274,7 @@ Chiny ( Čína , China )
     Mao Ce-Tung	                                        1949-1976 (20.10.-9.9.) ( wg 100.N.V.S. )
       			         	                                  przed 1954-po 1972 ( wg M.Ś. )
       			         	                                  przed 1956-? ( Mao Tse-tung wg T.Z.H.K. )
-      				                                          ? ( Mao Tse-tung wg S.S.F.Z.H. )
+      				                                          ? ( Mao Tse-tung wg S.S.F.Z.H. ) ( Mao Zedong wg T.D.W.S.A.A.C.I.T.D. )
                                                         przed 1960-? ( Mao Tse-tung wg F.C.A.R.F. )
                                                         przed 1959-? ( Mao wg K.W.N.I.W.D. )
                                                         1931-? i 1949-po 1964 (7.11.-? i ?-?.7.) ( Mao Ce-tung wg A.Č.D. )
@@ -6309,6 +6311,7 @@ Chiny ( Čína , China )
       Unpopular Essays
       Dynasties of the World - A Chronological and Genealogical Handbook
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Chios
   Hippoklos		                                          ?
@@ -10178,7 +10181,7 @@ Francja ( France , Francie )
       Ludwik XVI        	                              1774-1792 ( wg D.Ś. i Tapsella ) ( Louis XVI wg D.O.T.W.A.C.A.G.H. )
                                              	          1774-1789 ( wg V.N.M.S.D. )
 				                                                przed 1781-? ( wg 100.N.U.W. )
-				                                                ? ( wg M.Ś. i H.W. ) ( Ludvík XVI wg V.F.V. ) ( Ludvík XVI. wg P.N.D. )
+				                                                ? ( wg M.Ś. i H.W. ) ( Ludvík XVI wg V.F.V. ) ( Ludvík XVI. wg P.N.D. ) ( Louis XVI wg T.D.W.S.A.A.C.I.T.D. )
                                                         1774-1793 ( Louis XVI wg V.K.T.H.O.H.E. )
                                                         przed 1789-? ( Louis XVI wg S.A.B.H.O.H. )
       Ludwik XVII           	                          1793-1795 ( wg D.Ś. i V.N.M.S.D. )
@@ -10312,6 +10315,7 @@ Francja ( France , Francie )
       Dynasties of the World - A Chronological and Genealogical Handbook
       Hovory s Janem Masarykem
       Svaté války - Dějiny křižových výprav
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Frankfurt
   Principality of Frankfurt
@@ -12476,6 +12480,7 @@ Irak ( Iraq )
       				                                          ? ( wg M.P.M. ) ( Saddam Hussein wg S.A.B.H.O.H. )
                                                         przed 2000-? ( wg Ř.S.J.Ď.S. )
                                                         przed 2003-? ( Saddam Hussein wg E.N.T.C.F.R.S.H.A.P. )
+                                                        przed 1990-po 1991 ( Saddam Hussein (Hussein) wg T.D.W.S.A.A.C.I.T.D. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -12487,6 +12492,7 @@ Irak ( Iraq )
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
       Sapiens - A Brief History of Humankind
       Dynasties of the World - A Chronological and Genealogical Handbook
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Irkata
   Bibliografia :
@@ -14471,7 +14477,7 @@ Królestwo Kastylii i Leonu ( Kingdom of Castille , Kingdom of Castile and León
   Ferdynand III Święty   	                              1230-1252 ( wg D.Ś. i V.N.M.S.D. ) ( St Ferdinand III wg D.O.T.W.A.C.A.G.H. ) ( Ferdinand III. (Ferdinand III. Kastilský) wg S.V.D.K.V. )
       			         	                                  1232-1252 ( Ferdinand III Svatý wg M.A.E. )
   Alfonso X Mądry            	                          1252-1284 ( wg D.Ś. i V.N.M.S.D. ) ( Alfonso X Moudrý wg M.A.E. ) ( Alfonso X (Alfonso X the Learned) wg D.O.T.W.A.C.A.G.H. ) ( Alfons X. wg S.V.D.K.V. )
-      				                                          ? ( Alfons X Moudrý wg E.P. )
+      				                                          ? ( Alfons X Moudrý wg E.P. ) ( Alfonso the Wise wg T.D.W.S.A.A.C.I.T.D. )
                                                         1221-1284 ( Alfons X Kastilský wg Ř.S.J.Ď.S. )
                                                         ? ( Alfons X Kastylijski wg F.H.C.R. )
   Sancho IV Odważny      	                              1284-1295 ( wg D.Ś. i V.N.M.S.D. ) ( Sancho IV (Sancho IV the Fierce) wg D.O.T.W.A.C.A.G.H. ) ( Sancho IV. wg S.V.D.K.V. )
@@ -14537,6 +14543,7 @@ Królestwo Kastylii i Leonu ( Kingdom of Castille , Kingdom of Castile and León
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
       Goci - Rzeczywistość i legenda
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Kaszgaria
   Emirat Kaszgarii
@@ -15488,7 +15495,7 @@ Kościół ( Papežství )
   Euzebiusz                   	                        309-311 ( wg Tapsella )
   Miltiades                     	                      311-314 ( wg Tapsella )
   Sylwester I                  	                        314-335 ( wg Tapsella i K.R.I.C.R. )
-      			        	                                  ? ( Silvestr I wg Z.S.A.V.E. ) ( wg N.I.B.W.XI.S. )
+      			        	                                  ? ( Silvestr I wg Z.S.A.V.E. ) ( wg N.I.B.W.XI.S. ) ( Sylvester I (Sylvester) wg T.D.W.S.A.A.C.I.T.D. )
                                                         314-355 ( Silvestr I. wg S.V.D.K.V. )
   Marcus                        	                      335-337 ( wg Tapsella )
   Juliusz I                       	                    337-352 ( wg Tapsella )
@@ -15605,7 +15612,7 @@ Kościół ( Papežství )
     Szczepan III                                     		768-772 ( wg V.N.M.S.D. )
                                                 		    767-772 ( wg Tapsella )
     Hadrian I                                        		772-795 ( wg V.N.M.S.D. i Tapsella )
-      					             	                          ? ( Hadrián I wg Z.S.A.V.E. )
+      					             	                          ? ( Hadrián I wg Z.S.A.V.E. ) ( Adrian I wg T.D.W.S.A.A.C.I.T.D. )
                                                         przed 773-? ( wg Z.N.E. )
     Leon III                                         		795-816 ( wg V.N.M.S.D. i Tapsella ) ( Lev III. wg S.V.D.K.V. )
       					      		                              ok.800 ( wg 100.N.V.S.D. )
@@ -15982,6 +15989,7 @@ Kościół ( Papežství )
     Innocenty VIII ( Giovanni Battista Cibo )          	1484-1492 ( wg Tapsella i V.N.M.S.D. ) ( Inocenc VIII. wg S.V.D.K.V. )
                                                         ? ( wg M.N.C. )
                                                         przed 1484-po 1485 ( wg H.W. )
+                                                        przed 1484-1492 ( Innocent VIII (Innocent) wg T.D.W.S.A.A.C.I.T.D. )
     Aleksander VI ( Rodrigo Borgia )                   	1492-1503 ( wg Tapsella i V.N.M.S.D. ) ( Alexandr VI. (Borgia) wg S.V.D.K.V. )
       							                                    ? ( Alexandr VI wg Z.V.C. )
       							                                    przed 1493-? ( Alexander VI wg A.S.A.O.T.D.O.T.I. )
@@ -16081,6 +16089,7 @@ Kościół ( Papežství )
     Grzegorz XVI ( Bartolomeo Alberto Cappellari )	    1831-1846 ( wg Tapsella I V.N.M.S.D. )
       						                                      przed 1836-? ( Řehoř XVI wg O.L. )
     Pius IX ( Giovanni Mastai-Ferretti )               	1846-1878 ( wg V.N.M.S.D. i Tapsella )
+                                                        przed 1854-? ( wg T.D.W.S.A.A.C.I.T.D. )
     Leon XIII ( Gioacchino Pecci )                     	1878-1903 ( wg V.N.M.S.D. i Tapsella )
     Pius X Święty  ( Giuseppe Sarto )                  	1903-1914 ( wg V.N.M.S.D. i Tapsella )
     Benedykt XV ( Giacomo della Chiesa )               	1914 -1922 ( wg Tapsella i V.N.M.S.D. )
@@ -16098,7 +16107,7 @@ Kościół ( Papežství )
     Jan Paweł II ( Karol Wojtyła )                     	1979-? ( wg V.N.M.S.D. )
       							                                    1978-? ( wg Tapsella )
                                                         przed 1979-2005 ( John Paul II wg V.K.T.H.O.H.E. )
-                                                        ? ( wg T.R.L.Z.S.L.R.S.B. i P.U.D.D.L.D.R.I.P. )
+                                                        ? ( wg T.R.L.Z.S.L.R.S.B. i P.U.D.D.L.D.R.I.P. ) ( John Paul II wg T.D.W.S.A.A.C.I.T.D. )
                                                         przed 1980-2005 (17.2.-2.4.) ( wg K.W.P.M.N.C. )
                                                         przed 2001-? ( Jan Pavel II. wg S.V.D.K.V. )
     Francis                                             ? ( wg E.N.T.C.F.R.S.H.A.P. )
@@ -16152,6 +16161,7 @@ Kościół ( Papežství )
       Svaté války - Dějiny křižových výprav
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
       Goci - Rzeczywistość i legenda
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Kotyora
   Bibliografia :
@@ -17841,7 +17851,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia )
                                                         ok.333 ( wg F. )
 				    	                                          przed 334-po 332 ( wg D.R. )
 				    	                                          336-? ( wg S.C. )
-				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. i H.W. i F.H.C.R. i J.P.1242 ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. ) ( Aleksander Macedoński wg Z.N.E. i T.R.L.Z.S.L.R.S.B. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. ) ( Alexandr Makedonský wg A.Č.D. ) ( Alexander the Great wg S.A.B.H.O.H. ) ( Alexander wg U.E. ) ( Aleksander Wielki (Aleksander Macedoński, ALeksander) wg G.R.I.L. )
+				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. i H.W. i F.H.C.R. i J.P.1242 ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. i T.D.W.S.A.A.C.I.T.D. ) ( Aleksander Macedoński wg Z.N.E. i T.R.L.Z.S.L.R.S.B. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. ) ( Alexandr Makedonský wg A.Č.D. ) ( Alexander the Great wg S.A.B.H.O.H. ) ( Alexander wg U.E. ) ( Aleksander Wielki (Aleksander Macedoński, ALeksander) wg G.R.I.L. )
 				    	                                          przed 332-?  ( Aleksander Macedoński wg B.M. )
                                                         przed 324-323 ( ?-10.6. ) ( Alexandr Veliký wg T.H.S. )
 					                                              przed 332-323 ( Alexandr Veliký wg Ž.V.Ř.S. )
@@ -17991,6 +18001,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia )
       Záhadný ostrov
       Jezioro Pejpus 1242
       Goci - Rzeczywistość i legenda
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Machalata
   Bibliografia :
@@ -19944,9 +19955,10 @@ Namar
   Bibliografia :
       Huryci
 
-Namibia
+Namibia ( Republic of Namibia )
   Bibliografia :
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Namur
   Hrabstwo Namur ( County of Namur , Hrabství Namur )
@@ -20118,7 +20130,7 @@ Królestwo Nawarry ( The Kingdom of Navarre , Navarra )
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
 
-Neapol ( Neapolsko )
+Neapol ( Neapolsko , Naples )
   Księstwo Neapolu ( Duchy of Naples )
     Sergius IV		                                      przed 1029 n.e.-? ( wg D.B. )
                                                         przed 1030 n.e.-? ( Sergiusz IV wg F.H.C.R. ) ( Sergius wg N.T.V.S. )
@@ -20149,6 +20161,7 @@ Neapol ( Neapolsko )
                                                         1442/3-1458 (?-po ?.3.) ( Alfonso V The Magnanimous wg V.K.T.H.O.H.E. )
                                                         przed 1446-po 1454 ( Alfons V Aragoński (Alfons V) wg H.W. )
                                                         przed 1455-? (?.11.-?) ( Alfons V. (Alfons V. Aragonský) wg S.V.D.K.V. )
+                                                        ? ( Alfonso wg T.D.W.S.A.A.C.I.T.D. )
       Ferdynand I                      	                1458-1494 ( wg V.N.M.S.D. i D.Ś. ) ( Fernando I (Don Ferrante) wg V.K.T.H.O.H.E. ) ( Ferdinand I wg D.O.T.W.A.C.A.G.H. )
       					                                        1458-1494 ( ?-25.1. ) ( Ferdinand I Ferrante wg E.P. )
                                                         przed 1472-po 1483 ( Ferdynand wg H.W. )
@@ -20187,6 +20200,7 @@ Neapol ( Neapolsko )
       Normanowie i Bizancjum w XI stuleciu
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Królestwo Neapolu i Sycylii ( Kingdom of Sicily, Kingdom of Naples , Sicilské království )
   House of Hauteville
@@ -20597,7 +20611,7 @@ Niemcy ( Germany , Německo )
       			   	                                        1933-? ( wg 100.N.U.W. )
       			   	                                        1933-po 1941 ( wg M.Ś. )
                                                         1933-po 1945 (?-21.1.) ( wg V.K.T.H.O.H.E. )
-      			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. i M.W.H. ) ( Hitler wg E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i H.T.B.A.G. i U.E. ) ( A. Hitler (Hitler) wg P.U.D.D.L.D.R.I.P. )
+      			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. i M.W.H. ) ( Hitler wg E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i H.T.B.A.G. i U.E. i T.D.W.S.A.A.C.I.T.D. ) ( A. Hitler (Hitler) wg P.U.D.D.L.D.R.I.P. )
                                                         przed 1939-po 1941 (15.3.-22.6.) ( wg P.N.D. )
                                                         przed 1939-? (?.3.-?) ( Hitler wg H.S.J.M. )
                                                         przed 1939-? ( wg S.V.D.K.V. )
@@ -20649,6 +20663,7 @@ Niemcy ( Germany , Německo )
       Prawy umysł - Dlaczego dobrych ludzi dzieli religia i polityka
       Svaté války - Dějiny křižových výprav
       Goci - Rzeczywistość i legenda
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Niger
   Bibliografia :
@@ -24809,7 +24824,7 @@ Rzym
     						          		                          27 p.n.e.-14 n.e. ( ?-14.9. ) ( Gajusz Juliusz Cezar Oktawian wg D.R. )
                                                         30 p.n.e.-14 n.e. ( wg V.N.M.S.D. i Tapsella )
     						          		                          31 p.n.e.-14 n.e. ( wg D.P.I.R.G. )
-    							       	                              ? ( wg A.O.M.S.K.R. i D.B. i Z.Ř. ) ( Oktavián wg T. ) ( Oktawian August wg Z.N.E. ) ( Augustus wg S.A.B.H.O.H. ) ( Oktawian August (August) wg G.R.I.L. )
+    							       	                              ? ( wg A.O.M.S.K.R. i D.B. i Z.Ř. ) ( Oktavián wg T. ) ( Oktawian August wg Z.N.E. ) ( Augustus wg S.A.B.H.O.H. i T.D.W.S.A.A.C.I.T.D. ) ( Oktawian August (August) wg G.R.I.L. )
     						          		                          przed 23 p.n.e.-14 n.e. ( August wg Ř.V.G. )
     						          		                          27 p.n.e.-? ( wg S.H. )
     								                                    przed 14 p.n.e.-? ( wg E.P. )
@@ -25150,6 +25165,7 @@ Rzym
     								                                    przed 324-po 325 ( Konstantin I wg E.P. )
                                                         przed 330-? ( Konstantin Veliký wg Ř.S.J.Ď.S. ) ( Constantine wg V.K.T.H.O.H.E. )
                                                         306-? ( Constantine (Constantine the Great) wg S.A.B.H.O.H. ) ( Constantin the Great wg N.T.V.S. )
+                                                        ?-337 ( Constantine the Great (Constantine) wg T.D.W.S.A.A.C.I.T.D. )
       Valerius Licinianus Licinius 	                    308-324 (11.11.-18.9.) ( Licynian Licyniusz wg P.C.R. i K.R.I.C.R. )
     							  	                                  308-324 ( wg D.R. i E.P. ) ( Licinius wg D.O.T.W.A.C.A.G.H. ) ( Licyniusz wg G.R.I.L. )
     							  	                                  307-324 ( Gaius Flavius Valerius Licinius wg Tapsella )
@@ -25795,6 +25811,7 @@ Rzym
       Prawy umysł - Dlaczego dobrych ludzi dzieli religia i polityka
       Svaté války - Dějiny křižových výprav
       Goci - Rzeczywistość i legenda
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Hrabství Saarbrücken
   Šimon ze Saarbrückenu                                 przed 1218 n.e.-? ( Šimon wg S.V.D.K.V. )
@@ -27313,11 +27330,14 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
       					                                        ? ( wg V.N.M.S.D. i Ř.S.J.Ď.S. i V.K.T.H.O.H.E. i E.N.T.C.F.R.S.H.A.P. i H.S.J.M. )
       			                                            przed 1792-? ( Jerzy Waszyngton wg W.I.A.P. )
                                                         przed 1792-? (?.3.-?) ( wg T.B.O.I. )
+                                                        przed 1790-? (8.1.-?) ( wg T.D.W.S.A.A.C.I.T.D. )
   I. Adams				                                      ? ( wg V.N.M.S.D. )
+                                                        przed 1798-1801 ( John Adams wg T.D.W.S.A.A.C.I.T.D. )
   Thomas Jefferson		                                  przed 1801-? ( wg O.A. )
       				       	                                  ? ( wg V.N.M.S.D. i T.B.O.I. ) ( Jefferson wg Z.G.C.P.Z. ) ( T. Jefferson (Jefferson) wg P.U.D.D.L.D.R.I.P. )
                                                         przed 1803-? ( wg Ř.S.J.Ď.S. )
                                                         1801-1809 ( wg N.G.R.B.I.N.S. )
+                                                        1801-po 1802 ( Jefferson wg T.D.W.S.A.A.C.I.T.D. )
   James Madison		       	                              przed 1810-? ( wg W.I.A.P. )
                                                         ? ( wg V.N.M.S.D. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. )
                                                         przed 1812-po 1814 ( J.Madison wg Z.G.C.P.Z. )
@@ -27347,7 +27367,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
       					                                        ? ( wg V.N.M.S.D. i O.A. )
   Abraham Lincoln	 		                                  przed 1861-po 1864 ( wg 100.N.V.S. )
       				  	                                      przed 1862-? ( wg W.I.A.P. ) ( Lincoln wg Z.G.C.O.W.D. )
-      					                                        ? ( wg V.N.M.S.D. i V.R.M. i O.A.O.C.E. i E.N.T.C.F.R.S.H.A.P. ) ( Lincoln wg U.E. i H.S.J.M. ) ( A. Lincoln (Lincoln) wg P.U.D.D.L.D.R.I.P. )
+      					                                        ? ( wg V.N.M.S.D. i V.R.M. i O.A.O.C.E. i E.N.T.C.F.R.S.H.A.P. ) ( Lincoln wg U.E. i H.S.J.M. i T.D.W.S.A.A.C.I.T.D. ) ( A. Lincoln (Lincoln) wg P.U.D.D.L.D.R.I.P. )
   Konfederacja
     Jefferson Davis              	                      ok.1862 n.e. ( wg 100.N.V.S. )
   A. Johnson			                                      ? ( wg V.N.M.S.D. )
@@ -27383,7 +27403,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
   Franklin Delano Roosevelt      	                      1933-1945 ( wg V.N.M.S.D. )
       				        	                                przed 1939-po 1942 ( wg 100.N.V.S. )
       				        	                                przed 1939-po 1943 ( wg 100.N.U.W. )
-      					                                        ? ( wg O.L. i F.C.A.R.F. ) ( Roosevelt wg U.E. i H.S.J.M. ) ( Franklin Roosevelt wg P.U.D.D.L.D.R.I.P. ) ( Franklin D. Roosevelt wg M.V.M.P.P.N.P.R. )
+      					                                        ? ( wg O.L. i F.C.A.R.F. ) ( Roosevelt wg U.E. i H.S.J.M. ) ( Franklin Roosevelt wg P.U.D.D.L.D.R.I.P. i T.D.W.S.A.A.C.I.T.D. ) ( Franklin D. Roosevelt wg M.V.M.P.P.N.P.R. )
       				        	                                przed 1937-po 1938 ( wg M.Ś. )
                                                         przed 1936-po 1937 (?-5.8.) ( Roosevelt wg C.W.C.B.R. )
   Harry S. Truman                      	                1945-1953 ( wg V.N.M.S.D. )
@@ -27393,16 +27413,17 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
                                                         ? ( Truman wg H.O.E. i H.S.J.M. ) ( Harry Truman wg C.W.C.B.R. )
                                                         przed 1948-? (?.11.-?) ( wg A.Č.D. )
                                                         przed 1945-? (?.8.-?) ( wg S.A.B.H.O.H. )
+                                                        przed 1947-po 1948 (24.9.-?) ( Harry S Truman (Harry Truman) wg T.D.W.S.A.A.C.I.T.D. )
   Dwight David Eisenhower        	                      1953-1961 ( wg V.N.M.S.D. i 100.N.V.S. )
       				         	                                przed 1953-po 1957 ( wg M.Ś. )
                                                         przed 1959-1961 ( ?.4.-20.1. ) ( wg F.C.A.R.F. )
-                                                        ? ( Eisenhower wg H.O.E. )
+                                                        ? ( Eisenhower wg H.O.E. ) ( Dwight Eisenhower wg T.D.W.S.A.A.C.I.T.D. )
                                                         przed 1960-? ( Dwight Eisenhower wg E.N.T.C.F.R.S.H.A.P. )
                                                         przed 1961-? ( Dwight Eisenhower wg S.A.B.H.O.H. )
                                                         przed 1952-? ( Dwight Eisenhower wg D.D.I.E.A.T.M.O.L. )
   John Fitzgerald Kennedy		                            1961-1963 ( wg V.N.M.S.D. )
                                                         1961-1963 ( 20.1.-22.11. ) ( wg F.C.A.R.F. )
-      				         	                                ? ( wg O.L. i M.Ś. ) ( John F. Kennedy wg E.N.T.C.F.R.S.H.A.P. ) ( John F. Kennedy (Kennedy) wg T.R.L.Z.S.L.R.S.B. )
+      				         	                                ? ( wg O.L. i M.Ś. ) ( John F. Kennedy wg E.N.T.C.F.R.S.H.A.P. ) ( John F. Kennedy (Kennedy) wg T.R.L.Z.S.L.R.S.B. ) ( John F. Kennedy (JFK, John Kennedy, Kennedy) wg T.D.W.S.A.A.C.I.T.D. )
                                                         przed 1961-? ( John F. Kennedy wg C.W.C.B.R. ) ( John F. Kennedy (J. F. Kennedy, Kennedy) wg P.U.D.D.L.D.R.I.P. )
                                                         przed 1962-? ( John F. Kennedy (Kennedy) wg T.B.O.I. )
   Lyndon B. Johnson                   	                1963-1969 ( wg V.N.M.S.D. )
@@ -27412,7 +27433,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
   Richard Milhous Nixon    		                          1969-1974 ( wg V.N.M.S.D. )
       					                                        1969-1974 ( ?.1.-?.8. ) ( wg M.Ś. )
                                                         przed 1969-po 1971 (?-24.12.) ( wg C.W.C.B.R. )
-                                                        ? ( Nixon (R. Nixon) wg P.U.D.D.L.D.R.I.P. )
+                                                        ? ( Nixon (R. Nixon) wg P.U.D.D.L.D.R.I.P. ) ( Richard M. Nixon (Richard Nixon) wg T.D.W.S.A.A.C.I.T.D. )
   Gerald Ford                           	              1974-1977 ( wg V.N.M.S.D. )
       				      	                                  przed 1975-po 1976 ( wg M.Ś. )
   James E. Carter                    	                  1977-1981 ( wg V.N.M.S.D. )
@@ -27421,11 +27442,12 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
                                                         przed 1980-? ( Jimmy Carter wg P.U.D.D.L.D.R.I.P. )
   Ronald Reagan                     	                  1981-1989 ( wg V.N.M.S.D. )
       				      	                                  1981-? ( wg M.Ś. )
-                                                        ? ( wg V.K.T.H.O.H.E. i M.V.M.P.P.N.P.R. ) ( Reagan wg P.U.D.D.L.D.R.I.P. )
+                                                        ? ( wg V.K.T.H.O.H.E. i M.V.M.P.P.N.P.R. ) ( Reagan wg P.U.D.D.L.D.R.I.P. i T.D.W.S.A.A.C.I.T.D. )
                                                         przed 1986-? ( wg E.N.T.C.F.R.S.H.A.P. )
   George Bush                         	                1989-? ( wg V.N.M.S.D. )
                                                         ? ( George H. W. Bush wg P.U.D.D.L.D.R.I.P. )
   Bill Clinton			                                    ? ( wg V.N.M.S.D. i E.N.T.C.F.R.S.H.A.P. ) ( B. Clinton wg P.U.D.D.L.D.R.I.P. )
+                                                        przed 1993-? (20.7.-?) ( Clinton wg T.D.W.S.A.A.C.I.T.D. )
   George W. Bush                                        przed 2001-po 2003 ( wg E.N.T.C.F.R.S.H.A.P. )
                                                         przed 2001-? (11.9.-?) ( George Bush jr. wg T.R.L.Z.S.L.R.S.B. )
                                                         ? ( G. W. Bush (Bush) wg P.U.D.D.L.D.R.I.P. )
@@ -27465,6 +27487,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
       Prawy umysł - Dlaczego dobrych ludzi dzieli religia i polityka
       Matematický vesmír - Moje pátrání po nejhlubší podstatě reality
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Księstwo Starodubskie
   Bibliografia :
@@ -32356,11 +32379,11 @@ Zwienigorod
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
 
 Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet Socialist Republics , Soyuz Sovetskikh Sotsialisticheskikh Republik , Sovětský svaz , Związek Radziecki , ZSRR , USSR , ZSRS )
-  Lenin                                                 ? ( wg F.C.A.R.F. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.S.O.I.C.O.T.W. i H.T.B.A.G. i U.E. i H.S.J.M. i K.W.P.M.N.C. ) ( Władimir I. Lenin (W.I.Lenin) wg T.R.L.Z.S.L.R.S.B. )
+  Lenin                                                 ? ( wg F.C.A.R.F. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.S.O.I.C.O.T.W. i H.T.B.A.G. i U.E. i H.S.J.M. i K.W.P.M.N.C. i T.D.W.S.A.A.C.I.T.D. ) ( Władimir I. Lenin (W.I.Lenin) wg T.R.L.Z.S.L.R.S.B. )
   Józef V. Stalin                       	              przed 1941-1953 ( wg 100.N.V.S. )
     				    	                                      przed 1934 -po 1945 ( wg M.Ś. )
                                                         przed 1953-? ( wg P.J.D. )
-                                                        ? ( wg Ř.S.J.Ď.S. i F.C.A.R.F. ) ( J.W.Stalin wg Z.N.E. ) ( Stalin wg H.T.B.A.G. i U.E. i K.W.P.M.N.C. )
+                                                        ? ( wg Ř.S.J.Ď.S. i F.C.A.R.F. ) ( J.W.Stalin wg Z.N.E. ) ( Stalin wg H.T.B.A.G. i U.E. i K.W.P.M.N.C. ) ( Stalin (Josef Stalin) wg T.D.W.S.A.A.C.I.T.D. )
                                                         przed 1939-po 1945 (?-21.1.)
                                                         1924-1953 (1.1.-?) ( Joseph Stalin wg V.K.T.H.O.H.E. )
                                                         przed 1932-po 1933 ( Stalin wg E.N.T.C.F.R.S.H.A.P. )
@@ -32370,11 +32393,11 @@ Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet
   Nikita Chruszczow                	                    1957-1964 ( wg 100.N.V.S. )
     				    	                                      przed 1960-? ( wg M.Ś. )
                                                         przed 1955-1964 ( ?-?.10. ) ( Nikita Khrushchev wg F.C.A.R.F. )
-                                                        ? ( Nikita Khrushchev wg V.K.T.H.O.H.E. ) ( Khrushchev wg E.N.T.C.F.R.S.H.A.P. )
+                                                        ? ( Nikita Khrushchev wg V.K.T.H.O.H.E. ) ( Khrushchev wg E.N.T.C.F.R.S.H.A.P. i T.D.W.S.A.A.C.I.T.D. )
                                                         przed 1962-? (?.12.-?) ( Nikita Khrushchev (Khrushchev, Nikita Sergeyevich) wg H.T.B.A.G. )
   Leonid Brežněv		                                    ?	( wg B.O.H.R. ) ( Leonid Brezhnev wg V.K.T.H.O.H.E. ) ( Brezhnev wg E.N.T.C.F.R.S.H.A.P. i H.T.B.A.G. ) ( Leonid I. Breżniew (Breżniew) wg T.R.L.Z.S.L.R.S.B. )
                                                         1964-po 1967 ( ?.10.-? ) ( wg F.C.A.R.F. )
-  Michaił Gorbaczow		                                  ? ( wg M.Ś. ) ( Mikhail Gorbachev wg S.A.B.H.O.H. ) ( Michaił S. Gorbaczow wg T.R.L.Z.S.L.R.S.B. )
+  Michaił Gorbaczow		                                  ? ( wg M.Ś. ) ( Mikhail Gorbachev wg S.A.B.H.O.H. ) ( Michaił S. Gorbaczow wg T.R.L.Z.S.L.R.S.B. ) ( Mikhail Gorbachev (Gorbachev) wg T.D.W.S.A.A.C.I.T.D. )
                                                         1985-1991 (?.3.-31.12.) ( Mikhail Gorbachev wg V.K.T.H.O.H.E. )
                                                         przed 1986-? ( Mikhail Gorbachev wg E.N.T.C.F.R.S.H.A.P. )
   presidents
@@ -32397,6 +32420,7 @@ Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet
       Jezioro Pejpus 1242
       Hovory s Janem Masarykem
       Krzysztof Wielicki - Piekło mnie nie chciało
+      The Demon-haunted World - Science as a Candle in the Dark
 
 Państwo Zyjadydów
   Ibrahim ibn Muhammad                                  859-902
@@ -32568,5 +32592,6 @@ Bibliografia :
     [127] Matematický vesmír - Moje pátrání po nejhlubší podstatě reality , Max Tegmark , 2016
     [128] Na granicach Rosji - Budowanie imperium na stepie 1500-1800 , Michael Khodarkovsky , 2009
     [129] Goci - Rzeczywistość i legenda , Jerzy Strzelczyk , 2015
+    [130] The Demon-haunted World - Science as a Candle in the Dark , Carl Sagan , 1997
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
