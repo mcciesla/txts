@@ -3,19 +3,16 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
       - Category Theory in Context - Emily Riehl
       - Kronika Slovanu - Helmold z Bosau
-      - The Elephant in the Brain: Hidden Motives in Everyday Life - Kevin Simler, Robin Hanson
-      - Not Born Yesterday: The Science of Who We Trust and What We Believe - Hugo Mercier
       - Speaking Our Minds - Thom Scott-Phillips
       - Radical Enlightenment - Jonathan Israel
       - Purely Functional Data Structures - Chris Okasaki
       - How to Solve It - George Pólya
       - Children of Time - Adrian Tchaikovsky
       - Colossus - Dennis Feltham Jones
-      - Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian, Tom Griffiths
-      - Hermann Buhl Climbing Without Compromise - Reinhold Messner, Horst Hofler
       - Notatki z podziemia - Fiodor Dostojewski
       - Type-driven Development with Idris - Edwin Brady
       - The Book of Why: The New Science of Cause and Effect - Judea Pearl & Dana Mackenzie
+      - Genesis - Bernard Beckett
       - Category Theory for Programmers - Bartosz Milewski
       - Causality: Models, Reasoning, and Inference - Judea Pearl
       - The Enigma of Reason - Dan Sperber, Hugo Mercier
@@ -114,11 +111,9 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
     Stanislaw Lem
                 - Oblok Magellana
                 - Pamietnik znaleziony w wannie
-                - Powrot z gwiazd
                 - Doskonala proznia
                 - Wielkosc urojona
                 - Golem XIV
-                - Pokoj na Ziemi
     Thorgal - wszystkie komiksy
     Wiedźmin Tom 3-8 - Andrzej Sapkowski [Karolina]
 movies - The Act of Killing - Joshua Oppenheimer
