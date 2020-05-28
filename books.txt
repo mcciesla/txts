@@ -215,6 +215,7 @@ POP.SCIENCE :
     ENCYKLOPEDIE:
         Moja pierwsza encyklopedia ; Simone Lamblin
     FILOZOFIA:
+        Darwin among the Machines - The Evolution of Global Intelligence ; George Dyson
         Darwin's Dangerous Idea - Evolution and the Meanings of Life ; Daniel C. Dennett
         Gödel, Escher, Bach - existenciální gordická balada ; Douglas R. Hofstadter
         Hovory s Janem Masarykem ; Viktor Fischl
