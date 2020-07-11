@@ -15,6 +15,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Genesis - Bernard Beckett
       - Category Theory for Programmers - Bartosz Milewski
       - Causality: Models, Reasoning, and Inference - Judea Pearl
+      - Sea People: The Puzzle of Polynesia - Christina Thompson
       - The Enigma of Reason - Dan Sperber, Hugo Mercier
       - Warriors and Worriers: The Survival of the Sexes - Joyce F. Benenson
       - The Strategy of Conflict - Thomas C. Schelling
