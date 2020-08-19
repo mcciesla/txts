@@ -353,7 +353,7 @@ POP.SCIENCE :
         Tiberius - pohnutý život císaře ; Roger Caratini
         Tvář helenistického světa ; Anna Świderková
         Tybet - zarys historii kultury ; David Snellgrove , Hugh Richardson
-        Vanished Kingdoms - The History of Half-Forgotten Europe , Norman Davies
+        Vanished Kingdoms - The History of Half-Forgotten Europe ; Norman Davies
         Války rudého muže ; Miloslav Stingl
         Velikáni francouzské vědy ; Eric Sartori
         Velká nástěnná mapa světových dějin ; Edward Hull
@@ -370,6 +370,7 @@ POP.SCIENCE :
         Zrození Řecka ; Michael Grant
         Židé v římském světě ; Michael Grant
     INFORMATYKA:
+        Algorithms to Live By - The Computer Science of Human Decisions ; Brian Christian , Tom Griffiths
         Časovaná bomba roku 2000 ; Richard Krejčí
         Sztuczna Inteligencja ; Witold Marciszewski
         Sztuczny Mózg - To Już Nie Fantazje ; Andrzej Buller
@@ -1163,6 +1164,7 @@ Lem , Stanisław - Bajki robotów - O
                                     - Test - O
                                     - Wypadek - O
                 - Pamiętnik Znaleziony w Wannie - O
+                - Pokój na Ziemi - O
                 - Próżnia Doskonała - O
                 - Rasa Drapieżców - O
                 - Sex Wars - O

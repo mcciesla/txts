@@ -17,6 +17,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Causality: Models, Reasoning, and Inference - Judea Pearl
       - Sea People: The Puzzle of Polynesia - Christina Thompson
       - The Enigma of Reason - Dan Sperber, Hugo Mercier
+      - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
       - Warriors and Worriers: The Survival of the Sexes - Joyce F. Benenson
       - The Strategy of Conflict - Thomas C. Schelling
       - Proofs from THE BOOK - Martin Aigner, Günter M. Ziegler
@@ -57,6 +58,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - They Thought They Were Free: The Germans, 1933-45 - Milton Mayer
       - In Praise of Forgetting : Historical Memory and Its Ironies - David Rieff
       - Information Theory and Coding - Norman Abramson
+      - Topology : A Categorical Approach - Tai-Danae Bradley, Tyler Bryson, John Terilla
       - Linear and Nonlinear Programming - David G. Luenberger
       - Problems in Philosophy: The Limits of Inquiry - Colin McGinn
       - Adventures of a Mathematician - Stanisław Marcin Ulam
