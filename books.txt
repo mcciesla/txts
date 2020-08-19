@@ -1109,7 +1109,8 @@ Le Guin , Ursula K. - A Wizard of Earthsea - O
                                   - Some Approaches to the Problem of the Shortage of Time - O
                                   - Sur - O
                     - The Word for World is Forest - O
-Lem , Stanisław - Bajki robotów - O
+Lem , Stanisław - Astronauci - O
+                - Bajki robotów - O
                             - Bajka o królu Murdasie - O
                             - Bajka o maszynie cyfrowej, co ze smokiem walczyła - O
                             - Biała śmierć - O
@@ -1125,58 +1126,8 @@ Lem , Stanisław - Bajki robotów - O
                             - Trzej elektrycerze - O
                             - Uranowe uszy - O
                             - Wielkie lanie - O
-				        - Cyberiada - O
-				        - Człowiek z Marsa - O
-                - Dylematy - O
-                - Dzienniki Gwiazdowe - O
-                            - Z Dzienikow gwiazdowych Iljona Tichego - O
-                                    - Podróż czternasta - O
-                                    - Podróż dwudziesta czwarta - O
-                                    - Podróż dwudziesta pierwsza - O
-                                    - Podróż jedenasta - O
-                                    - Podróż siódma - O
-                                    - Podróż trzynasta - O
-                            - Ze wspomnień Iljona Tichego - O
-                                    - Doktor Diagoras - O
-                                    - I - O
-                                    - III - O
-                                    - IV - O
-                                    - Profesor A. Dońda - O
-                                    - Ratujmy Kosmos (List otwarty Iljona Tichego) - O
-                                    - V (Tragedia pralnicza) - O
-                - Eden - O
-                - Głos Pana - O
-                - Fantastyka i Futurologia - O
-                - Filozofia Przypadku - O
-                - Katar - O
-                - Kongres Futurologiczny - O
-                - Niezwyciężony - O
-                - Okamgnienie - O
-                - Opowieści o pilocie Pirxie - O
-                                    - Albatros - O
-                                    - Ananke - O
-                                    - Odruch warunkowy - O
-                                    - Opowiadanie Pirxa - O
-                                    - Patrol - O
-                                    - Polowanie - O
-                                    - Rozprawa - O
-                                    - Terminus - O
-                                    - Test - O
-                                    - Wypadek - O
-                - Pamiętnik Znaleziony w Wannie - O
-                - Pokój na Ziemi - O
-                - Próżnia Doskonała - O
-                - Rasa Drapieżców - O
-                - Sex Wars - O
-                - Solaris - O
-                - Śledztwo - O
-                - Świat Na Krawędzi , ze Stanisławem Lemem rozmawia Tomasz Fiałkowski - O
-                - Tajemnica Chińskiego Pokoju - O
-                - Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś - O
-                - Teksty Ostatnie - O
-                - Wysoki Zamek - O
-                - Fiasko - O
-                - Astronauci - O
+				- Cyberiada - O
+				- Człowiek z Marsa - O
                 - Diabeł i arcydzieło - Teksty przełomowe - O
                                 - 10 życzeń na nowe tysiąclecie - O
                                 - Bezpieczna technika bez niebezpieczeństwa - O
@@ -1219,6 +1170,55 @@ Lem , Stanisław - Bajki robotów - O
                                 - Wykład inauguracyjny Golema. O człowieku trojako - O
                                 - Zakończenie metafuturologiczne - O
                                 - Zasada antropiczna - O
+                - Dylematy - O
+                - Dzienniki Gwiazdowe - O
+                            - Z Dzienikow gwiazdowych Iljona Tichego - O
+                                    - Podróż czternasta - O
+                                    - Podróż dwudziesta czwarta - O
+                                    - Podróż dwudziesta pierwsza - O
+                                    - Podróż jedenasta - O
+                                    - Podróż siódma - O
+                                    - Podróż trzynasta - O
+                            - Ze wspomnień Iljona Tichego - O
+                                    - Doktor Diagoras - O
+                                    - I - O
+                                    - III - O
+                                    - IV - O
+                                    - Profesor A. Dońda - O
+                                    - Ratujmy Kosmos (List otwarty Iljona Tichego) - O
+                                    - V (Tragedia pralnicza) - O
+                - Eden - O
+                - Fiasko - O
+                - Głos Pana - O
+                - Fantastyka i Futurologia - O
+                - Filozofia Przypadku - O
+                - Katar - O
+                - Kongres Futurologiczny - O
+                - Niezwyciężony - O
+                - Okamgnienie - O
+                - Opowieści o pilocie Pirxie - O
+                                    - Albatros - O
+                                    - Ananke - O
+                                    - Odruch warunkowy - O
+                                    - Opowiadanie Pirxa - O
+                                    - Patrol - O
+                                    - Polowanie - O
+                                    - Rozprawa - O
+                                    - Terminus - O
+                                    - Test - O
+                                    - Wypadek - O
+                - Pamiętnik Znaleziony w Wannie - O
+                - Pokój na Ziemi - O
+                - Próżnia Doskonała - O
+                - Rasa Drapieżców - O
+                - Sex Wars - O
+                - Solaris - O
+                - Śledztwo - O
+                - Świat Na Krawędzi , ze Stanisławem Lemem rozmawia Tomasz Fiałkowski - O
+                - Tajemnica Chińskiego Pokoju - O
+                - Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś - O
+                - Teksty Ostatnie - O
+                - Wysoki Zamek - O
 Lofting , Hugh - Doktor Dolittle i zielona kanarzyca - POL
 Lomová , Ivana ; Lomová , Lucie - Anča a Pepík na stopě - O
 London , Jack - Córka śniegów - POL

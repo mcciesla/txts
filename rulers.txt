@@ -2633,10 +2633,12 @@ Austria ( Rakousko )
   Rakousko-Uhersko
     Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
       Franciszek Józef I	                              1848-1916 ( wg D.Ś. i V.N.M.S.D. ) ( Franz-Josef (Franz-Joseph) wg V.K.T.H.O.H.E. ) ( Francis Joseph I wg D.O.T.W.A.C.A.G.H. )
-      			         	                                  ? ( wg M.Ś. i O.K.C.J. ) ( František Jozef I wg E.P. ) ( Franciszek Józef wg T.R.L.Z.S.L.R.S.B. ) ( Franc Josef wg H.S.J.M. )
+      			         	                                  ? ( wg M.Ś. i O.K.C.J. ) ( František Jozef I wg E.P. ) ( Franciszek Józef wg T.R.L.Z.S.L.R.S.B. i D.I.A.T.P. ) ( Franc Josef wg H.S.J.M. )
                                                         przed 1892-? (27.12.-?) ( wg P.N.D. )
                                                         przed 1913-? ( Franz Joseph wg D.A.T.M.T.E.O.G.I. )
       Karol I                 	                        1916-1918 ( wg D.Ś. i V.N.M.S.D. ) ( Charles wg V.K.T.H.O.H.E. ) ( Charles I wg D.O.T.W.A.C.A.G.H. )
+  chancellors
+    Bruno Kreisky                                       ? ( wg D.I.A.T.P. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -2658,6 +2660,7 @@ Austria ( Rakousko )
       Hovory s Janem Masarykem
       Svaté války - Dějiny křižových výprav
       Darwin among the Machines - The Evolution of Global Intelligence
+      Diabeł i arcydzieło - Teksty przełomowe
 
 County of Autun
   Richard The Justiciar                                 ? ( wg V.K.T.H.O.H.E. ) ( Richard the Justicer wg D.O.T.W.A.C.A.G.H. ) [Duke of Burgundy]
@@ -12243,7 +12246,7 @@ Hunowie ( Huns )
       					                                        434-453 ( wg 100.N.V.S. i K.R.I.C.R. i H. ) ( Attila wg D.B. )
       					                                        ?-453 ( wg D.R. ) ( Attila wg Z.S.A.V.E. ) ( Attila (Attila the Hun, Atli) wg N.T.V.S. )
       					                                        przed 441-453 ( wg S.C. )
-      					                                        ? ( wg D.D.T. i T.R.L.Z.S.L.R.S.B. ) ( Attila wg T.S.O.I.C.O.T.W. )
+      					                                        ? ( wg D.D.T. i T.R.L.Z.S.L.R.S.B. i D.I.A.T.P. ) ( Attila wg T.S.O.I.C.O.T.W. )
                                                         przed 436-? ( Attila wg V.K.T.H.O.H.E. )
                                                         435-453 ( Attila wg Ř.S.J.Ď.S. )
                                                         ?-451 ( wg S.M. )
@@ -12276,6 +12279,7 @@ Hunowie ( Huns )
       Tamerlane - Sword of Islam, Conqueror of the World
       Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś
       Goci - Rzeczywistość i legenda
+      Diabeł i arcydzieło - Teksty przełomowe
 
 Huroni ( Wyandotowie )
   Orontony                                              przed 1747 n.e.-? ( wg V.R.M. )
@@ -20613,13 +20617,13 @@ Niemcy ( Germany , Německo )
   Weimar Republic
     chancellors
       Von Papen                                         przed 1932-? ( wg V.K.T.H.O.H.E. )
-  3. Rzesza ( Third Reich , III. německá říše )
+  3. Rzesza ( Third Reich , III. německá říše , III Rzesza )
     Adolf Hitler           	                            1933-1945 (?-30.4.) ( wg 100.N.V.S. )
       			   	                                        przed 1944-? ( wg K.B.T. i P.S. )
       			   	                                        1933-? ( wg 100.N.U.W. )
       			   	                                        1933-po 1941 ( wg M.Ś. )
                                                         1933-po 1945 (?-21.1.) ( wg V.K.T.H.O.H.E. )
-      			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. i M.W.H. ) ( Hitler wg E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i H.T.B.A.G. i U.E. i T.D.W.S.A.A.C.I.T.D. i D.A.T.M.T.E.O.G.I. ) ( A. Hitler (Hitler) wg P.U.D.D.L.D.R.I.P. )
+      			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. i M.W.H. ) ( Hitler wg E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i H.T.B.A.G. i U.E. i T.D.W.S.A.A.C.I.T.D. i D.A.T.M.T.E.O.G.I. i D.I.A.T.P. ) ( A. Hitler (Hitler) wg P.U.D.D.L.D.R.I.P. )
                                                         przed 1939-po 1941 (15.3.-22.6.) ( wg P.N.D. )
                                                         przed 1939-? (?.3.-?) ( Hitler wg H.S.J.M. )
                                                         przed 1939-? ( wg S.V.D.K.V. )
@@ -20673,6 +20677,7 @@ Niemcy ( Germany , Německo )
       Goci - Rzeczywistość i legenda
       The Demon-haunted World - Science as a Candle in the Dark
       Darwin among the Machines - The Evolution of Global Intelligence
+      Diabeł i arcydzieło - Teksty przełomowe
 
 Niger
   Bibliografia :
@@ -32396,7 +32401,7 @@ Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet
   Józef V. Stalin                       	              przed 1941-1953 ( wg 100.N.V.S. )
     				    	                                      przed 1934 -po 1945 ( wg M.Ś. )
                                                         przed 1953-? ( wg P.J.D. )
-                                                        ? ( wg Ř.S.J.Ď.S. i F.C.A.R.F. ) ( J.W.Stalin wg Z.N.E. ) ( Stalin wg H.T.B.A.G. i U.E. i K.W.P.M.N.C. ) ( Stalin (Josef Stalin) wg T.D.W.S.A.A.C.I.T.D. )
+                                                        ? ( wg Ř.S.J.Ď.S. i F.C.A.R.F. ) ( J.W.Stalin wg Z.N.E. ) ( Stalin wg H.T.B.A.G. i U.E. i K.W.P.M.N.C. i D.I.A.T.P. ) ( Stalin (Josef Stalin) wg T.D.W.S.A.A.C.I.T.D. )
                                                         przed 1939-po 1945 (?-21.1.)
                                                         1924-1953 (1.1.-?) ( Joseph Stalin wg V.K.T.H.O.H.E. )
                                                         przed 1932-po 1933 ( Stalin wg E.N.T.C.F.R.S.H.A.P. )
@@ -32434,6 +32439,7 @@ Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet
       Hovory s Janem Masarykem
       Krzysztof Wielicki - Piekło mnie nie chciało
       The Demon-haunted World - Science as a Candle in the Dark
+      Diabeł i arcydzieło - Teksty przełomowe
 
 Państwo Zyjadydów
   Ibrahim ibn Muhammad                                  859-902
@@ -32607,5 +32613,6 @@ Bibliografia :
     [129] Goci - Rzeczywistość i legenda , Jerzy Strzelczyk , 2015
     [130] The Demon-haunted World - Science as a Candle in the Dark , Carl Sagan , 1997
     [131] Darwin among the Machines - The Evolution of Global Intelligence , George Dyson , 1997
+    [132] Diabeł i arcydzieło - Teksty przełomowe , Stanisław Lem , 2018
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
