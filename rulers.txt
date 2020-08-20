@@ -1163,6 +1163,7 @@ Anglia ( England , Anglie )
                                                         ? ( Lloyd George wg U.E. )
       Chamberlain                                       przed 1939-? (?.4.-?) ( wg H.S.J.M. )
       Winston Churchill                                 ? ( wg V.K.T.H.O.H.E. i E.N.T.C.F.R.S.H.A.P. ) ( Churchill wg U.E. ) ( Churchill (Winston) wg H.S.J.M. )
+                                                        przed 1954-? (9.11.-?) ( Winston S. Churchill (Churchill) wg A.T.L.B.T.C.S.O.H.D. )
       Clement Attlee                                    przed 1948-po 1949 ( wg V.K.T.H.O.H.E. )
                                                         ? ( Attlee wg U.E. )
   Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej ( United Kingdom , Great Britain , Britain )
@@ -1232,6 +1233,7 @@ Anglia ( England , Anglie )
       Goci - Rzeczywistość i legenda
       The Demon-haunted World - Science as a Candle in the Dark
       Darwin among the Machines - The Evolution of Global Intelligence
+      Algorithms to Live By - The Computer Science of Human Decisions
 
 Anglowie ( Angles )
   Bibliografia :
@@ -24208,8 +24210,10 @@ Rosja ( Russia , Rusko )
   Russian Federation ( Federacja Rosyjska )
     Boris Yeltsin                                       ? ( wg V.K.T.H.O.H.E. ) ( Boris N. Jelcyn (Jelcyn) wg T.R.L.Z.S.L.R.S.B. )
                                                         przed 1995-? (25.1.-?) ( Boris Jelcin wg M.V.M.P.P.N.P.R. )
+                                                        przed 1996-? ( wg A.T.L.B.T.C.S.O.H.D. )
     Vladimir Putin                                      przed 2000-po 2008 ( wg V.K.T.H.O.H.E. )
                                                         ? ( wg E.N.T.C.F.R.S.H.A.P. ) ( Władimir Putin wg T.R.L.Z.S.L.R.S.B. )
+                                                        1999-po 2000 (?-?.11.) ( Putin wg A.T.L.B.T.C.S.O.H.D. )
     Dmitri Medvedyev                                    przed 2010-? ( wg V.K.T.H.O.H.E. )
                                                         przed 2009-? ( Dmitry Medvedev wg E.N.T.C.F.R.S.H.A.P. )
   Bibliografia :
@@ -24242,6 +24246,7 @@ Rosja ( Russia , Rusko )
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
       Goci - Rzeczywistość i legenda
       Darwin among the Machines - The Evolution of Global Intelligence
+      Algorithms to Live By - The Computer Science of Human Decisions
 
 Księstwo Rostowskie
   Dynastia Rurykowiczów
@@ -27383,7 +27388,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
       					                                        ? ( wg V.N.M.S.D. i O.A. )
   Abraham Lincoln	 		                                  przed 1861-po 1864 ( wg 100.N.V.S. )
       				  	                                      przed 1862-? ( wg W.I.A.P. ) ( Lincoln wg Z.G.C.O.W.D. )
-      					                                        ? ( wg V.N.M.S.D. i V.R.M. i O.A.O.C.E. i E.N.T.C.F.R.S.H.A.P. ) ( Lincoln wg U.E. i H.S.J.M. i T.D.W.S.A.A.C.I.T.D. ) ( A. Lincoln (Lincoln) wg P.U.D.D.L.D.R.I.P. )
+      					                                        ? ( wg V.N.M.S.D. i V.R.M. i O.A.O.C.E. i E.N.T.C.F.R.S.H.A.P. ) ( Lincoln wg U.E. i H.S.J.M. i T.D.W.S.A.A.C.I.T.D. i A.T.L.B.T.C.S.O.H.D. ) ( A. Lincoln (Lincoln) wg P.U.D.D.L.D.R.I.P. )
   Konfederacja
     Jefferson Davis              	                      ok.1862 n.e. ( wg 100.N.V.S. )
   A. Johnson			                                      ? ( wg V.N.M.S.D. )
@@ -27471,7 +27476,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
   Barack Obama                                          2009-2017 ( Obama wg E.N.T.C.F.R.S.H.A.P. )
                                                         przed 2011-? ( Obama wg S.A.B.H.O.H. )
                                                         2009-? ( B. Obama (Obama) wg P.U.D.D.L.D.R.I.P. )
-                                                        przed 2012-? ( wg M.V.M.P.P.N.P.R. )
+                                                        przed 2012-? ( wg M.V.M.P.P.N.P.R. ) ( Obama wg A.T.L.B.T.C.S.O.H.D. )
   Donald Trump                                          2017-po 2017 (?-?.6.) ( wg E.N.T.C.F.R.S.H.A.P. )
   Bibliografia :
       Velká nástěnná mapa světových dějin
@@ -27506,6 +27511,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
       The Demon-haunted World - Science as a Candle in the Dark
       Darwin among the Machines - The Evolution of Global Intelligence
+      Algorithms to Live By - The Computer Science of Human Decisions
 
 Księstwo Starodubskie
   Bibliografia :
@@ -32614,5 +32620,6 @@ Bibliografia :
     [130] The Demon-haunted World - Science as a Candle in the Dark , Carl Sagan , 1997
     [131] Darwin among the Machines - The Evolution of Global Intelligence , George Dyson , 1997
     [132] Diabeł i arcydzieło - Teksty przełomowe , Stanisław Lem , 2018
+    [133] Algorithms to Live By - The Computer Science of Human Decisions , Brian Christian , Tom Griffiths , 2017
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
