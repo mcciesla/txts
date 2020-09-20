@@ -1,4 +1,5 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
+      - The Logic of Scientific Discovery - Karl Popper
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
       - Category Theory in Context - Emily Riehl
@@ -12,6 +13,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Notatki z podziemia - Fiodor Dostojewski
       - Type-driven Development with Idris - Edwin Brady
       - The Book of Why: The New Science of Cause and Effect - Judea Pearl & Dana Mackenzie
+      - The Open Society and Its Enemies - Karl Popper
       - Genesis - Bernard Beckett
       - Category Theory for Programmers - Bartosz Milewski
       - Causality: Models, Reasoning, and Inference - Judea Pearl
