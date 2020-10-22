@@ -50,6 +50,7 @@ Stanisław Lem - Ananke
               - Rozprawa
 Tadeusz Borowski - Pożegnanie z Marią (as whole collection of stories)
 Ursula K. Le Guin - The Dispossessed
+(Ruth C. Ellison) - The Saga of the Confederates (Bandamanna saga)
 ----------------
 Adam Bahdaj - Pilot i ja
 Andrzej Szczypiorski - Msza za miasto Arras
@@ -86,7 +87,9 @@ Ursula K. Le Guin - A Wizard of Earthsea
                   - The Tombs of Atuan
                   - The Ones Who Walk Away From Omelas
 William Golding - Lord of the Flies
+(Bernard Scudder) - Egil's Saga (Egils saga Skallagrímssonar)
 (Robert Cook) - Njal's Saga
+(Keneva Kunz) - The Saga of the People of Laxardal (Laxdaela saga)
 --------------------------------------------------------------------------------
 BEST NON-FICTION:
 -----------------
@@ -479,6 +482,25 @@ FICTION:
 ------------------
 ? - Zamarovský , Vojtech - Gilgameš - SVK
   - Cook , Robert - Njal's Saga - EN
+  - Örnólfur Thorsson , Jane Smiley , Robert Kellogg - The Sagas of the Icelanders - EN
+                                                                        - Egil's Saga (Egils saga Skallagrímssonar) - EN
+                                                                        - The Saga of the People of Vatnsdal (Vatnsdæla saga) - EN
+                                                                        - The Saga of the People of Laxardal (Laxdæla saga) - EN
+                                                                        - Bolli Bollason's Tale (Bolla þáttur Bollasonar) - EN
+                                                                        - The Saga of Hrafnkel Frey's Godi (Hrafnkels saga Freysgoða) - EN
+                                                                        - The Saga of the Confederates (Bandamanna saga) - EN
+                                                                        - Gisli Sursson's Saga (Gísli saga Súrssonar) - EN
+                                                                        - The Saga of Gunnlaug Serpent-tongue (Gunnlaugs saga ormstungu) - EN
+                                                                        - The Saga of Ref the Sly (Króka-Refs saga) - EN
+                                                                        - The Vinland Sagas - EN
+                                                                            - The Saga of the Greenlanders (Grænlendinga saga) - EN
+                                                                            - Eirik the Red's Saga (Eiríks saga rauða) - EN
+                                                                        - The Tale of Thorstein Staff-struck (Þorsteins þáttur stangarhöggs) - EN
+                                                                        - The Tale of Halldor Snorrason II (Halldórs þáttur Snorrasonar hinn síðari) - EN
+                                                                        - The Tale of Sarcastic Halli (Sneglu-Halla þáttur) - EN
+                                                                        - The Tale of Thorstein Shiver (Þorsteins þáttur skelks) - EN
+                                                                        - The Tale of Audun from the West Fjords (Auðunar þáttur vestfirska) - EN
+                                                                        - The Tale of the Story-wise Icelander () - EN
 Aldiss , Brian - Superhračky vydrží celé léto - CZ
                - Bez hlavy - CZ
                - Bělejší Mars - CZ

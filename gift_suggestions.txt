@@ -32,6 +32,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Artificial Intelligence for Humans, Volume 1: Fundamental Algorithms - Jeff Heaton
       - Artificial Intelligence for Humans, Volume 2: Nature-Inspired Algorithms - Jeff Heaton
       - Artificial Intelligence for Humans, Volume 3: Deep Learning and Neural Networks - Jeff Heaton
+      - Proof and the Art of Mathematics - Joel David Hamkins
       - Felony and the Guilty Mind in Medieval England - Elizabeth Papp Kamali
       - Dejiny Libye - Eduard Gombar
       - Dynastie Świata - Przewodnik chronologiczny i genealogiczny - John E.Morby
@@ -132,6 +133,4 @@ movies - The Act of Killing - Joshua Oppenheimer
 mountains
   - tents
     - Nemo Hornet 2P
-  - shoes
-    - Lowa Tibet GTX Men (Wide) - 45-46 EU
   - mobile power bank with solar panels
