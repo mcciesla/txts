@@ -144,6 +144,7 @@ PODRÓŻE:
     Zwierzęta z lasu dziewiczego ; Arkady Fiedler
 PSYCHOLOGIA:
     Thinking Fast and Slow ; Daniel Kahneman
+    Not Born Yesterday - The Science of Who We Trust and What We Believe ; Hugo Mercier
 SOCIOLOGIA:
     The Better Angels of Our Nature - A History of Violence and Humanity ; Steven Pinker
 OTHER:
@@ -424,6 +425,7 @@ POP.SCIENCE :
     PSYCHOLOGIA:
         Thinking Fast and Slow ; Daniel Kahneman
         Prawy umysł - Dlaczego dobrych ludzi dzieli religia i polityka ? ; Jonathan Haidt
+        Not Born Yesterday - The Science of Who We Trust and What We Believe ; Hugo Mercier
     SOCIOLOGIA:
         Outliers - The Story of Success ; Malcolm Gladwell
         The Better Angels of Our Nature - A History of Violence and Humanity ; Steven Pinker
@@ -500,7 +502,7 @@ FICTION:
                                                                         - The Tale of Sarcastic Halli (Sneglu-Halla þáttur) - EN
                                                                         - The Tale of Thorstein Shiver (Þorsteins þáttur skelks) - EN
                                                                         - The Tale of Audun from the West Fjords (Auðunar þáttur vestfirska) - EN
-                                                                        - The Tale of the Story-wise Icelander () - EN
+                                                                        - The Tale of the Story-wise Icelander (Íslendings þáttur sögufróða) - EN
 Aldiss , Brian - Superhračky vydrží celé léto - CZ
                - Bez hlavy - CZ
                - Bělejší Mars - CZ
