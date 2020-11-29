@@ -7,8 +7,11 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Speaking Our Minds - Thom Scott-Phillips
       - Radical Enlightenment - Jonathan Israel
       - Purely Functional Data Structures - Chris Okasaki
+      - Chlodwig , król Franków - Michel Rouche
+      - Burzliwe dzieje Kalifatu Bagdadzkiego - Jerzy Hauziński
       - How to Solve It - George Pólya
       - Children of Time - Adrian Tchaikovsky
+      - Otton I Wielki - Jerzy Strzelczyk
       - Colossus - Dennis Feltham Jones
       - Notatki z podziemia - Fiodor Dostojewski
       - Type-driven Development with Idris - Edwin Brady
@@ -130,6 +133,7 @@ movies - The Act of Killing - Joshua Oppenheimer
        - The Dawn Wall - Josh Lowell and Peter Mortimer
        - The Atomic Cafe
        - Free Solo
+       - The Climb - Donald Shebib - 1986
 mountains
   - tents
     - Nemo Hornet 2P
