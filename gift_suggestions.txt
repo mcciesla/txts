@@ -7,7 +7,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Chlodwig , król Franków - Michel Rouche
       - Burzliwe dzieje Kalifatu Bagdadzkiego - Jerzy Hauziński
       - How to Solve It - George Pólya
-      - Children of Time - Adrian Tchaikovsky
       - Otton I Wielki - Jerzy Strzelczyk
       - Colossus - Dennis Feltham Jones
       - Notatki z podziemia - Fiodor Dostojewski
@@ -94,7 +93,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Biological Physics: Energy, Information, Life - Philip Nelson
       - The Thermodynamic Machinery of Life - Michał Kurzyński
       - Expert C Programming: Deep C Secrets - Peter Van Der Linden
-      - Pure, White and Deadly - John Yudkin
       - From Logic Programming to Prolog - Krzysztof Apt
       - The Internationalists: How a Radical Plan to Outlaw War Remade the World - Oona A. Hathaway, Scott J. Shapiro
       - At Home in the Universe: The Search for the Laws of Self-Organization and Complexity - Stuart Kauffman
@@ -121,7 +119,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
                 - Wielkosc urojona
                 - Golem XIV
     Thorgal - wszystkie komiksy
-    Wiedźmin Tom 3-8 - Andrzej Sapkowski [Karolina]
+    Wiedźmin Tom 5-8 - Andrzej Sapkowski [Karolina]
 movies - The Act of Killing - Joshua Oppenheimer
        - The Look of Silence - Joshua Oppenheimer
        - Joseph Campbell and the Power of Myth
