@@ -18,6 +18,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Causality: Models, Reasoning, and Inference - Judea Pearl
       - Sea People: The Puzzle of Polynesia - Christina Thompson
       - The Enigma of Reason - Dan Sperber, Hugo Mercier
+      - The Plague Cycle: The Unending War Between Humanity and Infectious Disease - Charles Kenny
       - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
       - Warriors and Worriers: The Survival of the Sexes - Joyce F. Benenson
       - The Strategy of Conflict - Thomas C. Schelling
@@ -65,6 +66,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Problems in Philosophy: The Limits of Inquiry - Colin McGinn
       - Adventures of a Mathematician - Stanisław Marcin Ulam
       - Endless Forms Most Beautiful: The New Science of Evo Devo - Sean B. Carroll
+      - On the Origin of Species - Charles Darwin
       - The Sciences of the Artificial - Herbert A. Simon
       - An Illustrated Theory of Numbers - Martin H. Weissman
       - The Insect Societies - Edward O. Wilson
