@@ -1145,7 +1145,7 @@ Anglia ( England , Anglie )
 		          	                                        przed 1776-? ( wg M.Ś. )
                                                         przed 1762-? ( wg H.W. )
                                                         przed 1765-? ( George III wg H.O.W.P. )
-  Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ( United Kingdom , Great Britain , Britain , British Empire , United Kingdom of Great Britain and Ireland , Empire )
+  Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ( United Kingdom , Great Britain , Britain , British Empire , United Kingdom of Great Britain and Ireland , Empire , Zjednoczone Królestwo )
     Dynastia hanowerska ( House of Hanover )
       Jerzy III       	                                1801-1820 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( George III wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
 			                                                  ? ( wg 100.N.U.W. )
@@ -1168,6 +1168,7 @@ Anglia ( England , Anglie )
       Jerzy V                	                          1917-1936 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( George V wg D.O.T.W.A.C.A.G.H. )
                                                         1917-1936 (?.7.-?.1.) ( George V wg V.K.T.H.O.H.E. )
                                                         ok.1925 ( wg H.W. )
+                                                        przed 1924-? (17.10.-?) ( Jerzy V wg G.T.N.B.E. )
       Edward VIII         	                            1936 ( wg D.Ś. i V.N.M.S.D. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                         1936 (?-10.12.) ( wg V.K.T.H.O.H.E. )
       Jerzy VI               	                          1936-1952 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( George VI wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
@@ -1192,6 +1193,7 @@ Anglia ( England , Anglie )
                                                         1953-po 2011 (?-?.5.) ( Elizabeth II wg V.K.T.H.O.H.E. )
                                                         ? ( Elizabeth II wg D.D.I.E.A.T.M.O.L. )
                                                         1953-? (?.5.-?) ( Elizabeth II wg D.O.T.W.A.C.A.G.H. )
+                                                        1953-? (2.6.-?) ( wg G.T.N.B.E. )
     prime ministers
       Margaret Thatcher                                 przed 1984-? ( wg V.K.T.H.O.H.E. )
                                                         przed 1982-? ( wg E.N.T.C.F.R.S.H.A.P. )
@@ -1256,6 +1258,7 @@ Anglia ( England , Anglie )
       Algorithms to Live By - The Computer Science of Human Decisions
       The Sagas of the Icelanders
       History of Western Philosophy
+      Gdyby to nie byl Everest...
 
 Anglowie ( Angles )
   Bibliografia :
@@ -6262,6 +6265,7 @@ Chiny ( Čína , China )
       						    	                                1662-1722 ( K´ang-si wg T.Z.H.K. )
       							                                    1662-1722 ( ?-20.12. ) ( Kchang-si ( Šeng-cu ) wg E.P. )
                                                         ? ( Kchang-si wg A.Č.D. )
+                                                        przed 1708-po 1716 ( Kangxi wg G.T.N.B.E. )
       Jung Czeng ( Szy Tsung , Yinzhen )              	1722-1735 ( wg D.Ś. ) ( Shi Zong (Aisin Gioro Yinzhen, Yongzheng, 雍正帝, 胤禛) wg T.O.M.O.C.S.D. ) ( Yung Chêng (Shih Tsung) wg D.O.T.W.A.C.A.G.H. )
                                                      	  1723-1735 ( wg V.N.M.S.D. i T.Z.H.K. )
       						     	                                1723-1736 ( wg H.C. )
@@ -6373,6 +6377,7 @@ Chiny ( Čína , China )
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
       The Demon-haunted World - Science as a Candle in the Dark
       Not Born Yesterday - The Science of Who We Trust and What We Believe
+      Gdyby to nie byl Everest...
 
 Chios
   Hippoklos		                                          ?
@@ -16289,6 +16294,7 @@ Kościół ( Papežství )
                                                         ? ( wg T.R.L.Z.S.L.R.S.B. i P.U.D.D.L.D.R.I.P. ) ( John Paul II wg T.D.W.S.A.A.C.I.T.D. )
                                                         przed 1980-2005 (17.2.-2.4.) ( wg K.W.P.M.N.C. )
                                                         przed 2001-? ( Jan Pavel II. wg S.V.D.K.V. )
+                                                        1978-po 1980 (16.10.-?.6.) ( wg G.T.N.B.E. )
     Francis                                             ? ( wg E.N.T.C.F.R.S.H.A.P. )
                                                         przed 2016-? ( wg N.B.Y.T.S.O.W.W.T.A.W.W.B. )
   Bibliografia :
@@ -16346,6 +16352,7 @@ Kościół ( Papežství )
       The Sagas of the Icelanders
       Not Born Yesterday - The Science of Who We Trust and What We Believe
       History of Western Philosophy
+      Gdyby to nie byl Everest...
 
 Kotyora
   Bibliografia :
@@ -17180,6 +17187,10 @@ Lezginowie
 Lérida
   Bibliografia :
       Svaté války - Dějiny křižových výprav
+
+Liban
+  Bibliografia :
+      Gdyby to nie byl Everest...
 
 Liberia
   Ellen Johnson Sirleaf                                 ?
@@ -23670,11 +23681,13 @@ Polska ( Polsko , Poland )
     premiers
       Wincenty Witos                                    ? ( wg V.K.T.H.O.H.E. )
   Bolesław Bierut                                       ? ( wg T.R.L.Z.S.L.R.S.B. )
-  Gomulka                                               przed 1960-? ( wg F.C.A.R.F. )
-  Polska Rzeczpospolita Ludowa
+  Polska Rzeczpospolita Ludowa ( Polska Ludowa )
+    Gomulka                                             przed 1960-? ( wg F.C.A.R.F. )
+                                                        ? ( Władysław Gomułka wg G.T.N.B.E. )
     Edward Gierek                                       ? ( Gierek wg T.R.L.Z.S.L.R.S.B. )
                                                         przed 1980-po 1980 (17.2.-7.3.) ( wg K.W.P.M.N.C. )
-    Stanisław Kania                                     ? ( wg K.W.P.M.N.C. )
+                                                        przed 1980-po 1980 (17.2.-?.9.) ( Gierek wg G.T.N.B.E. )
+    Stanisław Kania                                     ? ( wg K.W.P.M.N.C. i G.T.N.B.E. )
     Wojciech Jaruzelski                                 ? ( Jaruzelski wg T.R.L.Z.S.L.R.S.B. )
                                                         przed 1981-1989 ( Jaruzelski wg K.W.P.M.N.C. )
   Rzeczpospolita Polska
@@ -23718,6 +23731,7 @@ Polska ( Polsko , Poland )
       Svaté války - Dějiny křižových výprav
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
       Goci - Rzeczywistość i legenda
+      Gdyby to nie byl Everest...
 
 Księstwo Połockie ( Principality of Polatsk , Polocké knížectví )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -33038,5 +33052,6 @@ Bibliografia :
     [135] Not Born Yesterday - The Science of Who We Trust and What We Believe , Hugo Mercier , 2020
     [136] Brytania 55-54 p.n.e. , Tomasz Romanowski , 2018
     [137] History of Western Philosophy , Bertrand Russell , 2004
+    [138] Gdyby to nie byl Everest... , Leszek Cichy , Piotr Trybalski , 2020
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/

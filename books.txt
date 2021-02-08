@@ -103,6 +103,7 @@ BIOLOGIA:
     Natura umysłów ; Daniel C. Dennett
     Rzeka genów ; Richard Dawkins
     Sobecký gen ; Richard Dawkins
+    Speaking Our Minds : Why Human Communication is Different, and how Language Evolved to Make it Special ; Thom Scott-Phillips
     The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
     The Blank Slate ; Steven Pinker
     The Language Instinct - How the Mind Creates Language ; Steven Pinker
@@ -133,6 +134,7 @@ MATEMATYKA:
 PODRÓŻE:
     Conquistadors of the Useless - From The Alps To Annapurna ; Lionel Terray
     Červená světlice na Nanga Parbatu ; Reinhold Messner
+    Gdyby to nie byl Everest... ; Leszek Cichy , Piotr Trybalski
     Into Thin Air , A personal account of the Everest disaster ; Jon Krakauer
     Karpatské hry ;  Miloslav Nevrlý
     Mój pionowy świat ; Jerzy Kukuczka
@@ -157,8 +159,9 @@ SCIENCE :
     BIOLOGIA:
         Wierzby - Salix Alba L. Salix fragilis L. ; Stefan Białobok , Krystyna Boratyńska , Adam Boratyński , Janina Borysiak , Władysław Chałupka , Jakub Dolatowski , Janusz B. Faliński , Jarosław Figaj , Maciej Giertych , Andrzej Grzywacz , Alina Hejnowicz , Piotr Kowalik , Janusz Surmiński , Bolesław Suszka , Alfred Szmidt
         First Signals - The Evolution of Multicellular Development ; John Tyler Bonner
-	  FILOZOFIA:
-		    Filozofia Logiki ; George S. Boolos , Susan Haack , Ian Hacking , Jean van Heijenoort , Gilbert Ryle , Gila Sher , Leslie H. Tharp , Hao Wang
+        Speaking Our Minds : Why Human Communication is Different, and how Language Evolved to Make it Special ; Thom Scott-Phillips
+	FILOZOFIA:
+	    Filozofia Logiki ; George S. Boolos , Susan Haack , Ian Hacking , Jean van Heijenoort , Gilbert Ryle , Gila Sher , Leslie H. Tharp , Hao Wang
     FIZYKA:
         Wybrane zagadnienia z astronomii ; Jerzy Marek Kreiner
         Základy speciální teorie relativity - učební text pro výuku fyziky v I. ročníku gymnázia ; Josef Fuka , Jan Maršák , Eva Tomanová
@@ -404,6 +407,7 @@ POP.SCIENCE :
         Dersu Uzala ; Wladimir K. Arsenjew
         Dzikie Banany ; Arkady Fiedler
         Gara jaka ; Desmond Varaday
+        Gdyby to nie byl Everest... ; Leszek Cichy , Piotr Trybalski
         Grónsko , "Takussagut" ; Karin Pavlosková
         Hermann Buhl - Climbing without Compromise ; Reinhold Messner , Horst Höchler
         Into The Wild ; Jon Krakauer
