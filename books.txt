@@ -190,6 +190,8 @@ POP.SCIENCE :
             Cesarz wszech chorób - Biografia raka ; Siddhartha Mukherjee
         NEUROLOGIA:
             Zdumiewająca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
+        NUTRITION
+            Pure, White and Deadly - How Sugar is Killing Us and What We Can Do to Stop It ; John Yudkin
         Červená královna - sexualita a vývoj lidské přirozenosti ; Matt Ridley
         Dinosauři - Velký obrazový atlas ; David Norman
         Entomologie w obrázcích ; Vitalij Tanasijcuk
@@ -272,6 +274,7 @@ POP.SCIENCE :
         Berlin 1945 ; Stanisław Komornicki
         Bilý orel, rudá hvězda ; Norman Davies
         Bitwa Jutlandzka 1916 ; Zbigniew Flisowski
+        Bitwa o Jawę ; Witold Supiński
         Bitwa o Skalbmierz 1944 ; Tadeusz Jurga
         Bitwy Morskie ; Edmund Kosiarz
         Bitwy Słowian ; Robert F. Barkowski
@@ -1641,6 +1644,7 @@ Szymański , Edward - Książka - O
 Świrszczyńska , Anna - Jak myszy zjadły Popiela - O
                      - O wesołej Ludwiczce - O
 Tchaikovsky , Adrian - Children of Time - O
+                     - Children of Ruin - O
 Tenn , William - Flirgelflip - POL
                - Każda kocha Irvinga Bommera - POL
                - Kustosz - POL
