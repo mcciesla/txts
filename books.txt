@@ -339,6 +339,7 @@ POP.SCIENCE :
         Okinawa ; Simon Foster
         Oktawian August - Ojciec Chrzestny Europy ; Richard Holland
         Pacifik v plamenech ; Miloš Hubáček
+        Pírátství - Úplné dějiny ; Angus Konstam
         Plachetnice ; Karl-Heinz Wieland
         Poczet Cesarzy Rzymskich ; Aleksander Krawczuk
         Poczet Wielkich Mistrzów Krzyżackich ; Paweł Pizuński
@@ -377,6 +378,8 @@ POP.SCIENCE :
         Wielcy Indianie Ameryki Północnej ; Zbigniew Teplicki
         Wielka wyprawa Księcia Racibora - Zdobycie grodu Konunhagela przez Słowian w 1136 roku ; Artur Szrejter
         Wielkie dni małej floty ; Jerzy Pertek
+        Za Wolność i Lud - Opowiadania z lat 1861-1864 ; Marya Wysłouchowa
+        Zaginione miasta - 50 najsłynniejszych odkryć ; Paul G. Bahn
         Zamach na Koppego ; Tadeusz Jurga
         Zapomniane narody Europy ; Jerzy Strzelczyk
         Zdraví Vás Caesar - Jak se žilo ve starém Římě ; Joachim Fernau
@@ -414,6 +417,7 @@ POP.SCIENCE :
         Gdyby to nie byl Everest... ; Leszek Cichy , Piotr Trybalski
         Grónsko , "Takussagut" ; Karin Pavlosková
         Hermann Buhl - Climbing without Compromise ; Reinhold Messner , Horst Höchler
+        Hory shora - Příběhy ze sedmi osmitisícovek ; Radek Jaroš , Arnošt Tabášek
         Into The Wild ; Jon Krakauer
         Into Thin Air , A personal account of the Everest disaster ; Jon Krakauer
         Karpatské hry ;  Miloslav Nevrlý
