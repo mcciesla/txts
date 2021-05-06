@@ -295,6 +295,7 @@ POP.SCIENCE :
         Dzieje Grecji ; N.G.L. Hammond
         Dzieje Rzymu ; Max Cary , Howard Hayes Scullard
         Fidel & Che - A revolutionary friendship ; Simon Reid-Henry
+        Fix melduje centrali... ; Z. Wiatr
         Foiničané ; Sabatino Moscati
         Fridrich Barbarossa , císař a rytíř ; Ferdinand Opll
         Fryderyk II Hohenstauf - Cesarz Rzymski ; Jerzy Hauziński
@@ -302,6 +303,7 @@ POP.SCIENCE :
         Guderian - Tankový generál ; Kenneth Macksey
         Heroes of Endurance ; Wanda Rutkowska
         Historia Powszechna - Starożytność ; Józef Wolski
+        Historia Starożytna - Podręcznik do nauki historii w klasie szóstej szkół ogólnokształcących ; S. I. Kovalev , Marie Pravdová
         Historia Wenecji ; John Julius Norwich
         Hunové ; Edward Arthur Thompson
         Huryci ; Maciej Popko
@@ -343,6 +345,7 @@ POP.SCIENCE :
         Plachetnice ; Karl-Heinz Wieland
         Poczet Cesarzy Rzymskich ; Aleksander Krawczuk
         Poczet Wielkich Mistrzów Krzyżackich ; Paweł Pizuński
+        Polacy w bitwie o Narwik ; Witold Biegański
         Pomnik w Kalkówce ; Tadeusz Jurga
         Przedmurze Starówki ; Bogusław Szumski
         Přemožitel neviditelných dravců ; František Gel
@@ -356,6 +359,7 @@ POP.SCIENCE :
         Słowianie połabscy - Dzieje zagłady ; Robert F. Barkowski
         Stanisław Lem - Životopis ; Pavel Weigel
         Starověká Indie ; Zbavitel Dušan
+        Starověká Persie ; Henri Stierlin
         Starożytne Cywilizacje ; John Haywood
         Starożytny Bliski Wschód ; Daniel Arnoud
         Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty ; Jerzy S. Łątka
@@ -435,6 +439,7 @@ POP.SCIENCE :
         W Ussuryjskim Kraju ; Wladimir K. Arsenjew
         Wspinaczka ; Anatolij Bukriejew , G. Weston DeWalt
         Wyspa kochających lemurów ; Arkady Fiedler
+        Z Panem Biegankiem w Abisynii ; Marian Brandys
         Zdobywamy Amazonkę ; Arkady Fiedler
         Zwierzęta z lasu dziewiczego ; Arkady Fiedler
     PSYCHOLOGIA:
@@ -461,6 +466,7 @@ POP.SCIENCE :
         Tajemství odhaleno ; Jiří Blecha
     Než přijde vakovlk ; Pavel Houser
     Siedem sensacji w nauce ; Marek Płużański
+    Svět hor ; Jiří Havel , Jan Štursa
     Věda kontra iracionalita 2 ; SISYFOS a AV ČR
     Vzpoura genů ; Pavel Houser
 OTHER :
@@ -1024,6 +1030,7 @@ Konopnicka , Maria - Na jagody - O
                         - Zajączek - O
                         - Zła zima - O
                         - Zmarzlak - O
+Korabiewicz , Wacław - Midimo - O
 Koreywo , Marek - Ludzie na Księżycu - O
 Kownacka , Maria - Ogródek - O
 Kozieradzka , Jadwiga - Dzieci taty Abecadła - O
