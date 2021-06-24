@@ -1,2 +1,6 @@
 - create geographical historical graph of how countries changed teritorially
 - try to create initial starting points in game of life using GA
+- plan routes
+            - Scotland over mountains
+            - Pyrenees traverse
+            - Balkan mountain traverse (Carpathian traverse continuation)

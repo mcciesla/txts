@@ -1,13 +1,10 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
+      - The Fabric of Reality - David Deutsch
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
       - Kronika Slovanu - Helmold z Bosau
-      - Radical Enlightenment - Jonathan Israel
       - Purely Functional Data Structures - Chris Okasaki
-      - Chlodwig , król Franków - Michel Rouche
-      - Burzliwe dzieje Kalifatu Bagdadzkiego - Jerzy Hauziński
       - How to Solve It - George Pólya
-      - Otton I Wielki - Jerzy Strzelczyk
       - Colossus - Dennis Feltham Jones
       - Notatki z podziemia - Fiodor Dostojewski
       - Type-driven Development with Idris - Edwin Brady
