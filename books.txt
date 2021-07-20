@@ -50,6 +50,7 @@ Stanisław Lem - Ananke
               - Rozprawa
 Tadeusz Borowski - Pożegnanie z Marią (as whole collection of stories)
 Ursula K. Le Guin - The Dispossessed
+(Ruth C. Ellison) - The Saga of the Confederates (Bandamanna saga)
 ----------------
 Adam Bahdaj - Pilot i ja
 Andrzej Szczypiorski - Msza za miasto Arras
@@ -86,7 +87,9 @@ Ursula K. Le Guin - A Wizard of Earthsea
                   - The Tombs of Atuan
                   - The Ones Who Walk Away From Omelas
 William Golding - Lord of the Flies
+(Bernard Scudder) - Egil's Saga (Egils saga Skallagrímssonar)
 (Robert Cook) - Njal's Saga
+(Keneva Kunz) - The Saga of the People of Laxardal (Laxdaela saga)
 --------------------------------------------------------------------------------
 BEST NON-FICTION:
 -----------------
@@ -100,6 +103,7 @@ BIOLOGIA:
     Natura umysłów ; Daniel C. Dennett
     Rzeka genów ; Richard Dawkins
     Sobecký gen ; Richard Dawkins
+    Speaking Our Minds : Why Human Communication is Different, and how Language Evolved to Make it Special ; Thom Scott-Phillips
     The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
     The Blank Slate ; Steven Pinker
     The Language Instinct - How the Mind Creates Language ; Steven Pinker
@@ -130,6 +134,7 @@ MATEMATYKA:
 PODRÓŻE:
     Conquistadors of the Useless - From The Alps To Annapurna ; Lionel Terray
     Červená světlice na Nanga Parbatu ; Reinhold Messner
+    Gdyby to nie byl Everest... ; Leszek Cichy , Piotr Trybalski
     Into Thin Air , A personal account of the Everest disaster ; Jon Krakauer
     Karpatské hry ;  Miloslav Nevrlý
     Mój pionowy świat ; Jerzy Kukuczka
@@ -141,6 +146,7 @@ PODRÓŻE:
     Zwierzęta z lasu dziewiczego ; Arkady Fiedler
 PSYCHOLOGIA:
     Thinking Fast and Slow ; Daniel Kahneman
+    Not Born Yesterday - The Science of Who We Trust and What We Believe ; Hugo Mercier
 SOCIOLOGIA:
     The Better Angels of Our Nature - A History of Violence and Humanity ; Steven Pinker
 OTHER:
@@ -153,8 +159,9 @@ SCIENCE :
     BIOLOGIA:
         Wierzby - Salix Alba L. Salix fragilis L. ; Stefan Białobok , Krystyna Boratyńska , Adam Boratyński , Janina Borysiak , Władysław Chałupka , Jakub Dolatowski , Janusz B. Faliński , Jarosław Figaj , Maciej Giertych , Andrzej Grzywacz , Alina Hejnowicz , Piotr Kowalik , Janusz Surmiński , Bolesław Suszka , Alfred Szmidt
         First Signals - The Evolution of Multicellular Development ; John Tyler Bonner
-	  FILOZOFIA:
-		    Filozofia Logiki ; George S. Boolos , Susan Haack , Ian Hacking , Jean van Heijenoort , Gilbert Ryle , Gila Sher , Leslie H. Tharp , Hao Wang
+        Speaking Our Minds : Why Human Communication is Different, and how Language Evolved to Make it Special ; Thom Scott-Phillips
+	FILOZOFIA:
+	    Filozofia Logiki ; George S. Boolos , Susan Haack , Ian Hacking , Jean van Heijenoort , Gilbert Ryle , Gila Sher , Leslie H. Tharp , Hao Wang
     FIZYKA:
         Wybrane zagadnienia z astronomii ; Jerzy Marek Kreiner
         Základy speciální teorie relativity - učební text pro výuku fyziky v I. ročníku gymnázia ; Josef Fuka , Jan Maršák , Eva Tomanová
@@ -183,6 +190,8 @@ POP.SCIENCE :
             Cesarz wszech chorób - Biografia raka ; Siddhartha Mukherjee
         NEUROLOGIA:
             Zdumiewająca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
+        NUTRITION
+            Pure, White and Deadly - How Sugar is Killing Us and What We Can Do to Stop It ; John Yudkin
         Červená královna - sexualita a vývoj lidské přirozenosti ; Matt Ridley
         Dinosauři - Velký obrazový atlas ; David Norman
         Entomologie w obrázcích ; Vitalij Tanasijcuk
@@ -220,6 +229,7 @@ POP.SCIENCE :
         Darwin among the Machines - The Evolution of Global Intelligence ; George Dyson
         Darwin's Dangerous Idea - Evolution and the Meanings of Life ; Daniel C. Dennett
         Gödel, Escher, Bach - existenciální gordická balada ; Douglas R. Hofstadter
+        History of Western Philosophy ; Bertrand Russell
         Hovory s Janem Masarykem ; Viktor Fischl
         Poszukiwanie języka doskonałego ; Umberto Eco
         Przewodnik po filozofii w sześć godzin i kwadrans ; Witold Gombrowicz
@@ -264,9 +274,11 @@ POP.SCIENCE :
         Berlin 1945 ; Stanisław Komornicki
         Bilý orel, rudá hvězda ; Norman Davies
         Bitwa Jutlandzka 1916 ; Zbigniew Flisowski
+        Bitwa o Jawę ; Witold Supiński
         Bitwa o Skalbmierz 1944 ; Tadeusz Jurga
         Bitwy Morskie ; Edmund Kosiarz
         Bitwy Słowian ; Robert F. Barkowski
+        Brytania 55-54 p.n.e. ; Tomasz Romanowski
         Burza Nad Pacyfikiem Tom II ; Zbigniew Flisowski
         Concertina ; Olgierd Terlecki
         Czarne wampuny głoszą wojnę ; Jan Szczepański
@@ -283,6 +295,7 @@ POP.SCIENCE :
         Dzieje Grecji ; N.G.L. Hammond
         Dzieje Rzymu ; Max Cary , Howard Hayes Scullard
         Fidel & Che - A revolutionary friendship ; Simon Reid-Henry
+        Fix melduje centrali... ; Z. Wiatr
         Foiničané ; Sabatino Moscati
         Fridrich Barbarossa , císař a rytíř ; Ferdinand Opll
         Fryderyk II Hohenstauf - Cesarz Rzymski ; Jerzy Hauziński
@@ -290,6 +303,7 @@ POP.SCIENCE :
         Guderian - Tankový generál ; Kenneth Macksey
         Heroes of Endurance ; Wanda Rutkowska
         Historia Powszechna - Starożytność ; Józef Wolski
+        Historia Starożytna - Podręcznik do nauki historii w klasie szóstej szkół ogólnokształcących ; S. I. Kovalev , Marie Pravdová
         Historia Wenecji ; John Julius Norwich
         Hunové ; Edward Arthur Thompson
         Huryci ; Maciej Popko
@@ -300,6 +314,7 @@ POP.SCIENCE :
         Khmerové ; Ian Mabbett , David Chandler
         Klasické Řecko ; Michael Grant
         Kolumbova flotila ; Helena Škodová , Eduard Škoda , Vojtěch Kubišta
+        Konstantynopol 626 ; Łukasz Czarnecki
         Krassus - Polityk niespełnionych ambicji ; Maciej Piegdoń
         Královská tažení ve starém Orientu - Od Sinuheta k Nabukadnezarovi ; Alfred Jepsen
         Kronika Rzymu i Cesarstwa Rzymskiego ; Aleksander Krawczuk
@@ -325,10 +340,13 @@ POP.SCIENCE :
         Oddział Majora Hubala ; Tadeusz Jurga
         Okinawa ; Simon Foster
         Oktawian August - Ojciec Chrzestny Europy ; Richard Holland
+        Otton I Wielki ; Jerzy Strzelczyk
         Pacifik v plamenech ; Miloš Hubáček
+        Pírátství - Úplné dějiny ; Angus Konstam
         Plachetnice ; Karl-Heinz Wieland
         Poczet Cesarzy Rzymskich ; Aleksander Krawczuk
         Poczet Wielkich Mistrzów Krzyżackich ; Paweł Pizuński
+        Polacy w bitwie o Narwik ; Witold Biegański
         Pomnik w Kalkówce ; Tadeusz Jurga
         Przedmurze Starówki ; Bogusław Szumski
         Přemožitel neviditelných dravců ; František Gel
@@ -342,6 +360,7 @@ POP.SCIENCE :
         Słowianie połabscy - Dzieje zagłady ; Robert F. Barkowski
         Stanisław Lem - Životopis ; Pavel Weigel
         Starověká Indie ; Zbavitel Dušan
+        Starověká Persie ; Henri Stierlin
         Starożytne Cywilizacje ; John Haywood
         Starożytny Bliski Wschód ; Daniel Arnoud
         Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty ; Jerzy S. Łątka
@@ -364,6 +383,8 @@ POP.SCIENCE :
         Wielcy Indianie Ameryki Północnej ; Zbigniew Teplicki
         Wielka wyprawa Księcia Racibora - Zdobycie grodu Konunhagela przez Słowian w 1136 roku ; Artur Szrejter
         Wielkie dni małej floty ; Jerzy Pertek
+        Za Wolność i Lud - Opowiadania z lat 1861-1864 ; Marya Wysłouchowa
+        Zaginione miasta - 50 najsłynniejszych odkryć ; Paul G. Bahn
         Zamach na Koppego ; Tadeusz Jurga
         Zapomniane narody Europy ; Jerzy Strzelczyk
         Zdraví Vás Caesar - Jak se žilo ve starém Římě ; Joachim Fernau
@@ -398,7 +419,10 @@ POP.SCIENCE :
         Dersu Uzala ; Wladimir K. Arsenjew
         Dzikie Banany ; Arkady Fiedler
         Gara jaka ; Desmond Varaday
+        Gdyby to nie byl Everest... ; Leszek Cichy , Piotr Trybalski
         Grónsko , "Takussagut" ; Karin Pavlosková
+        Hermann Buhl - Climbing without Compromise ; Reinhold Messner , Horst Höchler
+        Hory shora - Příběhy ze sedmi osmitisícovek ; Radek Jaroš , Arnošt Tabášek
         Into The Wild ; Jon Krakauer
         Into Thin Air , A personal account of the Everest disaster ; Jon Krakauer
         Karpatské hry ;  Miloslav Nevrlý
@@ -416,11 +440,13 @@ POP.SCIENCE :
         W Ussuryjskim Kraju ; Wladimir K. Arsenjew
         Wspinaczka ; Anatolij Bukriejew , G. Weston DeWalt
         Wyspa kochających lemurów ; Arkady Fiedler
+        Z Panem Biegankiem w Abisynii ; Marian Brandys
         Zdobywamy Amazonkę ; Arkady Fiedler
         Zwierzęta z lasu dziewiczego ; Arkady Fiedler
     PSYCHOLOGIA:
         Thinking Fast and Slow ; Daniel Kahneman
         Prawy umysł - Dlaczego dobrych ludzi dzieli religia i polityka ? ; Jonathan Haidt
+        Not Born Yesterday - The Science of Who We Trust and What We Believe ; Hugo Mercier
     SOCIOLOGIA:
         Outliers - The Story of Success ; Malcolm Gladwell
         The Better Angels of Our Nature - A History of Violence and Humanity ; Steven Pinker
@@ -441,6 +467,7 @@ POP.SCIENCE :
         Tajemství odhaleno ; Jiří Blecha
     Než přijde vakovlk ; Pavel Houser
     Siedem sensacji w nauce ; Marek Płużański
+    Svět hor ; Jiří Havel , Jan Štursa
     Věda kontra iracionalita 2 ; SISYFOS a AV ČR
     Vzpoura genů ; Pavel Houser
 OTHER :
@@ -479,6 +506,25 @@ FICTION:
 ------------------
 ? - Zamarovský , Vojtech - Gilgameš - SVK
   - Cook , Robert - Njal's Saga - EN
+  - Örnólfur Thorsson , Jane Smiley , Robert Kellogg - The Sagas of the Icelanders - EN
+                                                                        - Egil's Saga (Egils saga Skallagrímssonar) - EN
+                                                                        - The Saga of the People of Vatnsdal (Vatnsdæla saga) - EN
+                                                                        - The Saga of the People of Laxardal (Laxdæla saga) - EN
+                                                                        - Bolli Bollason's Tale (Bolla þáttur Bollasonar) - EN
+                                                                        - The Saga of Hrafnkel Frey's Godi (Hrafnkels saga Freysgoða) - EN
+                                                                        - The Saga of the Confederates (Bandamanna saga) - EN
+                                                                        - Gisli Sursson's Saga (Gísli saga Súrssonar) - EN
+                                                                        - The Saga of Gunnlaug Serpent-tongue (Gunnlaugs saga ormstungu) - EN
+                                                                        - The Saga of Ref the Sly (Króka-Refs saga) - EN
+                                                                        - The Vinland Sagas - EN
+                                                                            - The Saga of the Greenlanders (Grænlendinga saga) - EN
+                                                                            - Eirik the Red's Saga (Eiríks saga rauða) - EN
+                                                                        - The Tale of Thorstein Staff-struck (Þorsteins þáttur stangarhöggs) - EN
+                                                                        - The Tale of Halldor Snorrason II (Halldórs þáttur Snorrasonar hinn síðari) - EN
+                                                                        - The Tale of Sarcastic Halli (Sneglu-Halla þáttur) - EN
+                                                                        - The Tale of Thorstein Shiver (Þorsteins þáttur skelks) - EN
+                                                                        - The Tale of Audun from the West Fjords (Auðunar þáttur vestfirska) - EN
+                                                                        - The Tale of the Story-wise Icelander (Íslendings þáttur sögufróða) - EN
 Aldiss , Brian - Superhračky vydrží celé léto - CZ
                - Bez hlavy - CZ
                - Bělejší Mars - CZ
@@ -985,6 +1031,7 @@ Konopnicka , Maria - Na jagody - O
                         - Zajączek - O
                         - Zła zima - O
                         - Zmarzlak - O
+Korabiewicz , Wacław - Midimo - O
 Koreywo , Marek - Ludzie na Księżycu - O
 Kownacka , Maria - Ogródek - O
 Kozieradzka , Jadwiga - Dzieci taty Abecadła - O
@@ -1608,6 +1655,8 @@ Szymański , Edward - Książka - O
 Ścisłowski , Włodzimierz - Ile - O
 Świrszczyńska , Anna - Jak myszy zjadły Popiela - O
                      - O wesołej Ludwiczce - O
+Tchaikovsky , Adrian - Children of Time - O
+                     - Children of Ruin - O
 Tenn , William - Flirgelflip - POL
                - Każda kocha Irvinga Bommera - POL
                - Kustosz - POL
