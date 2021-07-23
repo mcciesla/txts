@@ -129,8 +129,9 @@ Agder ( Kingdom of Agder )
       Northmen - The Viking Saga 793-1241
 
 Królestwo Aghlabidów ( The Aghlabid Kingdom )
-  Dynastia Aghlabidów ( Aghlabid Dynasty )
+  Dynastia Aghlabidów ( Aghlabid Dynasty , Aghlabidzi )
     Ibrahim I                	                          800-812 ( wg D.Ś. ) ( Ibrāhīm I wg D.O.T.W.A.C.A.G.H. )
+                                                        800-? ( Ibrahim Ibn al-Aghlab (Ibrahim) wg B.D.K.B. )
     ´Abd Allah I          	                            812-817 ( wg D.Ś. ) ( ´Abd Allāh I wg D.O.T.W.A.C.A.G.H. )
     Zijadat Allah I       	                            817-838 ( wg D.Ś. ) ( Ziyādat Allāh I wg D.O.T.W.A.C.A.G.H. )
     Al-Aghlab             	                            838-841 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
@@ -141,9 +142,11 @@ Królestwo Aghlabidów ( The Aghlabid Kingdom )
     Ibrahim II             	                            875-902 ( wg D.Ś. ) ( Ibrāhīm II wg D.O.T.W.A.C.A.G.H. )
     ´Abd Allah II    		                                902-903 ( wg D.Ś. ) ( ´Abd Allāh II wg D.O.T.W.A.C.A.G.H. )
     Zijadat Allah III	                                  903-909 ( wg D.Ś. ) ( Ziyādat Allāh III wg D.O.T.W.A.C.A.G.H. )
+                                                        ?-909 ( wg B.D.K.B. )
   Bibliografia :
       Dynastie Świata
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Agrianowie
   Bibliografia :
@@ -464,6 +467,15 @@ Alamanowie
       Poczet Cesarzy Rzymskich
       Kronika Rzymu i Cesarstwa Rzymskiego
 
+Alamut ( Państwo Nizarytów )
+  Hasan-i Sabbah                                        1090 n.e.-? (?.9.-?) ( Hasan Ibn as-Sabbah (ar-Razi, Ibn as-Sabbah) wg B.D.K.B. )
+  Hasan II Ibn Muhammad                                 1162-1166 ( Hasan II wg B.D.K.B. )
+  Dżalal ad-Din Hasan III                               1210-1221 (?-?.11.) ( Hasan III wg B.D.K.B. )
+  Muhammad III                                          1221-1255 (?-31.12.) ( Ala ad-Din (Ala ad-Din Muhammad III) wg B.D.K.B. )
+  Rukn ad-Din Churszah                                  ?-1256 (?-19.11.) ( Rukn ad-Din (Churszah) wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+
 Alanowie ( Alans )
   Saul                                                  ok.410 ( wg Z.N.E. )
   Goar               	                                  przed 411 n.e.-? ( wg K.R.I.C.R. )
@@ -606,6 +618,7 @@ Aleppo ( Halab )
   Emirat Aleppa
     Dynastia Hamdanidów
       Saif-ad-Daulah	                                  944 n.e. -? ( wg D.B. )
+                                                        przed 948-968 ( Sajf ad-Daula wg B.D.K.B. )
     Ridwan                                              przed 1097-po 1105 (?-?.4.) ( wg N.I.B.W.XI.S. )
                                                         przed 1097-po 1104 ( Ridwán (Ridván) wg S.V.D.K.V. )
     Balak                                               1123-1124 (przed ?.4.-?) ( wg S.V.D.K.V. )
@@ -620,6 +633,7 @@ Aleppo ( Halab )
       Huryci
       Normanowie i Bizancjum w XI stuleciu
       Svaté války - Dějiny křižových výprav
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Alessandria
   Bibliografia :
@@ -770,6 +784,10 @@ Amedi
 Amfipolis
   Bibliografia :
       Dzieje Grecji
+
+Emirat Amidy ( Amida )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 County of Amiens
   Petr                                                  ? ( wg S.V.D.K.V. )
@@ -1502,7 +1520,7 @@ County of Aquino
   Bibliografia :
       History of Western Philosophy
 
-Królestwo Arabii Saudyjskiej ( Saudi Arabia , Kingdom of Sa´ūdī Arabia , Sa´udi Arabia )
+Królestwo Arabii Saudyjskiej ( Saudi Arabia , Kingdom of Sa´ūdī Arabia , Sa´udi Arabia , Arabia Saudyjska )
   Dynastia Saudyjska ( The Sa´ūdī Dynasty )
     ´Abd al-´Aziz	                                      1932-1953 ( wg D.Ś. ) ( ´Abd al-´Azīz wg D.O.T.W.A.C.A.G.H. )
     Sa´ud          	                                    1953-1964 ( wg D.Ś. i V.N.M.S.D. ) ( Sa´ūd wg D.O.T.W.A.C.A.G.H. )
@@ -2838,8 +2856,16 @@ Emirat Aydin
       Dějiny Byzance
 
 Ázerbájdžán
+  Sadżydzi
+    Muhammad Ibn Abi as-Sadż                            przed 897 n.e.-? ( Muhammad Afszin (Muhammad, Afszin) wg B.D.K.B. )
+  Ildegizydzi
+    Szams ad-Din Ildegiz                                przed 1167-1175 (?-?.11.) ( Ildegiz wg B.D.K.B. )
+    Muhammad                                            przed 1180-1186 (?-?.3.) ( Dżahan Pahlawana wg B.D.K.B. )
+    Kizil Arslan Usman                                  przed 1188-1192 (3.4.-?.4/5.) ( Muzaffar ad-Din Kizil Arslan (Kizil Arslan, Kyzył Arslan) wg B.D.K.B. )
+    Kutług Inandż                                       przed 1193-po 1194 (?.1.-4.3.) ( wg B.D.K.B. )
+    Muzaffar ad-Din Uzbek                               1191-1225 ( Uzbek wg B.D.K.B. )
   Bibliografia :
-      Starověká Persie
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Imperium Azteków ( Aztecs , The Aztec Empire )
   Acamapichtli                                          1372-1391 ( wg D.Ś. )
@@ -3181,7 +3207,7 @@ Babilonia ( Babylonie , Babylonia , Babylon , Babilon , Królestwo Babilońskie 
     Nebuchadrezzar II         	                        604-562 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. ) ( Nabu-kudurri-usur II wg S.B.W. ) ( Nabuchodonozor II wg S.C. ) ( Nabuchodonozor wg H.P.S. i Z.M.50.N.O. ) ( Nabukadnezar II. ( Nebuchadnezzar ) wg D.S.B.V. ) ( Nabukadnesar II. (Nabukodonozor) wg Gilg. )
                                                         605-562 (7.9.-?) ( wg K.T.V.S.O. )
             				           	                        ok.600 ( Nabuchodonozor wg F. )
-      				   	                                      ? ( Nabukadnezar II wg A.O.M.S.K.R. ) ( Nabukadnesar II  wg E.P. ) ( Nebuchadnezzar wg N.B.Y.T.S.O.W.W.T.A.W.W.B. )
+      				   	                                      ? ( Nabukadnezar II wg A.O.M.S.K.R. ) ( Nabukadnesar II  wg E.P. ) ( Nebuchadnezzar wg N.B.Y.T.S.O.W.W.T.A.W.W.B. ) ( Nabuchodonozor wg B.D.K.B. )
       				           	                              605-? ( Nabuchodonosor wg T.H.S. )
       					                                        605-562 ( Nabukadnesar II ( Nabúkudurriusur ) wg E.P. i Z.Ř. ) ( Nabukadnezar II wg M.P.M. ) ( Nabukadnezar II. wg S.P. )
       					                                        przed 597-po 586 ( Nebúkadnesar II wg Ž.V.Ř.S. )
@@ -3232,6 +3258,7 @@ Babilonia ( Babylonie , Babylonia , Babylon , Babilon , Królestwo Babilońskie 
       History of Western Philosophy
       Starověká Persie
       Historia Starożytna - Podręcznik do nauki historii w klasie szóstej szkół ogólnokształcących
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Badachszan
   Bibliografia :
@@ -3504,6 +3531,12 @@ Emirat Bari
   Sawdān                                                ?-871 n.e. (?-2./3.2.)
   Bibliografia :
       Bitwy Słowian
+
+Państwo Baridów
+  Baridzi
+    Abu Abd Allah Ahmad al-Baridi                       przed 938-po 941 (?-?.4.) ( Abu Abd Allah al-Baridi (Al-Baridi, Abd Allah al-Baridi) wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Barka
   Alazeiros	                                            ?
@@ -4834,7 +4867,36 @@ Buganda
   Bibliografia :
       Encyklopedie panovníků
 
-Państwo Buidów
+Państwo Buidów ( Państwo Bujidów )
+  Bujidzi ( Buwajhidzi , Buyids , Die Buyiden )
+    Imad ad-Daula                                       przed 932-949 ( Imad ad-Daula Ali (Ali) wg B.D.K.B. )
+    Rukh ad-Daula                                       ? ( Hasan wg B.D.K.B. )
+    Adud ad-Daula                                       949-983 (?-26.3.) ( Abud ad-Daula (Adud ad-Daula Tadż al-Milla Abu Sudża, Abu Sudża Fann Chusrau) wg B.D.K.B. )
+    Samsam ad-Daula                                     ? ( wg B.D.K.B. )
+    Szaraf ad-Daula                                     ?-989 ( wg B.D.K.B. )
+    Baha ad-Daula                                       ?-1012 ( wg B.D.K.B. )
+    Abu Kalidżar al-Marzuban                            ?-1048 ( Bu Kalidżar (Abu Kalidżar) wg B.D.K.B. )
+    Al-Malik ar-Rahim                                   ? ( wg B.D.K.B. )
+    Irak
+      Mu'izz ad-Daula                                   przed 945-967 (?.12.-?) ( Mu'izz ad-Daula Ahmad (Ahmad, Abu al-Husajn Ahmad) wg B.D.K.B. )
+      Izz ad-Daula                                      967-978 (?-24.5.) ( Bachtijar wg B.D.K.B. )
+      Adud ad-Daula                                     978-983 (?-26.3.) ( Abud ad-Daula (Adud ad-Daula Tadż al-Milla Abu Sudża, Abu Sudża Fann Chusrau) wg B.D.K.B. ) [Senior Buyid ruler]
+      Samsam ad-Daula                                   ?-986/7 ( Abu Kalidżar al-Marzuban (Szams al-Milla) wg B.D.K.B. ) [Senior Buyid ruler]
+      Szaraf ad-Daula                                   986/7-989 ( wg B.D.K.B. ) [Senior Buyid ruler]
+      Baha ad-Daula                                     989-1012 (?.9.-?) ( wg B.D.K.B. ) [Senior Buyid ruler]
+      Muszarrif ad-Daula                                1021-1025 ( wg B.D.K.B. )
+      Dżalal ad-Daula                                   1024-1044 ( wg B.D.K.B. )
+      Abu Kalidżar al-Marzuban                          ?-1048 ( Bu Kalidżar (Abu Kalidżar) wg B.D.K.B. ) [Senior Buyid ruler]
+      Al-Malik ar-Rahim                                 1048-1055 (?.10.-po 18.12.) ( wg B.D.K.B. ) [Senior Buyid ruler]
+    Rej
+      Rukh ad-Daula                                     ?-976 (?-?.9.) ( Hasan wg B.D.K.B. ) [Senior Buyid ruler]
+    Fars
+      Szaraf ad-Daula                                   przed 986-? ( wg B.D.K.B. ) [Senior Buyid ruler]
+      Samsam ad-Daula                                   990-998 ( Abu Kalidżar al-Marzuban (Szams al-Milla) wg B.D.K.B. ) [Senior Buyid ruler]
+      Baha ad-Daula                                     998-1012 ( wg B.D.K.B. ) [Senior Buyid ruler]
+      Abu Kalidżar al-Marzuban                          1024-1048 ( Bu Kalidżar (Abu Kalidżar) wg B.D.K.B. ) [Senior Buyid ruler]
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Bułgaria ( Bulgaria , Bulharsko )
   1.państwo bułgarskie ( Chanat Bułgarski , First Bulgarian Empire )
@@ -5469,7 +5531,7 @@ Chaukowie
 
 Chazarowie ( Chanay , Khazars , al-Chazar )
   Bagha Szad                                            przed 626-? ( wg K.6. )
-  Chanat Chazarski ( Khanate of The Khazars , Al-Chazar , Chaganat Chazarski , Khazar Khaganate )
+  Chanat Chazarski ( Khanate of The Khazars , Al-Chazar , Chaganat Chazarski , Khazar Khaganate , Kaganat Chazarski )
     Sabriel                                             ? ( wg Z.N.E. )
     Bulan                                               ? ( wg Z.N.E. )
     Obadya                                              ? ( wg Z.N.E. )
@@ -5486,11 +5548,13 @@ Chazarowie ( Chanay , Khazars , al-Chazar )
     Józef                                               ok.950 n.e. ( wg Z.N.E. )
                                                         przed ok.960 n.e.-? ( wg N.T.V.S. )
                                                         ? ( wg O.I.W. )
+                                                        przed 960-? ( wg K.1018 )
   Bibliografia :
       Zapomianie narody Europy
       Northmen - The Viking Saga 793-1241
       Konstantynopol 626
       Otton I Wielki
+      Kijów 1018
 
 Cherokiowie
   Bibliografia :
@@ -6507,19 +6571,28 @@ Księstwo Chołmskie
   Bibliografia :
       Litwa - Początki Państw
 
-Chorasan ( Khurasan )
+Chorasan ( Khurasan , Churasan , Chursan )
+  Dynastia Tahirydów
+    Tahir Ibn al-Husajn                                 822 n.e. ( Tahir (Zu al-Jaminajn) wg B.D.K.B. )
+    Talha Ibn Tahir                                     822-828 ( Talha wg B.D.K.B. )
+    Abd Allah Ibn Tahir                                 przed 840-844 (?.8.-?) ( Abd Allah (Ibn Tahir) wg B.D.K.B. )
+    Tahir Ibn Abd Allah                                 844-? ( wg B.D.K.B. )
+    Muhammad Ibn Abd Allah                              862-873 ( Muhammad Ibn Abd Allah Ibn Tahir (Ibn Tahir, Muhammad) wg B.D.K.B. )
+  Seldżukidzi
+    Sandżar                                             1104-? (?.3.-?) ( wg B.D.K.B. ) [Great Seljuk Sultan]
   Dynastia Timurydów ( Tīmūrid Dynasty )
     Babur                   	                          1449-1457 ( wg D.Ś. i S.A. ) ( Bābur wg D.O.T.W.A.C.A.G.H. )
     Mahmud              	                              1457-1459 ( wg D.Ś. i S.A. ) ( Maḥmūd wg D.O.T.W.A.C.A.G.H. )
     Abu Sa´id            	                              1459-1469 ( wg D.Ś. i S.A. ) ( Abū Sa´īd wg D.O.T.W.A.C.A.G.H. ) [Ruler of Transoxiana]
     Husajn Bajkara    	                                1469-1506 ( wg D.Ś. ) ( Ḥusayn Bāyqarā wg D.O.T.W.A.C.A.G.H. )
-                                                        ? ( Sultan Husayn Mirza wg T.S.O.I.C.O.T.W. )
+                                                        ? ( Sultan Husayn Mirza wg T.S.O.I.C.O.T.W. ) ( Husajn wg B.D.K.B. )
     Badi´ az-Zaman	                                    1506-1507 ( wg D.Ś. ) ( Badī´ al-Zamān wg T.S.O.I.C.O.T.W. )
   Bibliografia :
       Dynastie Świata
       Serce Azji
       Tamerlane - Sword of Islam, Conqueror of the World
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Chorazmowie
   Faramanes                                             ?
@@ -6536,13 +6609,16 @@ Chorezm ( Khorezm , Chórezm )
       Tadż ad-Dunja Il Arslan     	                    1156-1172 ( wg D.Ś. ) ( Tāj al-Dunyā Il Arslan wg D.O.T.W.A.C.A.G.H. )
       Dżalal ad-Dunja Sultanszah	                      1172-1193 ( wg D.Ś. ) ( Jalāl al-Dunyā Sulṭānshāh wg D.O.T.W.A.C.A.G.H. )
       ´Ala´ ad-Din Tekisz            	                  1172-1200 ( wg D.Ś. ) ( ´Alā´ al-Dīn Tekish wg D.O.T.W.A.C.A.G.H. )
-      ´Ala´ ad-Din Muhammad II 	                        1200-1220 ( ?-koniec ) ( wg I.M. ) ( ´Alā´ al-Dīn Muḥammad II wg D.O.T.W.A.C.A.G.H. )
+                                                        1172-1200 (?-?.6/7.) ( Takasz (Tekesz, Täkisz, Tükisz) wg B.D.K.B. )
+      ´Ala´ ad-Din Muhammad II 	                        1200-1220 (?-koniec) ( wg I.M. ) ( ´Alā´ al-Dīn Muḥammad II wg D.O.T.W.A.C.A.G.H. )
       				         	                                1200-1220 ( wg D.Ś. )
                                                         przed 1218-po 1219 ( Mohammed wg T.S.O.I.C.O.T.W. ) ( Muhammad wg L.1241. )
+                                                        1200-1220 (?-?.12.) ( Ala ad-Din Muhammad (Muhammad Chorezmszah, Muhammad, Ala ad-Din) wg B.D.K.B. )
       Dżalal ad-Din Mingburnu    	                      1220-1231 ( wg D.Ś. ) ( Jalāl al-Dīn Mingburnu wg D.O.T.W.A.C.A.G.H. )
       					                                        przed 1220-po 1221 ( Džaláluddína wg E.P. )
                                                         ?-1221 ( Jalal-ad-din wg T.S.O.I.C.O.T.W. )
                                                         ? ( Džalal ad-Dín wg S.V.D.K.V. )
+                                                        przed 1221-1231 (?-?.8.) ( Dżalal ad-Din Mankburny (Mankburny, Mengubirdi, Dżalal ad-Din) wg B.D.K.B. )
   Sufi Dynasty ( Qungirat Dynasty , Qungirat Sufi Dynasty )
     Husayn Sufi                                         ?-1372 ( wg T.S.O.I.C.O.T.W. )
     Yusef Sufi                                          przed 1373-? i ? ( wg T.S.O.I.C.O.T.W. )
@@ -6554,6 +6630,7 @@ Chorezm ( Khorezm , Chórezm )
       Legnica 1241
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Chorwaci
   Porinos          	                                    ?
@@ -6634,13 +6711,17 @@ Chubiszna
   Bibliografia :
       Kralovská tažení ve starém Orientu
 
-Chursan
-
 Chuttal
   Bibliografia :
       Dzieje dawnych Turków
 
 Chuza´a
+
+Chuzistan
+  Szimla                                                przed 1167-1175 ( wg B.D.K.B. )
+  Abu al-Fath Il-Dodgy                                  ?-1195 (?-początek) ( Il-Dogdy wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Chytros
   Bibliografia :
@@ -7138,6 +7219,7 @@ Czechy
                                                         przed 1007-po 1012 ( Jaromír wg Z.S.A.V.E. )
                                                         przed 1005-? ( wg B.S. )
       Bolesław I Chrobry                 	              1003-1004 ( wg D.Ś. ) ( Bolesław I wg D.O.T.W.A.C.A.G.H. ) [King of Poland Bolesław I Chrobry]
+                                                        przed 1003-? ( Bolesław Chrobry (Chrobry) wg K.1018 )
       Oldrzych ( Ulrych )                 	            1012-1033 ( wg D.Ś. ) ( Ulrich wg D.O.T.W.A.C.A.G.H. )
       				      	                                  przed 1014-1033 i ?-1034 (? i ?-9.11.) ( Oldřich wg Z.S.A.V.E. )
                                                         przed 1015-1034 ( Udalryk wg B.S. )
@@ -7295,6 +7377,7 @@ Czechy
       Hovory s Janem Masarykem
       Svaté války - Dějiny křižových výprav
       Otton I Wielki
+      Kijów 1018
 
 Królestwo Czedi
   Bibliografia :
@@ -7575,8 +7658,11 @@ Damaszek ( Damašek )
     Dynastia Ajjubidów ( Ajjúbovci )
       Al-Mu'azzam                                       przed 1225-1227 (?-11.11.) ( wg F.H.C.R. )
                                                         przed 1218-1227 (?-?.11.) ( wg S.V.D.K.V. )
+                                                        przed 1225-? ( Al-Malik al-Mu'azzam wg B.D.K.B. )
       An-Nasir Dawud                                    przed 1228-po 1229 (?-18.3.) ( An-Nasir wg F.H.C.R. )
                                                         przed 1228-1229 ( an-Násir Dáwúd (an-Násir) wg S.V.D.K.V. )
+                                                        1227-1229 ( wg B.D.K.B. )
+      Al-Malik al-Aszraf                                przed 1228-po 1236 (zima-?.5.) ( Al-Aszraf wg B.D.K.B. )
       as-Sálih Ajjúb                                    ?-1239 (?-jesień) ( as-Sálih wg S.V.D.K.V. ) [Sultan of Egypt]
       As-Salih Ismail                                   przed 1244-? ( wg F.H.C.R. )
                                                         1239-po 1240 (?-?.5.) ( as-Sálih Ismá'íl wg S.V.D.K.V. )
@@ -7594,6 +7680,7 @@ Damaszek ( Damašek )
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Svaté války - Dějiny křižových výprav
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Damnonia (Damnonii)
   Bibliografia :
@@ -8041,7 +8128,8 @@ Sułtanat Delhi ( Dillíjský sultanát , Sultanate of Delhi , Kingdom of Delhi 
   Dynastia Tughlukidów ( Tughluqid Dynasty )
     Tughluk I                	                          1320-1324 ( wg D.Ś. ) ( Tughluq I wg D.O.T.W.A.C.A.G.H. )
     Muhammad II         	                              1324-1351 ( wg D.Ś. ) ( Muḥammad II wg D.O.T.W.A.C.A.G.H. )
-    Firuz III                   	                      1351-1388 ( wg D.Ś. ) ( Fīrūz III wg D.O.T.W.A.C.A.G.H. )
+                                                        1325-1351 ( Muhammadszah Tughlak (Muhammadszah) wg B.D.K.B. )
+    Firuz III                   	                      1351-1388 ( wg D.Ś. ) ( Fīrūz III wg D.O.T.W.A.C.A.G.H. ) ( Firuzszah III wg B.D.K.B. )
                                                         ?-1388 ( Firuz Shah wg T.S.O.I.C.O.T.W. )
     Muhammad III        	                              1387-1388 i 1390-1394 ( wg D.Ś. ) ( Muḥammad III wg D.O.T.W.A.C.A.G.H. )
                                                         ?-1394 ( Nasir ud-din Mohammed Tughluk wg T.S.O.I.C.O.T.W. )
@@ -8053,7 +8141,7 @@ Sułtanat Delhi ( Dillíjský sultanát , Sultanate of Delhi , Kingdom of Delhi 
                                                         przed 1398-? (17.12.-?) ( Mohammed Tughluk (Sultan Mahmud Khan) wg T.S.O.I.C.O.T.W. )
     Daulat Chan Lodi     	                              1413-1414 ( wg D.Ś. ) ( Daulat Khan Lōdī wg D.O.T.W.A.C.A.G.H. )
   Dynastia Sajjidów ( Sayid Dynasty , Sayyid Dynasty )
-    Chidr Chan               	                          1414-1421 ( wg D.Ś. ) ( Khiḍr Khan wg D.O.T.W.A.C.A.G.H. )
+    Chidr Chan               	                          1414-1421 ( wg D.Ś. ) ( Khiḍr Khan wg D.O.T.W.A.C.A.G.H. ) ( Chizr Chan wg B.D.K.B. )
                                                         przed 1414-? ( Khizr Khan wg T.S.O.I.C.O.T.W. )
     Mubarak II               	                          1421-1434 ( wg D.Ś. ) ( Mubārak II wg D.O.T.W.A.C.A.G.H. )
     Muhammad IV         	                              1434-1445 ( wg D.Ś. ) ( Muḥammad IV wg D.O.T.W.A.C.A.G.H. )
@@ -8067,6 +8155,7 @@ Sułtanat Delhi ( Dillíjský sultanát , Sultanate of Delhi , Kingdom of Delhi 
       Starověká Indie
       Tamerlane - Sword of Islam, Conqueror of the World
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Delos
   Bibliografia :
@@ -8290,6 +8379,12 @@ Księstwo Duklja ( Diokleia , Księstwo Zeta , Księstwo Zety )
       Dějiny Byzance
       Normanowie i Bizancjum w XI stuleciu
 
+Państwo Dulafidów ( Al-Igharajn , Dwa Nadziały )
+  Dulafidzi
+    Al-Haris                                            ?-898 n.e. (?-?.1.) ( Abu Lajla (Ojciec Nocy) wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+
 Duwaila
 
 Dúr-Rímuš
@@ -8322,6 +8417,13 @@ Džerba
   Turgut                                                ? ( wg P.U.D. ) [Ruler of Regentství Alžíru] [Ruler of Eyalet of Tripolitania]
   Bibliografia :
       Pírátství - Úplné dějiny
+
+Dżibal ( Irak Perski )
+  Izz ad-Din Gökcze                                     przed 1200-1203/4 ( Gökcze wg B.D.K.B. )
+  Szams ad-Din Ajtogmysz                                przed 1210-1212 (?-?.1/2.) ( Ajtogmysz wg B.D.K.B. )
+  Nasir ad-Din Mengli                                   1212-1215 (?.1/2.-?.9.) ( Mengli wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Dżuhainidzi
 
@@ -9254,18 +9356,23 @@ Egipt ( Egypt )
   Harmachis                   	                        ok.200 ( wg S.K. )
   Anchmachis		                                        199-186 ( ?-?.8. ) ( wg S.K. )
   Harsiesis                     	                      ok.130 ( wg S.K. )
-  Dynastia Tulunidów ( Ṭūlūnid Dynasty )
+  Dynastia Tulunidów ( Ṭūlūnid Dynasty , Tulunidzi )
     Ahmad b. Tulun	                                    868-884 ( wg D.Ś. i R.Z.A.D.D. ) ( Aḥmad b. Ṭūlūn wg D.O.T.W.A.C.A.G.H. )
                                                       	869-907 ( wg V.N.M.S.D. )
+                                                        przed 877-884 (?-10.5.) ( Ahmad Ibn Tulun (Ahmad, Ibn Tulun) wg B.D.K.B. )
     Chumarawajh            	                            884-896 ( wg D.Ś. ) ( Khumārawayah wg D.O.T.W.A.C.A.G.H. )
+                                                        884-895 ( wg B.D.K.B. )
     Dżajsz                        	                    896 ( wg D.Ś. ) ( Jaysh wg D.O.T.W.A.C.A.G.H. )
     Harun                         	                    896-904 ( wg D.Ś. ) ( Hārūn wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 904-? ( wg B.D.K.B. )
     Szajban                      	                      904-905 ( wg D.Ś. ) ( Shaybān wg D.O.T.W.A.C.A.G.H. )
-  Dynastia Ichszidydów ( Ikhshīdid Dynasty )
-    Muhammad b. Tughdż		                              935-946 ( wg R.Z.A.D.D. ) ( Muḥammad b. Ṭughj (Muḥammad ibn Ṭughj al-Ikhshīd) wg D.O.T.W.A.C.A.G.H. )
+                                                        ?-905 (?-?.1.) ( Asz-Szajban wg B.D.K.B. )
+  Dynastia Ichszidydów ( Ikhshīdid Dynasty , Ichszidydzi )
+    Muhammad b. Tughdż		                              935-946 ( wg R.Z.A.D.D. ) ( Muḥammad b. Ṭughj (Muḥammad ibn Ṭughj al-Ikhshīd) wg D.O.T.W.A.C.A.G.H. ) ( Muhammad Ibn Tughdż (Ibn Tughdż, Al-Ichszid) wg B.D.K.B. )
     Unudżur                              	              946-960 ( wg D.Ś. ) ( Unūjūr wg D.O.T.W.A.C.A.G.H. )
     ´Ali                                     	          960-966 ( wg D.Ś. ) ( ´Alī wg D.O.T.W.A.C.A.G.H. )
     Kafur                                  	            966-968 ( wg D.Ś. ) ( Kāfūr wg D.O.T.W.A.C.A.G.H. )
+                                                        ? ( wg B.D.K.B. )
     Ahmad                               	              968-969 ( wg D.Ś. ) ( Aḥmad wg D.O.T.W.A.C.A.G.H. )
   Dynastia Ajjubidów ( Klan Ajjubidów , Ajjubidzi , Ayyūbid Dynasty , Ayyubids , Ajjúbovci )
     An-Nasir Jusuf ( Saladyn )	                        1175-1193 ( wg D.Ś. ) ( Al-Nāṣir Yūsuf (Saladin) wg D.O.T.W.A.C.A.G.H. )
@@ -9278,12 +9385,15 @@ Egipt ( Egypt )
                                                         ? ( wg Z.N.E. ) ( Salah ad-Din wg F.H.C.R. ) ( Saladin wg T.S.O.I.C.O.T.W. )
                                                         1171-1193 (?-4.3.) ( Saladin (Júsuf ibn Ajjúb, Saláh ad-Dín, al-Málik an-Násir Saláh ad-Dunj wa-ad-Dín Abú-l-Muzaffar Júsuf ibn Ajjúb ibn Šadhí al-Kurdí, "Vítězný král, obnovitel světa a víry, otec Mustafy, Júsuf, syn Ajjúba, syn Sádhího Kurda") wg S.V.D.K.V. )
                                                         przed 1187-? (4.7.-?) ( wg H.W. )
+                                                        przed 1170-po 1187 (?-4.7.) ( Salah ad-Din Jusuf (Salah ad-Din, Saladin) wg B.D.K.B. )
     Al-´Aziz ´Usman                  	                  1193-1198 ( wg D.Ś. ) ( Al-´Azīz ´Uthmān wg D.O.T.W.A.C.A.G.H. )
     Al-Mansur Muhammad I      	                        1198-1200 ( wg D.Ś. ) ( Al-Manṣūr Muḥammad I wg D.O.T.W.A.C.A.G.H. )
     Al-´Adil Abu Bakr I             	                  1200-1218 ( wg D.Ś. ) ( Al-´Ādil Abū Bakr I wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1202-1218 (?-?.8.) ( al-'Ádil wg S.V.D.K.V. )
+                                                        ? ( Al-Malik al-Adil wg B.D.K.B. )
     Al-Kamil Muhammad II      	                        1218-1238 ( wg D.Ś. ) ( Al-Malik al-Kamil (Al-Kamil) wg F.H.C.R. ) ( Al-Kāmil Muḥammad II wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1218-1238 ( al-Kámil wg S.V.D.K.V. )
+                                                        przed 1232-1238 (wiosna-9.3.) ( Al-Kamil (Al-Malik Al-Kamil) wg B.D.K.B. )
     Al-´Adil Abu Bakr II            	                  1238-1240 ( wg D.Ś. ) ( Al-´Ādil Abū Bakr II wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Al-Adil wg F.H.C.R. )
                                                         ?-1240 ( al-'Ádil II. wg S.V.D.K.V. )
@@ -9295,8 +9405,9 @@ Egipt ( Egypt )
                                                         przed 1250-1250 (8.2.-po 2.5.) ( al-Mu'azzam Túránšáh (Túránšáh) wg S.V.D.K.V. )
       Szadżar ad-Durr                  	                1250 ( wg D.Ś. ) ( Shajar al-Durr wg D.O.T.W.A.C.A.G.H. )
                                                         1250 (przed 6.5.-?.7.) ( Šadžar ad-Durr wg S.V.D.K.V. )
+                                                        przed 1250-? ( wg B.D.K.B. )
       Al-Aszraf Musa                  	                1250-1254 ( wg D.Ś. ) ( Al-Ashraf Mūsā wg D.O.T.W.A.C.A.G.H. )
-    Mamlucký sultanát ( Mamluks , Mamluk Dynasty , Mamlukes )
+    Mamlucký sultanát ( Mamluks , Mamluk Dynasty , Mamlukes , Mamelucy )
       Mamelucy Bahri ( The Baḥrī Mamlūks )
         Al-Mu´izz Ajbak                                 1250-1257 ( wg D.Ś. i K.V. ) ( Al-Mu´izz Aybak (Aybak) wg D.O.T.W.A.C.A.G.H. )
                                                         1250-1252 (po ?.7.-?) ( Albek at-Turkumání wg S.V.D.K.V. )
@@ -9306,13 +9417,13 @@ Egipt ( Egypt )
                                                         przed 1260-? ( Kutuz wg K.W.N.I.W.D. )
                                                         przed 1260-1260 (3.9.-?.10.) ( Kutuz wg S.V.D.K.V. )
         Az-Zahir Bajbars I                             	1260-1277 (?-lipiec) ( wg K.V. )
-        						                                    1260-1277 ( wg D.Ś. ) ( Bajbars I Záhir wg E.P. ) ( Bajbars wg F.H.C.R. ) ( Bajbars (Bajbars al-Bundukdárí, Bajbars al-Bunduqdárí) wg S.V.D.K.V. ) ( Al-Ẓāhir Baybars I wg D.O.T.W.A.C.A.G.H. )
+        						                                    1260-1277 ( wg D.Ś. ) ( Bajbars I Záhir wg E.P. ) ( Bajbars wg F.H.C.R. ) ( Bajbars (Bajbars al-Bundukdárí, Bajbars al-Bunduqdárí) wg S.V.D.K.V. ) ( Al-Ẓāhir Baybars I wg D.O.T.W.A.C.A.G.H. ) ( Bajbars (Al-Malik az-Zahir, Az-Zahir Bajbars, Az-Zahir) wg B.D.K.B. )
                                                         przed 1260-po 1263 ( Baybars wg T.S.O.I.C.O.T.W. )
                                                         przed 1268-? ( Bajbars wg N.I.B.W.XI.S. )
         As-Sa´id Baraka Chan                            1277-1279 ( wg D.Ś. ) ( Al-Sa´īd Baraka Khan wg D.O.T.W.A.C.A.G.H. )
         Al-´Adil Salamisz                              	1279 ( wg D.Ś. ) ( Al-´Ādil Salāmish wg D.O.T.W.A.C.A.G.H. )
         Al-Mansur Kala´un                              	1279-1290 (?-koniec) ( wg K.V. )
-        						                                    1279-1290 ( wg D.Ś. ) ( Al-Manṣūr Qalā´ūn wg D.O.T.W.A.C.A.G.H. ) ( Kalávún (Kalavún) wg S.V.D.K.V. )
+        						                                    1279-1290 ( wg D.Ś. ) ( Al-Manṣūr Qalā´ūn wg D.O.T.W.A.C.A.G.H. ) ( Kalávún (Kalavún) wg S.V.D.K.V. ) ( Kalawun wg B.D.K.B. )
                                                         przed 1290-? ( Kalawun wg F.H.C.R. )
         Al-Aszraf Chalil                               	1290-1293 ( wg D.Ś. ) ( Al-Ashraf Khalīl wg D.O.T.W.A.C.A.G.H. ) ( al-Ašraf Chalíl (Chalíl) wg S.V.D.K.V. )
         					                    		              1290-po 1291 ( wg K.V. )
@@ -9338,9 +9449,12 @@ Egipt ( Egypt )
                                                         przed 1393-1399 ( Barquq wg T.S.O.I.C.O.T.W. )
         An-Nasir Faradż                        	        1399-1405 i 1405-1412 ( wg D.Ś. ) ( Al-Nāṣir Faraj wg D.O.T.W.A.C.A.G.H. )
                                                         1399-po 1404 ( Faraj wg T.S.O.I.C.O.T.W. )
+                                                        1399-1412 ( wg B.D.K.B. )
         Al-Mansur ´Abd al-´Aziz          	              1405 ( wg D.Ś. ) ( Al-Manṣūr ´Abd al-´Azīz wg D.O.T.W.A.C.A.G.H. )
         Al-´Adil al-Musta´in                  	        1412 ( wg D.Ś. ) ( Al-´Ādil al-Musta´īn wg D.O.T.W.A.C.A.G.H. ) [Abbasid Caliph in Cairo]
+                                                        1412 (?-?.11.) ( Al-Musta'in wg B.D.K.B. )
         Al-Mu´ajjad Szajch                    	        1412-1421 ( wg D.Ś. ) ( Al-Mu´ayyad Shaykh wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1414-? (9.3.-?) ( Szajch al-Mahmudi (Szajch, Al-Malik al-Mu'ajjad, Al-Mu'ajjad) )
         Al-Muzaffar Ahmad II               	            1421 ( wg D.Ś. ) ( Al-Muẓaffar Aḥmad II wg D.O.T.W.A.C.A.G.H. )
         Az-Zahir Tatar                            	    1421 ( wg D.Ś. ) ( Al-Ẓāhir Ṭaṭār wg D.O.T.W.A.C.A.G.H. )
         As-Salih Muhammad III             	            1421-1422 ( wg D.Ś. ) ( Al-Ṣāliḥ Muḥammad III wg D.O.T.W.A.C.A.G.H. )
@@ -9361,7 +9475,9 @@ Egipt ( Egypt )
         Al-´Adil Tumanbaj I                    	        1501 ( wg D.Ś. ) ( Al-´Ādil Tūmānbay I wg D.O.T.W.A.C.A.G.H. )
         Al-Aszraf Kansuh II al-Ghawri	                  1501-1516 ( wg D.Ś. ) ( Al-Ashraf Qānṣūḥ II (Al-Ashraf Qānṣūḥ II al-Ghawrī) wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Kánsúh al-Gaurí wg P.U.D. )
+                                                        1500-1516 (?-24.8.) ( Kansuh al-Ghauri wg B.D.K.B. )
         Al-Aszraf Tumanbaj II                	          1516-1517 ( wg D.Ś. ) ( Al-Ashraf Tūmānbay II wg D.O.T.W.A.C.A.G.H. )
+                                                        1516-? (przed 11.10.-?) ( Tumanbaj wg B.D.K.B. )
     Dynastia Muhammada ´Alego ( Muḥammad ´Ali Dynasty )
       Muhammad Ali	                                    1805-1848 ( wg D.Ś. ) ( Muḥammad ´Alī wg D.O.T.W.A.C.A.G.H. )
                                                        	1806-1848 ( wg V.N.M.S.D. )
@@ -9377,8 +9493,10 @@ Egipt ( Egypt )
   Królestwo Egiptu
     Dynastia Muhammada Alego ( Muḥammad ´Ali Dynasty )
       Ahmad Fu´ad ( Fu´ad I )	                          1922-1936 ( wg D.Ś. i V.N.M.S.D. ) ( Aḥmad Fu´ād (Fu´ād I) wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1924-1936 ( Fuad wg B.D.K.B. )
       Faruk                                 	          1936-1952 ( wg D.Ś. i V.N.M.S.D. ) ( Farūq wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1946-? ( Farouk wg V.K.T.H.O.H.E. )
+                                                        1936-? ( wg B.D.K.B. )
       Fu´ad II                              	          1952-1953 ( wg D.Ś. ) ( Fu´ād II wg D.O.T.W.A.C.A.G.H. )
   Arab Republic of Egypt
   Nasser                                                przed 1959-po 1964 ( wg F.C.A.R.F. )
@@ -9446,6 +9564,7 @@ Egipt ( Egypt )
       Zaginione miasta - 50 najsłynniejszych odkryć
       Starověká Persie
       Historia Starożytna - Podręcznik do nauki historii w klasie szóstej szkół ogólnokształcących
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Egrisi
   Bibliografia :
@@ -9957,18 +10076,20 @@ Farsalos
   Bibliografia :
       Zrození Řecka
 
-Kalifat Fatymidów ( Kalifat Fatemidów , Fátimovský chalífát )
-  Dynastia Fatymidów ( Fatymidzi , Fāṭimid Dynasty , Fátimovci )
+Kalifat Fatymidów ( Kalifat Fatemidów , Fátimovský chalífát , Państwo Fatymidów , Kalifat Ubajdytów )
+  Dynastia Fatymidów ( Fatymidzi , Fāṭimid Dynasty , Fátimovci , Dynastia Ubajdijja )
     ´Ubajd Allah al-Mahdi     	                        910-934 ( wg D.Ś. ) ( ´Ubayd Allāh al-Mahdī wg D.O.T.W.A.C.A.G.H. )
                                                         909-934 ( wg R.Z.A.D.D. )
+                                                        909-po 920 ( Ubajd Allah (Sa'id Ibn Husajn, Sa'id, Ubajd Allah al-Mahdi) wg B.D.K.B. )
     Al-Ka´im                          	                934-946 ( wg D.Ś. ) ( Al-Qa´im wg D.O.T.W.A.C.A.G.H. )
     Al-Mansur                        	                  946-953 ( wg D.Ś. ) ( Al-Manṣūr wg D.O.T.W.A.C.A.G.H. )
     Al-Mu´izz                         	                953-975 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+                                                        952-975 ( Abu Tamim al-Mu'izz (Al-Aziz) wg B.D.K.B. )
     Al-´Aziz                            	              975-996 ( wg D.Ś. ) ( Al-´Azīz wg D.O.T.W.A.C.A.G.H. )
-    Al-Hakim                          	                996-1021 ( wg D.Ś. ) ( Al-Ḥākim wg D.O.T.W.A.C.A.G.H. )
+    Al-Hakim                          	                996-1021 ( wg D.Ś. i B.D.K.B. ) ( Al-Ḥākim wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1009-? ( al-Hákim wg S.V.D.K.V. )
     Az-Zahir                           	                1021-1036 ( wg D.Ś. ) ( Al-Ẓāhir wg D.O.T.W.A.C.A.G.H. )
-    Al-Mustansir                    	                  1036-1094 ( wg D.Ś. ) ( Al-Mustanṣir wg D.O.T.W.A.C.A.G.H. ) ( al-Mustansir wg S.V.D.K.V. )
+    Al-Mustansir                    	                  1036-1094 ( wg D.Ś. ) ( Al-Mustanṣir wg D.O.T.W.A.C.A.G.H. ) ( al-Mustansir wg S.V.D.K.V. ) ( Al-Mustansir bi-Allah al-Ubajd (Al-Mustansir bi-Allah al-Ubajdi) wg B.D.K.B. )
     Nizar                                               ?-1094 ( wg K.W.N.I.W.D. )
     Al-Musta´li                       	                1094-1101 ( wg D.Ś. ) ( Al-Musta´lī wg D.O.T.W.A.C.A.G.H. )
     Al-Amir                            	                1101-1130 ( wg D.Ś. ) ( Al-Āmir wg D.O.T.W.A.C.A.G.H. )
@@ -9983,6 +10104,7 @@ Kalifat Fatymidów ( Kalifat Fatemidów , Fátimovský chalífát )
       Kubiłaj-chan - władca największego imperium w dziejach
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Fenech
   Bibliografia :
@@ -10008,10 +10130,10 @@ Feraj
       Encyklopedie panovníků
       Klasické Řecko
 
-Fergana
+Fergana ( Ferghana )
   Bagadur Tudun		                                      przed 705 n.e.-? ( wg D.D.T. )
   Aluda			                                            713-715 ( wg D.D.T. )
-  Dynastia Karachanidów
+  Dynastia Karachanidów ( Karachanidzi )
     Arsłan-ilak Nasr          	                        ok.999 ( wg S.A. )
   Bibliografia :
       Serce Azji
@@ -10774,6 +10896,7 @@ Frankowie ( Franks , Frankové , Franken )
       Dagobert III                  	                  711-715 ( wg Tapsella i D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
       Karol Młot                    	                  714-741 ( wg V.N.M.S.D. i R.Z.A.D.D. )
                                                         przed 732-741 ( Charles Martel wg V.K.T.H.O.H.E. )
+                                                        przed 732-? ( wg B.D.K.B. )
       Chilperyk II                  	                  715-721 ( wg D.Ś. i Tapsella ) ( Chilperic II wg D.O.T.W.A.C.A.G.H. )
                                                         715-720 ( wg V.N.M.S.D. )
       Austrasia
@@ -10829,6 +10952,7 @@ Frankowie ( Franks , Frankové , Franken )
       Goci - Rzeczywistość i legenda
       History of Western Philosophy
       Otton I Wielki
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Biskupstwo Freising
   Ota		                                                przed 1157-1158
@@ -11137,7 +11261,7 @@ Imperium Ghaznawidów ( The Ghaznavid Empire )
   Ashák			                                            ? ( wg D.Ś. )
   Balkátigín		                                        ?-972 ( wg D.Ś. )
   Píráí                 		                            972-? ( wg D.Ś. )
-  Dynastia Ghaznawidów ( Ghaznavid Dynasty )
+  Dynastia Ghaznawidów ( Ghaznavid Dynasty , Ghaznawidzi )
     Sebüktigin         	                                977-997 ( wg D.Ś. i S.A. i S.I. i D.O.T.W.A.C.A.G.H. )
     Isma´il               	                            997-998 ( wg D.Ś. ) ( Ismā´īl wg D.O.T.W.A.C.A.G.H. )
     Mahmud                                              998-1030 ( wg D.Ś. i S.A. ) ( Maḥmūd wg D.O.T.W.A.C.A.G.H. )
@@ -11145,10 +11269,12 @@ Imperium Ghaznawidów ( The Ghaznavid Empire )
                                               	        997-1030 ( wg S.I. )
       				                                          ?-1030 ( Mahmúd z Ghazny wg E.P. )
                                                         przed 1000-? ( Sultan Mahmud wg T.S.O.I.C.O.T.W. )
+                                                        998-1030 (?-30.4.) ( Mahmud Ibn Sebüktegin wg B.D.K.B. )
     Muhammad       	                                    1030 i 1040-1041 ( wg D.Ś. ) ( Muḥammad wg D.O.T.W.A.C.A.G.H. )
     Mas´ud I            	                              1030-1040 ( wg D.Ś. ) ( Masúd wg E.P. ) ( Mas´ūd I wg D.O.T.W.A.C.A.G.H. )
                                               	        1128-1135 ( wg V.N.M.S.D. )
       		             	                                przed 1040-? ( Mas´úd wg D.B. )
+                                                        przed 1040-? (24.5.-?) ( wg B.D.K.B. )
     Maudud             	                                1041-1048 ( wg D.Ś. ) ( Maudūd wg D.O.T.W.A.C.A.G.H. )
     Mas´ud II           	                              1048 ( wg D.Ś. ) ( Mas´ūd II wg D.O.T.W.A.C.A.G.H. )
     ´Ali                    	                          1048-1049 ( wg D.Ś. ) ( ´Alī wg D.O.T.W.A.C.A.G.H. )
@@ -11171,10 +11297,11 @@ Imperium Ghaznawidów ( The Ghaznavid Empire )
       Encyklopedie panovníků
       Tamerlane - Sword of Islam, Conqueror of the World
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Ghumikowie
 
-Imperium Ghurydów ( Ghorids , The Ghūrid Empire , The Gōrids )
+Imperium Ghurydów ( Ghorids , The Ghūrid Empire , The Gōrids , Ghurydzi )
   Dynastia Szansabani ( Shansabānī Dynasty )
     ´Izz ad-Din Husajn I                   	            1117-1146 ( wg D.Ś. )
                                                         ok.1117-ok.1146 ( ´Izz al-Dīn Ḥusayn I wg D.O.T.W.A.C.A.G.H. )
@@ -12328,15 +12455,19 @@ Królestwo Hetytów ( Chetité , Hittites , Kingdom of the Hittites , Chetiti , 
       Dynasties of the World - A Chronological and Genealogical Handbook
       Zaginione miasta - 50 najsłynniejszych odkryć
 
-Królestwo Hidżazu ( Kingdom of the Ḥijāz )
-  Dynastia Haszymidów ( The Hāshimid Dynasty )
+Królestwo Hidżazu ( Kingdom of the Ḥijāz , Al-Hidżaz )
+  Dynastia Haszymidów ( The Hāshimid Dynasty , Haszymici )
     Husajn          	                                  1916-1924 ( wg D.Ś. ) ( Ḥusayn wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1924-1924 (?.3.-po ?.9.) ( Husajn Ibn Ali wg B.D.K.B. )
     ´Ali               	                                1924-1925 ( wg D.Ś. ) ( ´Alī wg D.O.T.W.A.C.A.G.H. )
+                                                        1924-1925 (?-22.12.) ( Ali wg B.D.K.B. )
   Dynastia Saudyjska ( The Sa´ūdī Dynasty )
     ´Abd al-´Aziz	                                      1926-1932 ( wg D.Ś. ) ( ´Abd al-´Azīz wg D.O.T.W.A.C.A.G.H. ) [King of Saudi Arabia]
+                                                        1927-? (15.1.-?) ( Ibn Saud wg B.D.K.B. )
   Bibliografia :
       Dynastie Świata
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Himera
   Terill             	                                  ok.480 p.n.e. ( wg F. )
@@ -12349,15 +12480,17 @@ Himera
       Klasické Řecko
 
 Hira
-  An-Nu´man				       	                              ?
-  Al-Mundhir 				       	                            ?
-  Malik ibn Fahm				      	                        ?
-  Dżudhaima				      	                              ?
-  ´Amr ibn ´Adi 				      	                        ?
-  An-Numan ibn al-Mundhir ( An-Numan III )	            580-602
-  Ijas ibn Kubaisa				     	                        ?
+  An-Nu´man				       	                              ? ( wg R.Z.A.D.D. )
+  Al-Mundhir 				       	                            ? ( wg R.Z.A.D.D. )
+  Malik ibn Fahm				      	                        ? ( wg R.Z.A.D.D. )
+  Dżudhaima				      	                              ? ( wg R.Z.A.D.D. )
+  ´Amr ibn ´Adi 				      	                        ? ( wg R.Z.A.D.D. )
+  Umar Ibn an-Nu'man                                    ? ( wg B.D.K.B. )
+  An-Numan ibn al-Mundhir ( An-Numan III )	            580-602 ( wg R.Z.A.D.D. )
+  Ijas ibn Kubaisa				     	                        ? ( wg R.Z.A.D.D. )
   Bibliografia :
       Rýžoviště zlata a doly drahokamů
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Hirkanowie ( Królestwo Hirkanów )
   Bibliografia :
@@ -12690,18 +12823,24 @@ Idalion
   Bibliografia :
       Foiničané
 
-Państwo Il-Chanów ( Ilchanat Perski , Ílchanát )
-  Dynastia Czyngizydów ( Ilkhanid Dynasty , Chingizid Dynasty )
+Ifrikijja
+  Abd ar-Rahman Ibn Habib                               744-755 ( Abd ar-Rahman wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+
+Państwo Il-Chanów ( Ilchanat Perski , Ílchanát , Państwo Hulagidów )
+  Dynastia Czyngizydów ( Ilkhanid Dynasty , Chingizid Dynasty , Czyngisydzi , Hulagidzi, Ilchanidzi )
     Hülegü                             	                1256-1265 ( wg D.Ś. i I.M. i D.O.T.W.A.C.A.G.H. )
                                                         1260-ok.1265 ( wg V.N.M.S.D. )
       			            	                              ?-1265 ( wg K.V. i S.V.D.K.V. ) ( Hulagu wg T.S.O.I.C.O.T.W. )
-      				     	                                    ? ( Hulagu wg D.B. )
+      				     	                                    ? ( Hulagu wg D.B. ) ( Hulagu-chan (Hulagu) wg B.D.K.B. )
       					                                        1255-1265 ( Hülegü-chan wg E.P. )
                                                         przed 1260-1265 ( Hulagu wg K.W.N.I.W.D. )
     Abaka                              	                1265-1282 ( wg D.Ś. i I.M. i K.V. ) ( Abaqa wg D.O.T.W.A.C.A.G.H. )
                                                         ok.1265-ok.1280 ( wg V.N.M.S.D. )
                                                         1265-po 1270 ( Abaga wg K.W.N.I.W.D. )
                                                         ?-1282 ( wg S.V.D.K.V. )
+                                                        przed 1279-? ( Abaga-chan (Abaga) wg B.D.K.B. )
     Tegüder ( Ahmad )          	                        1282-1284 ( wg D.Ś. i I.M. i K.V. ) ( Aḥmad wg D.O.T.W.A.C.A.G.H. )
                                                         ok.1280-ok.1285 ( wg V.N.M.S.D. )
     Argun                               	              1284-1291 ( wg D.Ś. i I.M. ) ( Arghun wg D.O.T.W.A.C.A.G.H. )
@@ -12711,7 +12850,7 @@ Państwo Il-Chanów ( Ilchanat Perski , Ílchanát )
                                                         przed 1285-? ( Arghun wg T.S.O.I.C.O.T.W. )
     Gajchatu                           	                1291-1295 ( wg D.Ś. i I.M. i V.N.M.S.D. ) ( Gaikhatu wg D.O.T.W.A.C.A.G.H. )
     Bajdu                                	              1295 ( wg D.Ś. i I.M. ) ( Baidu wg D.O.T.W.A.C.A.G.H. )
-    Gazan ( Mahmud )           	                        1295-1304 ( wg D.Ś. i I.M. ) ( Ghazan (Maḥmūd) wg D.O.T.W.A.C.A.G.H. )
+    Gazan ( Mahmud )           	                        1295-1304 ( wg D.Ś. i I.M. ) ( Ghazan (Maḥmūd) wg D.O.T.W.A.C.A.G.H. ) ( Mahmud Ghazan wg B.D.K.B. )
     Öldżejtü ( Muhammad )	                              1304-1316 ( wg D.Ś. i I.M. ) ( Öldžejtü ( Chodábende ) wg E.P. ) ( Öljeitü (Muḥammad) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1313-? ( Mohammed Oljeytu Khudabanda (Oljeytu) wg T.S.O.I.C.O.T.W. )
     Abu Sa´id                          	                1316-1335 ( wg D.Ś. ) ( Abū Sa´īd wg D.O.T.W.A.C.A.G.H. )
@@ -12732,6 +12871,7 @@ Państwo Il-Chanów ( Ilchanat Perski , Ílchanát )
       Tamerlane - Sword of Islam, Conqueror of the World
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Ilergeci
   Andobales                                             ?-218 p.n.e.
@@ -12842,8 +12982,9 @@ Iolkos
 
 Irak ( Iraq , Irák )
   Królestwo Iraku ( Kingdom of Iraq )
-    Dynastia Haszymidów ( The Hāshimid Dynasty )
+    Dynastia Haszymidów ( The Hāshimid Dynasty , Haszymici )
       Fajsal I        	                                1921-1933 ( wg D.Ś. ) ( Fayṣal I wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1924-? (?.3.-?) ( Fajsal wg B.D.K.B. )
       Ghazi           	                                1933-1939 ( wg D.Ś. i V.N.M.S.D. ) ( Ghāzī wg D.O.T.W.A.C.A.G.H. )
       Fajsal II        	                                1939-1958 ( wg D.Ś. i V.N.M.S.D. ) ( Fayṣal II wg D.O.T.W.A.C.A.G.H. )
     Iraqi Republic
@@ -12868,6 +13009,12 @@ Irak ( Iraq , Irák )
       Dynasties of the World - A Chronological and Genealogical Handbook
       The Demon-haunted World - Science as a Candle in the Dark
       Not Born Yesterday - The Science of Who We Trust and What We Believe
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+
+Irbil
+  Muzaffar ad-Din Kukbur                                  przed 1225-1233 (?.4.-?) ( Muzaffar ad-Din (Kukbur, Gökbori) wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Irkata
   Bibliografia :
@@ -13086,6 +13233,11 @@ Isin
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
       Dynasties of the World - A Chronological and Genealogical Handbook
 
+Islamskie Państwo Iraku i Wielkiej Syrii ( Daula Islamijja al-Irak wa-asz-Szam , ISIS )
+  Abu Bakr al-Bagdadi                                   ? ( wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+
 Islandia ( Iceland )
   Icelandic Free State
   Królestwo Islandii
@@ -13279,7 +13431,7 @@ Izrael ( Israel )
                                                         ok.950 ( wg D.G. )
                                                         965-928 ( wg S.C. )
                                                         975-935 ( wg H.P.S. )
-                                                        ? ( wg O.L. i S.II.W.I.J.C.Z.E.M.P. i Z.M.50.N.O. i Z.P.B.W.A. ) ( Šalamoun wg E.P. i D.S.B.V. i H.S.J.M. i S.V.D.K.V. ) ( Šalomoun wg Ž.V.Ř.S. ) ( Solomon wg A.S.A.O.T.D.O.T.I. i H.O.W.P. )
+                                                        ? ( wg O.L. i S.II.W.I.J.C.Z.E.M.P. i Z.M.50.N.O. i Z.P.B.W.A. i B.D.K.B. ) ( Šalamoun wg E.P. i D.S.B.V. i H.S.J.M. i S.V.D.K.V. ) ( Šalomoun wg Ž.V.Ř.S. ) ( Solomon wg A.S.A.O.T.D.O.T.I. i H.O.W.P. )
                                                         ok.970-ok.931 ( Solomon wg D.O.T.W.A.C.A.G.H. )
   Królestwo Izraela ( Království Izraele , Kingdom of Israel , Samaria )
     Jeroboam I           	                              931-910 ( wg D.Ś. i S.B.W. ) ( Jeroboám I wg E.P. )
@@ -13402,6 +13554,7 @@ Izrael ( Israel )
       History of Western Philosophy
       Zaginione miasta - 50 najsłynniejszych odkryć
       Z Panem Biegankiem w Abisynii
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Izraelici ( Żydzi , Jews )
   Jozue              		                                1451-1426 ( wg V.N.M.S.D. )
@@ -13866,6 +14019,8 @@ Jemen ( Yemen )
   Jaksum				                                        ? ( wg R.Z.A.D.D. )
   Masruk				                                        ? ( wg R.Z.A.D.D. )
   Ma´dikarib			                                      ? ( wg R.Z.A.D.D. )
+  Ajjubidzi
+    Turanszah                                           przed 1174-? (15.5.-?) ( wg B.D.K.B. )
   Imamat Jemenu
     Dynastia Kasymidów ( Qāsimī Dynasty )
       Al-Kasim I al-Mansur              	              1597-1620 ( wg D.Ś. ) ( Al-Qāsim I (Al-Qasim I al-Manṣūr) wg D.O.T.W.A.C.A.G.H. )
@@ -13902,6 +14057,7 @@ Jemen ( Yemen )
       Rýžoviště zlata a doly drahokamů
       Zapomianie narody Europy
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Jen-Mu Żung
   Bibliografia :
@@ -14275,6 +14431,11 @@ Kaisu
   Bibliografia :
       Foiničané
 
+Królestwo Kajanidów
+  Gusztasp                                              ?
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+
 Państwo Kajdu
   Kajdu                                                 1252-po 1301 (?-?.9.)
   Czapar                                                przed 1310-?
@@ -14327,40 +14488,45 @@ Kalifat ( Caliphate , The Caliphate , Kalifat Arabski )
                                                         ? ( Muhammad (Mahomet) wg S.II.W.I.J.C.Z.E.M.P. ) ( Mohammed wg H.O.W.P. ) ( Mohammed (Mahomet) wg O.I.W. )
                                                         przed 629-632 ( Muhammad wg S.V.D.K.V. )
                                                         przed 627-632 ( Mahomet wg K.6. )
-  Kalifowie prawowierni ( Ortodox Caliphate )
-    Abu Bakr      	                                    632-634 ( wg D.Ś. i V.N.M.S.D. i K.6. ) ( Abú Bakr wg D.B. ) ( Abū Bakr wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 624-632 (?.3.-8.6.) ( Mahomet (Muhammad Ibu Abd Allah) wg B.D.K.B. )
+  Kalifowie prawowierni ( Ortodox Caliphate , Chulafa ar-Raszidun )
+    Abu Bakr      	                                    632-634 ( wg D.Ś. i V.N.M.S.D. i K.6. i B.D.K.B. ) ( Abú Bakr wg D.B. ) ( Abū Bakr wg D.O.T.W.A.C.A.G.H. )
                                          	              632-634 ( 13.5.-23.8. ) ( as-Siddik wg R.Z.A.D.D. )
                                                         ? ( Abubakr wg T.S.O.I.C.O.T.W. )
     ´Umar            	                                  634-644 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. ) ( Umar wg K.6. )
-               			                                    634-644 ( 1.5.-4.11. ) ( wg R.Z.A.D.D. )
+               			                                    634-644 (1.5.-4.11.) ( wg R.Z.A.D.D. )
                			                                    634-642 ( Omar wg D.B. )
       			                                            przed 636-po 640 ( Omar wg Ž.V.Ř.S. )
       			                                            przed 640 ( Omar wg V.F.V. )
                                                         przed 638-? (?.2.-?) ( 'Umar wg S.V.D.K.V. )
                                                         przed 642-? ( Omar wg Z.M.50.N.O. )
+                                                        634-644 (?-3.11.) ( Umar (Umar Ibn al-Chattab) wg B.D.K.B. )
     ´Usman       	                                      644-656 ( wg D.Ś. ) ( ´Uthmān wg D.O.T.W.A.C.A.G.H. ) ( Usman wg K.6. )
                                          	              644-656  (6/7.11.-29.6.) ( ibn ´Affan wg R.Z.A.D.D. )
                                          	              644-655 ( wg V.N.M.S.D. )
       		   	                                          ? ( Othman wg D.B. )
       			                                            ?-655 ( Osman wg D.D.T. )
                                                         przed 646-656 (?-17.6.) ( Othman wg T.S.O.I.C.O.T.W. )
+                                                        644-656 (?-?.6.) ( Usman (Usman Ibn Affan) wg B.D.K.B. )
     ´Ali                 	                              656-661 ( wg D.Ś. ) ( ´Alī wg D.O.T.W.A.C.A.G.H. ) ( Ali wg K.6. )
                                            	            656-661 (?-26/28.1.) ( ibn Abi Talib wg R.Z.A.D.D. )
                                            	            655-660 ( wg V.N.M.S.D. )
       		         	                                    ?-661 ( Ali wg D.B. i H.O.W.P. ) ( Alí wg S.V.D.K.V. )
                                                         ? ( Ali wg T.S.O.I.C.O.T.W. )
-    Al-Hasan       	                                    661 ( 28(30).1.-?.7. ) ( wg R.Z.A.D.D. )
-  Dynastia Umajjadów ( Dynastia Omajadów , Umayyad Caliphate , Umayyad Dynasty , Umajjovský chalífát , Umayyads , Umayyad dynasty , Omajjadzi , Dynastia Omajjadów )
+                                                        656-659/61 (24.6.-?.1./24.1.) ( Ali (Ali Ibn Abi Talib) wg B.D.K.B. )
+    Al-Hasan       	                                    661 (28(30).1.-?.7.) ( wg R.Z.A.D.D. )
+  Dynastia Umajjadów ( Dynastia Omajadów , Umayyad Caliphate , Umayyad Dynasty , Umajjovský chalífát , Umayyads , Umayyad dynasty , Omajjadzi , Dynastia Omajjadów , Umajjadzi )
     Mu´awija I         	                                661-680 ( wg D.Ś. i I.Hrbka ) ( Mu´āwiya I wg D.O.T.W.A.C.A.G.H. ) ( Mu'awija wg K.6.)
                                               	        662-681 (?.4.-?.2.) ( wg Al-Masudiego )
                                               	        660-680 ( wg V.N.M.S.D. )
       		            	                                przed 661-po 678 ( Muavija wg D.B. )
-    Jazid I                	                            680-683 ( wg D.Ś. i V.N.M.S.D. ) ( Yazīd I wg D.O.T.W.A.C.A.G.H. ) ( Jazid wg K.6. )
+                                                        661-? ( Mu'awija wg B.D.K.B. )
+    Jazid I                	                            680-683 ( wg D.Ś. i V.N.M.S.D. ) ( Yazīd I wg D.O.T.W.A.C.A.G.H. ) ( Jazid wg K.6. i B.D.K.B. )
                   				                              680-683 (20.2.-12.10./10.11.) ( wg R.Z.A.D.D. )
     Mu´awija II       	                                683-684 ( wg D.Ś. ) ( Mu´āwiya II wg D.O.T.W.A.C.A.G.H. )
                                               	        683 ( wg R.Z.A.D.D. )
     Marwan I          	                                684-685 ( wg D.Ś. ) ( Marwān I wg D.O.T.W.A.C.A.G.H. )
-    ´Abd al-Malik    	                                  685-705 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Abd al-Malik ibn Marván wg E.P. ) ( Abd al-Malik wg K.6. )
+    ´Abd al-Malik    	                                  685-705 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Abd al-Malik ibn Marván wg E.P. ) ( Abd al-Malik wg K.6. i B.D.K.B. )
                                               	        684-704 ( wg V.N.M.S.D. )
       		                    	                        ? ( Abdalmalik wg D.B. )
       				                                          przed 689-? ( Abd-el-Melik wg D.D.T. )
@@ -14373,110 +14539,163 @@ Kalifat ( Caliphate , The Caliphate , Kalifat Arabski )
       			     	                                      ? ( Sulejman wg D.B. )
                                                         przed 715-po 718 (?-15.8.) ( Sulajman Ibn Abd al-Maluk wg B.S. )
     ´Umar II             	                              717-720 ( wg V.N.M.S.D. i D.Ś. i S.A. i D.O.T.W.A.C.A.G.H. )
-      			    	                                      ? ( Omar II wg D.B. )
+      			    	                                      ? ( Omar II wg D.B. ) ( Umar Ibn And al-Aziz wg B.D.K.B. )
     Jazid II               	                            720-724 ( wg D.Ś. ) ( Yazīd II wg D.O.T.W.A.C.A.G.H. )
                                                	        720-742 ( wg V.N.M.S.D. )
       			    	                                      ? ( Jezid II wg D.B. )
     Hiszam               	                              724-743 ( wg D.Ś. i D.D.T. ) ( Hishām wg D.O.T.W.A.C.A.G.H. )
                                                	        720-742 ( wg V.N.M.S.D. )
+                                                        ? ( Hiszam Ibn Abd al-Malik (Hiszam) wg B.D.K.B. )
     Al-Walid II        	                                743-744 ( wg D.Ś. ) ( Al-Walīd II wg D.O.T.W.A.C.A.G.H. )
                                                	        742-746 ( wg V.N.M.S.D. )
+                                                        ? ( Al-Walid (Walid Ibn Jazid Ibn Abd al-Malik) wg B.D.K.B. )
     Jazid III              	                            744 ( wg D.Ś. ) ( Yazīd III wg D.O.T.W.A.C.A.G.H. )
+                                                        ? ( Jazid Ibn al-Walid Ibn Abd al-Malik wg B.D.K.B. )
     Ibrahim               	                            744 ( wg D.Ś. ) ( Ibrāhīm wg D.O.T.W.A.C.A.G.H. )
     Marwan II          	                                744-750 ( wg D.Ś. ) ( Marwan wg Z.N.E. ) ( Marwān II wg D.O.T.W.A.C.A.G.H. )
                                                	        746-750 ( wg V.N.M.S.D. )
-      		                   	                          ? ( Marvan wg Z.S.A.V.E. )
+      		                   	                          ? ( Marvan wg Z.S.A.V.E. ) 
+                                                        744-750 (?-5.8.) ( Marwan (Marwan Ibn Muhammad Ibn Marwan Ibn al-Haram, Marwan Ibn Muhammad, Marwan II) wg B.D.K.B. )
   ´Abdallah ibn az-Zubair	                              683-692 ( 7.10.-1(27).10. ) ( wg R.Z.A.D.D. )
       				                                          680-692 ( Ibn az-Zubajr wg E.P. )
-  Dynastia ´Abbasydów w Bagdadzie ( Kalifat Abbasydzki w Bagdadzie , Abbasid Caliphate , Abbasid Dynasty , ´Abbāsid Dynasty , Abbásovci , Abbasids , Dynastia Abbasydów , Kalifat Abbasydów , Kalifat Bagdadzki )
-    Abu al-´Abbas as-Saffah	                            750-754 ( wg D.Ś. ) ( Abū al-´Abbās al-Saffāḥ wg D.O.T.W.A.C.A.G.H. )
+  Dynastia ´Abbasydów w Bagdadzie ( Kalifat Abbasydzki w Bagdadzie , Abbasid Caliphate , Abbasid Dynasty , ´Abbāsid Dynasty , Abbásovci , Abbasids , Dynastia Abbasydów , Kalifat Abbasydów , Kalifat Bagdadzki , Kalifat Bagdadu , Abbasydzi , The Abbasid Caliphate )
+    Haszymici
+      Abu al-´Abbas as-Saffah	                          750-754 ( wg D.Ś. ) ( Abū al-´Abbās al-Saffāḥ wg D.O.T.W.A.C.A.G.H. )
       			              	                            749-? ( Abu l-Abbás wg M.A.E. )
                                                         750-? ( Abul Abbas wg Z.M.50.N.O. )
+                                                        749/750-754 (28.11./?-?.6.) ( Abu al-Abbas Abd Allah Ibn Muhammad (Abu al-Abbas, As-Saffah, Abu al-Abbas as-Saffah, Abu al-Abbas Muhammad, Abd Allah Abu al-Abbas) wg B.D.K.B. )
     Al-Mansur                         	                754-775 ( wg D.Ś. ) ( Al-Manṣūr (al-Manṣūr) wg D.O.T.W.A.C.A.G.H. ) ( al-Mansur wg Z.M.50.N.O. )
                                                         753-774 ( wg V.N.M.S.D. )
       					                                        przed 763-? ( Abu Dža´far al-Mansúr wg M.A.E. )
       					                                        ? ( Mansur wg D.D.T. ) ( al-Mansúr wg S.P. )
+                                                        754-775 (przed ?.11.-?) ( Abd Allah Abu Dżafar al-Mansur (Abu Dżafar) wg B.D.K.B. )
     Al-Mahdi                           	                775-785 ( wg D.Ś. ) ( Al-Mahdī wg D.O.T.W.A.C.A.G.H. )
                                                         774-784 ( wg V.N.M.S.D. )
+                                                        775-785 (?-4.8.) ( Muhammad al-Mahdi (Muhammad Ibn Abd Allah, Bint al-Mansur Ibn Abd Allah, Abu Abd Allah Muhammad, Al-Mahdi Muhammad Ibn Abd Allah) wg B.D.K.B. )
     Al-Hadi                              	              785-786 ( wg D.Ś. ) ( Al-Hādī wg D.O.T.W.A.C.A.G.H. )
                                                         784-786 ( wg V.N.M.S.D. )
+                                                        785-786 (przed ?.8.-14/15.9.) ( Musa al-Hadi (Musa) wg B.D.K.B. )
     Harun ar-Raszid                	                    786-809 ( wg D.Ś. i S.A. i Z.N.E. i Z.M.50.N.O. ) ( Hárún ar-Rašíd wg M.A.E. i D.B. i Ř.S.J.Ď.S. ) ( Harun ar-Raszyd wg T.Z.H.K. ) ( Hārūn al-Raszīd wg D.O.T.W.A.C.A.G.H. )
                                                         786-808 ( wg V.N.M.S.D. )
       					                                        przed 800-? ( Harún ar-Rašíd wg V.F.V. )
                                                         ? ( wg S.P.D.Z. ) ( Harun al-Raszyd wg Z.P.B.W.A. ) ( Harun al-Raszid wg O.I.W. )
                                                         ?-809 ( Harun al Rashid wg H.O.W.P. )
+                                                        786-809 (?.9.-24.3.) ( Ar-Raszid (Harun, Harun al-Rashid) wg B.D.K.B. )
     Al-Amin                            	                809-813 ( wg D.Ś. ) ( Al-Amīn wg D.O.T.W.A.C.A.G.H. )
                                                         808-813 ( wg V.N.M.S.D. )
-    Al-Ma´mun                       	                  813-833 ( wg V.N.M.S.D. i D.Ś. i S.A. ) ( al-Ma´mún wg M.A.E. ) ( Al-Ma´mūn wg D.O.T.W.A.C.A.G.H. )
+                                                        809-813 (?-24/25.9.) ( Muhammad al-Amin (Muhammad) wg B.D.K.B. )
+    Al-Ma´mun                       	                  813-833 ( wg V.N.M.S.D. i D.Ś. i S.A. ) ( al-Ma´mún wg M.A.E. ) ( Al-Ma´mūn wg D.O.T.W.A.C.A.G.H. ) 
+                                                        813-833 (przed 24/25.9.-7.8.) ( Al-Mamun (Abd Allah al-Mamun, Abd Allah, Mamun) wg B.D.K.B. )
+    Ibtahim Ibn al-Mahdi                                817-819 (?.7.-lato) ( Ibrahim wg B.D.K.B. )
       				     	                                    ? ( Mamún wg D.B. ) ( Ar-Mamún wg V.F.V. )
     Uthmána                                 	          ? ( wg M.A.E. )
     Al-Mu´tasim                     	                  833-842 ( wg D.Ś. ) ( Al-Mu´taṣim (al-Mu´taṣim billāh) wg D.O.T.W.A.C.A.G.H. ) ( al-Mutasim wg Z.M.50.N.O. )
                                                         833-841 ( wg V.N.M.S.D. )
       			                                            przed 839-po 841 ( Mutasim wg D.B. )
+                                                        833-842 (10.8.-5.1.) ( Al-Mutasim (Abu Ishak, Abu Ishak Muhammad) wg B.D.K.B. )
     Al-Wasik                          	                842-847 ( wg D.Ś. ) ( Al-Wāthiq wg D.O.T.W.A.C.A.G.H. )
                                                         841-846 ( wg V.N.M.S.D. )
+                                                        842-847 (?-10.8.) ( Al-Wasik bi-Allah (Harun) wg B.D.K.B. )
     Al-Mutawakkil                 	                    847-861 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Mutawakkil wg Z.M.50.N.O. )
                                                         846-861 ( wg V.N.M.S.D. )
+                                                        przed 849-861 (?-11.12.) ( Al-Mutawakkil ala Allah (Dżafar) wg B.D.K.B. )
     Al-Muntasir                      	                  861-862 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. ) ( Al-Muntaṣir wg D.O.T.W.A.C.A.G.H. )
+                                                        861-862 (11.12.-?.6.) ( Al-Muntasir bi-Allah (Muhammad) wg B.D.K.B. )
     Al-Musta´in                      	                  862-866 ( wg D.Ś. ) ( Al-Musta´īn wg D.O.T.W.A.C.A.G.H. )
                                                         862-865 ( wg V.N.M.S.D. )
+                                                        przed 863-866 (?-?.1.) ( Ahmad Ibn Muhammad wg B.D.K.B. )
     Al-Mu´tazz                       	                  866-869 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         865-869 ( wg V.N.M.S.D. )
+                                                        866-869 (?.1.-po ?.7.) ( Al-Mutazz bi-Allah wg B.D.K.B. )
     Al-Muhtadi                       	                  869-870 ( wg D.Ś. ) ( Al-Muhtadī wg D.O.T.W.A.C.A.G.H. )
+                                                        869-870 (?-?.6.) ( Muhammad wg B.D.K.B. )
     Al-Mu´tamid                    	                    870-892 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         869-892 ( wg V.N.M.S.D. )
+                                                        870-892 (?.6.-15.10.) ( Al-Mutamid (Abu Dżafar Ahmad, Al-Mutamid ala-Allah) wg B.D.K.B. )
+    Al-Muwaffak                                         przed 872-891 (?-2.6.) ( Abu Ahmad Talha (Abu Ahmad, Al-Muwaffak bi-Allah, An-Nasir li-Din Allah) wg B.D.K.B. )
     Al-Mu´tadid                     	                  892-902 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. ) ( Al-Mu´taḍid wg D.O.T.W.A.C.A.G.H. ) ( Mutadid wg Z.M.50.N.O. )
+                                                        892-902 (15.10.-5.4.) ( Al-Mutadid (Al-Mutadid bi-Allah, Abu al-Abbas) wg B.D.K.B. )
     Al-Muktafi                       	                  902-908 ( wg D.Ś. ) ( Al-Muktafī wg D.O.T.W.A.C.A.G.H. )
                                                         902-907 ( wg V.N.M.S.D. )
-    Al-Muktadir                     	                  908-932 ( wg D.Ś. ) ( Al-Muqtadir wg D.O.T.W.A.C.A.G.H. )
+                                                        902-908 (19.4.-?.8.) ( Al-Muktafi bi-Allah (Ali, Abu Muhammad Ali) wg B.D.K.B. )
+    Al-Murtada                                          908 (17.12.-18.12.) ( Ibn al-Mutazz (Abd Allah Ibn al-Mutazz, Abd Allah, Al-Murtada bi-Allah) wg B.D.K.B. )
+    Al-Muktadir                     	                  908-932 ( wg D.Ś. i B.D.K.B. ) ( Al-Muqtadir wg D.O.T.W.A.C.A.G.H. )
                                                         907-932 ( wg V.N.M.S.D. )
                                                         przed 921-po 922 ( al-Muktadir wg Z.N.E. )
+                                                        908-929 i 929-932 (?.9.-27.2. i 2.3.-31.10.) ( Al-Mukadir (Al-Muktadir bi-Allah, Abu al-Fadl Dżafar) wg B.D.K.B. )
+                                                        przed 922-? ( Al-Muqtadir wg K.1018 )
     Al-Kahir                           	                932-934 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. ) ( Al-Qāhir wg D.O.T.W.A.C.A.G.H. )
+                                                        929 i 932-934 (27.2.-2.3. i 1.11.-?.4.) ( Al-Kahir bi-Allah (Abu Mansur Muhammad) wg B.D.K.B. )
     Ar-Radi                             	              934-940 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. ) ( Al-Rāḍī wg D.O.T.W.A.C.A.G.H. )
+                                                        934-940 (?-18.12.) ( Ar-Radi bi-Allah (Abu al-Abbas) wg B.D.K.B. )
     Al-Muttaki                        	                940-944 ( wg D.Ś. ) ( Al-Muttaqī wg D.O.T.W.A.C.A.G.H. )
                                                         940-945 ( wg V.N.M.S.D. )
+                                                        940-944 (23.12.-20.10.) ( Al-Muttaki li-Allah (Abu Ishak Ibrahim) wg B.D.K.B. )
     Al-Mustakfi                      	                  944-946 ( wg D.Ś. ) ( Al-Mustakfī wg D.O.T.W.A.C.A.G.H. )
+                                                        944-946 (?-29.1.) ( Al-Mustakfi bi-Allah (Abu al-Kasim Abd Allah) wg B.D.K.B. )
     Al-Muti´                           	                946-974 ( wg D.Ś. ) ( Al-Muṭī´ wg D.O.T.W.A.C.A.G.H. )
                                                         945-973 ( wg V.N.M.S.D. )
+                                                        946-974 (4.2.-5.8.) ( Al-Muti li-Allah (Abu al-Kasim al-Fadl) wg B.D.K.B. )
     Al-Ta´i´                             	              974-991 ( wg D.Ś. ) ( Al-Tā´i´ wg D.O.T.W.A.C.A.G.H. )
                                                         973-991 ( wg V.N.M.S.D. )
+                                                        974-991 (5.8.-?.10/11.) ( Al-Ta'i (At-Ta'i li-Allah, Abd al-Karim, At-Ta'i li-Amr-Allah, At-Ta'i, Abd al-Karim at-Ta'i li-Allah) wg B.D.K.B. )
     Al-Kadir                            	              991-1031 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. ) ( Al-Qādir wg D.O.T.W.A.C.A.G.H. )
+                                                        991-1031 (?.11.-?.11/12.) ( Al-Kadir bi-Allah (Abu al-Abbas Ahmad) wg B.D.K.B. )
     Al-Ka´im                          	                1031-1075 ( wg D.Ś. ) ( Al-Qā´im wg D.O.T.W.A.C.A.G.H. )
                                                         1031-1056 ( wg V.N.M.S.D. )
       			              	                            przed 1059-? ( Al-Ká´m wg D.B. )
                                                         przed 1055-? (?.12.-?) ( wg N.I.B.W.XI.S. )
+                                                        przed 1048-1075 (?-2.4.) ( Al-Ka'im (Abd Allah, Al-Ka'im bi-Amr Allah, Abu Dżafar Abd Allah) wg B.D.K.B. )
     Al-Muktadi                       	                  1075-1094 ( wg D.Ś. ) ( Al-Muqtadī wg D.O.T.W.A.C.A.G.H. )
                                                         ?-1094 ( al-Muqtadí wg S.V.D.K.V. )
+                                                        1075-1094 (2.4.-po 4.2.) ( Al-Muktadi bi-Amr Allah (Abu al-Kasim Abd Allah) wg B.D.K.B. )
     Al-Mustazhir                    	                  1094-1118 ( wg D.Ś. ) ( Al-Mustaẓhir wg D.O.T.W.A.C.A.G.H. )
+                                                        1094-1118 (7.2.-7.8.) ( Al-Mus-tazhir bi-Allah (Abu al-Abbas Ahmad) wg B.D.K.B. )
     Al-Mustarszid                   	                  1118-1135 ( wg D.Ś. ) ( Al-Mustarshid wg D.O.T.W.A.C.A.G.H. )
+                                                        1118-1135 (?-29.8.) ( Al-Mustarszid bi-Allah (Ai-Mustarszid, Abu Mansur al-Fadl) wg B.D.K.B. )
     Ar-Raszid                          	                1135-1136 ( wg D.Ś. ) ( Al-Rāshid wg D.O.T.W.A.C.A.G.H. )
+                                                        1135-1136 (7.9.-16.8.) ( Ar-Raszid bi-Allah (Abu Dżafar al-Mansur) wg B.D.K.B. )
     Al-Muktafi                        	                1136-1160 ( wg D.Ś. ) ( Al-Muqtafī wg D.O.T.W.A.C.A.G.H. )
+                                                        1136-1160 (18.8.-10.3.) ( Al-Muktafi bi-Amr Allah (Abu Abd Allah Muhammad) wg B.D.K.B. )
     Al-Mustandżid                  	                    1160-1170 ( wg D.Ś. ) ( Al-Mustanjid wg D.O.T.W.A.C.A.G.H. )
+                                                        1160-1170 (?-16.12.) ( Al-Mustadżid (Al-Mustandżid bi-Allah, Jusuf, Abu al-Muzaffar Jusuf) wg B.D.K.B. )
     Al-Mustadi´                      	                  1170-1180 ( wg D.Ś. ) ( Al-Mustaḍī´ wg D.O.T.W.A.C.A.G.H. ) ( al-Mustadí wg S.V.D.K.V. )
+                                                        przed 1171-1180 (?-30.3.) ( Al-Mustadi (Al-Hasan, Abu Muhammad al-Hasan, Al-Mustadi bi-Amr Allah) wg B.D.K.B. )
     An-Nasir                           	                1180-1225 ( wg D.Ś. ) ( Al-Nāṣir wg D.O.T.W.A.C.A.G.H. ) ( an-Násir wg S.V.D.K.V. )
+                                                        1180/5-1225 (?-6.10.) ( Ahmad (Abu al-Abbas Ahmad, Nasir, an-Nasir, An-Nasir li-Din Allah) wg B.D.K.B. )  
     Az-Zahir                           	                1225-1226 ( wg D.Ś. ) ( Al-Ẓāhir wg D.O.T.W.A.C.A.G.H. )
+                                                        1225-1226 (?-21.7.) ( Az-Zahir bi-Amr Allah (Abu Nasr Muhammad, Muhammad) wg B.D.K.B. )
     Al-Mustansir                    	                  1226-1242 ( wg D.Ś. ) ( Al-Mustanṣir wg D.O.T.W.A.C.A.G.H. )
+                                                        1226-1242 (?-5.12.) ( Al-Mustansir bi-Allah (Abu Dżafar al-Mansur) wg B.D.K.B. )
     Al-Musta´sim                   	                    1242-1258 ( wg D.Ś. i I.M. ) ( Al-Musta´ṣim wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1257-1258 (?-po 3.2.) ( Al-Mutasim wg K.W.N.I.W.D. )
                                                         ?-1258 (?-?.2.) ( al-Musta`sim wg S.V.D.K.V. )
+                                                        przed 1243-1258 (26.6.-20.2.) ( Al-Mustasim (Al-Mustasim bi-Allah, Abu Ahmad Abd Allah, Mustasim) wg B.D.K.B. )
   Dynastia ´Abbasydów w Kairze
     Al-Mustansir             	                          1261 ( wg D.Ś. )
+                                                        1261 (28.5.-28.11.) ( Al-Mustansir bi-Allah (Ahmad, Abu al-Abbas Ahmad, Abbas Ahmad, Imam Mustansir bi-Allah, Al-Mustansir II) wg B.D.K.B. )
     Al-Hakim I                	                        1262-1302 ( wg D.Ś. )
+                                                        ? ( Al-Hakim (Al-Hakim bi-Amr Allah) wg B.D.K.B. )
     Al-Mustakfi I             	                        1302-1340 ( wg D.Ś. )
     Al-Wasik I                 	                        1340 ( wg D.Ś. )
     Al-Hakim II               	                        1340-1352 ( wg D.Ś. )
     Al-Mu´tadid I             	                        1352-1362 ( wg D.Ś. )
     Al-Mutawakkil I         	                          1362-1377 i 1377-1383 i 1389-1406 ( wg D.Ś. )
+                                                        ? i 1377-1383 i ? ( Al-Mutawakkil wg B.D.K.B. )
     Al-Mu´tasim               	                        1377 i 1386-1389 ( wg D.Ś. )
     Al-Wasik II                 	                      1383-1386 ( wg D.Ś. )
+                                                        ? ( Al-Wasik wg B.D.K.B. )
     Al-Musta´in                 	                      1406-1414 ( wg D.Ś. ) [Burjī Mameluk Egyptian ruler Al-´Ādil al-Musta´īn]
+                                                        1406-1414 (?-9.3.) ( Al-Musta'in wg B.D.K.B. )
     Al-Mu´tadid II             	                        1414-1441 ( wg D.Ś. )
     Al-Mustakfi II             	                        1441-1451 ( wg D.Ś. )
     Al-Ka´im                     	                      1451-1455 ( wg D.Ś. )
     Al-Mustandżid            	                          1455-1479 ( wg D.Ś. )
     Al-Mutawakkil II        	                          1479-1497 ( wg D.Ś. )
     Al-Mustamsik              	                        1497-1508 i 1516-1517 ( wg D.Ś. )
+                                                        ?-1509 ( wg B.D.K.B. )
     Al-Mutawakkil III	                                  1508-1516 ( wg D.Ś. )
+                                                        przed 1516-1517/43 (24.8.-?/10.11.) ( Al-Mutawakkil (Mutawakkil III) wg B.D.K.B. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -14508,6 +14727,8 @@ Kalifat ( Caliphate , The Caliphate , Kalifat Arabski )
       Starověká Persie
       Z Panem Biegankiem w Abisynii
       Otton I Wielki
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+      Kijów 1018
 
 Kalindoja
   Bibliografia :
@@ -14716,6 +14937,11 @@ Karakkuk ( Kaja )
   Bibliografia :
       Dějiny Japonska
 
+Karaman
+  Ali Beg                                               przed 1375 n.e.-? ( wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+
 Państwo Karantańskie ( Księstwo Karantanii , Księstwo słowiańskie Karyntii )
   Waluk                                                 przed 632 n.e.-?
   Bibliografia :
@@ -14776,7 +15002,12 @@ Karłucy
   Bibliografia :
       Imperium Mongolskie
 
-Karmatowie
+Karmatowie ( Al-Bahrajn )
+  Abu Sa'id al-Dżannabi                                 przed 899-po 913 ( Abu Sa'id (Al-Dżannabi) wg B.D.K.B. )
+  Abu Sa'id                                             ? ( wg B.D.K.B. )
+  Abu Tahir Sulajman al-Dżannabi                        923-944 (przed ?.8.-?) ( Abu Tahir (Abu Tahir al-Dżannabi) wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Karnutowie
   Tasgecjusz                                            ?-54 p.n.e. (?-ok.10.10.) ( wg B.5.5.P.N.E. )
@@ -15237,11 +15468,13 @@ Keos
   Bibliografia :
       Dzieje Grecji
 
-Emirate of Kerak
-  Ajjúbovci
+Emirate of Kerak (Al-Karak)
+  Ajjúbovci ( Ajjubidzi )
     an-Násir                                            przed 1239-po 1240 (koniec-?.5.) ( an-Násir Dáwúd wg S.V.D.K.V. ) [Emir of Damascus An-Nasir Dawud]
+                                                        przed 1235-po 1236 (24.9.-?.5.) ( An-Nasir Dawud (an-Nasir, An-Nasir) wg B.D.K.B. )
   Bibliografia :
       Svaté války - Dějiny křižových výprav
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Królestwo Keralaputrów
   Bibliografia :
@@ -15343,17 +15576,17 @@ Kidaryci
       Dzieje dawnych Turków
 
 Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedom of Kiev , Wielkie Księstwo Kijowskie )
-  Askold                                                862-882 ( wg B.S. )
+  Askold                                                862-882 ( wg B.S. i K.1018 )
                                                         przed 866-ok.882 ( wg Z.S.A.V.E. )
-  Dir                                                   862-882 ( wg B.S. )
+  Dir                                                   862-882 ( wg B.S. i K.1018 )
   Dynastia Rurykowiczów ( Ryurikid dynasty , House of Rurik , Ród Rurykowiczów , Rurykowicze )
     Ruryk                                     	        862-878 ( wg V.N.M.S.D. )
                                                         ? ( wg Z.N.E. )
-    Oleg                                      	        893-924 ( wg D.Ś. )
+    Oleg                                      	        893-924 ( wg D.Ś. ) [Ruler of Novgorod]
       				        	                                ok.882-? ( wg D.P.I.R.G. )
       				        	                                przed 907-? ( wg D.B. )
       				        	                                ok.882-po 911 ( wg Z.S.A.V.E. )
-      					                                        882-912 ( wg E.P. )
+      					                                        882-912 ( wg E.P. ) ( Oleg Mądry (Helge) wg K.1018 )
                                                         ? ( wg V.K.T.H.O.H.E. i Z.N.E. )
                                                         ok.882-913 ( Helgi wg N.T.V.S. )
                                                         przed 907-912 ( Helge (Oleg Mądry) wg B.S. )
@@ -15361,7 +15594,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
     Igor I                                     	        924-945 ( wg D.Ś. )
       					                                        878-900 ( wg V.N.M.S.D. )
       					                                        przed 941-po 944 ( Igor wg D.B. i Z.S.A.V.E. )
-      					                                        912-945 ( Igor wg E.P. )
+      					                                        912-945 ( Igor wg E.P. i K.1018 )
                                                         ?-945 ( Ingvar (Ihor, Igor) wg V.K.T.H.O.H.E. )
                                                         913-945 ( Igor (Ingvar) wg N.T.V.S. )
                                                         prze 941-945 (wiosna-?) ( Ingvar wg B.S. )
@@ -15371,6 +15604,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
       				        	                                przed 955-po 959 ( Helga wg Z.S.A.V.E. )
                                                         ? ( wg B.S. i J.P.1242 )
                                                         przed 959-? ( Helena-Olga wg O.I.W. )
+                                                        945-ok.961 ( wg K.1018 )
     Światosław I                          	            945-972 ( wg D.Ś. ) ( Sviatoslav (Svyatoslav, Svyatoslav of Kiev) wg N.T.V.S. ) ( Svyatoslav I wg D.O.T.W.A.C.A.G.H. ) ( Światosław (Światosław Igorowicz) wg G.R.I.L. )
                                                         935-973 ( wg V.N.M.S.D. )
       				        	                                przed 965-po 971 ( Svjatoslav wg D.B. )
@@ -15380,6 +15614,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         przed 964-po 965 ( Światosław wg Z.N.E. )
                                                         przed 967-972 ( Światosław wg B.S. )
                                                         942-972 ( Światosław Igorowicz wg J.P.1242 )
+                                                        961-972 ( Światosław wg K.1018 )
     Jaropełk I                              	          972-978 ( wg D.Ś. ) ( Yaropolk I wg D.O.T.W.A.C.A.G.H. )
                                                         973-980 ( wg V.N.M.S.D. )
       				        	                                ?-980 ( Jaropolk wg D.B. )
@@ -15393,6 +15628,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         przed 981-po 986 ( Włodzimierz wg Z.N.E. )
                                                         przed 988-1015 (jesień-?) ( Włodzimierz I Wielki (Włodzimierz) wg B.S. )
                                                         przed 988/9-? ( Vladimir wg S.V.D.K.V. )
+                                                        przed 981-po 988 ( Włodzimierz Wielki (Włodzimierz) wg K.1018 )
     Światopełk I Przeklęty            	                1015-1019 ( wg D.Ś. ) ( Sviatopolk (Svyatopolk I) wg N.T.V.S. ) ( Svyatopolk I wg D.O.T.W.A.C.A.G.H. )
       				       	                                  1015-? ( Svjatopolk wg Z.S.A.V.E. )
                                                         ?-1019 ( Światopełk wg B.S. )
@@ -15404,6 +15640,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         przed 1038-po 1041 ( Jarosław Mądry wg Z.N.E. )
                                                         przed 1038-po 1044 ( Jarosław Mądry (Jaroslav) wg L.P.P. )
                                                         przed 1024-? ( Jarosław Mądry wg J.P.1242 )
+                                                        przed 1017-po 1018 (?-14.8.) ( Jarosław Mądry (Jarosław) wg K.1018 )
     Mścisław I                                          przed 1024-po 1026 ( wg B.S. )
     Izjasław I                                 	        1054-1068 i 1069-1073 i 1077-1078 ( wg D.Ś. ) ( Izyaslav I wg D.O.T.W.A.C.A.G.H. )
                                                         1054-1078 ( wg V.N.M.S.D. )
@@ -15473,6 +15710,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
       Goci - Rzeczywistość i legenda
       Otton I Wielki
+      Kijów 1018
 
 Kikapu ( Kickapoo )
   Bibliografia :
@@ -15742,10 +15980,11 @@ Kordoba ( Córdoba )
   Emirat Kordoby ( Emirate of Córdoba )
     Dynastia Umajjadów ( Umayyad Dynasty )
       ´Abd ar-Rahman I                        	        756-788 ( wg D.Ś. ) ( ´Abdarrahmán I wg M.A.E. ) ( Abd ar-Rahmán I wg E.P. ) ( ´Abd al-Raḥmān I wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 756-? (15.5.-?) ( Abd ar-Rahman Ibn Mu'awija wg B.D.K.B. )
       Hiszam I                                       	  788-796 ( wg D.Ś. ) ( Hišám I wg M.A.E. ) ( Hishām I wg D.O.T.W.A.C.A.G.H. )
       Al-Hakam I                                  	    796-822 ( wg D.Ś. ) ( Al-Ḥakam I wg D.O.T.W.A.C.A.G.H. )
       					 	                                      796-821 ( al-Hakam I wg M.A.E. )
-      ´Abd ar-Rahman II                       	        822-852 ( wg D.Ś. ) ( Abd ar-Rahmán II wg E.P. ) ( ´Abd al-Raḥmān II wg D.O.T.W.A.C.A.G.H. )
+      ´Abd ar-Rahman II                       	        822-852 ( wg D.Ś. ) ( Abd ar-Rahmán II wg E.P. ) ( ´Abd al-Raḥmān II wg D.O.T.W.A.C.A.G.H. ) ( Abd ar-Rahman II wg B.D.K.B. )
       					 	                                      821-852 ( ´Abdarrahmán II wg M.A.E. )
                                                         przed 844-po 845 ( Abd al-Rahman (Abd al-Rahman II) wg N.T.V.S. )
       Muhammad I                                	      852-886 ( wg D.Ś. i M.A.E. ) ( Muḥammad I wg D.O.T.W.A.C.A.G.H. )
@@ -15754,6 +15993,7 @@ Kordoba ( Córdoba )
       ´Abd ar-Rahman III an-Nasir	                      912-929 ( wg D.Ś. ) ( ´Abdarrahmán III wg M.A.E. ) ( Abd ar-Rahmán III wg E.P. ) ( Abd ar-Rahman III wg Z.N.E. ) ( ´Abd al-Raḥmān III (´Abd al-Raḥmān I al-Nāṣir) wg D.O.T.W.A.C.A.G.H. ) [Caliph of Cordoba]
       					                                        ? ( Abderrahman III wg D.B. )
                                                         ?-929 ( Abdurrahmán III wg Ř.S.J.Ď.S. )
+                                                        912-928 ( Abd ar-Rahman III (Abd ar-Rahman) wg B.D.K.B. )
     Kalifat Kordoby ( The Caliphate of Cordoba )
       Dynastia Umajjadów ( Umayyad Dynasty )
         ´Abd ar-Rahman III an-Nasir        	            929-961 ( wg D.Ś. i Al-Masudiego i I.Hrbka ) ( Abd ar-Rahmán III wg E.P. ) ( Abd ar-Rahman III wg Z.N.E. ) ( ´Abd al-Raḥmān III (´Abd al-Raḥmān I al-Nāṣir) wg D.O.T.W.A.C.A.G.H. )
@@ -15761,6 +16001,7 @@ Kordoba ( Córdoba )
                                                         929-? ( Abdurrahmán III wg Ř.S.J.Ď.S. )
                                                         przed ok.960-? ( Abd ar-Rahman III wg N.T.V.S. )
                                                         912-961 ( Abd ar-Rahman III (Abd ar-Rahman) wg O.I.W. )
+                                                        928-961 ( Abd ar-Rahman III (Abd ar-Rahman, An-Nasir li-Din Allah) wg B.D.K.B. )
         Al-Hakam II al-Mustansir             	          961-976 ( wg D.Ś. i I.Hrbka ) ( Hakam II wg Z.N.E. ) ( Al-Ḥakam II (Al-Ḥakam II al-Mustanṣir) wg D.O.T.W.A.C.A.G.H. )
       					  	                                    961-975 ( wg H.Kaufmanna )
         Hiszam II al-Mu´ajjad                   	      976-1009 i 1010-1013 ( wg D.Ś. ) ( Hishām II (Hishām II al-Mu´ayyad) wg D.O.T.W.A.C.A.G.H. )
@@ -15789,6 +16030,7 @@ Kordoba ( Córdoba )
       Northmen - The Viking Saga 793-1241
       Dynasties of the World - A Chronological and Genealogical Handbook
       Otton I Wielki
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Korea
   Królestwo Choson ( The Kingdom of Korea )
@@ -18444,7 +18686,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire )
                                                         ok.333 ( wg F. )
 				    	                                          przed 334-po 332 ( wg D.R. )
 				    	                                          336-? ( wg S.C. )
-				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. i H.W. i F.H.C.R. i J.P.1242 i K.6. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. i T.D.W.S.A.A.C.I.T.D. ) ( Aleksander Macedoński wg Z.N.E. i T.R.L.Z.S.L.R.S.B. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. ) ( Alexandr Makedonský wg A.Č.D. ) ( Alexander the Great wg S.A.B.H.O.H. i P.U.D. ) ( Alexander wg U.E. ) ( Aleksander Wielki (Aleksander Macedoński, ALeksander) wg G.R.I.L. ) ( Aleksander Wielki (Aleksander) wg O.I.W. )
+				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. i H.W. i F.H.C.R. i J.P.1242 i K.6. i B.D.K.B. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. i T.D.W.S.A.A.C.I.T.D. ) ( Aleksander Macedoński wg Z.N.E. i T.R.L.Z.S.L.R.S.B. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. ) ( Alexandr Makedonský wg A.Č.D. ) ( Alexander the Great wg S.A.B.H.O.H. i P.U.D. ) ( Alexander wg U.E. ) ( Aleksander Wielki (Aleksander Macedoński, ALeksander) wg G.R.I.L. ) ( Aleksander Wielki (Aleksander) wg O.I.W. )
 				    	                                          przed 332-?  ( Aleksander Macedoński wg B.M. )
                                                         przed 324-323 ( ?-10.6. ) ( Alexandr Veliký wg T.H.S. )
 					                                              przed 332-323 ( Alexandr Veliký wg Ž.V.Ř.S. )
@@ -18610,6 +18852,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire )
       Starověká Persie
       Historia Starożytna - Podręcznik do nauki historii w klasie szóstej szkół ogólnokształcących
       Otton I Wielki
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Machalata
   Bibliografia :
@@ -19121,9 +19364,10 @@ Markomanowie
       Goci - Rzeczywistość i legenda
 
 Maroko ( Morocco )
-  Dynastia Idrysydów
+  Dynastia Idrysydów ( Idrysydzi )
     Idris ibn ´Abdallah     	                          788-793 ( wg R.Z.A.D.D. ) ( Idrís I wg M.A.E. )
       				                                          ?-791 ( Idrís I ( Idrís ibn Abdalláh ) wg E.P. )
+                                                        przed ok.788-? ( Idris Ibn Abd Allah Ibn Hasan wg B.D.K.B. )
     Idrís II                        	                  804-828 ( wg M.A.E. )
   Dynastia ´Alawicka ( The ´Alawī Dynasty )
     Muhammad I         	                                1640-1664 ( wg D.Ś. ) ( Muḥammad I wg D.O.T.W.A.C.A.G.H. )
@@ -19165,6 +19409,7 @@ Maroko ( Morocco )
       Mocarstwa Świata
       Encyklopedie panovníků
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Maroneja
   Bibliografia :
@@ -19173,6 +19418,10 @@ Maroneja
 Królestwo Mar-jul
   Bibliografia :
       Tybet - zarys historii kultury
+
+Masmugan ( Księstwo Masmugan )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Massageci
   Tomiris                                               ok.530 p.n.e.
@@ -19310,6 +19559,13 @@ Mazandaran
   Amir Wali                                             przed 1382 n.e-?
   Bibliografia :
       Tamerlane - Sword of Islam, Conqueror of the World
+
+Państwo Mazjadydów
+  Mazjadydzi
+    Nur ad-Daula Dubajs I                               przed 1057-po 1081 (9.1.-?) ( wg B.D.K.B. )
+    Dubajs II Ibn Sadak                                 ? ( wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Mazowsze
   Państwo Miecława
@@ -19635,10 +19891,13 @@ Meksyk ( Mexico , Mexiko )
 Melitene ( Meliddu , Meliddi , Malatya , Melid )
   Lalli                	                                ok.853 p.n.e. ( wg K.T.V.S.O. )
   Sulumal		                                            ok.738 ( wg K.T.V.S.O. )
-  Omar              	                                  przed 863 n.e.-? ( wg D.B. )
+  Emirat Meliteny
+    Omar              	                                przed 863-? ( wg D.B. )
+                                                        przed 856-863 (?-2.9.) ( Amr (Al-Amr) wg B.D.K.B. )
   Bibliografia :
       Kralovská tažení ve starém Orientu
       Dějiny Byzance
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Menomini
   Bibliografia :
@@ -19988,7 +20247,7 @@ Imperium Mogołów ( Mughal Empire , Moghul Empire , The Mogul Empire , The Mugh
     Ibrahim III              	                          1555 ( wg D.Ś. ) ( Ibrāhīm III wg D.O.T.W.A.C.A.G.H. )
     Sikandar III             	                          1555 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Dynastia Mogołów ( Mughal Dynasty , Mogul Dynasty )
-    Akbar I Wielki                            	        1556-1605 ( wg D.Ś. i V.N.M.S.D. ) ( Akbar wg M.Ś. ) ( Akbar I (Akbar I the Great) wg D.O.T.W.A.C.A.G.H. )
+    Akbar I Wielki                            	        1556-1605 ( wg D.Ś. i V.N.M.S.D. ) ( Akbar wg M.Ś. i B.D.K.B. ) ( Akbar I (Akbar I the Great) wg D.O.T.W.A.C.A.G.H. )
       				          		                            ok.1526 ( wg A. )
                                                         ok.1550 ( Akbar I wg E.N.T.C.F.R.S.H.A.P. )
                                                         ? ( Akbar wg T.S.O.I.C.O.T.W. )
@@ -19999,6 +20258,7 @@ Imperium Mogołów ( Mughal Empire , Moghul Empire , The Mogul Empire , The Mugh
     Szah Dżahan I                              	        1628-1658 ( wg D.Ś. ) ( Shāh Jahān I wg D.O.T.W.A.C.A.G.H. )
                                                         1627-1658 ( wg V.N.M.S.D. )
                                                         przed 1637-po 1646 ( Shah Jahan wg T.S.O.I.C.O.T.W. )
+                                                        1628-1657 ( Szahdżahan wg B.D.K.B. )
     Aurangzib ´Alamgir                     	            1658-1707 ( wg V.N.M.S.D. i D.Ś. ) ( Aurangzīb ´Ālamgīr I wg D.O.T.W.A.C.A.G.H. )
       						                                      ? ( Aurangzeba wg E.P. ) ( Orangzeb wg T.S.O.I.C.O.T.W. )
                                                         przed 1693-1707 (?.7.-?) ( Alamgir I. (Aurangzéb) wg P.U.D. )
@@ -20012,7 +20272,7 @@ Imperium Mogołów ( Mughal Empire , Moghul Empire , The Mogul Empire , The Mugh
                                                         1719-? ( Mohamet Szach wg Z.M.50.N.O. )
     Ahmad Szah                                   	      1748-1754 ( wg D.Ś. ) ( Aḥmad Shāh wg D.O.T.W.A.C.A.G.H. )
     ´Alamgir II                                     	  1754-1759 ( wg D.Ś. ) ( ´Ālamgīr II wg D.O.T.W.A.C.A.G.H. )
-    Szah ´Alam II                                 	    1759-1806 ( wg D.Ś. ) ( Shāh ´Ālam II wg D.O.T.W.A.C.A.G.H. )
+    Szah ´Alam II                                 	    1759-1806 ( wg D.Ś. ) ( Shāh ´Ālam II wg D.O.T.W.A.C.A.G.H. ) ( Szah Alam II wg B.D.K.B. )
     Tippu Sahib                                    	    1762-1798 ( wg V.N.M.S.D. )
     Akbar II                                          	1806-1837 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
     Bahadur Szah II                              	      1837-1858 ( wg D.Ś. ) ( Baháduršáh II wg E.P. ) ( Bahādur Shāh II wg D.O.T.W.A.C.A.G.H. )
@@ -20031,6 +20291,7 @@ Imperium Mogołów ( Mughal Empire , Moghul Empire , The Mogul Empire , The Mugh
       Dynasties of the World - A Chronological and Genealogical Handbook
       Pírátství - Úplné dějiny
       Zaginione miasta - 50 najsłynniejszych odkryć
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Moguncja ( Mainz , Mohuč )
   Arcybiskupstwo Moguncji ( Mohučské kurfiřtství )
@@ -20181,9 +20442,10 @@ Mongołowie ( Mongols , Mongolové )
       			    	                                      przed 1224 -? ( Čingischán wg Z.S.A.V.E. )
                                                         przed 1211-? ( Čingischán wg Ř.S.J.Ď.S. )
                                                         1206-1227 (?-lato) ( Czyngis-chan wg K.W.N.I.W.D. ) ( Temüdžin (Čingischán) wg A.Č.D. )
+                                                        przed 1217-1227 (?-?.8.) ( Czyngis-chan wg B.D.K.B. )
     Tolui                                               1228-1229 ( wg T.O.M.O.C.S.D. )
     Ögedaj                     	                        1227-1245 ( wg D.Ś. )
-      			    	                                      1229-1241 ( Ogotaj wg H.C. ) ( Ögedej ( Ogodej ) wg E.P. ) ( Borjigin Ogedei wg T.O.M.O.C.S.D. )
+      			    	                                      1229-1241 ( Ogotaj wg H.C. ) ( Ögedej ( Ogodej ) wg E.P. ) ( Borjigin Ogedei wg T.O.M.O.C.S.D. ) ( Ugedej wg B.D.K.B. )
       			    	                                      1228-1241 ( Ögödej wg T.Z.H.K. )
                                                         1227-1241 (?-11.12.) ( Ogedej wg K.W.N.I.W.D. )
                                                         przed 1232-po 1239 ( Ögödej (Ögedej) wg A.Č.D. )
@@ -20199,7 +20461,7 @@ Mongołowie ( Mongols , Mongolové )
     Oghul Ghaymish                                      1249-1251 ( wg T.O.M.O.C.S.D. )
     Möngke                    	                        1251-1260 ( wg D.Ś. ) ( Borjigin Mongke wg T.O.M.O.C.S.D. )
       			     	                                      ?-1260 ( wg K.V. )
-      			     	                                      1251-1259 ( Mangu wg H.C. ) ( wg S.V.D.K.V. )
+      			     	                                      1251-1259 ( Mangu wg H.C. ) ( wg S.V.D.K.V. ) ( Mangu (Mangu-chan) wg B.D.K.B. )
       				                                          ? ( wg E.P. )
                                                         1251-1259 (?-?.8.) ( Mongke wg K.W.N.I.W.D. )
                                                         przed 1251-1259 (?-lato) ( wg A.Č.D. )
@@ -20207,7 +20469,7 @@ Mongołowie ( Mongols , Mongolové )
     Kubiłaj                     	                      1259-? ( wg H.C. )
       			     	                                      przed 1266-? ( wg D.J. )
       				                                          1260-? ( Chubilaj ( Kublaj-chán ) wg E.P. )
-                                                        ? ( Kublajchán wg Ř.S.J.Ď.S. )
+                                                        ? ( Kublajchán wg Ř.S.J.Ď.S. ) ( wg B.D.K.B. )
                                                         1260-1294 ( Borjigin Kublai (Kublai Khan) wg T.O.M.O.C.S.D. )
                                                         1260-1294 (?.5.-18.2.) ( wg K.W.N.I.W.D. )
                                                         1260-po 1293 (?.5.-?) ( wg A.Č.D. )
@@ -20252,6 +20514,7 @@ Mongołowie ( Mongols , Mongolové )
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
       Goci - Rzeczywistość i legenda
       History of Western Philosophy
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Monopoli
   Hugon Tudebusis                                       ?
@@ -20416,19 +20679,28 @@ Moskwa ( Muscovy )
 
 Mosul
   Emirat Mosulu
-    Dynastia Hamdanidów
+    Dynastia Hamdanidów ( Hamdanidzi )
+      Abu al-Hajdża Abd Allah Ibn Hamdan                przed 924-po 929 ( Abu al-Hajdża (Abu al-Hajdża Abd Allah) wg B.D.K.B. )
+      Abu Muhammad al-Hasan                             przed 938-po 943 (?.10.-wiosna) ( Hasan (Nasir ad-Daula) wg B.D.K.B. )
       Saif-ad-Daulah            	                      przed 931-po 940 ( wg D.B. )
+      Abu Taghlib                                       przed 978-? (24.5.-?) ( wg B.D.K.B. )
+  Ukajlidzi
+    Alam ad-Din Kurajsz                                 1052-1061 ( Kurajsz Ibn Badran wg B.D.K.B. )
   Al-Malik-al-Mansúr Zengí	                            przed 1144-? ( wg D.B. ) [Ruler of Aleppo Zengi]
                                                         przed 1128-1146 (?-14.9.) ( Imád ad-Dín Zengí (Zengí, Zengi) wg S.V.D.K.V. )
+                                                        przed 1135-po 1136 (24.11.-14.8.) ( Imad ad-Din Zangi (Zangi, Zanki) wg B.D.K.B. )
   Sajf ad-Dín                                           1146-po 1148 (?-24.7.) ( wg S.V.D.K.V. )
   Nur ad-Din                   		                      ok.1170 n.e. ( wg A. )
       			      		                                  ok.1164 ( wg 100.N.V.S. )
       				        	                                ? ( Nur-ad-Dín wg D.B. )
+                                                        przed 1170-1174 (?-15.5.) ( Nur ad-Din Ibn Zangi wg B.D.K.B. )
+  Badr ad-Din Lulu                                      przed 1258-? (18.2.-?) ( wg B.D.K.B. )
   Bibliografia :
       Arménie
       100 nejvlivnějších vojevůdců světa
       Dějiny Byzance
       Svaté války - Dějiny křižových výprav
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Mozambik ( Mozambique )
   Bibliografia :
@@ -20543,7 +20815,7 @@ Królestwo Nabatejczyków ( Nabatejské království )
       Židé v římském světě
       Starověká Persie
 
-Nadżd
+Nadżd ( An-Nadżd )
   Imamat Nadżdu ( Imamate of Najd )
     Dynastia Saudyjska ( The Sa´ūdī Dynasty )
       Muhammad         	                                1744-1765 ( wg D.Ś. ) ( Muḥammad wg D.O.T.W.A.C.A.G.H. )
@@ -20559,12 +20831,14 @@ Nadżd
       Sa´ud II                 	                        1871 i 1873-1875 ( wg D.Ś. ) ( Sa´ūd II wg D.O.T.W.A.C.A.G.H. )
       ´Abd ar-Rahman	                                  1875-1876 i 1887-1891 ( wg D.Ś. ) ( ´Abd al-Raḥmān wg D.O.T.W.A.C.A.G.H. )
       ´Abd al-´Aziz        	                            1902-1927 ( wg D.Ś. ) ( ´Abd al-´Azīz wg D.O.T.W.A.C.A.G.H. ) [King of Najd]
+                                                        przed 1924-? (?.6.-?) ( Ibn Saud wg B.D.K.B. )
   Królestwo Nadżdu
     Dynastia Saudyjska ( The Sa´ūdī Dynasty )
       ´Abd al-´Aziz         	                          1927-1932 ( wg D.Ś. ) ( ´Abd al-´Azīz wg D.O.T.W.A.C.A.G.H. ) [King of Saudi Arabia]
   Bibliografia :
       Dynastie Świata
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Państwo Naga
   Nágaséna		                                          ?
@@ -20591,12 +20865,13 @@ Nairi
 
 Najmanowie
   Chanat najmański
-    Tajang-chan           	                            ?-1204 n.e. ( wg I.M. i L.1241. )
-  Chanat najmański
     Bujuruk-chan	    	                                ? ( wg I.M. ) ( Bujruk wg L.1241. )
+    Tajang-chan           	                            ?-1204 n.e. ( wg I.M. i L.1241. )
+  Küczlük                                               przed 1214-? ( wg B.D.K.B. )
   Bibliografia :
       Imperium Mongolskie
       Legnica 1241
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Naksos
   Lygdamis	                                            ok.545-524 ( wg D.G. )
@@ -21124,6 +21399,7 @@ Niemcy ( Germany , Německo )
                                                         ? ( Ludvík Němec wg D.B. i Ř.S.J.Ď.S. ) ( Ludwik wg O.I.W. )
                                                         przed 862-876 ( Ludvík Němec wg Z.S.A.V.E. )
                                                         855-875 ( Louis II wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 844/5-? ( Ludwik Niemiec wg K.1018 )
       Karlmann                                          ?-880 ( wg S.P.D.Z. ) ( Karloman wg Z.S.A.V.E. )
                                                         876-880 ( Karloman wg D.Ś. i Tapsella )
                                                         przed 870-? ( Karloman wg D.P.I.R.G. )
@@ -21138,7 +21414,8 @@ Niemcy ( Germany , Německo )
                                                         przed 891-? ( Arnulf wg S.V.D.K.V. )
                                                         ? ( Arnulf wg G.R.I.L. )
       Louis III                                         900-911 ( Louis III the Child wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor]
-                                                        pryed 910-911 ( Ludwik Dziecię wg O.I.W. )
+                                                        przed 910-911 ( Ludwik Dziecię wg O.I.W. )
+                                                        przed 902-po 906 ( Ludwik IV Dziecię wg K.1018 )
   Królestwo Niemieckie ( Kingdom of Germany , Królestwo Niemiec )
     House of Franconia
       Conrad I                                          911-918 ( wg D.O.T.W.A.C.A.G.H. )
@@ -21363,6 +21640,7 @@ Niemcy ( Germany , Německo )
       Polacy w bitwie o Narwik
       Z Panem Biegankiem w Abisynii
       Otton I Wielki
+      Kijów 1018
 
 Niger
   Bibliografia :
@@ -21814,17 +22092,18 @@ Nowa Zelandia ( New Zealand )
       Mocarstwa Świata
       Říše slova - Jazykové dějiny světa
 
-Księstwo Nowogrodzkie ( Novgorod )
+Księstwo Nowogrodzkie ( Novgorod , Nowogród )
   Ryurikid dynasty
     Rurik	                                              ? ( wg Z.S.A.V.E. i L.P.P. )
                                                         ?-ok.879 ( wg V.K.T.H.O.H.E. )
                                                         ok.862-ok.879 ( wg N.T.V.S. )
-                                                        862-879 ( Ruryk wg B.S. )
+                                                        862-879 ( Ruryk wg B.S. i K.1018 )
                                                         862-? ( Ruryk wg J.P.1242 )
     Oleg                                                przed ok.882 n.e.-? ( wg D.P.I.R.G. ) [Prince of Kiev]
       	              	                                ok.882-? ( wg Z.S.A.V.E. )
       		                                              879-? ( wg E.P. ) ( Oleg Mądry (Helge) wg B.S. )
                                                         ok.879-ok.882 ( wg N.T.V.S. )
+                                                        879-882/912 ( Oleg Mądry (Helge) wg K.1018 )
   Bibliografia :
       Dějepis pro I. ročník gymnázií
       Zrod střední a východní Evropy
@@ -21834,6 +22113,7 @@ Księstwo Nowogrodzkie ( Novgorod )
       Bitwy Słowian
       Litwa - Początki Państw
       Jezioro Pejpus 1242
+      Kijów 1018
 
 Księstwo nowogrodzko-siewierskie
   Igor Świętosławowicz                                  ? ( wg J.P.1242 )
@@ -22248,7 +22528,7 @@ Omaha
   Bibliografia :
       Złoto gór czarnych - Orle pióra
 
-Oman
+Oman ( Uman )
   Imamat Omanu
     Dynastia Bu Sa´idi
       Ahmad              	                              1749-1783
@@ -22397,7 +22677,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané )
                                                         ok.1280 ( Ertuğrul wg D.O.T.W.A.C.A.G.H. )
   Osman                                                 przed 1291-1299 ( Osman wg S.II.W.I.J.C.Z.E.M.P. )
   Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát , Sułtanat Osmański , Imperium Osmańskie , Ottoman Sultanate , Porta Ottomańska , Porta Otomańska , Wysoka Porta , Państwo Osmana , Porta , The Ottoman Empire , Osmanská říše )
-    Dynastia Osmanli ( Osmanowie , Osmanli Dynasty , Ottoman Dynasty )
+    Dynastia Osmanli ( Osmanowie , Osmanli Dynasty , Ottoman Dynasty , Otomanowie , Dynastia Osmana )
       Osman I                          	                1280-1324 ( wg D.Ś. )
                                                         1280-1323/4 ( wg D.O.T.W.A.C.A.G.H. )
                                                         1281-1326 ( wg V.N.M.S.D. i D.B. ) ( Osman ('Uthmán, Uthmán) wg S.V.D.K.V. )
@@ -22409,11 +22689,11 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané )
                                                         1326-1359/62 ( Orchan wg S.V.D.K.V. )
                                                         ? ( wg H.W. )
       Murad I                           	              1362-1389 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
-                                                        1360-1389 ( wg V.N.M.S.D. ) ( Murat I (Murat) wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        1360-1389 ( wg V.N.M.S.D. ) ( Murat I (Murat) wg S.II.W.I.J.C.Z.E.M.P. ) ( Murad wg B.D.K.B. )
       			            	                              1359-1389 ( wg D.B. ) ( Murad I. wg S.V.D.K.V. )
                                                         przed 1373-? ( Murad wg H.W. )
                                                         przed 1389-? ( Murad wg T.S.O.I.C.O.T.W. )
-      Bayezid I Błyskawica     	                        1389-1402 ( wg D.Ś. ) ( Bajezid I wg D.B. i S.II.W.I.J.C.Z.E.M.P. ) ( Bajezíd I Blesk wg E.P. ) ( Bayezid I (Bayezid I the Thunderbolt) wg D.O.T.W.A.C.A.G.H. )
+      Bayezid I Błyskawica     	                        1389-1402 ( wg D.Ś. ) ( Bajezid I wg D.B. i S.II.W.I.J.C.Z.E.M.P. ) ( Bajezíd I Blesk wg E.P. ) ( Bayezid I (Bayezid I the Thunderbolt) wg D.O.T.W.A.C.A.G.H. ) ( Bajazid I wg B.D.K.B. )
                                                         1389-1402/3 ( Bajezid I. (Bajezid) wg S.V.D.K.V. )
                                                         1389-1403 ( wg V.N.M.S.D. ) ( Bajazyd I wg N.G.R.B.I.N.S. )
       			            	                              ok.1402 ( wg 100.N.V.S. )
@@ -22451,15 +22731,16 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané )
                                                         przed 1517-? ( Selim I wg T.S.O.I.C.O.T.W. )
                                                         1512-1520 (24.4.-21.9.) ( Selim (Selim Jawuz, Selim I Srogi, Selim Groźny, Groźny, Selim Surowy) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1518-? ( Selim I. wg P.U.D. )
-      Süleyman I Wspaniały     	                        1520-1566 ( wg D.Ś. i V.N.M.S.D. i M.Ś. ) ( Süleyman I (Süleyman I the Magnificent) wg D.O.T.W.A.C.A.G.H. ) ( Süleyman I. Nádherný (Sülejman Nádherný) wg S.V.D.K.V. ) ( Sulejman Wspaniały (Sulejman I, Sulejman) wg N.G.R.B.I.N.S. )
+                                                        przed 1516-1520 (24.8.-22.9.) ( Selim I (Selim, Selimszah) wg B.D.K.B. )
+      Süleyman I Wspaniały     	                        1520-1566 ( wg D.Ś. i V.N.M.S.D. i M.Ś. ) ( Süleyman I (Süleyman I the Magnificent) wg D.O.T.W.A.C.A.G.H. ) ( Süleyman I. Nádherný (Sülejman Nádherný) wg S.V.D.K.V. ) ( Sulejman Wspaniały (Sulejman I, Sulejman) wg N.G.R.B.I.N.S. ) ( Sulejman Prawodawca wg B.D.K.B. )
                                                         1520-1566 ( ?-5.9. ) ( wg 100.N.V.S. )
       			              	                            przed 1540-? ( Sulejman II wg D.P.I.R.G. )
                                                         przed 1521-po 1565 (?-?.5.) ( Sulejman Wspaniały (Sulejman) wg H.W. )
                                                         1520-1566 (30.9.-5./6./7.9.) ( Sulejman II Wspaniały (Sulejman II, Sulejman Wspaniały, Sulejman, Kanuni, Soliman, Süleyman, Sulejman II Wielki, Suliman, Prawodawca, Süleyman the Magnificent, Sleyman the Magnificent, Soliman Wspaniały, Kanuni Sułtan Sulejman, Kanunî Sultan Süleyman, Muhteşem, Soliman Segond, Solimano Secondo, Suleyman Magnificent, II Soliman, Solimano, Soliman Secondo, Sulejman Kanuni) wg S.II.W.I.J.C.Z.E.M.P. )
-      Selim II Pijak                    	              1566-1574 ( wg D.Ś. i V.N.M.S.D. ) ( Selim II (Selim II the Sot) wg D.O.T.W.A.C.A.G.H. ) ( Selim II. wg S.V.D.K.V. ) ( Selim II wg N.G.R.B.I.N.S. )
+      Selim II Pijak                    	              1566-1574 ( wg D.Ś. i V.N.M.S.D. ) ( Selim II (Selim II the Sot) wg D.O.T.W.A.C.A.G.H. ) ( Selim II. wg S.V.D.K.V. ) ( Selim II wg N.G.R.B.I.N.S. i B.D.K.B. )
                                                         przed 1567-? (?.11.-?) ( Selim II (Pijak) wg H.W. )
                                                         1566-1574 ( Selim II (Mest, Selim II Mest, Selim, Sary, Żółty) wg S.II.W.I.J.C.Z.E.M.P. )
-      Murad III                           	            1574-1595 ( wg V.N.M.S.D. i D.Ś. i S.II.W.I.J.C.Z.E.M.P. i D.O.T.W.A.C.A.G.H. )
+      Murad III                           	            1574-1595 ( wg V.N.M.S.D. i D.Ś. i S.II.W.I.J.C.Z.E.M.P. i D.O.T.W.A.C.A.G.H. i B.D.K.B. )
       				                                          ok.1585 ( wg A. )
       Mehmed III                        	              1595-1603 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
       Ahmed I                             	            1603-1617 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
@@ -22470,7 +22751,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané )
                                                         ? ( wg S.II.W.I.J.C.Z.E.M.P. )
       Murad IV                            	            1623-1640 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1625-1640 ( wg V.N.M.S.D. )
-      Ibrahim                               	          1640-1648 ( wg D.Ś. i V.N.M.S.D. i H.W. i D.O.T.W.A.C.A.G.H. )
+      Ibrahim                               	          1640-1648 ( wg D.Ś. i V.N.M.S.D. i H.W. i D.O.T.W.A.C.A.G.H. ) ( Ibrahim I (Ibrahim chan) wg B.D.K.B. )
                                                         ? ( Ibrahim I (Ibrahim I Deli, Ibrahim I Idiot, Ibrahim I Wariat) wg S.II.W.I.J.C.Z.E.M.P. )
       Mehmed IV                        	                1648-1687 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
       Süleyman II                                       1687-1691 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
@@ -22491,16 +22772,18 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané )
       				    	                                    ok.1835 ( wg 100.N.V.S. )
       Abdülmecid I                        	            1839-1861 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
                                                         ? ( Abdülmedżid wg S.II.W.I.J.C.Z.E.M.P. )
-      Abdülaziz                              	          1861-1876 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
+      Abdülaziz                              	          1861-1876 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. ) ( Abd al-Aziz wg B.D.K.B. )
       Murad V                                	          1876 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
-      Abdülhamid II                       	            1876-1909 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
+      Abdülhamid II                       	            1876-1909 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. i B.D.K.B. )
       					                                        ? ( wg M.P.M. ) ( Abd' ul Hámid II. wg P.N.D.)
                                                         przed 1883-? ( Krwawy Sułtan wg S.II.W.I.J.C.Z.E.M.P. )
-      Mehmed V Resad                  	                1909-1918 ( wg D.Ś. ) ( Mehmed V Reşad wg D.O.T.W.A.C.A.G.H. )
+      Mehmed V Resad                  	                1909-1918 ( wg D.Ś. ) ( Mehmed V Reşad wg D.O.T.W.A.C.A.G.H. ) ( Mehmed V wg B.D.K.B. )
                                                         1909-1920 ( wg V.N.M.S.D. )
       Mehmed VI Wahidüddin	                            1918-1922 ( wg D.Ś. ) ( Mehmed VI Vahidüddin wg D.O.T.W.A.C.A.G.H. )
                                                         1920-1922 ( wg V.N.M.S.D. )
+                                                        1918-1922 (?-18.11.) ( Mehmed VI Vahideddin wg B.D.K.B. )
       Abdülmecid II                        	            1922-1924 ( wg D.Ś. ) ( Abdülmecid wg D.O.T.W.A.C.A.G.H. )
+                                                        1922-1924 (?-3.3.) ( Abdülmecid wg B.D.K.B. )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -22522,6 +22805,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané )
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
       Goci - Rzeczywistość i legenda
       Pírátství - Úplné dějiny
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Osroene
   Partamaspates                                         ? ( wg D.R. )
@@ -23471,7 +23755,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       Bessos                             	              330-? ( wg H.P.S. )
       				     	                                    ok.330 ( Artaxerxés ( Béssos ) wg S.H. )
                                                         336-331/0 ( Dáreios III. Kodomannos (Dáreios III., Dáreios Kodomannos, Dáreios) wg S.P. )
-  Dynastia Sasanidów ( Sasanid Dynasty , Sassanians , Sasanidzi , Sassanids , Sásánovci , Sásánovská dynastie )
+  Dynastia Sasanidów ( Sasanid Dynasty , Sassanians , Sasanidzi , Sassanids , Sásánovci , Sásánovská dynastie , Cesarstwo Sasanidów )
     Ardaszir I                       	                  224-240 ( wg A.Č. )
                                                         224-241 ( wg D.Ś. i R.Z.A.D.D. ) ( Ardashīr I wg D.O.T.W.A.C.A.G.H. ) ( Ardašír I. (Ardašír) wg S.P. )
                                                         225-240 ( wg V.N.M.S.D. )
@@ -23552,6 +23836,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       					                                        531-579 (?-?.2.) ( Husrav I Anóšarván wg E.P. )
       					                                        przed 561-579 ( Chosroes I Anuszirwan wg D.D.T. )
                                                         ? ( Chosrow Anuszirwan wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        przed ok.555-? ( Anuszirwan (Chosroes) wg B.D.K.B. )
     Hormizd IV                          	              579-590 ( wg D.Ś. i A.Č. i R.Z.A.D.D. i D.O.T.W.A.C.A.G.H. ) ( Hormizd wg K.6. ) ( Hormizd IV. wg S.P. )
                                                         579-591 ( wg V.N.M.S.D. )
       					                                        579-590 (?-6.2.) ( Hormuzd IV wg D.D.T. )
@@ -23574,12 +23859,12 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
                                                         ? ( wg K.6. )
     Azarmeducht                       	                631-632 ( wg D.Ś. i A.Č. ) ( Āzarmēdukht wg D.O.T.W.A.C.A.G.H. )
     Chusrau IV                          	              ok.633 ( wg R.Z.A.D.D. )
-    Jazdegerd III                       	              632-651 ( wg D.Ś. i A.Č. ) ( Yazdgard III wg D.O.T.W.A.C.A.G.H. ) ( Jezdegerd III wg K.6. ) ( Jazdagird III. wg S.P. )
+    Jazdegerd III                       	              632-651 ( wg D.Ś. i A.Č. ) ( Yazdgard III wg D.O.T.W.A.C.A.G.H. ) ( Jezdegerd III wg K.6. ) ( Jazdagird III. wg S.P. ) ( Jazdagird III wg B.D.K.B. )
                                                         632-652 ( wg V.N.M.S.D. )
                                                         633-651 ( wg R.Z.A.D.D. )
                                                         przed 637-651 ( ?-koniec ) ( Jezgerd III wg D.D.T. )
   Dynastia Safawidów ( Safavids , Ṣafavid Dynasty , Safawidzi )
-    Isma´il I                    	                      1501-1524 ( wg D.Ś. ) ( Ismā´il I wg D.O.T.W.A.C.A.G.H. )
+    Isma´il I                    	                      1501-1524 ( wg D.Ś. ) ( Ismā´il I wg D.O.T.W.A.C.A.G.H. ) ( Isma'il wg B.D.K.B. )
                                                       	1501-1523 ( wg V.N.M.S.D. )
       			      	                                    ok.1515 ( wg 100.N.V.S. )
       			      	                                    1502-1524 ( wg M.Ś. )
@@ -23697,6 +23982,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       Starověká Persie
       Historia Starożytna - Podręcznik do nauki historii w klasie szóstej szkół ogólnokształcących
       Z Panem Biegankiem w Abisynii
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Peru
   Bibliografia :
@@ -23875,17 +24161,19 @@ Pokasettowie
 
 Polska ( Polsko , Poland )
   Polanie
-    Popiel                                              ? ( wg O.I.W. )
+    Popielidzi
+      Popiel                                            ? ( wg O.I.W. i K.1018 )
     Dynastia Piastów ( Dynastia piastowska )
       Piast                  		                        842-861 ( wg V.N.M.S.D. )
                                                    	    ? ( wg Z.S.A.V.E. )
       Ziemowit ( Siemowit )	                            861-892 ( wg V.N.M.S.D. )
         	                            	                ? ( Ziemovit wg Z.S.A.V.E. ) ( wg S.P.D.Z. )
+                                                        ok.875 ( wg K.1018 )
       Leszek              		                          892-921 ( wg V.N.M.S.D. )
-        		              	                            ? ( Lešek wg Z.S.A.V.E. )
+        		              	                            ? ( Lešek wg Z.S.A.V.E. ) ( Lestek wg K.1018 )
                                                         ?-930/40 ( Lestek wg S.P.D.Z. )
       Ziemomisław	( Siemomysł )                         921-962 ( wg V.N.M.S.D. )
-                                                        ? ( Ziemomysl ( Ziemuzil ) wg Z.S.A.V.E. )
+                                                        ? ( Ziemomysl ( Ziemuzil ) wg Z.S.A.V.E. ) ( wg K.1018 )
                                                         ?-950/60 ( wg S.P.D.Z. )
   Dynastia Piastów ( House of Piast , Piastowie )
     Mieszko I                          	                960-992 ( wg D.Ś. )
@@ -23899,11 +24187,13 @@ Polska ( Polsko , Poland )
                                                         przed 966-po 991 ( Měšek I. wg S.V.D.K.V. )
                                                         przed 965-? ( wg G.R.I.L. )
                                                         ok.940-po 990 ( Mieszko Pierwszy (Mieszko, Miszego) wg O.I.W. )
+                                                        przed 963-po 966 ( wg K.1018 )
     Bolesław I Chrobry           	                      992-1025 ( wg D.Ś. i V.N.M.S.D. ) ( Boleslav Chrabrý wg D.P.I.R.G. ) ( Bolesław Chrobry wg Z.N.E. i W.W.K.R. ) ( Bolesław Chrobry (Bolesław I Wielki) wg S.P.D.Z. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. ) [King of Poland]
       			              	                            przed 993-po 1018 ( Boleslav Chrabrý wg Z.S.A.V.E. )
                                                         ? ( Bolesław Chrobry wg O.K.C.J. ) ( Chrobry wg L.P.P. ) ( Bolesław Chrobry (Chrobry, Bolesław Chrobry Wielki) wg G.R.I.L. )
                                                         992-po 1018 (?-22.7.) ( Bolesław Chrobry (Chrobry) wg B.S. )
                                                         przed 1002-? ( Bolesław Chrobry (Bolesław) wg O.I.W. )
+                                                        przed 992-po 1018 (?-14.8.) ( Bolesław Chrobry (Bolesław Wielki, Chrobry) wg K.1018 )
   Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland )
     Dynastia Piastów ( House of Piast , Piastowie )
       Bolesław I Chrobry       	                        1025 ( wg D.Ś. i V.N.M.S.D. i W.W.K.R. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. )
@@ -24288,6 +24578,7 @@ Polska ( Polsko , Poland )
       Gdyby to nie byl Everest...
       Za Wolność i Lud - Opowiadania z lat 1861-1864
       Otton I Wielki
+      Kijów 1018
 
 Księstwo Połockie ( Principality of Polatsk , Polocké knížectví )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -25040,6 +25331,7 @@ Rosja ( Russia , Rusko )
                                                         przed 1783-? ( Katarzyna Wielka wg K.W.N.I.W.D. )
                                                         ? ( Katarzyna II (Katarzyna) wg J.P.1242 ) ( Catherine the Great wg H.O.W.P. )
                                                         przed 1779-? ( Katarzyna II wg G.R.I.L. )
+                                                        przed 1774-? (21.7.-?) ( Katarzyna II wg B.D.K.B. )
       Paweł I                                          	1796-1801 ( wg D.Ś. i V.N.M.S.D. ) ( Paul I wg D.O.T.W.A.C.A.G.H. )
       								 	                                ok.1797-po 1800 ( wg 100.N.V.S. )
       								 	                                ?-1801 ( wg M.Ś. i H.W. )
@@ -25114,6 +25406,7 @@ Rosja ( Russia , Rusko )
       Not Born Yesterday - The Science of Who We Trust and What We Believe
       History of Western Philosophy
       Za Wolność i Lud - Opowiadania z lat 1861-1864
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Księstwo Rostowskie
   Dynastia Rurykowiczów
@@ -25148,7 +25441,7 @@ Rugiowie
 
 
 Sułtanat Rum ( Sułtanat Ikonion , Rum , Sułtanat Ar-Rum , Sultanát Rúm , Rúm )
-  Dynastia Seldżukidów ( Seljuks , Seldžukové )
+  Dynastia Seldżukidów ( Seljuks , Seldžukové , Seldżukidzi )
     Sulajman I          	                              1075-1086 ( wg D.Ś. )
       		              	                              1077-? ( Sulejman I wg D.B. )
                                                         ? ( Sulejman wg S.II.W.I.J.C.Z.E.M.P. )
@@ -25170,15 +25463,20 @@ Sułtanat Rum ( Sułtanat Ikonion , Rum , Sułtanat Ar-Rum , Sultanát Rúm , R�
                                                         1155-? i ?-1192 ( Kilič Arslan II. wg S.V.D.K.V. )
     Kutb ad-Dín                                         ok.1190 ( wg S.V.D.K.V. )
     Kajchusrau I        	                              1192-1196 i 1205-1211 ( wg D.Ś. )
+                                                        1192-1199 i 1204-1210 ( Ghijas ad-Din Kaj Chusrau I (Ghijas ad-Din) wg B.D.K.B. )
     Sulajman II          	                              1196-1204 ( wg D.Ś. )
     Kilidż Arslan III  	                                1204-1205 ( wg D.Ś. )
     Kajka´us I            	                            1211-1220 ( wg D.Ś. )
                                                         przed 1218-? ( Kajkávus wg S.V.D.K.V. )
+                                                        1210-1219 ( Izz ad-Din Kaj Kaus I (Kaj Kaus I) wg B.D.K.B. )
     Kajkubad I           	                              1220-1237 ( wg D.Ś. )
                                                         ? ( Alaeddin Kaikobad wg T.S.O.I.C.O.T.W. )
-    Kajchusrau II       	                              1237-1246 ( wg D.Ś. )
+                                                        1219-1236 ( Ala ad-Din Kaj Kubad (Kaj Kubad I, Kaj Kubad) wg B.D.K.B. )
+    Kajchusrau II       	                              1237-1246 ( wg D.Ś. ) ( Ghijas ad-Din Kaj Chusrau II (Ghijas ad-Din) wg B.D.K.B. )
     Kajka´us II           	                            1246-1261 ( wg D.Ś. )
+                                                        przed 1256-? ( Izz ad-Din wg B.D.K.B. )
     Kilidż Arslan IV	                                  1248-1266 ( wg D.Ś. )
+                                                        przed 1256-? ( Rukn ad-Din wg B.D.K.B. )
     Kajkubad II          	                              1249-1254 ( wg D.Ś. )
                                                         ? ( Alaeddin Kejkobad II wg S.II.W.I.J.C.Z.E.M.P. )
     Kajchusrau III      	                              1266-1284 ( wg D.Ś. )
@@ -25194,6 +25492,7 @@ Sułtanat Rum ( Sułtanat Ikonion , Rum , Sułtanat Ar-Rum , Sultanát Rúm , R�
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Normanowie i Bizancjum w XI stuleciu
       Svaté války - Dějiny křižových výprav
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Rumunia ( Romania , Rumunsko )
   Księstwo Rumunii
@@ -25231,6 +25530,13 @@ Rumunia ( Romania , Rumunsko )
 Rusellae
   Bibliografia :
       Zrození Řecka
+
+Państwo Rustamidów
+  Dynastia Rustamidów
+    Abu al-Chattab                                      przed 758 n.e.-? (?.7.-?) ( wg B.D.K.B. )
+    Abd ar-Rahman Ibn Rustam                            przed 776/8-? ( wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 County of Rügen
   Albrecht von Hohenzollern                             przed 1561-1568
@@ -26289,7 +26595,7 @@ Rzym ( Rome , Řím )
     								                                    ? ( wg H. ) ( Romulus Augustulus wg V.K.T.H.O.H.E. i H.W. )
                                                         475-476 (?-23.8.) ( Romulus August (Augustulus, Romulus, Romulus Augustus) wg G.R.I.L. )
                                                         ?-475/6 ( Romulus Augustulus wg H.S.P.D.N.H.W.K.S.S.O. )
-    Cesarstwo Wschodniorzymskie ( Byzantine Empire , Byzantská říše , Východořímská říše , Cesarstwo Bizantyjskie , Eastern Roman Empire , The Eastern Roman Empire , Bizancjum , Eastern Empire , Cesarstwo Bizantyńskie , Byzantium , Wschodnie Cesarstwo Rzymskie , Byzanc , Cesarstwo Rzymian , Cesarstwo Romajów , Rum )
+    Cesarstwo Wschodniorzymskie ( Byzantine Empire , Byzantská říše , Východořímská říše , Cesarstwo Bizantyjskie , Eastern Roman Empire , The Eastern Roman Empire , Bizancjum , Eastern Empire , Cesarstwo Bizantyńskie , Byzantium , Wschodnie Cesarstwo Rzymskie , Byzanc , Cesarstwo Rzymian , Cesarstwo Romajów , Rum , Ar-Rum )
       Dynastia Teodozjusza ( Dynasty of Theodosius )
         Flavius Arcadius ( Arkadiusz )            	    395-408 (17.1.-1.5.) ( wg P.C.R. i K.R.I.C.R. )
     					         		                              395-408 ( wg V.N.M.S.D. i R.Z.A.D.D. i D.Ś. i A.Č. i Tapsella i D.R. ) ( Arkadios wg D.B. )
@@ -26442,7 +26748,7 @@ Rzym ( Rome , Řím )
         Kosmo(e)s		          	                        ? ( wg D.B. )
         Konstantyn V Kopronimos	                        741 i 743-775 ( wg D.Ś. )
                                                         720/41-741 i 743-775 ( Constantine V (Constantine V Copronymus) wg D.O.T.W.A.C.A.G.H. )
-                                                        741-775 ( wg V.N.M.S.D. i Tapsella ) ( Konstantinos V ( Konstantin V Kopronymos ) wg D.B. )
+                                                        741-775 ( wg V.N.M.S.D. i Tapsella ) ( Konstantinos V ( Konstantin V Kopronymos ) wg D.B. ) ( Konstantyn V (Konstantyn) wg B.D.K.B. )
                                                         741-742 i 743-775 ( wg R.Z.A.D.D. )
     			                                              ? ( Konstantyn Kopronymos wg D.D.T. )
                                                         przed 759-po 774 (?-?.5.) ( Konstantyn V wg B.S. )
@@ -26451,9 +26757,9 @@ Rzym ( Rome , Řím )
     					                                          ? ( Artabasdos wg D.B. )
         Leon IV Chazaras           	                    775-780 ( wg V.N.M.S.D. i D.Ś. i	R.Z.A.D.D. i Tapsella i D.B. i Z.N.E. )
                                                         751/75-780 ( Leo IV (Leo IV the Khazar) wg D.O.T.W.A.C.A.G.H. )
-        Konstantyn VI                 	                780-797 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella ) ( Konstantinos VI wg D.B. ) ( Constantine VI wg D.O.T.W.A.C.A.G.H. )
+        Konstantyn VI                 	                780-797 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella i B.D.K.B. ) ( Konstantinos VI wg D.B. ) ( Constantine VI wg D.O.T.W.A.C.A.G.H. )
                                                         przed 792-? (20.7.-?) ( wg B.S. )
-        Irena                                	          797-802 ( wg D.Ś. i R.Z.A.D.D. i Tapsella ) ( Irene ( Eirene ) wg D.B. ) ( Irene wg V.K.T.H.O.H.E. )
+        Irena                                	          797-802 ( wg D.Ś. i R.Z.A.D.D. i Tapsella i B.D.K.B. ) ( Irene ( Eirene ) wg D.B. ) ( Irene wg V.K.T.H.O.H.E. )
                                                         780-790 i 792/7-802 ( wg D.O.T.W.A.C.A.G.H. )
                                                         780-790 i 797-802 ( wg V.N.M.S.D. )
     				        	                                  ? ( wg Z.S.A.V.E. )
@@ -26462,6 +26768,7 @@ Rzym ( Rome , Řím )
                                                         przed 805-? ( Níkéforos I wg Ř.S.J.Ď.S. )
                                                         przed 809-po 811 (?-wiosna) ( Nicefor wg H.W. )
                                                         przed 809-811 (?-26.7.) ( wg B.S. )
+                                                        802-po 806 (?-?.9.) ( Nikeforos wg B.D.K.B. )
         Staurakios                         	            811 ( wg D.Ś. i R.Z.A.D.D. i Tapsella i D.B. )
                                                         803/11-811 ( Stauracius wg D.O.T.W.A.C.A.G.H. )
         Michał I Rangabe              	                811-813 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella ) ( Michael I Rangabe wg D.B. ) ( Michael I Rangabè wg D.O.T.W.A.C.A.G.H. )
@@ -26476,11 +26783,13 @@ Rzym ( Rome , Řím )
     				        	                                  przed 823-? ( Michal II wg M.A.E. )
                                                         przed 827-? ( Michael wg H.O.W.P. )
         Tomáš Slovan                  	                821-823 ( Konstantinos VI wg D.B. )
-        Teofil                                	        829-842 ( wg D.Ś. i R.Z.A.D.D. i Tapsella )
+        Jan Gramatyk                                    przed 829-? ( wg B.D.K.B. )
+        Teofil                                	        829-842 ( wg D.Ś. i R.Z.A.D.D. i Tapsella i B.D.K.B. )
                                                         821/9-842 ( Theophilus wg D.O.T.W.A.C.A.G.H. )
                                                         829-842 (?-20.1.) ( Theofilos wg D.B. )
                                                         828-842 ( wg V.N.M.S.D. )
     				        	                                  przed 838-po 839 ( Theofilos wg Z.S.A.V.E. )
+                                                        przed 839-? ( wg K.1018 )
         Teodora                              	          842-856 ( wg R.Z.A.D.D. )
         Michał III Metystes ( Pijak )	                  842-867 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella )
                                                         840/2-867 ( Michael III (Michael III the Drunkard) wg D.O.T.W.A.C.A.G.H. )
@@ -26489,8 +26798,9 @@ Rzym ( Rome , Řím )
     				        	                                  przed 860-po 862 ( Michael III wg Z.S.A.V.E. )
                                                         przed 860-? (18.6.-?) ( Michael III wg N.T.V.S. )
                                                         ? ( Michael (Michael III) wg H.O.W.P. )
+                                                        przed 856-po 860 ( Michał III wg B.D.K.B. )
       Dynastia macedońska ( Macedonian Dynasty )
-        Bazyli I Macedończyk                            867-886 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella )
+        Bazyli I Macedończyk                            867-886 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella ) ( Bazyli wg B.D.K.B. )
                                                         866/7-886 ( Basil I (Basil I the Macedonian) wg D.O.T.W.A.C.A.G.H. )
     					             	                            867-886 (?-3.9.) ( Basileios I wg D.B. )
     							                                      867-886 (?-22.8.) ( Basileios I wg E.P. )
@@ -26505,7 +26815,7 @@ Rzym ( Rome , Řím )
                                                         przed 893-? ( Leon wg B.S. )
         Aleksander                                      912-913 ( wg D.Ś. i R.Z.A.D.D. i Tapsella ) ( Alexandros wg D.B. )
                                                         879/912-913 ( Alexander wg D.O.T.W.A.C.A.G.H. )
-        Konstantyn VII Porfirogeneta                   	913-959 ( wg D.Ś. ) ( Constantine VII Porphyrogenitus wg N.T.V.S. )
+        Konstantyn VII Porfirogeneta                   	913-959 ( wg D.Ś. i B.D.K.B. ) ( Constantine VII Porphyrogenitus wg N.T.V.S. )
                                                         908/13-959 ( Constantine VII (Constantine VII Porphyrogenitus) wg D.O.T.W.A.C.A.G.H. )
     							                                      913-959 (?-?.11.) ( Konstantinos VII Porfyogennetos wg  D.B. )
                                                         913-920 i 945-959 ( wg R.Z.A.D.D. )
@@ -26515,6 +26825,7 @@ Rzym ( Rome , Řím )
     							                                      przed 945-? ( Konstantin VII Porfyrogennetos wg Z.S.A.V.E. )
                                                         ?-959 ( wg Z.N.E. )
                                                         ok.950 ( Constantine Porphyrogenitus wg H.W. )
+                                                        przed 948-po 951 ( Konstantyn Porfirogeneta (Konstantyn, Constantine Porphyrogenitus) wg K.1018 )
         Roman I Lekapenos                               920-944 ( wg D.Ś. i R.Z.A.D.D. i Tapsella ) ( Romanos I Lakapenos wg D.B. ) ( Romanos Lecapenus wg N.T.V.S. ) ( Romanus I Lecapenus wg D.O.T.W.A.C.A.G.H. )
                                                         919-945 ( wg V.N.M.S.D. )
                                                         ok.925 ( Roman I Lakapenos wg Z.N.E. )
@@ -26525,9 +26836,9 @@ Rzym ( Rome , Řím )
     							                                      959-963 (?-15.3.) ( Romanos II wg D.B. )
     						       	                                ? ( Romanos II wg M.A.E. ) ( wg E.P. )
                                                         przed 959-? ( Romanos II (Romanos) wg O.I.W. )
-        Nicefor II Fokas                                963-969 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Nikephoros Phokas wg N.T.V.S. ) ( Nicephorus II Phocas wg D.O.T.W.A.C.A.G.H. ) ( Nikeforos Fokas wg S.V.D.K.V. )
+        Nicefor II Fokas                                963-969 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Nikephoros Phokas wg N.T.V.S. ) ( Nicephorus II Phocas wg D.O.T.W.A.C.A.G.H. ) ( Nikeforos Fokas wg S.V.D.K.V. ) ( Nicefor Fokas wg B.D.K.B. )
     							                                      963-969 (16.8.-10/11.12.) ( Nikeforos II Fokas wg D.B. )
-    						       	                                ? ( Nikefor Fokas wg M.A.E. )
+    						       	                                ? ( Nikefor Fokas wg M.A.E. ) ( Nicefor Fokas wg K.1018 )
     						 	                                      ?-970 ( Nikeforos Foka wg Z.S.A.V.E. )
     							                                      ?-969 (?-10/11.12.) ( Nikeforos II Fokas wg E.P. )
                                                         przed 967-? ( Nicefor II Fokas wg B.S. )
@@ -26578,7 +26889,7 @@ Rzym ( Rome , Řím )
         Eudoksja Makrembolitissa	                      1067-1068 i 1071 ( wg D.Ś. ) ( Eudocia Macrembolitissa wg D.O.T.W.A.C.A.G.H. )
     				         	                                  1067 ( Eudokia Makrembolitissa wg D.B. )
                                                         1067 i 1071 ( Eudokia Makrembolitissa (Eudoksja) wg N.I.B.W.XI.S. )
-        Roman IV Diogenes          	                    1068-1071 ( wg D.Ś. i Tapsella ) ( Romanus IV Diogenes wg D.O.T.W.A.C.A.G.H. ) ( Roman IV (Roman, Roman Diogenes) wg N.I.B.W.XI.S. ) ( Roman IV. Diogenes (Roman IV. , Romanos IV. Diogenes) wg S.V.D.K.V. )
+        Roman IV Diogenes          	                    1068-1071 ( wg D.Ś. i Tapsella i B.D.K.B. ) ( Romanus IV Diogenes wg D.O.T.W.A.C.A.G.H. ) ( Roman IV (Roman, Roman Diogenes) wg N.I.B.W.XI.S. ) ( Roman IV. Diogenes (Roman IV. , Romanos IV. Diogenes) wg S.V.D.K.V. )
     				         	                                  1068-1071 (1.1.-?) ( Romanos IV Diogenes wg D.B. )
                                                         1068-1081 ( wg V.N.M.S.D. )
                                                         przed 1071-? ( Romanos Diogenes wg Ř.S.J.Ď.S. ) ( Romanos IV Diogenes wg S.II.W.I.J.C.Z.E.M.P. )
@@ -26599,6 +26910,7 @@ Rzym ( Rome , Řím )
                                                         przed 1081-1118 (?-15.8.) ( Aleksy (Aleksy Komnen) wg H.W. )
                                                         przed 1095-po 1111 ( Alexius I (Alexius) wg N.T.V.S. )
                                                         1081-1118 (4.4.-?) ( Aleksy (Aleksy I, Aleksy Komnen) wg N.I.B.W.XI.S. )
+                                                        1081-1110 ( Aleksy Komen wg B.D.K.B. )
         Jan II Kaloiannes	                              1118-1143 ( wg V.N.M.S.D. i D.Ś. i Tapsella i K.V. ) ( Ioannes II Komnenos wg D.B. ) ( Jan II Komnenos wg F.H.C.R. ) ( Jan (Jan II Komnen, Komnen, Jan II Piękny) wg N.I.B.W.XI.S. ) ( Jan II. Komnenos (Jan II. Komnen, Jan II., John Comnenus) wg S.V.D.K.V. )
                                                         1092/1118-1143( John II wg D.O.T.W.A.C.A.G.H. )
     			          	                                  przed 1135-?  ( wg F.B.C.A.R. )
@@ -26775,6 +27087,8 @@ Rzym ( Rome , Řím )
       Historia Starożytna - Podręcznik do nauki historii w klasie szóstej szkół ogólnokształcących
       Z Panem Biegankiem w Abisynii
       Otton I Wielki
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+      Kijów 1018
 
 Hrabství Saarbrücken
   Šimon ze Saarbrückenu                                 przed 1218 n.e.-? ( Šimon wg S.V.D.K.V. )
@@ -26866,9 +27180,13 @@ Sabratha
       Kartagina 149-146 p.n.e.
 
 Państwo Saffarydów
-  Já´kub ibn Lajth al-Saffár                            ok.870 n.e.
+  Saffarydzi
+    Já´kub ibn Lajth al-Saffár                          ok.870 ( wg S.I. )
+                                                        przed 867-879 (?-9.6.) ( Jakub Ibn al-Lajs (Jakub, As-Saffar, Kotlarz) wg B.D.K.B. )
+    Al-Amr                                              879-900 (?-?.5.) ( Al-Amr Ibn al-Lajs wg B.D.K.B. )
   Bibliografia :
       Starověká Indie
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Sagunt
   Bibliografia :
@@ -27083,8 +27401,10 @@ Królestwo Samanidów ( The Sāmānid Kingdom )
     Isma´il                 	                          892-907 ( wg D.Ś. ) ( Ismáil ibn Ahmad wg E.P. ) ( Ismā´īl wg D.O.T.W.A.C.A.G.H. )
                                                 	      875-892 ( wg V.N.M.S.D. )
                                                 	      892-? ( wg S.A. )
+                                                        przed 898-po 900 (?.2.-?.5.) ( Isma'il Ibn Ahmad (Isma'il) wg B.D.K.B. )
     Ahmad                 	                            907-914 ( wg D.Ś. ) ( Aḥmad wg D.O.T.W.A.C.A.G.H. )
     Nasr II                  	                          914-942 ( wg D.Ś. ) ( Naṣr II wg D.O.T.W.A.C.A.G.H. )
+                                                        914-943 ( Nasr Ibn Ahmad wg B.D.K.B. )
     Nuh I ( Ibn Nuh )	                                  942-954 ( wg D.Ś. ) ( Nūḥ I wg D.O.T.W.A.C.A.G.H. )
     ´Abd al-Malik I    	                                954-961 ( wg D.Ś. i S.A. i D.O.T.W.A.C.A.G.H. )
     Mansur I               	                            961-976 ( wg D.Ś. i S.A. ) ( Manṣūr I wg D.O.T.W.A.C.A.G.H. )
@@ -27099,6 +27419,7 @@ Królestwo Samanidów ( The Sāmānid Kingdom )
       Serce Azji
       Encyklopedie panovníků
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Samarkanda
   Emirat Samarkandy
@@ -27108,7 +27429,7 @@ Samarkanda
 Państwo Samona ( Królestwo Samona , Regnum Samoni )
   Sámo ( Samon )       	                                623-658 ( wg D.P.I.R.G. )
       			                                            624-po 631 ( Samos wg D.B. )
-      			                                            ? ( wg Z.S.A.V.E. )
+      			                                            ? ( wg Z.S.A.V.E. i K.1018 )
                                                         ok.630 ( wg Z.N.E. )
                                                         624-658 ( wg S.P.D.Z. )
                                                         przed 626-ok.660 ( Samo wg B.S. )
@@ -27119,6 +27440,7 @@ Państwo Samona ( Królestwo Samona , Regnum Samoni )
       Zapomianie narody Europy
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
+      Kijów 1018
 
 Samos
   Demotelos	                                            ? ( wg Z.Ř. )
@@ -27391,18 +27713,26 @@ Segobrigiowie
       Zrození Řecka
 
 Państwo Seldżuków w Iraku i zachodniej Persji
-  Dynastia Seldżukidów ( The Seljuqid Dynasty )
-    Mahmud II           	                              1118-1131 ( wg D.Ś. ) ( Maḥmūd II wg D.O.T.W.A.C.A.G.H. )
+  Dynastia Seldżukidów ( The Seljuqid Dynasty , Seldżukidzi )
+    Mahmud II           	                              1118-1131 ( wg D.Ś. ) ( Maḥmūd II wg D.O.T.W.A.C.A.G.H. ) [Great Seljuk Sultan Mahmud]
+                                                        1119-1131 (?.1.-6.9.) ( Mahmud wg B.D.K.B. )
     Toghryl II             	                            1131-1134 ( wg D.Ś. ) ( Toghrïl II wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1132-1133 (16.7.-?.11.) ( Tughril II wg B.D.K.B. )
     Mas´ud                  	                          1134-1152 ( wg D.Ś. ) ( Mas´ūd wg D.O.T.W.A.C.A.G.H. )
-    Malikszah III        	                              1152-1153 ( wg D.Ś. ) ( Malikshāh III wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1132-1132 i przed 1133-1152 (?.2.-26.5. i ?.1.-2.10.) ( Masud (Malik Masud) wg B.D.K.B. )
+    Malikszah III        	                              1152-1153 ( wg D.Ś. ) ( Malikshāh III wg D.O.T.W.A.C.A.G.H. ) ( Malikszah III (Malikszah II Ibn Mahmud) wg B.D.K.B. )
     Muhammad II		                                      1153-1159 ( wg D.Ś. ) ( Muḥammad II wg D.O.T.W.A.C.A.G.H. )
+                                                        1143/przed 1156-1159 (?/?.3.-?.12.) ( Muhammad Ibn Mahmud (Muhammad) wg B.D.K.B. )
     Sulajman               	                            1160 ( wg D.Ś. ) ( Sulaymān wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1156-1156 i ?-1160 (?-?.7. i ?-?.10.) ( Sulajmanszah wg B.D.K.B. )
     Arslan                    	                        1160-1175 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+                                                        przed 1167-1176 ( Arslanszah wg B.D.K.B. )
     Toghryl III             	                          1175-1194 ( wg D.Ś. ) ( Toghrïl III wg D.O.T.W.A.C.A.G.H. )
+                                                        1176-1194 (?-4.3.) ( Tughril III (Tughril, Rukn ad-Din Tughril) wg B.D.K.B. )
   Bibliografia :
       Dynastie Świata
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Królestwo Seleucydów ( Seleucid Empire , The Seleucid Dynasty , Seleukovci , Seleucids )
   Seleukos I Nikator                                	  312-281 ( wg D.Ś. i A.Č. )
@@ -27716,7 +28046,7 @@ Królestwo Sewilli ( Ta´ifa Sewilli , Sevilla )
       Dynastie Świata
       Maurové a Evropa
 
-Shirvan
+Shirvan ( Szirwan )
   Państwo Szyrwanszachów
     Muhammad ibn Jazid		                              ? ( wg R.Z.A.D.D. )
     Ali ibn al-Hakham		                                ? ( wg R.Z.A.D.D. )
@@ -27910,9 +28240,10 @@ Siris
   Bibliografia :
       Dzieje Grecji
 
-Sistan
+Sistan ( Sidżistan )
+  Dirham Ibn Nasr                                       ? ( Dirham wg B.D.K.B. )
   Bibliografia :
-      Tamerlane - Sword of Islam, Conqueror of the World
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Siuksowie ( Sioux , Dakota , Nadoweisiweg , Sjuksowie , Nadouessioux , Nakota , Lakota , Ab-boin-ug , Dakotowie , Dahcota , Dacota , Dacotah , Znienawidzeni Wrogowie , Dah-co-ta , Sprzymierzeni , Spokrewnieni )
   Żelazny Jastrząb		                                  ? ( wg W.I.A.P. )
@@ -29381,7 +29712,7 @@ Szwecja ( Sweden , Švédsko )
         			     		                                  995-1024 ( Olaf Skotkonung wg Z.S.A.V.E. )
         					                                      przed 1000-? ( Olof Skottkonung wg E.P. ) ( wg B.S. )
                                                         ok.995-1021/2 ( Olaf Król Bogactw (Óláfr Skötkonungr) wg W.W.K.R. )
-                                                        ? ( wg Æ.T.U.T.F.K. )
+                                                        ? ( wg Æ.T.U.T.F.K. i K.1018 )
                                                         ok.995-ok.1022 ( Olof Skötkonung wg D.O.T.W.A.C.A.G.H. )
       Anund ( Jakub )       		                        1022-1050 ( wg D.Ś. i Tapsella ) ( Önund Jacob (Önund, Jacob) wg N.T.V.S. )
                                                        	1026-1051 ( wg V.N.M.S.D. )
@@ -29568,6 +29899,7 @@ Szwecja ( Sweden , Švédsko )
       Goci - Rzeczywistość i legenda
       The Sagas of the Icelanders
       History of Western Philosophy
+      Kijów 1018
 
 Šajzar
   Izz ad-Dín                                            przed 1108 n.e.-? ( wg S.V.D.K.V. )
@@ -29612,7 +29944,7 @@ Państwo Śungów
     Karol I Wielki ( Charlemagne )	                    800-814 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Karel Veliký wg D.B. ) ( Charles The Great wg V.K.T.H.O.H.E. ) ( Karol Wielki wg S.P.D.Z. ) ( Charles I (Charles I the Great, Charlemagne) wg D.O.T.W.A.C.A.G.H. ) ( Karol Wielki (Karol) wg O.I.W. )
                                                         800-? ( wg D.R. ) ( Karol Wielki wg K.R.I.C.R. i D.D.T. i K.W.N.I.W.D. i G.R.I.L. )
                                                         800-po 813 ( 23/4.12.-? ) ( Karel Veliký wg Z.S.A.V.E. )
-                                                        ? ( Karel Veliký wg F.B.C.A.R. i S.P. ) ( Karol Wielki wg O.A.O.C.E. i Z.N.E. i L.1241. ) ( Karol Wielki (Karol) wg F.H.C.R. i N.I.B.W.XI.S. ) 
+                                                        ? ( Karel Veliký wg F.B.C.A.R. i S.P. ) ( Karol Wielki wg O.A.O.C.E. i Z.N.E. i L.1241. ) ( Karol Wielki (Karol) wg F.H.C.R. i N.I.B.W.XI.S. i B.D.K.B. ) 
                                                         800-? (25.12.-?) ( Charles (Charles the Great) wg H.O.W.P. )
                                                         800-po 811 (24.12.-wiosna) ( Karol (Karol Wielki) wg H.W. )
                                                         800-814 (24.12.-?) ( wg N.T.V.S. )
@@ -29620,7 +29952,7 @@ Państwo Śungów
                                                         800-814 (25.12.-?) ( Karel Veliký (Karel, Charlemagne) wg S.V.D.K.V. )
     Ludwik I Pobożny                       	            814-840 ( wg D.Ś. i V.N.M.S.D. ) ( Ludwik Pobożny wg O.I.W. )
                                                         813-840 ( wg Tapsella )
-                                                        ? ( Ludvík I Pobožný wg E.P. ) ( Ludwik Pobożny wg F.H.C.R. )
+                                                        ? ( Ludvík I Pobožný wg E.P. ) ( Ludwik Pobożny wg F.H.C.R. i B.D.K.B. )
                                                         813/4/6-840 ( Louis I (Louis I the Pious) wg D.O.T.W.A.C.A.G.H. )
                                                         ?-840 ( Louis The Pious wg V.K.T.H.O.H.E. )
                                                         przed 817-po 839 ( Ludwik Pobożny wg Z.N.E. )
@@ -29629,6 +29961,7 @@ Państwo Śungów
                                                         814-po 840 ( Ludwik Pobożny (Ludwik, Ludwig der Fromme) wg B.S. )
                                                         przed 817-? ( Ludvík I. Pobožný (Ludvík Pobožný) wg S.V.D.K.V. )
                                                         przed 827-? ( Louis the Pious wg H.O.W.P. )
+                                                        przed 839-? ( Ludwik Pobożny wg K.1018 )
     Lotar I                                          	  840-855 ( wg V.N.M.S.D. i	D.Ś. i Tapsella ) ( Lothar I wg V.K.T.H.O.H.E. )
                                                         843-855 (10.8.-?) ( wg S.P.D.Z. )
                                                         przed 840-? ( Lotar wg H.W. )
@@ -29677,7 +30010,7 @@ Państwo Śungów
                                                         919-? ( Jindřich I Ptáčník wg D.P.I.R.G. )
                                                         919-936 ( ?.5.-2.7. ) ( Jindřich I Ptáčník wg Z.S.A.V.E. )
                                                         przed 932-? ( wg B.S. )
-  Święte Cesarstwo Rzymskie Narodu Niemieckiego
+  Święte Cesarstwo Rzymskie Narodu Niemieckiego ( Cesarstwo Niemieckie )
     Dynastia saska ( Dynastia Ottońska , Ludolfingowie , House of Saxony , Dynastie Otonů , Saská dynastie , Dynastia Ludolfingów , Dynastia Liudolfingów , Dynastia Ottonów , Sächsiches Haus )
       Otto I Wielki       	                            936-973 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Ota I wg D.P.I.R.G. ) ( Otto I Veliký wg D.B. )
                                                         ok.936-po 962 ( Otton I wg D.R. )
@@ -29719,6 +30052,7 @@ Państwo Śungów
                                                         1014-po 1018 ( Henryk II wg B.S. )
                                                         1014-1024 ( St Henry II wg D.O.T.W.A.C.A.G.H. )
                                                         ?-1024 ( Henryk II (Heinrich II.) wg O.I.W. )
+                                                        przed 1017-po 1018 (?-?.1.) ( Henryk II wg K.1018 )
     Dynastia salicka ( Salian House , Sálská dynastie , Salijczycy )
       Konrad II              	                          1024-1039 ( wg V.N.M.S.D. i D.Ś. i Tapsella i N.I.B.W.XI.S. ) ( Konrád II wg D.B. i Z.S.A.V.E. )
                                                         ? ( Konrád II wg E.P. )
@@ -29828,7 +30162,7 @@ Państwo Śungów
                                                         1220-1250 ( Bedřich II wg M.A.E. ) ( Fryderyk II Hohenstauf (Fryderyk) wg H.W. ) ( Frederick II wg D.O.T.W.A.C.A.G.H. )
                                                         1220-1250 (?.11.-?) ( Fridrich II. (Fridrich Štaufský, Fridrich, Frederick II, Frederick II of Hohenstaufen, Fridrich II. Štaufský) wg S.V.D.K.V. )
                                                         1215/20-1250 ( Frederick II (Frederick II of Hohenstaufen) wg V.K.T.H.O.H.E. )
-                                                        ? ( Fridrich II wg Z.S.A.V.E. ) ( wg O.I.W. )
+                                                        ? ( Fridrich II wg Z.S.A.V.E. ) ( wg O.I.W. ) ( Fryderyk II Hohenstauf wg B.D.K.B. )
                                                         1220-1250 (22.11.-13.12.) ( Fryderyk II Hohenstauf (Konstantyn, Fryderyk Roger, Fryderyk, Hohenstauf, Federico II, Friedrich II, Federico, Al-Anbaratur, Fryderyk II Stauf, Frederick II of Hohenstaufen, Friedrich der Zweite, Friedrich, Friedrich II. der Hohenstaufe, Friedrich II., Fryderyk Hohenstauf, Friedrich II. von Hohenstaufen) wg F.H.C.R. )
                                                         przed 1241-? ( Frederick II wg T.S.O.I.C.O.T.W. )
                                                         przed 1241-po 1241 (?.4.-?.5.) ( wg L.1241. )
@@ -30015,6 +30349,8 @@ Państwo Śungów
       History of Western Philosophy
       Starověká Persie
       Otton I Wielki
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+      Kijów 1018
 
 Ta Jüe
   Bibliografia :
@@ -30027,10 +30363,15 @@ Tabal
       Starożytny Bliski Wschód
 
 Tabaristan
-  Dynastia Karynidów
-    Karin			                                          ?
+  Dynastia Karynidów ( Karinidzi )
+    Karin			                                          ? ( wg R.Z.A.D.D. )
+  Zajdyci
+    Hasan Ibn Zajda                                     875-po 900 ( wg B.D.K.B. )
+  Asfar Ibn Szirawajhi                                  przed 928-? ( Ibn Szirawajhi (Asfar) wg B.D.K.B. )
+  Makan Ibn Kaki                                        przed 930-po 931 ( Kakuje wg B.D.K.B. )
   Bibliografia :
       Rýžoviště zlata a doly drahokamů
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Tabarsaran
 
@@ -30219,7 +30560,7 @@ Tartessos
 
 Tasmidzi
 
-Taszkient ( Czacz )
+Taszkient ( Czacz , Szasz )
   Bagadur Tudun		                                      przed 705 n.e.-?
   Emirat Taszkientu
   Chanat Taszkientu ( Chanat Taszkentu )
@@ -30424,15 +30765,15 @@ Timor-Leste
   Bibliografia :
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
 
-Imperium Timurydów ( Państwo Tamerlana , Tímúrovská říše , The Tīmūrid Empire )
-  Dynastia Timurydów ( Tīmūrid Dynasty )
+Imperium Timurydów ( Państwo Tamerlana , Tímúrovská říše , The Tīmūrid Empire , Państwo Timura )
+  Dynastia Timurydów ( Tīmūrid Dynasty , Timurydzi )
     Timur Kulawy ( Tamerlan )	                          1370-1405 (?-18.2.) ( wg S.A. )
       				         	                                1370-1405 ( wg D.Ś. ) ( Timur Lenk wg D.B. ) ( Tīmūr the Lame (Tamerlane, Tīmūr) wg D.O.T.W.A.C.A.G.H. )
       				         	                                1370-1405 (?-19.1.) ( wg 100.N.V.S. )
                                                         1370-1406 ( wg V.N.M.S.D. )
       					                                        ?-1405 ( wg E.P. )
                                                         ok.1350 ( Tímúr Leng ( Tamerlán , Timur Kulhavec ) wg Ř.S.J.Ď.S. )
-                                                        ? ( wg K.W.N.I.W.D. ) ( Tamerlane wg S.A.B.H.O.H. ) ( Timur Chromy wg H.W. ) ( wg J.P.1242 )
+                                                        ? ( wg K.W.N.I.W.D. i J.P.1242 ) ( Tamerlane wg S.A.B.H.O.H. ) ( Timur Chromy wg H.W. ) ( Timur wg B.D.K.B. )
                                                         1370-1405 (9.4.-18.2.) ( Temur (Tamburlaine the Conqueror, Tamerlane, Timur, Tamburlaine the Great, Timour, Themur, Tamburlaine, Temur the Lame, Temur-i-lang, Fou-ma Temur, Timur the Great Amir, Tamerlane the Great, Timour Bey, Timur-Bec) wg T.S.O.I.C.O.T.W. )
                                                         przed 1400-1405 ( Timur Lenk (Timur) wg S.V.D.K.V. )
     Miranszah                             	            1405-1408 ( wg D.Ś. ) ( Mīrānshāh wg D.O.T.W.A.C.A.G.H. )
@@ -30440,7 +30781,7 @@ Imperium Timurydów ( Państwo Tamerlana , Tímúrovská říše , The Tīmūrid
                                                         przed 1406-po 1409 ( Khalil Sultan wg T.S.O.I.C.O.T.W. )
     Pir Muhammad                     	                  1406-1410 ( wg V.N.M.S.D. )
                                                         przed 1406-po 1407 ( Pir Mohammed wg T.S.O.I.C.O.T.W. )
-    Szahruch                              	            1405-1447 ( wg D.Ś. i S.A. ) ( Shāhrukh wg D.O.T.W.A.C.A.G.H. )
+    Szahruch                              	            1405-1447 ( wg D.Ś. i S.A. ) ( Shāhrukh wg D.O.T.W.A.C.A.G.H. ) ( Szahroch (Szahruch Bahadur Chan) wg B.D.K.B. )
                                                         1410-1446 ( wg V.N.M.S.D. )
       				        	                                1420-? ( wg 100.N.V.S. )
                                                         przed 1412-? ( Shahrukh (Shah Rukh Bahadur) wg T.S.O.I.C.O.T.W. )
@@ -30463,6 +30804,7 @@ Imperium Timurydów ( Państwo Tamerlana , Tímúrovská říše , The Tīmūrid
       Jezioro Pejpus 1242
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Sułtanat Tipu
   Bibliografia :
@@ -30671,12 +31013,14 @@ Trakowie
       Dzieje Grecji
       Thrákové
 
-Emirat Transjordanii ( Transjordan )
-  Dynastia Haszymidów ( The Hāshimid Dynasty )
+Emirat Transjordanii ( Transjordan , Transjordania )
+  Dynastia Haszymidów ( The Hāshimid Dynasty , Haszymici )
     ´Abd Allah                                          1921-1946 ( wg D.Ś. ) ( ´Abd Allāh I wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1924-? (?.3.-?) ( Abd Allah wg B.D.K.B. )
   Bibliografia :
       Dynastie Świata
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Transoksania ( Mawarannahr , Transoxiana )
   Chaghatay Dynasty
@@ -31001,17 +31345,19 @@ Tun-sun
       Khmerové
 
 Turcja ( Turkey , Türkiye Cumhuriyeti )
-  Mustafa Kemal ( Atatürk )                             1923 n.e.-? (29.10.-?) ( wg 100.N.V.S. )
+  Republika Turcji ( Republika turecka )
+    Mustafa Kemal ( Atatürk )                           1923 n.e.-? (29.10.-?) ( wg 100.N.V.S. )
                                                         ok.1925 ( wg Ř.S.J.Ď.S. )
                                                         ? ( Kemal Atatürk (Ojciec-Turek, Ojciec, Ata) wg S.II.W.I.J.C.Z.E.M.P. )
-  Republika Turcji
+                                                        przed 1924-? (3.3.-?) ( wg B.D.K.B. )
     Turgut Ozal                                         przed 1990-? (13.2.-?) ( wg S.II.W.I.J.C.Z.E.M.P. )
-    Recep Erdogan                                     ? ( wg E.N.T.C.F.R.S.H.A.P. )
+    Recep Erdogan                                       ? ( wg E.N.T.C.F.R.S.H.A.P. )
   Bibliografia :
       100 nejvlivnějších vojevůdců světa
       Říše slova - Jazykové dějiny světa
       Enlightenment Now - The Case For Reason, Science, Humanism, and Progress
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Chanat Turecki
   Pierwszy Chaganat Turecki
@@ -31078,9 +31424,10 @@ Turkmenowie
   Bibliografia :
       Arménie
 
-Księstwo Turowo-pińskie
+Księstwo Turowo-pińskie ( Księstwo turowsko-pińskie )
+  Światopełk                                            ? ( wg K.1018 ) [Prince of Kiev Światopełk I Przeklęty]
   Bibliografia :
-      Jezioro Pejpus 1242
+      Kijów 1018
 
 Księstwo turowskie
   Bibliografia :
@@ -31766,6 +32113,10 @@ Urum
   Bibliografia :
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
+Uruszana
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+
 Usanata ( Usnatu )
   Bibliografia :
       Kralovská tažení ve starém Orientu
@@ -31799,12 +32150,14 @@ Uzbecy ( Uzbeks )
   Dynastia Szejbanidów
     Muhammad Szajbani		                                1500-1510 ( wg S.A. i E.P. )
                                                         przed 1507-? ( Shaibani Khan wg T.S.O.I.C.O.T.W. )
+                                                        ?-1510 ( Szejbani wg B.D.K.B. )
     Abul-Gazi Ubajdallah  		                          1534-1539 ( wg S.A. i E.P. )
     Abdulláh II Ibn Iskander	                          1583-1598 ( wg S.A. i E.P. )
   Bibliografia :
       Serce Azji
       Encyklopedie panovníků
       Tamerlane - Sword of Islam, Conqueror of the World
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Uzbekistan ( Uzbekistán )
   Islam Karimov                                         1991-po 2000 ( Karimov wg T.S.O.I.C.O.T.W. )
@@ -32774,8 +33127,8 @@ Wielki Pölü ( Baltistan )
   Bibliografia :
       Dzieje dawnych Turków
 
-Sułtanat Wielkich Seldżuków ( Seljuks , Seldżukowie , Great Seljuqid Sultanate , Seldžukové , Velcí Seldžukové )
-  Dynastia Seldżukidów ( The Seljuqid Dynasty )
+Sułtanat Wielkich Seldżuków ( Seljuks , Seldżukowie , Great Seljuqid Sultanate , Seldžukové , Velcí Seldžukové , Seldżucy )
+  Dynastia Seldżukidów ( The Seljuqid Dynasty , Seldżukidzi )
     Seldžuk                    	                        ? ( wg D.B. )
     Čanghri-Beg             	                          ? ( wg D.B. )
     Toghryl Beg        	                                1038-1063 ( wg D.Ś. ) ( Toghrïl Beg wg D.O.T.W.A.C.A.G.H. )
@@ -32784,22 +33137,29 @@ Sułtanat Wielkich Seldżuków ( Seljuks , Seldżukowie , Great Seljuqid Sultana
                                                         przed 1055-? ( Togrul wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ? ( Tughrilbek wg N.I.B.W.XI.S. )
                                                         ?-1063 ( Tughrul Beg (Tughrul) wg S.V.D.K.V. )
+                                                        przed 1048-1063 (?-4.9.) ( Tughrilbek (Tughril, Abu Talib Tughrilbek) wg B.D.K.B. )
     Alp Arslan           	                              1063-1072 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. i S.V.D.K.V. ) ( Alp-Arslán wg D.B. ) ( Alp-Arslan wg N.I.B.W.XI.S. )
                                                  	      1063-1074 ( wg V.N.M.S.D. )
                                                         przed 1071-? ( wg Ř.S.J.Ď.S. )
+                                                        1063-1072 (?-8.12.) ( wg B.D.K.B. )
     Malikszah I          	                              1072-1092 ( wg D.Ś. ) ( Malikshāh I wg D.O.T.W.A.C.A.G.H. ) ( Málik Šáh wg S.V.D.K.V. )
                                                  	      1074-1092 ( wg V.N.M.S.D. )
       				                                          ?-1092 ( Malikšáh wg D.B. )
                                                         ? ( Malikszah wg N.I.B.W.XI.S. )
+                                                        przed 1083-1092 (?-po ?.11.) ( Dżalal ad-Din Malikszah (Malikszah) wg B.D.K.B. )
     Mahmud I            	                              1092-1094 ( wg D.Ś. ) ( Maḥmūd I wg D.O.T.W.A.C.A.G.H. )
+                                                        ?-1094 (?-jesień) ( Mahmud wg B.D.K.B. )
     Barkijaruk            	                            1094-1104 ( wg D.Ś. ) ( Berkyaruq wg D.O.T.W.A.C.A.G.H. )
                                                         1092-1104 ( wg V.N.M.S.D. )
                                                         ?-1105 ( Barkijaruq wg S.V.D.K.V. )
+                                                        1094-1104 (przed 3.2.-22.12.) ( wg B.D.K.B. )
     Malikszah II         	                              1104-1105 ( wg D.Ś. ) ( Malikshāh II wg D.O.T.W.A.C.A.G.H. )
     Muhammad I		                                      1105-1118 ( wg D.Ś. ) ( Muḥammad I wg D.O.T.W.A.C.A.G.H. )
                                                  	      1104-1116 ( wg V.N.M.S.D. )
                                                         przed 1105-po 1115 ( Muhammad wg S.V.D.K.V. )
-    Sandżar                 	                          1118-1157 ( wg D.Ś. ) ( Sanjar wg D.O.T.W.A.C.A.G.H. )
+                                                        1104-1118 (?.3.-?.4.) ( Muhammad Tapar (Muhammad, Tapar) wg B.D.K.B. )
+    Mahmud                                              1117-1119 ( wg B.D.K.B. )
+    Sandżar                 	                          1118-1157 ( wg D.Ś. i B.D.K.B. ) ( Sanjar wg D.O.T.W.A.C.A.G.H. )
                                                   	    1116-1156 ( wg V.N.M.S.D. )
   Bibliografia :
       Dynastie Świata
@@ -32810,6 +33170,7 @@ Sułtanat Wielkich Seldżuków ( Seljuks , Seldżukowie , Great Seljuqid Sultana
       Normanowie i Bizancjum w XI stuleciu
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+      Burzliwe dzieje Kalifatu Bagdadzkiego
 
 Księstwo Wielkomorawskie ( Państwo Wielkomorawskie , Wielka Morawa , Państwo Morawskie )
   Mojmír I                  	                          po 833 n.e.-? ( wg D.P.I.R.G. )
@@ -32826,6 +33187,7 @@ Księstwo Wielkomorawskie ( Państwo Wielkomorawskie , Wielka Morawa , Państwo 
       			                                            ? ( wg D.B. )
                                                         870-894 ( wg Z.N.E. )
                                                         przed 874-894 ( Świętopełk I Wielki wg S.P.D.Z. )
+                                                        przed 874-po 878 ( Świętopełk I Wielki wg K.1018 )
   Mojmír II		                                          przed 898-? ( wg Z.S.A.V.E. )
   Bibliografia :
       Dějepis pro I. ročník gymnázií
@@ -32834,6 +33196,7 @@ Księstwo Wielkomorawskie ( Państwo Wielkomorawskie , Wielka Morawa , Państwo 
       Zapomianie narody Europy
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
+      Kijów 1018
 
 Wietnam ( Vietnam , Viêt-Nam )
   Dynastie Tay Song
@@ -32937,6 +33300,7 @@ Państwo Wisznukundinów
 Wiślanie
   Bibliografia :
       Zapomianie narody Europy
+      Kijów 1018
 
 Księstwo Witebskie
   Jarosław Wasylewicz                                   przed 1318 n.e.-?
@@ -33381,6 +33745,11 @@ Zakon Maltański ( Zakon Kawalerów Rodyjskich , Joannici , Kawalerowie Maltańs
       Historia Wenecji
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
 
+Państwo Zandżów ( Zandżowie )
+  Ali Ibn Muhammad                                      przed 872-883 (?-po 8.8.) ( Ali wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+
 Sułtanat Zanzibaru
   Dynastia Bu Sa´idi
     Madżid       	                                      1856-1870
@@ -33615,6 +33984,13 @@ Państwo Zyjadydów
   Bibliografia :
       Rýžoviště zlata a doly drahokamů
 
+Państwo Zijarydów
+  Zijarydzi
+    Mardawidż Ibn Zijar                                 przed 931-935 ( Mardawidż wg B.D.K.B. )
+    Waszmgir                                            przed 938-? ( wg B.D.K.B. )
+  Bibliografia :
+      Burzliwe dzieje Kalifatu Bagdadzkiego
+
 Żmudź ( Żmudzini )
   Erdiwił                                               przed 1219 n.e.-? ( wg L.P.P. )
   Wikint                                                przed 1219-po 1251 ( wg L.P.P. )
@@ -33802,5 +34178,7 @@ Bibliografia :
     [149] Polacy w bitwie o Narwik , Witold Biegański , 1971
     [150] Z Panem Biegankiem w Abisynii , Marian Brandys , 1969
     [151] Otton I Wielki , Jerzy Strzelczyk , 2018
+    [152] Burzliwe dzieje Kalifatu Bagdadzkiego , Jerzy Hauziński , 2016
+    [153] Kijów 1018 , Robert F. Barkowski , 2019
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
