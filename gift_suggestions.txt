@@ -122,14 +122,11 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
 movies - The Act of Killing - Joshua Oppenheimer
        - The Look of Silence - Joshua Oppenheimer
        - Joseph Campbell and the Power of Myth
-       - Meru - Jimmy Chin and Elizabeth Chai Vasarhelyi
        - The Vietnam War - Ken Burns and Lynn Novick
-       - The Dawn Wall - Josh Lowell and Peter Mortimer
        - The Atomic Cafe
-       - Free Solo
        - The Climb - Donald Shebib - 1986
 mountains
-  - tents
+  - tents - light tent for 1-2 people
     - Nemo Hornet 2P
   - mobile power bank with solar panels
   - swiss knife (small)
