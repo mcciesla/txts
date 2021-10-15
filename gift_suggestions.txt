@@ -1,5 +1,7 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Fabric of Reality - David Deutsch
+      - Blueprint: How DNA Makes Us Who We Are - Robert Plomin
+      - Rationality: What It Is, Why It Seems Scarce, Why It Matters - Steven Pinker
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
       - Kronika Slovanu - Helmold z Bosau
@@ -125,6 +127,7 @@ movies - The Act of Killing - Joshua Oppenheimer
        - The Vietnam War - Ken Burns and Lynn Novick
        - The Atomic Cafe
        - The Climb - Donald Shebib - 1986
+       - The Alpinist
 mountains
   - tents - light tent for 1-2 people
     - Nemo Hornet 2P
