@@ -65,6 +65,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Problems in Philosophy: The Limits of Inquiry - Colin McGinn
       - Adventures of a Mathematician - Stanisław Marcin Ulam
       - Endless Forms Most Beautiful: The New Science of Evo Devo - Sean B. Carroll
+      - Economics for the Common Good - Jean Tirole
       - On the Origin of Species - Charles Darwin
       - The Sciences of the Artificial - Herbert A. Simon
       - An Illustrated Theory of Numbers - Martin H. Weissman
@@ -119,7 +120,10 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
                 - Doskonala proznia
                 - Wielkosc urojona
                 - Golem XIV
-    Thorgal - wszystkie komiksy
+    Thorgal - wszystkie komiksy oprocz :
+                                  - 3. Nad jeziorem bez dna
+                                  - 18. Słoneczny miecz
+                                  - 19. Niewidzialna forteca
     Wiedźmin Tom 5-8 - Andrzej Sapkowski [Karolina]
 movies - The Act of Killing - Joshua Oppenheimer
        - The Look of Silence - Joshua Oppenheimer
