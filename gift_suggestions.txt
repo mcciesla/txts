@@ -1,11 +1,9 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Fabric of Reality - David Deutsch
-      - Blueprint: How DNA Makes Us Who We Are - Robert Plomin
-      - Rationality: What It Is, Why It Seems Scarce, Why It Matters - Steven Pinker
+      - The Fall of Rome: And the End of Civilization - Bryan Ward-Perkins
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
       - Kronika Slovanu - Helmold z Bosau
-      - Purely Functional Data Structures - Chris Okasaki
       - How to Solve It - George Pólya
       - Colossus - Dennis Feltham Jones
       - Notatki z podziemia - Fiodor Dostojewski
@@ -19,6 +17,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Enigma of Reason - Dan Sperber, Hugo Mercier
       - The Plague Cycle: The Unending War Between Humanity and Infectious Disease - Charles Kenny
       - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
+      - The Empire of the Steppes: A History of Central Asia - René Grousset
       - Warriors and Worriers: The Survival of the Sexes - Joyce F. Benenson
       - The Strategy of Conflict - Thomas C. Schelling
       - Proofs from THE BOOK - Martin Aigner, Günter M. Ziegler
@@ -123,12 +122,13 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
                 - Pamietnik znaleziony w wannie
                 - Doskonala proznia
                 - Wielkosc urojona
-                - Golem XIV
     Thorgal - wszystkie komiksy oprocz :
                                   - 3. Nad jeziorem bez dna
                                   - 18. Słoneczny miecz
                                   - 19. Niewidzialna forteca
-    Wiedźmin Tom 5-8 - Andrzej Sapkowski [Karolina]
+    Wiedźmin Tom 7 - Andrzej Sapkowski [Karolina]
+    Maladie i inne opowiadania - Andrzej Sapkowski
+    Sezon burz - Andrzej Sapkowski
 movies - The Act of Killing - Joshua Oppenheimer
        - The Look of Silence - Joshua Oppenheimer
        - Joseph Campbell and the Power of Myth

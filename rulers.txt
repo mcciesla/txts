@@ -595,7 +595,7 @@ County of Albon
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Alcluith ( Kingdom of The Rock, Dumbarton, Alt Clud , Królewstwo Brytów w Strathclyde , Strathclyde )
+Alcluith ( Kingdom of The Rock, Dumbarton, Alt Clud , Królestwo Brytów w Strathclyde , Strathclyde )
   Ceredig Gueldig ( Ceretig Guletic map Cynlop )        ? ( Coroticus (Ceretic Guletic) wg V.K.T.H.O.H.E. )
   Erbin                                                 ? ( wg V.K.T.H.O.H.E. )
   Cinuit                                                ? ( wg V.K.T.H.O.H.E. )
@@ -1236,7 +1236,7 @@ Anglia ( England , Anglie )
 		          	                                        przed 1776-? ( wg M.Ś. )
                                                         przed 1762-? ( wg H.W. )
                                                         przed 1765-? ( George III wg H.O.W.P. )
-  Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ( United Kingdom , Great Britain , Britain , British Empire , United Kingdom of Great Britain and Ireland , Empire , Zjednoczone Królestwo , Británie )
+  Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ( United Kingdom , Great Britain , Britain , British Empire , United Kingdom of Great Britain and Ireland , Empire , Zjednoczone Królestwo , Británie , Wielka Brytania )
     Dynastia hanowerska ( House of Hanover )
       Jerzy III       	                                1801-1820 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( George III wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
 			                                                  ? ( wg 100.N.U.W. )
@@ -2733,8 +2733,8 @@ Austria ( Rakousko )
         			         	                                ? ( wg F.B.C.A.R. )
       Henry II                                          1141-1156 ( Henry II Jasomirgott wg D.O.T.W.A.C.A.G.H. ) [Duke of Austria] [Duke of Bavaria Henry XI]
                                                         przed 1147-? (?.2.-?) ( Jindřich Jasomirgott (Jindřich Bavorský) wg S.V.D.K.V. )
-  Księstwo Austrii ( Duchy of Austria , Rakouské vévodství )
-    Dynastia Babenbergów ( House of Babenberg , Die Babenberger )
+  Księstwo Austrii ( Duchy of Austria , Rakouské vévodství , Księstwo austriackie )
+    Dynastia Babenbergów ( House of Babenberg , Die Babenberger , Babenbergowie )
       Henryk II Jasomirgott	                            1141-1177 ( wg D.Ś. )
                                                         1142-1177 ( wg V.N.M.S.D. )
         			           	                              1156-? ( Jindřich Jasomirgott wg F.B.C.A.R. )
@@ -2750,8 +2750,9 @@ Austria ( Rakousko )
         			         	                                ok.1217 ( wg K.V. )
                                                         przed 1225-1230 ( Leopold VI (Leopold IV) wg F.H.C.R. )
                                                         przed 1208-1230 ( Leopold VI. (Leopold) wg S.V.D.K.V. )
-      Fryderyk II Bitny       	                        1230-1246 ( wg D.Ś. i V.N.M.S.D. ) ( Frederick II (Frederick II the Warlike) wg D.O.T.W.A.C.A.G.H. )
+      Fryderyk II Bitny       	                        1230-1246 ( wg D.Ś. i V.N.M.S.D. ) ( Frederick II (Frederick II the Warlike) wg D.O.T.W.A.C.A.G.H. ) [Duke of Styria]
                                                         przed 1236-1246 (?.5.-15.6.) ( Fryderyk Waleczny (Fryderyk Austriacki, Fryderyk II Waleczny) wg F.H.C.R. )
+                                                        przed 1241-1246 (?-15.6.) ( wg Z.1205 )
     Dynastia habsburska ( House of Habsburg , Habsburgowie )
       Rudolf I                       	                  1276-1282 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [King of Germany]
       Rudolf II                      	                  1282-1283 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
@@ -2816,9 +2817,11 @@ Austria ( Rakousko )
       Leopold I                   	                    przed 1683-po 1685 ( wg M.Ś. )
       Karol VI                    	                    przed 1716-1740 ( ?-?.10. ) ( wg 100.N.V.S. )
                                                         1711-1740 ( Charles VI wg R.E.P.A.T.M.O.M. )
-      Maria Teresa             	                        1740-1780 ( wg V.N.M.S.D. ) ( Maria Theresa wg V.K.T.H.O.H.E. i R.E.P.A.T.M.O.M. ) [Empress Maria Teresa]
+      Arcyksięstwo Austrii
+        Maria Teresa             	                      1740-1780 ( wg V.N.M.S.D. ) ( Maria Theresa wg V.K.T.H.O.H.E. i R.E.P.A.T.M.O.M. ) [Empress Maria Teresa]
         			   	                                      przed 1740-po 1762 ( wg M.Ś. )
                                                         ? ( wg H.W. )
+                                                        przed 1772-? ( Maria Teresa Habsburg wg Z.1205 )
     Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
       Franciszek I              	                      1745-1765 ( wg V.N.M.S.D. )
                                                         ? ( Francis wg H.O.W.P. )
@@ -2867,6 +2870,7 @@ Austria ( Rakousko )
       Diabeł i arcydzieło - Teksty przełomowe
       History of Western Philosophy
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
+      Zawichost 1205
 
 County of Autun
   Richard The Justiciar                                 ? ( wg V.K.T.H.O.H.E. ) ( Richard the Justicer wg D.O.T.W.A.C.A.G.H. ) [Duke of Burgundy]
@@ -3704,6 +3708,7 @@ Bawaria ( Bavaria )
                                                         przed 992-? (25.5.-?) ( wg S.P.D.Z. )
                                                         przed 992-? ( wg B.S. )
                                                         przed 1002-? ( Henryk II (Henryk) wg K.1018 )
+                                                        ? ( Henryk II Święty wg wg Z.1205 )
     Dynastia luksemburska ( House of Luxemburg )
       Henryk V           	                              1004-1009 i 1017-1026 ( wg D.Ś. ) ( Henry V wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1005-? ( wg B.S. )
@@ -3868,6 +3873,7 @@ Bawaria ( Bavaria )
       Svaté války - Dějiny křižových výprav
       Otton I Wielki
       Kijów 1018
+      Zawichost 1205
 
 Beaujeu
   Humbert III. Starý z Beaujeu                          przed 1142 n.e.-? ( wg S.V.D.K.V. )
@@ -3922,6 +3928,16 @@ Bellontowie
 Belluno
   Bibliografia :
       Historia Wenecji
+
+Księstwo bełskie ( Bełz )
+  Mścisławowicze
+    Wsiewołod                                           przed 1182-po 1191 ( Wsiewołod Mścisławowicz wg Z.1205 )
+  Aleksander Wsiewołodowicz                             ? i przed 1220-? i przed 1233-? (? i wiosna-? i wiosna-?) ( Aleksander wg Z.1205 ) [Prince of Księstwo Włodzimierskie]
+  Romanowicze
+    Wasylko                                             przed 1211-po 1212 ( wg Z.1205 ) [Prince of Halich and Volyn]
+  Wsiewołod Aleksandrowicz                              przed 1245-? ( Wsiewołod wg Z.1205 )
+  Bibliografia :
+      Zawichost 1205
 
 Księstwo Benevento ( Księstwo Benewentu , Duchy of Benevento )
   Arechis I                                             ?-641 n.e. ( wg B.S. )
@@ -4077,6 +4093,11 @@ Biała Serbia ( Sorabowie , Serbowie połabscy )
       Zapomianie narody Europy
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
+
+Księstwo białogrodzkie [Belgorod Kievsky]
+  Ruryk Rościsławowicz                                  przed 1180-po 1188 ( Ruryk wg Z.1205 ) [Grand Prince of Kiev]
+  Bibliografia :
+      Zawichost 1205
 
 Księstwo Biełogordskie
   Siemion Konstantynowicz                               ?
@@ -4939,10 +4960,20 @@ Brytania ( Britania )
       The Sagas of the Icelanders
 
 Księstwo brzeskie [Brześć Litewski]
+  Mścisławowicze
+    Włodzimierz                                         ? ( wg Z.1205 )
+    Światosław                                          przed 1182 n.e.-? ( wg Z.1205 )
   Romanowicze ( Dynastia Romanowiczów )
-    Wasylko Romanowicz                                  przed 1219 n.e.-? ( Wasylko (Wasilko) wg L.P.P. ) [Prince of Halich and Volyn]
+    Wasylko Romanowicz                                  przed 1219-? ( Wasylko (Wasilko) wg L.P.P. ) [Prince of Halich and Volyn]
+                                                        ? ( Wasylko wg Z.1205 )
   Bibliografia :
       Litwa - Początki Państw
+      Zawichost 1205
+
+Księstwo brzesko-czerwieńskie
+  Światosław                                            ? ( wg Z.1205 )
+  Bibliografia :
+      Zawichost 1205
 
 Brzeżanie
   Bibliografia :
@@ -6797,6 +6828,12 @@ Chorwacja ( Croatia )
         			      	                                  1076-? ( Demeter Zvonimír I wg D.B. ) ( Dymitr Zwojnimir (Dymitr) wg N.I.B.W.XI.S. )
       Stefan II                     	                  1088-1090 ( wg D.Ś. )
       Piotr                           	                1093-1097 ( wg D.Ś. )
+    Stefan II                                           ? ( wg Z.1205 ) [King of Hungary]
+    Bela III                                            ? ( wg Z.1205 ) [King of Hungary]
+    Emeryk                                              ? ( wg Z.1205 ) [King of Hungary]
+    Władysław III                                       ? ( wg Z.1205 ) [King of Hungary]
+    Andrzej II                                          ? ( wg Z.1205 ) [King of Hungary]
+    Bela IV                                             ? ( wg Z.1205 ) [King of Hungary]
   Banat Chorwacji
     Stefan I                                            ? ( wg H.W. )
   Bibliografia :
@@ -6804,6 +6841,7 @@ Chorwacja ( Croatia )
       Dějiny Byzance
       Historia Wenecji
       Normanowie i Bizancjum w XI stuleciu
+      Zawichost 1205
 
 Księstwo Chorwacji Dalmatyńskiej ( Chorwacja Nadmorska , Księstwo Chorwatów Dalmatyńskich )
   Borna                                                 przed 818-po 819 (jesień-jesień) ( wg B.S. )
@@ -7263,7 +7301,7 @@ Chanat Czatagajski ( Chanat Czagataja , Čagatajský chanát , Chanat Czagatajsk
   Dynastia Czyngizydów ( Chaghatay Dynasty )
     Czagataj                	                          1227-1242 ( wg I.M. i D.Ś. )
       				                                          ?-1242 ( Čagataj wg E.P. )
-                                                        ? ( wg K.W.N.I.W.D. ) ( Chaghatay wg T.S.O.I.C.O.T.W. )
+                                                        ? ( wg K.W.N.I.W.D. i Z.1205 ) ( Chaghatay wg T.S.O.I.C.O.T.W. )
                                                         ?-1244/5 ( wg N.G.R.B.I.N.S. )
     Kara Hülegü          	                              1242-1246 i 1252 ( wg I.M. i D.Ś. )
     Jesü Mőngke         	                              1246-1252 ( wg I.M. i D.Ś. )
@@ -7296,6 +7334,7 @@ Chanat Czatagajski ( Chanat Czagataja , Čagatajský chanát , Chanat Czagatajsk
       Kubiłaj-chan - władca największego imperium w dziejach
       Tamerlane - Sword of Islam, Conqueror of the World
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+      Zawichost 1205
 
 Czechosłowacja ( Czechoslovakia )
   Československá republika
@@ -7346,7 +7385,8 @@ Czechy
                                                         przed 936-972 ( Bolesław Okrutny (Bolesław Srogi) wg S.P.D.Z. ) ( Bolesław Okrutny wg B.S. )
                                                         ok.929/35-ok.972 ( Boleslav I (Boleslav I the Cruel) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 936-972 ( Bolesław I (Bolesław, Boneszlawo) wg O.I.W. )
-      Bolesław II Pobożny              	                972-999 ( wg D.Ś. ) ( Bolesław II Przemyślida (Bolesław II) wg O.I.W. ) ( Boleslav II wg D.P.I.R.G. )
+                                                        ok.929/35-972 ( wg Z.1205 )
+      Bolesław II Pobożny              	                972-999 ( wg D.Ś. i Z.1205 ) ( Bolesław II Przemyślida (Bolesław II) wg O.I.W. ) ( Boleslav II wg D.P.I.R.G. )
       				     	                                    przed 975-po 995 ( Boleslav II wg Z.S.A.V.E. )
                                                         przed 984-? ( Bolesław II  Srogi wg Z.N.E. )
                                                         przed 984-999 ( Bolesław II wg S.P.D.Z. )
@@ -7365,6 +7405,7 @@ Czechy
       				      	                                  przed 1014-1033 i ?-1034 (? i ?-9.11.) ( Oldřich wg Z.S.A.V.E. )
                                                         przed 1015-1034 ( Udalryk wg B.S. )
                                                         przed 1017-po 1031 ( wg K.1018 )
+                                                        ? ( Udalryk wg Z.1205 )
       Brzetysław I                            	        1034-1055 ( wg D.Ś. ) ( Břetislav I wg D.O.T.W.A.C.A.G.H. )
       				      	                                  1035-1055 ( Břetislav I wg D.P.I.R.G. )
       				      	                                  przed 1035-po 1044 ( Břetislav wg Z.S.A.V.E. )
@@ -7377,11 +7418,12 @@ Czechy
       				      	                                  przed 1063-? ( Vratislav wg Z.S.A.V.E. )
                                                         1061-1086 ( Vratislav II (Vratislav I) wg D.O.T.W.A.C.A.G.H. ) [King of Bohemia]
   Królestwo Czech ( The Kingdom of Bohemia , Království české )
-    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie )
+    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi )
       Wratysław II ( I )                     	          1085-1092 ( wg D.Ś. )
                                                         1086-1092 ( Vratislav II (Vratislav I) wg D.O.T.W.A.C.A.G.H. )
-  Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie )
+  Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi )
     Konrad                                  	          1092 ( wg D.Ś. ) ( Conrad wg D.O.T.W.A.C.A.G.H. )
+                                                        ? ( wg Z.1205 )
     Brzetysław II                           	          1092-1100 ( wg D.Ś. ) ( Břetislav II wg D.O.T.W.A.C.A.G.H. )
     Borzywoj II                             	          1100-1107 i 1117-1120 ( wg D.Ś. ) ( Bořivoj II wg D.O.T.W.A.C.A.G.H. )
                                                         1101-1107 i 1117-1120 ( Borzywoj wg W.W.K.R. )
@@ -7398,13 +7440,13 @@ Czechy
       				      	                                  przed 1156-1158 ( ?-?.1. ) ( Vladislav wg F.B.C.A.R. )
                                                         przed 1147-? ( Vladislav II. (Vladislav) wg S.V.D.K.V. )
   Królestwo Czech ( The Kingdom of Bohemia , Království české )
-    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie )
+    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi )
       Władysław II ( I )                     	          1158-1174 ( wg D.Ś. )
                                                         1158-? ( Vladislav II wg D.P.I.R.G. )
                                                         1158-1172 ( Vladislav wg F.B.C.A.R. )
                                                         1158-1173 ( Vladislav II (Vladislav I) wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Vladislav II. (Vladislav) wg S.V.D.K.V. )
-  Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie )
+  Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi )
     Fryderyk ( Bedřich )                	              1173 i 1178-1189 ( wg D.Ś. ) ( Frederick wg D.O.T.W.A.C.A.G.H. )
       				      	                                  1172-? i przed 1182-? ( wg F.B.C.A.R. )
                                                         przed 1188-? ( Fridrich wg S.V.D.K.V. )
@@ -7417,7 +7459,7 @@ Czechy
     Henryk Brzetysław                   	              1193-1197 ( wg D.Ś. ) ( Henry Břetislav wg D.O.T.W.A.C.A.G.H. )
     Władysław III Henryk              	                1197 ( wg D.Ś. ) ( Vladislav III Henry wg D.O.T.W.A.C.A.G.H. )
   Królestwo Czech ( The Kingdom of Bohemia , Království české )
-    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie )
+    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi )
       Przemysł Ottokar ( Otakar ) I	                    1198-1230 ( wg D.Ś. i V.N.M.S.D. ) ( Přemysl Ottokar I wg D.O.T.W.A.C.A.G.H. )
       				            	                            1197-1230 ( Přemysl Otakar I wg D.P.I.R.G. )
                                                         przed 1211-po 1212 (?.9.-26.9.) ( Przemysł Otokar I (Ottokar I) wg F.H.C.R. )
@@ -7431,7 +7473,7 @@ Czechy
                                                         przed 1254-po 1273 (?-?.12.) ( Přemysl Otakar II. (Přemysl II., Otakar, Přemysl, Přemysl II. Otakar) wg S.V.D.K.V. )
       Wacław II                                  	      1278-1305 ( wg D.Ś. i V.N.M.S.D. ) ( Václav II wg Z.S.A.V.E. ) ( Wenceslas II wg D.O.T.W.A.C.A.G.H. ) [King of Poland Wacław II]
       				            	                            1271-1305 ( Václav II wg D.P.I.R.G. )
-                                                        ? ( wg L.P.P. )
+                                                        ? ( wg L.P.P. ) ( Wacław II Czeski wg Z.1205 )
       Wacław III                                 	      1305-1306 ( wg D.Ś. ) ( Wenceslas III wg D.O.T.W.A.C.A.G.H. ) [King of Poland Wacław III] [King of Hungary Wenceslas]
       				             	                            ?-1306 ( Václav III wg D.P.I.R.G. i Z.S.A.V.E. )
                                                         ? ( wg L.P.P. )
@@ -7487,6 +7529,7 @@ Czechy
       					                                        1526-1564 (?-25.7.) ( Ferdinand I Habsburský wg E.P. )
                                                         przed 1527-? (?.7.-?) ( Ferdynand Habsburg (Ferdynand) )
     Frederick V                                         1619-1620 ( Frederick V the Winter King wg D.O.T.W.A.C.A.G.H. )
+    Maria Teresa                                        przed 1772-? ( Maria Teresa Habsburg wg Z.1205 )
     House of Habsburg-Lorraine
       Francis II                                        przed 1804-? (?.8.-?) ( Francis I wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor Francis II] [Austrian Emperor Francis I]
       Ferdinand V(I)		                                1836-? (7.9.-?) ( wg E.P. )
@@ -7520,6 +7563,7 @@ Czechy
       Svaté války - Dějiny křižových výprav
       Otton I Wielki
       Kijów 1018
+      Zawichost 1205
 
 Królestwo Czedi
   Bibliografia :
@@ -7561,24 +7605,36 @@ Królestwo Czenli ( Czen-la )
 
 Czerkiesi
 
-Księstwo Czernihowskie
+Księstwo Czernihowskie ( Czernihów )
   Mścisław                                              pryed 1026-1036 ( Konstantyn wg K.1018 )
+  Światosław                                            1054-? ( wg Z.1205 )
+  Dawid Światosławowicz                                 przed 1097-? ( wg Z.1205 ) [Prince of Murom]
   Włodzimierz Dawidowicz                                ? ( wg J.P.1242 )
-  Światosław Olegowicz                                  przed 1158 n.e.-? ( wg J.P.1242 )
+  Światosław Olegowicz                                  przed 1158-? ( wg J.P.1242 )
+  Olegowicze
+    Jarosław Wsiewołodowicz                             przed 1194-? ( wg Z.1205 )
   Dynastia Rurykowiczów
-    Igor Svjatoslavič		                                1199-1202 ( wg E.P. )
+    Igor Svjatoslavič		                                1199-1202 ( wg E.P. ) [Prince of Księstwo nowogrodzko-siewierskie]
+                                                        ? ( Igor Światosławowicz wg Z.1205 )
     Światosław II 			                                ? ( wg D.Ś. )
     Wsiewołod II Olegowicz	                            ? ( wg D.Ś. )
     Izjasław III Dawidowicz	                            ? ( wg D.Ś. )
+  Michał Wsiewołodowicz Święty                          przed 1235-? (?.5.-?) ( Michał Wsiewołodowicz (Michał) wg Z.1205 ) [Prince of Halicz]
   Bibliografia :
       Dynastie Świata
       Encyklopedie panovníků
       Jezioro Pejpus 1242
       Kijów 1018
+      Zawichost 1205
 
 Królestwo Czerów
   Bibliografia :
       Starověká Indie
+
+Czerwień
+  Aleksander                                            1231/2 n.e.-? (koniec/początek-?) ( wg Z.1205 ) [[Prince of Księstwo Włodzimierskie Aleksander Wsiewołodowicz]]
+  Bibliografia :
+      Zawichost 1205
 
 Czie
   Bibliografia :
@@ -8436,10 +8492,12 @@ Księstwo drewlańskie
   Bibliografia :
       Kijów 1018
 
-Księstwo Drohiczyńskie
-  Jan                                                   ?
+Księstwo Drohiczyńskie ( Księstwo drohickie , Księstwo drohiczyńskie , Drohiczyn )
+  Wasylko Jaropełkowicz                                 przed 1182 n.e.-? ( Wasylko wg Z.1205 )
+  Jan                                                   ? ( wg L.P.P. )
   Bibliografia :
       Litwa - Początki Państw
+      Zawichost 1205
 
 Księstwo Druckie
   Rurykowicze
@@ -8615,10 +8673,16 @@ Dżuzdan
       Dzieje dawnych Turków
 
 Księstwo dźwinogrodzkie
-  Wołodar                                               1085-1124 [Książe przemyski]
-  Władymyrko                                            1124-1153 [Książe przemyski]
+  Wołodar                                               1085-1124 ( wg W.W.K.R. ) [Książe przemyski]
+  Władymyrko                                            1124-1153 ( wg W.W.K.R. ) [Prince of Halicz]
+                                                        ? ( Władymirko wg Z.1205 )
+  Rościsławowicze
+    Iwan                                                ? ( wg Z.1205 )
+  Igorowicze
+    Roman Igorowicz                                     ? i ?-1211 ( Roman (Igorowicz) wg Z.1205 ) [Prince of Halich]
   Bibliografia :
       Wielka wyprawa Księcia Racibora
+      Zawichost 1205
 
 East Friesland
   Bibliografia :
@@ -10676,6 +10740,7 @@ Francja ( France , Francie )
                                                         przed 1146-? ( Ludwik VII wg H.W. )
                                                         ? ( Louis VII wg N.T.V.S. )
                                                         1131/7-1180 ( Louis VII (Louis VII the Younger) wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1047-? ( Ludwik VII (Ludwik VII Młody) wg Z.1205 )
       Filip II August       	                          1180-1223 ( wg V.N.M.S.D. i D.Ś. i Tapsella i D.P.I.R.G. i D.B. ) ( Filip II. August (Filip II. Francouzský, Filip II., Filip, Philip Augustus) wg S.V.D.K.V. )
 			        	                                        przed 1190-po 1191 ( wg K.V. )
 	 			                                                przed 1213-? ( Filip August wg B.M. )
@@ -10685,6 +10750,7 @@ Francja ( France , Francie )
                                                         przed 1211-po 1213 ( Filip II (Philipp II August) wg F.H.C.R. )
                                                         1179/80-1223 ( Philip II (Philip II Augustus) wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Filip II. (Filip) wg P.U.D. )
+                                                        przed 1214-? (27.7.-?) ( wg Z.1205 )
       Ludwik VIII Lew  	                                1223-1226 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Louis VIII (Louis VIII the Lion) wg D.O.T.W.A.C.A.G.H. )
                                                         1223-1226 (?-8.11.) ( Ludvík VIII. (Ludvík) wg S.V.D.K.V. )
                                                         ? ( Ludwik VIII wg F.H.C.R. )
@@ -10937,6 +11003,7 @@ Francja ( France , Francie )
       Otton I Wielki
       Kijów 1018
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
+      Zawichost 1205
 
 Frankfurt
   Principality of Frankfurt
@@ -11299,7 +11366,7 @@ Galacja ( Królestwo Galatów )
       Krassus - Polityk niespełnionych ambicji
       Zaginione miasta - 50 najsłynniejszych odkryć
 
-Kingdom of Galicia and Lodomeria
+Kingdom of Galicia and Lodomeria ( Królestwo Galicii i Lodomerii )
   House of Habsburg
     Maria Theresa                                       1773-1780 [Empress Maria Teresa]
   House of Habsburg-Lorraine
@@ -12119,34 +12186,66 @@ Hajasa
       Arménie
 
 Halicz
-  Księstwo Halickie ( Principality of Halicz , Ruś Halickie )
+  Rościsław                                             ? ( wg Z.1205 ) [Prince of Tmutarakan] [Prince of Księstwo włodzimiersko-wołyńskie]
+  Księstwo Halickie ( Principality of Halicz , Ruś Halickie , Księstwo halickie )
     Vladimír		                                        ? ( wg Z.S.A.V.E. i F.B.C.A.R. )
     Władymyrko                                          1141-1153 ( wg W.W.K.R. )
-    Włodzimierz Igorowicz                               ? ( wg J.P.1242 )
+                                                        ?-1153 ( wg Z.1205 )
+    Jarosław                                            1153-1187 ( Ośmiomysł wg Z.1205 )
+    Jarosław                                            ? ( wg Z.1205 )
+    Rościsławowicze
+      Oleg                                              ?-1187 ( wg Z.1205 )
+      Włodzimierz Jarosławowicz                         1187-1188 i 1189-1198/9 ( Włodzimierz wg Z.1205 )
+    Roman Mścisławowicz                                 1188-1189 i 1199-? ( Roman Mścisławicz (Roman, Mścisławowicz) wg Z.1205 ) [Prince of Halich and Volyn]
+  Królestwo Halicza
+    Bela III                                            1188-? ( Bela wg Z.1205 ) [King of Hungary]
+  Księstwo Halickie
+    Andrzej II                                          ? ( wg Z.1205 ) [King of Hungary]
+    Igorowicze
+      Włodzimierz Igorowicz                             ? ( wg J.P.1242 ) [Prince of Księstwo nowogrodzko-siewierskie]
+                                                        ? i ?-1211 ( Włodzimierz wg Z.1205 )
+      Roman Igorowicz                                   ? ( Roman (Igorowicz) wg Z.1205 ) [Prince of Księstwo dźwinogrodzkie]
+    Rościsław Rurykowicz                                ?-1209 (?-jesień) ( wg Z.1205 )
+    Jarosławowicze
+      Mścisław Jarosławowicz                            1213-po 1213 (lato-?.9.) ( Mścisław Niemy (Mścisław) wg Z.1205 ) [Prince of Księstwo peresopnickie]
+  Władysław Kormilczycz                                 przed 1214-1214/5 (początek-koniec/początek) ( Wołodysław (Kormilczycz) wg Z.1205 )
+  Królestwo Halickie
     Koloman                                             1219-? (jesień-?) ( wg L.P.P. )
+                                                        1214/5-1217 i 1219-1221 (koniec/początek-? i ?) ( Koloman Halicki wg Z.1205 )
+  Księstwo Halickie  
     Mścisław Mścisławowicz Udały                        ? i przed 1221-po 1227 ( Mścisław Dawidowicz (Mścisław Mścisławowicz, Mścisław Udały) wg L.P.P. ) [Prince of Novgorod]
                                                         przed 1219-? ( Mścisław Nowogrodzki wg J.P.1242 )
-    Rościsław Michajłowicz                              ? ( wg L.P.P. )
+                                                        1217-po 1219 i 1221-po 1227 (?-jesień i ?-wiosna) ( Mścisław Mścisławowicz (Mścisław, Udały) wg Z.1205 )
+    Andrzej                                             1227-1230 i 1231/2-1233/4 (?-wiosna i koniec/początek-koniec/początek) ( wg Z.1205 )
     Romanowicze ( Dynastia Romanowiczów )
-      Daniel         	                                  ok.1239 n.e. ( wg D.Ś. )
+      Daniel         	                                  ok.1239 n.e. ( wg D.Ś. ) [King of Halicz]
                                                         ? ( Daniel Haličský wg Z.S.A.V.E. )
                                                         1245-1253/64 ( Danylo Romanovych Halitsky wg V.K.T.H.O.H.E. )
                                                         przed 1254-po 1256 ( wg Z.N.E. )
                                                         przed 1251-1253 (?-?.12.) ( Daniel Romanowicz wg L.P.P. )
                                                         przed 1250-1252 ( Daniel Halicki wg J.P.1242 )
-  Kingdom of Halicz ( Królestwo Halicza )
+                                                        1211-1213 i 1230-1231/2 i 1233/4-1235 i 1238-1264 (?-lato i wiosna-? i koniec/początek-lato i ?) ( Daniel Romanowicz (Romanowicz, Daniel Halicki) wg Z.1205 )
+    Michał Wsiewołodowicz Święty                        1235-? (lato-?) ( Michał Wsiewołodowicz (Michał) wg Z.1205 )
+    Rościsław Michajłowicz                              ? ( wg L.P.P. )
+  Kingdom of Halicz ( Królestwo Halicza , Królestwo Rusi )
     Romanowicze ( Dynastia Romanowiczów )
-      Danylo Romanovych Halitsky                        1253-1264 ( wg V.K.T.H.O.H.E. )
+      Danylo Romanovych Halitsky                        1253-1264 ( wg V.K.T.H.O.H.E. ) ( Daniel Romanowicz (Daniel, Daniel Halicki) wg Z.1205 )
                                                         1253-1264 (?.12.-wiosna) ( Daniel Romanowicz wg L.P.P. )
                                                         1252-? ( Daniel Halicki (Daniel) wg J.P.1242 )
   Księstwo Halickie ( Principality of Halicz )
     Romanowicze ( Dynastia Romanowiczów )
       Wasylko Romanowicz                                ? ( Wasylko (Wasilko) wg L.P.P. ) [Prince of Halich and Volyn]
       Szwarno                                           ? ( Švarno (Jerzy, Daniłowicz) wg L.P.P. ) [Grand Duke of Lithuania]
+                                                        przed 1265-po 1266 (?-19.6.) ( Szwarn Daniłowicz wg Z.1205 )
   Kingdom of Halicz ( Królestwo Halicza )
     Romanowicze ( Dynastia Romanowiczów )
       Lew Daniłowicz                                    przed 1271-po 1280 ( Lev Danilovič wg L.P.P. )
       Jerzy I Lwowic                                    przed 1302/3-po 1315 ( Jerzy Lwowicz wg L.P.P. )
+                                                        ? ( Jerzy Lwowicz (Jerzy I) wg Z.1205 )
+      Jurewicze
+        Andrzej II                                      ?-1323 ( wg Z.1205 )
+        Lew II                                          ?-1323 ( wg Z.1205 )
+      Bolesław Jerzy II                                 ?-1340 (?-21.3.) ( Bolesław Trojdenowic (Trojdenowic, Jerzy II, Bolesław Jerzy II Trojdenowicz) wg Z.1205 )
   Księstwo Halickie ( Principality of Halicz )
     Jurij Dmitrijevič	                                  1389-1434 (?-5.6.) ( wg E.P. )
   Bibliografia :
@@ -12159,6 +12258,7 @@ Halicz
       Wielka wyprawa Księcia Racibora
       Litwa - Początki Państw
       Jezioro Pejpus 1242
+      Zawichost 1205
 
 Halikarnas
   Artemizja                                             ok.480 p.n.e.
@@ -13623,7 +13723,7 @@ Italia ( Italy , Włochy , Itálie )
     Otto II                                             973-983 (?-?.12.) ( Otton II wg S.P.D.Z. ) [Holy Roman Emperor]
     Otto III                                            ?-1002 ( wg S.P.D.Z. ) [Holy Roman Emperor]
     Arduin z Ivrey               	                      ? ( wg Z.S.A.V.E. ) ( Ardoin wg H.W. )
-    Jindřich II ( Henryk II )      	                    ? ( wg Z.S.A.V.E. ) [Holy Roman Emperor]
+    Jindřich II ( Henryk II )      	                    ? ( wg Z.S.A.V.E. ) ( Henryk II Święty wg Z.1205 ) [Holy Roman Emperor]
                                                         ?-1024 ( wg S.P.D.Z. )
     Konrad II                                           ?-1039 ( wg S.P.D.Z. )
     Henryk III                                          ?-1056 ( wg S.P.D.Z. ) [Holy Roman Emperor]
@@ -13681,6 +13781,7 @@ Italia ( Italy , Włochy , Itálie )
       Otton I Wielki
       Kijów 1018
       Chlodwik król Franków
+      Zawichost 1205
 
 Państwo Ito
   Bibliografia :
@@ -14435,6 +14536,7 @@ Jerozolima ( Jeruzalém , Jerusalem )
       Fryderyk           	                              1225-1228 ( wg D.Ś. ) ( Frederick wg D.O.T.W.A.C.A.G.H. ) ( Fridrich (Fridrich II.) wg S.V.D.K.V. ) [Holy Roman Emperor Frederick II]
                                                         1225-? (?.12.-?) ( Fryderyk II Hohenstauf wg F.H.C.R. )
                                                         przed 1228-? ( Frederick wg H.O.W.P. )
+                                                        ? ( Fryderyk II Hohenstauf wg Z.1205 )
       Konrad II          	                              1228-1254 ( wg D.Ś. ) ( Conrad II wg D.O.T.W.A.C.A.G.H. ) ( Konrád II. (Konrád IV. Německý, Konrád II. Štaufský, Konrád IV., Konrád) wg S.V.D.K.V. ) [King of Germany Conrad IV]
                                                         przed 1243-1250 (25.4.-lato) ( Konrad wg F.H.C.R. )
       Konradyn          	                              1254-1268 ( wg D.Ś. ) ( Conradin wg D.O.T.W.A.C.A.G.H. ) ( Konrád III. (Konradin, Konrád III. Jeruzalémský) wg S.V.D.K.V. )
@@ -14462,6 +14564,7 @@ Jerozolima ( Jeruzalém , Jerusalem )
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
       History of Western Philosophy
+      Zawichost 1205
 
 County of Joigny
   Bibliografia :
@@ -14656,6 +14759,7 @@ Jugosławia ( Yugoslavia )
       Piotr II                  	                      1934-1945 ( wg D.Ś. i V.N.M.S.D. ) ( Peter II wg D.O.T.W.A.C.A.G.H. )
   Josip Broz Tito             	                        1953-1980 ( ?.6.-4.5. ) ( wg 100.N.V.S. )
       				                                          ? ( wg M.Ś. ) ( Tito wg V.K.T.H.O.H.E. )
+                                                        przed 1972-? ( Tito wg J.P.A. )
   Slobodan Milosević                                    przed 1997-2000 (?-?.10.) ( wg V.K.T.H.O.H.E. )
   Bibliografia :
       Dynastie Świata
@@ -14664,6 +14768,7 @@ Jugosławia ( Yugoslavia )
       Mocarstwa Świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Ja, Pustelnik. Autobiografia
 
 Jurjew Polski
   Abdullatif                                            przed 1509-po 1511 ( wg N.G.R.B.I.N.S. ) [Khan of Kazan]
@@ -15905,7 +16010,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
   Dir                                                   862-882 ( wg B.S. i K.1018 )
   Dynastia Rurykowiczów ( Ryurikid dynasty , House of Rurik , Ród Rurykowiczów , Rurykowicze )
     Ruryk                                     	        862-878 ( wg V.N.M.S.D. )
-                                                        ? ( wg Z.N.E. )
+                                                        ? ( wg Z.N.E. i Z.1205 )
     Oleg                                      	        893-924 ( wg D.Ś. ) [Ruler of Novgorod]
       				        	                                ok.882-? ( wg D.P.I.R.G. )
       				        	                                przed 907-? ( wg D.B. )
@@ -15940,6 +16045,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         przed 967-972 ( Światosław wg B.S. )
                                                         942-972 ( Światosław Igorowicz wg J.P.1242 )
                                                         961-972 ( Światosław wg K.1018 )
+                                                        przed 965-? ( Światosław Igorowicz wg Z.1205 )
     Jaropełk I                              	          972-978 ( wg D.Ś. ) ( Yaropolk I wg D.O.T.W.A.C.A.G.H. )
                                                         973-980 ( wg V.N.M.S.D. )
       				        	                                ?-980 ( Jaropolk wg D.B. )
@@ -15955,10 +16061,12 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         przed 988-1015 (jesień-?) ( Włodzimierz I Wielki (Włodzimierz) wg B.S. )
                                                         przed 988/9-? ( Vladimir wg S.V.D.K.V. )
                                                         978-1015 (?-15.7.) ( Włodzimierz Wielki (Włodzimierz, Bazyli, Włodzimierz I Wielki) wg K.1018 )
+                                                        przed 981-1015 ( Włodzimierz Wielki (Włodzimierz, Włodzimierz I  Wielki, Włodzimierz I Święty, Włodzimierz I Chrzciciel, Waldemar I Wielki, Waldemar I Święty, Waldemar I Chrzciciel) wg Z.1205 )
     Światopełk I Przeklęty            	                1015-1019 ( wg D.Ś. ) ( Sviatopolk (Svyatopolk I) wg N.T.V.S. ) ( Svyatopolk I wg D.O.T.W.A.C.A.G.H. )
       				       	                                  1015-? ( Svjatopolk wg Z.S.A.V.E. )
                                                         ?-1019 ( Światopełk wg B.S. )
                                                         1015-1017 i 1018-1019 (?-?.1. i 15.8.-lato) ( Światopełk (Światopełk Przeklęty, Búrizlaf) wg K.1018 )
+                                                        przed 1018-? ( Światopełk wg Z.1205 )
     Jarosław I Mądry                 	                  1019-1054 ( wg D.Ś. ) ( Jaroslav Moudrý wg D.P.I.R.G. i D.B. ) ( Yaroslav the Wise wg N.T.V.S. ) ( Yaroslav I (Yaroslav I the Wise) wg D.O.T.W.A.C.A.G.H. )
                                                         1015-1054 ( wg V.N.M.S.D. )
       				                                          przed 1017-po 1039 ( Jaroslav wg Z.S.A.V.E. )
@@ -15968,12 +16076,14 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         przed 1038-po 1044 ( Jarosław Mądry (Jaroslav) wg L.P.P. )
                                                         przed 1024-? ( Jarosław Mądry wg J.P.1242 )
                                                         1017-po 1018 i 1019-1054 (?.1.-14.8. i ?) ( Jarosław Mądry (Jarosław) wg K.1018 )
+                                                        przed 1017-? i ?-1054 ( Jarosław Mądry (Jarosław) wg Z.1205 )
     Mścisław I                                          przed 1024-po 1026 ( wg B.S. )
     Izjasław I                                 	        1054-1068 i 1069-1073 i 1077-1078 ( wg D.Ś. ) ( Izyaslav I wg D.O.T.W.A.C.A.G.H. )
                                                         1054-1078 ( wg V.N.M.S.D. )
       				        	                                1054-1073 ( Izjaslav I wg Z.S.A.V.E. )
                                                         przed 1058-? ( Izjasław wg Z.N.E. )
                                                         przed 1065-po 1067 (?-zima) ( Iziaław wg B.S. )
+                                                        1054-? ( Izjasław (Iziasław) wg Z.1205 )
     Wsiesław Briaczysławowicz	                          1068-1069 ( wg D.Ś. ) ( Vseslav wg D.O.T.W.A.C.A.G.H. )
     Światosław II                           	          1073-1076 ( wg D.Ś. ) ( Svjatoslav wg Z.S.A.V.E. ) ( Svyatoslav II wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1065-po 1067 (?-zima) ( Światosław wg B.S. )
@@ -15983,35 +16093,52 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
     Światopełk II Michał                 	              1093-1113 ( wg D.Ś. ) ( Svjatopolk II wg Z.S.A.V.E. ) ( Svyatopolk II wg D.O.T.W.A.C.A.G.H. )
                                                         1093-1114 ( wg V.N.M.S.D. )
                                                         przed 1094-? ( Świętopełk Izjasławicz wg J.P.1242 )
-    Włodzimierz II Monomach       	                    1113-1125 ( wg D.Ś. ) ( Vladimír Monomach wg D.B. i Z.S.A.V.E. ) ( Vladimir II (Vladimir II Monomakh) wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1097-po 1099 ( Światopełk (Światopełk II Michał Izjasławowicz) wg Z.1205 )
+    Włodzimierz II Monomach       	                    1113-1125 ( wg D.Ś. ) ( Vladimír Monomach wg D.B. i Z.S.A.V.E. ) ( Vladimir II (Vladimir II Monomakh) wg D.O.T.W.A.C.A.G.H. ) ( Włodzimierz Monomach (Włodzimierz, Monomach) wg Z.1205 )
                                                         1114-1125 ( wg V.N.M.S.D. )
                                                         ? ( Vladimír Monomach wg Ř.S.J.Ď.S. ) ( Włodzimierz Monomach wg N.I.B.W.XI.S. i J.P.1242 )
                                                         ?-1125 ( Włodzimierz Monomach (Włodzimierz II Monomach) wg N.G.R.B.I.N.S. )
-    Mścisław I                              	          1125-1132 ( wg D.Ś. i V.N.M.S.D. ) ( Mstislav wg Z.S.A.V.E. ) ( Mstislav I wg D.O.T.W.A.C.A.G.H. )
+    Mścisław I                              	          1125-1132 ( wg D.Ś. i V.N.M.S.D. ) ( Mstislav wg Z.S.A.V.E. ) ( Mstislav I wg D.O.T.W.A.C.A.G.H. ) ( Mścisław Wielki (Mścisław I Harald, Mścisław I Wielki) wg Z.1205 )
                                                         przed 1128-po 1131 ( Mścisław Włodzimierzowicz wg L.P.P. )
     Jaropełk II                              	          1132-1139 ( wg D.Ś. )
                                                         1132-1138 ( wg V.N.M.S.D. ) ( Yaropolk II wg D.O.T.W.A.C.A.G.H. )
     Wiaczesław                            	            1139 ( wg D.Ś. ) ( Vyacheslav wg D.O.T.W.A.C.A.G.H. )
-    Wsiewołod II Olegowicz        	                    1139-1146 ( wg D.Ś. ) ( Vsevolod II wg D.O.T.W.A.C.A.G.H. )
+    Olegowicze
+      Wsiewołod II Olegowicz        	                  1139-1146 ( wg D.Ś. ) ( Vsevolod II wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1145-? ( Wsiewołod Olegowicz wg Z.1205 )
     Igor II                                      	      1146 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
     Izjasław II                               	        1146-1154 ( wg D.Ś. ) ( Izjaslav Mstislavič wg E.P. ) ( Izyaslav II wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1147-po 1149 ( Izjasław Mścisławowicz (Izjasław II Pantelejmon) wg Z.1205 )
     Izjasław III Dawidowicz        	                    1154-1155 i 1157-1158 i 1161 ( wg D.Ś. ) ( Izyaslav III wg D.O.T.W.A.C.A.G.H. )
     Jurij I Dołgoruki                      	            1155-1157 ( wg D.Ś. ) ( Yurii I (Yurii I Dolgorukii) wg D.O.T.W.A.C.A.G.H. )
                                                         1154-1157 ( wg V.N.M.S.D. )
       					                                        ? ( Jurij Dolgoruký wg E.P. ) ( Jerzy Dołgorukij wg J.P.1242 )
+                                                        ? ( Jerzy Dołgoruki wg Z.1205 )
     Mścisław II Chrobry               	                1158-1159 i 1167-1169 ( wg D.Ś. ) ( Mstislav II wg D.O.T.W.A.C.A.G.H. )
                                                         1157-1177 ( wg V.N.M.S.D. )
+                                                        ? i ? ( Mścisław Izjasławowicz (Mścisław, Mścisław Chrobry, Mścisław II Izjasławowicz) wg Z.1205 )
     Rościsław                              	            1159-1161 i 1161-1167 ( wg D.Ś. ) ( Rostislav I wg D.O.T.W.A.C.A.G.H. )
     Boris			  	                                      ? ( wg D.B. )
     Gleb                                        	      1169-1171 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ? ( wg D.B. )
     Jarosław Światopełkowicz                            przed 1180-? ( wg L.P.P. )
+    Ruryk Rościsławowicz                                przed 1194-po 1201 i 1203-1204 i ? ( Ruryk wg Z.1205 )
+    Mścisławowicze
+      Ingwar Jarosławowicz                              przedd 1203-? (2.1.-?) ( wg Z.1205 )
+    Roman Mścisławowicz                                 ? ( Roman II (Roman) wg Z.1205 )
+    Rościsław                                           ? ( wg Z.1205 )
+    Mścisław Mścisławowicz Stary                        przed 1217-1223 (?-po 31.5.) ( Mścisław (Mścisław Romanowicz) wg Z.1205 )
     Włodzimierz Rurykowicz                              ? ( wg L.P.P. )
+                                                        przed 1225-1238 ( Włodzimierz wg Z.1205 )
     Dynastia Wsiewołodowiczów
       Jarosław Wszewołodowicz                           ? ( wg L.P.P. ) [Grand Prince of Vladimir]
                                                         przed 1245-? ( Jarosław Wsiewołodowicz (Jarosław) wg J.P.1242 )
+                                                        1238 i przed 1245-? ( Jarosław Wsiewołodowicz wg Z.1205 )
     Michał                                  	          ok.1239 ( wg I.M. )
                                                         ? ( Michał Czernihowski (Michał, Michał Wsiewołodowicz) wg J.P.1242 )
+                                                        ?-1239 ( Michał Wsiewołodowicz (Michał Wsiewołodowicz Święty) wg Z.1205 )
+    Rościsław Mścisławowicz                             1239 ( Rościsław wg Z.1205 )
+    Daniel Romanowicz                                   1239-? ( Daniel wg Z.1205 ) [King of Halicz]
     Giedyminowicze
       Fedor                                             1331-? ( Fiodor wg L.P.P. )
     Włodzimierz Olgierdowicz                            1262/63/65/66/67/68/69/70-? ( Włodzimierz wg L.P.P. )
@@ -16038,6 +16165,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
       Goci - Rzeczywistość i legenda
       Otton I Wielki
       Kijów 1018
+      Zawichost 1205
 
 Kikapu ( Kickapoo )
   Bibliografia :
@@ -16079,15 +16207,19 @@ Kipczacy ( Kipchaks , Połowcy , Kipczakowie , Kumanie )
   Szarukan                                              ? ( wg G.R.I.L. )
   Tuhorkan                                              przed 1094 n.e.-? ( wg J.P.1242 )
   Baszkord                                              przed 1151-? ( wg J.P.1242 )
+  Konczak                                               przed 1185-? ( wg Z.1205 )
   Jurij Konczakowicz                                    ? ( wg J.P.1242 )
   Kotjan                                                przed 1219-1241 ( Kocjan wg J.P.1242 )
                                                         ? ( wg L.P.P. )
+                                                        przed 1221-1241 ( wg Z.1205 )
+  Begowars                                              ok.1230 ( wg Z.1205 )
   Bachman                                               ? ( wg T.S.O.I.C.O.T.W. )
   Bibliografia :
       Tamerlane - Sword of Islam, Conqueror of the World
       Litwa - Początki Państw
       Jezioro Pejpus 1242
       Goci - Rzeczywistość i legenda
+      Zawichost 1205
 
 Kipin
   Bibliografia :
@@ -16905,6 +17037,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
       						                                      przed 1152-po 1153 ( Evžen III wg F.B.C.A.R. )
                                                         przed 1147-? ( wg S.P.D.Z. )
                                                         ? ( Eugenius III (Eugenius) wg N.T.V.S. )
+                                                        przed 1148-? ( wg Z.1205 )
     Anastazjusz IV ( Corrado della Subarra )          	1153-1154 ( wg Tapsella ) ( Anastasius IV. wg S.V.D.K.V. )
                        					     	                  przed 1154-? ( Anastasius IV wg F.B.C.A.R. )
     Hadrian IV ( Mikołaj Breakspear )                  	1153-1159 ( wg D.Ś. )
@@ -16949,13 +17082,14 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
                                                         przed 1193-? ( Celestine wg N.T.V.S. )
                                                         przed 1195-? ( wg J.P.1242 )
     Innocenty III ( Lotario di Segni )                 	1198-1216 ( wg Tapsella i V.N.M.S.D. i N.I.B.W.XI.S. ) ( Innocenc III wg D.B. ) ( Innocent III (Innocent) wg H.O.W.P. )
-      		       					                              1198-1216 ( ?-16.7. ) ( wg K.V. )
+      		       					                              1198-1216 (?-16.7.) ( wg K.V. )
       						                                      przed 1204-? ( Inocenc III wg E.P. )
                                                         przed 1198-? ( wg H.W. )
                                                         1198-1216 (8.1.-16.7.) ( Lotar Segni wg F.H.C.R. ) ( Inocenc III. (Inocenc, Lotario, Lotario ze Segni, Innocent III) wg S.V.D.K.V. )
                                                         przed 1202-1216 (22.11.-?) ( wg L.1241. )
                                                         1198-po 1204 ( wg J.P.1242 )
                                                         przed 1212-? ( Innocent III wg N.B.Y.T.S.O.W.W.T.A.W.W.B. )
+                                                        ? ( wg Z.1205 )
     Honoriusz III ( Cencio Savelli )                   	1216-1227 ( wg V.N.M.S.D. i Tapsella )
                                                         1216-1227 (przed ?.9.-?) ( Honorius III. (Cencius Savelli) wg S.V.D.K.V. )
                                                         1216-1227 (18.7.-18.3.) ( Cencio Savelli wg F.H.C.R. )
@@ -16963,6 +17097,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
                                                         przed 1218-po 1227 (?-17.1.) ( wg J.P.1242 )
                                                         przed 1225-? ( Honorius III wg H.O.W.P. )
                                                         ?-1227 ( Honorius III (Honorius) wg H.O.W.P. )
+                                                        przed 1222-? (27.1.-?) ( wg Z.1205 )
     Grzegorz IX  ( Ugolini di Segni )                  	1227-1241 ( wg Tapsella i V.N.M.S.D. )
                                                         1227-1241 (?.3.-?) ( Řehoř IX. (Ugolino z Ostie, Řehoř, Ugolino) wg S.V.D.K.V. )
                                                         przed 1234-? ( Gregory IX wg V.K.T.H.O.H.E. )
@@ -16973,6 +17108,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
                                                         przed 1237-? ( wg L.P.P. )
                                                         przed 1236-po 1237 (?-9.12.) ( wg J.P.1242 )
                                                         przed 1228-1241 ( Gregory IX (Gregory) wg H.O.W.P. )
+                                                        przed 1231-po 1235 ( wg Z.1205 )
     Celestyn IV ( Goffredo Castiglione )              	1241-1243 ( wg Tapsella )
                                                         ? ( wg H.W. )
                                                         1241 (25.10.-10.11.) ( Goffryd z Castiglione (Goffryd) wg F.H.C.R. )
@@ -17238,6 +17374,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
                                                         przed 1980-2005 (17.2.-2.4.) ( wg K.W.P.M.N.C. )
                                                         przed 2001-? ( Jan Pavel II. wg S.V.D.K.V. )
                                                         1978-po 1980 (16.10.-?.6.) ( wg G.T.N.B.E. )
+                                                        1978-po 1980 (16.10.-17.2.) ( wg J.P.A. )
     Francis                                             ? ( wg E.N.T.C.F.R.S.H.A.P. )
                                                         przed 2016-? ( wg N.B.Y.T.S.O.W.W.T.A.W.W.B. )
   Bibliografia :
@@ -17302,6 +17439,8 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
       Kijów 1018
       Chlodwik król Franków
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
+      Ja, Pustelnik. Autobiografia
+      Zawichost 1205
 
 Kotyora
   Bibliografia :
@@ -18373,6 +18512,7 @@ Litwa ( Litva , Lithuania )
     Mindaugas ( Mendog )                                przed 1246-1253 ( wg Z.N.E. )
                                                         ? ( Min'dovg (Mindowe, Mindot, Myndowe, Midog) wg L.P.P. ) ( wg S.V.D.K.V. )
                                                         przed 1238-? ( wg J.P.1242 )
+                                                        przed 1238-1263 (?-12.8.) ( wg Z.1205 )
   Królestwo Litwy
     Mindaugas ( Mendog )                                1253-1263 ( Mindoug wg V.K.T.H.O.H.E. )
                                                         1253-po 1261 ( wg Z.N.E. )
@@ -18397,18 +18537,21 @@ Litwa ( Litva , Lithuania )
       Gedymin ( Gediminas )      	                      1316-1341 ( wg V.K.T.H.O.H.E. i D.Ś. )
                                                         ok.1316-ok.1341 ( wg D.O.T.W.A.C.A.G.H. )
                                                         1315/6-1341/2 (?-zima) ( Giedymin (Jedemen, Gegiminik, Gedemyne, Gedeminne, Gedeminni, Gedemyn) wg L.P.P. )
+                                                        ? ( Giedymin wg Z.1205 )
       Jawnuta ( Jaunutis )            	                1341-1345 ( wg D.Ś. ) ( Yevnut (Ivan) wg V.K.T.H.O.H.E. )
                                                         1341/2-1344/5 ( Iwan wg L.P.P. )
                                                         ok.1341-ok.1345 ( wg D.O.T.W.A.C.A.G.H. )
       Olgierd ( Algirdas )              	              1345-1377 ( wg D.Ś. ) ( Algierdas wg V.K.T.H.O.H.E. )
                                                         ok.1345-1377 ( wg D.O.T.W.A.C.A.G.H. )
                                                         1345-1377 (przed ?.11.-ok.24.5.) ( Olgierd Giedyminowicz wg L.P.P. )
+                                                        ? ( wg Z.1205 )
       Kiejstut ( Kęstutis )              	              1345-1382 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1381-? ( wg L.P.P. )
       Jagiełło ( Jogaila )             	                1377-1392 ( wg D.Ś. ) ( Władysław II Jagiełło wg D.O.T.W.A.C.A.G.H. ) [King of Poland Władysław II Jagiełło]
       				       	                                  przed 1386-? ( wg Z.S.A.V.E. ) ( Jahelko wg S.V.D.K.V. )
                                                         1377-1401 ( Władysław Jagiełło (Ladislas-Jagiełło) wg V.K.T.H.O.H.E. )
                                                         1377-po 1378 ( Władysław Jagiełło (Jagiełło Władysław) wg L.P.P. )
+                                                        ? ( Władysław Jagiełło (Jagiełło) wg Z.1205 )
       Witold ( Vytautas ) Wielki	                      1392-1430 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1401-1430 ( wg V.K.T.H.O.H.E. )
                                                         ok.1350 ( Witold wg Z.N.E. )
@@ -18455,6 +18598,7 @@ Litwa ( Litva , Lithuania )
       Svaté války - Dějiny křižových výprav
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
       Goci - Rzeczywistość i legenda
+      Zawichost 1205
 
 Litwini
   Dom Centaurów ( House of Kentauras )
@@ -18951,13 +19095,19 @@ Cesarstwo Łacińskie ( Imperium Łacińskie , The Empire of Constantinople , La
       Mocarstwa Świata
       History of Western Philosophy
 
-Księstwo Łuckie
+Księstwo Łuckie ( Księstwo łuckie , Łuck )
+  Światosza                                             przed 1099 n.e.-? ( wg Z.1205 )
+  Jarosław Izjasławicz                                  przed 1170-ok.1175 ( Jarosław wg Z.1205 )
+  Mścisław Jarosławowicz                                ? ( wg Z.1205 )
+  Mścisław Mścisławowicz                                przed 1221-po 1221 (początek-?.3.) ( Mścisław (Mścisław II Udały Mścisławowicz) wg Z.1205 ) [Prince of Novgorod] [Prince of Halicz]
+  Aleksander                                            ? ( wg Z.1205 )
   Romanowicze ( Dynastia Romanowiczów )
-    Mścisław Daniłowicz                                 przed 1289 n.e.-? ( Mścisław wg L.P.P. )
+    Mścisław Daniłowicz                                 przed 1289-? ( Mścisław wg L.P.P. )
   Lubart Giedyminowicz                                  przed 1335-po 1349 ( Lubart wg L.P.P. )
   Fiodor                                                ? ( wg L.P.P. )
   Bibliografia :
       Litwa - Początki Państw
+      Zawichost 1205
 
 Łużyce Dolne
   Dietrich II		                                        przed 1179 n.e.-?
@@ -19974,11 +20124,13 @@ Mazowsze
   Państwo Miecława
     Maslav ( Miecław )                                  ? ( wg Z.S.A.V.E. i Z.N.E. i L.P.P. )
                                                         ?-1047 n.e. ( wg B.S. )
+                                                        przed 1041-? ( Masław wg Z.1205 )
   Bibliografia :
       Zrod střední a východní Evropy
       Zapomianie narody Europy
       Bitwy Słowian
       Litwa - Początki Państw
+      Zawichost 1205
 
 County of Mâcon
   Bibliografia :
@@ -20481,10 +20633,12 @@ Min Jüe
   Bibliografia :
       Historia Chin
 
-Księstwo Mińskie
+Księstwo Mińskie ( Księstwo mińskie )
+  Włodzimierz Wołodarewicz                              przed 1182 n.e.-? ( wg Z.1205 )
   Wasyl                                                 ? ( Vasili wg L.P.P. )
   Bibliografia :
       Litwa - Początki Państw
+      Zawichost 1205
 
 Mira
   Bibliografia :
@@ -20849,10 +21003,10 @@ Mongołowie ( Mongols , Mongolové )
   Ambakaj-kahan		                                      ? ( wg D.Ś. ) ( Ambakaj-chan (Ambakaj) wg L.1241. )
   Kutuła-kahan		                                      ? ( wg D.Ś. ) ( Kutuła wg L.1241. )
   Dżamuka                                               przed 1204 n.e.-? ( wg L.1241. )
-  Temuchin                                              przed 1206-? ( wg T.S.O.I.C.O.T.W. )
+  Temuchin                                              przed 1206-? ( wg T.S.O.I.C.O.T.W. ) ( Temudżyn wg Z.1205 )
                                                         ok.1200-? ( Temudżyn wg L.1241. )
   Imperium Mongołów ( Mongol Empire )
-    Czyngis Chan ( Temudżyn )                           1206-1227 ( wg D.Ś. i K.V. i H.C. ) ( Czyngis-chan wg T.Z.H.K. ) ( Czyngis-chan (Dżengischan) wg L.1241. ) ( Borjigin Temujin (Genghis Khan) wg T.O.M.O.C.S.D. ) ( Genghis Khan (Chinghiz Khan, Genghis, Temuchin, Chinghiz, Chingis Khan, Chinggis Khan, Zingis Khan, Tchinguiz-Khan, Chingiz Khan, Jenghiz Khan) wg T.S.O.I.C.O.T.W. )
+    Czyngis Chan ( Temudżyn )                           1206-1227 ( wg D.Ś. i K.V. i H.C. ) ( Czyngis-chan wg T.Z.H.K. i Z.1205 ) ( Czyngis-chan (Dżengischan) wg L.1241. ) ( Borjigin Temujin (Genghis Khan) wg T.O.M.O.C.S.D. ) ( Genghis Khan (Chinghiz Khan, Genghis, Temuchin, Chinghiz, Chingis Khan, Chinggis Khan, Zingis Khan, Tchinguiz-Khan, Chingiz Khan, Jenghiz Khan) wg T.S.O.I.C.O.T.W. )
       			    	                                      ?-1227 ( wg 100.N.V.S. ) ( Čingischán wg S.V.D.K.V. i E.P. ) ( Czyngis-chan (Temudżyn) wg N.G.R.B.I.N.S. )
       			       	                                    ? ( wg D.J. ) ( Čingischán wg D.P.I.R.G. i N.G.Z.M. i H.S.J.M. ) ( Džingischán wg S.V.J.Ž.Ž. ) ( Gengis Khan wg V.K.T.H.O.H.E. i G.R.I.L. ) ( Czyngis-chan wg Z.N.E. i J.P.1242 ) ( Jenghiz Khan wg H.O.W.P. )
           				                                      przed 1220-? ( Džingischán wg D.B. )
@@ -20869,6 +21023,7 @@ Mongołowie ( Mongols , Mongolové )
                                                         przed 1232-po 1239 ( Ögödej (Ögedej) wg A.Č.D. )
                                                         przed 1235-1241 (?-?.12.) ( Ogedey wg T.S.O.I.C.O.T.W. )
                                                         1229-? ( Ugedej (Ugedej-chan) wg L.1241. )
+                                                        1229-po 1241 ( Ugedej wg Z.1205 )
     Toregene		                                        ? ( wg E.P. )
                                                         1242-1246 ( Toregene Khatun wg T.O.M.O.C.S.D. )
     Küjük ( Güjük )	                                    1245-1251 ( wg D.Ś. )
@@ -20933,6 +21088,7 @@ Mongołowie ( Mongols , Mongolové )
       Goci - Rzeczywistość i legenda
       History of Western Philosophy
       Burzliwe dzieje Kalifatu Bagdadzkiego
+      Zawichost 1205
 
 Monopoli
   Hugon Tudebusis                                       ?
@@ -21157,9 +21313,11 @@ Murcja ( Murcie )
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
-Księstwo Muromskie
+Księstwo Muromskie ( Księstwo muromskie )
+  Dawid Światosławowicz                                 ? ( wg Z.1205 ) [Prince of Czernigov]
+  Wsiewołod Dawidowicz                                  przed 1124 n.e.-? ( wg Z.1205 )
   Bibliografia :
-      Litwa - Początki Państw
+      Zawichost 1205
 
 Musasir ( Ardini )
   Urzana                                                przed 714 p.n.e.-?
@@ -21616,6 +21774,7 @@ Królestwo Neapolu i Sycylii ( Kingdom of Sicily, Kingdom of Naples , Sicilské 
     Fryderyk I     	                                    1197-1250 ( wg D.Ś. i V.N.M.S.D. ) ( Frederick I wg D.O.T.W.A.C.A.G.H. ) ( Fridrich I. (Fridrich II., Fridrich, Fridrich II. Štaufský) wg S.V.D.K.V. ) ( Frederick wg H.O.W.P. ) [Holy Roman Emperor Frederick II]
                                                         ?-1250 ( Frederick II of Hohenstaufen wg V.K.T.H.O.H.E. )
                                                         1198-1250 (17.5.-13.12.) ( Fryderyk II Hohenstauf (Konstantyn, Fryderyk Roger, Fryderyk, Hohenstauf, Federico II, Friedrich II, Federico, Al-Anbaratur, Fryderyk II Stauf, Frederick II of Hohenstaufen, Friedrich der Zweite, Friedrich, Friedrich II. der Hohenstaufe, Friedrich II., Fryderyk Hohenstauf, Friedrich II. von Hohenstaufen) wg F.H.C.R. )
+                                                        ? ( Fryderyk II Hohenstauf wg Z.1205 )
     Henryk                                              przed 1212-? (?.3.-?) ( Henryk VII wg F.H.C.R. )
     Konrad          	                                  1250-1254 ( wg D.Ś. i V.N.M.S.D. ) ( Conrad wg D.O.T.W.A.C.A.G.H. ) ( Konrád I. (Konrád IV. Německý) wg S.V.D.K.V. ) [Holy Roman Emperor Conrad IV]
     Konradyn      	                                    1254-1258 ( wg V.N.M.S.D. ) ( Konrád II. (Konradin) wg S.V.D.K.V. )
@@ -21657,6 +21816,7 @@ Królestwo Neapolu i Sycylii ( Kingdom of Sicily, Kingdom of Naples , Sicilské 
       History of Western Philosophy
       Pírátství - Úplné dějiny
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
+      Zawichost 1205
 
 Neapolis Scytyjska
   Palako(a,e)s                                          ok.110 p.n.e.
@@ -21865,7 +22025,7 @@ Niemcy ( Germany , Německo , Deutschland )
                                                         936-973 ( Otton I wg Z.N.E. ) ( Otto I (Otto I the Great) wg D.O.T.W.A.C.A.G.H. )
                                                         936-972/3 (7.8.-?) ( Otto I Wielki (Otton I, Otto) wg S.P.D.Z. )
                                                         przed 936-po 972 ( Otto I Wielki (Otton, Otton I, Otton I Wielki) wg B.S. )
-                                                        przed 955-? ( Otton I wg L.1241. )
+                                                        przed 955-? ( Otton I wg L.1241. ) ( Otton I Wielki wg Z.1205 )
                                                         ? ( Ota I. wg S.V.D.K.V. )
                                                         936-973 (7/10.8.-7.5.) ( Otton I Wielki (Wielki Otton, Hutu, Hoto, Otto I., Otton, Otton I, Otton Wielki, Otto der Grosse, Otton I "Wielki", Hōtto, Otto der Große) wg O.I.W. )
                                                         936-po 968 ( Otton I (Otton) wg K.1018 )
@@ -21883,6 +22043,7 @@ Niemcy ( Germany , Německo , Deutschland )
                                                         przed 1002-po 1018 ( wg B.S. )
                                                         1002-1024 ( St Henry II wg D.O.T.W.A.C.A.G.H. ) ( Jindřich II. wg S.V.D.K.V. ) ( Henryk II (Henryk) wg K.1018 )
                                                         przed 1004-1024 ( Henryk II (Heinrich II.) wg O.I.W. )
+                                                        ? ( Henryk II Święty wg Z.1205 )
     Salian House
       Konrad II                                         przed 1033-1039 ( wg S.P.D.Z. ) [Holy Roman Emperor]
                                                         ? ( Konrad II. wg B.S. )
@@ -21910,7 +22071,7 @@ Niemcy ( Germany , Německo , Deutschland )
       Lotar III                                         1125-po 1134 ( Lotar z Supplinburga wg Z.N.E. ) [Holy Roman Emperor]
                                                         1125-1137 (?-4.12.) ( Lotar III z Supplinburga wg W.W.K.R. )
                                                         1125-1137 ( Lotar z Supplinburga wg S.P.D.Z. ) ( Lothair II of Saxony wg D.O.T.W.A.C.A.G.H. ) ( Lothar III. wg S.V.D.K.V. )
-    House of Hohenstaufen
+    House of Hohenstaufen ( Staufowie )
       Konrad III                                        przed 1142-1152 ( wg S.P.D.Z. ) [Holy Roman Emperor]
                                                         ? ( Conrad III wg N.T.V.S. )
                                                         1127-1135 i 1138-1152 ( Conrad III wg D.O.T.W.A.C.A.G.H. )
@@ -21925,10 +22086,12 @@ Niemcy ( Germany , Německo , Deutschland )
       Filip Szwabski                                    przed 1203-? ( wg H.W. )
                                                         1198-1208 (?.3./8.9.-21.6.) ( wg F.H.C.R. )
                                                         1198-1208 ( Philip of Swabia wg D.O.T.W.A.C.A.G.H. ) ( Filip Švábský wg S.V.D.K.V. )
+                                                        przed 1205-? ( wg Z.1205 )
     Welfowie ( House of Welf )
       Otton IV                                          1198-1218 (9.6./12.7.-19.5.) ( Otton z Brunszwiku (Otto, Otto IV, Otton Welf, Otton IV Welf, Otton) wg F.H.C.R. ) [Holy Roman Emperor]
                                                         1198-1218 ( Otto IV of Brunswick wg D.O.T.W.A.C.A.G.H. )
                                                         1198-1214 (?-po ?.7.) ( Ota IV. Brunšvický (Ota IV.) wg S.V.D.K.V. )
+                                                        przed 1205-? ( Otto IV z Brunszwiku wg Z.1205 )
     House of Hohenstaufen
       Fryderyk II                                       1196/1211/1212-1250 (25.12./?.9./5.12.-13.12.) ( Fryderyk II Hohenstauf (Konstantyn, Fryderyk Roger, Fryderyk, Hohenstauf, Federico II, Friedrich II, Federico, Al-Anbaratur, Fryderyk II Stauf, Frederick II of Hohenstaufen, Friedrich der Zweite, Friedrich, Friedrich II. der Hohenstaufe, Friedrich II., Fryderyk Hohenstauf, Friedrich II. von Hohenstaufen) wg F.H.C.R. ) [Holy Roman Emperor]
                                                         1212-1250 ( Frederick II (Frederick I) wg D.O.T.W.A.C.A.G.H. )
@@ -22082,6 +22245,7 @@ Niemcy ( Germany , Německo , Deutschland )
       Kijów 1018
       Polscy himalaiści - Pierwsza polska wyprawa w Himalaje
       Chlodwik król Franków
+      Zawichost 1205
 
 Niger
   Bibliografia :
@@ -22560,13 +22724,17 @@ Księstwo Nowogrodzkie ( Novgorod , Nowogród )
       Kijów 1018
 
 Księstwo nowogrodzko-siewierskie
-  Igor Świętosławowicz                                  ? ( wg J.P.1242 )
-                                                        przed 1185 n.e.-? ( Igor Światosławowicz (Igor) wg G.R.I.L. )
+  Wsiewołod Olegowicz                                   ? ( wg Z.1205 )
+  Igor Świętosławowicz                                  ? ( wg J.P.1242 ) [Prince of Czernigov]
+                                                        przed 1185 n.e.-? ( Igor Światosławowicz (Igor) wg G.R.I.L. i Z.1205 )
+  Igorowicze
+    Włodzimierz Igorowicz                               ? ( Włodzimierz wg Z.1205 ) [Prince of Halicz]
   Dymitr Korybut Olgierdowicz                           przed 1388-? ( wg L.P.P. )
   Bibliografia :
       Litwa - Początki Państw
       Jezioro Pejpus 1242
       Goci - Rzeczywistość i legenda
+      Zawichost 1205
 
 Nowogród Wielki ( Novgorod , Nowgorod )
   Vladimír                 	                            przed 980 n.e.-? ( wg D.B. ) [Prince of Kiev]
@@ -22578,10 +22746,13 @@ Nowogród Wielki ( Novgorod , Nowgorod )
   Briaczysław                                           ? ( Vartilaf wg K.1018 )
   Włodzimierz                                           przed 1043-? ( wg N.I.B.W.XI.S. )
   Księstwo Nowogrodzkie ( Principality of Novgorod , Republika Nowogrodzka , Pan Nowogród Wielki , Republika Wielkiego Nowogrodu )
+    Wsiewołod Mścisławowicz                             przed 1136-? ( wg Z.1205 )
+    Roman                                               1168-1170 ( Mścisławowicz (Roman Mścisławowicz, Roman II halicki) wg Z.1205 ) [Prince of Księstwo Halicko-Włodzimierskie Roman] [Prince of Kiev Roman]
     Igor Svjatoslavič	                                  1178-1202 ( wg E.P. )
     Ród Rościsławowiczów
       Mścisław Mścisławowicz Udały                      1209-1215 i 1216-1218 ( Mścisław Dawidowicz (Mścisław Mścisławowicz, Mścisław Udały) wg L.P.P. ) [Prince of Halich]
                                                         przed 1216-po 1219 ( Mścisław Udały wg J.P.1242 )
+                                                        przed 1217-? ( Mścisław Mścisławowicz (Mścisław, Udały, Mścisław II Udały Mścisławowicz) wg Z.1205 )
     Dynastia Wsiewołodowiczów
       Jarosław Wszewołodowicz                           przed 1216-? ( wg L.P.P. ) [Grand Prince of Vladimir]
                                                         przed 1228-? i przed 1233-po 1234 ( Jarosław Wsiewołodowicz (Jarosław) wg J.P.1242 )
@@ -22610,12 +22781,14 @@ Nowogród Wielki ( Novgorod , Nowgorod )
       Jezioro Pejpus 1242
       Svaté války - Dějiny křižových výprav
       Kijów 1018
+      Zawichost 1205
 
-Księstwo nowogródzkie
-  Izjasław                                              przed 1238 n.e.-?
+Księstwo nowogródzkie ( Księstwo nowogródeckie )
+  Izjasław                                              przed 1238 n.e.-? ( wg L.P.P. i Z.1205 )
   Szwarno                                               ? ( Švarno (Jerzy, Daniłowicz) wg L.P.P. ) [Grand Duke of Lithuania]
   Bibliografia :
       Litwa - Początki Państw
+      Zawichost 1205
 
 Księstwo Nowosilskie ( Księstwo Nowosielskie )
   Iwan                                                  ?
@@ -23418,9 +23591,11 @@ Konfederacja Ottawów , Potawatomiów i Czippewejów
       Wielcy Indianie Ameryki Północnej
 
 Księstwo owruckie
-  Ruryk Wasyl Rościsławowicz                            przed 1190-po 1193
+  Ruryk Wasyl Rościsławowicz                            przed 1190-po 1193 ( wg L.P.P. ) [Grand Prince of Kiev]
+                                                        przed 1180-po 1203 (?-?.1.) ( Ruryk Rościsławowicz (Ruryk) wg Z.1205 )
   Bibliografia :
       Litwa - Początki Państw
+      Zawichost 1205
 
 Oyo
   Bibliografia :
@@ -24027,23 +24202,26 @@ Hrabství Le Perche
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
-Księstwo Perejasławskie
+Księstwo Perejasławskie ( Perejasław , Księstwo perejasławskie )
   Dynastia Rurykowiczów
     Wsiewołod I   		                                  ? ( wg D.Ś. )
+                                                        1054 n.e.-? ( Wsiewołod wg Z.1205 )
     Jaropełk II		                                      ? ( wg D.Ś. )
     Wiaczesław 		                                      ? ( wg D.Ś. )
-    Mścisław II Chrobry	                                ? ( wg D.Ś. )
+    Mścisław II Chrobry	                                ? ( wg D.Ś. ) ( Mścisław II Izjasławowicz wg Z.1205 ) [Prince of Kiev Izjasław II]
     Gleb			                                          ? ( wg D.Ś. )
     Dymitr I		                                        ? ( wg D.Ś. )
     Izjaslav Mstislavič	                                1143-1154 ( wg E.P. )
     Włodzimierz Rurykowicz                              przed 1207-? ( wg L.P.P. ) [Prince of Kiev]
     Jarosław                                            przed 1226-? ( wg L.P.P. ) [Grand Prince of Vladimir]
                                                         przed 1216-po 1236 ( Jarosław Wsiewołodowicz (Jarosław) wg J.P.1242 )
+                                                        ? ( Jarosław Wsiewołodowicz wg Z.1205 )
   Bibliografia :
       Dynastie Świata
       Encyklopedie panovníků
       Litwa - Początki Państw
       Jezioro Pejpus 1242
+      Zawichost 1205
 
 County of Perelada
   Bibliografia :
@@ -24053,6 +24231,12 @@ Księstwo peresławskie
   Jarosław Wszewołodowicz                               przed 1216 n.e.-? ( wg L.P.P. ) [Prince of Kiev]
   Bibliografia :
       Litwa - Początki Państw
+
+Księstwo peresopnickie
+  Jarosławowicze
+    Mścisław Jarosławowicz                              przed 1211-po 1213 (?-?.9.) ( Mścisław Niemy (Mścisław) wg Z.1205 ) [Prince of Halicz]
+  Bibliografia :
+      Zawichost 1205
 
 Pergamon ( Pergamum )
   Lysimachos                            	              322-281 ( wg V.N.M.S.D. ) [Ruler of Thrake]
@@ -24692,12 +24876,14 @@ Polska ( Polsko , Poland )
                                                         przed 966-po 991 ( Měšek I. wg S.V.D.K.V. )
                                                         przed 965-? ( wg G.R.I.L. )
                                                         ok.940-po 990 ( Mieszko Pierwszy (Mieszko, Miszego) wg O.I.W. )
+                                                        ? ( Mieszko wg Z.1205 )
     Bolesław I Chrobry           	                      992-1025 ( wg D.Ś. i V.N.M.S.D. ) ( Boleslav Chrabrý wg D.P.I.R.G. ) ( Bolesław Chrobry wg Z.N.E. i W.W.K.R. ) ( Bolesław Chrobry (Bolesław I Wielki) wg S.P.D.Z. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. ) [King of Poland]
       			              	                            przed 993-po 1018 ( Boleslav Chrabrý wg Z.S.A.V.E. )
                                                         ? ( Bolesław Chrobry wg O.K.C.J. ) ( Chrobry wg L.P.P. ) ( Bolesław Chrobry (Chrobry, Bolesław Chrobry Wielki) wg G.R.I.L. )
                                                         992-po 1018 (?-22.7.) ( Bolesław Chrobry (Chrobry) wg B.S. )
                                                         przed 1002-? ( Bolesław Chrobry (Bolesław) wg O.I.W. )
                                                         992-1025 (?-18.4.) ( Bolesław Chrobry (Bolesław Wielki, Chrobry, Bolesław Chrobry Wielki) wg K.1018 )
+                                                        przed 1013-po 1018 ( Bolesław Chrobry (Bolesław, Chrobry) wg Z.1205 )
   Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland )
     Dynastia Piastów ( House of Piast , Piastowie )
       Bolesław I Chrobry       	                        1025 ( wg D.Ś. i V.N.M.S.D. i W.W.K.R. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. )
@@ -24709,6 +24895,7 @@ Polska ( Polsko , Poland )
                                                         ?-1034 ( Mieszko II wg S.P.D.Z. )
                                                         ? ( Mieszko II wg L.P.P. i N.I.B.W.XI.S. i O.I.W. )
                                                         1025-1031/4 (25.12.-?) ( wg K.1018 )
+                                                        przed 1031-? ( Mieszko II wg Z.1205 )
   Dynastia Piastów ( House of Piast , Piastowie )
     Mieszko II                                          1032-1034 ( wg W.W.K.R. ) [King of Poland]
                                                         ? ( wg B.S. )
@@ -24718,13 +24905,14 @@ Polska ( Polsko , Poland )
     Kazimierz I Odnowiciel    	                        1034-1058 ( wg D.Ś. ) ( Casimir I (Casimir I the Restorer) wg D.O.T.W.A.C.A.G.H. )
                                                         1041-1058 ( wg V.N.M.S.D. )
       					                                        1039-po 1050 ( Kazimír Obnovitel wg Z.S.A.V.E. )
-                                                        ? ( wg Z.N.E. ) ( Kazimierz Odnowiciel wg L.P.P. )
+                                                        ? ( wg Z.N.E. ) ( Kazimierz Odnowiciel wg L.P.P. ) ( Kazimierz Odnowiciel (Kazimierz, Odnowiciel) wg Z.1205 )
                                                         ?-1058 ( Kazimierz Odnowiciel wg S.P.D.Z. )
                                                         ok.1041-1058 ( Kazimierz Odnowiciel wg B.S. )
                                                         przed 1043-? ( Kazimierz Odnowiciel (Kazimierz) wg K.1018 )
     Bolesław II Śmiały            	                    1058-1076 ( wg D.Ś. i V.N.M.S.D. ) ( Bolesław II Szczodry (Bolesław Szczodry) wg W.W.K.R. ) ( Bolesław II (Bolesław II the Bold) wg D.O.T.W.A.C.A.G.H. ) [King of Poland]
       				        	                                ? ( Boleslav II wg Z.S.A.V.E. ) ( Bolesław II Szczodry wg Z.N.E. ) ( Bolesław Szczodry (Bolesław) wg L.P.P. )
                                                         ?-1076 ( Bolesław Śmiały (Bolesław Szczodry) wg L.1241. )
+                                                        przed 1069-? ( Bolesław II Szczodry (Bolesław II, Bolesław, Bolesław Szczodry) wg Z.1205 )
   Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland )
     Dynastia Piastów ( House of Piast , Piastowie )
       Bolesław II Śmiały        	                      1076-1079 ( wg D.Ś. ) ( Bolesław II Szczodry (Bolesław Szczodry) wg W.W.K.R. ) ( Bolesław II (Bolesław II the Bold) wg D.O.T.W.A.C.A.G.H. )
@@ -24733,7 +24921,7 @@ Polska ( Polsko , Poland )
                                                         1076-? ( Bolesław Śmiały (Bolesław Szczodry) wg L.1241. )
                                                         przed 1079-? ( Bolesław II Szczodry wg O.I.W. )
   Dynastia Piastów ( House of Piast , Piastowie )
-    Władysław I Herman         	                        1079-1102 ( wg D.Ś. ) ( Władysław I (Herman) wg D.O.T.W.A.C.A.G.H. )
+    Władysław I Herman         	                        1079-1102 ( wg D.Ś. ) ( Władysław I (Herman) wg D.O.T.W.A.C.A.G.H. ) ( Władysław Herman (Władysław) wg Z.1205 )
                                                         1082-1102 ( wg V.N.M.S.D. )
                                                         ? ( Władysław Herman wg O.K.C.J. i Z.N.E. i N.I.B.W.XI.S. )
                                                         1080-1102 ( Władysław Herman wg W.W.K.R. )
@@ -24745,9 +24933,10 @@ Polska ( Polsko , Poland )
                                                         przed 1120-1138 (?-28.10.) ( Bolesław Krzywousty wg S.P.D.Z. )
                                                         przed 1109-1138 (10.8.-28.10.) ( Bolesław Krzywousty (Krzywousty) wg B.S. )
                                                         przed 1138-? ( Bolesław Krzywousty wg L.1241. )
+                                                        przed 1119-1138 ( Bolesław Krzywousty (Krzywousty, Bolesław) wg Z.1205 )
   Księstwo krakowskie ( Vévodství krakovské )
     Dynastia Piastów ( House of Piast , Piastowie )
-      Władysław II Wygnaniec   	                        1138-1146 ( wg D.Ś. ) ( Władysław II (Władysław II the Exile) wg D.O.T.W.A.C.A.G.H. )
+      Władysław II Wygnaniec   	                        1138-1146 ( wg D.Ś. ) ( Władysław II (Władysław II the Exile) wg D.O.T.W.A.C.A.G.H. ) ( Władysław Wygnaniec (Władysław, Władysław II) wg Z.1205 )
                                                         1138-1145 ( wg V.N.M.S.D. )
       				  	                                      ? ( Vladislav II wg F.B.C.A.R. ) ( Władysław Wygnaniec wg L.1241. )
       Bolesław IV Kędzierzawy 	                        1146-1173 ( wg D.Ś. ) ( Bolesław IV (Bolesław IV the Curly) wg D.O.T.W.A.C.A.G.H. )
@@ -24756,6 +24945,7 @@ Polska ( Polsko , Poland )
       				        	                                przed 1157-po 1163 ( Boleslav IV wg F.B.C.A.R. )
                                                         przed 1157-? ( Bolesław Kędzierzawy wg B.S. )
                                                         ? ( Bolesław Kędzierzawy wg L.1241. )
+                                                        1146-1173 (?-5.1.) ( Bolesław Kędzierzawy (Bolesław, Kędzierzawy) wg Z.1205 )
       Mieszko III Stary               	                1173-1177 i 1191 i 1195 i 1199-1202 ( wg D.Ś. )
                                                         1173-1178 ( wg V.N.M.S.D. )
       				         	                                przed 1172-? i 1181-? ( Mieszek III wg F.B.C.A.R. )
@@ -24763,26 +24953,32 @@ Polska ( Polsko , Poland )
                                                         przed 1174-1202 ( Mieszko wg B.S. )
                                                         1173-1177 i ?-1202 (? i ?-13.3.) ( Mieszko Stary wg L.1241. )
                                                         1173-1177 i 1199-1202 ( Mieszko III (Mieszko III the Elder) wg D.O.T.W.A.C.A.G.H. )
+                                                        1173-1177 i ? i ok.1198-? i ok.1200-1202 (? i ? i ? i ?-13.3.) ( Mieszko III (Mieszko Stary) wg Z.1205 )
       Kazimierz II Sprawiedliwy	                        1177-1194 ( wg D.Ś. i Z.N.E. ) ( Kazimierz Sprawiedliwy (Kazimierz) wg L.1241. ) ( Casimir II (Casimir II the Just) wg D.O.T.W.A.C.A.G.H. )
                                                         1178-1194 ( wg V.N.M.S.D. )
       				        	                                przed 1184-? ( Kazimír wg F.B.C.A.R. )
                                                         ?-1194 (?-?.5.) ( wg B.S. )
-                                                        ? ( Kazimierz Sprawiedliwy wg L.P.P. )
-      Leszek I Biały                   	                1194-1199 i 1202-1210 i 1211-1227 ( wg D.Ś. )
+                                                        ? ( Kazimierz Sprawiedliwy wg L.P.P. ) 
+                                                        1177-1194 (?-5.5.) ( Kazimierz Sprawiedliwy (Kazimierz) wg Z.1205 )
+      Kazimierzowice
+        Leszek I Biały                   	              1194-1199 i 1202-1210 i 1211-1227 ( wg D.Ś. )
                                                         1194-1227  ( wg V.N.M.S.D. )
                                                         przed ok.1217-? ( Leszek Biały wg Z.N.E. )
                                                         przed 1195-? (13.9.-?) ( Leszek Biały wg B.S. )
                                                         przed 1195-? i przed 1206-? i przed 1222-1227 (15.9.-? i ? i ?-koniec) ( Leszek Biały wg L.1241. )
                                                         1194-1199 i 1202-1227 ( Leszek I (Leszek I the White) wg D.O.T.W.A.C.A.G.H. )
+                                                        1194-po 1198 i 1206-1210 i 1211-1227 (? i ?-koniec i ?-23/4.11.) ( Leszek Biały (Leszek, Lestek) wg Z.1205 )
       Władysław III Laskonogi 	                        1202 i 1227-1228 i 1230 ( wg D.Ś. )
                                                         przed 1202-? i przed 1228-? (? i 5.5.-?) ( Władysław Laskonogi (Laskonogi) wg L.1241. )
                                                         ok.1229 ( Władysław Laskonogi wg L.P.P. )
                                                         1202 i 1227-1228 ( Władysław III (Władysław III Spindleshanks) wg D.O.T.W.A.C.A.G.H. )
+                                                        1202-1202/6 ( Władysław III (Władysław, Laskonogi) wg Z.1205 )
       Mieszko Plątonogi           	                    1210-1211 ( wg D.Ś. )
                                                         ?-1211 (?-16.5.) ( Mieszko wg L.1241. )
       Henryk I Brodaty             	                    1228-1229 i 1232-1238 ( wg D.Ś. ) ( Henry I (Henry I the Bearded) wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Henryk Brodaty wg F.H.C.R. ) ( Jindřich wg S.V.D.K.V. )
                                                         przed 1234-1238 (22.9.-19.3.) ( wg L.1241. )
+                                                        1232-po 1236 ( Henryk Brodaty wg Z.1205 )
       Konrad I Mazowiecki       	                      1229-1232 i 1241-1243 ( wg D.Ś. ) ( Conrad of Mazovia (Conrad) wg D.O.T.W.A.C.A.G.H. )
       				  	                                      ? ( Konrad Mazovský wg Z.S.A.V.E. )
       Henryk II Pobożny            	                    1238-1241 ( wg D.Ś. ) ( Henryk Pobożny wg W.W.K.R. ) ( Henry II (Henry II the Pious) wg D.O.T.W.A.C.A.G.H. )
@@ -24794,6 +24990,7 @@ Polska ( Polsko , Poland )
                                                         przed 1243-po 1264 ( Bolesław Wstydliwy (Bolesław V) wg Z.N.E. )
                                                         przed 1255-po 1265 ( Bolesław Wstydliwy (Bolesław) wg L.P.P. )
                                                         ? ( Bolesław Wstydliwy wg G.R.I.L. )
+                                                        1243-po 1245/6 ( Bolesław Wstydliwy (Bolesław Leszkowic, Bolesław, Wstydliwy) wg Z.1205 )
       Leszek II Czarny                	                1279-1288 ( wg D.Ś. ) ( Leszek II (Leszek II the Black) wg D.O.T.W.A.C.A.G.H. )
                                                         1279-1289 ( wg V.N.M.S.D. )
                                                         ? ( wg O.K.C.J. )
@@ -24805,53 +25002,72 @@ Polska ( Polsko , Poland )
       Wenceslas                                         1291-1300 ( wg D.O.T.W.A.C.A.G.H. ) [King of Poland Wacław II]
   Księstwo wielkopolskie ( Velkopolské knížectví )
     Mieszko Stary                                       przed 1173-po 1177 ( wg L.1241. ) [Książę krakowski]
+                                                        przed 1145-po 1173 i przed 1188-po 1198 ( Mieszko wg Z.1205 )
     Władysław Laskonogi                                 1194-1229 ( wg W.W.K.R. ) [Książę krakowski]
                                                         przed 1202-po 1220 ( Władysław (Laskonogi) wg L.1241. )
+                                                        przed 1202-po 1229 ( Władysław III Laskonogi (Władysław III, Władysław, Laskonogi) wg Z.1205 )
     Władysław Odonic                                    przed 1231-po 1234 (?-22.9.) ( Odonic wg L.1241. )
-                                                        ? ( Vladislav Odonic wg S.V.D.K.V. )
+                                                        ? ( Vladislav Odonic wg S.V.D.K.V. ) ( Odonic wg Z.1205 )
     Henryk Brodaty                                      ? ( wg L.1241. ) [Książę krakowski]
     Henryk Pobożny                                      1238-1241 ( wg W.W.K.R. ) [Książę krakowski]
                                                         ? ( wg L.1241. )
-  Księstwo mazowieckie ( Księstwo Mazowsza , Duchy of Mazovia , Mazovské vévodství )
+  Księstwo mazowieckie ( Księstwo Mazowsza , Duchy of Mazovia , Mazovské vévodství , Mazowsze )
     Dynastia Piastów
       Bolesław IV Kędzierzawy                           przed 1146-1177 ( wg Z.N.E. ) [Książę krakowski]
+                                                        przed 1145-? ( Bolesław Kędzierzawy (Bolesław, Kędzierzawy) wg Z.1205 )
       Leszek Bolesławowicz                              1177-1185 ( wg Z.N.E. )
                                                         ?-1186 ( Leszek wg L.1241. )
+                                                        1173-? ( Leszek Bolesławowic wg Z.1205 )
       Kazimierz II Sprawiedliwy                         1185-1194 ( wg Z.N.E. ) [Książę krakowski]
                                                         1186-1194 ( Kazimierz Sprawiedliwy (Kazimierz) wg L.1241. )
-      Konrad I ( Konrad Mazowiecki )                    przed 1240-1247 ( wg Z.N.E. )
+      Kazimierzowice
+        Konrad I ( Konrad Mazowiecki )                  przed 1240-1247 ( wg Z.N.E. )
                                                         przed 1226-? (?.3.-?) ( Konrad wg F.H.C.R. )
                                                         przed 1227-po 1231 (koniec-?) ( Konrad wg L.1241. )
                                                         ok.1225 ( Conrad wg V.K.T.H.O.H.E. )
                                                         przed 1227-po 1238 ( Konrad wg L.P.P. )
                                                         przed 1226-? ( Konrad wg J.P.1242 )
                                                         przed 1225-po 1235 ( Konrád (Konrád Mazovský) wg S.V.D.K.V. )
+                                                        ok.1200-po 1247 (?-31.8.) ( Konrad (Konrad I Mazowiecki) wg Z.1205 )
       Siemowit I                                        1247-1262 ( wg Z.N.E. )
-                                                        ? ( Siemowit Konradowic wg L.P.P. )
+                                                        ? ( Siemowit Konradowic wg L.P.P. ) ( wg Z.1205 )
       Konrad II                                         ? ( wg L.P.P. )
       Bolesław II                                       ? ( wg L.P.P. )
   Księstwo śląskie ( Vévodství slezské )
     Bolesław Wysoki                                     przed 1195-? (13.9.-?) ( wg B.S. )
                                                         przed 1177-1201 (?-8.12.) ( wg L.1241. )
+                                                        ? ( wg Z.1205 )
     Henryk Brodaty                                      1202-1238 ( wg F.H.C.R. ) [Książę krakowski]
                                                         1201-1238 (?-19.3.) ( Henryk (Brodaty) wg L.1241. )
                                                         ? ( Jindřich wg S.V.D.K.V. )
+                                                        przed 1205-po 1236 ( Brodaty (Henryk I Brodaty) wg Z.1205 )
     Henryk Pobożny                                      1238-1241 ( wg W.W.K.R. ) [Książę krakowski]
                                                         przed 1239-1241 (29.6.-9.4.) ( Henryk II Pobożny wg F.H.C.R. )
+                                                        ?-1241 (?-9.4.) ( Henryk II Pobożny wg Z.1205 )
                                                         1238-1241 (?-9.4.) ( Henryk II (Henryk) wg L.1241. )
     Bolesław II Łysy                                    ? ( wg F.H.C.R. ) [Książę krakowski]
   Księstwo kujawskie
     Bolesław Mieszkowic                                 ?-1195 (?-13.9.) ( Bolesław wg B.S. )
+                                                        ? ( wg Z.1205 )
+    Konrad Mazowiecki                                   ? ( Konrad wg Z.1205 ) [Książę mazowiecki]
     Kazimierz                                           przed 1253-? ( wg Z.N.E. )
                                                         przed 1247-? ( Kazimierz I (Kazimierz Kujawski) wg L.P.P. )
     Ziemomysł                                           przed 1268-? ( wg L.1241. )
   Księstwo sandomierskie
-    Leszek Biały                                        przed 1220-1227 (?-koniec) ( wg L.1241. ) [Książę krakowski]
+    Henryk Sandomierski                                 ?-1166 ( Henryk wg Z.1205 )
+    Kazimierz Sprawiedliwy                              przed 1177-1194 ( Kazimierz wg L.1241. ) [Książę krakowski]
+                                                        1173-1194 (?-5.5) ( Kazimierz wg Z.1205 )
+    Kazimierzowice
+      Leszek Biały                                      przed 1220-1227 (?-koniec) ( wg L.1241. ) [Książę krakowski]
                                                         przed 1208-po 1220 ( wg L.P.P. )
+                                                        ok.1200-1227 (?-23/4.11.) ( Leszek (Lestek) wg Z.1205 )
+    Bolesław Konradowic                                 1230-? ( Bolesław wg Z.1205 )
     Bolesław Wstydliwy                                  przed 1241-? (?.2.-?) ( Bolesław wg L.1241. )
                                                         przed ok.1227-po 1265 ( Bolesław wg L.P.P. )
+                                                        przed 1234-po 1245/6 ( Bolesław Leszkowic (Bolesław, Wstydliwy, Bolesław V Wstydliwy) wg Z.1205 )
     Leszek Czarny                                       przed 1282-? ( wg Z.N.E. ) [Książę krakowski]
-    Kazimierz Sprawiedliwy                              przed 1177-1194 ( Kazimierz wg L.1241. ) [Książę krakowski]
+  Księstwo wiślickie
+    Kazimierz Sprawiedliwy                              1166-po 1173 (?-5.1.) ( Kazimierz wg Z.1205 ) [Książę krakowski]
   Księstwo sieradzkie
     Leszek Czarny                                       przed 1282-? ( wg Z.N.E. ) [Książę krakowski]
   Księstwo łęczyckie
@@ -24863,22 +25079,29 @@ Polska ( Polsko , Poland )
   Księstwo wrocławskie
     Bolesław II Łysy                                    1242-1248 ( wg F.H.C.R. ) [Książę krakowski]
   Księstwo poznańskie
+    Odon                                                1177-? ( Odon Mieszkowic wg Z.1205 )
     Mieszko III Stary                                   przed 1174-1202 ( Mieszko wg B.S. ) [Książę krakowski]
+                                                        przed 1194-po 1195 (5.5.-13.9.) ( Mieszko Stary (Mieszko) wg Z.1205 )
   Księstwo raciborskie
-    Mieszko Plątonogi                                   przed 1195-? (13.9.-?) ( wg B.S. ) [Książę krakowski]
+    Mieszko Plątonogi                                   przed 1195-? (13.9.-?) ( wg B.S. i Z.1205 ) [Książę krakowski]
                                                         przed 1177-1211 (?-16.5.) ( Mieszko wg L.1241. )
   Księstwo opolskie
-    Jarosław                                            przed 1195-? (13.9.-?) ( wg B.S. )
+    Jarosław                                            przed 1195-? (13.9.-?) ( wg B.S. i Z.1205 )
                                                         przed 1177-? ( wg L.1241. )
     Kazimierz                                           ? ( wg L.1241. ) [Książę opolsko-raciborski]
     Władysław                                           przed 1241-? ( wg L.1241. )
+    Władysław Opolczyk                                  ? ( wg Z.1205 )
   Księstwo opolsko-raciborskie
+    Mieszko Plątonogi                                   przed 1210-1211 (koniec-16.5.) ( wg Z.1205 ) [Książę krakowski]
     Kazimierz Mieszkowic                                ?-1229 ( Kazimierz wg L.1241. )
     Mikołaj II                                          przed 1241-? (9.4.-?) ( Mieszko II (Mieczysław) wg L.1241. )
   Księstwo głogowskie
     Konrad                                              przed 1180-? ( wg L.1241. )
   Księstwo gnieźnieńskie
+    Kazimierz Sprawiedliwy                              1177-? ( Kazimierz wg Z.1205 ) [Książę krakowski]
     Mieszko Stary                                       przed 1194-po 1195 (?-15.9.) ( wg L.1241. ) [Książę krakowski]
+  Księstwo kaliskie
+    Kazimierz Sprawiedliwy                              1177-? ( Kazimierz wg Z.1205 ) [Książę krakowski]
   Księstwo czerskie
     Dynastia Piastów
       Siemowit I                                        przed 1254-po 1256 ( Siemowit Konradowic wg L.P.P. )
@@ -24920,11 +25143,12 @@ Polska ( Polsko , Poland )
       Wacław II         		                            1300-1305 ( wg D.Ś. ) ( Wenceslas wg D.O.T.W.A.C.A.G.H. ) [King of Bohemia Wacław II]
                                                         1300-? ( Václav II wg Z.S.A.V.E. )
                                                         ? ( wg L.P.P. )
+                                                        przed 1301-? ( Wacław II Czeski wg Z.1205 )
       Wacław III                                        ? ( wg L.P.P. ) [King of Bohemia Wacław III]
   Dynastia Piastów ( House of Piast , Piastowie )
     Władysław I Łokietek           	                    1305-1320 ( wg D.Ś. ) ( Władysław I the Short (Władysław I) wg D.O.T.W.A.C.A.G.H. ) [King of Poland]
                                                         1296-1320 ( wg V.N.M.S.D. )
-      				          	                              ? ( Vladislav I Lokýtek wg Z.S.A.V.E. )
+      				          	                              ? ( Vladislav I Lokýtek wg Z.S.A.V.E. ) ( Władysław Łokietek wg Z.1205 )
                                                         przed 1308-? ( Władysław Łokietek (Łokietek) wg L.P.P. )
   Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita )
     Dynastia Piastów ( House of Piast , Piastowie )
@@ -24937,11 +25161,13 @@ Polska ( Polsko , Poland )
                                                         przed 1335-po 1364 ( Kazimierz Wielki wg O.K.C.J. )
                                                         przed 1340-po 1370 (wiosna-?) ( Kazimierz Wielki (Kazimierz) wg L.P.P. )
                                                         ? ( Kazimierz Wielki wg O.I.W. )
+                                                        przed 1366-1370 ( Kazimierz Wielki wg Z.1205 )
     Dynastia andegaweńska ( House of Anjou )
       Ludwik          		                              1370-1382 ( wg D.Ś. i V.N.M.S.D. ) ( Louis the Great wg D.O.T.W.A.C.A.G.H. ) [King of Hungary Louis I]
       			      		                                  ? ( Ludvík Veliký wg Z.S.A.V.E. ) ( Ludwik Węgierski wg H.W. )
                                                         ?-1382 ( Louis of Anjou wg V.K.T.H.O.H.E. )
                                                         przed 1373-? ( Ludwik Andegaweński wg L.P.P. )
+                                                        1370-? ( Ludwik Andegaweński wg Z.1205 )
       Jadwiga          		                              1383-1399 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                		      1382-1399 ( wg V.N.M.S.D. )
                                                         ok.1400 ( wg O.K.C.J. )
@@ -24956,6 +25182,7 @@ Polska ( Polsko , Poland )
                                                         przed 1387-po 1414 ( Jagiełło (Władysław Jagiełło) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1386-? ( Jogaila (Jahelko) wg S.V.D.K.V. )
                                                         ?-1434 ( Władysław Jagiełło wg G.R.I.L. )
+                                                        przed 1387-? ( Jagiełło (Władysław Jagiełło) wg Z.1205 )
       Władysław III                	                    1434-1444 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Władysław III Warneńczyk (Ladislas Of Varna) wg V.K.T.H.O.H.E. ) [King of Hungary Władysław I]
                                                         1434-1445 ( wg V.N.M.S.D. )
       					                                        przed 1440-1444 ( ?-10.11. ) ( Vladislav II Jagellonský wg D.B. )
@@ -24990,6 +25217,7 @@ Polska ( Polsko , Poland )
                                                         1575-1586 ( wg V.N.M.S.D. )
                                                         1575/6-1586 ( Istvan Bathory (Stephen Bathory) wg V.K.T.H.O.H.E. )
       				                                          przed 1578-? ( Štěpán Báthory wg E.P. )
+                                                        ? ( Stefan wg Z.1205 )
     House of Sweden ( Dynastia Wazów )
       Zygmunt III Waza                 	                1587-1632 ( wg D.Ś. i V.N.M.S.D. i N.G.R.B.I.N.S. ) ( Sigismund III Vasa (Sigismund Vasa) wg V.K.T.H.O.H.E. ) ( Sigismund III wg D.O.T.W.A.C.A.G.H. ) [King of Sweden Sigismund]
                                                         przed 1595-? ( wg O.K.C.J. )
@@ -25026,7 +25254,7 @@ Polska ( Polsko , Poland )
                                                         1764-1795 (?-25.11.) ( Stanisław-August Poniatowski (Stanisław-August) wg V.K.T.H.O.H.E. )
                                                         przed 1787-? ( Stanisław August wg O.K.C.J. )
       				     	                                    ? ( wg K.R.I.C.R. )
-  Polish Republic ( II Rzeczpospolita )
+  Polish Republic ( II Rzeczpospolita , Druga Rzeczpospolita )
     Józef Piłsudski			                                1918-? (14.11.-?) ( wg B.O.R.H. )
                                                         1918-po 1920 ( wg V.K.T.H.O.H.E. )
                                                         ? ( Piłsudski wg T.R.L.Z.S.L.R.S.B. )
@@ -25039,12 +25267,14 @@ Polska ( Polsko , Poland )
     Edward Gierek                                       ? ( Gierek wg T.R.L.Z.S.L.R.S.B. )
                                                         przed 1980-po 1980 (17.2.-7.3.) ( wg K.W.P.M.N.C. )
                                                         przed 1980-po 1980 (17.2.-?.9.) ( Gierek wg G.T.N.B.E. )
+                                                        przed 1972-? ( Gierek wg J.P.A. )
     Stanisław Kania                                     ? ( wg K.W.P.M.N.C. i G.T.N.B.E. )
     Wojciech Jaruzelski                                 ? ( Jaruzelski wg T.R.L.Z.S.L.R.S.B. )
                                                         przed 1981-1989 ( Jaruzelski wg K.W.P.M.N.C. )
   Rzeczpospolita Polska
     Wojciech Jaruzelski                                 1989-? ( Jaruzelski wg K.W.P.M.N.C. )
     Lech Wałęsa                                         ? ( Wałęsa wg T.R.L.Z.S.L.R.S.B. i K.W.P.M.N.C. )
+                                                        przed 1992-? ( Wałęsa wg J.P.A. )
     premiers
       Tadeusz Mazowiecki                                1989-? ( wg K.W.P.M.N.C. )
   Aleksander Kwaśniewski                                ? ( Kwaśniewski wg T.R.L.Z.S.L.R.S.B. )
@@ -25090,8 +25320,10 @@ Polska ( Polsko , Poland )
       Kijów 1018
       Polscy himalaiści - Pierwsza polska wyprawa w Himalaje
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
+      Ja, Pustelnik. Autobiografia
+      Zawichost 1205
 
-Księstwo Połockie ( Principality of Polatsk , Polocké knížectví )
+Księstwo Połockie ( Principality of Polatsk , Polocké knížectví , Księstwo połockie )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
   Izyaslav                                              ?-1001 n.e. ( wg V.K.T.H.O.H.E. )
   Briaczysław                                           przed 1019-1044 ( Vartilaf wg K.1018 ) [Prince of Novgorod]
@@ -25124,12 +25356,14 @@ Księstwo Pomorskie ( Pomorze Gdańskie )
   Świętopełk                                            ok.1245 ( wg Z.N.E. )
                                                         przed 1223-po 1227 (?-koniec) ( wg L.1241. )
                                                         przed 1253-? ( Svantopolk (Swantopolk) wg S.V.D.K.V. )
+                                                        przed 1227-? (24.11.-?) ( wg Z.1205 )
   Městvin                                               ? ( wg S.V.D.K.V. )
   Bibliografia :
       Zapomianie narody Europy
       Bitwy Słowian
       Legnica 1241
       Svaté války - Dějiny křižových výprav
+      Zawichost 1205
 
 Pomorze Szczecińskie ( Księstwo Pomorskie , Księstwo Zachodniopomorskie , Duchy of Pomerania , Księstwo Pomorza Zachodniego , Pomořanské vévodství )
   Dietrich                       	                      ? ( wg Z.S.A.V.E. )
@@ -25536,11 +25770,20 @@ Prusy ( Prussia )
       History of Western Philosophy
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
 
-Księstwo przemyskie
-  Wołodar                                               1097-1124
-  Władymyrko                                            1129-1153 [Prince of Halicz]
+Księstwo przemyskie ( Przemyśl )
+  Rościsławowicze
+    Ruryk                                               ? ( Ruryk Rościsławowicz wg Z.1205 )
+    Wołodar                                             1097-1124 ( wg W.W.K.R. )
+                                                        przed 1097-po 1112 ( Wołodar Rościsławowicz wg Z.1205 )
+  Rościsław                                             ? ( wg Z.1205 )
+  Władymyrko                                            1129-1153 ( wg W.W.K.R. ) [Prince of Halicz]
+                                                        przed 1141-? ( Władymirko wg Z.1205 )
+  Igorowicze
+    Światosław                                          ?-1211 ( wg Z.1205 )
+  Andrzej                                               ? ( wg Z.1205 ) [Prince of Halich]
   Bibliografia :
       Wielka wyprawa Księcia Racibora
+      Zawichost 1205
 
 Psków ( Pskov )
   Księstwo Pskowskie
@@ -25606,7 +25849,7 @@ Quimbajowie
   Bibliografia :
       Války rudého muže
 
-Królewstwo Quito
+Królestwo Quito
   Bibliografia :
       Objavovanie Ameriky
 
@@ -25719,7 +25962,7 @@ Rhegion ( Regium )
       Zrození Řecka
       Klasické Řecko
 
-Księstwo Riazańskie
+Księstwo Riazańskie ( Księstwo riazańskie )
   Jerzy Igorowicz                                       przed 1237 n.e.-? ( wg L.1241. )
   Oleg Ivanovič		                                      1350-1402 ( ?-5.7. ) ( wg E.P. )
                                                         ? ( Oleg wg L.P.P. )
@@ -25756,7 +25999,7 @@ Risisu
   Bibliografia :
       Foiničané
 
-Królewstwo Rjukju
+Królestwo Rjukju
   Bibliografia :
       Dějiny Japonska
 
@@ -25944,10 +26187,12 @@ Księstwo Rostowskie
   Bibliografia :
       Dynastie Świata
 
-Księstwo Rostowsko-Suzdalskie
-  Oleg Svjatoslavič	                                    ?-1076 n.e.
+Księstwo Rostowsko-Suzdalskie ( Księstwo rostowsko-suzdalskie )
+  Oleg Svjatoslavič	                                    ?-1076 n.e. ( wg E.P. )
+  Jerzy Dołgoruki                                       ? ( wg Z.1205 ) [Grand Prince of Kiev]
   Bibliografia :
       Encyklopedie panovníků
+      Zawichost 1205
 
 Hrabství Roucy
   Ebles                                                 przed 1068 n.e.-?
@@ -27392,7 +27637,7 @@ Rzym ( Rome , Řím )
                                                         przed 893-? ( Leon wg B.S. )
         Aleksander                                      912-913 ( wg D.Ś. i R.Z.A.D.D. i Tapsella ) ( Alexandros wg D.B. )
                                                         879/912-913 ( Alexander wg D.O.T.W.A.C.A.G.H. )
-        Konstantyn VII Porfirogeneta                   	913-959 ( wg D.Ś. i B.D.K.B. ) ( Constantine VII Porphyrogenitus wg N.T.V.S. )
+        Konstantyn VII Porfirogeneta                   	913-959 ( wg D.Ś. i B.D.K.B. i Z.1205 ) ( Constantine VII Porphyrogenitus wg N.T.V.S. )
                                                         908/13-959 ( Constantine VII (Constantine VII Porphyrogenitus) wg D.O.T.W.A.C.A.G.H. )
     							                                      913-959 (?-?.11.) ( Konstantinos VII Porfyogennetos wg  D.B. )
                                                         913-920 i 945-959 ( wg R.Z.A.D.D. )
@@ -27463,6 +27708,7 @@ Rzym ( Rome , Řím )
         Izaak I Komnen                                  1057-1059 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Isaac I Comnenus wg D.O.T.W.A.C.A.G.H. )
     						 	                                      1057-1059 (1.9.-?.12.) ( Isaakios I Komnenos wg D.B. )
                                                         1057-1059 (1.9.-po lato) ( Izaak Komnen (Izaak) wg N.I.B.W.XI.S. )
+                                                        ? ( Izaak Komnen wg Z.1205 )
       Dynastia Dukas ( Ducas Dynasty )
         Konstantyn X Dukas           	                  1059-1067  ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Konstantinos X Dukas wg D.B. ) ( Constantine X Dukas wg D.O.T.W.A.C.A.G.H. ) ( Konstantyn Dukas wg N.I.B.W.XI.S. )
         Eudoksja Makrembolitissa	                      1067-1068 i 1071 ( wg D.Ś. ) ( Eudocia Macrembolitissa wg D.O.T.W.A.C.A.G.H. )
@@ -27503,6 +27749,7 @@ Rzym ( Rome , Řím )
         Aleksy II               	                      1180-1183 ( wg D.Ś. i Tapsella ) ( Alexios II Komnenos wg D.B. ) ( Alexius II wg D.O.T.W.A.C.A.G.H. ) ( Aleksy II Komnen (Aleksy) wg N.I.B.W.XI.S. ) ( Alexios II. Komnenos (Alexios II.) wg S.V.D.K.V. )
                                                    	    1180-1185 ( wg V.N.M.S.D. )
                                                         przed 1182-? ( Aleksy (Aleksy II Komnen) wg H.W. )
+                                                        ? ( Aleksy II Angelos wg Z.1205 )
         Andronik I             	                        1183-1185 ( wg D.Ś. i Tapsella ) ( Andronikos I Komnenos wg D.B. ) ( Andronicus I wg D.O.T.W.A.C.A.G.H. ) ( Andronik wg N.I.B.W.XI.S. ) ( Andronikos I. Komnenos (Andronikos I.) wg S.V.D.K.V. )
                                                         ?-1185 (?-?.9.) ( Andronik Komnen wg H.W. )
       Dynastia Angelos ( Angelus Dynasty , Angelosi )
@@ -27518,6 +27765,7 @@ Rzym ( Rome , Řím )
                                                         1195-1203 (8.4.-?) ( Alexios III. Angelos (Alexios III., Alexios, Alexius III) wg S.V.D.K.V. )
                                                         1195-1203 (?-17.7.) ( Aleksy (Aleksy III Angelos) wg H.W. )
                                                         ? ( wg F.H.C.R. )
+                                                        przed ok.1199-po 1200 (?-?.5.) ( Aleksy II Angelos (Aleksy III Angelos) wg Z.1205 )
         Aleksy IV                           	          1203-1204 ( wg D.Ś. i Tapsella ) ( Alexius IV wg D.O.T.W.A.C.A.G.H. )
                                                         1203-1204 (1.8.-27/8.1.) ( Alexios IV. Angeloi (Alexios IV., Alexios, Alexios Angelos, Alexios IV. Angelos) wg S.V.D.K.V. )
                                                         1203-1204 (1.8.-?) ( wg K.V. ) ( Alexios IV Angeloi wg D.B. )
@@ -27672,6 +27920,7 @@ Rzym ( Rome , Řím )
       Chlodwik król Franków
       Řecko mezi Makedonií a Římem
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
+      Zawichost 1205
 
 Hrabství Saarbrücken
   Šimon ze Saarbrückenu                                 przed 1218 n.e.-? ( Šimon wg S.V.D.K.V. )
@@ -28703,6 +28952,8 @@ Siannu
       Foiničané
 
 Siedmiogród ( Transylvania , Sedmihradsko )
+  Księstwo siedmiogrodzkie
+    Gyula                                               ?-ok.1003 n.e. ( Gyula Młodszy wg Z.1205 )
   Vévodství Sedmihradské
     Ród Lačkovič
       Stefan II                                         ? ( Stefan Transylwański wg H.W. )
@@ -28741,6 +28992,7 @@ Siedmiogród ( Transylvania , Sedmihradsko )
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+      Zawichost 1205
 
 Siejent'o
   Inan		                                              629-645 ( ?-?.10. )
@@ -28999,16 +29251,22 @@ Słowianie
 
 Smad-bod
 
-Księstwo Smoleńskie ( Principality of Smalensk, Smolensk )
+Księstwo Smoleńskie ( Principality of Smalensk , Smolensk , Smoleńsk , Księstwo smoleńskie )
   Dynastia Rurykowiczów
+    Wiaczesław                                          1054 n.e.-? ( wg Z.1205 )
+    Igor                                                1057-? ( Igor Jarosławowicz wg Z.1205 ) [Prince of Księstwo włodzimiersko-wołyńskie]
     Rościsław 		                                      ? ( wg D.Ś. i L.P.P. )
+    Rościsławowicze
     Włodzimierz Rurykowicz                              ? ( wg L.P.P. ) [Prince of Kiev]
+    Mścisław Dawidowicz                                 ? ( wg Z.1205 )
+    Rościsław Mścisławowicz                             ? ( Rościsław wg Z.1205 ) [Prince of Kiev]
     Wsiewołod Mścisławowicz                             1239-? ( wg L.P.P. )
     Dynastia Mścisławowiczów
     Iwan Aleksandrowicz                                 przed 1339-? ( wg L.P.P. )
   Bibliografia :
       Dynastie Świata
       Litwa - Początki Państw
+      Zawichost 1205
 
 Smyrna
   Bibliografia :
@@ -29434,6 +29692,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
       					                                        1969-1974 ( ?.1.-?.8. ) ( wg M.Ś. )
                                                         przed 1969-po 1971 (?-24.12.) ( wg C.W.C.B.R. )
                                                         ? ( Nixon (R. Nixon) wg P.U.D.D.L.D.R.I.P. ) ( Richard M. Nixon (Richard Nixon) wg T.D.W.S.A.A.C.I.T.D. ) ( Richard Nixon (Nixon) wg T.E.I.T.B.H.M.I.E.L. )
+                                                        przed 1972-? ( Nixon wg J.P.A. )
   Gerald Ford                           	              1974-1977 ( wg V.N.M.S.D. )
       				      	                                  przed 1975-po 1976 ( wg M.Ś. )
   James E. Carter                    	                  1977-1981 ( wg V.N.M.S.D. )
@@ -29499,6 +29758,7 @@ Stany Zjednoczone Ameryki Północnej ( Spojené státy americké , USA , United
       Pírátství - Úplné dějiny
       The Elephant in the Brain - Hidden Motives in Everyday Life
       The Day of the Triffids
+      Ja, Pustelnik. Autobiografia
 
 Księstwo Starodubskie
   Bibliografia :
@@ -29545,15 +29805,17 @@ Styria
   Otachar                                               ? ( wg G.R.I.L. )
   Otakar IV         	                                  przed 1180 n.e.-?
   Duchy of Styria ( Štýrské vévodství )
-    House of Babenberg ( Die Babenberger )
+    House of Babenberg ( Die Babenberger , Babenbergowie )
       Leopold V                                         1192-? ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Austria Leopold V]
       Leopold VI                                        1194-? ( Leopold VI the Glorious wg D.O.T.W.A.C.A.G.H. ) [Duke of Austria Leopold VI]
+      Fryderyk II Bitny                                 ?-1246 (?-15.6.) ( wg Z.1205 ) [Duke of Austria]
     House of Habsburg
       Rudolf I                                          1276-? ( wg D.O.T.W.A.C.A.G.H. ) [King of Germany Rudolf I]
   Bibliografia :
       Fridrich Barbarossa – císař a rytíř
       Dynasties of the World - A Chronological and Genealogical Handbook
       Goci - Rzeczywistość i legenda
+      Zawichost 1205
 
 Bishopric of St.Jean de Maurienne ( Bishopric of Savoy )
   Bibliografia :
@@ -29632,7 +29894,10 @@ Suzdal
     Dynastia Rurykowiczów
       Jurij I Dołgoruki		                              ? ( wg D.Ś. )
                                                         przed 1147 n.e.-? ( Yuri Dolgorukiy wg V.K.T.H.O.H.E. )
-  Wielkie Księstwo Suzdalskie
+                                                        przed 1149-po ok.1155 ( Jerzy Dołgoruki wg Z.1205 )
+  Wielkie Księstwo Suzdalskie ( Wielkie księstwo włodzimiersko-suzdalskie , Ruś Suzdalska )
+    Juriewicze
+      Wsiewołod Juriewicz                               przed 1194-po 1204 ( Wielkie Gniazdo (Wsiewołod, Wsiewołod Wielkie Gniazdo) wg Z.1205 )
     Dynastia Rurykowiczów
       Andrzej II  			                                ? ( wg D.Ś. )
   Księstwo Suzdalskie
@@ -29643,6 +29908,7 @@ Suzdal
       Dynastie Świata
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Litwa - Początki Państw
+      Zawichost 1205
 
 Wielkie Księstwo Suzdalsko-Niżnonowogrodzkie
   Borys                                                 ?
@@ -30724,9 +30990,10 @@ Państwo Śungów
                                                         1014-1024 ( St Henry II wg D.O.T.W.A.C.A.G.H. )
                                                         ?-1024 ( Henryk II (Heinrich II.) wg O.I.W. )
                                                         przed 1014-1024 ( Henryk II (Henryk) wg K.1018 )
+                                                        przed 1017-? ( Henryk II wg Z.1205 )
     Dynastia salicka ( Salian House , Sálská dynastie , Salijczycy )
       Konrad II              	                          1024-1039 ( wg V.N.M.S.D. i D.Ś. i Tapsella i N.I.B.W.XI.S. ) ( Konrád II wg D.B. i Z.S.A.V.E. )
-                                                        ? ( Konrád II wg E.P. )
+                                                        ? ( Konrád II wg E.P. ) ( wg Z.1205 )
                                                         przed 1033-? ( Conrad The Salic (Conrad II) wg V.K.T.H.O.H.E. )
                                                         przed 1033-1039 ( Konrad wg S.P.D.Z. )
                                                         1027-? ( Conrad II wg N.T.V.S. )
@@ -30802,6 +31069,7 @@ Państwo Śungów
                                                         przed 1157-po 1182 ( Fryderyk Barbarossa (Barbarossa) wg B.S. )
                                                         1155-1190 ( Frederick I (Frederick I Barbarossa) wg D.O.T.W.A.C.A.G.H. ) ( Frederick Barbarossa (Frederick, Barbarossa) wg H.O.W.P. )
                                                         1155-1190 (?-10.6.) ( Fridrich I. Barbarossa (Fridrich Barbarossa, Fridrich I., Fridrich, Frederick Barbarossa) wg S.V.D.K.V. )
+                                                        przed 1157-po 1189 ( Fryderyk Barbarossa (Fryderyk) wg Z.1205 )
       Henryk VI                          	              1190-1197 ( wg D.Ś. i Tapsella i K.V. ) ( Henryk VI Stauf (Heinrich VI, Henryk) wg F.H.C.R. )
                                                         1190-1198 ( wg V.N.M.S.D. )
                                                         przed 1194 -po 1196 ( Jindřich VI wg D.B. )
@@ -30825,6 +31093,7 @@ Państwo Śungów
                                                         1209-1214 ( Ota IV. Brunšvický (Ota IV.) wg S.V.D.K.V. )
                                                         przed 1212-1218 ( Otto wg H.O.W.P. )
                                                         ?-1215 ( Otton IV wg O.I.W. )
+                                                        przed 1214-? (27.7.-?) ( Otto IV z Brunszwiku wg Z.1205 )
     Dynastia Hohenstaufów ( House of Hohenstaufen , Štaufové , Staufowie )
       Fryderyk II                         	            1212-1250 ( wg D.Ś. i Tapsella ) ( Fridrich II wg D.P.I.R.G. ) ( Fridrich II Hohenštaufský wg D.B. ) ( Frederick II wg H.O.W.P. )
                                                         1215-1250 ( wg V.N.M.S.D. )
@@ -30837,6 +31106,7 @@ Państwo Śungów
                                                         1220-1250 (22.11.-13.12.) ( Fryderyk II Hohenstauf (Konstantyn, Fryderyk Roger, Fryderyk, Hohenstauf, Federico II, Friedrich II, Federico, Al-Anbaratur, Fryderyk II Stauf, Frederick II of Hohenstaufen, Friedrich der Zweite, Friedrich, Friedrich II. der Hohenstaufe, Friedrich II., Fryderyk Hohenstauf, Friedrich II. von Hohenstaufen) wg F.H.C.R. )
                                                         przed 1241-? ( Frederick II wg T.S.O.I.C.O.T.W. )
                                                         przed 1241-po 1241 (?.4.-?.5.) ( wg L.1241. )
+                                                        przed 1236-? ( Fryderyk II Hohenstauf wg Z.1205 )
       Henryk                               	            1220-1235 ( wg D.Ś. )
       Henryk Raspe z Turyngii	                          1246-1247 ( wg D.Ś. i Tapsella )
       Wilhelm z Holandii            	                  1247-1256 ( wg D.Ś. i Tapsella )
@@ -31023,6 +31293,7 @@ Państwo Śungów
       Burzliwe dzieje Kalifatu Bagdadzkiego
       Kijów 1018
       Chlodwik król Franków
+      Zawichost 1205
 
 Ta Jüe
   Bibliografia :
@@ -31513,14 +31784,16 @@ Kingdom of Tlemcen
   Bibliografia :
       Tamerlane - Sword of Islam, Conqueror of the World
 
-Księstwo Tmutorokańskie ( Księstwo Tmutarakańskie )
+Księstwo Tmutorokańskie ( Księstwo Tmutarakańskie , Tmutarakań )
   Mścisław                                              przed 1015-1036 ( Konstantyn wg K.1018 ) [Prince of Chernigov]
                                                         przed 1024-? ( wg J.P.1242 )
                                                         ? ( wg Z.N.E. )
+  Rościsław                                             ? ( wg Z.1205 ) [Prince of Halych] [Prince of Księstwo włodzimiersko-wołyńskie]
   Bibliografia :
       Zapomianie narody Europy
       Jezioro Pejpus 1242
       Kijów 1018
+      Zawichost 1205
 
 Tocharistan
   Bibliografia :
@@ -31584,10 +31857,12 @@ Topa ( T´opa )
   Bibliografia :
       Historia Chin
 
-Księstwo torczewskie
+Księstwo torczewskie ( Torczesk )
   Mścisław Mścisławowicz Udały                          przed 1221-? ( Mścisław Dawidowicz (Mścisław Mścisławowicz, Mścisław Udały) wg L.P.P. ) [Prince of Halich]
+                                                        przed 1227-1228 ( Mścisław Udały wg Z.1205 )
   Bibliografia :
       Litwa - Początki Państw
+      Zawichost 1205
 
 Toron
   Humfred II. z Toronu                                  ?-1179 n.e. ( Humfred wg S.V.D.K.V. )
@@ -31780,6 +32055,16 @@ Cesarstwo Trapezuntu ( Trebizond , The Empire of Trebizond , Trapezunt )
       Historia Wenecji
       Dynasties of the World - A Chronological and Genealogical Handbook
       Normanowie i Bizancjum w XI stuleciu
+
+Księstwo trembowelskie ( Trembowla )
+  Rościsławowicze
+    Wasylko Rościsławowicz                              przed 1097 n.e.-? ( Wasylko Rościsławicz (Wasylko, Wasylko Trembowelski) wg Z.1205 )
+    Iwan Wasylkowicz                                    ?-1141 ( Igor (Iwan) wg Z.1205 )
+    Władymirko                                          1141-? ( wg Z.1205 ) [Prince of Halicz]
+  Igorowicze
+    Izjasław                                            ?-1211 ( wg Z.1205 )
+  Bibliografia :
+      Zawichost 1205
 
 Trerowie
   Bibliografia :
@@ -33554,12 +33839,13 @@ Węgry ( Hungary , Uhry , Hangryn )
       Géza                     		                      ok.970-997 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       			       		                                  965-996 ( Gejza wg D.P.I.R.G. )
       			   		                                      ? ( Gejza wg Z.S.A.V.E. )
+                                                        972-997 ( Gejza wg Z.1205 )
       Stefan I Święty		                                997-1001 ( wg D.Ś. ) ( St Stephen I wg D.O.T.W.A.C.A.G.H. ) [King of Hungary]
       			       		                                  przed 997-? ( Štěpán I wg D.B. )
       			       		                                  przed 1000-1001 ( Štěpán I wg Z.S.A.V.E. )
                                                         przed 996-1000 (?-?.12.) ( Stefan I (Stefan) wg K.1018 )
-  Królestwo Węgier ( The Kingdom of Hungary )
-    Dynastia Arpadów ( House of Árpád )
+  Królestwo Węgier ( The Kingdom of Hungary , Korona św. Stefana , Kingdom of Hungary )
+    Dynastia Arpadów ( House of Árpád , Arpadowie )
       Stefan I Święty             	                    1001-1038 ( wg D.Ś. ) ( St Stephen I wg D.O.T.W.A.C.A.G.H. )
                                                         ok.985-1038 ( wg V.N.M.S.D. )
       			             	                              1000-? ( Štěpán I wg D.P.I.R.G. )
@@ -33568,6 +33854,7 @@ Węgry ( Hungary , Uhry , Hangryn )
                                                         ? ( Stefan (Stefan I) wg H.W. ) ( św. Stefan wg S.II.W.I.J.C.Z.E.M.P. i N.I.B.W.XI.S. ) ( Stefan I Wielki wg O.I.W. )
                                                         1000-1038 ( Svatý Štěpán (Štěpán) wg S.V.D.K.V. )
                                                         1000-po 1018 (?.12.-30.1.) ( Stefan I (Stefan) wg K.1018 )
+                                                        1001-po ok.1003 ( Stefan Święty (Stefan, Stefan I) wg Z.1205 )
       Piotr Orseolo                	                    1038-1041 i 1044-1046 ( wg D.Ś. ) ( Peter wg D.O.T.W.A.C.A.G.H. )
                                                         1038-1047 ( wg V.N.M.S.D. )
       		                            	                przed 1039-1041 ( Petr wg Z.S.A.V.E. )
@@ -33581,12 +33868,14 @@ Węgry ( Hungary , Uhry , Hangryn )
                                                         1061-1064 ( wg V.N.M.S.D. )
       Salomon                       	                  1063-1074 ( wg D.Ś. ) ( Salamon wg D.O.T.W.A.C.A.G.H. )
                                                         1064-1076 ( wg V.N.M.S.D. )
+                                                        ?-1074 ( wg Z.1205 )
       Géza I                           	                1074-1077 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ? ( Gejza II wg N.I.B.W.XI.S. )
-      Władysław I Święty		                            1077-1095 ( wg D.Ś. ) ( Ladislav I wg D.P.I.R.G. ) ( St Ladislas I wg D.O.T.W.A.C.A.G.H. ) ( Ladislav I. Svatý (Ladislav I.) wg S.V.D.K.V. )
+                                                        1074-? ( Gejza I wg Z.1205 )
+      Władysław I Święty		                            1077-1095 ( wg D.Ś. i Z.1205 ) ( Ladislav I wg D.P.I.R.G. ) ( St Ladislas I wg D.O.T.W.A.C.A.G.H. ) ( Ladislav I. Svatý (Ladislav I.) wg S.V.D.K.V. )
                                                         ok.1080-1095 ( wg V.N.M.S.D. )
       Ladislav Holý                       	            ? ( wg Z.S.A.V.E. )
-      Koloman                       	                  1095-1116 ( wg D.Ś. i N.I.B.W.XI.S. i D.O.T.W.A.C.A.G.H. ) ( Koloman I. wg S.V.D.K.V. )
+      Koloman                       	                  1095-1116 ( wg D.Ś. i N.I.B.W.XI.S. i D.O.T.W.A.C.A.G.H. ) ( Koloman I. wg S.V.D.K.V. ) ( Koloman Uczony wg Z.1205 )
                                                         1095-1114 ( wg V.N.M.S.D. )
             			              	                      ok.1096 ( wg K.V. )
       			              	                            przed 1074 -? ( wg Z.S.A.V.E. )
@@ -33596,8 +33885,10 @@ Węgry ( Hungary , Uhry , Hangryn )
                                                         1114-1131 ( wg V.N.M.S.D. )
       				       	                                  ? ( Štěpán II wg D.B. )
                                                         przed 1118-? ( wg H.W. )
+                                                        przed 1047-? ( wg Z.1205 )
       Béla II Ślepy                 	                  1131-1141 ( wg D.Ś. i V.N.M.S.D. ) ( Bela Ślepy (Béla Vak) wg W.W.K.R. ) ( Béla II (Béla II the Blind) wg D.O.T.W.A.C.A.G.H. ) ( Béla II. wg S.V.D.K.V. )
       			              	                            przed 1139-? ( wg F.B.C.A.R. )
+                                                        ? ( Bela II (Bela II Ślepy, Bela) wg Z.1205 )
       Géza II                          	                1141-1162 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Gejza II. (Géza) wg S.V.D.K.V. )
                                                         1141-1161 ( wg V.N.M.S.D. )
       			             	                              przed 1157-1162 ( ?-31.5. ) ( Gejza II wg F.B.C.A.R. )
@@ -33616,25 +33907,31 @@ Węgry ( Hungary , Uhry , Hangryn )
       Béla III                          	              1172-1196 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Béla III. (Béla III. Uherský) wg S.V.D.K.V. )
                                                         1173-1196 ( wg V.N.M.S.D. i E.P. )
       			              	                            przed 1184-po 1189 ( wg F.B.C.A.R. )
-      				       	                                  ? ( wg D.B. )
+      				       	                                  ? ( wg D.B. ) 
+                                                        przed 1180-po 1188 ( Bela III (Bela) wg Z.1205 )
                                                         przed 1189-? ( Bela II wg V.K.T.H.O.H.E. )
       Emeryk                          	                1196-1204 ( wg D.Ś. i V.N.M.S.D. ) ( Emerich wg S.V.D.K.V. )
                                                         ? ( wg F.H.C.R. )
                                                         1182/96-1204 ( Emeric wg D.O.T.W.A.C.A.G.H. )
+                                                        ?-1204 ( wg Z.1205 )
       Władysław III                	                    1204-1205 ( wg D.Ś. ) ( Ladislas III wg D.O.T.W.A.C.A.G.H. ) ( Ladislav III. wg S.V.D.K.V. )
+                                                        1204-? ( wg Z.1205 )
       Andrzej II                       	                1205-1235 ( wg D.Ś. i V.N.M.S.D. ) ( Andrew II wg D.O.T.W.A.C.A.G.H. ) ( Ondřej II. (Ondřej) wg S.V.D.K.V. )
       			               	                            ok.1217 ( wg K.V. )
       				                                          przed 1222-? ( Ondřej II wg D.P.I.R.G. )
                                                         ? ( wg L.P.P. )
+                                                        przed 1204-po 1235 (?-21.9.) ( Andrzej wg Z.1205 )
       Béla IV                           	              1235-1270 ( wg D.Ś. i V.N.M.S.D. i E.P. ) ( Béla IV. wg S.V.D.K.V. )
       				 	                                        1235-1269 ( wg D.P.I.R.G. )
                                                         przed 1240-po 1241 (?-11.4.) ( Bela IV wg F.H.C.R. )
                                                         przed 1241-? ( Bela IV wg L.1241. )
                                                         ? ( Bela IV wg L.P.P. )
                                                         1214/35-1270 ( wg D.O.T.W.A.C.A.G.H. )
+                                                        1235-po 1247 (14.10.-?) ( Bela IV (Bela) wg Z.1205 )
       Stefan V                          	              1270-1272 ( wg D.Ś. ) ( Štěpán V. wg S.V.D.K.V. )
                                                         1245/70-1272 ( Stephen V wg D.O.T.W.A.C.A.G.H. )
       Władysław IV Kuman    	                          1272-1290 ( wg D.Ś. i V.N.M.S.D. ) ( Ladislas IV (Ladislas IV the Cumanian) wg D.O.T.W.A.C.A.G.H. ) ( Ladislav IV. Kumán wg S.V.D.K.V. )
+                                                        ? ( wg Z.1205 )
       Karel Martel                                      1290-1295 ( wg S.V.D.K.V. )
       Andrzej III Wenecki       	                      1290-1301 ( wg D.Ś. i V.N.M.S.D. ) ( Andrew III (Andrew III the Venetian) wg D.O.T.W.A.C.A.G.H. ) ( Ondřej III. wg S.V.D.K.V. )
     Dynastia czeska ( House of Bohemia )
@@ -33648,12 +33945,14 @@ Węgry ( Hungary , Uhry , Hangryn )
                                                      	  1301-1342 ( wg V.N.M.S.D. )
       			        	                                  1308-1342 ( Karel Robert wg D.P.I.R.G. ) ( Karel I. Robert wg S.V.D.K.V. )
       				                                          przed 1330-? ( Karel I Robert wg E.P. )
+                                                        ? ( Karol Robert Andegaweński wg Z.1205 )
       Ludwik I Wielki    	                              1342-1382 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík I Veliký wg D.P.I.R.G. ) ( Louis I (Louis I the Great) wg D.O.T.W.A.C.A.G.H. ) ( Ludvík I. Veliký wg S.V.D.K.V. ) [King of Poland Louis the Great]
       			        	                                  przed 1366-? ( Ludvík wg D.B. )
       				                                          ? ( Ludvík Veliký wg Z.S.A.V.E. ) ( Ludwik Wielki wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ?-1382 ( Louis of Anjou wg V.K.T.H.O.H.E. )
                                                         przed 1356-po 1379 (?-7.5.) ( Ludwik Wielki wg H.W. )
                                                         przed 1345-po 1382 ( Ludwik Andegaweński (Ludwik, Andegaweńczyk, Ludwik Wielki) wg L.P.P. )
+                                                        przed 1366-po 1370 ( Ludwik Andegaweński (Ludwik) wg Z.1205 )
       Maria                  	                          1382-1385 i 1386-1395 ( wg D.Ś. ) ( Mary wg D.O.T.W.A.C.A.G.H. )
                                                       	1382-1392 ( wg V.N.M.S.D. )
                                                         1382-1395 ( Marie wg S.V.D.K.V. )
@@ -33718,6 +34017,7 @@ Węgry ( Hungary , Uhry , Hangryn )
       Józef I                             	            1705-1711 ( wg D.Ś. i V.N.M.S.D. )
       Karol III                           	            1711-1740 ( wg D.Ś. i V.N.M.S.D. )
       Maria Teresa                    	                1740-1780 ( wg D.Ś. i V.N.M.S.D. )
+                                                        przed 1772-? ( Maria Teresa Habsburg wg Z.1205 )
     Dynastia habsbursko-lotaryńska ( House of Habsburg-Lorraine )
       Józef II                      	                  1780-1790 ( wg D.Ś. i V.N.M.S.D. )
       Leopold II                 		                    1790-1792 ( wg D.Ś. )
@@ -33753,11 +34053,16 @@ Węgry ( Hungary , Uhry , Hangryn )
       Svaté války - Dějiny křižových výprav
       Otton I Wielki
       Kijów 1018
+      Zawichost 1205
 
-Węgrzy
-  Árpád                                                 ok.895 n.e.
+Węgrzy ( Hungarians )
+  Almos                                                 ? ( wg Z.1205 )
+  Árpád                                                 ok.895 n.e. ( wg B.S. )
+                                                        ? ( wg Z.1205 )
+  Taksony                                               ? ( wg Z.1205 )
   Bibliografia :
       Bitwy Słowian
+      Zawichost 1205
 
 Księstwo Wiaźmy
   Fiodor Światosławowicz                                przed 1345 n.e.-? ( Fedor Svjatoslavič wg L.P.P. ) [Książe dorohobuski]
@@ -33895,7 +34200,7 @@ Sułtanat Wielkich Seldżuków ( Seljuks , Seldżukowie , Great Seljuqid Sultana
       Svaté války - Dějiny křižových výprav
       Burzliwe dzieje Kalifatu Bagdadzkiego
 
-Księstwo Wielkomorawskie ( Państwo Wielkomorawskie , Wielka Morawa , Państwo Morawskie )
+Księstwo Wielkomorawskie ( Państwo Wielkomorawskie , Wielka Morawa , Państwo Morawskie , Wielkie Morawy )
   Mojmír I                  	                          po 833 n.e.-? ( wg D.P.I.R.G. )
       			 	                                          ok.830-? ( Mojmír wg D.B. )
       			        	                                  ? ( Mojmír wg Z.S.A.V.E. )
@@ -34207,45 +34512,35 @@ Wizygoci ( Terwingowie , The Visigoths , Vizigóti , Wezjowie , Vesi , Wesegoci 
       Chlodwik król Franków
       Řecko mezi Makedonií a Římem
 
-Księstwo Włodzimierskie [Wołyń]
+Księstwo Włodzimiersko-Halickie ( Ruś Włodzimiersko-Halicka , Księstwo Halicko-Włodzimierskie , Ruś Halicko-Wołyńska , Księstwo halicko-włodzimierskie , Księstwo halicko-wołyńskie )
   Romanowicze ( Dynastia Romanowiczów )
-    Daniel Romanowicz                                   przed ok.1217-? ( wg Z.N.E. ) [King of Halich]
-                                                        przed 1219-po 1227 ( Daniel wg L.P.P. )
-    Wasylko                                             przed 1245-po 1246 ( wg Z.N.E. ) [Prince of Halicz and Volyn]
-                                                        ? ( Wasylko Romanowicz (Wasylko, Wasilko) wg L.P.P. )
-  Dymitr                                                ? ( wg L.P.P. )
-  Włodzimierz Wasylkowicz                               przed 1277-? ( wg L.P.P. )
-  Mścisław Daniłowicz                                   ? ( wg L.P.P. )
-  Lubart Giedyminowicz                                  1340-1349 i ? ( wg L.P.P. )
-  Aleksander Koriatowicz                                1366-1370 ( Aleksander wg L.P.P. ) [Książe podolski]
-  Bibliografia :
-      Zapomianie narody Europy
-      Litwa - Początki Państw
-
-Księstwo Włodzimiersko-Halickie ( Ruś Włodzimiersko-Halicka , Księstwo Halicko-Włodzimierskie , Ruś Halicko-Wołyńska )
-  Romanowicze ( Dynastia Romanowiczów )
-    Roman                                               przed 1196-po 1197 ( wg Z.N.E. )
+    Roman                                               przed 1196-po 1197 ( wg Z.N.E. ) [Prince of Kiev Roman] [Prince of Novgorod Roman]
                                                         przed 1195-? (13.9.-?) ( Roman Halicki wg B.S. )
                                                         ? ( Roman Mścisławowicz wg L.P.P. )
+                                                        przed ok.1199-1205 (?-19.6.) ( Roman Mścisławowicz (Mścisławowicz, Roman Mstysławycz, Roman II) wg Z.1205 ) 
     Daniel Romanowicz                                   przed 1229-po 1252 ( Romanowicz wg L.P.P. ) [King of Halich]
+                                                        1205-? i przed 1243-po 1253 ( Daniel (Daniel Halicki) wg Z.1205 )
     Wasylko Romanowicz                                  przed 1229-? ( Wasylko wg L.P.P. )
+    Lew Daniłowicz                                      przed ok.1290-1301 ( Lew (Lew I Daniłowicz) wg Z.1205 )
   Bolesław Jerzy II                                     przed 1331-1340 (?-7.4.) ( Bolesław Jerzy II Trojdenowic (Bolesław Trojdenowic, Trojdenowic) wg L.P.P. )
   Bibliografia :
       Zapomianie narody Europy
       Litwa - Początki Państw
+      Zawichost 1205
 
 Włodzimierz ( Vladimir-Suzdal )
-  Księstwo Włodzimierskie
+  Księstwo Włodzimierskie ( Księstwo włodzimiersko-suzdalskie )
     Izjaslav Mstislavič			                            1134-1154 ( wg E.P. )
     Dynastia Rurykowiczów ( House of Rurik )
       Andrzej I Bogolubski                    	        1157-1174 ( wg D.Ś. ) ( Andrew I (Andrew I Bogolyubskii) wg D.O.T.W.A.C.A.G.H. )
                                                         1157-1177 ( wg V.N.M.S.D. )
       					       	                                ? ( Andrej Bogoljubský wg D.B. )
+                                                        przed 1169-? ( Andrzej Bogolubski (Andrzej Bogoliubski) wg Z.1205 )
       Michał I ( Michałko )                     	      1174-1176 ( wg D.Ś. ) ( Michael I wg D.O.T.W.A.C.A.G.H. )
       Wsiewołod III Wielkie Gniazdo    	                1176-1195 ( wg D.Ś. ) ( Vsevolod III (Vsevolod III Big Nest) wg D.O.T.W.A.C.A.G.H. ) [Grand Prince of Vladimir]
                                                         1177-1195 ( wg V.N.M.S.D. )
                                                         przed 1192-? ( Wsiewołod Juriewicz (Wsiewołod Wielkie Gniazdo, Wsiewołod III) wg J.P.1242 )
-  Wielkie Księstwo Włodzimierskie ( Księstwo Włodzimiersko-Suzdalskie , Księstwo Włodzimierskie , Ruś Włodzimiersko-Suzdalska )
+  Wielkie Księstwo Włodzimierskie ( Księstwo Włodzimiersko-Suzdalskie , Księstwo Włodzimierskie , Ruś Włodzimiersko-Suzdalska , Wielkie księstwo włodzimierskie )
     Dynastia Rurykowiczów ( House of Rurik )
       Wsiewołod III Wielkie Gniazdo	                    1195-1212 ( wg D.Ś. ) ( Vsevolod III (Vsevolod III Big Nest) wg D.O.T.W.A.C.A.G.H. )
                                                         1195-1213 ( wg V.N.M.S.D. )
@@ -34254,11 +34549,13 @@ Włodzimierz ( Vladimir-Suzdal )
                                                       	1213-1238 ( wg V.N.M.S.D. )
                                                         przed 1238-? (4.3.-?) ( Jerzy Wsiewołodowicz wg L.1241. )
                                                         ? ( Jurij wg J.P.1242 )
+                                                        ?-1238 (?-4.3.) ( Jerzy Wsiewołodowicz wg Z.1205 )
       Konstantyn                                    	  1216-1218 ( wg D.Ś. ) ( Constantine wg D.O.T.W.A.C.A.G.H. )
       Dynastia Wsiewołodowiczów
         Jarosław II                                     1238-1246 ( wg D.Ś. ) ( Jarosław (Jarosław Wsiewołodowicz) wg J.P.1242 ) ( Yaroslav II wg D.O.T.W.A.C.A.G.H. )
                                                        	1238-1245 ( wg V.N.M.S.D. )
                                                         przed 1239-? ( Jarosław Wsiewołodowicz wg L.P.P. )
+                                                        przed 1238-? ( Jarosław Wsiewołodowicz wg Z.1205 )
       Światosław                                    	  1247 ( wg D.Ś. ) ( Svyatoslav wg D.O.T.W.A.C.A.G.H. )
       Andrzej II                                      	1247-1252 ( wg D.Ś. ) ( Andrew II wg D.O.T.W.A.C.A.G.H. )
                                                         ?-1252 ( Andrzej Jarosławowicz (Andrzej) wg J.P.1242 )
@@ -34304,6 +34601,7 @@ Włodzimierz ( Vladimir-Suzdal )
       Litwa - Początki Państw
       Jezioro Pejpus 1242
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Zawichost 1205
 
 Państwo Wolinian
   Bibliografia :
@@ -34330,14 +34628,53 @@ Wołynianie
       Zrod střední a východní Evropy
 
 Wołyń
-  Księstwo Wołyńskie
-    Oleg Svjatoslavič	                                  ?-1076 n.e. ( wg E.P. )
-    Jarosław Światopełkowicz                            przed 1112-? ( wg L.P.P. )
+  Wsiewołod Włodzimierzowic                             przed 988 n.e.-? ( wg Z.1205 )
+  Księstwo Wołyńskie ( Księstwo włodzimiersko-wołyńskie , Włodzimierz Wołyński , Księstwo włodzimiersko )
+    Igor                                                1054-1057 ( Igor Jarosławowicz wg Z.1205 ) [Prince of Smolensk]
+    Rościsław                                           1057-1060 ( wg Z.1205 ) [Prince of Halych] [Prince of Tmutarakan]
+    Rurykowicze
+      Oleg Svjatoslavič	                                ?-1076 ( wg E.P. )
+                                                        1075-1076 ( Oleg Światosławowicz wg Z.1205 )
+      Jaropełk Izasławowicz                             1078-1086 ( wg Z.1205 )
+    Igorowicze
+      Dawid Igorowicz                                   przed 1097-1099 ( Dawid wg Z.1205 )
+    Światopełkowicze
+      Mścisław                                          1099-1100 ( wg Z.1205 )
+      Jarosław Światopełkowicz                          przed 1112-? ( wg L.P.P. )
+                                                        1100-1118 ( Jarosław wg Z.1205 )
+    Monomachowicze
+      Andrzej                                           przed 1119-po 1123 ( Andrzej Włodzimierzowic (Andrzej Włodzimierzowic Dobry) wg Z.1205 )
+    Izjasław Mścisławowicz                              ? ( wg Z.1205 ) [Prince of Kiev Izjasław II]
+    Mścisław Izjasławowicz                              przed 1151/2-? i przed ok.1160-1170 (? i ?-19.8.) ( Mścisław (Mścisław Chrobry) wg Z.1205 ) [Grand Prince of Kiev Mścisław II Chrobry]
+    Mścisławowicze
+      Roman                                             przed 1180-po 1188 i przed 1191-po 1198 ( Roman Mścisławowicz (Mścisławowicz) wg Z.1205 ) [Prince of Halicz and Volyn]
+    Wsiewołod                                           ok.1188 ( wg Z.1205 )
+  Księstwo Włodzimierskie
+    Aleksander Wsiewołodowicz                           ? i przed 1211-po 1214 ( Aleksander wg Z.1205 )
+    Ingwar                                              ? ( wg Z.1205 )
+    Romanowicze ( Dynastia Romanowiczów )
+      Daniel Romanowicz                                 przed ok.1217-? ( wg Z.N.E. ) [King of Halich]
+                                                        przed 1219-po 1227 ( Daniel wg L.P.P. )
+                                                        ? i przed 1217-po 1233/4 (? i ?-koniec/początek) ( Daniel (Romanowicz, Daniel Halicki) wg Z.1205 )
+    Igorowicze
+      Światosław                                        ? ( wg Z.1205 )
+    Romanowicze ( Dynastia Romanowiczów )
+      Wasylko                                           przed 1245-po 1246 ( wg Z.N.E. ) [Prince of Halicz and Volyn]
+                                                        ? ( Wasylko Romanowicz (Wasylko, Wasilko) wg L.P.P. )
+                                                        przed 1238-po 1245/6 ( Wasylko Romanowicz wg Z.1205 )
+    Dymitr                                              ? ( wg L.P.P. )
+    Włodzimierz Wasylkowicz                             przed 1277-? ( wg L.P.P. )
+    Mścisław Daniłowicz                                 ? ( wg L.P.P. )
+    Lubart Giedyminowicz                                1340-1349 i ? ( wg L.P.P. )
+                                                        ? ( Lubart wg Z.1205 )
+    Aleksander Koriatowicz                              1366-1370 ( Aleksander wg L.P.P. ) [Książe podolski]
   Dymitr Detko                                          ? ( wg L.P.P. )
   Daniel Ostrogoski                                     ? ( wg L.P.P. )
   Bibliografia :
     Encyklopedie panovníků
+    Zapomianie narody Europy
     Litwa - Początki Państw
+    Zawichost 1205
 
 Wormacja ( Worms )
   Burchard                                              ?-1025 n.e. ( wg S.V.D.K.V. )
@@ -34382,6 +34719,11 @@ Würzburg
       Fridrich Barbarossa – císař a rytíř
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
+
+Księstwo wyszogrodzkie
+  Izjasław Włodzimierzowicz                             przed 1236 n.e.-? (lato-?) ( wg Z.1205 )
+  Bibliografia :
+      Zawichost 1205
 
 Yamassee
   Bibliografia :
@@ -34437,10 +34779,12 @@ Zabulistan
   Bibliografia :
       Rýžoviště zlata a doly drahokamů
 
-Zachlumianie
-  Michał                                                ok.910-ok.950
+Zachlumianie ( Zachumianie )
+  Michał                                                ok.910-ok.950 ( wg Z.N.E. )
+                                                        ? ( wg Z.1205 )
   Bibliografia :
       Zapomianie narody Europy
+      Zawichost 1205
 
 Zadan
 
@@ -34571,7 +34915,7 @@ Państwo Zirydów ( Państwo Ziridów )
       Říše slova - Jazykové dějiny světa
       Fryderyk II Hohenstauf - Cesarz Rzymski
 
-Złota Orda ( Chanat Kipczacki, Golden Horde , Zlatá horda , Kipčak , Juchid Empire , Jochid Empire , Djőčid Empire , Dasht-i-Kipchak , Kipchaks , Zołotaja Orda )
+Złota Orda ( Chanat Kipczacki, Golden Horde , Zlatá horda , Kipčak , Juchid Empire , Jochid Empire , Djőčid Empire , Dasht-i-Kipchak , Kipchaks , Zołotaja Orda , Ułus Dżocziego )
   Dynastia Czyngizydów
     Batu                      	                        1227-1255 ( wg D.Ś. i I.M. )
   				                                              przed 1241-po 1248 ( Batu-chan wg E.P. )
@@ -34581,6 +34925,7 @@ Złota Orda ( Chanat Kipczacki, Golden Horde , Zlatá horda , Kipčak , Juchid E
                                                         przed 1242-1255/6 ( wg T.S.O.I.C.O.T.W. )
                                                         ? ( wg L.P.P. )
                                                         przed 1236-po 1246 ( Batu-chan wg J.P.1242 )
+                                                        przed 1245-? ( Batu-chan wg Z.1205 )
     Sartak                    	                        1255-1256 ( wg D.Ś. i I.M. )
     Ulagczy                	                            1256-1257 ( wg D.Ś. i I.M. )
     Berke                    	                          1257-1267 ( wg D.Ś. )
@@ -34631,6 +34976,12 @@ Złota Orda ( Chanat Kipczacki, Golden Horde , Zlatá horda , Kipčak , Juchid E
       Litwa - Początki Państw
       Jezioro Pejpus 1242
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+      Zawichost 1205
+
+Księstwo znojemskie
+  Konrad II                                             ? ( wg Z.1205 )
+  Bibliografia :
+      Zawichost 1205
 
 Królestwo Zulu ( Zulu Empire , The Zulu Kingdom )
   Senzangakona		                                      1781-1816 ( wg D.Ś. )
@@ -34678,7 +35029,7 @@ Zwienigorod
 Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet Socialist Republics , Soyuz Sovetskikh Sotsialisticheskikh Republik , Sovětský svaz , Związek Radziecki , ZSRR , USSR , ZSRS )
   Lenin                                                 ? ( wg F.C.A.R.F. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.S.O.I.C.O.T.W. i H.T.B.A.G. i U.E. i H.S.J.M. i K.W.P.M.N.C. i T.D.W.S.A.A.C.I.T.D. i H.O.W.P. ) ( Władimir I. Lenin (W.I.Lenin) wg T.R.L.Z.S.L.R.S.B. )
   Józef V. Stalin                       	              przed 1941-1953 ( wg 100.N.V.S. )
-    				    	                                      przed 1934 -po 1945 ( wg M.Ś. )
+    				    	                                      przed 1934-po 1945 ( wg M.Ś. )
                                                         przed 1953-? ( wg P.J.D. )
                                                         ? ( wg Ř.S.J.Ď.S. i F.C.A.R.F. ) ( J.W.Stalin wg Z.N.E. ) ( Stalin wg H.T.B.A.G. i U.E. i K.W.P.M.N.C. i D.I.A.T.P. i H.O.W.P. i T.D.O.T.T. ) ( Stalin (Josef Stalin) wg T.D.W.S.A.A.C.I.T.D. ) ( Joseph Stalin (Stalin) wg N.B.Y.T.S.O.W.W.T.A.W.W.B. i T.E.I.T.B.H.M.I.E.L. )
                                                         przed 1939-po 1945 (?-21.1.)
@@ -34687,6 +35038,7 @@ Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet
                                                         przed 1941-po 1953 ( Stalin (Józef Stalin, I. Dżugaszwili, Iosif W. Stalin) wg T.R.L.Z.S.L.R.S.B. )
                                                         przed 1941-? (7.11.-?) ( Stalin wg J.P.1242 )
                                                         przed 1946-po 1947 ( Josif Vissarionovič (Stalin) wg H.S.J.M. )
+                                                        przed 1951-? (12.7.-?) ( Stalin wg J.P.A. )
   Nikita Chruszczow                	                    1957-1964 ( wg 100.N.V.S. )
     				    	                                      przed 1960-? ( wg M.Ś. )
                                                         przed 1955-1964 ( ?-?.10. ) ( Nikita Khrushchev wg F.C.A.R.F. )
@@ -34723,6 +35075,7 @@ Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet
       History of Western Philosophy
       The Elephant in the Brain - Hidden Motives in Everyday Life
       The Day of the Triffids
+      Ja, Pustelnik. Autobiografia
 
 Państwo Zyjadydów
   Ibrahim ibn Muhammad                                  859-902
@@ -34931,5 +35284,7 @@ Bibliografia :
     [157] Řecko mezi Makedonií a Římem , Pavel Oliva , 1995
     [158] The Day of the Triffids [Introduction] , John Wyndham [Barry Langford] , 2000
     [159] Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750 , Jonathan I. Israel , 2001
+    [160] Ja, Pustelnik. Autobiografia , Piotr Pustelnik , Piotr Trybalski , 2018
+    [161] Zawichost 1205 , Artur Foryt , 2021
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
