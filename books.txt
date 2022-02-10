@@ -194,6 +194,7 @@ POP.SCIENCE :
             Zdumiewająca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
         NUTRITION
             Pure, White and Deadly - How Sugar is Killing Us and What We Can Do to Stop It ; John Yudkin
+        Blueprint - How DNA makes us who we are ; Robert Plomin
         Červená královna - sexualita a vývoj lidské přirozenosti ; Matt Ridley
         Dinosauři - Velký obrazový atlas ; David Norman
         Entomologie w obrázcích ; Vitalij Tanasijcuk
@@ -273,6 +274,7 @@ POP.SCIENCE :
         Arménie – tři tisíce let dějin a kultůry ; Burchard Brentjes
         Asýrie - od městského státu k říši ; Jana Pečírková
         Atlas čínských dějin ; Jiří Fidler , Jaroslav Synek
+        Atlas rané kolonizace - Od Kolumba po Bolívara ; Marcel Dorigny
         Æthelred the Unready - The Failed King , Richard Abels
         Berlin 1945 ; Stanisław Komornicki
         Bilý orel, rudá hvězda ; Norman Davies
