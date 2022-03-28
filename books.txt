@@ -121,6 +121,7 @@ FILOZOFIA:
 FIZYKA:
     Kwark i Jaguar ; Murray Gell-Mann
     Tváří v tvář ; Steven Weinberg
+    What if ? A co, gdyby ? - Naukowe odpowiedzi na absurdalne i hipotetyczne pytania ; Randall Munroe
 HISTORIA:
     A short account of the Destruction of the Indies ; Bartolome de las Casas
     Indiański Napoleon Gór Skalistych ; Arkady Fiedler , Marek Fiedler
@@ -193,6 +194,7 @@ POP.SCIENCE :
             Zdumiewająca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
         NUTRITION
             Pure, White and Deadly - How Sugar is Killing Us and What We Can Do to Stop It ; John Yudkin
+        Blueprint - How DNA makes us who we are ; Robert Plomin
         Červená královna - sexualita a vývoj lidské přirozenosti ; Matt Ridley
         Dinosauři - Velký obrazový atlas ; David Norman
         Entomologie w obrázcích ; Vitalij Tanasijcuk
@@ -262,6 +264,7 @@ POP.SCIENCE :
         Tváří v tvář ; Steven Weinberg
         W Poszukiwaniu Kota Schrödingera ; John Gribbin
         W Poszukiwaniu Nieskończoności , na tropie tajemnic wszechświata ; Gordon Fraser , Egil Lillestol , Inge Sellevag
+        What if ? A co, gdyby ? - Naukowe odpowiedzi na absurdalne i hipotetyczne pytania ; Randall Munroe
     HISTORIA:
         100 Nejvlivnějších vojevůdců světa ; Michael Lee Lanning
         100 Najwybitniejszych Uczonych Wszech Czasów ; John Simmons
@@ -271,6 +274,7 @@ POP.SCIENCE :
         Arménie – tři tisíce let dějin a kultůry ; Burchard Brentjes
         Asýrie - od městského státu k říši ; Jana Pečírková
         Atlas čínských dějin ; Jiří Fidler , Jaroslav Synek
+        Atlas rané kolonizace - Od Kolumba po Bolívara ; Marcel Dorigny
         Æthelred the Unready - The Failed King , Richard Abels
         Berlin 1945 ; Stanisław Komornicki
         Bilý orel, rudá hvězda ; Norman Davies
@@ -354,8 +358,10 @@ POP.SCIENCE :
         Pomnik w Kalkówce ; Tadeusz Jurga
         Przedmurze Starówki ; Bogusław Szumski
         Přemožitel neviditelných dravců ; František Gel
+        Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750 ; Jonathan I. Israel
         Ród Indian Algonkinów ; Arkady Fiedler , Marek Fiedler
         Rýžoviště zlata a doly drahokamů ; Abu L-Hasan 'Alí Al-Mas'údí
+        Řecko mezi Makedonií a Římem ; Pavel Oliva
         Římané v Germánii ; Reinhard Wolters
         Říše Inků ; Victor W. von Hagen
         Sapiens - A Brief History of Humankind ; Yuval Noah Harrari
@@ -390,6 +396,7 @@ POP.SCIENCE :
         Za Wolność i Lud - Opowiadania z lat 1861-1864 ; Marya Wysłouchowa
         Zaginione miasta - 50 najsłynniejszych odkryć ; Paul G. Bahn
         Zamach na Koppego ; Tadeusz Jurga
+        Zawichost 1205 ; Artur Foryt
         Zapomniane narody Europy ; Jerzy Strzelczyk
         Zdraví Vás Caesar - Jak se žilo ve starém Římě ; Joachim Fernau
         Zrod střední a východní Evropy , mezi Byzancí a Římem ; František Dvorník
@@ -429,6 +436,7 @@ POP.SCIENCE :
         Hory shora - Příběhy ze sedmi osmitisícovek ; Radek Jaroš , Arnošt Tabášek
         Into The Wild ; Jon Krakauer
         Into Thin Air , A personal account of the Everest disaster ; Jon Krakauer
+        Ja, Pustelnik. Autobiografia ; Piotr Pustelnik , Piotr Trybalski
         Karpatské hry ;  Miloslav Nevrlý
         Krzysztof Wielicki - Piekło mnie nie chciało ; Dariusz Kortko , Marcin Pietraszewski
         Kukuczka - opowieść o najsłynniejszym polskim himalaiście ; Dariusz Kortko , Marcin Pietraszewski
