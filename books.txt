@@ -404,6 +404,7 @@ POP.SCIENCE :
         Židé v římském světě ; Michael Grant
     INFORMATYKA:
         Algorithms to Live By - The Computer Science of Human Decisions ; Brian Christian , Tom Griffiths
+        Coders at Work - Reflections on the Craft of Programming ; Peter Seibel
         Časovaná bomba roku 2000 ; Richard Krejčí
         Sztuczna Inteligencja ; Witold Marciszewski
         Sztuczny Mózg - To Już Nie Fantazje ; Andrzej Buller
