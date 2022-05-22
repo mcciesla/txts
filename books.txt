@@ -31,6 +31,7 @@ Aldous Huxley - Brave New World
 Antoine de Saint-Exupéry - Malý princ
 Arkadij Strugacki , Boris Strugacki - Piknik u cesty
 George Orwell - Nineteen Eighty-Four
+Jean Van Hamme , Grzegorz Rosiński - Thorgal - 1. Zdradzona czarodziejka
 John Ronald Ruel Tolkien - The Children of Hurin
                          - The Silmarillion
 John Steinbeck - Of Mice and Men
@@ -328,6 +329,7 @@ POP.SCIENCE :
         Královská tažení ve starém Orientu - Od Sinuheta k Nabukadnezarovi ; Alfred Jepsen
         Kronika Rzymu i Cesarstwa Rzymskiego ; Aleksander Krawczuk
         Křížové výpravy ; Antony Bridge
+        Książęta piastowscy Śląska ; Zygmunt Boras
         Kubiłaj-chan - władca największego imperium w dziejach ; John Mann
         Legnica 1241 ; Jerzy Maroń
         Leyte 1944 ; Zbigniew Flisowski
@@ -374,6 +376,7 @@ POP.SCIENCE :
         Starověká Persie ; Henri Stierlin
         Starożytne Cywilizacje ; John Haywood
         Starożytny Bliski Wschód ; Daniel Arnoud
+        Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině ; Jarmila Bednaříková
         Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty ; Jerzy S. Łątka
         Svaté války - Dějiny křižových výprav ; Christopher Tyerman
         Svět helénismu ; Pavel Oliva
@@ -405,6 +408,7 @@ POP.SCIENCE :
         Židé v římském světě ; Michael Grant
     INFORMATYKA:
         Algorithms to Live By - The Computer Science of Human Decisions ; Brian Christian , Tom Griffiths
+        Coders at Work - Reflections on the Craft of Programming ; Peter Seibel
         Časovaná bomba roku 2000 ; Richard Krejčí
         Sztuczna Inteligencja ; Witold Marciszewski
         Sztuczny Mózg - To Już Nie Fantazje ; Andrzej Buller
@@ -1806,7 +1810,8 @@ Twardowski , Jan - Spóźnione kukanie - O
                                   - (Dzień dobry krzyżu święty) - O
 Ulcak , Ladislav - Skarb pod Hukwaldskim zamkiem - POL
 Umiński , Władysław - Wędrowiec leśny - O
-Van Hamme , Jean ; Rosiński , Grzegorz - Thorgal - 3. Trzej starcy z kraju Aran - POL
+Van Hamme , Jean ; Rosiński , Grzegorz - Thorgal - 1. Zdradzona czarodziejka - POL
+                                                 - 3. Trzej starcy z kraju Aran - POL
                                                  - Dítě z hvězd - CZ
 Van Tilburg Clark , Walter - Indiańska studnia - POL
 Verne , Jules - Děti kapitána Granta - CZ

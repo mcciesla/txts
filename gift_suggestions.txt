@@ -1,9 +1,10 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
-      - The Fabric of Reality - David Deutsch
+      - Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts - Stanislas Dehaene
       - The Fall of Rome: And the End of Civilization - Bryan Ward-Perkins
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
       - Kronika Slovanu - Helmold z Bosau
+      - Reading in the Brain: The New Science of How We Read - Stanislas Dehaene
       - How to Solve It - George Pólya
       - Colossus - Dennis Feltham Jones
       - Notatki z podziemia - Fiodor Dostojewski
@@ -18,6 +19,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Plague Cycle: The Unending War Between Humanity and Infectious Disease - Charles Kenny
       - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
       - The Empire of the Steppes: A History of Central Asia - René Grousset
+      - Principles of Population Genetics - Daniel L. Hartl, Andrew G. Clark
       - Warriors and Worriers: The Survival of the Sexes - Joyce F. Benenson
       - The Strategy of Conflict - Thomas C. Schelling
       - Proofs from THE BOOK - Martin Aigner, Günter M. Ziegler
@@ -64,6 +66,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Problems in Philosophy: The Limits of Inquiry - Colin McGinn
       - Adventures of a Mathematician - Stanisław Marcin Ulam
       - Endless Forms Most Beautiful: The New Science of Evo Devo - Sean B. Carroll
+      - The Number Sense: How the Mind Creates Mathematics - Stanislas Dehaene
       - Economics for the Common Good - Jean Tirole
       - On the Origin of Species - Charles Darwin
       - The Sciences of the Artificial - Herbert A. Simon
@@ -85,6 +88,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Center Cannot Hold : My Journey Through Madness - Elyn R. Saks
       - Real World Haskell - Bryan O'Sullivan, John Goerzen, Donald Bruce Stewart
       - Haskell High Performance Programming - Samuli Thomasson
+      - Free Speech: A History from Socrates to Social Media - Jacob Mchangama
       - D Web Development - Kai Nacke
       - The Village Effect - Susan Pinker
       - Lying - Sam Harris
@@ -123,10 +127,10 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
                 - Doskonala proznia
                 - Wielkosc urojona
     Thorgal - wszystkie komiksy oprocz :
+                                  - 1. Zdradzona czarodziejka
                                   - 3. Nad jeziorem bez dna
                                   - 18. Słoneczny miecz
                                   - 19. Niewidzialna forteca
-    Wiedźmin Tom 7 - Andrzej Sapkowski [Karolina]
     Maladie i inne opowiadania - Andrzej Sapkowski
     Sezon burz - Andrzej Sapkowski
 movies - The Act of Killing - Joshua Oppenheimer
@@ -141,3 +145,4 @@ mountains
     - Nemo Hornet 2P
   - mobile power bank with solar panels
   - swiss knife (small)
+  - water filtration system - https://www.sawyer.com/products/micro-squeeze-water-filtration-system
