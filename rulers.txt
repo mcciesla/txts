@@ -2113,9 +2113,11 @@ Arvad
 
 Arwernowie
   Bituitis                   	                          ok.121 p.n.e. ( wg D.R. )
+                                                        ? ( Bituitos wg G.B.5.5.P.N.E. )
   Wercyngetoryks		                                    ok.52-po 50 ( wg D.R. )
       	                                                ? ( wg H.P.S. i O.A.O.C.E. ) ( Vercingetorig wg Ř.V.G. ) ( Vercingetorix wg Z.V.C. i Ř.S.J.Ď.S. )
                                                         52 ( wg B.5.5.P.N.E. )
+                                                        ?-52 (?-?.9/10.) ( wg G.B.5.5.P.N.E. )
   Bibliografia :
       Dzieje Rzymu
       Historia Powszechna – Starożytność
@@ -2124,6 +2126,7 @@ Arwernowie
       Oktawian August - Ojciec Chrzestny Europy
       Říše slova - Jazykové dějiny světa
       Brytania 55-54 p.n.e.
+      Galia belgijska 57-51 p.n.e.
 
 Arwystli
   Bibliografia :
@@ -2738,10 +2741,12 @@ Atintánové
   Bibliografia :
       Řecko mezi Makedonií a Římem
 
-Atrebatowie
+Atrebatowie ( Atrebates )
   Kommiusz                                              przed 55 p.n.e.-po 55 p.n.e. (25.8.-?.9.) ( Kommiusz Atrebata wg B.5.5.P.N.E. )
+                                                        57-po 51 (?-?.5.) ( wg G.B.5.5.P.N.E. )
    Bibliografia :
       Brytania 55-54 p.n.e.
+      Galia belgijska 57-51 p.n.e.
 
 Augsburg
   Biskupstwo Augsburga
@@ -4020,6 +4025,10 @@ Belgia ( Belgium )
       Dynasties of the World - A Chronological and Genealogical Handbook
 
 Bellontowie
+
+Bellowakowie ( Bellovaci )
+  Bibliografia :
+      Galia belgijska 57-51 p.n.e.
 
 Belluno
   Bibliografia :
@@ -9084,10 +9093,13 @@ Ebla
   Bibliografia :
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
-Eburonowie
-  Ambioryks                                             ok.54 p.n.e.
+Eburonowie ( Eburones )
+  Katuwolkus                                            przed 54-53 (21.10.-po ?.8.) ( wg G.B.5.5.P.N.E. )
+  Ambioryks                                             ok.54 p.n.e. ( wg D.R. )
+                                                        przed 54-po 53 (21.10.-?) ( Ambroniks wg G.B.5.5.P.N.E. )
   Bibliografia :
       Dzieje Rzymu
+      Galia belgijska 57-51 p.n.e.
 
 Edessa ( Urfa )
   Abgar              	                                  ? ( wg D.B. ) ( Abgar Černý wg Ž.V.Ř.S. )
@@ -9135,12 +9147,12 @@ Edonowie
       Zrození Řecka
 
 Eduowie
-  Dywicjak                                              ?-ok.58 p.n.e.
+  Dywicjak                                              ?-ok.58 p.n.e. ( wg D.R. )
   Bibliografia :
       Dzieje Rzymu
 
 Efate
-  Marika Tikaikowa                                      przed 1863-?
+  Marika Tikaikowa                                      przed 1863 n.e.-? ( wg O.L. )
   Bibliografia :
       Ostrovy lidojedů
 
@@ -11260,7 +11272,7 @@ Francja ( France , Francie , Frankreich )
 			    	                                            ?-1814 ( wg 100.N.U.W. )
 			    	                                            przed 1805-? ( Napoleon Bonaparte wg B.M. ) ( wg Z.G.C.O.P. )
 			    	                                            przed 1798-1814 i 1815 ( wg M.Ś. )
-			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i U.E. i H.S.J.M. i O.I.W. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. i S.II.W.I.J.C.Z.E.M.P. ) ( Napoleon I Bonaparte wg B.5.5.P.N.E. )
+			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i U.E. i H.S.J.M. i O.I.W. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. i S.II.W.I.J.C.Z.E.M.P. ) ( Napoleon I Bonaparte wg B.5.5.P.N.E. ) ( Napoleon Bonaparte (Napoleon, N.Bonaparte) wg G.B.5.5.P.N.E. )
 				                                                przed 1812-? ( Napoleon Bonaparte wg B.O.R.H. )
 				                                                przed 1815-? ( Napoleon wg G.T.G. )
                                                         1805-1814 i 1815 (?-11.4. i ?-?.6.) ( Napoleon wg V.K.T.H.O.H.E. )
@@ -11298,6 +11310,7 @@ Francja ( France , Francie , Frankreich )
                                                         1852-po 1870 ( Charles Louis-Napoleon Bonaparte wg V.K.T.H.O.H.E. )
                                                         ok.1865 ( wg S.A.B.H.O.H. )
                                                         1852-po 1870 (?.12.-1.9.) ( Napoleon III. wg P.N.D. )
+                                                        przed 1862-? ( wg G.B.5.5.P.N.E. )
   Republique Française ( Third Republic , III Republika , III Republika Francuska )
     prime ministers
       Georges Clemenceau                                ? ( wg E.N.T.C.F.R.S.H.A.P. )
@@ -11388,6 +11401,7 @@ Francja ( France , Francie , Frankreich )
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Książęta piastowscy Śląska
+      Galia belgijska 57-51 p.n.e.
 
 Frankfurt
   Principality of Frankfurt
@@ -15982,8 +15996,10 @@ Księstwo karniowskie
 
 Karnutowie
   Tasgecjusz                                            ?-54 p.n.e. (?-ok.10.10.) ( wg B.5.5.P.N.E. )
+                                                        ?-54 p.n.e. (?-?.10.) ( wg G.B.5.5.P.N.E. )
   Bibliografia :
       Brytania 55-54 p.n.e.
+      Galia belgijska 57-51 p.n.e.
 
 Karpowie
 
@@ -22800,6 +22816,10 @@ Królestwo Nepalu ( Nepál , Nepal )
   Bibliografia :
       Dynastie Świata
 
+Nerwiowie ( Nervii )
+  Bibliografia :
+      Galia belgijska 57-51 p.n.e.
+
 Néribtum
   Bibliografia :
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
@@ -27043,6 +27063,11 @@ Reggio ( Reggio Emilia )
   Bibliografia :
       Fryderyk II Hohenstauf - Cesarz Rzymski
 
+Remowie ( Remi )
+  Wertyskus                                             przed 51-51 p.n.e. (?.4.-?) ( wg G.B.5.5.P.N.E. )
+  Bibliografia :
+      Galia belgijska 57-51 p.n.e.
+
 County of Rennes
   Conan I                                               ? ( Conan I the Crooked wg D.O.T.W.A.C.A.G.H. ) [Duke of Brittany]
   Bibliografia :
@@ -27515,7 +27540,7 @@ Rzym ( Rome , Řím )
     		     		                                        ? ( Tarkwiniusz Pyszny wg H.P.S. i H.S.P.D.N.H.W.K.S.S.O. ) ( wg K.Ř. )
     				                                            ?-ok.510/07 ( wg Z.Ř. )
     				                                            ?-509 ( Tarkwiniusz Pyszny wg O.A.O.C.E. )
-  Republika Rzymska ( Roman Republic )
+  Republika Rzymska ( Roman Republic , Republika , Rzeczpospolita )
     Junius Brutus                                       509 ( wg V.N.M.S.D. ) ( Lucjusz Juniusz Brutus wg D.R. i K.R.I.C.R. )
     Tarkwiniusz Kolatyn                                 509 ( wg K.R.I.C.R. )
     Publiusz Waleriusz				           		            509 ( wg K.R.I.C.R. )
@@ -27755,7 +27780,7 @@ Rzym ( Rome , Řím )
     							           		                        107-106 i 104-101 ( wg H.P.S. )
     							           		                        107 i ? i 103-100 i 86 ( wg K.R.I.C.R. )
     									                                  ? i ? i 103-100 i 86 ( Gaius Marius wg Z.V.C. )
-    									                                  ? ( Gaius Marius wg T.P.Ž.C. ) ( wg O.A.O.C.E. ) ( Mariusz wg G.R.I.L. i B.5.5.P.N.E. )
+    									                                  ? ( Gaius Marius wg T.P.Ž.C. ) ( wg O.A.O.C.E. ) ( Mariusz wg G.R.I.L. i B.5.5.P.N.E. i G.B.5.5.P.N.E. )
                                                         przed 86-? ( Marius wg Ř.S.J.Ď.S. )
                                                         107 i 104-100 i 86 ( Marius wg K.P.N.A. )
                                                         99 ( Marius wg S.P. )
@@ -27831,7 +27856,7 @@ Rzym ( Rome , Řím )
     Publiusz Lentulus						                        71 ( wg L. ) ( Publiusz Korneliusz Lentulus Sura wg K.P.N.A. )
     Aufidiusz Orestes						                        71 ( wg L. )
     Marek Licyniusz Krassus Dives			         		      70 i 55 ( wg D.R. i H.P.S. i K.R.I.C.R. i O.A.O.C.E. ) ( Licinius Crassus wg Z.V.C. ) ( Marcus Licinius Crassus (Marcus Crassus, Krassus, Marek Licyniusz Krassus) wg K.P.N.A. )
-    							  		                                ? ( Marcus Licinius Crassus wg S.H. ) ( Crassus wg Ž.V.Ř.S. i Ř.S.J.Ď.S. i S.P. )
+    							  		                                ? ( Marcus Licinius Crassus wg S.H. ) ( Crassus wg Ž.V.Ř.S. i Ř.S.J.Ď.S. i S.P. ) ( Krassus (Marek Krassus) wg G.B.5.5.P.N.E. )
     							            		                      70 ( wg S.C. ) ( Crassus wg T.P.Ž.C. )
                                                         55 ( Marek Licyniusz Krassus (Krassus Bogacz, Krassus) wg B.5.5.P.N.E. )
     Gnejusz Pompejusz Magnus			            		      70 i 55 i 52 ( wg D.R. i H.P.S. i K.R.I.C.R. ) ( Gnejusz pompejusz (Pompejusz, Pompejusz Wielki, Gnejusz Pompejusz Wielki, Pompey) wg K.P.N.A. )
@@ -27839,6 +27864,7 @@ Rzym ( Rome , Řím )
                                                         70 ( wg S.C. i L. ) ( Gnaeus Pompeius wg T.P.Ž.C. ) ( Pompeius wg S.P. )
     									                                  70 i 55 i ? ( Gnaeus Pompeius wg Z.V.C. ) ( wg O.A.O.C.E. )
                                                         55 ( Pompejusz (Pompejusz Wielki) wg B.5.5.P.N.E. )
+                                                        52 ( Pompejusz Wielki (Pompejusz, Gnejusz Pompejusz) wg G.B.5.5.P.N.E. )
     Kwintus Hortensjusz Hortalus                        69 ( wg K.P.N.A. )
     Kwintus Marcjusz Reks				         		            68 ( wg D.R. i L. )
     Maniusz Acyliusz Glabrion			            		      67 ( wg D.R. i L. )
@@ -27877,7 +27903,7 @@ Rzym ( Rome , Řím )
                                                         ?-44 ( ?-15.3. ) ( wg T.P.Ž.C. )
                                                         59 i ?-44 ( ?-15.3. ) ( Gajusz Juliusz Cezar wg O.A.O.C.E. )
                                                         59 i ?-44 ( Gajusz Juliusz Cezar (Cezar) wg K.P.N.A. )
-                                                        59 ( Gajusz Juliusz Cezar wg L. ) ( Gajusz Juliusz Cezar (Cezar, Boski Juliusz, Juliusz C., Julius Caesar, Caesar) wg B.5.5.P.N.E. )
+                                                        59 ( Gajusz Juliusz Cezar wg L. ) ( Gajusz Juliusz Cezar (Cezar, Boski Juliusz, Juliusz C., Julius Caesar, Caesar) wg B.5.5.P.N.E. ) ( Gajusz Juliusz Cezar (Juliusz, Boski Juliusz, Cezar, Juliusz Caesar, Julius Caesar, Boski Cezar, Caesar) wg G.B.5.5.P.N.E. )
                                                         przed 48-? ( Gajusz Juliusz Cezar (Cezar) wg N.I.B.W.XI.S. )
     Lucjusz Kalpurniusz Bibulus			            		    59 ( wg D.R. ) ( Bibulus wg O.A.O.C.E. ) ( Marek Kalpurnius Bibulus wg K.R.I.C.R. ) ( Marek Kalpurniusz Bibulus wg L. i K.P.N.A. i B.5.5.P.N.E. )
     Aulus Gabiniusz					         	                  58 ( wg D.R. i K.P.N.A. )
@@ -27945,7 +27971,7 @@ Rzym ( Rome , Řím )
     						          		                          27 p.n.e.-14 n.e. (?-14.9.) ( Gajusz Juliusz Cezar Oktawian wg D.R. )
                                                         30 p.n.e.-14 n.e. ( wg V.N.M.S.D. i Tapsella ) ( Octavius (Augustus) wg H.O.W.P. ) ( Oktawian (Augustus, August) wg H.S.P.D.N.H.W.K.S.S.O. )
     						          		                          31 p.n.e.-14 n.e. ( wg D.P.I.R.G. )
-    							       	                              ? ( wg A.O.M.S.K.R. i D.B. i Z.Ř. ) ( Oktavián wg T. ) ( Oktawian August wg Z.N.E. i O.I.W. ) ( Augustus wg S.A.B.H.O.H. i T.D.W.S.A.A.C.I.T.D. i Ř.M.M.A.Ř. i R.E.P.A.T.M.O.M. ) ( Oktawian August (August) wg G.R.I.L. i B.5.5.P.N.E. ) ( Oktawian (August) wg Z.M.50.N.O. )
+    							       	                              ? ( wg A.O.M.S.K.R. i D.B. i Z.Ř. ) ( Oktavián wg T. ) ( Oktawian August wg Z.N.E. i O.I.W. i G.B.5.5.P.N.E. ) ( Augustus wg S.A.B.H.O.H. i T.D.W.S.A.A.C.I.T.D. i Ř.M.M.A.Ř. i R.E.P.A.T.M.O.M. ) ( Oktawian August (August) wg G.R.I.L. i B.5.5.P.N.E. ) ( Oktawian (August) wg Z.M.50.N.O. )
     						          		                          przed 23 p.n.e.-14 n.e. ( August wg Ř.V.G. )
     						          		                          27 p.n.e.-? ( wg S.H. )
     								                                    przed 14 p.n.e.-? ( wg E.P. )
@@ -27968,7 +27994,7 @@ Rzym ( Rome , Řím )
     								                                    41-54 (?-?.10.) ( Tiberius Claudius Germanicus wg Z.V.C. )
     								                                    ?-54 ( Tiberius Claudius Germanicus wg T.P.Ž.C. ) ( wg K.Ř. )
     								                                    przed 43-? ( wg O.A.O.C.E. i Z.N.E. i B.5.5.P.N.E. )
-                                                        ? ( Claudius wg S.A.B.H.O.H. ) ( wg B.S. )
+                                                        ? ( Claudius wg S.A.B.H.O.H. ) ( wg B.S. i G.B.5.5.P.N.E. )
                                                         przed 41-po 48 ( Claudius wg H.O.W.P. )
         Lucius Domitius Claudius Nero ( Neron )         54-68 (13.10.-9.6.) ( wg P.C.R. i K.R.I.C.R. )
     						           		                          54-68 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i S.C. i Ř.V.G. i Ž.V.Ř.S. i Z.V.C. ) ( Lucius	Domitius Ahenobarbus Nero	Claudius Caesar ( Lucjusz	Domicjusz Ahenobarbus ) wg D.R. i H.P.S. ) ( Nero (Nero Claudius Caesar, Lucius Domitius Ahenobarbus) wg D.O.T.W.A.C.A.G.H. ) ( Nero wg S.P. )
@@ -29084,6 +29110,7 @@ Rzym ( Rome , Řím )
       Zawichost 1205
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Galia belgijska 57-51 p.n.e.
 
 Saamowie
   Svási                                                 ? ( wg F.L.P.D.Ś.W. )
@@ -30000,16 +30027,18 @@ County of Senlis
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Senonowie
+Senonowie ( Senoni )
   Brennus 		                                          przed 387 p.n.e.-? ( wg Z.V.C. i Ř.V.G. )
                                                         przed 390 p.n.e.-? ( wg Ř.S.J.Ď.S. )
   Kawarynus                                             ?-54 ( wg B.5.5.P.N.E. )
+                                                        ? ( wg G.B.5.5.P.N.E. )
   Akkon                                                 54-53 ( wg B.5.5.P.N.E. )
   Bibliografia :
       Zdraví Vás Caesar
       Římané v Germánii
       Říše slova - Jazykové dějiny světa
       Brytania 55-54 p.n.e.
+      Galia belgijska 57-51 p.n.e.
 
 Państwo Senów
   Bibliografia :
@@ -31092,11 +31121,13 @@ Duchy of Sudermanland
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Suessjonowie
+Suessjonowie ( Suessiones )
   Dywicjakus                                            ? ( wg B.5.5.P.N.E. )
   Galba                                                 przed 57 p.n.e.-? ( wg B.5.5.P.N.E. )
+                                                        przed 58-po 57 (?-4.8.) ( wg G.B.5.5.P.N.E. )
   Bibliografia :
       Brytania 55-54 p.n.e.
+      Galia belgijska 57-51 p.n.e.
 
 Suhi
   Bibliografia :
@@ -31154,7 +31185,7 @@ Swebowie ( Suevi )
   Ariowist         	                                    przed 65-po 60 ( wg D.R. )
                                         	              przed 58-? ( wg K.R.I.C.R. ) ( Ariowistus wg B.5.5.P.N.E. )
       		          	                                  ? ( Ariovist wg Ř.V.G. i Z.V.C. )
-                                                        przed 59-po 58 ( wg Z.N.E. )
+                                                        przed 59-po 58 ( wg Z.N.E. i G.B.5.5.P.N.E. )
   Hunimund                                              przed 469 n.e.-? ( wg G.R.I.L. )
   Bibliografia :
       Dzieje Rzymu
@@ -31164,6 +31195,7 @@ Swebowie ( Suevi )
       Zapomianie narody Europy
       Goci - Rzeczywistość i legenda
       Brytania 55-54 p.n.e.
+      Galia belgijska 57-51 p.n.e.
 
 Królestwo Swebów ( Królestwo Kwadów )
   Hermeneryk                                            ? ( wg Z.N.E. )
@@ -33470,8 +33502,11 @@ Trewir ( Trevír )
 
 Trewerowie ( Państwo Trewerów , Treveri )
   Cyngetoryks                                           54 p.n.e.-? ( wg B.5.5.P.N.E. )
+                                                        przed 54-54 i 53-po 51 (21.10.-? i przed ?.7.-?.6.) ( wg G.B.5.5.P.N.E. )
+  Inducjomarus                                          ?-54 i 54-54/3 ( wg G.B.5.5.P.N.E. )
   Bibliografia :
       Brytania 55-54 p.n.e.
+      Galia belgijska 57-51 p.n.e.
 
 Triballowie
   Syrmos          	                                    ok.330 p.n.e. ( wg A.Č. )
@@ -35135,9 +35170,10 @@ Wenedowie
       Zrod střední a východní Evropy
 
 Wenellowie
-  Wirydowiks                                            przed 56 p.n.e.-? ( wg B.5.5.P.N.E. )
+  Wirydowiks                                            przed 56 p.n.e.-? ( wg B.5.5.P.N.E. i G.B.5.5.P.N.E. )
   Bibliografia :
       Brytania 55-54 p.n.e.
+      Galia belgijska 57-51 p.n.e.
 
 Wenezuela ( Venezuela )
   Rómulo Betancourt                                     ? ( wg F.C.A.R.F. )
@@ -36867,5 +36903,6 @@ Bibliografia :
     [164] Furia ludzi Północy - Dzieje świata Wikingów , Philip Parker , 2016
     [165] Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině , Jarmila Bednaříková , 2017
     [166] Książęta piastowscy Śląska , Zygmunt Boras , 1981/2
+    [167] Galia belgijska 57-51 p.n.e. , Tomasz Romanowski , 2020
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
