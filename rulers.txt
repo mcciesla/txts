@@ -975,7 +975,7 @@ Anglia ( England , Anglie )
     Edward the Elder                                    899-924 ( wg Æ.T.U.T.F.K. )
     Æthelstan                                           924-927 ( wg Æ.T.U.T.F.K. ) [King of England]
   Królestwo Anglii
-    Dynastia saska z Wessexu ( House of Wessex , Dynastia Wessexu )
+    Dynastia saska z Wessexu ( House of Wessex , Dynastia Wessexu , Dom Wessex )
       Egbert             	                              802-839 ( wg D.Ś. )
 				                                                800-837 ( wg V.N.M.S.D. )
 				                                                829-839 ( wg Tapsella )
@@ -993,7 +993,7 @@ Anglia ( England , Anglie )
                                               	        866-871 ( wg V.N.M.S.D. i Tapsella )
       Alfred Wielki     	                              871-899 ( wg D.Ś. i Tapsella i Z.N.E. ) ( Alfred the Great wg T.S.O.T.I. )
                                                 	      871-901 ( wg V.N.M.S.D. )
-				                                                ? ( Alfréd Veliký wg Z.S.A.V.E. ) ( Alfréd wg Ř.S.J.Ď.S. )
+				                                                ? ( Alfréd Veliký wg Z.S.A.V.E. ) ( Alfréd wg Ř.S.J.Ď.S. ) ( Alfred wg F.S.B.1066 )
                                                         przed 886-? ( Alfred the Great wg N.T.V.S. )
       Edward Starszy	                                  899-924 ( wg D.Ś. ) ( Edward The Elder wg V.K.T.H.O.H.E. i T.S.O.T.I. )
 				                                                901-925 ( wg V.N.M.S.D. )
@@ -1009,24 +1009,29 @@ Anglia ( England , Anglie )
                                                         przed 929-939 ( Aethelstan wg O.I.W. )
                                                         przed 936-? ( wg F.L.P.D.Ś.W. )
                                                         ? ( Aethelstan wg S.N.A.S.E. )
+                                                        ?-939 (?-27.10.) ( Æthelstan wg F.S.B.1066 )
       Edmund I         	                                939-946 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) ( Edmund wg Æ.T.U.T.F.K. i F.L.P.D.Ś.W. )
                                                         939/40-946 ( wg T.S.O.T.I. )
                                                	        940-946 ( wg V.N.M.S.D. )
 				                                                ?-946 ( Edmund I Nádherný wg E.P. )
                                                         przed 944-po 945 ( Edmund The Elder wg V.K.T.H.O.H.E. )
                                                         939 ( Edmund wg N.T.V.S. )
+                                                        939-? ( wg F.S.B.1066 )
       Edred                     	                      946-955 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Eadred wg Æ.T.U.T.F.K. i D.O.T.W.A.C.A.G.H. i T.S.O.T.I. )
                                                         946-955/6 ( Eadred wg N.T.V.S. )
+                                                        ? ( wg F.S.B.1066 )
       Edwy                    	                        955-959 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Eadwig wg Æ.T.U.T.F.K. i T.S.O.T.I. )
 				                                                ? ( Edwin wg E.P. )
                                                         955-957 ( Eadwig wg D.O.T.W.A.C.A.G.H. )
+                                                        955-959 (?-?.10.) ( Eadwig wg F.S.B.1066 )
       Edgar Spokojny      		                          957-975  ( wg V.N.M.S.D. i D.Ś. ) ( Edgar (Edgar the Peaceful) wg N.T.V.S. )
                                			                    959-975 ( wg Tapsella ) ( Edgar wg Æ.T.U.T.F.K. i T.S.O.T.I. i F.L.P.D.Ś.W. ) ( Edgar the Peaceful wg D.O.T.W.A.C.A.G.H. )
 					                                              959-975 (?-8.7.) ( Edgar Mírumilovný ( Edgar Pečlivý ) wg E.P. )
 					                                              ? ( wg E.P. i V.K.T.H.O.H.E. ) ( Edgar wg S.V.D.K.V. )
+                                                        958/9/73-975 (?/?.10./?-?) ( Edgar wg F.S.B.1066 )
       Edward Święty Męczennik	                          975-978 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Edward wg N.T.V.S. ) ( St Edward the Martyr wg D.O.T.W.A.C.A.G.H. ) ( Edward the Martyr wg T.S.O.T.I. )
 					                                              ? ( Edvard II Mučedník wg E.P. ) ( Edward (Edward Męczennik) wg F.L.P.D.Ś.W. )
-                                                        975-978 (?-18.3.) ( Edward 'the Martyr' (Edward, Edward the Martyr, Eadward) wg Æ.T.U.T.F.K. )
+                                                        975-978 (?-18.3.) ( Edward 'the Martyr' (Edward, Edward the Martyr, Eadward) wg Æ.T.U.T.F.K. ) ( Edward Męczennik (Edward) wg F.S.B.1066 )
       Ethelred II Gnuśny              	                978-1016 ( wg D.Ś. )
                                                         978-1013 ( wg V.N.M.S.D. )
                                                         978-1013 i 1014-1016 ( wg Tapsella ) ( Aethelred II (Aethelred II the Unready) wg D.O.T.W.A.C.A.G.H. ) ( Ethelred II (Ethelred II the Unready, Ethelred, Ethelred the Unready) wg T.S.O.T.I. )
@@ -1036,46 +1041,55 @@ Anglia ( England , Anglie )
                                                         979-1013 i 1014-1016 (4.5.-? i ?-wiosna) ( Æthelred (Æthelred the Unready, Æthelred II, Æthelred 'the Unready', Æthelræd Unræd, Æthelræd, Ethlered the Unready, Ethelred II) wg Æ.T.U.T.F.K. )
                                                         979-1013 i 1014-1016 (?.5.-? i ?-?.4.) ( Ethelred (Aethelred II, Ethelred Unraed, Aethelred the Unready, Ethelred II z Wessexu, Ethelred Bezradny, Ethelred II, Ethelred the Unready, Ethelred z Wessexu) wg F.L.P.D.Ś.W. )
                                                         978-1013 i ?-1016 ( Aethelred II. (Aethelred) wg S.N.A.S.E. )
+                                                        978-1013 i 1014-1016 (? i ?-23.4.) ( Ethelred II (Ethelred, Ethelred the Unready, Ethelred II Bezradny, Ethelraed II) wg F.S.B.1066 )
       Edmund II Żelazny              	                  1016 ( wg D.Ś. i Tapsella ) ( Edmund II Ironside (Edmund II) wg D.O.T.W.A.C.A.G.H. i T.S.O.T.I. )
                                                         1016 (przed 23.4.-?) ( Edmund II 'Ironside' (Edmund Ironside, Edmund) wg Æ.T.U.T.F.K. )
-					                                              ?-1016 ( ?-30.11. ) ( Edmund II Ironside wg E.P. ) ( Edmund Ironside (Edmund) wg N.T.V.S. )
+					                                              ?-1016 (?-30.11.) ( Edmund II Ironside wg E.P. ) ( Edmund Ironside (Edmund) wg N.T.V.S. )
                                                         1016 (?-30.11.) ( Edmund Żelaznoboki (Edmund) wg F.L.P.D.Ś.W. )
+                                                        1016 (przed ?.6.-30.11.) ( Edmund Żelaznoboki (Edmund) wg F.S.B.1066 )
     Dynastia duńska ( House of Denmark )
       Sven                                 	            1013-1014 ( wg V.N.M.S.D. i Tapsella ) ( Swein Forkbeard wg D.O.T.W.A.C.A.G.H. ) ( Svein Fork-beard wg T.S.O.T.I. ) [King of Denmark Sven I]
                                                         1013-1014 (?-3.2.) ( Svein Forkbeard (Svein) wg N.T.V.S. ) ( Swein 'Forkbeard' (Swein, Swein Forkbeard, Sweyn 'Forkbeard') wg Æ.T.U.T.F.K. )
                                                         1013-1014 (?-2.2.) ( Swen Widłobrody (Swen, Swen Tjúguskegg, Svein Forkbeard) wg F.L.P.D.Ś.W. )
+                                                        1013-1014 (25.12.-14.2.) ( Swen Widłobrody (Swen) wg F.S.B.1066 )
       Kanut Wielki                   	                  1016-1035 ( wg D.Ś. i Tapsella ) ( Knud den Store wg W.W.K.R. ) ( Cnut (Cnut the Great) wg N.T.V.S. i Æ.T.U.T.F.K. ) ( Cnut the Great wg D.O.T.W.A.C.A.G.H. ) ( Knut Sveinsson the Great (Canute Sveinsson the Great) wg T.S.O.T.I. ) ( Knut (Knut Veliký) wg S.N.A.S.E. ) [King of Denmark Cnut I]
                                                         1014-1035 ( wg V.N.M.S.D. )
-					                                              1016/7-1035 ( ?-12.11. ) ( Knut I Veliký wg E.P. )
+					                                              1016/7-1035 (?-12.11.) ( Knut I Veliký wg E.P. )
                                                         1018-1035 ( Cnut Sweynsson The Great wg V.K.T.H.O.H.E. )
                                                         przed 1019-1035 ( Kanut II Wielki (Kanut) wg S.P.D.Z. )
                                                         ? ( Knut Wielki wg O.I.W. )
                                                         1016/7-1035 ( Cnut (Kanut, Cnut the Great) wg F.L.P.D.Ś.W. )
+                                                        1016/7-1035 (przed 30.11./?-?) ( Cnut (Kanut, Knut Wielki, Cnut the Great, Kanut Stary) wg F.S.B.1066 )
       Harold I Zajęcza Stopa    	                      1037-1040 ( wg D.Ś. ) ( Harold I (Harold I Harefoot) wg D.O.T.W.A.C.A.G.H. )
                                                         1035-1040 ( wg V.N.M.S.D. i Tapsella ) ( Harold I wg T.S.O.T.I. )
 				          	                                    ? ( Harald wg Z.S.A.V.E. ) ( Harold I 'Harefoot' wg Æ.T.U.T.F.K. )
 					                                              ?-1040 (?-17.3.) ( Harold I Harefoot wg E.P. )
                                                         1035-1040 (?-?.3.) ( Harold Harefoot wg N.T.V.S. )
                                                         1035-1040 (?-18.3.) ( Harold Zajęcza Stopa (Harold) wg F.L.P.D.Ś.W. )
+                                                        1035/7-1040 (?-17.3.) ( Harold Zajęcza Stopa (Harold) wg F.S.B.1066 )
       Harthakanut                     	                1040-1042 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Harthacnut wg D.O.T.W.A.C.A.G.H. ) ( Hardicanute wg T.S.O.T.I. ) [King of Denmark]
-				                                                ? ( Hardiknut wg E.P. ) ( Harthacnut wg Æ.T.U.T.F.K. )
+				                                                ? ( Hardiknut wg E.P. ) ( Harthacnut wg Æ.T.U.T.F.K. ) 
+                                                        1035/40-1042 (?-8.6.) ( Hardekanut wg F.S.B.1066 )
                                                         1040-1042 (?-8.6.) ( Harthacnut wg N.T.V.S. ) ( Hardekanut wg F.L.P.D.Ś.W. )
-    Dynastia saska z Wessexu ( House of Wessex , Dynastia Wessexu )
+    Dynastia saska z Wessexu ( House of Wessex , Dynastia Wessexu , Dom Wessex )
       Edward Święty Wyznawca  	                        1042-1066 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Edward 'the Confessor' wg Æ.T.U.T.F.K. ) ( St Edward the Confessor wg D.O.T.W.A.C.A.G.H. ) ( Edward the Confessor wg T.S.O.T.I. ) 
                                                         1041/2/3-1066 (?/?/3.4.-5.1.) ( Edward Wyznawca (Edward, Edward the Confessor) wg F.L.P.D.Ś.W. )
                                                         1042-1066 (?-4./5.1.) ( Edward the Confessor wg N.T.V.S. )
                                                         ?-1066 (?-5.1.) ( Edvard Vyznavač wg S.N.A.S.E. )
+                                                        1043-1066 (3.4.-5.1.) ( Edward Wyznawca (Edward, Edward the Confessor) wg F.S.B.1066 )
       Harold II Godwinson           	                  1066 ( wg D.Ś. i Tapsella i 100.N.V.S. ) ( Harold II wg D.O.T.W.A.C.A.G.H. ) ( Harold Godwinson (Harold Godwinson II wg T.S.O.T.I.) ( Harold wg S.N.A.S.E. )
                                                         ?-1066 ( wg B.M. ) ( Harold II wg N.I.B.W.XI.S. )
                                                         1066 (przed 24.4.-14.10.) ( Harold Godwinson wg N.T.V.S. )
                                                         ? ( Harold II wg L.P.P. )
                                                         przed 1066-? ( Harald II. (Harald II. Godwinson) wg S.V.D.K.V. )
-                                                        1066 (6.1.-14.10.) ( Harold z Wessexu (Harold II, Harold Godwinson, Harold) wg F.L.P.D.Ś.W. )
+                                                        1066 (6.1.-14.10.) ( Harold z Wessexu (Harold II, Harold Godwinson, Harold) wg F.L.P.D.Ś.W. ) ( Harold Godwinson (Godwinson, Harold II, Harold) wg F.S.B.1066 )
       Edgar Atheling                                    1066 (?-10.12.) ( Edgar (Atheling) wg F.L.P.D.Ś.W. )
+                                                        1066-? ( Edgar Etheling wg F.S.B.1066 )
     Dynastia normandzka ( House of Normandy )
       Wilhelm I Zdobywca   	                            1066-1087 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( William I (William I the Conqueror) wg D.O.T.W.A.C.A.G.H. ) ( William I (William I the Conqueror, William the Conqueror, William the Bastard, William) wg T.S.O.T.I. ) ( Vilém I. Dobyvatel (Vilém Dobyvatel, Vilém, Vilém Normanský, Vilém I.) wg S.V.D.K.V. )
 				         	                                      1066-1087 (25.12.-9.9.) ( wg 100.N.V.S. )
-				         	                                      1066-? ( Vilém Dobyvatel wg D.P.I.R.G. ) ( William of Normandy (William The Conqueror) wg V.K.T.H.O.H.E. )
+				         	                                      1066-? ( Vilém Dobyvatel wg D.P.I.R.G. ) ( William of Normandy (William The Conqueror) wg V.K.T.H.O.H.E. ) 
+                                                        1066-po 1076 ( Wilhelm (Wilhelm Zdobywca, Wilhelm I) wg F.S.B.1066 )
                                                         przed 1086-? ( Wilhelm Zdobywca wg K.W.N.I.W.D. )
                                                         ? ( Wilhelm Zdobywca wg H.W. ) ( Vilém Dobyvatel (Vilém Bastard, Vilém) wg S.N.A.S.E. )
                                                         1066-1087 ( Wilhelm Zdobywca (Wilhelm, William the Conqueror, Wilhelm z Normandii) wg F.L.P.D.Ś.W. )
@@ -1089,7 +1103,7 @@ Anglia ( England , Anglie )
                                                         przed 1106-po 1115 ( Henryk (Henryk I Beauclerc) wg F.L.P.D.Ś.W. )
     Dynastia z Blois ( House of Blois )
       Stefan       	                                    1135-1154 ( wg D.Ś. i V.N.M.S.D. ) ( Stefan z Boulogne wg Tapsella ) ( Stephen wg D.O.T.W.A.C.A.G.H. i T.S.O.T.I. ) ( Štěpán z Blois (Štěpán, Stephen) wg S.V.D.K.V. )
-			                                                  ? ( Štěpán z Blois wg F.B.C.A.R. ) ( Stephen wg D.A.T.M.T.E.O.G.I. )
+			                                                  ? ( Štěpán z Blois wg F.B.C.A.R. ) ( Stephen wg D.A.T.M.T.E.O.G.I. i F.S.B.1066 )
     Dynastia Plantagenetów ( House of Plantagenet , Anjouovci )
       Henryk II                    	                    1154-1189 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Henry II wg N.T.V.S. i D.O.T.W.A.C.A.G.H. )
                                                         1154-1189 (?-7.7.) ( Jindřich II (Jindřich II., Jindřich, Jindřich II. Anglický, Henry II) wg S.V.D.K.V. )
@@ -1106,6 +1120,7 @@ Anglia ( England , Anglie )
                                                         przed 1189-? ( Ryszard Lwie Serce wg H.W. )
                                                         przed 1197-? ( Ryszard I wg F.H.C.R. )
                                                         ? ( Ryszard Lwie Serce wg N.I.B.W.XI.S. ) ( Richard Cœur de Lion wg H.O.W.P. )
+                                                        przed 1192-? (5.8.-?) ( Ryszard Lwie Serce wg F.S.B.1066 )
       Jan bez Ziemi              	                      1199-1216 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Jan Bezzemek wg D.P.I.R.G. ) ( Jan Bezzemek (Jan) wg S.V.D.K.V. ) ( John wg D.O.T.W.A.C.A.G.H. )
 					                                              ? ( Jan I Bezzemek wg E.P. ) ( John wg V.K.T.H.O.H.E. i H.O.W.P. )
                                                         przed 1204-? ( Jan Bezzemek wg Ř.S.J.Ď.S. )
@@ -1399,6 +1414,7 @@ Anglia ( England , Anglie )
       Atlas rané kolonizace - Od Kolumba po Bolívara
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Anglowie ( Angles )
   Bibliografia :
@@ -3639,8 +3655,10 @@ Bamberg
 Bamburgh
   Aldred                                                przed 918-po 927 ( Aldred I wg F.L.P.D.Ś.W. )
   Oswulf                                                przed 954-? ( wg F.L.P.D.Ś.W. )
+                                                        ? ( Osulf z Bamburgh wg F.S.B.1066 ) [Ruler of York Osulf z Bamburgh]
   Bibliografia :
       Furia ludzi Północy - Dzieje świata Wikingów
+      Fulford-Stamford Bridge 1066
 
 Bamian
   Bibliografia :
@@ -4582,12 +4600,15 @@ Botswana ( Republic of Botswana )
 Hrabstwo Boulogne ( Hrabství Boulogne )
   Eustach II.                                           ? ( wg S.V.D.K.V. )
                                                         przed 1066-po 1067 (14.10.-?) ( Eustachy z Boulogne (Eustachy II z Boulogne) wg F.L.P.D.Ś.W. )
+                                                        przed 1051-? ( Eustacy wg F.S.B.1066 )
   Eustach III.                                          ? ( wg S.V.D.K.V. )
-  Reginald                                              przed 1213 n.e.-? ( wg F.H.C.R. )
+  Reginald                                              przed 1213-? ( wg F.H.C.R. )
+                                                        przed 1214-? ( Renaud de Dammartin wg F.S.B.1066 )
   Bibliografia :
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Svaté války - Dějiny křižových výprav
       Furia ludzi Północy - Dzieje świata Wikingów
+      Fulford-Stamford Bridge 1066
 
 County of Bouquan
   Bibliografia :
@@ -4803,7 +4824,7 @@ County of Breisgau
   Bibliografia :
       Dynasties of the World - A Chronological and Genealogical Handbook
 
-Bremy ( Brémy , Hamburg-Brémy )
+Bremy ( Brémy , Hamburg-Brémy , Hamburg-Bremen )
   Arcybiskupstwo Bremy ( Archbishopric of Hamburg-Bremen , Arcybiskupstwo bremeńsko-hamburskie , Arcybiskupstwo hambursko-bremeńskie , Arcybiskupstwo bremeńskie , Arcybiskupstwo Hamburga , Biskupství hambursko-brémské , Biskupství hamburské )
     Ansgar                                              ? ( wg N.T.V.S. ) 
                                                         ?-865 n.e. ( Oskar wg F.L.P.D.Ś.W. )
@@ -5768,11 +5789,12 @@ Królestwo Cashel i Munsteru ( Kingdom of Munster , Królestwo Munsteru )
   Maelmuad mac Bran           	                        976-978 ( wg Tapsella )
   Máel Muad                                             przed 970-978 ( wg N.T.V.S. )
   O'Brien dynasty (Ua Briain dynasty)
-    Brian Boruma                     	                  978-1014 ( wg Tapsella )
+    Brian Boruma                     	                  978-1014 ( wg Tapsella ) [High Hing of Ireland]
       					                                        976-1014 (?-24.4.) ( Brian Bóruma wg E.P. )
-                                                        przed 996-1014 (?-23.4.) ( Brian Boru (Brian) wg N.T.V.S. ) [High Hing of Ireland]
+                                                        przed 996-1014 (?-23.4.) ( Brian Boru (Brian) wg N.T.V.S. ) 
                                                         ? ( Brian Bóruma wg D.O.T.W.A.C.A.G.H. )
                                                         przed 997-1014 ( Brian Śmiały wg F.L.P.D.Ś.W. )
+                                                        przed 999-po 1014 (?-23.4.) ( Brian Boru wg F.S.B.1066 )
   Dungal                                  	            1014-1025 ( wg Tapsella )
   Donnchad mac Brian         	                          1025-1064 ( wg Tapsella )
   Murchad                            	                  1064-1068 ( wg Tapsella )
@@ -5796,6 +5818,7 @@ Królestwo Cashel i Munsteru ( Kingdom of Munster , Królestwo Munsteru )
       Northmen - The Viking Saga 793-1241
       Dynasties of the World - A Chronological and Genealogical Handbook
       Furia ludzi Północy - Dzieje świata Wikingów
+      Fulford-Stamford Bridge 1066
 
 Ceasarea
   Eustach Garnier                                       1110 n.e.-? ( wg S.V.D.K.V. ) [Lord of Sidon]
@@ -7180,7 +7203,7 @@ County of Conflent
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Królestwo Connaught ( Kingdom of Connacht , Królestwo Connaghtu )
+Królestwo Connaught ( Kingdom of Connacht , Królestwo Connaghtu , Królestwo Connachty )
   Amalgaid                                          	  ok.450 n.e. ( wg Tapsella )
   Ailill Molt                                        	  ok.450-ok.482 ( wg Tapsella )
   Daui Tenga Uma                              	        ok.482-502 ( wg Tapsella )
@@ -7624,7 +7647,7 @@ Czechy ( Čechy )
       				      	                                  przed 1014-1033 i ?-1034 (? i ?-9.11.) ( Oldřich wg Z.S.A.V.E. )
                                                         przed 1015-1034 ( Udalryk wg B.S. )
                                                         przed 1017-po 1031 ( wg K.1018 )
-                                                        ? ( Udalryk wg Z.1205 )
+                                                        ? ( Udalryk wg Z.1205 ) ( Uldaryk wg F.S.B.1066 )
       Brzetysław I                            	        1034-1055 ( wg D.Ś. ) ( Břetislav I wg D.O.T.W.A.C.A.G.H. )
       				      	                                  1035-1055 ( Břetislav I wg D.P.I.R.G. )
       				      	                                  przed 1035-po 1044 ( Břetislav wg Z.S.A.V.E. )
@@ -7801,6 +7824,7 @@ Czechy ( Čechy )
       Kijów 1018
       Zawichost 1205
       Książęta piastowscy Śląska
+      Fulford-Stamford Bridge 1066
 
 Królestwo Czedi
   Bibliografia :
@@ -8171,7 +8195,7 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
   Fróði                                                 ? ( wg S.M. ) ( Frodo wg F.L.P.D.Ś.W. ) ( Frothon (Fródi) wg S.N.A.S.E. )
   Wermund                                               ? ( wg S.N.A.S.E. )
   Hrólf Tyčka                                           ? ( wg S.M. )
-  Harald Lodbrok                                        ? ( Harald Hairy Breeches wg N.T.V.S. )
+  Harald Lodbrok                                        ? ( Harald Hairy Breeches wg N.T.V.S. ) ( wg F.S.B.1066 )
   Księstwo Danii
     Sigurd                  	                          794-824 ( wg V.N.M.S.D. )
       				                                          ? ( wg Z.S.A.V.E. )
@@ -8241,7 +8265,7 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
                                                         936-985 ( wg V.N.M.S.D. )
                                                         ok.950-985 ( wg Tapsella )
       				           	                              ? ( Harald Modrozubý wg Z.S.A.V.E. ) 
-                                                        ok.958-986 ( Harald Modrozubý (Harald Bluetooth, Harald) wg S.N.A.S.E. )
+                                                        ok.958-986 ( Harald Modrozubý (Harald Bluetooth, Harald) wg S.N.A.S.E. ) ( Harald Sinozęby (Harald) wg F.S.B.1066 )
                                                         958-987 ( Harald Bluetooth (Harald) wg N.T.V.S. ) ( Harald 'Bluetooth' wg Æ.T.U.T.F.K. )
       					                                        ok.945-ok.986 ( Harald I Modrozubý wg E.P. )
                                                         przed ok.970-987 ( Harald Sinozęby wg S.P.D.Z. )
@@ -8262,6 +8286,7 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
                                                         przed 993-1014 (?-3.2.) ( Swein 'Forkbeard' (Swein Forkbeard, Swein, Sweyn 'Forkbeard') wg Æ.T.U.T.F.K. )
                                                         przed ok.1016-? ( Swen Widłobrody wg K.1018 )
                                                         987-1014 (?-2.2.) ( Svein Forkbeard (Swen Widłobrody, Swen, Swen Tjúguskegg) wg F.L.P.D.Ś.W. )
+                                                        przed 994-1014 (?-14.2.) ( Swen Widłobrody (Swen, Widłobrody) wg F.S.B.1066 )
       Harald II                              	          1014-1018 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Harald wg N.T.V.S. ) ( Harald Sveinsson wg T.S.O.T.I. )
                                                         1014-1016 ( III wg V.N.M.S.D. )
                                                         1014-1019 ( wg Tapsella )
@@ -8274,9 +8299,10 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
                                                         1018/9-1035 ( Cnut Sweynsson The Great wg V.K.T.H.O.H.E. ) ( Cnut (Cnut the Great) wg N.T.V.S. )
                                                         przed 1019-1035 ( Kanut II Wielki (Kanut, Knut Wielki) wg S.P.D.Z. )
                                                         1018-1035 ( Knut Sveinsson the Great (Canute Sveinsson the Great, Canute the Great, Canute) wg T.S.O.T.I. ) ( Cnut (Kanut, Cnut the Great, Kanut Wielki) wg F.L.P.D.Ś.W. ) ( Knut Veliký (Knut) wg S.N.A.S.E. )
+                                                        przed 1026-1035 ( Kanut Wielki (Knut Wielki, Cnut, Kanut, Cnut the Great, Kanut Stary) wg F.S.B.1066 )
       Hardeknud ( Hardekanut )	                        1035-1042 ( wg D.Ś. i V.N.M.S.D. i Tapsella i D.O.T.W.A.C.A.G.H. ) ( Hardicanute wg T.S.O.T.I. ) [King of England]
       					                                        1035-po 1040 ( Hardiknut wg E.P. )
-                                                        1035-1042 (?-8.6.) ( Harthacnut wg N.T.V.S. ) 
+                                                        1035-1042 (?-8.6.) ( Harthacnut wg N.T.V.S. ) ( Hardekanut wg F.S.B.1066 )
                                                         1035-1041/2 (?-?/8.6.) ( wg F.L.P.D.Ś.W. )
                                                         ?-1042 ( Hardeknut wg B.S. )
                                                         ? ( Harthacnut wg Æ.T.U.T.F.K. )
@@ -8287,12 +8313,14 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
       					                                        1042-1047 ( ?-25.10. ) ( Magnus I Dobrý wg E.P. )
                                                         1043-1047 ( Magnus I Dobry wg S.P.D.Z. )
                                                         1042-po 1043 (?-29.9.) ( Magnus I Dobry (Magnus) wg B.S. )
+                                                        przed 1042-1047 ( Magnus I Dobry (Magnus) wg F.S.B.1066 )
     Dynastia Swena Estridsena ( Dynasty of Svein Estrithson , House of Svend Estridsen )
       Swen II Estridsen                     	          1046-1074 ( wg D.Ś. )
                                                         1046-1074/6 ( Svend II Estridsen wg D.O.T.W.A.C.A.G.H. )
                                                         1047-1073 ( wg V.N.M.S.D. )
                                                         1047-1076 ( wg Tapsella )
-      					    	                                  ? ( Sven wg Z.S.A.V.E. ) ( Swen Estridson wg Z.N.E. ) ( Swen Estridsen wg N.I.B.W.XI.S. )
+      					    	                                  ? ( Sven wg Z.S.A.V.E. ) ( Swen Estridson wg Z.N.E. ) ( Swen Estridsen wg N.I.B.W.XI.S. ) 
+                                                        1047-po 1069 ( Swen Estrydsen (Swen) wg F.S.B.1066 )
                                                         1046-1074/6 ( Svein Estrithson (Svein Estrithsson, Svein) wg N.T.V.S. )
                                                         przed 1066-1076 ( Swen II Estrydsen wg S.P.D.Z. )
                                                         1047-1074 ( Svein Ulfsson wg T.S.O.T.I. )
@@ -8466,6 +8494,7 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Książęta piastowscy Śląska
+      Fulford-Stamford Bridge 1066
 
 Daniszmendydzi ( Danišmendové )
   Dynastia Daniszmendydów
@@ -8843,13 +8872,14 @@ Dublin
                                                         przed 870/1-? ( Olaf The White wg V.K.T.H.O.H.E. )
                                                         853-871/4/5 ( Olaf (Olaf the White, Amláib) wg N.T.V.S. )
                                                         przed 854-ok.874 ( Olaf (Amlaib, Olaf Biały) wg F.L.P.D.Ś.W. )
-                                                        853-? ( Olaf Bílý wg S.N.A.S.E. )
+                                                        853-? ( Olaf Bílý wg S.N.A.S.E. ) ( Olaf Biały wg F.S.B.1066 )
     Auisle                                              863-837 ( wg N.T.V.S. )
-    Ívarova dynastie
+    Ívarova dynastie ( Dynastia Uí Ímair )
       Ivar I Ragnarson the Boneless	                    871-873 ( wg Tapsella )
                                                         853/71-873 ( Ivar I (Ivar, Ímhair) wg N.T.V.S. )
                                                         ?-873 ( Ivar wg F.L.P.D.Ś.W. ) 
                                                         853-873 ( Ívar I. (Ívar bez kostí, Ívar) wg S.N.A.S.E. )
+                                                        ? ( Ivar wg F.S.B.1066 )
     Eystein Olafson                          	          873-875 ( wg Tapsella ) ( Oystín (Eystein, Eystein Olafsson) wg N.T.V.S. )
     Halfdan Ragnarson                     	            875-877 ( wg Tapsella ) [King of York]
                                                         ? ( Alband (Halfdan) wg N.T.V.S. )
@@ -8861,8 +8891,8 @@ Dublin
     Sigfred jarl                                        893-894 ( wg N.T.V.S. )
                                                         893-? ( Sigfrith wg F.L.P.D.Ś.W. )
     Ivar II                                          	  896-902 ( wg Tapsella i N.T.V.S. )
-    Ívarova dynastie
-      Sitric II Caoch                             	    917-920 ( wg Tapsella ) [King of York]
+    Ívarova dynastie ( Dynastia Uí Ímair )
+      Sitric II Caoch                             	    917-920 ( wg Tapsella ) ( Sigtrygg (Sitric Cáech) wg F.S.B.1066 ) [King of York]
                                                         917-921 ( Sihtric Cáech wg N.T.V.S. ) ( Sihtric wg F.L.P.D.Ś.W. )
                                                         przed 919-? ( Sigtrygg II. (Sigtrygg) wg S.N.A.S.E. )
     Ragnald                                             przed 919-? ( wg N.T.V.S. )
@@ -8870,19 +8900,20 @@ Dublin
                                                         921-934 ( wg N.T.V.S. ) ( Guthroth wg F.L.P.D.Ś.W. )
                                                         921-? ( wg S.N.A.S.E. )
     Thormod Helgasson                                   927-? ( Thormod wg S.N.A.S.E. )
-    Olaf II Guthfrithson                    	          934-941 ( wg Tapsella ) ( Olaf Guthfrithsson (Olaf) wg N.T.V.S. ) [King of York]
+    Olaf II Guthfrithson                    	          934-941 ( wg Tapsella ) ( Olaf Guthfrithsson (Olaf) wg N.T.V.S. ) ( Olaf Guthfrithson (Olaf, Guthfrithson, Amlaíb mac Gofraid) wg F.S.B.1066 ) [King of York]
                                                         934-po 939 ( Olaf Guthrothsson (Olaf) wg F.L.P.D.Ś.W. )
                                                         przed 937-po 939 ( Olaf Guthfrithsson wg S.N.A.S.E. )
     Blacar Guthfrithson                    	            941-945 ( wg Tapsella )
                                                         941-944/5 i ?-948 (26.2.-? i ?) ( Blácaire (Blacaire) wg N.T.V.S. )
                                                         941-945 i 948-? ( Blákári (Blákári Guthrothsson) wg F.L.P.D.Ś.W. )
-    Ívarova dynastie
+    Ívarova dynastie ( Dynastia Uí Ímair )
       Olaf III Sitricson                        	      945-948 i 953-981 ( wg Tapsella ) [King of York]
                                                         ? ( Olaf Kvaran wg N.S. )
                                                         945-? i ?-980 ( Olaf Sihtricsson (Olaf Cuarán) wg N.T.V.S. )
                                                         ?-ok.981 ( Olaf Kvaran (Amhlaibh Cúarán) wg T.S.O.T.I. )
                                                         945-948 i 951-980 ( Olaf Sihtricsson (Olaf Cuarán, Cuarán, Olaf) wg F.L.P.D.Ś.W. )
                                                         945-980 ( Olaf IV. Kvarán (Olaf IV., Olaf Kvarán, Haveloc) wg S.N.A.S.E. )
+                                                        945-947/po 949 i ok.952-980 ( Olaf (Olaf Sigtryggsson, Amlaíb Cuarán) wg F.S.B.1066 )
     Guthfrith Sitricson                      	          948-953 ( wg Tapsella )
                                                         przed 951-? ( Godfed wg N.T.V.S. )
     Gluniaran Olafson                      	            981-989 ( wg Tapsella )
@@ -8893,10 +8924,12 @@ Dublin
                                                         ? i 989-? i przed 995-1000 i przed 1002-1036 ( Sihtric (Sihtrik Jedwabnobrody, Sihtric Jedwabnobrody) wg F.L.P.D.Ś.W. )
                                                         989-1036 ( Sihtric Silkbeard wg N.T.V.S. )
                                                         ok.996-1042 ( Sigtrygg Silk-beard (Sigtrygg) wg T.S.O.T.I. )
+                                                        przed 999-po 1030 ( Sigtrygg Jedwabnobrody (Sigtrygg) wg F.S.B.1066 )
     Ivar III Ivarson                           	        994-995 ( wg Tapsella )
                                                         ? i ? ( Ivar wg F.L.P.D.Ś.W. )
     Margad Ragnaldson                   	              1035-1038 i 1046-1052 ( wg Tapsella ) [King of Man]
                                                         1036-1038 i 1046-1052 ( Echmarcach mac Ragnaill wg N.T.V.S. )
+                                                        ? ( Iehmarc wg F.S.B.1066 )
     Ivar IV Haraldson                       	          1038-1046 ( wg Tapsella ) ( Ivar Haraldsson wg N.T.V.S. )
     Murchad mac Diarmata                                1052-1070 ( wg N.T.V.S. )
                                                         ok.1055-? ( Murchad wg F.L.P.D.Ś.W. )
@@ -8927,6 +8960,7 @@ Dublin
       Pírátství - Úplné dějiny
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Republika Dubrownicka
   Bibliografia :
@@ -9070,11 +9104,12 @@ Królestwo East-Anglii ( Anglia Wschodnia )
   Edmund       	                                        855-870 ( wg Tapsella i E.P. )
                                                         ?-870 ( wg S.M. i F.L.P.D.Ś.W. ) ( St Edmund wg T.S.O.T.I. )
                                                         ? ( Edmund The Saint wg N.S. ) ( St. Edmund wg S.V.D.K.V. ) 
-                                                        ?-869 ( St Edmund wg F.L.P.D.Ś.W. ) ( wg S.N.A.S.E. )
+                                                        ?-869 ( St Edmund wg F.L.P.D.Ś.W. ) ( wg S.N.A.S.E. ) ( Edmund Męczennik (St Edmund) wg F.S.B.1066 )
                                                         przed 869-? ( wg N.T.V.S. )
   Guthrum      	                                        880-890 ( wg Tapsella )
                                                         przed 886-890 ( Æthelstan wg N.T.V.S. )
                                                         przed 879-890 ( wg F.L.P.D.Ś.W. )
+                                                        ?-ok.890 ( wg F.S.B.1066 )
   Eric              	                                  890-902 ( wg Tapsella )
   Bibliografia :
       Velká nástěnná mapa světových dějin
@@ -9087,6 +9122,7 @@ Królestwo East-Anglii ( Anglia Wschodnia )
       The Sagas of the Icelanders
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Ebla
   Iš'ar-damu                                            ?
@@ -9978,6 +10014,7 @@ Egipt ( Egypt )
                                                         1171-1193 (?-4.3.) ( Saladin (Júsuf ibn Ajjúb, Saláh ad-Dín, al-Málik an-Násir Saláh ad-Dunj wa-ad-Dín Abú-l-Muzaffar Júsuf ibn Ajjúb ibn Šadhí al-Kurdí, "Vítězný král, obnovitel světa a víry, otec Mustafy, Júsuf, syn Ajjúba, syn Sádhího Kurda") wg S.V.D.K.V. )
                                                         przed 1187-? (4.7.-?) ( wg H.W. )
                                                         przed 1170-po 1187 (?-4.7.) ( Salah ad-Din Jusuf (Salah ad-Din, Saladin) wg B.D.K.B. )
+                                                        przed 1192-? (5.8.-?) ( wg F.S.B.1066 )
     Al-´Aziz ´Usman                  	                  1193-1198 ( wg D.Ś. ) ( Al-´Azīz ´Uthmān wg D.O.T.W.A.C.A.G.H. )
     Al-Mansur Muhammad I      	                        1198-1200 ( wg D.Ś. ) ( Al-Manṣūr Muḥammad I wg D.O.T.W.A.C.A.G.H. )
     Al-´Adil Abu Bakr I             	                  1200-1218 ( wg D.Ś. ) ( Al-´Ādil Abū Bakr I wg D.O.T.W.A.C.A.G.H. )
@@ -10158,6 +10195,7 @@ Egipt ( Egypt )
       Historia Starożytna - Podręcznik do nauki historii w klasie szóstej szkół ogólnokształcących
       Burzliwe dzieje Kalifatu Bagdadzkiego
       Řecko mezi Makedonií a Římem
+      Fulford-Stamford Bridge 1066
 
 Egrisi
   Bibliografia :
@@ -10841,12 +10879,14 @@ Flandria ( Flanders , Flandry )
       Arnulf I Wielki                   	              918-965 ( wg D.Ś. ) ( Arnulf I (Arnulf I the Great) wg D.O.T.W.A.C.A.G.H. )
                                                         918-964 ( wg Tapsella )
                                                         przed 942-? (?.12.-?) ( Arnulf wg N.T.V.S. )
+                                                        ? ( Arnulf I wg F.S.B.1066 )
       Baldwin III                         	            958-962 ( wg Tapsella i D.Ś. i D.O.T.W.A.C.A.G.H. )
       Arnulf II Młodszy               	                965-988 ( wg D.Ś. ) ( Arnulf II (Arnulf II the Younger) wg D.O.T.W.A.C.A.G.H. )
                                                         964-988 ( wg Tapsella )
       Baldwin IV Brodaty           	                    988-1035 ( wg Tapsella i D.Ś. ) ( Baldwin IV (Baldwin IV the Bearded) wg D.O.T.W.A.C.A.G.H. )
       Baldwin V z Lille               	                1035-1067 ( wg Tapsella i D.Ś. ) ( Baldwin V of Lille wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1051-po 1060 ( Baldwin V wg F.L.P.D.Ś.W. )
+                                                        przed 1065-? ( Baldwin V wg F.S.B.1066 )
       Baldwin VI z Mons           	                    1067-1070 ( wg Tapsella i D.Ś. ) ( Baldwin VI of Mons wg D.O.T.W.A.C.A.G.H. ) [Count of Hainault Baldwin I]
       Arnulf III Nieszczęśliwy    	                    1070-1071 ( wg Tapsella i D.Ś. ) ( Arnulf III (Arnulf III the Unfortunate) wg D.O.T.W.A.C.A.G.H. ) [Count of Hainault]
       Robert I Fryzyjczyk            	                  1071-1093 ( wg Tapsella i D.Ś. i N.I.B.W.XI.S. ) ( Robert I (Robert I the Frisian) wg D.O.T.W.A.C.A.G.H. )
@@ -10916,6 +10956,7 @@ Flandria ( Flanders , Flandry )
         Dynasties of the World - A Chronological and Genealogical Handbook
         Svaté války - Dějiny křižových výprav
         Furia ludzi Północy - Dzieje świata Wikingów
+        Fulford-Stamford Bridge 1066
 
 Flius ( Fleiús )
   Kleónymos                                             ? ( wg Ř.M.M.A.Ř. )
@@ -11030,6 +11071,7 @@ Francja ( France , Francie , Frankreich )
                                                         ?-877 ( Karol Łysy wg O.I.W. )
                                                         843/przed 843-877 (?.7./?.7.-?) ( Karol Łysy (Charles the Bald, Karol) wg F.L.P.D.Ś.W. )
                                                         843/przed 843-877 ( Karel Holý (Karel) wg S.N.A.S.E. )
+                                                        przed 864-? ( Karol Łysy wg F.S.B.1066 )
       Lotar I                                           817-855 ( wg Tapsella )
       Pepin I                                	          817-838 ( wg Tapsella )
       Pepin II                              	          838-848 ( wg Tapsella )
@@ -11135,6 +11177,7 @@ Francja ( France , Francie , Frankreich )
                                                         ? ( Filip II. (Filip) wg P.U.D. )
                                                         przed 1214-? (27.7.-?) ( wg Z.1205 )
                                                         przed 1198-? ( Filip wg K.P.S. )
+                                                        przed 1214-? ( wg F.S.B.1066 )
       Ludwik VIII Lew  	                                1223-1226 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Louis VIII (Louis VIII the Lion) wg D.O.T.W.A.C.A.G.H. )
                                                         1223-1226 (?-8.11.) ( Ludvík VIII. (Ludvík) wg S.V.D.K.V. )
                                                         ? ( Ludwik VIII wg F.H.C.R. )
@@ -11402,6 +11445,7 @@ Francja ( France , Francie , Frankreich )
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Książęta piastowscy Śląska
       Galia belgijska 57-51 p.n.e.
+      Fulford-Stamford Bridge 1066
 
 Frankfurt
   Principality of Frankfurt
@@ -11618,7 +11662,7 @@ Frankowie ( Franks , Frankové , Franken )
                                                         przed 774-po 799 ( Charles the Great (Charles) wg H.O.W.P. )
                                                         przed 778-? ( Karol Wielki wg C.K.F. )
                                                         przed 782-814 ( Karol Wielki wg F.L.P.D.Ś.W. )
-      Louis I The Pious                                 814-840 ( wg V.K.T.H.O.H.E. ) [Holy Roman Emperor]
+      Louis I The Pious                                 814-840 ( wg V.K.T.H.O.H.E. ) ( Ludwik I Pobożny wg F.S.B.1066 ) [Holy Roman Emperor]
                                                         przed 815-840 (zima-?) ( Ludwik I Pobożny wg S.P.D.Z. )
                                                         ? ( Ludwik Pobożny wg O.I.W. )
   Bibliografia :
@@ -11649,6 +11693,7 @@ Frankowie ( Franks , Frankové , Franken )
       Chlodwik król Franków
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Frankowie Nadreńscy ( Frankowie Rypuarscy )
   Genobaud                                              przed 289 n.e.-? ( wg C.K.F. )
@@ -12499,12 +12544,14 @@ Księstwo Gwynedd ( Gwynned , Kingdom of Gwynedd , Gwynedd )
   Rhydderch ab Iestyn             	                    1023-1033 ( wg Tapsella )
   Iago II                                   	          1023-1039 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                     		1033-1039 ( Iago ab Idwal wg Tapsella )
-  Gruffydd I                             	              1039-1063 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Gruffydd ap Llywelyn wg Tapsella )
+  Gruffydd I                             	              1039-1063 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Gruffydd ap Llywelyn wg Tapsella ) [King of Powys Gruffydd ap Llywelyn]
+                                                        1039-1063/4 ( Gruffydd ap Llywelyn (Gruffydd) wg F.S.B.1066 )
                                                         przed 1039-1063 ( Gruffudd ap Llywelyn wg F.L.P.D.Ś.W. )
   Bleddyn ap Cynfyn               	                    1063-1075 ( wg Tapsella )
   Trahaern ap Caradog		                                1075-1081 ( wg Tapsella )
   Gruffydd II                            	              1081-1137 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Gruffydd ap Cynan wg Tapsella )
                                                         ? i 1099-? ( Gruffudd ap Cynan wg F.L.P.D.Ś.W. )
+                                                        ? ( Gruffudd ap Cynan (Gruffud ap Cynan) wg F.S.B.1066 )
   Owain                                    	            1137-1170 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Owain Gwynedd wg Tapsella )
   Cynan II                                 	            1170-1174 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Iorwerth Drwyndwn              	                      1170-1174 ( wg Tapsella )
@@ -12527,6 +12574,7 @@ Księstwo Gwynedd ( Gwynned , Kingdom of Gwynedd , Gwynedd )
       Northmen - The Viking Saga 793-1241
       Dynasties of the World - A Chronological and Genealogical Handbook
       Furia ludzi Północy - Dzieje świata Wikingów
+      Fulford-Stamford Bridge 1066
 
 Haburatum
   Nanibszawiri                                          ?
@@ -13977,7 +14025,7 @@ Irlandia ( Ireland , Irsko , Eriu )
         						                                      ?-1002 ( Malachias II wg E.P. )
                                                           przed 999-1002 i 1014-? ( Máel Sechnaill wg N.T.V.S. )
       Brian Bóruma                                     	  1002-1014 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Brian Bóraimhe (Brian Boru) wg V.K.T.H.O.H.E. )
-        						                                      1002-1014 ( ?-24.4. ) ( wg E.P. )
+        						                                      1002-1014 (?-24.4.) ( wg E.P. )
         						                                      1011-1024 ( wg V.N.M.S.D. )
         						                                      997-1014 ( wg Tapsella )
                                                           ?-1014 ( Brian wg N.S. )
@@ -13985,6 +14033,7 @@ Irlandia ( Ireland , Irsko , Eriu )
                                                           przed 999-? ( Brian Boru wg Æ.T.U.T.F.K. )
                                                           ?-1014 ( Brian Śmiały wg F.L.P.D.Ś.W. )
                                                           1002-? ( Brian Boru wg S.N.A.S.E. )
+                                                          przed 1014-? (23.4.-?) ( Brian Boru wg F.S.B.1066 )
       Denis O´Brian                                    	  1058-1072 ( wg V.N.M.S.D. )
       Tairrdelbach I Ua Briain                    	      1072-1086 ( wg V.N.M.S.D. i D.Ś. ) ( Turlough O´Brien wg Tapsella ) ( Tairrdelbach I wg D.O.T.W.A.C.A.G.H. )
                                                           przed 1075-? ( Toirdelbach wg F.L.P.D.Ś.W. )
@@ -14043,6 +14092,7 @@ Irlandia ( Ireland , Irsko , Eriu )
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Liga Irokezów
   Eskuyas                         	                    przed 1645 n.e.-? ( wg W.I.A.P. )
@@ -16456,6 +16506,7 @@ Królestwo Kentu ( Kingdom of Kent )
   Aethelwulf                                            839-858 ( wg D.O.T.W.A.C.A.G.H. ) [King of Wessex]
   Aethelbert                                            858-865 ( wg D.O.T.W.A.C.A.G.H. ) [King of Wessex]
   	                                                    przed 858-? ( Ethelbert wg E.P. )
+                                                        przed 860-? ( Ethelbert wg F.S.B.1066 )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -16463,6 +16514,7 @@ Królestwo Kentu ( Kingdom of Kent )
       Encyklopedie panovníků
       Dynasties of the World - A Chronological and Genealogical Handbook
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Keos ( Keós )
   Bibliografia :
@@ -16598,7 +16650,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
       				        	                                przed 907-? ( wg D.B. )
       				        	                                ok.882-po 911 ( wg Z.S.A.V.E. )
       					                                        882-912 ( wg E.P. ) ( Oleg Mądry (Helge) wg K.1018 )
-                                                        ? ( wg V.K.T.H.O.H.E. i Z.N.E. )
+                                                        ? ( wg V.K.T.H.O.H.E. i Z.N.E. i F.S.B.1066 )
                                                         ok.882-913 ( Helgi wg N.T.V.S. )
                                                         przed 907-912 ( Helge (Oleg Mądry) wg B.S. )
                                                         878/ok.893-913/ok.924 ( wg D.O.T.W.A.C.A.G.H. )
@@ -16643,7 +16695,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         970-? ( Jaropolk wg S.N.A.S.E. )
     Święty Włodzimierz I Wielki    	                    978-1015 ( wg D.Ś. ) ( Vladimír Svjatoslavič wg D.P.I.R.G. ) ( St Vladimir I (Vladimir I) wg D.O.T.W.A.C.A.G.H. )
                                                         980-1015 ( wg V.N.M.S.D. ) ( Vladimír wg D.B. ) ( Vladimír I Svjatoslavič wg Z.S.A.V.E. ) ( Valdemar (Volodimir, Volodymyr The Great) wg V.K.T.H.O.H.E. ) ( Vladimir the Great (Vladimir, Vladimir I) wg N.T.V.S. )
-      					                                        ? ( Vladimír I Svjatoslavič wg E.P. ) ( Włodzimierz Wielki wg L.P.P. ) ( Włodzimierz Wielki (Włodzimierz) wg J.P.1242 ) ( Włodzimierz wg O.I.W. )
+      					                                        ? ( Vladimír I Svjatoslavič wg E.P. ) ( Włodzimierz Wielki wg L.P.P. i F.S.B.1066 ) ( Włodzimierz Wielki (Włodzimierz) wg J.P.1242 ) ( Włodzimierz wg O.I.W. )
                                                         ?-1015 ( Włodzimierz Wielki (Włodzimierz I Wielki, Włodzimierz I Rurykowicz) wg N.G.R.B.I.N.S. )
                                                         przed 988-? ( Vladimír wg Ř.S.J.Ď.S. ) ( Włodzimierz wg N.I.B.W.XI.S. ) ( Vladimír Svjatoslavič (Vladimír) wg S.N.A.S.E. )
                                                         przed 981-po 986 ( Włodzimierz wg Z.N.E. )
@@ -16669,6 +16721,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         1017-po 1018 i 1019-1054 (?.1.-14.8. i ?) ( Jarosław Mądry (Jarosław) wg K.1018 )
                                                         przed 1017-? i ?-1054 ( Jarosław Mądry (Jarosław) wg Z.1205 )
                                                         przed 1019-po 1043 (?-początek) ( Jarosław wg F.L.P.D.Ś.W. )
+                                                        przed 1028-po 1044 ( Jarosław Mądry (Jarosław) wg F.S.B.1066 )
     Mścisław I                                          przed 1024-po 1026 ( wg B.S. )
                                                         ? ( Mścisław wg F.L.P.D.Ś.W. )
     Izjasław I                                 	        1054-1068 i 1069-1073 i 1077-1078 ( wg D.Ś. ) ( Izyaslav I wg D.O.T.W.A.C.A.G.H. )
@@ -16764,6 +16817,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Książęta piastowscy Śląska
+      Fulford-Stamford Bridge 1066
 
 Kikapu ( Kickapoo )
   Bibliografia :
@@ -17469,6 +17523,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
                                                         przed 845-po 846 ( wg O.I.W. )
     Leon IV                                          		847-853 ( wg V.N.M.S.D. )
                                                      		847-855 ( wg Tapsella ) ( Lev IV. wg S.V.D.K.V. )
+                                                        przed 853-? ( wg F.S.B.1066 )
     Benedykt III                                     		853-858 ( wg V.N.M.S.D. )
                                                      		855-858 ( wg Tapsella )
     Anastazjusz III                                    	855-858 ( wg Tapsella )
@@ -17539,6 +17594,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
     Bonifacy VII                                       	984-985 ( wg Tapsella ) ( Bonifác wg Z.S.A.V.E. )
     Jan XV                                             	985-996 ( wg Tapsella i Z.S.A.V.E. )
                                                       	986-996 ( XVI wg V.N.M.S.D. )
+                                                        ? ( wg F.S.B.1066 )
     Jan XVI                                            	996-998 ( wg Tapsella )
     Grzegorz V                                         	996-999 ( wg Tapsella i V.N.M.S.D. )
       						        	                            ? ( wg D.B. i Z.S.A.V.E. )
@@ -17572,11 +17628,12 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
                                                         1048 ( Damazy II wg N.I.B.W.XI.S. )
     Leon IX ( Bruno z Toul )                           	1048-1054 ( wg V.N.M.S.D. ) ( Lev IX. wg S.V.D.K.V. )
                                                      	  1049-1055 ( wg Tapsella )
-      						     	                                przed 1051-1054 ( ?-14.4. ) ( Lev IX wg D.B. )
+      						     	                                przed 1051-1054 (?-14.4.) ( Lev IX wg D.B. )
       						         	                            ? ( Lev IX wg Z.S.A.V.E. )
                                                         1049-1054 (?-19.4.) ( wg N.I.B.W.XI.S. )
                                                         1049-1054 ( Leo IX (Bruno of Toul) wg H.O.W.P. ) ( Lev IX. wg S.N.A.S.E. )
                                                         przed 1048-? ( Leon wg F.L.P.D.Ś.W. )
+                                                        ok.1050 ( św. Leon IX wg F.S.B.1066 )
     Wiktor II ( Gebhard z Hirschberg )                  1054-1057 ( wg V.N.M.S.D. )
                                                         1055-1057 ( wg Tapsella i N.I.B.W.XI.S. ) ( Victor II (Gebhard of Eichstadt) wg H.O.W.P. )
                                                         ? ( wg F.L.P.D.Ś.W. )
@@ -17594,7 +17651,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
                                                         przed 1059-1061 ( Nicholas II wg H.O.W.P. )
                                                         1058/9-? ( Mikuláš II. wg S.N.A.S.E. )
     Aleksander II ( Anselmo da Baggio )                	1061-1073 ( wg Tapsella i V.N.M.S.D. i N.I.B.W.XI.S. ) ( Alexandr wg S.N.A.S.E. )
-      						         	                            ? ( wg B.M. )
+      						         	                            ? ( wg B.M. i F.S.B.1066 )
                                                         ?-1073 ( Alexander II wg H.O.W.P. )
                                                         przed 1063-po 1064 ( Alexandr II. (Alexandr) wg S.V.D.K.V. )
                                                         przed 1066-po 1070 ( wg F.L.P.D.Ś.W. )
@@ -17608,6 +17665,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
                                                         1073-1085 (?-25.5.) ( wg N.I.B.W.XI.S. )
                                                         przed 1081-? ( wg G.R.I.L. )
                                                         1073-po 1081 ( Řehoř VII. (Řehoř) wg S.N.A.S.E. )
+                                                        przed 1078-? ( wg F.S.B.1066 )
     Klement III ( Guibert z Rawenny )                  	1080-1100 ( wg Tapsella ) ( Klement III (Klement) wg S.V.D.K.V. )
       						     	                                1095-? ( Kliment III wg D.B. )
                                                         1080-1100 (25.6.-?) ( Klemens III wg N.I.B.W.XI.S. )
@@ -17674,6 +17732,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
       						         	                            ? ( Alexandr III wg D.B. ) ( Alexander III wg H.O.W.P. )
                                                         przed 1164-po 1177 (?-23.7.) ( Roland ze Sieny wg H.W. )
                                                         przed 1171-po 1172 ( wg F.L.P.D.Ś.W. )
+                                                        przed 1164-? ( wg F.S.B.1066 )
     Wiktor IV (Ottaviano di Monticelli )               	1159-1164 ( wg Tapsella ) ( Viktor V. (Viktor) wg S.V.D.K.V. )
       						      	                              1159-1164 (?-20.4.) ( Viktor IV wg F.B.C.A.R. )
                                                         ?-1164 ( Oktawian z Santa Cecilia wg H.W. )
@@ -18090,6 +18149,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
       Furia ludzi Północy - Dzieje świata Wikingów
       Książęta piastowscy Śląska
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Kotyora
   Bibliografia :
@@ -18589,16 +18649,19 @@ Lade ( Hladir )
   Hakon                                                 ? ( wg T.S.O.T.I. )
   Sigurd Håkonarson                                     przed 960-962/3 ( Sigurd (Sigurd Håkonsson) wg N.T.V.S. )
                                                         przed ok.960-? ( Sigurd z Hladiru (Sigurd) wg F.L.P.D.Ś.W. )
-                                                        ? ( Sigurd wg S.N.A.S.E. )
+                                                        ? ( Sigurd wg S.N.A.S.E. i F.S.B.1066 )
   Håkon Sigurdsson                                      ok.963-995 ( Håkon wg N.T.V.S. ) [King of Norway]
                                                         przed 974-? (13.8.-?) ( Hakon wg B.S. )
                                                         ? ( Håkon wg Æ.T.U.T.F.K. )  ( Hákon Mocný (Hákon) wg S.N.A.S.E. )
                                                         przed 974-995 ( Håkon (Håkon z Hladiru) wg F.L.P.D.Ś.W. )
+                                                        ok.971-995 ( Haakon Sigurdsson (Haakon) wg F.S.B.1066 )
   Erik Håkonarson                                       1000-1015 ( Erik of Lade (Erik, Erik Håkonsson) wg N.T.V.S. ) [King of Norway]
-                                                        przed 1000-? ( Erik Haakon wg B.S. )
+                                                        przed 1000-? ( Erik Haakon wg B.S. ) 
+                                                        1000-? ( Eryk Haakonsson (Eryk) wg F.S.B.1066 )
                                                         ? ( Erik wg Æ.T.U.T.F.K. ) ( Eirik (Earl Eirik) wg T.S.O.T.I. ) ( Eirik Håkonarson z Hladiru (Eirik Håkonarson, Eirik) wg F.L.P.D.Ś.W. ) ( Erik wg S.N.A.S.E. )
   Svein Håkonsson                                       1015 ( wg N.T.V.S. ) [King of Norway]
                                                         przed 1016-? (?.3.-?) ( Swen wg F.L.P.D.Ś.W. )
+                                                        ?-1016 ( Swen Haakonsson (Swen) wg F.S.B.1066 )
   Håkon Eriksson                                        ? i ?-1029 ( Håkon wg N.T.V.S. )
                                                         przed 1028-? (21.12.-?) ( Håkon Eiriksson wg F.L.P.D.Ś.W. )
   Håkon Sveinsson                                       1028-1029 ( wg N.T.V.S. )
@@ -18609,6 +18672,7 @@ Lade ( Hladir )
       The Sagas of the Icelanders
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Lagasz ( Lagaš , Lagash )
   En.hengal                              	              ok.2600-ok.2575 ( wg S.B.W. )
@@ -18751,6 +18815,7 @@ Królestwo Laiginu ( Królestwo Leinsteru )
   Maelmorda                             		          	1003-1014 ( wg Tapsella )
                                                         przed 999-1014 (?-23.4.) ( Máel Morda wg N.T.V.S. )
                                                         przed 995-1014 ( Máel Mórda wg F.L.P.D.Ś.W. )
+                                                        przed 999-? ( Máel Morda wg F.S.B.1066 )
   Dunlaing mac Tuathal                   		          	1014 ( wg Tapsella )
   Donncuan                               		          	1014-1016 ( wg Tapsella )
   Bran mac Maelmorda                  		          	  1016-1018 ( wg Tapsella )
@@ -18776,6 +18841,7 @@ Królestwo Laiginu ( Królestwo Leinsteru )
       Říše slova - Jazykové dějiny světa
       Northmen - The Viking Saga 793-1241
       Furia ludzi Północy - Dzieje świata Wikingów
+      Fulford-Stamford Bridge 1066
 
 Laizan
 
@@ -21050,7 +21116,7 @@ Mbau
   Bibliografia :
       Ostrovy lidojedů
 
-Królestwo Meath ( Kingdom of Meath , Kingdom of Mide )
+Królestwo Meath ( Kingdom of Meath , Kingdom of Mide , Królestwo Południowego Uí Néill )
   Conall Cremthainne                       	            ok.450 n.e. ( wg Tapsella )
   Fiachu mac Niall                    		              ? ( wg Tapsella )
   Ardgal					                                      ? ( wg Tapsella )
@@ -21095,6 +21161,7 @@ Królestwo Meath ( Kingdom of Meath , Kingdom of Mide )
                                                         przed 980-po 1022 ( Mael Sechneill mac Domnaill (Malachi Mor) wg V.K.T.H.O.H.E. )
                                                         przed 979-po 1014 (?-23.4.) ( Máel Sechnaill mac Domnall (Máel Sechnaill) wg N.T.V.S. )
                                                         przed 980-po 1014 ( Máel Sechnaill wg F.L.P.D.Ś.W. )
+                                                        przed 980-po 999 ( Máel Sechnaill II wg F.S.B.1066 )
   Mael Sechnaill Got                           	        1022-1025 ( wg Tapsella )
   Roen mac Murchad                          	          1025-1027 ( wg Tapsella )
   Domnall mac Mael Sechnaill           	                1027-1030 ( wg Tapsella )
@@ -21115,6 +21182,7 @@ Królestwo Meath ( Kingdom of Meath , Kingdom of Mide )
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Northmen - The Viking Saga 793-1241
       Furia ludzi Północy - Dzieje świata Wikingów
+      Fulford-Stamford Bridge 1066
 
 Media Atropatene
   Atropates	                                            przed 323 p.n.e.-? ( wg S.C. )
@@ -21428,33 +21496,39 @@ Królestwo Mercji ( Mercia , Kingdom of Mercia , Mercja , Mercie )
                                                         przed 792-? ( wg N.T.V.S. i P.U.D. )
                                                         ? ( wg Æ.T.U.T.F.K. )
                                                         przed 789-po 792 ( wg F.L.P.D.Ś.W. )
+                                                        przed 779-796 ( wg F.S.B.1066 )
   Ecgfrith           	                                  796 ( wg D.Ś. i Tapsella )
                                                         787/96-796 ( wg D.O.T.W.A.C.A.G.H. )
   Cenwulf          	                                    796-821 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Coenwulf wg Tapsella )
                                          	              794-ok.820 ( wg V.N.M.S.D. )
                                                         przed ok.810-? ( Coenwulf wg N.T.V.S. )
+                                                        ? ( Ceolwulf wg F.S.B.1066 )
   Ceolwulf I       	                                    821-823 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
   Beornwulf       	                                    823-825 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
-                                                        przed 825-? ( wg N.T.V.S. )
+                                                        przed 825-? ( wg N.T.V.S. i F.S.B.1066 )
   Ludeca           	                                    825-827 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Ludecan wg Tapsella )
   Wiglaf             	                                  827-829 i 830-840 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                               		                      827-840 ( wg Tapsella )
+                                                        ? i ? ( wg F.S.B.1066 )
   Berhtwulf	                                            840-852 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Beorhtwulf wg Tapsella )
                                                         przed 851-? ( Beorhtwulf wg N.T.V.S. )
   Burgred           	                                  852-874 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                         przed 868-po 872 ( wg N.T.V.S. )
-                                                        przed 868-874 ( wg F.L.P.D.Ś.W. )
+                                                        przed 868-874 ( wg F.L.P.D.Ś.W. i F.S.B.1066 )
   Ceolwulf II      	                                    874-879 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                         przed 874-879/880 ( Ceolwulf wg N.T.V.S. )
                                                         874-po 877 (?-jesień) ( Ceolwulf wg F.L.P.D.Ś.W. )
                                                         873-? ( Ceolwulf wg S.N.A.S.E. )
+                                                        874-? ( wg F.S.B.1066 )
   Ethelred II       	                                  879-911 ( wg D.Ś. ) ( Aethelred II wg D.O.T.W.A.C.A.G.H. )
                                                         879/880-? ( Æthelred wg N.T.V.S. )
   Ethelfled          	                                  911-918 ( wg D.Ś. ) ( Aethelflaed wg D.O.T.W.A.C.A.G.H. )
                                                         przed 917-919 ( Æthelflæd wg N.T.V.S. )
                                                         911-918 (?-?.6.) ( Ethelfleda wg F.L.P.D.Ś.W. )
+                                                        ?-918 ( Ethelfleda wg F.S.B.1066 )
   Elfwyn             	                                  918-919 ( wg D.Ś. ) ( Aelfwyn wg D.O.T.W.A.C.A.G.H. )
   Athelstan                                             924-939 ( wg V.K.T.H.O.H.E. )
+                                                        924-? ( Æthelstan wg F.S.B.1066 )
   Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -21470,9 +21544,10 @@ Królestwo Mercji ( Mercia , Kingdom of Mercia , Mercja , Mercie )
       Otton I Wielki
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Merkici
-  Toktoa                                                ?-1204 n.e. (?-jesień)
+  Toktoa                                                ?-1204 n.e. (?-jesień) ( wg I.M. )
   Bibliografia :
       Imperium Mongolskie
 
@@ -22098,10 +22173,12 @@ Moray
   Gillecomgan                                           ? ( wg D.O.T.W.A.C.A.G.H. )
   Macbeth                                               1031/2-1057 (Mael Beth (Karl Hundason) wg N.T.V.S.) [King of Scotland]
                                                         przed 1031-? ( Mac Bethad mac Findlaích (Makbet) wg F.L.P.D.Ś.W. )
+                                                        przed 1031-? ( Maelbaethe wg F.S.B.1066 )
   Bibliografia :
       Northmen - The Viking Saga 793-1241
       Dynasties of the World - A Chronological and Genealogical Handbook
       Furia ludzi Północy - Dzieje świata Wikingów
+      Fulford-Stamford Bridge 1066
 
 Mordwini
 
@@ -23020,10 +23097,12 @@ Niemcy ( Germany , Německo , Deutschland )
       Otto II                                           973-983 (?-?.12.) ( Otton II wg S.P.D.Z. ) [Holy Roman Emperor]
                                                         961/73-983 ( wg D.O.T.W.A.C.A.G.H. ) 
                                                         961/73-983 (17.5./?-?) ( Otton II (Otto II., Otton) wg O.I.W. )
+                                                        przed 974-? ( Otton II (Otton) wg F.S.B.1066 )
       Otton III                                         przed 983-1002 ( wg Z.N.E. ) [Holy Roman Emperor]
                                                         przed 984-1002 ( wg S.P.D.Z. )
                                                         983-1002 ( Otto III wg D.O.T.W.A.C.A.G.H. )
     Henryk Kłótnik                                      przed 984-? ( wg Z.N.E. )
+                                                        ? ( Henryk II Kłótnik wg F.S.B.1066 )
     Dynastia saska ( Dynastia Ludolfingów , Dynastia Liudolfingów , Dynastia Ottonów , House of Saxony )
       Heinrich II ( Henry II )                          1014-1024 ( wg V.K.T.H.O.H.E. ) [Holy Roman Emperor]
                                                         1002-po 1003 ( Henryk II wg Z.N.E. )
@@ -23247,6 +23326,7 @@ Niemcy ( Germany , Německo , Deutschland )
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Książęta piastowscy Śląska
+      Fulford-Stamford Bridge 1066
 
 Księstwo niemodlińskie
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -23377,6 +23457,7 @@ Normandia ( Normannia , Normandy , Normandie )
         					      	                              przed 1066-?  ( Vilém wg D.P.I.R.G. ) ( Wilhelm Zdobywca wg B.M. i N.I.B.W.XI.S. ) ( Vilém Dobyvatel wg Ř.S.J.Ď.S. ) ( Vilém II. (Vilém Dobyvatel, Vilém, Vilém Bastard) wg S.N.A.S.E. )
                                                         ? ( William of Normandy wg V.K.T.H.O.H.E. ) ( Wilhelm Zdobywca wg H.W. ) ( William the Conqueror (William the Bastard, William) wg T.S.O.T.I. ) ( William the Conqueror wg H.O.W.P. ) 
                                                         przed 1066-po 1069 ( Vilém Dobyvatel (Vilém, Vilém Normanský) wg S.V.D.K.V. )
+                                                        przed 1051-po 1069 ( Wilhelm (Wilhelm z Normandii, Wilhelm Zdobywca, Wilhelm I) wg F.S.B.1066 )
       Robert II Courte Heuse ( Krótkonogi )	            1087-1106 ( wg D.Ś. i V.N.M.S.D. i N.I.B.W.XI.S. ) ( Robert Curthose (Robert) wg N.T.V.S. ) ( Robert II (Robert II Curthose) wg D.O.T.W.A.C.A.G.H. )
         				                     	                  ok.1096 ( wg K.V. )
                                                         przed 1095-po 1096 ( Robert II. Normandský (Robert, Robert Normandský, Robert Curthose, Robert II.) wg S.V.D.K.V. )
@@ -23413,6 +23494,7 @@ Normandia ( Normannia , Normandy , Normandie )
       Otton I Wielki
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Królestwo Northumbrii ( Northumbria , Kingdom of Northumbria , Nortumbria , The Kingdom of Northumbria )
   Ida                     		                          547-560 ( wg V.N.M.S.D. )
@@ -23483,14 +23565,17 @@ Królestwo Northumbrii ( Northumbria , Kingdom of Northumbria , Nortumbria , The
                                     		                849-862 ( wg Tapsella )
                                                         przed 866-867 (?-?.3.) ( Osberht wg N.T.V.S. )
                                                         przed 866-867 ( wg F.L.P.D.Ś.W. )
+                                                        ?-866 ( wg F.S.B.1066 )
   Elle II                    	                          866-867 ( wg D.Ś. ) ( Aelle wg D.O.T.W.A.C.A.G.H. )
                                     		                862-867 ( Aelle wg Tapsella )
                                                         przed 866-867 (?-?.3.) ( Æelle wg N.T.V.S. )
                                                         ?-867 ( Ella wg T.S.O.T.I. )
                                                         przed 866-867 ( Ella wg F.L.P.D.Ś.W. )
+                                                        ?-866 ( Ella wg F.S.B.1066 )
   Egbert I                 	                            867-873 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                         867-po 872 ( Ecgberht wg N.T.V.S. )
                                                         867-872 ( Egbert wg F.L.P.D.Ś.W. )
+                                                        ? ( Egbert wg F.S.B.1066 )
   Ricsige                  	                            873-876 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Ricsig wg Tapsella )
   Egbert II               	                            876-878 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
   Eadwulf II           		                              878-913 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
@@ -23509,6 +23594,7 @@ Królestwo Northumbrii ( Northumbria , Kingdom of Northumbria , Nortumbria , The
       The Sagas of the Icelanders
       Otton I Wielki
       Furia ludzi Północy - Dzieje świata Wikingów
+      Fulford-Stamford Bridge 1066
 
 Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
   Olaf                          	                      630-640 ( wg V.N.M.S.D. )
@@ -23522,7 +23608,8 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         ?-ok.880 ( Halfdan the Black wg N.T.V.S. )
                                                         ok.825 ( Hálfdan Černý wg S.N.A.S.E. )
   Dynastia z Vestfold ( House of Westfold )
-    Harald I Pięknowłosy                  	            858-928 ( wg D.Ś. )
+    Dynastia Haralda Pięknowłosego
+      Harald I Pięknowłosy                  	          858-928 ( wg D.Ś. )
                                                         ok.858-ok.928 ( Harald I (Harald I Fairhair) wg D.O.T.W.A.C.A.G.H. )
                                                         863-934 ( wg V.N.M.S.D. )
                                                         ok.870-940 ( wg Tapsella )
@@ -23533,16 +23620,19 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         ok.860-932 ( Harald Fairhair (Harald Fair-hair, Harald, Harald Halfdanarson Fair-hair, Harald Halfdanarson Tangle-hair) wg T.S.O.T.I. )
                                                         ok.870/85/90-931/ok.932/3 ( Harald Pięknowłosy (Harald, Harald Hafagre) wg F.L.P.D.Ś.W. )
                                                         ?-ok.933 ( Harald Krásnovlasý (Harald) wg S.N.A.S.E. )
+                                                        przed 872-ok.932 ( Harald Pięknowłosy (Harald) wg F.S.B.1066 )
     Eryk I Krwawy Topór                 		            928-933 ( wg D.Ś. )
                                                         ok.928-ok.933 ( Eirik I (Eirik I Bloodaxe) wg D.O.T.W.A.C.A.G.H. )
                                                         934-936 ( wg V.N.M.S.D. )
                                                         ok.940-ok.945 ( wg Tapsella )
-                                                        ? ( Erik Krvavá Sekyra wg S.M. ) 
+                                                        ? ( Erik Krvavá Sekyra wg S.M. ) ( Eryk Krwawy Topór (Eryk) wg F.S.B.1066 )
                                                         ?-936 ( Erik Krvavá Sekyra (Erik, Krvavá Sekyra, Erik Krvavá sekyra) wg S.N.A.S.E. )
                                                         ok.933-936/ok.934 ( Eryk Krwawy Topór (Eryk) wg F.L.P.D.Ś.W. )
                                                         ok.930-ok.936 ( Eirik Bloodaxe (Erik Bloodaxe, Erik) wg N.T.V.S. )
                                                         930-934/5 ( Eirik Blood-axe (Eirik Haraldsson Blood-axe) wg N.S. )
                                                         930-934 ( Erik Blood-axe (Eirik Blood-axe, Eirik, Eirik Haraldsson Blood-axe) wg T.S.O.T.I. )
+    Olaf                                                ? ( wg F.S.B.1066 )
+    Sigurd                                              ? ( wg F.S.B.1066 )
     Haakon I Dobry                           	          933-959 ( wg D.Ś. )
                                                         ok.933-ok.959 ( Haakon I (Haakon I the Good) wg D.O.T.W.A.C.A.G.H. )
                                                         936-963 ( wg V.N.M.S.D. )
@@ -23553,6 +23643,7 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         934-960 ( Hakon Haraldsson (Hakon, Hakon Haraldson the Good) wg T.S.O.T.I. )
                                                         ok.934-960/5/ok.960 ( Håkon Dobry (Håkon, Håkon Adalsteins fostri, Håkon I Dobry) wg F.L.P.D.Ś.W. )
                                                         936-po 953 ( Hákon Dobrý (Hákon) wg S.N.A.S.E. )
+                                                        ?-960/1 ( Haakon (Haakon Dobry) wg F.S.B.1066 )
     Eirikssonowie
       Harald II Szara Opończa              	            959-974 ( wg D.Ś. )
                                                         ok.959-ok.974 ( Harald II (Harald II Graycloak) wg D.O.T.W.A.C.A.G.H. )
@@ -23563,15 +23654,17 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         960-975 ( Harald Grey-cloak (Harald Eiriksson Grey-cloak, Harald Gunnhildarson Grey-cloak) wg T.S.O.T.I. )
                                                         przed 970-974 ( Harald Szary Płaszcz (Harald II Szary Płaszcz) wg F.L.P.D.Ś.W. )
                                                         przed 970-? ( Harald (Šedý plášť, Harald Šedý plášť) wg S.N.A.S.E. )
+                                                        ?-ok.971 ( Harald Szary Płaszcz (Szary Płaszcz, Harald) wg F.S.B.1066 )
     Jarl Haakon Sigurdsson               	              974-994 ( wg D.Ś. )
                                                         ok.974-ok.994 ( Earl Haakon Sigurdsson wg D.O.T.W.A.C.A.G.H. )
                                                         977-995 ( wg V.N.M.S.D. )
                                                         ok.970-ok.995 ( wg Tapsella )
                                                         975-995 ( Hakon Sigurdarson (Hakon Sigurdsson) wg N.S. ) ( Hakon Sigurdarson the Powerful (Hakon Sigurdarson the Earl) wg T.S.O.T.I. )
-                                                        ?-995 ( Håkon Sigurdsson wg N.T.V.S. )
+                                                        ?-995 ( Håkon Sigurdsson wg N.T.V.S. ) 
+                                                        ok.975-995 ( Haakon Sigurdsson (Haakon) wg F.S.B.1066 )
     Olaf I Trygvesson                        	          994-999 ( wg D.Ś. )
                                                         ok.994-999/1000 ( Olav I wg D.O.T.W.A.C.A.G.H. )
-                                                        995-1000 ( wg V.N.M.S.D. i Tapsella ) ( Olof I Tryggvesson wg E.P. ) ( Olaf Tryggwason (Óláfr Tryggvason) wg W.W.K.R. ) ( Olaf Tryggvason wg N.S. i T.S.O.T.I. ) ( Olaf Tryggvason (Olaf) wg N.T.V.S. )
+                                                        995-1000 ( wg V.N.M.S.D. i Tapsella ) ( Olof I Tryggvesson wg E.P. ) ( Olaf Tryggwason (Óláfr Tryggvason) wg W.W.K.R. ) ( Olaf Tryggvason wg N.S. i T.S.O.T.I. ) ( Olaf Tryggvason (Olaf) wg N.T.V.S. ) ( Olaf Tryggvason (Olaf, Tryggvason) wg F.S.B.1066 )
                                                         ? ( Olaf Tryggvesson wg Z.S.A.V.E. ) ( Olaf Tryggvason (Unlaf, Olaf) wg Æ.T.U.T.F.K. ) ( Olaf Tryggvason wg K.1018 )
                                                         ?-1000 ( Olaf Trygvasson (Trygvasson) wg B.S. )
                                                         995/6-995/9/1000 ( Olaf Tryggvason (Olaf) wg F.L.P.D.Ś.W. )
@@ -23580,6 +23673,7 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         999/1000-1015 ( Earl Eirik wg D.O.T.W.A.C.A.G.H. )
                                                         1000-1015 ( wg Tapsella )
                                                         1000-1013/4 ( Eirik Hakonarson (Eirik, Earl Eirik, Eirik Hakonarson the Earl) wg T.S.O.T.I. )
+                                                        1000-? ( Eryk Haakonsson wg F.S.B.1066 )
     Jarl Svein                                      	  1015-1016 ( wg D.Ś. ) ( Earl Svein wg D.O.T.W.A.C.A.G.H. )
                                                         1000-1014/5 ( Svein Hakonarson (Svein) wg T.S.O.T.I. )
                                                         ? ( Sveinn wg S.N.A.S.E. )
@@ -23594,15 +23688,17 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         1015-1030 ( św.Olaf wg N.I.B.W.XI.S. )
                                                         1014-1030 ( Olaf Haraldsson the Saint (Olaf Haraldsson, St Olaf Haraldsson) wg T.S.O.T.I. )
                                                         ok.1016-? ( Olaf Święty (Olaf, Olaf II) wg K.1018 )
+                                                        przed 1016-1028 ( Olaf Haraldsson (św. Olaf II, św. Olaf, Haraldsson, św. Olaf Haraldsson, Olaf II Haraldsson, Św. Olaf) wg F.S.B.1066 )
     Svein Alfivason                            	        1030-1035 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Svein wg N.T.V.S. )
                                                         1030-? ( Sveinn Alfifasson wg S.N.A.S.E. )
-    Knut                                              	1028-1035 ( wg V.N.M.S.D. ) ( Kanut Wielki (Knud den Store) wg W.W.K.R. ) ( Kanut (Cnut, Cnut the Great, Kanut Wielki) wg F.L.P.D.Ś.W. ) [King of Denmark]
+    Knut                                              	1028-1035 ( wg V.N.M.S.D. ) ( Kanut Wielki (Knud den Store) wg W.W.K.R. ) ( Kanut (Cnut, Cnut the Great, Kanut Wielki) wg F.L.P.D.Ś.W. ) ( Kanut Wielki (Cnut, Knut Wielki, Kanut, Cnut the Great) wg F.S.B.1066 ) [King of Denmark]
       						                                      1028-1035 ( ?-12.11. ) ( Knut I Veliký wg E.P. )
                                                         przed 1019-1035 ( Kanut II Wielki (Kanut) wg S.P.D.Z. )
                                                         ? ( Kanut Wielki (Knut Wielki) wg O.I.W. )
     Sven Knutsson                              	        1028-1035 ( wg Tapsella )
                                                         1030-1035 ( Svein Knutsson wg T.S.O.T.I. )
                                                         ? ( Swen wg F.L.P.D.Ś.W. )
+                                                        przed 1035-? ( Swen Knutsson )
     Magnus I Dobry                           	          1035-1046 ( wg D.Ś. ) [King of Denmark Magnus the Good]
                                                         1035-1046/7 ( Magnus I (Magnus I the Good) wg D.O.T.W.A.C.A.G.H. )
                                                         1036-1047 ( wg V.N.M.S.D. )
@@ -23613,6 +23709,7 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         ? ( Magnus Dobry wg N.I.B.W.XI.S. )
                                                         1035-1047 ( Magnus Dobry (Magnus) wg F.L.P.D.Ś.W. )
                                                         przed 1043-? ( Magnus Dobrý wg S.N.A.S.E. )
+                                                        ok.1035-1047 (?-25.10.) ( Magnus (Magnus Dobry, Magnus Olafsson, Olafsson) wg F.S.B.1066 )
     Harald III Hardrade ( Surowy )		                  1045-1066 ( wg D.Ś. ) ( Harald III (Harald III Hardrada) wg D.O.T.W.A.C.A.G.H. )
                                                         1047-1066 ( wg V.N.M.S.D. i Tapsella ) ( Harald Srogi (Haraldr Harðráði) wg W.W.K.R. ) 
                                                         1046/7-1066 ( Harald Srogi (Harald III, Harald, Harald Sigurdsson, Harald Hardrada, Harald Hardråde, Harald Twardy, Harald III Sigurdsson, Harald III Srogi) wg F.L.P.D.Ś.W. )
@@ -23623,13 +23720,17 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         przed 1066-? ( Harald (Haraldus) wg G.R.I.L. )
                                                         1046-1066 ( Harald Sigurdarson the Stern (Harald the Stern, Harald Sigurdarson, Harald) wg T.S.O.T.I. )
                                                         ? ( Harald Hårdråde wg K.1018 )
+                                                        1046/7-1066 (?-25.9.) ( Harald Srogi (Harald III Srogi, Harald III Hardrada, Harald Sigurdsson, Hardrada, Harald Hardrada, Harald) wg F.S.B.1066 )
     Magnus II                                     	    1066-1069 ( wg D.Ś. i Tapsella i N.T.V.S. i D.O.T.W.A.C.A.G.H. ) ( Magnus Haraldsson wg T.S.O.T.I. )
+                                                        przed 1067-? ( Magnus wg F.S.B.1066 )
     Olaf III Cichy                               	      1067-1093 ( wg D.Ś. ) ( Olaf Kyrre (Olaf III, Olaf the Peaceful) wg N.T.V.S. ) ( Olav III (Olav III the Gentle) wg D.O.T.W.A.C.A.G.H. ) ( Olaf the Quiet (Olaf Haraldsson the Quiet) wg T.S.O.T.I. )
                                                         1066-1093 ( wg V.N.M.S.D. i Tapsella ) 
                                                         1066/7-1093 ( Olaf Kyrre wg S.N.A.S.E. )
+                                                        1067-? ( Olaf III Spokojny (Olaf III, Olaf, Olaf Haraldsson) )
     Haakon Magnusson                     	              1093-1095 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Håkon Magnusson wg N.T.V.S. )
                                                         ?-1094 ( Håkon wg F.L.P.D.Ś.W. )
-    Magnus III Bosy                           	        1093-1103 ( wg D.Ś. i Tapsella ) ( Magnus Bosonogi (Magnús Berfœttr) wg W.W.K.R. ) ( Magnus II wg V.N.M.S.D. ) ( Magnus III (Magnus III Barelegs) wg D.O.T.W.A.C.A.G.H. ) ( Magnus Bare-leg wg T.S.O.T.I. )
+                                                        przed 1093-? ( wg F.S.B.1066 )
+    Magnus III Bosy                           	        1093-1103 ( wg D.Ś. i Tapsella ) ( Magnus Bosonogi (Magnús Berfœttr) wg W.W.K.R. ) ( Magnus II wg V.N.M.S.D. ) ( Magnus III (Magnus III Barelegs) wg D.O.T.W.A.C.A.G.H. ) ( Magnus Bare-leg wg T.S.O.T.I. ) ( Magnus III (Magnus, Magnus Barelegs) wg F.S.B.1066 )
                                                         1093-1103 (?-?.8.) ( Magnus Barefoot (Magnus III Barefoot) wg N.T.V.S. )
                                                         przed 1094-1103 ( Magnus Bosonogi (Magnus, Magnus III Bosonogi, Bosonogi, Magnus Barelegs) wg F.L.P.D.Ś.W. )
     Olaf Magnusson                            	        1103-1115 ( wg D.Ś. i Tapsella ) ( Óláfr Magnússon wg W.W.K.R. ) ( Olav Magnusson wg D.O.T.W.A.C.A.G.H. )
@@ -23639,6 +23740,7 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         ? ( Eystein I Magnusson (Eystein I) wg F.L.P.D.Ś.W. )
     Sigurd I Krzyżowiec                     	          1103-1130 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Sigurd Krzyżowiec (Sigurðr Jorsalafari) wg W.W.K.R. ) ( Sigurd (Sigurd I, Jorsafalar, Sigurd Jorsalfar) wg N.T.V.S. ) ( Sigurd I (Sigurd I the Crusader) wg D.O.T.W.A.C.A.G.H. ) ( Sigurd Jerusalem-farer wg T.S.O.T.I. ) ( Sigurd Krzyżowiec (Sigurd I, Sigurd) wg F.L.P.D.Ś.W. )
                                                         przed 1100-po 1110 ( Sigurd wg S.V.D.K.V. )
+                                                        ?-1130 ( wg F.S.B.1066 )
     Magnus IV Ślepy                          	          1130-1135 ( wg D.Ś. i Tapsella ) ( Magnus Ślepy (Magnús Blindi) wg W.W.K.R. ) ( Magnus IV (Magnus IV the Blind) wg D.O.T.W.A.C.A.G.H. ) ( Magnus Sigurdarson the Blind wg T.S.O.T.I. )
     Harald IV Gille                             	      1130-1136 ( wg D.Ś. i Tapsella ) ( Harald Sługa Boży (Haraldr Gilli) wg W.W.K.R. ) ( Harald IV wg D.O.T.W.A.C.A.G.H. ) ( Harald Magnusson Gilli wg T.S.O.T.I. )
     Sigurd II Gęba                              	      1136-1155 ( wg D.Ś. i Tapsella ) ( Sigurd II (Sigurd II Mouth) wg D.O.T.W.A.C.A.G.H. ) ( Sigurd Haraldsson wg T.S.O.T.I. )
@@ -23648,8 +23750,10 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         ok.1155 ( wg N.T.V.S. )
                                                         1136-1157 ( Eystein Haraldsson wg T.S.O.T.I. )
                                                         ? ( Eystein wg F.L.P.D.Ś.W. )
+                                                        ?-1157 ( Eystein II Haraldsson wg F.S.B.1066 )
     Haakon II Barczysty                      	          1157-1162 ( wg D.Ś. ) ( Haakon II (Haakon II Broadshouldered) wg D.O.T.W.A.C.A.G.H. ) ( Hakon Broad-shoulder Sigurdarson wg T.S.O.T.I. )
                                                         1161-1162 ( wg Tapsella )
+                                                        przed 1158-? ( wg F.S.B.1066 )
     Magnus V Erlingsson                    	            1161-1184 ( wg D.Ś. ) ( Magnus V wg D.O.T.W.A.C.A.G.H. ) ( Magnus Erlingsson wg T.S.O.T.I. )
                                                         1162-1186 ( IV wg V.N.M.S.D. )
                                                         1162-1184 ( wg Tapsella )
@@ -23671,6 +23775,7 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         1217-1263 (?-16.12.) ( Håkon IV wg N.T.V.S. )
                                                         ? ( Haakon IV. wg S.V.D.K.V. )
                                                         przed 1242-1263 ( Håkon (Håkon IV, Håkon IV Stary) wg F.L.P.D.Ś.W. )
+                                                        przed 1263-? (?.10.-?) ( Haakon IV wg F.S.B.1066 )
     Haakon Młodszy                            	        1240-1257 ( wg D.Ś. ) ( Haakon the Younger wg D.O.T.W.A.C.A.G.H. )
     Magnus VI Prawodawca                	              1263-1280 ( wg D.Ś. i Tapsella ) ( Magnus VI wg N.T.V.S. )
                                                         1263-1280 ( V wg V.N.M.S.D. )
@@ -23731,6 +23836,7 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
       Kijów 1018
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Norymberga ( Nuremberg )
   Dynastia Hohenzollernów ( The House of Hohenzollern )
@@ -23761,12 +23867,12 @@ Nowa Zelandia ( New Zealand )
       Říše slova - Jazykové dějiny světa
 
 Księstwo Nowogrodzkie ( Novgorod , Nowogród )
-  Ryurikid dynasty ( Rurikovci )
+  Ryurikid dynasty ( Rurikovci , Dynastia Rurykowiczów )
     Rurik	                                              ? ( wg Z.S.A.V.E. i L.P.P. i S.N.A.S.E. )
                                                         ?-ok.879 ( wg V.K.T.H.O.H.E. )
                                                         ok.862-ok.879 ( wg N.T.V.S. )
                                                         862-879 ( Ruryk wg B.S. i K.1018 )
-                                                        862-? ( Ruryk wg J.P.1242 )
+                                                        862-? ( Ruryk wg J.P.1242 i F.S.B.1066 )
                                                         ok.862/przed 860-? ( Ruryk wg F.L.P.D.Ś.W. )
     Oleg                                                przed ok.882 n.e.-? ( wg D.P.I.R.G. ) [Prince of Kiev]
       	              	                                ok.882-? ( wg Z.S.A.V.E. )
@@ -23787,6 +23893,7 @@ Księstwo Nowogrodzkie ( Novgorod , Nowogród )
       Kijów 1018
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Księstwo nowogrodzko-siewierskie
   Wsiewołod Olegowicz                                   ? ( wg Z.1205 )
@@ -23987,6 +24094,7 @@ Obodrzyce ( Obodrzyci , Abodriti , Abodriten , Obodryci , Związek Obodrycki , A
                                                         przed 967-po 995 ( wg S.P.D.Z. )
                                                         przed 974-po 983 ( Mściwoj wg B.S. )
                                                         przed 974-? ( wg F.L.P.D.Ś.W. )
+                                                        ? ( Mściwoj wg F.S.B.1066 )
       Mścidrog                                          przed 983-990 ( wg S.P.D.Z. )
     Dynastia Nakonidów
       Mitislav ( Mścisław )                             przed 1018-? ( wg Z.S.A.V.E. )
@@ -24005,6 +24113,7 @@ Obodrzyce ( Obodrzyci , Abodriti , Abodriten , Obodryci , Związek Obodrycki , A
       Racibór                                           ok.1028-1043 ( wg Z.N.E. )
                                                         1028-1043 ( Racibor wg S.P.D.Z. )
                                                         ?-1043 ( Racibor wg B.S. )
+                                                        przed 1043-? (29.9.-?) ( Racibor wg F.S.B.1066 )
       Gotszalk                                          1043-1066 ( wg Z.N.E. )
                                                         przed 1057-1066 (?-7.6.) ( wg S.P.D.Z. )
                                                         ? ( wg B.S. )
@@ -24061,6 +24170,7 @@ Obodrzyce ( Obodrzyci , Abodriti , Abodriten , Obodryci , Związek Obodrycki , A
       Otton I Wielki
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Królestwo Obojga Sycylii ( Kingdom of The Two Sicilies , Království Dvou Sicílií )
   Habsburgowie
@@ -24359,9 +24469,10 @@ Orchomenos
 Orkneje ( Orkney, Earldom of Orkney , Orkady , Jarlostwo Orkadów , Orknejské ostrovy )
   Ragnvald I                         	                  ok.874-ok.875 ( wg Tapsella ) [Jarl of Møre Rognvald]
                                                         ok.870-? ( Rognvald of Møre (Rögnvald) wg N.T.V.S. ) ( Rögnvald z Møre (Rögnvald) wg F.L.P.D.Ś.W. )
+                                                        ? ( Rögnvald Eysteinsson wg F.S.B.1066 )
   Sigurd I                              	              ok.875-ok.892 ( wg Tapsella )
                                                         ?-ok.892 ( Sigurd the Mighty wg N.T.V.S. )
-                                                        ? ( Sigurd Eysteinsson wg T.S.O.T.I. )
+                                                        ? ( Sigurd Eysteinsson wg T.S.O.T.I. ) ( Sigurd wg F.S.B.1066 )
                                                         przed ok.890-891 ( Sigurd Potężny (Sigurd) wg F.L.P.D.Ś.W. )
   Guthorm                             	                ok.892-ok.893 ( wg Tapsella )
                                                         ok.892/3 ( Guttorm wg N.T.V.S. )
@@ -24398,7 +24509,8 @@ Orkneje ( Orkney, Earldom of Orkney , Orkady , Jarlostwo Orkadów , Orknejské o
                                                         ok.970 ( Hlodver Thorfinnsson wg T.S.O.T.I. )
   Sigurd II                             	              ok.988-1014 ( wg Tapsella )
                                                         990-1014 ( Sigurd Hlodvisson (Sigurd) wg N.S. )
-                                                        ok.985-1014 (?-23.4.) ( Sigurd the Stout wg N.T.V.S. )
+                                                        ok.985-1014 (?-23.4.) ( Sigurd the Stout wg N.T.V.S. ) 
+                                                        991/ok.985-1014 (?-23.4.) ( Sigurd Hlodvirsson (Sigurd) wg F.S.B.1066 )
                                                         980/90-1014 ( Sigurd (Earl Sigurd, Sigurd Hlodvesson) wg T.S.O.T.I. )
                                                         980-1014 ( Sigurd (Sigurd Hlodvisson) wg F.L.P.D.Ś.W. )
   Somerled                            	                1014-1053 ( wg Tapsella )
@@ -24412,15 +24524,18 @@ Orkneje ( Orkney, Earldom of Orkney , Orkady , Jarlostwo Orkadów , Orknejské o
                                                         ok.1020-1065 ( Thorfinn (Thorfinn the Mighty) wg N.T.V.S. )
                                                         1014-1065 ( Thorfinn (Thorfinn Potężny) wg F.L.P.D.Ś.W. )
                                                         ? ( Thorfinn Sigurdarson wg T.S.O.T.I. )
+                                                        ok.1020-1064/5 ( Thorfinn Sigurdsson (Thorfinn, Thorfinn Mocny) wg F.S.B.1066 )
   Ragnvald II                         	                1038-1046 ( wg Tapsella )
                                                         1037/8-1046 ( Rognvald Brusason (Rognvald) wg N.T.V.S. )
                                                         przed 1046-? ( Rögnvald Brusason (Rögnvald) wg F.L.P.D.Ś.W. )
   Paul I                                   	            ok.1065-1098 ( wg Tapsella )
                                                         1065-1098 (20.9.-?) ( Paul wg N.T.V.S. )
                                                         przed 1066-po 1098 (25.9.-?) ( Pál wg F.L.P.D.Ś.W. )
+                                                        przed 1066-1098 (?.8.-?) ( Paul Thorfinnsson (Paul) wg F.S.B.1066 )
   Erlend II                              	              ok.1065-1098 ( wg Tapsella )
                                                         1065-1098 ( Erlend wg N.T.V.S. )
                                                         przed 1066-po 1098 (25.9.-?) ( Erlend (Erlend Thorfinsson) wg F.L.P.D.Ś.W. )
+                                                        przed 1066-1098 (?.8.-?) ( Erlend Thorfinnsson wg F.S.B.1066 )
   Magnus Bosonogi                                       ? ( Magnus wg F.L.P.D.Ś.W. )
   Sigurd III                             	              1098-1105 ( wg Tapsella ) [King of Norway]
                                                         1098-1103/5 ( Sigurd wg N.T.V.S. )
@@ -24442,6 +24557,7 @@ Orkneje ( Orkney, Earldom of Orkney , Orkady , Jarlostwo Orkadów , Orknejské o
                                                         ?-1154 ( Erlend Haraldsson wg F.L.P.D.Ś.W. )
   Harald II                               	            1139-1206 ( wg Tapsella ) ( Harald Maddadsson wg N.T.V.S. )
                                                         przed 1153-po 1171 ( Harald Maddaðarson (Harald) wg F.L.P.D.Ś.W. )
+                                                        przed 1153-1206 ( Harald Maddadsson wg F.S.B.1066 )
   David                                    	            1206-1214 ( wg Tapsella )
   John I                                    	          1206-1231 ( wg Tapsella )
                                                         ?-1231 ( Jon Haraldsson wg N.T.V.S. )
@@ -24460,6 +24576,7 @@ Orkneje ( Orkney, Earldom of Orkney , Orkady , Jarlostwo Orkadów , Orknejské o
       The Sagas of the Icelanders
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Vévodství orleánské
   Ludvík                                                przed 1396 n.e.-? ( wg S.V.D.K.V. )
@@ -25912,7 +26029,7 @@ Principality of Piedmont
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Piktowie
+Piktowie ( Picts )
   Królestwo Piktów ( Království Piktů )
     Bridei I ( Brud I )                    	            ok.556-ok.586 ( wg Tapsella )
                                                         ok.554-584 ( Brud (Bridei, Brude) wg Z.N.E. )
@@ -25954,7 +26071,7 @@ Piktowie
     Drest IV                                 	          834-837 ( wg Tapsella )
     Talorgen II                             	          834-837 ( wg Tapsella )
     Uuen ( Eoganan z Dalriady )	                        837-839 ( wg Tapsella )
-                                                        ?-839 ( Eoganan wg Z.N.E. ) ( Eóganán wg N.T.V.S. ) ( Eoganán wg S.N.A.S.E. )
+                                                        ?-839 ( Eoganan wg Z.N.E. ) ( Eóganán wg N.T.V.S. ) ( Eoganán wg S.N.A.S.E. ) ( Eóganan mac Óengusa wg F.S.B.1066 )
     Uurad                                     	        839-842 ( wg Tapsella )
     Bred                                       	        842 ( wg Tapsella )
     Kineth                                    	        842-843 ( wg Tapsella )
@@ -25971,6 +26088,7 @@ Piktowie
       Northmen - The Viking Saga 793-1241
       Dynasties of the World - A Chronological and Genealogical Handbook
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Księstwo pińskie
   Włodzimierz Rościsławowicz                            przed 1229 n.e.-? ( wg L.P.P. )
@@ -26678,6 +26796,7 @@ Konfederacja Powhatana
       Czarne wampuny głoszą wojnę
 
 Księstwo Powys
+  Gruffydd ap Llywelyn                                  1039-1063/4 ( Gruffydd wg F.S.B.1066 ) [King of Gwynedd Gruffydd I]
   Bleddyn ap Cynfyn                	                    1063-1075 ( wg Tapsella )
   Madog ap Bleddyn                 	                    1075-1088 ( wg Tapsella )
   Iorwerth ap Bleddyn               	                  1075-1103 ( wg Tapsella )
@@ -26694,6 +26813,7 @@ Księstwo Powys
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Tamerlane - Sword of Islam, Conqueror of the World
+      Fulford-Stamford Bridge 1066
 
 Księstwo poznańskie
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -27120,9 +27240,11 @@ Rimini
       Historia Wenecji
 
 Ringerike ( Kingdom of Ringerike )
-  Sigurd Syr                                            ?
+  Sigurd Syr                                            ? ( wg N.T.V.S. )
+  Halfdan Czarny                                        ? ( wg F.S.B.1066 )
   Bibliografia :
       Northmen - The Viking Saga 793-1241
+      Fulford-Stamford Bridge 1066
 
 Ripa Thraciae
   Rhaskuporis III                                       ok.12 n.e.
@@ -28670,7 +28792,7 @@ Rzym ( Rome , Řím )
     							                                      582-602 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella i S.C. ) ( Maurikios wg D.B. i Ž.V.Ř.S. ) ( Maurice wg D.O.T.W.A.C.A.G.H. )
     							                                      przed 587-602 ( wg D.D.T. )
                                                         ok.625 ( Maurice wg V.K.T.H.O.H.E. )
-                                                        ? ( wg Z.N.E. ) ( Maurice wg G.R.I.L. i H.O.W.P. ) 
+                                                        ? ( wg Z.N.E. i F.S.B.1066 ) ( Maurice wg G.R.I.L. i H.O.W.P. ) 
                                                         przed 579-? ( Maurycy wg C.K.F. )
                                                         przed 594-po 596 ( wg B.S. )
                                                         ok.600 ( wg N.I.B.W.XI.S. )
@@ -28808,7 +28930,7 @@ Rzym ( Rome , Řím )
                                                         przed 893-? ( Leon wg B.S. )
         Aleksander                                      912-913 ( wg D.Ś. i R.Z.A.D.D. i Tapsella ) ( Alexandros wg D.B. )
                                                         879/912-913 ( Alexander wg D.O.T.W.A.C.A.G.H. )
-        Konstantyn VII Porfirogeneta                   	913-959 ( wg D.Ś. i B.D.K.B. i Z.1205 ) ( Constantine VII Porphyrogenitus wg N.T.V.S. )
+        Konstantyn VII Porfirogeneta                   	913-959 ( wg D.Ś. i B.D.K.B. i Z.1205 ) ( Constantine VII Porphyrogenitus wg N.T.V.S. ) ( Konstantyn VII wg F.S.B.1066 )
                                                         908/13-959 ( Constantine VII (Constantine VII Porphyrogenitus) wg D.O.T.W.A.C.A.G.H. )
     							                                      913-959 (?-?.11.) ( Konstantinos VII Porfyogennetos wg  D.B. )
                                                         913-920 i 945-959 ( wg R.Z.A.D.D. )
@@ -28854,20 +28976,21 @@ Rzym ( Rome , Řím )
                                                         przed 987-po 988 ( Basil II wg N.T.V.S. )
                                                         przed 988-po 1014 (jesień-29.7.) ( Bazyli II Bułgarobójca (Bazyli II) wg B.S. )
                                                         przed 986-po 1018 (lato-15.8.) ( Bazyli II Bułgarobójca (Bazyli II, Bazyli) wg K.1018 )
-                                                        przed 988-? ( Basileos II. wg S.N.A.S.E. )
+                                                        przed 988-? ( Basileos II. wg S.N.A.S.E. ) ( wg F.S.B.1066 )
         Bardas Skleros                                  ? ( wg B.S. ) ( Skleros wg K.1018 )
         Bardas Fokas                                    przed 988-989 (?-23.4.) ( Fokas wg K.1018 )
-        Konstantyn VIII                                 1025-1028 ( wg D.Ś. ) ( Konstantinos VIII wg D.B. ) ( Konstantyn wg N.I.B.W.XI.S. )
+        Konstantyn VIII                                 1025-1028 ( wg D.Ś. i F.S.B.1066 ) ( Konstantinos VIII wg D.B. ) ( Konstantyn wg N.I.B.W.XI.S. )
                                                         962/1025-1028 ( Constantine VIII wg D.O.T.W.A.C.A.G.H. )
                                                         976-1028 ( wg V.N.M.S.D. i Tapsella ) ( Konstantin VIII wg Z.S.A.V.E. )
                                                         przed 980-po 1002 ( wg H.W. )
                                                         ? ( wg O.I.W. i K.1018 )
-        Roman III Argyros                               1028-1034 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Romanos III Argyros wg D.B. ) ( Romanus III Argyrus wg D.O.T.W.A.C.A.G.H. ) ( Roman III wg N.I.B.W.XI.S. )
+        Roman III Argyros                               1028-1034 ( wg V.N.M.S.D. i D.Ś. i Tapsella i F.S.B.1066 ) ( Romanos III Argyros wg D.B. ) ( Romanus III Argyrus wg D.O.T.W.A.C.A.G.H. ) ( Roman III wg N.I.B.W.XI.S. )
                                                         ? ( wg F.L.P.D.Ś.W. )
         Michał IV Paflagończyk                          1034-1041 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Michael IV wg D.B. ) ( Michael IV (Michael IV the Paphlagonian) wg D.O.T.W.A.C.A.G.H. ) ( Michał IV wg N.I.B.W.XI.S. )
                                                         przed 1034-1041 ( Michał IV wg F.L.P.D.Ś.W. )
                                                         przed 1038-po 1040 ( Michael IV. wg S.N.A.S.E. )
-        Michał V Kalafates                              1041-1042 ( wg D.Ś. ) ( Michael V wg D.B. ) ( Michael V (Michael V Calaphates) wg D.O.T.W.A.C.A.G.H. ) ( Michał V wg N.I.B.W.XI.S. i F.L.P.D.Ś.W. )
+                                                        przed 1036-1041 (?-?.12.) ( Michał IV wg F.S.B.1066 )
+        Michał V Kalafates                              1041-1042 ( wg D.Ś. ) ( Michael V wg D.B. ) ( Michael V (Michael V Calaphates) wg D.O.T.W.A.C.A.G.H. ) ( Michał V wg N.I.B.W.XI.S. i F.L.P.D.Ś.W. i F.S.B.1066 )
         Zoë                                             1042 ( wg D.Ś. ) ( Zoe wg D.B. i N.I.B.W.XI.S. )
                                                         1028/42-1042/50 ( wg D.O.T.W.A.C.A.G.H. )
     							                                      1041-1054 ( wg V.N.M.S.D. )
@@ -28881,6 +29004,7 @@ Rzym ( Rome , Řím )
     						 	                                      1042-1055 (?-11.1.) ( Konstantinos IX Monomachos wg	D.B. )
                                                         1041-1054 ( wg V.N.M.S.D. )
     						         	                              ? ( Konstantin Monomach wg Z.S.A.V.E. i Ř.S.J.Ď.S. )
+                                                        1042-? (12.6.-?) ( Konstantyn wg F.S.B.1066 )
         Jerzy Maniakes                                  ?-1043 ( Maniakes wg N.I.B.W.XI.S. )
         Michał VI Stratiotikos                          1056-1057 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Michael VI wg D.B. ) ( Michael VI (Michael VI Stratioticus) wg D.O.T.W.A.C.A.G.H. ) ( Michał VI Stary wg N.I.B.W.XI.S. )
       Dynastia Komnenów
@@ -28899,6 +29023,7 @@ Rzym ( Rome , Řím )
                                                         przed 1071-? ( Romanos Diogenes wg Ř.S.J.Ď.S. ) ( Romanos IV Diogenes wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ?-1071 ( Romanos IV wg N.T.V.S. )
                                                         przed 1071-? (19.8.-?) ( Roman IV wg F.L.P.D.Ś.W. )
+                                                        ? ( Romanos IV Diogenes wg F.S.B.1066 )
         Michał VII Parapinakes     	                    1071-1078 ( wg D.Ś. ) ( Michał VII Ducas wg Tapsella ) ( Michael VII. (Michael VII. Konstantin, Michael VII. Dúkas, Michael) wg S.N.A.S.E. )
                                                         1071-1077/8 ( Michał VII (Michał, Parapinakes) wg N.I.B.W.XI.S. ) ( Michał VII (Michał VII Dukas, Michał) wg F.L.P.D.Ś.W. )
                                                         1060/71-1078 ( Michael VII (Michael VII Parapinaces) wg D.O.T.W.A.C.A.G.H. )
@@ -28951,7 +29076,7 @@ Rzym ( Rome , Řím )
                                                         1195-1203 (?-17.7.) ( Aleksy (Aleksy III Angelos) wg H.W. )
                                                         ? ( wg F.H.C.R. )
                                                         przed ok.1199-po 1200 (?-?.5.) ( Aleksy II Angelos (Aleksy III Angelos) wg Z.1205 )
-                                                        przed 1195-? ( Aleksy III Angelos wg F.L.P.D.Ś.W. )
+                                                        przed 1195-? ( Aleksy III Angelos wg F.L.P.D.Ś.W. i F.S.B.1066 )
         Aleksy IV                           	          1203-1204 ( wg D.Ś. i Tapsella ) ( Alexius IV wg D.O.T.W.A.C.A.G.H. )
                                                         1203-1204 (1.8.-27/8.1.) ( Alexios IV. Angeloi (Alexios IV., Alexios, Alexios Angelos, Alexios IV. Angelos) wg S.V.D.K.V. )
                                                         1203-1204 (1.8.-?) ( wg K.V. ) ( Alexios IV Angeloi wg D.B. )
@@ -28981,7 +29106,7 @@ Rzym ( Rome , Řím )
     					                                          1260-1282 ( wg V.N.M.S.D. )
                                                         przed 1261-po 1274 (15.8.-?) ( Michał Paleolog (Michał) wg H.W. )
                                                         ?-1282 ( Michael VIII. Palailogos (Michael III.) wg P.U.D. )
-        Andronik II                          	          1282-1328 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Andronikos II Palaiologos wg D.B. ) ( Andronikos II. Palaiologos (Andronikos II., Andronicus II) wg S.V.D.K.V. )
+        Andronik II                          	          1282-1328 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Andronikos II Palaiologos wg D.B. ) ( Andronikos II. Palaiologos (Andronikos II., Andronicus II) wg S.V.D.K.V. ) ( Andronik II Paleolog wg F.S.B.1066 )
                                                         1272/82-1328 ( Andronicus II wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1287-? ( Andronik wg K.W.N.I.W.D. )
                                                         przed 1296-po 1299 ( Andronik Paleolog wg H.W. )
@@ -29111,6 +29236,7 @@ Rzym ( Rome , Řím )
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Galia belgijska 57-51 p.n.e.
+      Fulford-Stamford Bridge 1066
 
 Saamowie
   Svási                                                 ? ( wg F.L.P.D.Ś.W. )
@@ -29279,6 +29405,7 @@ Saksonia ( Saxony , Sasko )
                                                         przed 1015-? ( wg B.S. i K.1018 )
       Ordulf                                            przed 1066-1072 ( wg S.P.D.Z. )
                                                         przed 1071-1072 ( wg B.S. )
+                                                        ? ( wg F.S.B.1066 )
       Magnus                                            ? ( wg Z.N.E. )
                                                         1072-1106 ( Magnus Billung wg S.P.D.Z. )
                                                         1072-po 1093 (?-wiosna) ( wg B.S. )
@@ -29381,6 +29508,7 @@ Saksonia ( Saxony , Sasko )
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
       Furia ludzi Północy - Dzieje świata Wikingów
       Książęta piastowscy Śląska
+      Fulford-Stamford Bridge 1066
 
 Salamina
   Telamon		                                            ?
@@ -31049,6 +31177,7 @@ Strasburg
 Kingdom of Strathclyde ( Cumbria , Cumberland )
   Ywain map Dynfwal ( Owen of Cumbria )                 przed 927-po 937 ( wg V.K.T.H.O.H.E. )
                                                         ?-937 ( wg N.T.V.S. )
+                                                        przed 927-po 937 (12.7.-?) ( Owain I wg F.S.B.1066 )
   Dynfwal III                                           przed 944-po 945 ( wg V.K.T.H.O.H.E. )
   Malcolm                                               przed 973-? ( wg N.T.V.S. )
   Eogan II ( Owain The Blind )                          ?-1018 ( wg V.K.T.H.O.H.E. )
@@ -31059,6 +31188,7 @@ Kingdom of Strathclyde ( Cumbria , Cumberland )
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Northmen - The Viking Saga 793-1241
+      Fulford-Stamford Bridge 1066
 
 Księstwo strzeleckie
   Bolko III opolski                                     przed 1373 n.e.-? ( wg K.P.S. ) [Książę opolski]
@@ -31686,6 +31816,7 @@ Szkocja ( Scotland , Scotia , Skotsko )
       Konstantyn II          	                          900-943 ( wg D.Ś. ) ( Constantine II wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. ) ( Constantine II (Constantine) wg N.T.V.S. ) ( Konstantyn wg F.L.P.D.Ś.W. )
       				                                          904-944 ( III wg V.N.M.S.D. )
       				                                          903-943 ( wg Tapsella )
+                                                        przed 937-? ( Konstantyn wg F.S.B.1066 )
       Malcolm I               	                        943-954 ( wg D.Ś. i Tapsella i N.T.V.S. i D.O.T.W.A.C.A.G.H. )
                                                     	  944-953 ( wg V.N.M.S.D. )
       Indulf ( Gondulf )	                              954-962 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
@@ -31707,6 +31838,7 @@ Szkocja ( Scotland , Scotia , Skotsko )
                                                 	      1003-1033 ( wg V.N.M.S.D. )
                                                         przed 1031-? ( Malcolm I wg V.K.T.H.O.H.E. ) 
                                                         przed 1014-po 1031 ( Malkolm II (Malkolm) wg F.L.P.D.Ś.W. )
+                                                        przed 1031-1034 ( Malcolm wg F.S.B.1066 )
     Dynastia z Dunkeld ( House of Dunkeld )
       Duncan I                           	              1034-1040 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                         1033-1039 ( wg V.N.M.S.D. )
@@ -31715,20 +31847,21 @@ Szkocja ( Scotland , Scotia , Skotsko )
       Macbeth               	                          1040-1057 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) ( macBethad mac Findlaich wg V.K.T.H.O.H.E. ) ( wg N.T.V.S. )
                                                  	      1039-1057 ( wg V.N.M.S.D. )
                                                         1040-1057 ( ?-15.8. ) ( wg E.P. )
-                                                        ? ( wg H.O.W.P. )
+                                                        ? ( wg H.O.W.P. i F.S.B.1066 )
       Lulach                  	                        1057-1058 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
     Dynastia z Dunkeld ( House of Dunkeld )
       Malcolm III                      	                1058-1093 ( wg D.Ś. i Tapsella ) ( Malcolm III Canmore wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
                                                         1057-1093 ( wg V.N.M.S.D. )
       					                                        ? ( wg E.P. i Ř.S.J.Ď.S. )
                                                         przed 1058-po 1072 ( Malkolm (Malkolm II) wg F.L.P.D.Ś.W. )
+                                                        1058-po 1066 ( Malcolm wg F.S.B.1066 )
       Donald III                         	              1093-1094 i 1094-1097 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                         1093-ok.1095 ( wg V.N.M.S.D. )
       Duncan II                          	              1094 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
       Bán                                    	          ok.1095-1098 ( wg V.N.M.S.D. )
       Edgar                                 	          1097-1107 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                         1098-1107 ( wg V.N.M.S.D. )
-                                                        przed 1098-? ( wg F.L.P.D.Ś.W. )
+                                                        przed 1098-? ( wg F.L.P.D.Ś.W. ) ( Edgar I wg F.S.B.1066 )
       Aleksander I                      	              1107-1124 ( wg V.N.M.S.D. i Tapsella i D.Ś. ) ( Alexander I wg D.O.T.W.A.C.A.G.H. )
       					                                        1107-1124 (?-27.4.) ( Alexandr I wg E.P. )
       Dawid I Święty                  	                1124-1153 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( David I wg Ř.S.J.Ď.S. ) ( St David I wg D.O.T.W.A.C.A.G.H. )
@@ -31775,6 +31908,7 @@ Szkocja ( Scotland , Scotia , Skotsko )
                                                         przed 1460-? ( wg F.L.P.D.Ś.W. )
       Jakub III            	                            1460-1488 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( James III wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1468-po 1471 ( James III wg N.T.V.S. )
+                                                        przed 1471-? ( wg F.S.B.1066 )
       Jakub IV            	                            1488-1513 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( James IV wg D.O.T.W.A.C.A.G.H. )
       Jakub V              	                            1513-1542 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( James V wg D.O.T.W.A.C.A.G.H. )
       Maria                  	                          1542-1567 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Mary wg D.O.T.W.A.C.A.G.H. )
@@ -31807,6 +31941,7 @@ Szkocja ( Scotland , Scotia , Skotsko )
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Szoszoni
   Washakie                                              przed 1876 n.e.-?
@@ -31946,12 +32081,14 @@ Szwecja ( Sweden , Švédsko )
                                                         ok.995-ok.1022 ( Olof Skötkonung wg D.O.T.W.A.C.A.G.H. )
                                                         995/ok.980-1021/2 ( Olof Skötkonung (Olof, Olaf) wg F.L.P.D.Ś.W. )
                                                         przed ok.1008-? ( Olaf Sköttkonung wg S.N.A.S.E. )
+                                                        przed 1000-po 1019 ( wg F.S.B.1066 )
       Anund ( Jakub )       		                        1022-1050 ( wg D.Ś. i Tapsella ) ( Önund Jacob (Önund, Jacob) wg N.T.V.S. )
                                                        	1026-1051 ( wg V.N.M.S.D. )
                                                         1021/2-ok.1050 ( Anund Jakob (Onund Jacob) wg W.W.K.R. )
                                                         ok.1022-ok.1050 ( Jacob wg D.O.T.W.A.C.A.G.H. )
                                                         1022-ok.1050 ( Anund Jakub wg F.L.P.D.Ś.W. )
                                                         przed 1027-? ( Ánund Jákob (Ánund) wg S.N.A.S.E. )
+                                                        przed 1026-? ( Anund Jakub wg F.S.B.1066 )
       Emund Stary            		                        1050-1060 ( wg D.Ś. i Tapsella ) ( Emund (Emund the Old) wg N.T.V.S. )
                                                        	1051-1056 ( wg V.N.M.S.D. )
                                                         ok.1050-ok.1060 ( Emund the Old wg D.O.T.W.A.C.A.G.H. )
@@ -32155,6 +32292,7 @@ Szwecja ( Sweden , Švédsko )
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Książęta piastowscy Śląska
+      Fulford-Stamford Bridge 1066
 
 Šajzar
   Izz ad-Dín                                            przed 1108 n.e.-? ( wg S.V.D.K.V. )
@@ -32330,14 +32468,14 @@ Księstwo świdnickie
     Dynastia saska ( Dynastia Ottońska , Ludolfingowie , House of Saxony , Dynastie Otonů , Saská dynastie , Dynastia Ludolfingów , Dynastia Liudolfingów , Dynastia Ottonów , Sächsiches Haus )
       Otto I Wielki       	                            936-973 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Ota I wg D.P.I.R.G. ) ( Otto I Veliký wg D.B. )
                                                         ok.936-po 962 ( Otton I wg D.R. )
-                                                        ? ( Oto Veliký wg M.A.E. ) ( Ota Veliký wg F.B.C.A.R. ) ( Otto I wg N.T.V.S. ) ( Otton Wielki wg L.1241. ) ( Otto I. (Otta I.) wg S.N.A.S.E. )
+                                                        ? ( Oto Veliký wg M.A.E. ) ( Ota Veliký wg F.B.C.A.R. ) ( Otto I wg N.T.V.S. ) ( Otton Wielki wg L.1241. ) ( Otto I. (Otta I.) wg S.N.A.S.E. ) 
                                                         przed 973-? ( Otton I wg F.L.P.D.Ś.W. )
                                                         962-po 968 ( Otto I Veliký wg D.B. )
                                                         przed 937(962)-973 ( 2.2.-7.5. ) ( Ota I wg Z.S.A.V.E. )
                                                         962-973 ( Otto I wg V.K.T.H.O.H.E. ) ( Otto I (Otto I the Great) wg D.O.T.W.A.C.A.G.H. ) ( Ota I. (Ota I. Veliký) wg S.V.D.K.V. )
                                                         962-? ( Otton I Wielki wg Z.N.E. ) ( Otto I (Otton I, Otton) wg B.S. )
                                                         ?-972/3 ( wg S.P.D.Z. )
-                                                        ?-973 ( Otton (Otton I Wielki) wg H.W. )
+                                                        ?-973 ( Otton (Otton I Wielki) wg H.W. ) ( Otton I (Otton I Wielki) wg F.S.B.1066 )
                                                         przed 962-? ( Otton I wg F.H.C.R. )
                                                         962-973 (2.2.-7.5.) ( Otton I Wielki (Wielki Otton, Hutu, Hoto, Otto I., Otton, Otton I, Otton Wielki, Otto der Grosse, Otton I "Wielki", Hōtto, Otto der Große) wg O.I.W. )
                                                         962-po 968 ( Otton I (Otton, Otto I) wg K.1018 )
@@ -32472,6 +32610,7 @@ Księstwo świdnickie
                                                         1191-1197 ( Henry VI wg D.O.T.W.A.C.A.G.H. )
                                                         1191-1197 (?-28.9.) ( Jindřich VI. (Jindřich, Henry VI) wg S.V.D.K.V. )
                                                         ?-1197 ( Henry VI wg H.O.W.P. )
+                                                        przed 1195-? ( wg F.S.B.1066 )
       Filip Szwabski                   	                1198-1208 ( wg V.N.M.S.D. , D.Ś. I Tapsella )
                                                         1198-? ( wg F.B.C.A.R. )
     Dynastia Welfów ( House of Welf , Ród Welfów )
@@ -32697,6 +32836,7 @@ Księstwo świdnickie
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Książęta piastowscy Śląska
+      Fulford-Stamford Bridge 1066
 
 Ta Jüe
   Bibliografia :
@@ -34933,11 +35073,12 @@ Weje ( Veii )
   Bibliografia :
       Dzieje Rzymu
 
-Wendowie ( Wendlandia )
-  Burysław                                              ? ( Bolesław wg F.L.P.D.Ś.W. ) ( Burislav wg S.N.A.S.E. )
+Wendowie ( Wendlandia , Wenedowie )
+  Burysław                                              ? ( Bolesław wg F.L.P.D.Ś.W. ) ( Burislav wg S.N.A.S.E. ) ( wg F.S.B.1066 )
   Bibliografia :
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Wenecja ( Venice , Venetia , Venezia , Benátky )
   Republika Wenecji ( Serenissima , Rzeczpospolita Wenecka , Republika Wenecka , Republika Świętego Marka , Republic of Venice , Venetian Republic , Benátská republika )
@@ -35212,7 +35353,7 @@ County of Wertheim
   Bibliografia :
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
 
-Królestwo Wessexu ( Wessex , Kingdom of Wessex )
+Królestwo Wessexu ( Wessex , Kingdom of Wessex , Wesseks )
   Cedric           	                                    519-534 ( wg V.N.M.S.D. ) ( Cerdric wg Tapsella ) ( Cerdic wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Cerdic wg Æ.T.U.T.F.K. )
   Kenric           	                                    534-560 ( wg V.N.M.S.D. ) ( Cynric wg Tapsella i D.O.T.W.A.C.A.G.H. )
@@ -35242,36 +35383,46 @@ Królestwo Wessexu ( Wessex , Kingdom of Wessex )
   Sigeberht        	                                    756-757 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
   Cynewulf        	                                    757-786 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                          	              755-784 ( wg V.N.M.S.D. )
-  Berhtric           	                                  786-802 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Beorhtric wg Tapsella ) ( Beorthric (Beorhtric) wg F.L.P.D.Ś.W. )
+                                                        przed 779-? ( wg F.S.B.1066 )
+  Berhtric           	                                  786-802 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Beorhtric wg Tapsella ) ( Beorthric (Beorhtric) wg F.L.P.D.Ś.W. ) ( Beortryk wg F.S.B.1066 )
                                          	              784-800 ( wg V.N.M.S.D. )
                                                         ? ( Beorthrik wg S.N.A.S.E. )
   Egbert              	                                802-839 ( wg D.Ś. i Tapsella i E.P. i D.O.T.W.A.C.A.G.H. )
                                           	            800-837 ( wg V.N.M.S.D. )
-                                                        przed 825-839 ( wg N.T.V.S. )
+                                                        przed 825-839 ( wg N.T.V.S. i F.S.B.1066 )
                                                         przed 836-? ( wg P.U.D. )
   Æthelwulf                                             przed 851-po 855 ( wg N.T.V.S. )
                                                         839-856 ( Aethelwulf wg D.O.T.W.A.C.A.G.H. )
-                                                        839-858 ( Ethelwulf wg F.L.P.D.Ś.W. )
+                                                        839-858 ( Ethelwulf wg F.L.P.D.Ś.W. i F.S.B.1066 )
                                                         przed 843-? ( Ethelwulf z Wessexu (Ethelwulf) wg F.L.P.D.Ś.W. )
   Aethelbald                                            856-860 ( wg D.O.T.W.A.C.A.G.H. )
-  Aethelbert                                            860-865 ( wg D.O.T.W.A.C.A.G.H. )
+                                                        858-860 ( Ethelbald wg F.S.B.1066 )
+  Aethelbert                                            860-865 ( wg D.O.T.W.A.C.A.G.H. ) ( Ethelbert wg F.S.B.1066 )
   Æthelred                                              przed 868-871 (?-?.4.) ( wg N.T.V.S. )
                                                         865-871 ( Aethelred wg D.O.T.W.A.C.A.G.H. ) ( Ethelred I (Ethelred) wg F.L.P.D.Ś.W. )
                                                         866-871 ( Ethelred I wg T.S.O.T.I. )
+                                                        865-871 (?-?.4.) ( Ethelred I (Ethelred) wg F.S.B.1066 )
   Alfred The Great                                      871-899 ( wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. i T.S.O.T.I. ) ( Alfred wg N.T.V.S. ) ( Alfred (Alfred 'the Great') wg Æ.T.U.T.F.K. ) ( Alfred Veliký (Alfred) wg S.N.A.S.E. ) [King of England]
                                                         ?-899 ( Alfred (Alfred Veliký) wg S.V.D.K.V. ) ( Alfred Wielki wg O.I.W. )
                                                         ? ( Alfred the Great wg H.O.W.P. )
                                                         871-899 (15.4.-?.10.) ( Alfred Wielki (Alfred) wg F.L.P.D.Ś.W. )
+                                                        871-899/901 (?-26.10./?) ( Alfred Wielki (Alfred) wg F.S.B.1066 )
   Edward the Elder                                      899-924 ( wg N.T.V.S. i D.O.T.W.A.C.A.G.H. i T.S.O.T.I. ) ( Edward Starszy wg F.L.P.D.Ś.W. ) [King of England]
                                                         ? ( Edward wg S.N.A.S.E. )
+                                                        900-924 ( Edward (Edward Starszy) wg F.S.B.1066 )
   Aelfweard                                             924 ( wg D.O.T.W.A.C.A.G.H. ) [King of England]
+                                                        924-? ( Elfweard wg F.S.B.1066 )
   Athelstan                                             924-939 ( wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. ) ( Æthelstan wg N.T.V.S. ) ( Athelstan z Wessexu wg F.L.P.D.Ś.W. ) [King of England]
                                                         przed 926-939 ( Aethelstan wg S.N.A.S.E. )
+                                                        924/5-939 (?/?.9.-27.10.) ( Æthelstan wg F.S.B.1066 )
   Edmund                                                939-946 ( wg N.T.V.S. i F.L.P.D.Ś.W. ) [King of England]
+                                                        939-946 (29.11.-?.5.) ( wg F.S.B.1066 )
   Edred                                                 przed 947-po 954 ( wg F.L.P.D.Ś.W. )
                                                         ? ( Eadred z Wessexu wg S.N.A.S.E. )
+                                                        przed 948-955 (?-23.11.) ( wg F.S.B.1066 )
   Eadwig                                                957-959 ( wg D.O.T.W.A.C.A.G.H. ) [King of England]
   Edgar                                                 przed 973-? ( wg F.L.P.D.Ś.W. ) [King of England]
+                                                        ? ( Edgar Spokojny wg F.S.B.1066 )
   Ethelred II                                           978-1016 ( Ethelred II Bezradny wg F.L.P.D.Ś.W. ) [King of England]
   Edmund 'Ironside'                                     ? ( Edmund wg Æ.T.U.T.F.K. ) [King of England]
   Bibliografia :
@@ -35290,6 +35441,7 @@ Królestwo Wessexu ( Wessex , Kingdom of Wessex )
       Otton I Wielki
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 West Ukrainian Socialist Republic
   Bibliografia :
@@ -36292,6 +36444,7 @@ Królestwo Yorku ( Kingdom of York , Królestwo York , Království yorkské )
                                                         876-877 ( Halfdan (Alband) wg N.T.V.S. )
                                                         876-ok.880 ( Halfdan wg F.L.P.D.Ś.W. )
                                                         przed 875/6-? ( Hálfdan wg S.N.A.S.E. )
+                                                        ?-877 ( Halfdan wg F.S.B.1066 )
   Guthred                                    	          883-894 ( wg Tapsella )
                                                         ok.883-895 ( Guthfrith wg N.T.V.S. )
                                                         ok.880-895 ( Guthfrith wg F.L.P.D.Ś.W. )
@@ -36308,34 +36461,40 @@ Królestwo Yorku ( Kingdom of York , Królestwo York , Království yorkské )
                                                         ? ( Ethelwold wg F.L.P.D.Ś.W. )
   Halfdan II                                	          902-909 ( wg Tapsella )
                                                         902-910 ( Halfdan wg N.T.V.S. )
+                                                        ?-910 ( Halfdan wg F.S.B.1066 )
   Eowils                                     	          902-909 ( wg Tapsella )
                                                         902-910 ( wg N.T.V.S. )
+                                                        ?-910 ( Eowil wg F.S.B.1066 )
   Ivar                                          	      902-909 ( wg Tapsella )
                                                         902-910 ( wg N.T.V.S. )
+                                                        ?-910 ( Ingvar wg F.S.B.1066 )
   Ragnald                                   	          919-921 ( wg Tapsella )
                                                         911-? i 919-921 ( wg N.T.V.S. )
                                                         przed 918-? i 919-920 ( Rögnvald (Rögnvald Ivarsson) wg F.L.P.D.Ś.W. )
-  Sitric Caoch                             	            921-927 ( wg Tapsella ) ( Sitric Cáech wg N.T.V.S. ) [King of Dublin]
+  Sitric Caoch                             	            921-927 ( wg Tapsella ) ( Sitric Cáech wg N.T.V.S. ) ( Sigtrygg (Sitric Cáech) wg F.S.B.1066 ) [King of Dublin]
                                                         920/1-927 ( Sihtric wg F.L.P.D.Ś.W. )
                                                         921-po 926 ( Sigtrygg II. (Sigtrygg) wg S.N.A.S.E. )
   Guthfrith                                  	          927 ( wg Tapsella i N.T.V.S. ) ( Guthroth wg F.L.P.D.Ś.W. ) [King of Dublin]
   Athelstan                                 	          927-939 ( wg Tapsella i N.T.V.S. ) [King of Wessex]
-  Anlaf Guthfrithson                  	                939-941 ( wg Tapsella ) ( Olaf Guthfrithsson (Olaf) wg N.T.V.S. ) [King of Dublin]
+  Anlaf Guthfrithson                  	                939-941 ( wg Tapsella ) ( Olaf Guthfrithsson (Olaf) wg N.T.V.S. ) ( Olaf Guthfrithson (Olaf, Guthfrithson, Amlaíb mac Gofraid) wg F.S.B.1066 ) [King of Dublin]
                                                         ? i 939-941 ( Olaf Guthrothsson (Olaf) wg F.L.P.D.Ś.W. )
                                                         939-? ( Olaf Guthfrithsson wg S.N.A.S.E. )
   Ívarova dynastie
     Anlaf Sitricson                        	            941-943 i 949-952 ( wg Tapsella ) [King of Dublin]
-                                                        941-944 i 949-952 ( Olaf Sihtricsson (Olaf Cuarán) wg N.T.V.S. )
+                                                        941-944 i 949-952 ( Olaf Sihtricsson (Olaf Cuarán) wg N.T.V.S. ) ( Olaf (Olaf Sigtryggsson, Amlaíb Cuarán) wg F.S.B.1066 )
                                                         941-po 943 i 949-951/2 ( Olaf Sihtricsson (Olaf Cuarán, Cuarán, Olaf) wg F.L.P.D.Ś.W. )
                                                         ? ( Olaf IV. wg S.N.A.S.E. )
   Ragnald Guthfrithson		                              943-944 ( wg Tapsella ) ( Ragnald Guthfrithsson wg N.T.V.S. ) ( Rögnvald Guthrothsson wg F.L.P.D.Ś.W. )
                                                         ? ( Ragnall wg S.N.A.S.E. )
   Edmund                                   	            944-946 ( wg Tapsella i N.T.V.S. ) [King of England]
+                                                        944-946 (?-?.5.) ( wg F.S.B.1066 )
   Edred                                       	        946-948 ( wg Tapsella ) ( Eadred wg N.T.V.S. ) [King of England]
   Eryk Krwawy Topór               	                    948-949 i 952-954 ( wg Tapsella ) [King of Norway]
                                                         948 i 952-954 ( Erik Bloodaxe (Erik) wg N.T.V.S. )
                                                         ?-947 i 948-949 i 952-954 ( Eirik (Eryk) wg F.L.P.D.Ś.W. )
                                                         948-? i ?-954 ( Erik Krvavá Sekyra (Erik, Krvavá Sekyra) wg S.N.A.S.E. )
+                                                        947-948 i 952-954 ( Eryk wg F.S.B.1066 )
+  Osulf z Bamburgh                                      ? ( Osulf z Bamburgh wg F.S.B.1066 )
   Harald Srogi                                          1066 ( wg F.L.P.D.Ś.W. )
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
@@ -36343,6 +36502,7 @@ Królestwo Yorku ( Kingdom of York , Królestwo York , Království yorkské )
       Northmen - The Viking Saga 793-1241
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Fulford-Stamford Bridge 1066
 
 Zabalam
   Bibliografia :
@@ -36904,5 +37064,6 @@ Bibliografia :
     [165] Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině , Jarmila Bednaříková , 2017
     [166] Książęta piastowscy Śląska , Zygmunt Boras , 1981/2
     [167] Galia belgijska 57-51 p.n.e. , Tomasz Romanowski , 2020
+    [168] Fulford-Stamford Bridge 1066 , Cezary Namirski , 2021
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
