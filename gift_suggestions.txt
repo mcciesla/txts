@@ -1,4 +1,5 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
+      - Conjectures and Refutations: The Growth of Scientific Knowledge - Karl Popper
       - Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts - Stanislas Dehaene
       - The Fall of Rome: And the End of Civilization - Bryan Ward-Perkins
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
@@ -40,8 +41,11 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Let Over Lambda - Doug Hoyte
       - Surfing Uncertainty: Prediction, Action, and the Embodied Mind - Andy Clark
       - Evil: Inside Human Violence and Cruelty - Roy Baumeister
+      - The Myth of the Framework: In Defence of Science and Rationality - Karl Popper
       - The Origins of Knowledge and Imagination - Jacob Bronowski
       - On Liberty - John Stuart Mill
+      - The Blind Watchmaker - Richard Dawkins
+      - The Extended Phenotype - Richard Dawkins
       - The Nurture Assumption - Judith Rich Harris
       - A Profile of Mathematical Logic - Howard DeLong
       - No Two Alike - Judith Rich Harris
@@ -69,6 +73,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Adventures of a Mathematician - Stanisław Marcin Ulam
       - Endless Forms Most Beautiful: The New Science of Evo Devo - Sean B. Carroll
       - The Number Sense: How the Mind Creates Mathematics - Stanislas Dehaene
+      - Objective Knowledge: An Evolutionary Approach - Karl Popper
       - Economics for the Common Good - Jean Tirole
       - On the Origin of Species - Charles Darwin
       - The Sciences of the Artificial - Herbert A. Simon

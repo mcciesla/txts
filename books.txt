@@ -119,6 +119,7 @@ EKONOMIA:
 FILOZOFIA:
     Summa Technologiae ; Stanisław Lem
     The Beginning of Infinity - Explanations that Transform the World ; David Deutsch
+    The Fabric of Reality ; David Deutsch
 FIZYKA:
     Kwark i Jaguar ; Murray Gell-Mann
     Tváří v tvář ; Steven Weinberg
@@ -240,6 +241,7 @@ POP.SCIENCE :
         Summa Technologiae ; Stanisław Lem
         The Beginning of Infinity - Explanations that Transform the World ; David Deutsch
         The Demon-haunted World - Science as a Candle in the Dark ; Carl Sagan
+        The Fabric of Reality ; David Deutsch
         The God Delusion ; Richard Dawkins
         Unpopular Essays ; Bertand Russell
     FIZYKA:
