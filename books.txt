@@ -491,6 +491,7 @@ POP.SCIENCE :
             Marynarki Wojenne Świata , ilustrowany przegląd flot wojennych świata ; David Miller
         Tajemství odhaleno ; Jiří Blecha
     Než přijde vakovlk ; Pavel Houser
+    Rationality: What It Is, Why It Seems Scarce, Why It Matters ; Steven Pinker
     Siedem sensacji w nauce ; Marek Płużański
     Svět hor ; Jiří Havel , Jan Štursa
     Věda kontra iracionalita 2 ; SISYFOS a AV ČR
@@ -1282,6 +1283,7 @@ Lem , Stanisław - Astronauci - O
                                     - Wypadek - O
                 - Pamiętnik Znaleziony w Wannie - O
                 - Pokój na Ziemi - O
+                - Powrót z gwiazd - O
                 - Próżnia Doskonała - O
                 - Rasa Drapieżców - O
                 - Sex Wars - O
