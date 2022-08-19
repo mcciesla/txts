@@ -20,7 +20,7 @@ Franz Kafka - Proces
 Jorge Luis Borges - Funes, His Memory
                   - Tlon, Uqbar, Orbis Tertius
 Ladislav Fuks - Spalovač mrtvol
-Stanisław Lem - Golem
+Stanisław Lem - Golem XIV
               - Kongres Futurologiczny
               - Z Dzienikow gwiazdowych Iljona Tichego - Podróż dwudziesta pierwsza
 Witold Gombrowicz - Ferdydurke
@@ -686,6 +686,7 @@ Borowski , Tadeusz - Pożegnanie z Marią i inne opowiadania - O
                           - Odwiedziny - O
                         - Ofensywa styczniowa - O
                         - Muzyka w Herzenburgu - O
+Boschwitz , Ulrich A. - Podróżny - POL
 Bradbury , Ray - Fahrenheit 451 - O
 Broniewski , Władysław - Dla dzieci - O
                             - Babie lato - O
@@ -1264,6 +1265,7 @@ Lem , Stanisław - Astronauci - O
                 - Eden - O
                 - Fiasko - O
                 - Głos Pana - O
+                - Golem XIV - O
                 - Fantastyka i Futurologia - O
                 - Filozofia Przypadku - O
                 - Katar - O
