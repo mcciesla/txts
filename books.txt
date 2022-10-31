@@ -124,6 +124,7 @@ FIZYKA:
     Kwark i Jaguar ; Murray Gell-Mann
     Tváří v tvář ; Steven Weinberg
     What if ? A co, gdyby ? - Naukowe odpowiedzi na absurdalne i hipotetyczne pytania ; Randall Munroe
+    What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions ; Randall Munroe
 HISTORIA:
     A short account of the Destruction of the Indies ; Bartolome de las Casas
     Indiański Napoleon Gór Skalistych ; Arkady Fiedler , Marek Fiedler
@@ -269,6 +270,7 @@ POP.SCIENCE :
         W Poszukiwaniu Kota Schrödingera ; John Gribbin
         W Poszukiwaniu Nieskończoności , na tropie tajemnic wszechświata ; Gordon Fraser , Egil Lillestol , Inge Sellevag
         What if ? A co, gdyby ? - Naukowe odpowiedzi na absurdalne i hipotetyczne pytania ; Randall Munroe
+        What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions ; Randall Munroe
     HISTORIA:
         100 Nejvlivnějších vojevůdců světa ; Michael Lee Lanning
         100 Najwybitniejszych Uczonych Wszech Czasów ; John Simmons
@@ -314,6 +316,7 @@ POP.SCIENCE :
         Fulford-Stamford Bridge 1066 ; Cezary Namirski
         Furia ludzi Północy - Dzieje świata Wikingów ; Philip Parker
         Galia belgijska 57-51 p.n.e. ; Tomasz Romanowski
+        Geniusz Chin: 3000 lat nauki, odkryć i wynalazków ; Robert Temple
         Goci - Rzeczywistość i legenda ; Jerzy Strzelczyk
         Guderian - Tankový generál ; Kenneth Macksey
         Heroes of Endurance ; Wanda Rutkowska
