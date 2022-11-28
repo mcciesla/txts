@@ -5,6 +5,7 @@ John Ronald Ruel Tolkien - Lord of The Rings
 Stanisław Lem - Głos Pana
 Umberto Eco - Jméno růže
 ----------------
+Aleksander Sołżenicyn - Jeden dzień Iwana Denisowicza
 Franz Kafka - Zamek
 George R. R. Martin - A Song of Ice and Fire
 John Ronald Ruel Tolkien - Hobbit
@@ -345,6 +346,7 @@ POP.SCIENCE :
         Leyte 1944 ; Zbigniew Flisowski
         Lukullus ; Arthur Keaveney
         Maurové a Evropa ; Hans Kaufmann
+        Mayové ; Sylvanus Griswold Morley , George W. Brainerd
         Mezopotámie - Počátky měst ; Gwendolyn Leick
         Midway 1942 ; Maciej Borkowski
         Mity pięciu części świata ; Tadeusz Margul
@@ -366,6 +368,7 @@ POP.SCIENCE :
         Pírátství - Úplné dějiny ; Angus Konstam
         Plachetnice ; Karl-Heinz Wieland
         Poczet Cesarzy Rzymskich ; Aleksander Krawczuk
+        Poczet Królów i Książąt Polskich ; Jan Matejko , Jan Gintel
         Poczet Wielkich Mistrzów Krzyżackich ; Paweł Pizuński
         Polacy w bitwie o Narwik ; Witold Biegański
         Pomnik w Kalkówce ; Tadeusz Jurga
@@ -1643,6 +1646,9 @@ Smeja , Fran. - Pierwszy szynkarz - POL
 Smith , Wilbur - Řeka bohů - CZ
                - Řeka bohů II - CZ
 Sofokles - Antygona - POL
+Sołżenicyn , Aleksander - Jeden dzień Iwana Denisowicza - POL
+                        - Zagroda Matriony - POL
+                        - Zdarzenie na stacji Koczetowka - POL
 St. John , Patricia M. - Poklady pod sněhem - CZ
 Staff , Leopold - Deszcz majowy - O
 Stanisławski , Zbigniew ; Lutczyn , Edward - Dawid i Sandy - Tom 1 - Narodziny - O
