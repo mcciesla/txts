@@ -85,6 +85,19 @@ Medium ( 5-13 days )
             - 8-10 days
             - http://www.lechtaler-hoehenweg.at/
 Short (3-5 days) :
+        Zimni prechod Velke Fatry
+            - 1596m
+            - 3-4 days
+            - http://www.tadyhlady.cz/na-cestach/zimni-prechod-velke-fatry/
+            - https://horal-fanda.com/cesty/vfatra2.html
+        Zimni prechod Nizkych Tater
+            - 2044m
+            - 4-5 days
+            - http://www.treking.cz/treky/nizke-tatry-na-sneznicich.htm
+        Zimni prechod Munti Rodneii
+            - 2279m
+            - 3-4 days
+            - http://www.summitpost.org/muntii-rodnei-group/153956
         Mały Szlak Beskidzki
             - 5 days
             - https://pl.wikipedia.org/wiki/Ma%C5%82y_Szlak_Beskidzki
@@ -96,14 +109,6 @@ Short (3-5 days) :
             - https://en.wikipedia.org/wiki/B%C3%BCkk_National_Park
             - 4-5 days
             - bydleni asi v Miskolci
-        Zimni nebo letni prechod Nizkych Tater
-            - 2044m
-            - zima 5 days, leto 4 days
-            - http://www.treking.cz/treky/nizke-tatry-na-sneznicich.htm
-        Zimni prechod Munti Rodneii
-            - 2279m
-            - 3-4 days
-            - http://www.summitpost.org/muntii-rodnei-group/153956
         Munti Rodnei a Munti Suhardului
             - 5-6 days
             - http://www.summitpost.org/muntii-rodnei-group/153956
@@ -154,6 +159,15 @@ Short (3-5 days) :
             - v pripade vice lidi - Weissmies
                                             - 4023m
                                             - http://www.summitpost.org/weissmies/150231
+        Rimpfischhorn
+            - 4198m
+            - 3 days
+            - http://www.goat.cz/index.php?path=Alpy_Vrcholy_Rimpfischhorn_Rimpfischhorn
+        Piramide Vincent
+            - 4215m
+            - 3 days
+            - http://www.goat.cz/index.php?path=Alpy_Vrcholy_PiramideVincent_PiramideVincent
+            - v pripade kondicky se da pretahnout az na 4400-4500 (k Punta Gnifetti) - + 1 day
         Nadelhorn
             - http://www.summitpost.org/nadelhorn/150634
             - 4327m
@@ -189,6 +203,13 @@ Weekend (2-3 days) :
             - v pripade 3-4 dni jeste plus Dalfazer Wasserfall - Klettersteig Buchau - http://www.bergsteigen.com/klettersteig/tirol/rofan-gebirge/dalfazer-wasserfall-klettersteig-buchau
             - v pripade 3-4 dni jeste plus Klettersteig Reintalersee - http://www.bergsteigen.com/klettersteig/tirol/rofan-gebirge/klettersteig-reintalersee
     VHT :
+        Zimni prechod Krkonos
+            - 2-3 days
+            - 1602m
+         Zimni prechod Male Fatry
+            - http://www.treking.cz/archiv/clanek2.htm?full_discussion=true
+            - 2 days (4-5 days with Martinske Hole)
+            - 1708m
         Welsh 3000s
             - 2-3 days
             - 1085m
@@ -197,13 +218,6 @@ Weekend (2-3 days) :
             - 2-3 days
             - https://en.wikipedia.org/wiki/Selvaggio_Blu_(Sardinia)
             - https://www.explore-share.com/blog/selvaggio-blu-a-guide-to-sardinias-most-mythical-trek/
-        Zimni prechod Krkonos
-            - 2-3 days
-            - 1602m
-        Zimni prechod Male Fatry
-            - http://www.treking.cz/archiv/clanek2.htm?full_discussion=true
-            - 2 days
-            - 1708m
         Raxgruppe
             - http://www.summitpost.org/rax/154184
             - 2 days
@@ -238,11 +252,12 @@ Weekend (2-3 days) :
             - 2-3 days
             - http://www.summitpost.org/jubil-umsgrat/454503
             - vystup na Zugspitze 2962m - http://www.summitpost.org/zugspitze/150322
-            - podle casu pri sestupu s Alpspitze moznost pridat Mauerlaeufersteig Klettersteig Alpspitze - http://www.bergsteigen.com/klettersteig/bayern/wetterstein-gebirge-und-mieminger-kette/mauerlaeufersteig-klettersteig-alpspitze
+            - podle casu pri sestupu z Alpspitze moznost pridat Mauerlaeufersteig Klettersteig Alpspitze - http://www.bergsteigen.com/klettersteig/bayern/wetterstein-gebirge-und-mieminger-kette/mauerlaeufersteig-klettersteig-alpspitze
         Klagenfurter Jubilaumsweg
             - 3-4 days
             - 3254m
             - 3 dny se sestupem do Heiligenblut a 4 dny se sestupem do Bad Gastein
+            - https://luftschubser.de/auf-die-harte-tour-der-klagenfurter-jubilaeumsweg/
         Hoher Tenn
             - 3368m
             -2-3 days
