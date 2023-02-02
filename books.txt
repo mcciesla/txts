@@ -101,6 +101,7 @@ BIOLOGIA:
         Cesarz wszech chorób - Biografia raka ; Siddhartha Mukherjee
     NEUROLOGIA:
         Zdumiewająca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
+        Consciousness and the Brain - Deciphering How the Brain Codes Our Thoughts ; Stanislas Dehaene
     Červená královna - sexualita a vývoj lidské přirozenosti ; Matt Ridley
     Granice Życia ; John Postgate
     Natura umysłów ; Daniel C. Dennett
@@ -196,6 +197,7 @@ POP.SCIENCE :
             Cesarz wszech chorób - Biografia raka ; Siddhartha Mukherjee
         NEUROLOGIA:
             Zdumiewająca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
+            Consciousness and the Brain - Deciphering How the Brain Codes Our Thoughts ; Stanislas Dehaene
         NUTRITION
             Pure, White and Deadly - How Sugar is Killing Us and What We Can Do to Stop It ; John Yudkin
         Blueprint - How DNA makes us who we are ; Robert Plomin
@@ -291,6 +293,7 @@ POP.SCIENCE :
         Bitwa o Skalbmierz 1944 ; Tadeusz Jurga
         Bitwy Morskie ; Edmund Kosiarz
         Bitwy Słowian ; Robert F. Barkowski
+        Bolesław Krzywousty 1085-1138 ; Andrzej Feliks Grabski
         Brytania 55-54 p.n.e. ; Tomasz Romanowski
         Burza Nad Pacyfikiem Tom II ; Zbigniew Flisowski
         Burzliwe dzieje Kalifatu Bagdadzkiego ; Jerzy Hauziński
@@ -1388,6 +1391,7 @@ Martin , George R.R. - A Clash of Kings - O
                                     - Portraits of His Children - O
                      - Fire & Blood - O
 Martínek , Vojtěch - O słonecznej pannie - POL
+Mawer , Simon = Evangelium podle Jidáše - CZ
 May , Karel - Błękitno-purpurovy Matuzalem - POL
             - Czarny mustang - POL
             - Derwisz - POL

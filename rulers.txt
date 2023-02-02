@@ -2863,7 +2863,7 @@ Austria ( Rakousko )
                                                       	1075-1096 ( wg V.N.M.S.D. )
       Leopold III Święty	                              1095-1136 ( wg D.Ś. ) ( St Leopold III wg D.O.T.W.A.C.A.G.H. )
                                                       	1096-1136 ( wg V.N.M.S.D. )
-        			           	                              ? ( wg F.B.C.A.R. ) ( Leopold III wg K.P.S. )
+        			           	                              ? ( wg F.B.C.A.R. ) ( Leopold III wg K.P.S. ) ( Leopold III (Leopold) wg B.K.1.1. )
       Leopold IV              	                        1136-1141 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Duke of Bavaria Leopold]
                                                        	1136-1142 ( wg V.N.M.S.D. )
         			         	                                ? ( wg F.B.C.A.R. )
@@ -3022,6 +3022,7 @@ Austria ( Rakousko )
       Přemožení pouště - Dvě reportáže z cesty po Africe
       Wielcy polscy podróżnicy, którzy odkrywali świat
       Poczet Królów i Książąt Polskich
+      Bolesław Krzywousty 1085-1138
 
 County of Autun
   Richard The Justiciar                                 ? ( wg V.K.T.H.O.H.E. ) ( Richard the Justicer wg D.O.T.W.A.C.A.G.H. ) [Duke of Burgundy]
@@ -7820,10 +7821,11 @@ Czechy ( Čechy )
       Spitygniew II                           	        1055-1061 ( wg D.Ś. ) ( Spityhněv II wg D.O.T.W.A.C.A.G.H. )
       				      	                                  1057-1061 ( Spityhněv wg D.B. )
       				      	                                  1055-1056 ( Spityhněv II wg Z.S.A.V.E. )
-      Wratysław II ( I )                     	          1061-1085 ( wg D.Ś. )
+      Wratysław II ( I )                     	          1061-1085 ( wg D.Ś. ) [King of Bohemia]
       				      	                                  przed 1080-? ( Vratislav I wg D.B. )
       				      	                                  przed 1063-? ( Vratislav wg Z.S.A.V.E. )
-                                                        1061-1086 ( Vratislav II (Vratislav I) wg D.O.T.W.A.C.A.G.H. ) [King of Bohemia]
+                                                        1061-1086 ( Vratislav II (Vratislav I) wg D.O.T.W.A.C.A.G.H. )
+                                                        przed ok.1085-? ( Wratysław wg B.K.1.1. )
   Królestwo Czech ( The Kingdom of Bohemia , Království české )
     Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi )
       Wratysław II ( I )                     	          1085-1092 ( wg D.Ś. )
@@ -7832,17 +7834,22 @@ Czechy ( Čechy )
     Konrad                                  	          1092 ( wg D.Ś. ) ( Conrad wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( wg Z.1205 )
     Brzetysław II                           	          1092-1100 ( wg D.Ś. ) ( Břetislav II wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1093-? ( Brzetysław wg B.K.1.1. )
     Borzywoj II                             	          1100-1107 i 1117-1120 ( wg D.Ś. ) ( Bořivoj II wg D.O.T.W.A.C.A.G.H. )
                                                         1101-1107 i 1117-1120 ( Borzywoj wg W.W.K.R. )
+                                                        przed 1103-? ( Borzywoj wg B.K.1.1. )
     Świętopełk ( Svatopluk )         	                  1107-1109 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ?-1109 (?-21.9.) ( Świętopełk Przemyślida wg B.S. )
+                                                        przed 1108-1109 (?-21.9.) ( Światopełk wg B.K.1.1. )
     Otton                                               1109 (?-?.12.) ( wg B.S. )
     Borzywoj                                            1109-1110 (?.12.-?) ( wg B.S. )
     Władysław I                             	          1109-1117 i 1120-1125 ( wg D.Ś. ) ( Władysław wg W.W.K.R. ) ( Vladislav I wg D.O.T.W.A.C.A.G.H. )
                                                         1110-? (przed 8.10.-?) ( Władysław wg B.S. )
+                                                        ?-1125 ( Władysław wg B.K.1.1. )
     Sobiesław I                              	          1125-1140 ( wg D.Ś. ) ( Soběslav I wg D.P.I.R.G. i D.O.T.W.A.C.A.G.H. ) ( Sobiesław wg W.W.K.R. )
       					                                        ? ( Soběslav I wg F.B.C.A.R. )
                                                         przed 1137-? ( Sobiesław wg K.P.S. )
+                                                        przed 1134-po 1135 (wiosna-?.8.) ( Sobiesław wg B.K.1.1. )
     Władysław II ( I )                    	            1140-1158 ( wg D.Ś. ) ( Vladislav II (Vladislav I) wg D.O.T.W.A.C.A.G.H. ) [King of Bohemia]
       				      	                                  przed 1148-? ( Vladislav II wg D.B. )
       				      	                                  przed 1156-1158 ( ?-?.1. ) ( Vladislav wg F.B.C.A.R. )
@@ -7995,6 +8002,7 @@ Czechy ( Čechy )
       Fulford-Stamford Bridge 1066
       Poczet Królów i Książąt Polskich
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Królestwo Czedi
   Bibliografia :
@@ -8519,6 +8527,7 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
                                                         ? ( wg N.T.V.S. )
                                                         przed 1112-? (9.8.-?) ( wg B.S. )
                                                         przed 1115-? ( wg S.N.A.S.E. )
+                                                        przed 1128-po 1131 ( wg B.K.1.1. )
       Magnus Silny ( Magnús den Stærke )                ok.1130-1134 ( wg W.W.K.R. ) [King of Sweden]
                                                         przed 1131-? ( Magnus Silný wg S.N.A.S.E. ) ( wg R.1168 )
       Eryk II Pamiętny                        	        1134-1137 ( wg D.Ś. i Tapsella ) ( Eryk Godny Pamięci (Eiríkr Eimuni) wg W.W.K.R. ) ( Eryk II Bogaty wg S.P.D.Z. ) ( Erik II (Erik II the Memorable) wg D.O.T.W.A.C.A.G.H. ) ( Eirik Eimuni wg T.S.O.T.I. )
@@ -8674,6 +8683,7 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
       Fulford-Stamford Bridge 1066
       Wielcy polscy podróżnicy, którzy odkrywali świat
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Daniszmendydzi ( Danišmendové )
   Dynastia Daniszmendydów
@@ -12602,6 +12612,11 @@ Księstwo Grodzieńskie
   Patirg                                                przed 1361-po 1364 ( Patirg Narymuntowic (Paterky, Patirky, Patirg Kiejstutowicz, Patryk, Patirg Kiejstutowic) wg L.P.P. )
   Bibliografia :
       Litwa - Początki Państw
+
+County of Groitzsch
+  Wiprecht z Groicza                                    przed 1109 n.e.-? ( wg B.K.1.1. ) [Margrave of Meissen]
+  Bibliografia :
+      Bolesław Krzywousty 1085-1138
 
 Principality of Grubenhagen
   Henry the Singular                                    1286-1322 ( wg D.O.T.W.A.C.A.G.H. ) [Prince of Brunswick]
@@ -17092,10 +17107,11 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         przed 1094-? ( Świętopełk Izjasławicz wg J.P.1242 )
                                                         przed 1097-po 1099 ( Światopełk (Światopełk II Michał Izjasławowicz) wg Z.1205 )
                                                         przed 1103-? ( Światopełk II wg K.P.S. )
+                                                        przed 1102-? ( Światopełk wg B.K.1.1. )
     Włodzimierz II Monomach       	                    1113-1125 ( wg D.Ś. ) ( Vladimír Monomach wg D.B. i Z.S.A.V.E. ) ( Vladimir II (Vladimir II Monomakh) wg D.O.T.W.A.C.A.G.H. ) ( Włodzimierz Monomach (Włodzimierz, Monomach) wg Z.1205 )
                                                         1114-1125 ( wg V.N.M.S.D. )
                                                         ? ( Vladimír Monomach wg Ř.S.J.Ď.S. ) ( Włodzimierz Monomach wg N.I.B.W.XI.S. i J.P.1242 ) ( wg F.L.P.D.Ś.W. )
-                                                        ?-1125 ( Włodzimierz Monomach (Włodzimierz II Monomach) wg N.G.R.B.I.N.S. )
+                                                        ?-1125 ( Włodzimierz Monomach (Włodzimierz II Monomach) wg N.G.R.B.I.N.S. ) ( Włodzimierz Monomach wg B.K.1.1. )
     Mścisław I                              	          1125-1132 ( wg D.Ś. i V.N.M.S.D. ) ( Mstislav wg Z.S.A.V.E. ) ( Mstislav I wg D.O.T.W.A.C.A.G.H. ) ( Mścisław Wielki (Mścisław I Harald, Mścisław I Wielki) wg Z.1205 )
                                                         przed 1128-po 1131 ( Mścisław Włodzimierzowicz wg L.P.P. )
     Jaropełk II                              	          1132-1139 ( wg D.Ś. )
@@ -17170,6 +17186,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
       Książęta piastowscy Śląska
       Fulford-Stamford Bridge 1066
       Poczet Królów i Książąt Polskich
+      Bolesław Krzywousty 1085-1138
 
 Kikapu ( Kickapoo )
   Bibliografia :
@@ -18053,6 +18070,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
       						         	                            ? ( Paschalis wg D.B. ) ( Paschalis II wg H.W. )
                                                         przed 1106-? ( wg H.O.W.P. )
                                                         ?-1117 ( Paschalis (Pascal) wg F.L.P.D.Ś.W. )
+                                                        przed 1109-? ( Paschalis II wg B.K.1.1. )
     Teodoryk                                           	1100-1102 ( wg Tapsella ) ( Theodorich wg S.V.D.K.V. )
     Albert                                             	1102-1105 ( wg Tapsella )
     Sylwester IV                                       	1105-1118 ( wg Tapsella )
@@ -18070,6 +18088,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
                                                        	1130-1143 ( wg Tapsella i wg W.W.K.R. i F.H.C.R. ) ( Inocenc II. (Innocenc II.) wg S.V.D.K.V. )
       						     	                                przed 1130-? ( Inocenc II wg F.B.C.A.R. )
                                                         przed 1130-po 1139 (?-?.7.) ( Innocenty wg H.W. )
+                                                        przed 1131-po 1133 (koniec-?) ( wg B.K.1.1. )
     Anacletus II                                       	1130-1138 ( wg Tapsella ) ( Anaklet II wg W.W.K.R. ) ( Anaklet II. (Anaklet) wg S.V.D.K.V. )
       							                                    przed 1130-? ( Anaclet wg F.B.C.A.R. )
                                                         przed 1130-1138 ( Anaklet wg H.W. )
@@ -18530,6 +18549,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy )
       Arabowie
       Poczet Królów i Książąt Polskich
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Kotyora
   Bibliografia :
@@ -18561,6 +18581,7 @@ Kraków ( Krakau )
       				  	                                      ? ( Vladislav II wg F.B.C.A.R. ) ( Władysław Wygnaniec wg L.1241. i W.P.P.K.O.S. )
                                                         przed 1142-1146 ( Władysław Wygnaniec (Władysław II, Władysław, Wygnaniec, Vladislav II.) wg K.P.S. )
                                                         przed 1144-1146 ( Władysław II wg R.1168 )
+                                                        przed 1139-? ( Władysław II wg B.K.1.1. )
       Bolesław IV Kędzierzawy 	                        1146-1173 ( wg D.Ś. ) ( Bolesław IV (Bolesław IV the Curly) wg D.O.T.W.A.C.A.G.H. ) ( Bolesław IV wg P.K.I.K.P. )
                                                         1145-1173 ( wg V.N.M.S.D. )
                                                         1146-1177 ( wg Z.N.E. )
@@ -18662,6 +18683,7 @@ Kraków ( Krakau )
       Wielcy polscy podróżnicy, którzy odkrywali świat
       Poczet Królów i Książąt Polskich
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Krannon
   Dynastia Skoparydów
@@ -20451,6 +20473,7 @@ Cesarstwo Łacińskie ( Imperium Łacińskie , The Empire of Constantinople , La
       Svaté války - Dějiny křižových výprav
 
 Księstwo łęczyckie
+  Salomea                                               przed 1139-1144 ( wg B.K.1.1. )
   Konrad Mazowiecki                                     ? ( Konrad wg P.K.I.K.P. ) [Książę krakowski]
   Leszek Czarny                                         przed 1282-? ( wg Z.N.E. ) [Książę krakowski]
   Kazimierz II                                          ? ( wg L.P.P. )
@@ -20458,6 +20481,7 @@ Księstwo łęczyckie
       Litwa - Początki Państw
       Zapomianie narody Europy
       Poczet Królów i Książąt Polskich
+      Bolesław Krzywousty 1085-1138
 
 Łotwa ( Latvia )
   Bibliografia :
@@ -20837,9 +20861,10 @@ Magan
 
 Arcybiskupstwo Magdeburg ( Arcybiskupstwo Magdeburga )
   Adalbert                                              968-981 ( wg O.I.W. )
-                                                        ? ( wg K.1018 )
+                                                        ? ( wg K.1018 i B.K.1.1. )
   Tagino                                                przed 1002-? (jesień-?) ( wg K.1018 )
   Walterd                                               przed 1012-? (?.8.-?) ( wg K.1018 )
+  Norbert                                               przed 1131-po 1133 (koniec-?) ( wg B.K.1.1. )
   Wichmann		                                          1152-po 1181 ( wg F.B.C.A.R. )
                                                         przed 1166-po 1167 (21.12.-wiosna) ( Wichman z Seeburga-Querfurtu (Wichman z Seeburga, Wichman) wg R.1168 )
   Albert                                                ? ( wg K.P.S. )
@@ -20850,6 +20875,7 @@ Arcybiskupstwo Magdeburg ( Arcybiskupstwo Magdeburga )
       Kijów 1018
       Książęta piastowscy Śląska
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Magnésia nad Maiandrem
   Bibliografia :
@@ -21541,6 +21567,7 @@ Mazowsze
                                                         przed 1145-? ( Bolesław Kędzierzawy (Bolesław, Kędzierzawy) wg Z.1205 )
                                                         przed 1145-? i 1146-1173 ( Bolesław Kędzierzawy (Bolesław, Bolesław mazowiecki) wg K.P.S. )
                                                         1138-? ( Bolesław Kędzierzawy (Bolesław IV) wg P.K.I.K.P. )
+                                                        przed 1139-? ( Bolesław Kędzierzawy (Bolesław) wg B.K.1.1. )
       Leszek Bolesławowicz                              1177-1185 ( wg Z.N.E. )
                                                         ?-1186 ( Leszek wg L.1241. )
                                                         1173-? ( Leszek Bolesławowic wg Z.1205 )
@@ -21581,6 +21608,7 @@ Mazowsze
       Książęta piastowscy Śląska
       Wielcy polscy podróżnicy, którzy odkrywali świat
       Poczet Królów i Książąt Polskich
+      Bolesław Krzywousty 1085-1138
       
 County of Mâcon
   Bibliografia :
@@ -22142,6 +22170,7 @@ Miśnia ( Meissen )
                                                         ? ( Ekkehard I wg O.I.W. )
     Herman I                                            przed 1018-po 1025 ( Herman wg K.1018 )
     Wiprecht z Goitzsch                                 przed 1109-? ( wg B.S. )
+                                                        ? ( Wiprecht z Groicza wg B.K.1.1. )
   Margrabstwo Miśni ( Margrabstwo Miśnieńskie , Míšeňské markrabství )
     Dynastia Wettinów ( The House of Wettin )
       Konrad Wielki                   	                1123-1156 ( wg D.Ś. )
@@ -22169,6 +22198,7 @@ Miśnia ( Meissen )
       Kijów 1018
       Książęta piastowscy Śląska
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Mitanni ( Hanigalbat , Chanigalbat , Haligalbat , Maitani , Habingalbat , Nahrina )
   Kirta                   			                        ok.1600-ok.1580 ( wg S.B.W. )
@@ -22645,6 +22675,7 @@ Morawa ( Morawy )
   Księstwo Morawy
     Mojmír I		                                        przed 833 n.e.-? ( wg D.P.I.R.G. )
   Margrabstwo Moraw ( Moravské markrabství , Markrabství moravské )
+    Światopełk                                          ? ( wg B.K.1.1. )
     Konrád Ota                 	                        ?-1182 ( wg F.B.C.A.R. ) [Duke of Bohemia]
                                                         przed 1188-? ( wg S.V.D.K.V. )
     Władysław                                           ?-1247 ( wg F.H.C.R. )                                                        
@@ -22658,6 +22689,7 @@ Morawa ( Morawy )
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Svaté války - Dějiny křižových výprav
       Książęta piastowscy Śląska
+      Bolesław Krzywousty 1085-1138
 
 Moray
   Máel Brigte                                           ?-ok.892 n.e. ( wg N.T.V.S. )
@@ -23657,11 +23689,13 @@ Niemcy ( Germany , Německo , Deutschland )
                                                         przed 1108-1125 ( wg S.P.D.Z. )
                                                         przed 1109-po 1110 (21.9.-?.1.) ( Henryk wg B.S. )
                                                         1099/105-1125 ( Henry V wg D.O.T.W.A.C.A.G.H. )
+                                                        1106-po 1109 (?-21.9.) ( Henryk wg B.K.1.1. )
     House of Supplinburg
       Lotar III                                         1125-po 1134 ( Lotar z Supplinburga wg Z.N.E. ) [Holy Roman Emperor]
                                                         1125-1137 (?-4.12.) ( Lotar III z Supplinburga wg W.W.K.R. )
                                                         1125-1137 ( Lotar z Supplinburga wg S.P.D.Z. ) ( Lothair II of Saxony wg D.O.T.W.A.C.A.G.H. ) ( Lothar III. wg S.V.D.K.V. )
                                                         przed 1129-? ( Lotar z Supplinburga wg R.1168 )
+                                                        1125-po 1135 (?-?.8.) ( Lotar z Supplinburga (Lotar) wg B.K.1.1. )
     House of Hohenstaufen ( Staufowie , Dom Hohenstaufów , Ród Hohenstaufów )
       Konrad III                                        przed 1142-1152 ( wg S.P.D.Z. ) [Holy Roman Emperor]
                                                         ? ( Conrad III wg N.T.V.S. ) ( wg P.K.I.K.P. )
@@ -23858,6 +23892,7 @@ Niemcy ( Germany , Německo , Deutschland )
       Osudy lidských společností: Střelné zbraně, choroboplodné zárodky a ocel v historii
       Poczet Królów i Książąt Polskich
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Księstwo niemodlińskie
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -24689,7 +24724,7 @@ Obodrzyce ( Obodrzyci , Abodriti , Abodriten , Obodryci , Związek Obodrycki , A
     Zwinike ( Światosław )                              ? ( Zwenko wg Z.N.E. )
     Kanut Laward                                        1129-1131 ( wg S.P.D.Z. ) ( Knut Laward wg Z.N.E. ) ( Knud Lavard wg W.W.K.R. ) ( Knut Lavard (Lavard) wg R.1168 ) [Duke of Holstein]
                                                         1129-? ( wg B.S. )
-                                                        ? ( Knut Lavard wg S.N.A.S.E. )
+                                                        ? ( Knut Lavard wg S.N.A.S.E. ) ( wg B.K.1.1. )
     Wagrowie i Połabianie
       Dynastia Nakonidów
         Przybysław                                      1131-po 1134 ( wg Z.N.E. )
@@ -24726,6 +24761,7 @@ Obodrzyce ( Obodrzyci , Abodriti , Abodriten , Obodryci , Związek Obodrycki , A
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Fulford-Stamford Bridge 1066
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Królestwo Obojga Sycylii ( Kingdom of The Two Sicilies , Království Dvou Sicílií )
   Habsburgowie
@@ -26830,7 +26866,7 @@ Polska ( Polsko , Poland )
                                                         przed 966-po 991 ( Měšek I. wg S.V.D.K.V. )
                                                         przed 965-? ( wg G.R.I.L. )
                                                         ok.940-po 990 ( Mieszko Pierwszy (Mieszko, Miszego) wg O.I.W. )
-                                                        ? ( Mieszko wg Z.1205 ) ( Mieszko I. (Mieszko) wg K.P.S. ) ( wg F.L.P.D.Ś.W. )
+                                                        ? ( Mieszko wg Z.1205 ) ( Mieszko I. (Mieszko) wg K.P.S. ) ( wg F.L.P.D.Ś.W. i B.K.1.1. )
                                                         ok.960-992 ( Mieszko wg P.K.I.K.P. )
                                                         przed 990-? ( wg R.1168 )
     Bolesław I Chrobry           	                      992-1025 ( wg D.Ś. i V.N.M.S.D. ) ( Boleslav Chrabrý wg D.P.I.R.G. ) ( Bolesław Chrobry wg Z.N.E. i W.W.K.R. ) ( Bolesław Chrobry (Bolesław I Wielki) wg S.P.D.Z. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. ) ( Bolesław Chrobry (Bolesław) wg P.K.I.K.P. ) [King of Poland]
@@ -26842,6 +26878,7 @@ Polska ( Polsko , Poland )
                                                         przed 1013-po 1018 ( Bolesław Chrobry (Bolesław, Chrobry) wg Z.1205 )
                                                         przed 1018-? ( Bolesław Chrobry (Chrobry) wg K.P.S. )
                                                         przed 1004-po 1018 ( wg R.1168 )
+                                                        przed 1013-? ( Bolesław Chrobry wg B.K.1.1. )
   Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland )
     Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
       Bolesław I Chrobry       	                        1025 ( wg D.Ś. i V.N.M.S.D. i W.W.K.R. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. )
@@ -26851,7 +26888,7 @@ Polska ( Polsko , Poland )
                                                         przed 1027-po 1031 i przed 1033-1034 ( ? i ?-17.5. ) ( Měšek II Lambert wg Z.S.A.V.E. )
                                                         1025-1031 ( Mieszko II wg W.W.K.R. )
                                                         ?-1034 ( Mieszko II wg S.P.D.Z. )
-                                                        ? ( Mieszko II wg L.P.P. i N.I.B.W.XI.S. i O.I.W. )
+                                                        ? ( Mieszko II wg L.P.P. i N.I.B.W.XI.S. i O.I.W. i B.K.1.1. )
                                                         1025-1031/4 (25.12.-?) ( wg K.1018 )
                                                         przed 1031-? ( Mieszko II wg Z.1205 )
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -26865,7 +26902,7 @@ Polska ( Polsko , Poland )
     Kazimierz I Odnowiciel    	                        1034-1058 ( wg D.Ś. ) ( Casimir I (Casimir I the Restorer) wg D.O.T.W.A.C.A.G.H. )
                                                         1041-1058 ( wg V.N.M.S.D. )
       					                                        1039-po 1050 ( Kazimír Obnovitel wg Z.S.A.V.E. )
-                                                        ? ( wg Z.N.E. ) ( Kazimierz Odnowiciel wg L.P.P. ) ( Kazimierz Odnowiciel (Kazimierz, Odnowiciel) wg Z.1205 )
+                                                        ? ( wg Z.N.E. ) ( Kazimierz Odnowiciel wg L.P.P. i B.K.1.1. ) ( Kazimierz Odnowiciel (Kazimierz, Odnowiciel) wg Z.1205 )
                                                         ?-1058 ( Kazimierz Odnowiciel wg S.P.D.Z. )
                                                         ok.1041-1058 ( Kazimierz Odnowiciel wg B.S. )
                                                         przed 1043-? ( Kazimierz Odnowiciel (Kazimierz) wg K.1018 )
@@ -26873,7 +26910,7 @@ Polska ( Polsko , Poland )
                                                         1038-1058 ( Kazimierz Odnowiciel (Kazimierz) wg P.K.I.K.P. )
     Bolesław II Śmiały            	                    1058-1076 ( wg D.Ś. i V.N.M.S.D. ) ( Bolesław II Szczodry (Bolesław Szczodry) wg W.W.K.R. ) ( Bolesław II (Bolesław II the Bold) wg D.O.T.W.A.C.A.G.H. ) ( Bolesław wg P.K.I.K.P. ) [King of Poland]
       				        	                                ? ( Boleslav II wg Z.S.A.V.E. ) ( Bolesław II Szczodry wg Z.N.E. ) ( Bolesław Szczodry (Bolesław) wg L.P.P. )
-                                                        ?-1076 ( Bolesław Śmiały (Bolesław Szczodry) wg L.1241. )
+                                                        ?-1076 ( Bolesław Śmiały (Bolesław Szczodry) wg L.1241. ) ( Bolesław Śmiały (Bolesław Szczodry, Bolesław, Śmiały) wg B.K.1.1. )
                                                         przed 1069-? ( Bolesław II Szczodry (Bolesław II, Bolesław, Bolesław Szczodry) wg Z.1205 )
   Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland )
     Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -26882,15 +26919,18 @@ Polska ( Polsko , Poland )
                                                         ? ( Bolesław Śmiały wg B.S. )
                                                         1076-? ( Bolesław Śmiały (Bolesław Szczodry) wg L.1241. )
                                                         przed 1079-? ( Bolesław II Szczodry wg O.I.W. )
+                                                        1076-po 1079 ( Bolesław Śmiały (Bolesław Szczodry, Bolesław, Śmiały) wg B.K.1.1. )
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
     Władysław I Herman         	                        1079-1102 ( wg D.Ś. ) ( Władysław I (Herman) wg D.O.T.W.A.C.A.G.H. ) ( Władysław Herman (Władysław) wg Z.1205 i P.K.I.K.P. )
                                                         1082-1102 ( wg V.N.M.S.D. )
                                                         ? ( Władysław Herman wg O.K.C.J. i Z.N.E. i N.I.B.W.XI.S. )
                                                         1080-1102 ( Władysław Herman wg W.W.K.R. )
                                                         ?-1102 ( Władysław Herman wg K.P.S. )
+                                                        1079-1102 (?-4.6.) ( Władysław Herman (Władysław, Herman) wg B.K.1.1. )
     Zbigniew                            	              1102-1107 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1102-1108 ( wg W.W.K.R. )
                                                         1102-? ( wg P.K.I.K.P. )
+                                                        1102-1106/7/8 (przed 16.11.-?) ( wg B.K.1.1. )
     Bolesław III Krzywousty	                            1102-1138 ( wg D.Ś. i V.N.M.S.D. i Z.N.E. ) ( Bolesław III (Bolesław III Wrymouth) wg D.O.T.W.A.C.A.G.H. ) ( Boleslav III. Křivoústý (Boleslav III.) wg S.V.D.K.V. ) ( Bolesław Krzywousty (Bolesław) wg P.K.I.K.P. )
       				         	                                ? ( Boleslav III wg Z.S.A.V.E. ) ( Boleslav III Křivoústý wg F.B.C.A.R. ) ( Bolesław Krzywousty wg N.I.B.W.XI.S. )
                                                         1102-1138 (?-28.10.) ( Bolesław Krzywousty (Krzywousty) wg W.W.K.R. )
@@ -26900,6 +26940,7 @@ Polska ( Polsko , Poland )
                                                         przed 1119-1138 ( Bolesław Krzywousty (Krzywousty, Bolesław) wg Z.1205 )
                                                         1102-po 1137 ( Bolesław Krzywousty (Krzywousty, Bolesław) wg K.P.S. )
                                                         przed 1131-1138 ( Krzywousty (Bolesław Krzywousty) wg R.1168 )
+                                                        1102-1138 (przed 16.11.-28.10.) ( Bolesław Krzywousty (Krzywousty, Bolesław, Bozeslaw, Bolizlaus, Bolesław trzeci, Bolesław III) wg B.K.1.1. )
   Księstwo wiślickie
     Kazimierz Sprawiedliwy                              1166-po 1173 (?-5.1.) ( Kazimierz wg Z.1205 ) [Książę krakowski]
   Księstwo rawskie
@@ -27127,6 +27168,7 @@ Polska ( Polsko , Poland )
       Wielcy polscy podróżnicy, którzy odkrywali świat
       Poczet Królów i Książąt Polskich
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Księstwo Połockie ( Principality of Polatsk , Polocké knížectví , Księstwo połockie )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -27166,7 +27208,8 @@ Królestwo Południowej Bregi
       Furia ludzi Północy - Dzieje świata Wikingów
 
 Księstwo Pomorskie ( Pomorze Gdańskie , Księstwo pomorskie )
-  Świętopełk                                            przed 1113 n.e.-? ( wg B.S. )
+  Świętopełk                                            przed 1112-1122/po 1113 (29.9.-?) ( Światopełk wg B.K.1.1. )
+                                                        przed 1113-? ( wg B.S. )
   Dynastia Piastów ( Ród Piastów , Dom Piastów , Piastowicze , Piastowie , Dynastia Piastowska )
     Władysław II Wygnaniec                              przed 1142-1146 ( Władysław II (Władysław Wygnaniec, Wygnaniec, Władysław) wg K.P.S. ) [Książę krakowski]
   Świętopełk                                            ok.1245 ( wg Z.N.E. )
@@ -27185,6 +27228,14 @@ Księstwo Pomorskie ( Pomorze Gdańskie , Księstwo pomorskie )
       Zawichost 1205
       Książęta piastowscy Śląska
       Poczet Królów i Książąt Polskich
+      Bolesław Krzywousty 1085-1138
+
+Pomorze
+  Świętobor                                             ? ( wg B.K.1.1. )
+  Księstwo odrzańskie
+    Światopełk                                          ?-1122 n.e. ( wg B.K.1.1. )
+  Bibliografia :
+      Bolesław Krzywousty 1085-1138
 
 Pomorze Szczecińskie ( Księstwo Pomorskie , Księstwo Zachodniopomorskie , Duchy of Pomerania , Księstwo Pomorza Zachodniego , Pomořanské vévodství , Księstwo pomorskie , Pomorze Zachodnie )
   Dietrich                       	                      ? ( wg Z.S.A.V.E. )
@@ -27194,6 +27245,7 @@ Pomorze Szczecińskie ( Księstwo Pomorskie , Księstwo Zachodniopomorskie , Duc
                                                         przed 1121-1135 ( wg S.P.D.Z. )
                                                         ?-1135 ( Warcisław I wg B.S. )
                                                         ? ( Warcisław I wg R.1168 )
+                                                        przed 1121-po 1128 ( wg B.K.1.1. )
     Racibor                   	                        przed 1136 n.e.-? ( wg B.M. )
                                                         1135-1155 (?-7.5.) ( Rettiburr wg W.W.K.R. )
                                                         1135-1155/6 (?.9.-?) ( Racibor I wg S.P.D.Z. )
@@ -27226,6 +27278,7 @@ Pomorze Szczecińskie ( Księstwo Pomorskie , Księstwo Zachodniopomorskie , Duc
       Svaté války - Dějiny křižových výprav
       Książęta piastowscy Śląska
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Pont ( Pontus )
   Mitrydates                                       	    337/6-302/1 ( wg A.Č. )
@@ -27652,6 +27705,7 @@ Księstwo przemyskie ( Przemyśl )
     Wołodar                                             1097-1124 ( wg W.W.K.R. )
                                                         przed 1097-po 1112 ( Wołodar Rościsławowicz wg Z.1205 )
                                                         przed 1122-? ( Wołodar przemyski wg K.P.S. )
+                                                        ?-1124 ( Wołodar Rościsławowicz wg B.K.1.1. )
   Rościsław                                             ? ( wg Z.1205 )
   Władymyrko                                            1129-1153 ( wg W.W.K.R. ) [Prince of Halicz]
                                                         przed 1141-? ( Władymirko wg Z.1205 )
@@ -27662,6 +27716,7 @@ Księstwo przemyskie ( Przemyśl )
       Wielka wyprawa Księcia Racibora
       Zawichost 1205
       Książęta piastowscy Śląska
+      Bolesław Krzywousty 1085-1138
 
 Przewóz
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -30087,7 +30142,7 @@ Saksonia ( Saxony , Sasko )
       Otton                                             przed 962-? ( Otton Wielki wg H.W. ) [King of Germany]
                                                         ? ( Ota I. wg S.V.D.K.V. )
     Ród Billungów
-      Herman Billung                                    ? ( wg Z.N.E. )
+      Herman Billung                                    ? ( wg Z.N.E. ) ( Herman wg B.K.1.1. )
                                                         przed 967-po 982 ( Hermann Billung wg S.P.D.Z. )
                                                         953-po 955 ( Hermann wg B.S. )
                                                         przed 953-973 (?-13.3./27.3./1.4.) ( Herman wg O.I.W. )
@@ -30106,6 +30161,7 @@ Saksonia ( Saxony , Sasko )
                                                         1106-po 1134 ( Lotar z Supplinburga wg Z.N.E. )
                                                         1103-1125 ( Lotar III z Supplinburga wg W.W.K.R. )
                                                         przed 1113-1137 ( Lothar z Supplinburga (Lothar) wg S.P.D.Z. )
+                                                        przed 1123-po 1125 ( Lotar z Supplinburga (Lotar) wg B.K.1.1. )
     House of Welf
       Henry X                                           1137-? ( Henry X the Proud wg D.O.T.W.A.C.A.G.H. ) [Duke of Bavaria Henry X]
     Albrecht Medvěd	                                    ?-1170 ( wg F.B.C.A.R. )
@@ -30205,6 +30261,7 @@ Saksonia ( Saxony , Sasko )
       Książęta piastowscy Śląska
       Fulford-Stamford Bridge 1066
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Salamina
   Telamon		                                            ?
@@ -30375,7 +30432,7 @@ Hrabství Sancerre
 Księstwo sandomierskie
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
     Henryk Sandomierski                                 ?-1166 ( Henryk wg Z.1205 i K.P.S. )
-                                                        ? ( wg W.P.P.K.O.S. )
+                                                        ? ( wg W.P.P.K.O.S. ) ( Henryk wg B.K.1.1. )
                                                         1138-? ( Henryk wg P.K.I.K.P. )
     Bolesław Kędzierzawy                                ? ( Bolesław mazowiecki (Bolesław) wg K.P.S. ) [Książę krakowski]
     Kazimierz Sprawiedliwy                              przed 1177-1194 ( Kazimierz wg L.1241. ) [Książę krakowski]
@@ -30407,6 +30464,7 @@ Księstwo sandomierskie
       Książęta piastowscy Śląska
       Wielcy polscy podróżnicy, którzy odkrywali świat
       Poczet Królów i Książąt Polskich
+      Bolesław Krzywousty 1085-1138
 
 Sanigowie
   Spadagas                                              ok.110 n.e.
@@ -33103,6 +33161,7 @@ Księstwo śląskie ( Vévodství slezské )
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
     Władysław II Wygnaniec                              przed 1142-1146 ( Władysław Wygnaniec (Władysław, Władysław II, Wygnaniec) wg K.P.S. ) [Książę krakowski]
                                                         1138-1146 ( Władysław II (Władysław) wg P.K.I.K.P. )
+                                                        przed 1139-? ( Władysław II wg B.K.1.1. )
     Władysławowicze
       Bolesław Wysoki                                   przed 1195-? (13.9.-?) ( wg B.S. )
                                                         przed 1177-1201 (?-8.12.) ( wg L.1241. )
@@ -33133,6 +33192,7 @@ Księstwo śląskie ( Vévodství slezské )
       Książęta piastowscy Śląska
       Wielcy polscy podróżnicy, którzy odkrywali świat
       Poczet Królów i Książąt Polskich
+      Bolesław Krzywousty 1085-1138
 
 Królestwo Środkowofrankońskie ( Middle Francia , Lorraine )
   Karolingowie
@@ -33261,7 +33321,7 @@ Księstwo świdnickie
     Dynastia saska ( Dynastia Ottońska , Ludolfingowie , House of Saxony , Dynastie Otonů , Saská dynastie , Dynastia Ludolfingów , Dynastia Liudolfingów , Dynastia Ottonów , Sächsiches Haus )
       Otto I Wielki       	                            936-973 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Ota I wg D.P.I.R.G. ) ( Otto I Veliký wg D.B. )
                                                         ok.936-po 962 ( Otton I wg D.R. )
-                                                        ? ( Oto Veliký wg M.A.E. ) ( Ota Veliký wg F.B.C.A.R. ) ( Otto I wg N.T.V.S. ) ( Otton Wielki wg L.1241. ) ( Otto I. (Otta I.) wg S.N.A.S.E. ) 
+                                                        ? ( Oto Veliký wg M.A.E. ) ( Ota Veliký wg F.B.C.A.R. ) ( Otto I wg N.T.V.S. ) ( Otton Wielki wg L.1241. ) ( Otto I. (Otta I.) wg S.N.A.S.E. )  ( Otton wg B.K.1.1. )
                                                         przed 973-? ( Otton I wg F.L.P.D.Ś.W. )
                                                         962-po 968 ( Otto I Veliký wg D.B. )
                                                         przed 937(962)-973 ( 2.2.-7.5. ) ( Ota I wg Z.S.A.V.E. )
@@ -33320,7 +33380,7 @@ Księstwo świdnickie
       Henryk III              	                        1039-1056 ( wg V.N.M.S.D. i D.Ś. i Tapsella i N.I.B.W.XI.S. ) ( Jindřich III wg D.B. ) ( Jindřich III. wg S.V.D.K.V. i S.N.A.S.E. ) ( Henry III wg H.O.W.P. )
                                                         przed 1039-po 1044 ( Jindřich III wg Z.S.A.V.E. )
                                                         1046-1056 ( wg S.P.D.Z. )
-                                                        ? ( Henry III wg N.T.V.S. ) ( wg P.K.I.K.P. )
+                                                        ? ( Henry III wg N.T.V.S. ) ( wg P.K.I.K.P. i B.K.1.1. )
                                                         przed 1042-po 1046 ( wg F.L.P.D.Ś.W. )
                                                         przed 1055-po 1056 (?-10.9.) ( wg B.S. )
                                                         1046-1056 ( Henry III wg D.O.T.W.A.C.A.G.H. )
@@ -33339,6 +33399,7 @@ Księstwo świdnickie
                                                         1084-1106 ( Jindřich IV. (Jindřich) wg S.V.D.K.V. )
                                                         przed 1066-po 1081 (?-15.10.) ( wg F.L.P.D.Ś.W. )
                                                         przed 1059-po 1084 ( Jindřich IV. (Jindřich) wg S.N.A.S.E. )
+                                                        przed ok.1085-? ( wg B.K.1.1. )
       Rudolf Szwabski	                                  1077-1080 (wg V.N.M.S.D. i D.Ś. i Tapsella )
                                                         1077-? ( Rudolf z Rheinfeldenu wg F.B.C.A.R. )
                                                         przed 1080-? ( Rudolf wg H.O.W.P. )
@@ -33356,6 +33417,7 @@ Księstwo świdnickie
                                                         1111-1125 ( wg W.W.K.R. ) ( Henry V wg D.O.T.W.A.C.A.G.H. ) ( Jindřich V. wg S.V.D.K.V. )
                                                         przed 1108-po 1125 ( wg S.P.D.Z. )
                                                         przed 1118-? ( wg H.W. )
+                                                        ? ( wg B.K.1.1. )
     Dynastia z Supplinburga ( House of Supplinburg )
       Lotar II Saski	                                  1125-1137 ( wg D.Ś. ) ( III wg Tapsella ) ( Lotar III (Lotar z Supplinburga) wg S.P.D.Z. )
                                                         1125-1137 ( ?-?.12. ) ( Lothar III wg F.B.C.A.R. )
@@ -33366,6 +33428,7 @@ Księstwo świdnickie
                                                         przed 1135-1137 (?-?.12.) ( Lotar II wg H.W. )
                                                         przed 1129-? ( Lothar (Lothar von Supplinburg) wg B.S. )
                                                         1133-1137 ( Lothair II of Saxony wg D.O.T.W.A.C.A.G.H. ) ( Lothar III. (Lothar) wg S.V.D.K.V. )
+                                                        1133-po 1135 (?-?.8.) ( Lotar z Supplinburga (Lotar) wg B.K.1.1. )
     Dynastia Hohenstaufów ( House of Hohenstaufen , Štaufové , Staufowie , Dom Hohenstaufów )
       Konrad III                          	            1138-1152 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Konrád III wg D.B. )
                                                         ok.1147 ( wg K.V. )
@@ -33393,6 +33456,7 @@ Księstwo świdnickie
                                                         przed 1157-po 1189 ( Fryderyk Barbarossa (Fryderyk) wg Z.1205 )
                                                         1156-po 1163 (?-?.9.) ( Fryderyk I (Fryderyk, Fryderyk I Rudobrody, Fryderyk Barbarossa, Hohenstauf) wg K.P.S. )
                                                         1155-po 1176 (18.6.-?) ( Fryderyk Barbarossa (Barbarossa, Friedrich Barbarossa) wg R.1168 )
+                                                        przed 1157-? ( Fryderyk Rudobrody wg B.K.1.1. )
       Henryk VI                          	              1190-1197 ( wg D.Ś. i Tapsella i K.V. ) ( Henryk VI Stauf (Heinrich VI, Henryk) wg F.H.C.R. )
                                                         1190-1198 ( wg V.N.M.S.D. )
                                                         przed 1194 -po 1196 ( Jindřich VI wg D.B. )
@@ -33638,6 +33702,7 @@ Księstwo świdnickie
       Mayové
       Poczet Królów i Książąt Polskich
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Ta Jüe
   Bibliografia :
@@ -34448,12 +34513,14 @@ Cesarstwo Trapezuntu ( Trebizond , The Empire of Trebizond , Trapezunt )
 Księstwo trembowelskie ( Trembowla )
   Rościsławowicze
     Wasylko Rościsławowicz                              przed 1097 n.e.-? ( Wasylko Rościsławicz (Wasylko, Wasylko Trembowelski) wg Z.1205 )
+                                                        ?-1124 ( Wasylko trembowelski (Wasylko) wg B.K.1.1. )
     Iwan Wasylkowicz                                    ?-1141 ( Igor (Iwan) wg Z.1205 )
     Władymirko                                          1141-? ( wg Z.1205 ) [Prince of Halicz]
   Igorowicze
     Izjasław                                            ?-1211 ( wg Z.1205 )
   Bibliografia :
       Zawichost 1205
+      Bolesław Krzywousty 1085-1138
 
 Trerowie
   Bibliografia :
@@ -36344,7 +36411,7 @@ Węgry ( Hungary , Uhry , Hangryn )
       			             	                              1000-? ( Štěpán I wg D.P.I.R.G. )
       			             	                              1001-1038 ( 15.8.-? ) ( Štěpán I wg Z.S.A.V.E. )
                                                         przed 1018-? ( Stefan I wg Z.N.E. )
-                                                        ? ( Stefan (Stefan I) wg H.W. ) ( św. Stefan wg S.II.W.I.J.C.Z.E.M.P. i N.I.B.W.XI.S. ) ( Stefan I Wielki wg O.I.W. )
+                                                        ? ( Stefan (Stefan I) wg H.W. ) ( św. Stefan wg S.II.W.I.J.C.Z.E.M.P. i N.I.B.W.XI.S. i B.K.1.1. ) ( Stefan I Wielki wg O.I.W. )
                                                         1000-1038 ( Svatý Štěpán (Štěpán) wg S.V.D.K.V. )
                                                         1000-po 1018 (?.12.-30.1.) ( Stefan I (Stefan) wg K.1018 )
                                                         1001-po ok.1003 ( Stefan Święty (Stefan, Stefan I) wg Z.1205 )
@@ -36362,18 +36429,21 @@ Węgry ( Hungary , Uhry , Hangryn )
       Salomon                       	                  1063-1074 ( wg D.Ś. ) ( Salamon wg D.O.T.W.A.C.A.G.H. )
                                                         1064-1076 ( wg V.N.M.S.D. )
                                                         ?-1074 ( wg Z.1205 )
+                                                        ? ( wg B.K.1.1. )
       Géza I                           	                1074-1077 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         ? ( Gejza II wg N.I.B.W.XI.S. )
                                                         1074-? ( Gejza I wg Z.1205 )
       Władysław I Święty		                            1077-1095 ( wg D.Ś. i Z.1205 ) ( Ladislav I wg D.P.I.R.G. ) ( St Ladislas I wg D.O.T.W.A.C.A.G.H. ) ( Ladislav I. Svatý (Ladislav I.) wg S.V.D.K.V. )
                                                         ok.1080-1095 ( wg V.N.M.S.D. )
+                                                        przed 1079-po 1093 ( Władysław wg B.K.1.1. )
       Ladislav Holý                       	            ? ( wg Z.S.A.V.E. )
       Koloman                       	                  1095-1116 ( wg D.Ś. i N.I.B.W.XI.S. i D.O.T.W.A.C.A.G.H. ) ( Koloman I. wg S.V.D.K.V. ) ( Koloman Uczony wg Z.1205 )
                                                         1095-1114 ( wg V.N.M.S.D. )
             			              	                      ok.1096 ( wg K.V. )
       			              	                            przed 1074 -? ( wg Z.S.A.V.E. )
                                                         ? ( wg H.W. i K.P.S. )
-                                                        przed 1096-po 1096 (?.5.-?.8.) ( Koloman I. (Koloman) wg S.V.D.K.V. )
+                                                        przed 1096-po 1096 (?.5.-?.8.) ( Koloman I. wg S.V.D.K.V. )
+                                                        przed ok.1106/7-po 1112/3 ( Koloman I wg B.K.1.1. )
       Stefan II                        	                1116-1131 ( wg D.Ś. ) ( Stephen II wg D.O.T.W.A.C.A.G.H. ) ( Štěpán II. wg S.V.D.K.V. )
                                                         1114-1131 ( wg V.N.M.S.D. )
       				       	                                  ? ( Štěpán II wg D.B. ) ( Stefan wg K.P.S. )
@@ -36553,6 +36623,7 @@ Węgry ( Hungary , Uhry , Hangryn )
       Furia ludzi Północy - Dzieje świata Wikingów
       Książęta piastowscy Śląska
       Poczet Królów i Książąt Polskich
+      Bolesław Krzywousty 1085-1138
 
 Węgrzy ( Hungarians , Maďaři )
   Almos                                                 ? ( wg Z.1205 )
@@ -36742,6 +36813,7 @@ Księstwo wielkopolskie ( Velkopolské knížectví )
                                                         przed 1145-po 1146 (koniec-?) ( Mieszko Stary wielkopolski (Mieczysław) wg K.P.S. )
                                                         1138-? ( Mieszko III Stary (Mieszko) wg P.K.I.K.P. )
                                                         przed 1147-? ( Mieszko III Stary wg R.1168 )
+                                                        przed 1139-? ( Mieszko wg B.K.1.1. )
     Odon Mieszkowic                                     przed 1180-? ( wg K.P.S. )
     Władysław Laskonogi                                 1194-1229 ( wg W.W.K.R. ) [Książę krakowski]
                                                         przed 1202-po 1220 ( Władysław (Laskonogi) wg L.1241. )
@@ -36766,6 +36838,7 @@ Księstwo wielkopolskie ( Velkopolské knížectví )
       Książęta piastowscy Śląska
       Poczet Królów i Książąt Polskich
       Rugia 1168
+      Bolesław Krzywousty 1085-1138
 
 Księstwo wieluńskie
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -37225,6 +37298,7 @@ Wołyń
       Mścisław                                          1099-1100 ( wg Z.1205 )
       Jarosław Światopełkowicz                          przed 1112-? ( wg L.P.P. )
                                                         1100-1118 ( Jarosław wg Z.1205 )
+                                                        ? ( Jarosław wg B.K.1.1. )
     Monomachowicze
       Andrzej                                           przed 1119-po 1123 ( Andrzej Włodzimierzowic (Andrzej Włodzimierzowic Dobry) wg Z.1205 )
     Izjasław Mścisławowicz                              ? ( wg Z.1205 ) [Prince of Kiev Izjasław II]
@@ -37259,6 +37333,7 @@ Wołyń
     Litwa - Początki Państw
     Zawichost 1205
     Wielcy polscy podróżnicy, którzy odkrywali świat
+    Bolesław Krzywousty 1085-1138
 
 Wormacja ( Worms )
   Burchard                                              ?-1025 n.e. ( wg S.V.D.K.V. )
@@ -37985,5 +38060,6 @@ Bibliografia :
     [178] Mayové , Sylvanus Griswold Morley , George W. Brainerd , 1977
     [179] Poczet Królów i Książąt Polskich , Jan Matejko , Jan Gintel , 1960
     [180] Rugia 1168 , Robert F. Barkowski , 2021
+    [181] Bolesław Krzywousty 1085-1138 , Andrzej Feliks Grabski , 1968
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
