@@ -18,11 +18,36 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy - Richard Hanania
       - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
       - The Empire of the Steppes: A History of Central Asia - René Grousset
+      - Fontenoy 841 - Robert F. Barkowski
+      - Babilon 729-648 p.n.e. - Piotr Biziuk
+      - Wojny markomańskie 162-185 n.e. - Marek Olędzki
+      - Vercellae 101 p.n.e. - Paweł Rochala
+      - Ktezyfont 363 - Adrian Drabik
+      - Gabiene 317 p.n.e. - Michał Piekarski
+      - Obertyn 1531 - Marek Plewczyński
+      - Massalia 49 p.n.e. - Tomasz Romanowski
       - Principles of Population Genetics - Daniel L. Hartl, Andrew G. Clark
+      - Crotone 982 - Robert F. Barkowski
+      - Benewent 275 p.n.e. - Krzysztof Kęciek
+      - Farsalos 48 p.n.e. - Romuald Romański
+      - Chocim 1673 - Damian Orłowski
+      - Kynoskefalaj 197 p.n.e. - Krzysztof Kęciek
+      - Magnezja 190 p.n.e. - Krzysztof Kęciek
+      - Wojna Czu z Han 209-202 p.n.e - Maciej Kuczyński
       - Warriors and Worriers: The Survival of the Sexes - Joyce F. Benenson
       - The Strategy of Conflict - Thomas C. Schelling
       - Proofs from THE BOOK - Martin Aigner, Günter M. Ziegler
       - Feynman Lectures On Computation - Richard P. Feynman
+      - Lechowe Pole 955 - Robert F. Barkowski
+      - Mazowsze 1047 - Mariusz Samp
+      - Adrianopol 378, rzeka Frigidus 394 - Daniel Gazda
+      - Gaugamela 331 p.n.e. - Edward Dąbrowa
+      - Ipsos 301 p.n.e - Grzegorz Lach
+      - Nikopolis 1396 - Stanisław Rek
+      - Kosowe Pole 1389 - Stanisław Rek
+      - Połabie 983 - Robert F. Barkowski
+      - Aleksandria 1365 - Łukasz Burkiewicz
+      - Kleidion 1014 - Łukasz Migniewicz
       - Who’s #1? The Science of Rating and Ranking - Amy Langville , Carl Meyer
       - Haskell Programming from first principles - Christopher Allen, Julie Moronuki
       - The Haskell Road to Logic, Maths and Programming - Kees Doets, Jan van Eijck
@@ -35,6 +60,20 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Felony and the Guilty Mind in Medieval England - Elizabeth Papp Kamali
       - Dejiny Libye - Eduard Gombar
       - Dynastie Świata - Przewodnik chronologiczny i genealogiczny - John E.Morby
+      - Smoleńsk 1609-1611 - Katarzyna Słodowy
+      - Poitiers 732 - Robert F. Barkowski
+      - Cedynia 972 - Paweł Rochala
+      - Mohacz 1526 - Stanisław Rek
+      - Byczyna 1588 - Ryszard Dzieczyński
+      - Smoleńsk 1632-1634 - Dariusz Kupisz
+      - Amida 359 - Tomasz Szeląg
+      - Kyme 474 p.n.e. - Marta Korczyńska-Zdąbłarz
+      - Bałkany 1912-1913 - Robert Rabka
+      - Masada 66-73 - Bernard Nowaczyk
+      - Wyprawa sycylijska 415-413 p.n.e. - Grzegorz Lach
+      - Psków 1581-1582 - Dariusz Kupisz
+      - Przemyśl 1656-1657 - Andrzej Borcz
+      - Alezja 52 p.n.e. - Tomasz Romanowski
       - Let Over Lambda - Doug Hoyte
       - Surfing Uncertainty: Prediction, Action, and the Embodied Mind - Andy Clark
       - Evil: Inside Human Violence and Cruelty - Roy Baumeister
@@ -43,6 +82,29 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - On Liberty - John Stuart Mill
       - The Blind Watchmaker - Richard Dawkins
       - The Extended Phenotype - Richard Dawkins
+      - Niemcza 1017 - Paweł Rochala
+      - Połock 1579 - Dariusz Kupisz
+      - Grenada 1492 - Roman Warszewski
+      - Manzikert 1071 - Stanisław Rek
+      - Oliwa 1627 - Eugeniusz Koczorowski
+      - Wiedeń 1683 - Leszek Podhorodecki
+      - Moskwa 1617-1618 - Andrzej Adam Majewski
+      - Chojnice 1454, Świecino 1462 - Bernard Nowaczyk
+      - Płowce 1331 - Piotr Strzyż
+      - Cecora 1620 - Kacper Śledziński
+      - Koronowo 1410 - Piotr Derdej
+      - Żółte Wody-Korsuń 1648 - 	Witold Biernacki
+      - Kłuszyn 1610 - Robert Szcześniak
+      - Beresteczko 1651 - Romuald Romański
+      - Warka-Gniezno 1656 - Paweł Skworoda
+      - Orsza 1514 - Piotr Dróżdż
+      - Cudnów 1660 - Romuald Romański
+      - Prostki 1656 - Sławomir Augusiewicz
+      - Bannockburn 1314 - Jarosław Wojtczak
+      - Malta 1565 - Andrzej Zieliński
+      - Warna 1444 - Edward Potkowski
+      - Kircholm 1605 -	Henryk Wisner
+      - Batoh 1652 - Wojciech Jacek Długołęcki
       - The Nurture Assumption - Judith Rich Harris
       - A Profile of Mathematical Logic - Howard DeLong
       - No Two Alike - Judith Rich Harris
