@@ -6,6 +6,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Colossus - Dennis Feltham Jones
       - Notatki z podziemia - Fiodor Dostojewski
       - Type-driven Development with Idris - Edwin Brady
+      - The Growth of Biological Thought: Diversity, Evolution, and Inheritance - Ernst W. Mayr
       - The Book of Why: The New Science of Cause and Effect - Judea Pearl & Dana Mackenzie
       - The Open Society and Its Enemies - Karl Popper
       - Genesis - Bernard Beckett
@@ -21,7 +22,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Wojny markomańskie 162-185 n.e. - Marek Olędzki
       - Vercellae 101 p.n.e. - Paweł Rochala
       - Ktezyfont 363 - Adrian Drabik
-      - Gabiene 317 p.n.e. - Michał Piekarski
+      - Gabiene 316 p.n.e. - Michał Piekarski - Magda
       - Obertyn 1531 - Marek Plewczyński
       - Massalia 49 p.n.e. - Tomasz Romanowski
       - Principles of Population Genetics - Daniel L. Hartl, Andrew G. Clark
@@ -37,11 +38,9 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Proofs from THE BOOK - Martin Aigner, Günter M. Ziegler
       - Feynman Lectures On Computation - Richard P. Feynman
       - Lechowe Pole 955 - Robert F. Barkowski
-      - Mazowsze 1047 - Mariusz Samp
       - Adrianopol 378, rzeka Frigidus 394 - Daniel Gazda
       - Gaugamela 331 p.n.e. - Edward Dąbrowa
       - Ipsos 301 p.n.e - Grzegorz Lach
-      - Nikopolis 1396 - Stanisław Rek
       - Kosowe Pole 1389 - Stanisław Rek
       - Połabie 983 - Robert F. Barkowski
       - Aleksandria 1365 - Łukasz Burkiewicz
@@ -61,7 +60,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Smoleńsk 1609-1611 - Katarzyna Słodowy
       - Poitiers 732 - Robert F. Barkowski
       - Cedynia 972 - Paweł Rochala
-      - Mohacz 1526 - Stanisław Rek
       - Byczyna 1588 - Ryszard Dzieczyński
       - Smoleńsk 1632-1634 - Dariusz Kupisz
       - Amida 359 - Tomasz Szeląg
@@ -78,7 +76,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Myth of the Framework: In Defence of Science and Rationality - Karl Popper
       - The Origins of Knowledge and Imagination - Jacob Bronowski
       - On Liberty - John Stuart Mill
-      - The Extended Phenotype - Richard Dawkins
+      - The Extended Phenotype - Richard Dawkins - Magda
       - Niemcza 1017 - Paweł Rochala
       - Połock 1579 - Dariusz Kupisz
       - Grenada 1492 - Roman Warszewski
@@ -132,7 +130,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Number Sense: How the Mind Creates Mathematics - Stanislas Dehaene
       - Objective Knowledge: An Evolutionary Approach - Karl Popper
       - Economics for the Common Good - Jean Tirole
-      - On the Origin of Species - Charles Darwin
+      - On the Origin of Species - Charles Darwin - Magda
       - The Sciences of the Artificial - Herbert A. Simon
       - An Illustrated Theory of Numbers - Martin H. Weissman
       - The Insect Societies - Edward O. Wilson

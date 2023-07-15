@@ -316,6 +316,7 @@ POP.SCIENCE :
         Fidel & Che - A revolutionary friendship ; Simon Reid-Henry
         Fix melduje centrali... ; Z. Wiatr
         Foiničané ; Sabatino Moscati
+        Fontenoy 841 ; Robert F. Barkowski
         Fridrich Barbarossa , císař a rytíř ; Ferdinand Opll
         Fryderyk II Hohenstauf - Cesarz Rzymski ; Jerzy Hauziński
         Fulford-Stamford Bridge 1066 ; Cezary Namirski
@@ -353,6 +354,7 @@ POP.SCIENCE :
         Maurové a Evropa ; Hans Kaufmann
         Maxmilián I. - Zakladatel habsburské světové říše ; Sigrid-Maria Größingová
         Mayové ; Sylvanus Griswold Morley , George W. Brainerd
+        Mazowsze 1047 ; Mariusz Samp
         Mezopotámie - Počátky měst ; Gwendolyn Leick
         Midway 1942 ; Maciej Borkowski
         Mity pięciu części świata ; Tadeusz Margul
@@ -405,6 +407,7 @@ POP.SCIENCE :
         Syn Smoka , Fragmenty Zapisków Historyka ; Sy-ma Ts´ien
         Table of Monarchs of Chinese Successive Dynasties ; China Nationality Art Photograph Publishing House
         Tamerlane - Sword of Islam, Conqueror of the World ; Justin Marozzi
+        The Holy Roman Empire - A Thousand Years of Europe's History ; Peter H. Wilson
         Thrákové ; Jan Bouzek
         Tiberius - pohnutý život císaře ; Roger Caratini
         Tvář helenistického světa ; Anna Świderková
@@ -1319,6 +1322,37 @@ Lomová , Ivana ; Lomová , Lucie - Anča a Pepík na stopě - O
 London , Jack - Córka śniegów - POL
               - Jerry z wysp - POL
               - Syn Słońca - POL
+              - Nowele - POL
+                    - Za zdrowie wędrowca na szlaku - POL
+                    - Biała cisza - POL
+                    - Małżonka króla - POL
+                    - Odyseja Północy - POL
+                    - Wielka niewiadoma - POL
+                    - Rozstajne drogi - POL
+                    - Kobieta z plemienia Siwasz - POL
+                    - Napój Hiperborejów - POL
+                    - Li-Wan o jasnej skórze - POL
+                    - Mistrz tajemnicy - POL
+                    - Historia Jees-Uck - POL
+                    - Sprzysiężenie starców - POL
+                    - Choroba Samotnego Wodza - POL
+                    - Wiara w człowieka - POL
+                    - Zamażpójście Lit-Lit - POL
+                    - Skarby Sezamu - POL
+                    - Złoty mak - POL
+                    - Szczerozłoty Kanion - POL
+                    - Miłość życia - POL
+                    - Nieoczekiwane - POL
+                    - Dom Mapuhiego - POL
+                    - Marzenie Debsa - POL
+                    - Na południe od Toru - POL
+                    - Szeryf Kony - POL
+                    - Trędowaty Koolau - POL
+                    - Straszliwy Archipelag - POL
+                    - Czun Ah Czun - POL
+                    - Dobrodziejstwo wątpliwości - POL
+                    - Dom pychy - POL
+                    - Na kobiercu Makaloa - POL
 Loomis , Noel M. - Kiedy dzieci płaczą z głodu - POL
 Lucas , George - Gwiezdne wojny - POL
 Lukešová , Milena - Držte si uši - O
