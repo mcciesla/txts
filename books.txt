@@ -110,6 +110,7 @@ BIOLOGIA:
     Speaking Our Minds : Why Human Communication is Different, and how Language Evolved to Make it Special ; Thom Scott-Phillips
     The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
     The Blank Slate ; Steven Pinker
+    The Blind Watchmaker - Why the Evidence of Evolution Reveals a Universe Without Design ; Richard Dawkins
     The Language Instinct - How the Mind Creates Language ; Steven Pinker
     The Vital Question - Energy, Evolution, and the Origins of Complex Life ; Nick Lane
     Wspinaczka Na Szczyt Nieprawdopodobieństwa ; Richard Dawkins
@@ -119,6 +120,7 @@ CHAOS:
 EKONOMIA:
     Nudge - Improving decisions about health, wealth and happiness ; Richard H. Thaler , Cass Sunstein
 FILOZOFIA:
+    Conjectures and Refutations - The Growth of Scientific Knowledge ; Karl Popper
     Summa Technologiae ; Stanisław Lem
     The Beginning of Infinity - Explanations that Transform the World ; David Deutsch
     The Fabric of Reality ; David Deutsch
@@ -141,7 +143,7 @@ MATEMATYKA:
 PODRÓŻE:
     Conquistadors of the Useless - From The Alps To Annapurna ; Lionel Terray
     Červená světlice na Nanga Parbatu ; Reinhold Messner
-    Gdyby to nie byl Everest... ; Leszek Cichy , Piotr Trybalski
+    Gdyby to nie był Everest... ; Leszek Cichy , Piotr Trybalski
     Into Thin Air , A personal account of the Everest disaster ; Jon Krakauer
     Karpatské hry ;  Miloslav Nevrlý
     Mój pionowy świat ; Jerzy Kukuczka
@@ -219,6 +221,7 @@ POP.SCIENCE :
         Sobecký gen ; Richard Dawkins
         The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
         The Blank Slate ; Steven Pinker
+        The Blind Watchmaker - Why the Evidence of Evolution Reveals a Universe Without Design ; Richard Dawkins
         The Greatest Show On Earth ; Richard Dawkins
         The Language Instinct - How the Mind Creates Language ; Steven Pinker
         The Vital Question - Energy, Evolution, and the Origins of Complex Life ; Nick Lane
@@ -236,6 +239,7 @@ POP.SCIENCE :
     ENCYKLOPEDIE:
         Moja pierwsza encyklopedia ; Simone Lamblin
     FILOZOFIA:
+        Conjectures and Refutations - The Growth of Scientific Knowledge ; Karl Popper
         Darwin among the Machines - The Evolution of Global Intelligence ; George Dyson
         Darwin's Dangerous Idea - Evolution and the Meanings of Life ; Daniel C. Dennett
         Gödel, Escher, Bach - existenciální gordická balada ; Douglas R. Hofstadter
@@ -463,7 +467,7 @@ POP.SCIENCE :
         Dersu Uzala ; Wladimir K. Arsenjew
         Dzikie Banany ; Arkady Fiedler
         Gara jaka ; Desmond Varaday
-        Gdyby to nie byl Everest... ; Leszek Cichy , Piotr Trybalski
+        Gdyby to nie był Everest... ; Leszek Cichy , Piotr Trybalski
         Grónsko , "Takussagut" ; Karin Pavlosková
         Hermann Buhl - Climbing without Compromise ; Reinhold Messner , Horst Höchler
         Hory shora - Příběhy ze sedmi osmitisícovek ; Radek Jaroš , Arnošt Tabášek
