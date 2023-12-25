@@ -49,10 +49,6 @@ Winter
             - ?
             - cokoli co se naplanuje
 Europe highpoints
-    - Ireland
-        - Carrauntoohil 1038m
-        - April-December (all year ?)
-        - 2-3 days
     - Spain
         - Teide 3718m
         - all year
@@ -68,8 +64,8 @@ Europe highpoints
         - Monte Titano 739m
         - all year (check that reconstruction finished)
         - 2 days
-    - Cyprus (+ Northern Cyprus)
-        - Olympus 1952m (+ Selvili Tepe 1023m)
+    - Cyprus
+        - Olympus 1952m
         - all year
         - 4-5 days
     - Norway
