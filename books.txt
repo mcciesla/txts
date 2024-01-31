@@ -325,6 +325,7 @@ POP.SCIENCE :
         Fryderyk II Hohenstauf - Cesarz Rzymski ; Jerzy Hauziński
         Fulford-Stamford Bridge 1066 ; Cezary Namirski
         Furia ludzi Północy - Dzieje świata Wikingów ; Philip Parker
+        Gabiene 316 p.n.e. ; Michał Piekarski
         Galia belgijska 57-51 p.n.e. ; Tomasz Romanowski
         Geniusz Chin: 3000 lat nauki, odkryć i wynalazków ; Robert Temple
         Goci - Rzeczywistość i legenda ; Jerzy Strzelczyk
@@ -1322,6 +1323,7 @@ Lem , Stanisław - Astronauci - O
                 - Tajemnica Chińskiego Pokoju - O
                 - Tako rzecze Lem , ze Stanisławem Lemem rozmawia Stanisław Bereś - O
                 - Teksty Ostatnie - O
+                - Wielkość urojona - O
                 - Wysoki Zamek - O
 Lofting , Hugh - Doktor Dolittle i zielona kanarzyca - POL
 Lomová , Ivana ; Lomová , Lucie - Anča a Pepík na stopě - O
@@ -1701,6 +1703,17 @@ Sapkowski , Andrzej - Wiedźmin
                             - Pani jeziora - O
                             - Sezon Burz - O
                             - Wieża jaskółki - O
+                    - Maladie i inne opowiadania - O
+                            - Droga, z której się nie wraca - O
+                            - Muzykanci - O
+                            - Tandaradei! - O
+                            - W leju po bombie - O
+                            - Coś się kończy, coś się zaczyna - O
+                            - Bitewny pył - O
+                            - Złote popołudnie - O
+                            - Zdarzenie w Mischief Creek - O
+                            - Spanienkreuz - O
+                            - Maladie - O
 Scisłowski , Włodzimierz ; Mrowiński , Stanisław - Tańczące grządki - O
 Shakespeare , William - Makbet - POL
 Sienkiewicz , Henryk - Krzyżacy - O

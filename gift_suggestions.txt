@@ -18,12 +18,14 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy - Richard Hanania
       - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
       - The Empire of the Steppes: A History of Central Asia - René Grousset
+      - Poczet faraonów - Bogusław Kwiatkowski
       - Masters of Doom - David Kushner
+      - Weje 405-396 p.n.e. - Daniel Gazda
       - Babilon 729-648 p.n.e. - Piotr Biziuk
       - Wojny markomańskie 162-185 n.e. - Marek Olędzki
       - Vercellae 101 p.n.e. - Paweł Rochala
       - Ktezyfont 363 - Adrian Drabik
-      - Gabiene 316 p.n.e. - Michał Piekarski - Magda
+      - Bibracte-Wogezy 58 p.n.e. - Tomasz Romanowski
       - Obertyn 1531 - Marek Plewczyński
       - Massalia 49 p.n.e. - Tomasz Romanowski
       - Principles of Population Genetics - Daniel L. Hartl, Andrew G. Clark
@@ -34,6 +36,8 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Kynoskefalaj 197 p.n.e. - Krzysztof Kęciek
       - Magnezja 190 p.n.e. - Krzysztof Kęciek
       - Wojna Czu z Han 209-202 p.n.e - Maciej Kuczyński
+      - Clontarf 1014 - Cezary Namirski
+      - Termopile 480 p.n.e. - Paweł Kupsik
       - Warriors and Worriers: The Survival of the Sexes - Joyce F. Benenson
       - The Strategy of Conflict - Thomas C. Schelling
       - Proofs from THE BOOK - Martin Aigner, Günter M. Ziegler
@@ -76,13 +80,15 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Myth of the Framework: In Defence of Science and Rationality - Karl Popper
       - The Origins of Knowledge and Imagination - Jacob Bronowski
       - On Liberty - John Stuart Mill
-      - The Extended Phenotype - Richard Dawkins - Magda
       - Niemcza 1017 - Paweł Rochala
+      - Kraj Głomaczów 1003 - Mariusz Samp
+      - Newel 1562 - Marek Plewczyński
       - Połock 1579 - Dariusz Kupisz
       - Grenada 1492 - Roman Warszewski
       - Manzikert 1071 - Stanisław Rek
       - Oliwa 1627 - Eugeniusz Koczorowski
       - Wiedeń 1683 - Leszek Podhorodecki
+      - Moskwa 1612 - Tomasz Bohun
       - Moskwa 1617-1618 - Andrzej Adam Majewski
       - Chojnice 1454, Świecino 1462 - Bernard Nowaczyk
       - Płowce 1331 - Piotr Strzyż
@@ -100,6 +106,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Warna 1444 - Edward Potkowski
       - Kircholm 1605 -	Henryk Wisner
       - Batoh 1652 - Wojciech Jacek Długołęcki
+      - Ateny-Sparta 431-404 p.n.e - Ryszard Kulesza
       - The Nurture Assumption - Judith Rich Harris
       - A Profile of Mathematical Logic - Howard DeLong
       - No Two Alike - Judith Rich Harris
@@ -189,7 +196,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
                 - Prowokacja
                 - Biblioteka XXI wieku
                 - Wejście na orbitę
-                - Wielkosc urojona - Magda
     Thorgal - wszystkie komiksy oprocz :
                                   - 1. Zdradzona czarodziejka
                                   - 3. Nad jeziorem bez dna

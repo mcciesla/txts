@@ -880,10 +880,10 @@ Emirat Amasji
   Bibliografia :
       Myriokefalon 1176
 
-Amathus ( Amathos )
+Amathus ( Amathos , Amatos )
+  Androkles z Amatos                                    przed 322 p.n.e.-? ( wg G.316.P.N.E. )
   Bibliografia :
-      Foiničané
-      Zrození Řecka
+      Gabiene 316 p.n.e.
 
 Amazonki
   Penthesilea            	                              ? ( wg T. )
@@ -2109,6 +2109,7 @@ County of Armagnac
 Armenia ( Arménie )
   Tigranes Erwanduni	                                  ok.550 p.n.e. ( wg A.Č. )
   Orontes                          	                    ok.320 ( wg A.Č. )
+                                                        ? ( wg G.316.P.N.E. )
   Sames                       	                        ok.260 ( wg A.Č. )
   Arsames                    	                          ok.260-ok.230 ( wg A.Č. )
   Kserkses                   	                          ok.230-ok.212 ( wg A.Č. )
@@ -2239,6 +2240,7 @@ Armenia ( Arménie )
       Krassus - Polityk niespełnionych ambicji
       Dynasties of the World - A Chronological and Genealogical Handbook
       Konstantynopol 626
+      Gabiene 316 p.n.e.
 
 Armoryka ( Armorykanie )
   Aelian  	                                            ? ( wg H. )
@@ -2921,10 +2923,13 @@ Ateny ( Athens , Atény , Athény , Athènes , Athen )
   Thirty Tyrants
     Critias                                             ? ( wg H.O.W.P. ) ( Kritiás wg Ř.M.M.A.Ř. )
   strategos
+    Leostenes                                           ?-323 (?-jesień) ( wg G.316.P.N.E. )
+    Antifilos                                           przed 322-? ( wg G.316.P.N.E. )
     Fókión               		                            przed 321-po 319 ( wg S.H. )
                                                         przed 319-? ( wg Ř.M.M.A.Ř. )
   Demétrios z Faléru	                                  317-307 ( wg S.H. )
                                                         przed 315-307 ( Démétrios z Faléru wg Ř.M.M.A.Ř. )
+                                                        318-? (lato-?) ( Demetriusz z Faleronu wg G.316.P.N.E. )
   Lácháres                                              pryed 295-? (początek-?) ( wg Ř.M.M.A.Ř. )
   archons
     Peithidémos                                         268/5-267/4 ( wg Ř.M.M.A.Ř. )
@@ -2961,6 +2966,7 @@ Ateny ( Athens , Atény , Athény , Athènes , Athen )
       Historia Starożytna - Podręcznik do nauki historii w klasie szóstej szkół ogólnokształcących
       Řecko mezi Makedonií a Římem
       Kadesz 1274 p.n.e.
+      Gabiene 316 p.n.e.
 
 Atintánové
   Bibliografia :
@@ -6557,12 +6563,14 @@ Chersonez Tracki
       		  	                                          ok.525 ( Miltiadés wg T. )
       			                                            524/518/516-? ( Miltiades Mladší wg K.Ř. )
   Miltiades III	                                        ok.496-493 ( wg D.G. )
+  Hektiasz                                              przed 336-po 322 ( wg G.316.P.N.E. )
   Bibliografia :
       Antické Černomoří
       Dzieje Grecji
       Historia Powszechna – Starożytność
       Thrákové
       Klasické Řecko
+      Gabiene 316 p.n.e.
 
 Cheruskowie
   Segestes       	                                      ? ( wg Ř.V.G. )
@@ -10790,7 +10798,7 @@ Egipt ( Egypt , Kemet , Ta Meri , Czarna Ziemia )
       Dariusz III Kodomanos    	                        335-330 ( wg D.Ś. ) ( Darius III (Darius III Codomannus) wg D.O.T.W.A.C.A.G.H. )
   Okres Macedoński
     Argeadzi
-  Królestwo Ptolemeuszy ( Dynastia Ptolemeuszy , The Ptolemaic Dynasty , Ptolemies , Ptolemeusze , Lagovci , Dynastie Lagovců , Dynastia Ptolomeuszy , Lagidzi )
+  Królestwo Ptolemeuszy ( Dynastia Ptolemeuszy , The Ptolemaic Dynasty , Ptolemies , Ptolemeusze , Lagovci , Dynastie Lagovců , Dynastia Ptolomeuszy , Lagidzi , Dynastia Lagidów )
     Ptolemeusz I Soter                                 	323-282 ( wg D.Ś. i A.Č. ) ( Ptolemy I (Ptolemy I Soter, Soter) wg D.O.T.W.A.C.A.G.H. )
                                                        	323-285 ( wg V.N.M.S.D. )
       							  	                                ok.312 ( wg F. )
@@ -10804,12 +10812,13 @@ Egipt ( Egypt , Kemet , Ta Meri , Czarna Ziemia )
       								                                  305-283 ( Ptolemaios I Sótér wg E.P. )
                                                         305-282 ( Ptolemaios I. Sotér (Ptolemaios) wg S.P. )
                                                         305-po 287 (?.11.-?) ( Ptolemaios (Ptelemaeus, Ptolemaeus, Tolemeo I, Ptolemaios I.) wg Ř.M.M.A.Ř. )
+                                                        przed 322-po 318 ( Ptolemeusz (Ptolemy I, Ptolemy Soter) wg G.316.P.N.E. )
     Ptolemeusz II Filadelf                             	282-246 ( wg D.Ś. i A.Č. ) ( Ptolemaios II Filadelfos wg S.K. ) ( Ptolemaios II. Filadelfos wg S.P. )
                                                         284/2-246( Ptolemy II (Ptolemy II Philadelphus) wg D.O.T.W.A.C.A.G.H. )
                                                         285-247 ( wg V.N.M.S.D. )
       							  	                                przed 273-? ( wg D.R. i K.R.I.C.R. i K.P.N.A. )
       							  	                                285-246 ( II Filadelfos wg S.C. ) ( Ptolemaios II Filadelfos wg E.P. i Ř.S.J.Ď.S. )
-      							         	                          ? ( Ptolemaios II wg T. ) ( Ptolemeusz II Filadelfiusz (Ptolemeusz II) wg Z.M.50.N.O. )
+      							         	                          ? ( Ptolemaios II wg T. ) ( Ptolemeusz II Filadelfiusz (Ptolemeusz II) wg Z.M.50.N.O. ) ( Ptolemeusz II wg G.316.P.N.E. )
       							  	                                przed 273-po 256 ( Ptolemaios II Filadelfos wg T.H.S. )
                                                         przed 285(283/2)-246 ( Ptolemaios II wg S.H. )
       								                                  ?-246 ( Ptolemaios II Filadelfos wg Ž.V.Ř.S. )
@@ -11167,6 +11176,7 @@ Egipt ( Egypt , Kemet , Ta Meri , Czarna Ziemia )
       The Holy Roman Empire - A Thousand Years of Europe's History
       Nikopolis 1396
       Mohacz 1526
+      Gabiene 316 p.n.e.
 
 Egrisi
   Bibliografia :
@@ -11411,14 +11421,16 @@ Epidauros
       Dzieje Grecji
       Starożytne Cywilizacje
 
-Epir ( Epirus , L’Épire )
+Epir ( Epirus , L’Épire , Związek Epirocki )
   Alexandr          	                                  ?-331 ( wg S.H. )
       			                                            przed 336-330 ( Alexandr I wg K.Ř. )
                                                         Neoptolemos	317-312 i 307-297 ( wg S.K. )
-      			                                            ? ( Neoptolemos I wg K.Ř. )
+      			                                            ? ( Neoptolemos I wg K.Ř. ) ( Aleksander Epirocki wg G.316.P.N.E. )
                                                         przed 337-po 336 (?-lato) ( wg Ř.M.M.A.Ř. )
   Aiakidés           	                                  przed 316-? ( wg S.K. )
                                                         ? ( wg Ř.M.M.A.Ř. )
+                                                        przed 318-317 (  Ajakides wg G.316.P.N.E.)
+  Likios                                                317-? (koniec-?) ( wg G.316.P.N.E. )
   Pyrrus II         	                                  285-272 ( wg V.N.M.S.D. )
       			                                            ok.280 ( wg F. )
       			                                            przed 282-po 275 ( Pyrrus wg D.R. )
@@ -11426,7 +11438,7 @@ Epir ( Epirus , L’Épire )
       			                                            przed 280-272 ( Pyrrus wg H.P.S. )
       			                                            przed 281-po 274 ( Pyrrus wg K.R.I.C.R. )
       			                                            przed 280-po 275 ( Pyrrhos wg S.K. ) ( Pyrrus wg H.S.P.D.N.H.W.K.S.S.O. )
-      			                                            ? ( Pyrrhos wg T.H.S. ) ( Pyrrhós wg Z.V.C. ) ( Pyrrus wg G.R.I.L. )
+      			                                            ? ( Pyrrhos wg T.H.S. ) ( Pyrrhós wg Z.V.C. ) ( Pyrrus wg G.R.I.L. ) ( Pyrrus (Pyrrus z Epiru) wg G.316.P.N.E. )
       	  		                                          przed 288-272 ( Pyrrhos wg S.H. )
       			                                            przed 279-272 ( Pyrrhos wg E.P. )
                                                         przed 280-? ( Pyrrhos wg Ř.S.J.Ď.S. ) ( Pyrrus wg N.I.B.W.XI.S. ) ( Pyrrhos (Pyrrus) wg H.3.P.N.E. )
@@ -11473,6 +11485,7 @@ Epir ( Epirus , L’Épire )
       Historia Starożytna - Podręcznik do nauki historii w klasie szóstej szkół ogólnokształcących
       Řecko mezi Makedonií a Římem
       Hydaspes 326 p.n.e.
+      Gabiene 316 p.n.e.
 
 County of Erbach
   Bibliografia :
@@ -14342,6 +14355,10 @@ Emirat Heraklei [Heraclea Cybistra]
   Hasan                                                 przed 1097 n.e.-?
   Bibliografia :
       Normanowie i Bizancjum w XI stuleciu
+
+Heraklea Ftiotydzka
+  Bibliografia :
+      Gabiene 316 p.n.e.
 
 Herakleja Pontyjska
   Dionizjos                                             ok.331 p.n.e.
@@ -17426,7 +17443,9 @@ Kao'czang ( Turfan )
 Kapadocja ( Kappadocie )
   Ariarates I                                           350-322 ( wg D.Ś.  )
       					         	                              ? ( Ariaratthés wg S.H. )
+                                                        331-322 ( Ariarates wg G.316.P.N.E. )
   Eumenes                                              	322-312 ( wg V.N.M.S.D. )
+                                                        ? ( Eumenes z Kardii (Eumenes, Eumenes of Cardia) wg G.316.P.N.E. )
   Ariarates I                                         	312-288 ( wg V.N.M.S.D. )
   Ariarates II                                         	300-280 ( wg D.Ś. )
                                                      	  288-248 ( wg V.N.M.S.D. )
@@ -17470,6 +17489,7 @@ Kapadocja ( Kappadocie )
       Kronika Rzymu i Cesarstwa Rzymskiego
       Řecko mezi Makedonií a Římem
       Myriokefalon 1176
+      Gabiene 316 p.n.e.
 
 Kapena
   Bibliografia :
@@ -20650,6 +20670,10 @@ Laké
 
 Lakszmibar
 
+Lamia
+  Bibliografia :
+      Gabiene 316 p.n.e.
+
 Lampsakos ( Lampsacus )
   Bibliografia :
       Dzieje Grecji
@@ -22031,7 +22055,7 @@ Mabras
 
 Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
   Karanos                                               813-729 ( wg V.N.M.S.D. )
-  Dynastia Temenidów ( Temenid Dynasty , Argeadzi )
+  Dynastia Temenidów ( Temenid Dynasty , Argeadzi , Ród Argeadów , Temenid Monarchy )
     Perdikkas I                                         ok.650-? ( wg D.Ś. i A.Č. ) ( Perdiccas I wg D.O.T.W.A.C.A.G.H. )
                                                         729-678 ( wg V.N.M.S.D. )
 				     	                                          ok.640 ( wg S.C. i Z.Ř. )
@@ -22088,18 +22112,18 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
     Aleksander II                        	              370-368 ( wg D.Ś. i A.Č. )
                                                         371-369 ( wg V.N.M.S.D. )
 				    	                                          369-368 ( Aleksander wg D.G. ) ( Alexander II wg D.O.T.W.A.C.A.G.H. )
-					                                              ? ( Alexandr II wg K.Ř. ) ( Alexandr II. wg Ř.M.M.A.Ř. )
+					                                              ? ( Alexandr II wg K.Ř. ) ( Alexandr II. wg Ř.M.M.A.Ř. ) ( wg G.316.P.N.E. )
     Ptolemeusz z Aloros            	                    368-365 ( wg D.Ś. i A.Č. ) ( Ptolemeusz wg D.G. ) ( Ptolemy of Alorus wg D.O.T.W.A.C.A.G.H. )
                                                         369/8-365 ( Ptolemaios z Alóru wg Ř.M.M.A.Ř. )
     Perdikkas III                         	            365-359 ( wg D.Ś. i A.Č. i H.P.S. ) ( Perdikkas wg D.G. ) ( Perdiccas III wg D.O.T.W.A.C.A.G.H. )
                                                         369-359 ( wg V.N.M.S.D. )
 					                                              365/4-359 ( wg K.Ř. )
-                                                        365-360/59 ( Perdikkás III. wg Ř.M.M.A.Ř. )
+                                                        365-360/59 ( Perdikkás III. wg Ř.M.M.A.Ř. ) ( wg G.316.P.N.E. )
     Amyntas                                	            359-?     ( wg D.G. )
     Filip II Macedoński               	                359-336 ( wg A.Č. i D.Ś. i V.N.M.S.D. i S.C. i D.P.I.R.G. i H.P.S. i S.K. ) ( Filip II Makedonský wg E.P. i K.Ř. ) ( Philip II wg D.O.T.W.A.C.A.G.H. ) ( Filip II (Filip) wg H.S.P.D.N.H.W.K.S.S.O. )
 				    	                                          ?-336 ( wg 100.N.V.S. )
 				    	                                          358-336 ( Filip wg D.G. )
-					                                              ? ( wg D.R. ) ( Filip Makedonský wg T.P.Ž.C. ) ( Filip Macedoński wg O.A.O.C.E. ) ( Philip wg S.A.B.H.O.H. i H.O.W.P. ) ( Filip wg Z.O. ) ( Filip II (Philip II, Filip) wg H.3.P.N.E. )
+					                                              ? ( wg D.R. ) ( Filip Makedonský wg T.P.Ž.C. ) ( Filip Macedoński wg O.A.O.C.E. ) ( Philip wg S.A.B.H.O.H. i H.O.W.P. ) ( Filip wg Z.O. ) ( Filip II (Philip II, Filip) wg H.3.P.N.E. ) ( Filip II (Filip) wg G.316.P.N.E. )
 				    	                                          przed 358-po 339 ( wg T. )
 				    	                                          przed 338-336 ( wg T.H.S. )
   				    	                                        ?-336 ( ?-lato ) ( wg S.H. )
@@ -22129,12 +22153,14 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
                                                         przed 325-? ( Alexander the Great wg P.W.A.D. )
                                                         336-324 ( Aleksander Macedoński (Aleksander) wg H.S.P.D.N.H.W.K.S.S.O. )
                                                         ?-323 ( Alexander the Great wg R.E.P.A.T.M.O.M. ) ( Aleksander Wielki (Aleksander) wg Arab. ) ( Alexander the Great (Alexander, Alexander 'the Great') wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 334-323 (?-11.6.) ( Aleksander (Alexndr, Aleksander Wielki, Alexander the Great, Alexander, Aleksander III Macedoński) wg G.316.P.N.E. )
     Filip III Arridaios                  	              323-317 ( wg D.Ś. i A.Č. i V.N.M.S.D. i H.P.S. i S.K. ) ( Philip III (Arrhidaeus) wg D.O.T.W.A.C.A.G.H. )
 				    	                                          323-? ( wg D.G. )
 				    	                                          ok.320 ( wg T. )
 				    	                                          323-po 318 ( wg S.H. )
 					                                              323-316 ( wg E.P. )
                                                         przed 322-po 317 ( Arrhidaios (Philip III Arrhidaios) wg Ř.M.M.A.Ř. )
+                                                        323-317 (?.6/7.-?) ( Arridajos (Filip III, Filip, Arridajos-Filip, Philip Arrhideus, Arrhidzeus) wg G.316.P.N.E. )
     Aleksander IV                       	              317-309 ( wg D.Ś. i A.Č. ) ( Alexander IV wg D.O.T.W.A.C.A.G.H. )
 		                                                    ? ( wg D.G. )
                                                         323-310 ( wg H.P.S. i S.K. )
@@ -22142,6 +22168,14 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
 				    	                                          przed 321-po 311 ( Alexandr IV wg S.H. )
 					                                              ?-310/9 ( Alexandr wg E.P. )
                                                         przed 322-po 311 ( Alexandr wg Ř.M.M.A.Ř. )
+                                                        323/2-310 (?.6/7./przed ?.9.-?) ( wg G.316.P.N.E. )
+    regenci
+      Perdikkas                                         323-320 (lato-?.5/6.) ( wg G.316.P.N.E. )
+      Peithon                                           320 (?.5/6.-?.8.) ( wg G.316.P.N.E. )
+      Arridajos                                         320 (?.5/6.-?.8.) ( wg G.316.P.N.E. )
+      Antypater                                         320-319 (?.8.-lato) ( wg G.316.P.N.E. )
+      Polyperchon                                       319-316 (lato-wiosna) ( wg G.316.P.N.E. )
+      Eurydyka                                          ?-317 ( wg G.316.P.N.E. )
   Kratésipolis                              	          ?-308 ( wg S.H. )
   Dynastia Antygonidów ( Antigonid Dynasty , Dynasty of Antigonids , Antigoniden , The Antigonids )
     Antygon I Jednooki             	                    306-301 ( wg A.Č. i D.Ś. i V.N.M.S.D. ) ( Antigonos Jednooký wg S.K. ) ( Antigonus I (Antigonus I the One-eyed) wg D.O.T.W.A.C.A.G.H. ) ( Antigonos (Antigonos Monofthalmos, Antigonus I, Antigonos Jednooký, Antigonos the One-Eyed, Antigonos Monophthalmos, Antigone, Antigonus) wg Ř.M.M.A.Ř. )
@@ -22153,7 +22187,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
                                                         ? ( Antigonos Monofthalmos wg E.P. ) ( Antigonus wg H.O.W.P. )
                                                         przed 301-? ( Antigonos Jednooký (Antigonos) wg S.P. )
                                                         przed 304-po 303 ( Antygonos Jednooki wg H.3.P.N.E. )
-                                                        ?-301 ( Antygon Jednooki (Antygon) wg Arab. )
+                                                        ?/przed 319-301 ( Antygon Jednooki (Antygon) wg Arab. ) ( Antygon Jednooki (Antigonus Monopthalmus, Cyklop, Jednooki, Antygon, Monopthalmos, Antigonus the One-Eyed, Antigonus, Antigonus Monophthalmus) wg G.316.P.N.E. )
   Dynastia Kassandra ( Dynasty of Cassander )
     Kassander               	                          305-297 ( wg D.Ś. i A.Č. ) ( Kassandros wg E.P. )
                                               	        317-296 ( wg V.N.M.S.D. )
@@ -22164,6 +22198,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
 			   	                                              305(315)-297 ( ?-wiosna) ( Kassandros wg S.H. )
                                                         304-297 ( Cassander wg D.O.T.W.A.C.A.G.H. )
                                                         315-298/7 (?-?/wiosna) ( Kassandros (Cassander) wg Ř.M.M.A.Ř. )
+                                                        ? ( Kasander wg G.316.P.N.E. )
     Filip IV                   	                        297 ( wg D.Ś. i A.Č. i S.H. ) ( Philip IV wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Filip (Philip IV of Macedonia) wg Ř.M.M.A.Ř. )
     Aleksander V          	                            297-294 ( wg D.Ś. i A.Č. ) ( Alexander V wg D.O.T.W.A.C.A.G.H. )
@@ -22183,6 +22218,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
 					                                              306(294)-? ( Démétrios I Poliorkétés wg E.P. )
                                                         ? ( Démétrios Poliorkétés (Obléhatel, Ničitel měst, Démétrios II.) wg S.P. ) ( Demetriusz Poliorketes wg H.3.P.N.E. )
                                                         306-286/5 (?-zima) ( Démétrios Poliorkétés (Démétrios Dobyvatel měst, Démétrios, Demetrius Poliorcetes, Demetriu, Demetrio Poliorcete, Demetrios, Demetrios Poliorketes) wg Ř.M.M.A.Ř. )
+                                                        przed 301-? ( Demetriusz (Demetriusz Poliorketes) wg G.316.P.N.E. )
     Pyrrus z Epiru                          	          287-285 i 274-272 ( wg D.Ś. i A.Č. ) ( Pyrrhus of Epirus wg D.O.T.W.A.C.A.G.H. )
                                                         274-272 ( wg V.N.M.S.D. )
     Lizymach                                 	          285-281 ( wg D.Ś. i A.Č. i S.C. ) ( Lysimachus wg D.O.T.W.A.C.A.G.H. )
@@ -22216,7 +22252,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
     Filip V Macedoński                 	                221-179 ( wg D.Ś. i A.Č. i D.R. i S.C. i H.P.S. i S.K. ) ( Philip V wg D.O.T.W.A.C.A.G.H. ) ( Filip V. (Filip, Philip V, Philipp, Philipp V., Philip, Philip V of Macedon) wg Ř.M.M.A.Ř. )
                                                         220-178 ( wg V.N.M.S.D. )
 				      	                                        ok.215 ( wg F. )
-				      	                                        ? ( Filip V Makedonský wg A.O.M.S.K.R. ) ( Phillip wg K.P.N.A. ) ( wg Z.M.50.N.O. ) 
+				      	                                        ? ( Filip V Makedonský wg A.O.M.S.K.R. ) ( Phillip wg K.P.N.A. ) ( wg Z.M.50.N.O. ) ( Filip V wg G.316.P.N.E. )
 				       	                                        przed 215-179 ( wg K.R.I.C.R. )
 				       	                                        przed 211-po 202 ( wg T. )
 				       	                                        przed 216-? ( wg T.H.S. )
@@ -22313,6 +22349,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
       The Holy Roman Empire - A Thousand Years of Europe's History
       Nikopolis 1396
       Mohacz 1526
+      Gabiene 316 p.n.e.
 
 Machalata
   Bibliografia :
@@ -22537,6 +22574,7 @@ Mali Nambowie
 Malis
   Bibliografia :
       Dzieje Grecji
+      Gabiene 316 p.n.e.
 
 Mallia
   Bibliografia :
@@ -23038,6 +23076,7 @@ Imperium Maurjów ( Říše Maurjů , Mauryan Empire , Maurya Empire , The Maury
       				                                          322-298 ( Čandragupta wg E.P. )
                                                         ok.321-ok.297 ( Chandragupta Maurya wg D.O.T.W.A.C.A.G.H. )
                                                         przed 322-po 303 ( Sandrokottus (Czandragupta) wg H.3.P.N.E. )
+                                                        przed 305-po 303 ( Ćandragupta Maurja (Ćandragupta) wg G.316.P.N.E. )
     Bindusara                 	                        297-272 ( wg D.Ś. )
       				                                          293-268 ( Bindusára ( Amitragháta ) wg E.P. )
                                                         ok.297-ok.272 ( Bindusāra wg D.O.T.W.A.C.A.G.H. )
@@ -23081,6 +23120,7 @@ Imperium Maurjów ( Říše Maurjů , Mauryan Empire , Maurya Empire , The Maury
       Starověká Persie
       Hydaspes 326 p.n.e.
       Arabowie
+      Gabiene 316 p.n.e.
 
 Maurowie
 
@@ -23679,7 +23719,7 @@ Merw
   Bibliografia :
       Dzieje dawnych Turków
 
-Messenia ( Messénie )
+Messenia ( Messénie , Mesenia )
   Kresfontes                                            ok.1120 p.n.e.
   Bibliografia :
       Dzieje Grecji
@@ -24111,22 +24151,26 @@ Molossis
       Dzieje Grecji
 
 Królestwo Molossów ( Molossové )
-  Neoptolemos	                                          ? ( wg Z.Ř. i Ř.M.M.A.Ř. )
-  Tharyps          	                                    ? ( wg S.K. )
-  Admetos        	                                      ? ( wg D.G. )
-  Alketas            	                                  przed 375 p.n.e.-? ( wg D.G. )
+  Rodzina Ajakidów
+    Neoptolemos	                                        ? ( wg Z.Ř. i Ř.M.M.A.Ř. )
+    Tharyps          	                                  ? ( wg S.K. )
+    Admetos        	                                    ? ( wg D.G. )
+    Alketas            	                                przed 375 p.n.e.-? ( wg D.G. )
                                                         ? ( wg Ř.M.M.A.Ř. )
-  Arrybas             	                                przed 350-? ( wg S.K. )
-  Aleksander	                                          przed 350-po 330 ( wg D.G. )
+    Arrybas             	                              przed 350-? ( wg S.K. )
+    Neoptolemos I                                       ? ( wg G.316.P.N.E. )
+    Aleksander	                                        przed 350-po 330 ( wg D.G. )
                                                         przed 334 -po 332 ( wg D.R. )
       		         	                                    343/2-330 ( wg S.K. )
       		         	                                    przed 332-? ( wg K.R.I.C.R. )
+    Kleopatra                                           ? ( wg G.316.P.N.E. )
   Bibliografia :
       Dzieje Grecji
       Dzieje Rzymu
       Sedm Kleopater
       Kronika Rzymu i Cesarstwa Rzymskiego
       Řecko mezi Makedonií a Římem
+      Gabiene 316 p.n.e.
 
 Księstwo Mołdawii i Wołoszczyzny
   Aleksander Jan Cuza                                   1859-1866
@@ -26678,8 +26722,8 @@ Państwo Odoakra ( Królestwo Skirów i Turkilingów )
       Chlodwik król Franków
       The Holy Roman Empire - A Thousand Years of Europe's History
 
-Odrysowie ( Odrysové )
-  główni królowie
+Odrysowie ( Odrysové , Odrysi )
+  główni królowie ( Królestwo Odrysów )
     Teres I                              	              ok.450-po 440 ( wg A.Č. ) ( Térés wg T. )
       			                   	                        ? ( wg D.G. ) ( Tereus wg Z.Ř. )
     Sparadokos                       	                  ?-po 440 ( wg A.Č. i T. )
@@ -26704,6 +26748,7 @@ Odrysowie ( Odrysové )
       			 		                                        359-342/1 ( Kersobleptés wg T. )
       					                                        przed 352-? (wg K.Ř. )
     Seuthes III                         	              341-po 313 ( wg A.Č. ) ( Seuthés III wg T. )
+                                                        przed 325-po 320 ( Seutes III (Seutes) wg G.316.P.N.E. )
     Rhaizdos                            	              między 260-212/1 ( wg A.Č. )
       			 		                                        między 260-211 ( wg T. )
     Seuthés IV                    	                    ? ( wg T. )
@@ -26735,10 +26780,15 @@ Odrysowie ( Odrysové )
       Klasické Řecko
       Starověká Persie
       Řecko mezi Makedonií a Římem
+      Gabiene 316 p.n.e.
 
 Oea
   Bibliografia :
       Kartagina 149-146 p.n.e.
+
+Oetai
+  Bibliografia :
+      Gabiene 316 p.n.e.
 
 Państwo Oguzów
   Malik Szach                                           ? ( wg M.1176 )
@@ -26757,9 +26807,10 @@ Ojraci ( Orjati )
       Atlas čínských dějin
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
 
-Ojtaje
+Ojtaje ( Ojtaj )
   Bibliografia :
       Dzieje Grecji
+      Gabiene 316 p.n.e.
 
 Olbia
   Bibliografia :
@@ -27475,9 +27526,11 @@ Paflagonia
 Pafos
   Kinyras          	                                    ok.1200 p.n.e. ( wg D.G. )
   Eteandros	                                            przed 673/2-? ( wg Z.Ř. )
+  Nikokles z Pafos                                      przed 322-? ( wg G.316.P.N.E. )
   Bibliografia :
       Dzieje Grecji
       Zrození Řecka
+      Gabiene 316 p.n.e.
 
 Pajonia
   Lyppeus                                               przed 356 p.n.e.-?
@@ -28065,12 +28118,17 @@ Pelléné
   Bibliografia :
       Řecko mezi Makedonií a Římem
 
+Pelinna ( Pelinnea )
+  Bibliografia :
+      Gabiene 316 p.n.e.
+
 Pendżab ( Królestwo Parvatiya )
   Dynastia Paurava
     Poros          	                                    przed 326-ok.320/po 321 ( Parwatka wg H.3.P.N.E. )
                                                         ok.330 ( wg R.Z.A.D.D. i 100.N.V.S. )
       		  	                                          ok.326 ( wg D.G. i H.P.S. )
-      		  	                                          ? ( Póros wg S.H. )                                           
+      		  	                                          ? ( Póros wg S.H. )   
+                                                        przed 326-po 320 ( wg G.316.P.N.E. )
   Bibliografia :
       Rýžoviště zlata a doly drahokamů
       100 nejvlivnějších vojevůdců světa
@@ -28078,6 +28136,7 @@ Pendżab ( Królestwo Parvatiya )
       Historia Powszechna – Starożytność
       Svět helénismu
       Hydaspes 326 p.n.e.
+      Gabiene 316 p.n.e.
 
 Peoriowie
   Kinaboo            	                                  przed 1769 n.e.-? ( wg W.I.A.P. )
@@ -28301,7 +28360,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       				       	                                  404-? ( wg S.B.W. )
       				       	                                  405/4–359/8 ( ?-zima ) ( Artakserkses wg D.G. )
       				       	                                  przed 401-? ( wg H.P.S. )
-      					                                        ? ( Artaxerxes II wg M.P.M. ) ( Artakserkses II wg H.3.P.N.E. )
+      					                                        ? ( Artaxerxes II wg M.P.M. ) ( Artakserkses II wg H.3.P.N.E. i G.316.P.N.E. )
       					                                        404-358 ( Artaxerxes II wg K.Ř. ) ( Artaxerxés II. wg S.P. )
                                                         przed 401-po 375 (jesień-?) ( Artaxerxés II. (Artaxerxes, Artaxerxés) wg Ř.M.M.A.Ř. )
                                                         404-359/8 ( Artaxerxes II. wg S.N.A.S.E. )
@@ -28311,6 +28370,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       				        	                                przed 365-338 ( Artakserkses Ochos wg D.G. )
       					                                        ? ( wg H.P.S. ) ( Artaxerxés III wg S.H. )
                                                         359/8-338 ( Artaxerxés III. Ochós (Artaxerxes III) wg Ř.M.M.A.Ř. )
+                                                        przed 350-? ( Artakserkses wg G.316.P.N.E. )
       Arses                               	            337-336 ( wg A.Č. i D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Artaxerxés IV. wg D.S.B.V. )
                                                         338-336 ( wg V.N.M.S.D. i K.Ř. ) ( Arsés wg S.P. )
       				     	                                    po 338-? ( wg S.B.W. )
@@ -28321,7 +28381,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       				     	                                    przed 334-? ( Dariusz Kodomannos wg D.G. )
       				     	                                    przed 333-? ( Dáreios III wg S.K. )
       				     	                                    przed 333-330 ( Dáreios III wg S.H. )
-      					                                        przed 333-po 331 ( Dáreios III wg M.P.M. )
+      					                                        przed 333-po 331 ( Dáreios III wg M.P.M. ) ( Dariusz III wg G.316.P.N.E. )
       					                                        336-? ( Dareios III wg K.Ř. )
                                                         335-331 ( Dáreios III. wg D.S.B.V. )
                                                         przed 331-? ( Dariusz III wg B.5.5.P.N.E. )
@@ -28332,6 +28392,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       				     	                                    ok.330 ( Artaxerxés ( Béssos ) wg S.H. )
                                                         336-331/0 ( Dáreios III. Kodomannos (Dáreios III., Dáreios Kodomannos, Dáreios) wg S.P. )
                                                         330-328 ( Artakserkses V wg H.3.P.N.E. )
+                                                        przed 329-? ( wg G.316.P.N.E. )
   Dynastia Sasanidów ( Sasanid Dynasty , Sassanians , Sasanidzi , Sassanids , Sásánovci , Sásánovská dynastie , Cesarstwo Sasanidów , Imperium sasanidzkie , Sasanidzi )
     Ardaszir I                       	                  224-240 ( wg A.Č. )
                                                         224-241 ( wg D.Ś. i R.Z.A.D.D. ) ( Ardashīr I wg D.O.T.W.A.C.A.G.H. ) ( Ardašír I. (Ardašír) wg S.P. )
@@ -28571,6 +28632,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán )
       Kadesz 1274 p.n.e.
       The Holy Roman Empire - A Thousand Years of Europe's History
       Mohacz 1526
+      Gabiene 316 p.n.e.
 
 Peru
   Bibliografia :
@@ -29317,7 +29379,7 @@ Pomorze Szczecińskie ( Księstwo Pomorskie , Księstwo Zachodniopomorskie , Duc
 Pont ( Pontus )
   Mitrydates                                       	    337/6-302/1 ( wg A.Č. )
                                                         322-302 ( II wg V.N.M.S.D. )
-      					    	                                  ? ( Mithradatés wg S.K. )
+      					    	                                  ? ( Mithradatés wg S.K. ) ( Mitrydates II wg G.316.P.N.E. )
   Mithridatid Dynasty
     Mitrydates I                                        ok.302-281 ( Mithridates I wg D.O.T.W.A.C.A.G.H. )
                                                         301-281 ( Mithridatés I wg S.H. )
@@ -29398,6 +29460,7 @@ Pont ( Pontus )
       Zaginione miasta - 50 najsłynniejszych odkryć
       Starověká Persie
       Řecko mezi Makedonií a Římem
+      Gabiene 316 p.n.e.
 
 County of Ponthieu ( Hrabství Ponthieu )
   Gwidon I z Ponthieu                                   przed 1053-po 1064 ( Gwidon z Ponthieu (Gwidon, Gwidon I) wg F.L.P.D.Ś.W. )
@@ -30904,7 +30967,7 @@ Rzym ( Rome , Řím )
                                                         59 i 49-44 ( Gajusz Juliusz Cezar wg S.C. )
                                                         59 i 49-44 (?-15.3.) ( wg H.P.S. i K.R.I.C.R. i Z.V.C. )
                                                         przed 49-po 48 ( wg B.M. )
-                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. i K.6. i Z.P.B.W.A. i O.I.W. i K.1274.P.N.E. ) ( Cezar wg Z.N.E. i K.1018 i C.K.F. ) ( Cezar (Juliusz, G. Juliusz Cezar) wg G.R.I.L. ) ( Julius Caesar wg S.A.B.H.O.H. i O.M.T.O.A.T.E.O.I.L. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. ) ( Julius Caesar (Caesar) wg U.E. i S.V.D.K.V. i P.U.D. i T.F.O.R. i T.H.R.E.A.T.Y.O.E.H. ) ( Gajusz Juliusz wg P.U.D.D.L.D.R.I.P. ) ( Caesar wg H.O.W.P. i C.A.T.B.D.H.T.B.C.O.T. i C.A.R.T.G.O.S.K. ) ( C. Iulius Caesar (Caesar) wg S.N.A.S.E. )
+                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. i K.6. i Z.P.B.W.A. i O.I.W. i K.1274.P.N.E. ) ( Cezar wg Z.N.E. i K.1018 i C.K.F. i G.316.P.N.E. ) ( Cezar (Juliusz, G. Juliusz Cezar) wg G.R.I.L. ) ( Julius Caesar wg S.A.B.H.O.H. i O.M.T.O.A.T.E.O.I.L. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. ) ( Julius Caesar (Caesar) wg U.E. i S.V.D.K.V. i P.U.D. i T.F.O.R. i T.H.R.E.A.T.Y.O.E.H. ) ( Gajusz Juliusz wg P.U.D.D.L.D.R.I.P. ) ( Caesar wg H.O.W.P. i C.A.T.B.D.H.T.B.C.O.T. i C.A.R.T.G.O.S.K. ) ( C. Iulius Caesar (Caesar) wg S.N.A.S.E. )
                                                         ?-ok.44 ( wg T. )
                                                         59 i przed 48-44 ( ?-15.3. ) ( Caesar wg S.K. )
                                                         przed 47-po 44 ( wg S.H. )
@@ -31133,7 +31196,7 @@ Rzym ( Rome , Řím )
       Marcus Aurelius Antoninus Caracalla ( Karakalla )	211-217 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i D.R. i E.P. i Ž.V.Ř.S. ) ( Septimiusz Basianus Karakalla wg H.P.S. )
                                                         198/211-217 ( Caracalla (Marcus Aurelius Antoninus) wg D.O.T.W.A.C.A.G.H. )
                                                         198-217 (?-8.4.) ( wg P.C.R. i K.R.I.C.R. )
-    								                                    ? ( wg S.C. i Z.N.E. )
+    								                                    ? ( wg S.C. i Z.N.E. i G.316.P.N.E. )
     							      	                              przed 212-? ( wg D.B. ) ( Caracalla wg S.P. )
     							      	                              przed 212-po 213 ( wg Ř.V.G. )
     								                                    ?-217 ( wg Z.V.C. )
@@ -32176,6 +32239,7 @@ Rzym ( Rome , Řím )
       Nikopolis 1396
       Mohacz 1526
       Conjectures and Refutations - The Growth of Scientific Knowledge
+      Gabiene 316 p.n.e.
 
 Saamowie
   Svási                                                 ? ( wg F.L.P.D.Ś.W. )
@@ -32515,11 +32579,13 @@ Salamina Cypryjska
                                 	                      ? ( wg H.P.S. )
       			                                            przed 390-374 ( wg K.Ř. )
   Nikokles		                                          ok.374-? ( wg K.Ř. )
+  Nikokreon z Salamis                                   przed 322-? ( wg G.316.P.N.E. )
   Bibliografia :
       Dzieje Grecji
       Historia Powszechna – Starożytność
       Zrození Řecka
       Klasické Řecko
+      Gabiene 316 p.n.e.
 
 Księstwo Salerno ( Knížectví salernské , Duchy of Salerno )
   Grimoald III                                          788-po 792 ( Grimoald wg F.841 ) [Duke of Benevento]
@@ -33078,11 +33144,12 @@ Państwo Seldżuków w Iraku i zachodniej Persji
       Dynasties of the World - A Chronological and Genealogical Handbook
       Burzliwe dzieje Kalifatu Bagdadzkiego
 
-Królestwo Seleucydów ( Seleucid Empire , The Seleucid Dynasty , Seleukovci , Seleucids , The Seleucids , Dynastia Seleucydów , Seleucydzi , Seleukia )
+Królestwo Seleucydów ( Seleucid Empire , The Seleucid Dynasty , Seleukovci , Seleucids , The Seleucids , Dynastia Seleucydów , Seleucydzi , Seleukia , Dynastia Seleukidów )
   Seleukos I Nikator                                	  312-281 ( wg D.Ś. i A.Č. )
                                                         312-281 (jesień-?) ( Seleucus I (Seleucus I Nicator) wg D.O.T.W.A.C.A.G.H. )
                                                         312-280 ( wg V.N.M.S.D. )
-      					       	                                ? ( wg D.R. i Ř.S.J.Ď.S. ) ( Seleucus wg K.P.N.A. i H.O.W.P. )
+      					       	                                ? ( wg D.R. i Ř.S.J.Ď.S. ) ( Seleucus wg K.P.N.A. i H.O.W.P. ) 
+                                                        przed 305-po 303 ( Seleukos (Seleukos I, Seleuk) wg G.316.P.N.E. )
       					  	                                    przed 304-? ( Seleukos wg S.C. )
       					  	                                    przed 311-281 ( wg H.P.S. )
       					  	                                    przed 281-? ( Seleukos Nikator wg T. ) ( wg E.P. )
@@ -33119,7 +33186,7 @@ Królestwo Seleucydów ( Seleucid Empire , The Seleucid Dynasty , Seleukovci , S
   Antioch III Wielki                                	  223-187 ( wg V.N.M.S.D. i A.Č. i D.Ś. i S.C. i H.P.S. ) ( Antiochos III Veliký wg S.K. i S.H. ) ( Antiochus III (Antiochus III the Great, Antiochus 'the Great') wg D.O.T.W.A.C.A.G.H. )
                                                         242-187 ( wg S.A. i S.I. )
       					  	                                    przed 217-po 188 ( wg D.R. )
-      					  	                                    przed 190-? ( wg A.O.M.S.K.R. i B.5.5.P.N.E. ) ( Antioch wg H.3.P.N.E. )
+      					  	                                    przed 190-? ( wg A.O.M.S.K.R. i B.5.5.P.N.E. ) ( Antioch wg H.3.P.N.E. ) ( Antioch III wg G.316.P.N.E. )
       					  	                                    przed 200-po 188 ( wg K.R.I.C.R. ) ( Antioch III (Antioch Wielki) wg K.1.1.P.N.E. ) 
                                                         przed 200-187 ( Antiochos III. (Antiochus III, Antiochus, Antiochos III. der Große, Antiochus III, Antiochus the Great) wg Ř.M.M.A.Ř. )
       					  	                                    przed 189-? ( Antiochos III wg T. )
@@ -33172,6 +33239,7 @@ Królestwo Seleucydów ( Seleucid Empire , The Seleucid Dynasty , Seleukovci , S
       					    	                                  138-129 ( Antiochos VII Sidetés wg S.K. )
       					    	                                  przed 130-129 ( Antiochos VII wg S.H. ) ( Antioch VII Sidetes wg K.P.N.A. )
       						                                      przed 135-129 ( Antiochos VII Sidetés wg Ž.V.Ř.S. )
+                                                        ? ( Antioch VII wg G.316.P.N.E. )
   Aleksander II Zabinas                      	          128-122 ( wg D.Ś. i A.Č. ) ( Alexander II (Zabinas) wg D.O.T.W.A.C.A.G.H. )
       					    	                                  ? ( Alexandr wg S.K. )
   Himeros				    	                                  przed 126-po 123 ( wg S.B.W. )
@@ -33234,6 +33302,7 @@ Królestwo Seleucydów ( Seleucid Empire , The Seleucid Dynasty , Seleukovci , S
       Starověká Persie
       Řecko mezi Makedonií a Římem
       Hydaspes 326 p.n.e.
+      Gabiene 316 p.n.e.
 
 Selinunt
   Euryleon                                              ok.505 p.n.e.-?
@@ -33868,10 +33937,12 @@ Sokoto
       Mocarstwa Świata
 
 Soli
-  Filokypros	                                          ?
-  Aristokypros	                                        ?-497
+  Filokypros	                                          ? ( wg Z.Ř. )
+  Aristokypros	                                        ?-497 p.n.e. ( wg Z.Ř. )
+  Pazykrates z Soli                                     przed 322-? ( wg G.316.P.N.E. )
   Bibliografia :
       Zrození Řecka
+      Gabiene 316 p.n.e.
 
 County of Solms-Laubach
   Friedrich Ludwig of Solms-Laubach                     przed 1803-1822 ( Friedrich (Friedrich Ludwig, Friedrich Ludwig von Solms-Laubach) wg T.H.R.E.A.T.Y.O.E.H. )
@@ -33933,7 +34004,7 @@ Królestwo Sparty ( Sparta )
       				                                          ok.1120 ( wg D.G. )
   Eurysthenes            	                              1100-1058 ( wg V.N.M.S.D. )
   Prooles                    	                          1100-1058 ( wg V.N.M.S.D. )
-  Dynastia Agiadów ( Ágiovci )
+  Dynastia Agiadów ( Ágiovci , Ród Agiadów )
     Agis I                 	                            930-900 ( wg D.Ś. )
                                                	        1058-989 ( wg V.N.M.S.D. )
       			      	                                    ? ( Agis wg H.P.S. )
@@ -34075,7 +34146,7 @@ Królestwo Sparty ( Sparta )
       					                                        przed 366-338 ( wg K.Ř. )
     Agis III                                 	          338-331 ( wg D.Ś. )
       				       	                                  przed 333-331 (?-jesień) ( Agis wg D.G. )
-      				       	                                  przed 331-? ( Agis wg H.P.S. )
+      				       	                                  przed 331-? ( Agis wg H.P.S. i G.316.P.N.E. )
       				       	                                  ?-331 (?-jesień) ( Ágis III wg S.H. )
                                                         przed 333-331/0 (?-jesień(?.8./9.)/wiosna) ( Ágis III. (Ágis, Agis III., Agis) wg Ř.M.M.A.Ř. )
                                                         ? ( Agis wg H.3.P.N.E. )
@@ -34123,6 +34194,7 @@ Królestwo Sparty ( Sparta )
       Řecko mezi Makedonií a Římem
       Hydaspes 326 p.n.e.
       Bojowe szlaki pustynne
+      Gabiene 316 p.n.e.
 
 Speyer
   Biskupství Speyer ( Bishopric of Speyer )
@@ -34761,7 +34833,7 @@ Królestwo Sykulów
       Historia Powszechna – Starożytność
       Klasické Řecko
 
-Synopa
+Synopa ( Sinope )
   Timesiles		                                          ?
   Bibliografia :
       Antické Černomoří
@@ -36367,8 +36439,10 @@ Takin
 
 Taksila
   Ambhi                                                 przed 327-po 321 ( Taksiles (Omfis) wg H.3.P.N.E. )
+                                                        przed 323-po 320 ( Taksiles wg G.316.P.N.E. )
   Bibliografia :
       Hydaspes 326 p.n.e.
+      Gabiene 316 p.n.e.
 
 Tali
   Bibliografia :
@@ -36967,7 +37041,7 @@ Tracja ( Thrákie )
       			      	                                    przed 304-po 287 ( Lysimachos wg T.H.S. )
       			      	                                    323(305)-281 (?-wiosna) ( Lýsimachos wg S.H. )
                                                         323/304-? ( Lysimachus wg D.O.T.W.A.C.A.G.H. )
-                                                        ?-281 ( wg Z.M.50.N.O. )
+                                                        ?-281 ( wg Z.M.50.N.O. i G.316.P.N.E. )
                                                         305-281 (?-wiosna) ( Lýsimachos (Lysimachus) wg Ř.M.M.A.Ř. )
   Bibliografia  :
       Antické Černomoří
@@ -36983,6 +37057,7 @@ Tracja ( Thrákie )
       Dynasties of the World - A Chronological and Genealogical Handbook
       Zaginione miasta - 50 najsłynniejszych odkryć
       Řecko mezi Makedonií a Římem
+      Gabiene 316 p.n.e.
 
 Trakowie
   Rhésos          	                                    ok.1200 p.n.e. ( wg T. )
@@ -40927,5 +41002,6 @@ Bibliografia :
     [191] Nikopolis 1396 , Stanisław Rek , 2021
     [192] Mohacz 1526 , Stanisław Rek , 2020
     [193] Conjectures and Refutations - The Growth of Scientific Knowledge , Karl Popper , 2002
+    [194] Gabiene 316 p.n.e. , Michał Piekarski , 2021
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
