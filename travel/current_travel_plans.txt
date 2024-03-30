@@ -1,11 +1,11 @@
 current long term plans
-    - Thailand+Cambodia - good plane tickets
-    - Armenia - good plane tickets
-    - Cameroon
-    - Guatemala+Salvador+Honduras
-    - Singapore+Malaysia+Brunei+possibly some Indonesian island (Sumatra?)
-    - Togo
-    - Malawi
+    - Maroko
+    - Faeroe
+    - Namibia(+Angola)
+    - Thailand+Laos+Kambodja
+    - Jamaica
+    - Taiwan
+    - Vietnam
 Winter
     - all January-March
     - Zimni prechod Krkonos
@@ -34,19 +34,19 @@ Winter
 Europe highpoints
     - Spain
         - Teide 3718m
-        - all year
-        - 2-6 days
+        - Octobar-April
+        - 2-5 days
         - possible routes
             - from the sea and back as fast as possible (2-3 days)
-            - traverse of Tenerife (4-6 days)
+            - traverse of Tenerife (4-5 days)
     - Andorra
         - Pic de Comapedrosa 2943m
         - Late May-November
-        - 4-5 days
+        - 4 days
     - San Marino (retry)
         - Monte Titano 739m
         - all year (check that reconstruction finished)
-        - 2-3 days
+        - 2 days
     - Cyprus
         - Olympus 1952m
         - all year
@@ -58,11 +58,11 @@ Europe highpoints
     - Sweden
         - Kebnekaise 2096m
         - July-October
-        - 3 days
+        - 4-5 days (longer if climbing some other big mountains on the way)
     - Finland
         - Halti 1328m
         - June-March
-        - 6-8 days
+        - 4-5 days
     - Liechtenstein
         - Vorder Grauspitz 2599m
         - July-October
@@ -72,11 +72,11 @@ Europe highpoints
         - Dinara 1831m
         - all year
         - longer route continues to Troglav 1913m (in Bosnia)
-        - 3-5 days (shorter route 2 days)
+        - 4-5 days (shorter route 2 days)
     - Bosnia and Hercegovina
         - Maglic 2386m
         - May-November
-        - 4-5 days
+        - 3-4 days
     - Montenegro
         - Zla Kolata 2535m
         - May-November
@@ -88,16 +88,16 @@ Europe highpoints
         - Deravica 2656m (probably 2nd highest)
             - May-November
             - ideally from Montenegro (not completely legal and safe?) 3-4 days
-            - from Kosovo 3 days
+            - from Kosovo 2-3 days
         - Rudoka 2658m
             - May-November
             - 2-3 days
-            - can combine with Golem Korab 2764m (highest in Albania and Macedonia) - 4-6 days
+            - can combine with Golem Korab 2764m (highest in Albania and Macedonia) - 5 days
     - Albania/Macedonia
         - Golem Korab 2764m
         - May-November
         - 3-4 days
-        - can combine with Rudoka 2658m (highest in Kosovo) - 4-6 days
+        - can combine with Rudoka 2658m (highest in Kosovo) - 5 days
     - Bulgaria
         - Musala 2925m
         - Late May-November
@@ -105,7 +105,7 @@ Europe highpoints
     - Portugal
         - Torre 1993m (highest on the continent)
         - all year
-        - 3-4 days
+        - 2-3 days
     - Denmark
         - Slaettaratindur 880m (highest in Europe, excluding Greenland)
         - May-October
@@ -160,7 +160,7 @@ World (non-Europe) highpoints
         - Panama
             - Baru 3474m
             - December-March
-            - 2-3 days 
+            - 3 days 
     - Africa
         - Cape Verde
             - Fogo 2829m
@@ -284,6 +284,18 @@ World (non-Europe) highpoints
             - Khuiten Peak 4373m
             - summer
             - 8-11 days
+        - Taiwan
+            - April-May
+            - Holy Ridge
+                - 4-7 days
+                - mnoho dnu nad 3000m (max 3886m)
+                - hardest hike in Taiwan
+                - https://www.taiwanhikes.com/blog-posts/holy-ridge-trail.html
+                - https://www.taipeitimes.com/News/feat/archives/2022/11/11/2003788700
+                - https://hikingtaiwan.wordpress.com/2011/04/11/the-holy-ridge/
+                - https://hikingintaiwan.blogspot.com/2009/10/holy-ridge-days-3-4.html
+            - Yushan 3952m
+                - 3-5 days
 Alps
     - July-September
     - 4000+

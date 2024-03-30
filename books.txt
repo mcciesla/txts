@@ -111,6 +111,7 @@ BIOLOGIA:
     The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
     The Blank Slate ; Steven Pinker
     The Blind Watchmaker - Why the Evidence of Evolution Reveals a Universe Without Design ; Richard Dawkins
+    The Extended Phenotype - The Long Reach of the Gene ; Richard Dawkins
     The Language Instinct - How the Mind Creates Language ; Steven Pinker
     The Vital Question - Energy, Evolution, and the Origins of Complex Life ; Nick Lane
     Wspinaczka Na Szczyt Nieprawdopodobieństwa ; Richard Dawkins
@@ -169,6 +170,7 @@ SCIENCE :
         Wierzby - Salix Alba L. Salix fragilis L. ; Stefan Białobok , Krystyna Boratyńska , Adam Boratyński , Janina Borysiak , Władysław Chałupka , Jakub Dolatowski , Janusz B. Faliński , Jarosław Figaj , Maciej Giertych , Andrzej Grzywacz , Alina Hejnowicz , Piotr Kowalik , Janusz Surmiński , Bolesław Suszka , Alfred Szmidt
         First Signals - The Evolution of Multicellular Development ; John Tyler Bonner
         Speaking Our Minds : Why Human Communication is Different, and how Language Evolved to Make it Special ; Thom Scott-Phillips
+        The Extended Phenotype - The Long Reach of the Gene ; Richard Dawkins
 	FILOZOFIA:
 	    Filozofia Logiki ; George S. Boolos , Susan Haack , Ian Hacking , Jean van Heijenoort , Gilbert Ryle , Gila Sher , Leslie H. Tharp , Hao Wang
     FIZYKA:
