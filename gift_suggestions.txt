@@ -14,6 +14,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Category Theory for Programmers - Bartosz Milewski
       - Causality: Models, Reasoning, and Inference - Judea Pearl
       - Sea People: The Puzzle of Polynesia - Christina Thompson
+      - The Power of Babel: A Natural History of Language - John McWhorter
       - The Enigma of Reason - Dan Sperber, Hugo Mercier
       - The Plague Cycle: The Unending War Between Humanity and Infectious Disease - Charles Kenny
       - Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy - Richard Hanania
@@ -108,9 +109,11 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Kircholm 1605 -	Henryk Wisner
       - Batoh 1652 - Wojciech Jacek Długołęcki
       - Ateny-Sparta 431-404 p.n.e - Ryszard Kulesza
+      - Połonka-Basia 1660 - Marcin Gawęda
       - The Nurture Assumption - Judith Rich Harris
       - A Profile of Mathematical Logic - Howard DeLong
       - No Two Alike - Judith Rich Harris
+      - The Baroque Cycle - Neal Stephenson
       - Piranesi - Susanna Clarke
       - Category Theory for the Sciences - David I. Spivak
       - Type Theory and Formal Proof: An Introduction - Rob Nederpelt, Herman Geuvers
