@@ -1,6 +1,5 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Three-Body Problem (Problem trzech ciał/Problém tří těles) - Liu Cixin
-      - The Fall of Rome: And the End of Civilization - Bryan Ward-Perkins
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
       - Reading in the Brain: The New Science of How We Read - Stanislas Dehaene
@@ -17,6 +16,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Power of Babel: A Natural History of Language - John McWhorter
       - The Enigma of Reason - Dan Sperber, Hugo Mercier
       - The Plague Cycle: The Unending War Between Humanity and Infectious Disease - Charles Kenny
+      - Micromotives and Macrobehavior - Thomas C. Schelling
       - Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy - Richard Hanania
       - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
       - The Empire of the Steppes: A History of Central Asia - René Grousset
@@ -27,7 +27,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Wojny markomańskie 162-185 n.e. - Marek Olędzki
       - Vercellae 101 p.n.e. - Paweł Rochala
       - Ktezyfont 363 - Adrian Drabik
-      - Bibracte-Wogezy 58 p.n.e. - Tomasz Romanowski
       - Obertyn 1531 - Marek Plewczyński
       - Massalia 49 p.n.e. - Tomasz Romanowski
       - Principles of Population Genetics - Daniel L. Hartl, Andrew G. Clark
@@ -38,7 +37,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Kynoskefalaj 197 p.n.e. - Krzysztof Kęciek
       - Magnezja 190 p.n.e. - Krzysztof Kęciek
       - Wojna Czu z Han 209-202 p.n.e - Maciej Kuczyński
-      - Clontarf 1014 - Cezary Namirski
       - Termopile 480 p.n.e. - Paweł Kupsik
       - Warriors and Worriers: The Survival of the Sexes - Joyce F. Benenson
       - The Strategy of Conflict - Thomas C. Schelling
@@ -71,7 +69,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Amida 359 - Tomasz Szeląg
       - Kyme 474 p.n.e. - Marta Korczyńska-Zdąbłarz
       - Bałkany 1912-1913 - Robert Rabka
-      - Masada 66-73 - Bernard Nowaczyk
       - Wyprawa sycylijska 415-413 p.n.e. - Grzegorz Lach
       - Psków 1581-1582 - Dariusz Kupisz
       - Przemyśl 1656-1657 - Andrzej Borcz
@@ -83,14 +80,11 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Origins of Knowledge and Imagination - Jacob Bronowski
       - On Liberty - John Stuart Mill
       - Niemcza 1017 - Paweł Rochala
-      - Kraj Głomaczów 1003 - Mariusz Samp
-      - Newel 1562 - Marek Plewczyński
       - Połock 1579 - Dariusz Kupisz
       - Grenada 1492 - Roman Warszewski
       - Manzikert 1071 - Stanisław Rek
       - Oliwa 1627 - Eugeniusz Koczorowski
       - Wiedeń 1683 - Leszek Podhorodecki
-      - Moskwa 1612 - Tomasz Bohun
       - Moskwa 1617-1618 - Andrzej Adam Majewski
       - Chojnice 1454, Świecino 1462 - Bernard Nowaczyk
       - Płowce 1331 - Piotr Strzyż
@@ -142,7 +136,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Number Sense: How the Mind Creates Mathematics - Stanislas Dehaene
       - Objective Knowledge: An Evolutionary Approach - Karl Popper
       - Economics for the Common Good - Jean Tirole
-      - On the Origin of Species - Charles Darwin - Magda
       - The Sciences of the Artificial - Herbert A. Simon
       - An Illustrated Theory of Numbers - Martin H. Weissman
       - The Insect Societies - Edward O. Wilson
@@ -163,6 +156,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Real World Haskell - Bryan O'Sullivan, John Goerzen, Donald Bruce Stewart
       - Haskell High Performance Programming - Samuli Thomasson
       - Free Speech: A History from Socrates to Social Media - Jacob Mchangama
+      - Slavery and Social Death: A Comparative Study - Orlando Patterson
       - D Web Development - Kai Nacke
       - The Village Effect - Susan Pinker
       - Lying - Sam Harris
@@ -198,13 +192,15 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
     Stanislaw Lem
                 - Oblok Magellana
                 - Prowokacja
-                - Biblioteka XXI wieku
                 - Wejście na orbitę
     Thorgal - wszystkie komiksy oprocz :
                                   - 1. Zdradzona czarodziejka
                                   - 3. Nad jeziorem bez dna
                                   - 18. Słoneczny miecz
                                   - 19. Niewidzialna forteca
+                                  - 20. Piętno wygnańców
+                                  - 21. Korona Ogotaia
+                                  - 22. Giganci
 movies - The Act of Killing - Joshua Oppenheimer
        - The Look of Silence - Joshua Oppenheimer
        - Joseph Campbell and the Power of Myth
@@ -216,4 +212,5 @@ mountains
   - mobile power bank with solar panels
   - swiss knife (small)
   - container that would prevent accidental switching on of headlamp
-  - water filtration system - https://www.sawyer.com/products/micro-squeeze-water-filtration-system
+other
+  - printed and framed(or otherwise prepared for hanging on the wall) : https://github.com/usnish/biochemical-pathways-poster/blob/master/prebuilt_hires.png

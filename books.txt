@@ -105,6 +105,7 @@ BIOLOGIA:
     Červená královna - sexualita a vývoj lidské přirozenosti ; Matt Ridley
     Granice Życia ; John Postgate
     Natura umysłów ; Daniel C. Dennett
+    Oxygen - The molecule that made the world ; Nick Lane
     Rzeka genów ; Richard Dawkins
     Sobecký gen ; Richard Dawkins
     Speaking Our Minds : Why Human Communication is Different, and how Language Evolved to Make it Special ; Thom Scott-Phillips
@@ -217,6 +218,7 @@ POP.SCIENCE :
         Other Minds - The Octopus and the Evolution of Intelligent Life ; Peter Godfrey-Smith
         Opowiadania O Zwierzętach ; Jadwiga Wernerowa
         Osudy lidských společností: Střelné zbraně, choroboplodné zárodky a ocel v historii ; Jared Diamond
+        Oxygen - The molecule that made the world ; Nick Lane
         Problemy Biologii ; John Maynard Smith
         Ryba v nás , Cesta tři a půl miliardy let dlouhou historii lidského těla ; Neil Shubin
         Rzeka genów ; Richard Dawkins
