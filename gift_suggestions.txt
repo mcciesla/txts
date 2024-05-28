@@ -27,7 +27,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Wojny markomańskie 162-185 n.e. - Marek Olędzki
       - Vercellae 101 p.n.e. - Paweł Rochala
       - Ktezyfont 363 - Adrian Drabik
-      - Obertyn 1531 - Marek Plewczyński
       - Massalia 49 p.n.e. - Tomasz Romanowski
       - Principles of Population Genetics - Daniel L. Hartl, Andrew G. Clark
       - Crotone 982 - Robert F. Barkowski
@@ -36,7 +35,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Chocim 1673 - Damian Orłowski
       - Kynoskefalaj 197 p.n.e. - Krzysztof Kęciek
       - Magnezja 190 p.n.e. - Krzysztof Kęciek
-      - Wojna Czu z Han 209-202 p.n.e - Maciej Kuczyński
       - Termopile 480 p.n.e. - Paweł Kupsik
       - Warriors and Worriers: The Survival of the Sexes - Joyce F. Benenson
       - The Strategy of Conflict - Thomas C. Schelling
@@ -192,9 +190,10 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
     Stanislaw Lem
                 - Oblok Magellana
                 - Prowokacja
-                - Wejście na orbitę
+                - Wejście na orbitę - Magda
     Thorgal - wszystkie komiksy oprocz :
                                   - 1. Zdradzona czarodziejka
+                                  - 2. Wyspa wśród lodów - Magda
                                   - 3. Nad jeziorem bez dna
                                   - 18. Słoneczny miecz
                                   - 19. Niewidzialna forteca
