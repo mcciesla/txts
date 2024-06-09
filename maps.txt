@@ -1,0 +1,44 @@
+- Austria
+  - Alpy
+    - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen - Alpenverein - Stand:2015 - 1:500000
+    - Ennstaler Alpen Gesäuse - Alpenvereinskarte - 16 - 1:25000
+    - Feldkirch - Vaduz - Kompass - 21 - 1:50000
+    - Hochalmspitze-Ankogel - Alpenvereinskarte - 44 - 1:25000
+    - Karwendelgebirge Mitte - Alpenvereinskarte - 5/2 - 1:25000
+    - Niedere Tauern II : Östliche Radstädter- und westliche Schladminger Tauern - Alpenvereinskarte - 45/2 - 1:50000
+    - Schobergruppe - Alpenvereinskarte - 41 - 1:25000
+    - Sonnblick - Alpenvereinskarte - 42 - 1:25000
+    - Sölktäler + Rottenmanner Tauern + Seckauer Alpen - Kompass - 223 - 1:55000
+    - Tennengebirge - Alpenvereinskarte - 13 - 1:25000
+    - Totes Gebirge Mitte - Alpenvereinskarte - 15/2 - 1:25000
+    - Totes Gebirge Ost - Alpenvereinskarte - 15/3 - 1:25000
+    - Zillertaler Alpen West - Alpenvereinskarte - 35/1 - 1:25000
+- France
+  - Alpy
+    - St-Gervais-les-Bains : Massif du Mont Blanc - IGN - Carte Topographique Top 25 - 3531ET - 1:25000
+- Germany
+  - Alpy
+    - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen - Alpenverein - Stand:2015 - 1:500000
+- Italy
+  - Alpy
+    - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen - Alpenverein - Stand:2015 - 1:500000
+    - Arolla : Val de Bagnes - Val d'Hérens - Swisstopo - Carte Nationale de la Suisse/Carte d'Excursions Officielle de la FSTP - 283T - 1:50000
+    - Cervino Matterhorn e Monte Rosa - Instituto Geografico Centrale - Carta dei sentieri e dei rifugi - 5 - 1:50000
+    - Lago Maggiore + Lago di Varese - Kompass - 90 - 1:50000
+    - Marmolada - Pelmo + Civetta Moiazza - Tabacco - 015 - 1:25000
+    - Ortles - Cevedale/Ortlergebiet - Tabacco - 08 - 1:25000
+    - St-Gervais-les-Bains : Massif du Mont Blanc - IGN - Carte Topographique Top 25 - 3531ET - 1:25000
+    - Zillertaler Alpen West - Alpenvereinskarte - 35/1 - 1:25000
+- Liechtenstein
+  - Alpy
+    - Feldkirch - Vaduz - Kompass - 21 - 1:50000
+- Slovenia
+  - Alpy
+    - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen - Alpenverein - Stand:2015 - 1:500000
+- Switzerland
+  - Alpy
+    - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen - Alpenverein - Stand:2015 - 1:500000
+    - Arolla : Val de Bagnes - Val d'Hérens - Swisstopo - Carte Nationale de la Suisse/Carte d'Excursions Officielle de la FSTP - 283T - 1:50000
+    - Feldkirch - Vaduz - Kompass - 21 - 1:50000
+    - Cervino Matterhorn e Monte Rosa - Instituto Geografico Centrale - Carta dei sentieri e dei rifugi - 5 - 1:50000
+    - Lago Maggiore + Lago di Varese - Kompass - 90 - 1:50000
