@@ -40,11 +40,19 @@
     - Wiener Hausberge : Hohe Wand - Schneeberg - Rax - Semmering - Bucklige Welt - Mürztal ; Kompass ; 210 ; 1:25000
     - Zillertaler Alpen Ost ; Alpenvereinskarte ; 35/3 ; 1:25000
     - Zillertaler Alpen West ; Alpenvereinskarte ; 35/1 ; 1:25000
+  - Karpaty
+    - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
+    - Malé Karpaty - Juh ; VKÚ Harmanec ; 9 ; 1:25000
 - Czech Republic
   - Karpaty
     - Beskid Śląski ; Wydawnictwo Piętka ; 1:50000
     - Beskid Śląski i Pasmo Wielkiej Raczy ; Wydawnictwo Witański ; 1:50000
+    - Biele Karpaty - Trenčín ; VKÚ Harmanec ; 107 ; 1:50000
     - Istebna - Milówka - Rajcza - Węgierska Górka ; Galileos ; Plan Wrocław ; 6 ; 1:25000
+    - Javorníky - Čadca ; VKÚ Harmanec ; 109 ; 1:50000
+    - Javorníky - Púchov ; VKÚ Harmanec ; 108 ; 1:50000
+    - Kysucké Beskydy - Veľká Rača ; VKÚ Harmanec ; 101 ; 1:50000
+    - Malé Karpaty - Bradlo ; VKÚ Harmanec ; 129 ; 1:50000
   - Sudety
     - Góry Stołowe ; Galileos ; 1:30000
     - Karkonosze - mapa panoramiczna ; ExpressMap ; Comfort! map ; 1:33000
@@ -73,6 +81,11 @@
     - Wetterstein- und Mieminger Gebirge Mittleres Blatt ; Alpenvereinskarte ; 4/2 ; 1:25000
     - Wetterstein- und Mieminger Gebirge Östliches Blatt ; Alpenvereinskarte ; 4/3 ; 1:25000
   - Wyspa Wolin - Woliński Park Narodowy ; ExpressMap ; Comfort! map ; 1:50000
+- Hungary
+  - Karpaty
+    - Burda - Ipeľská pahorkatina ; VKÚ Harmanec ; 142 ; 1:50000
+    - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
+    - Slovenský kras ; TatraPlan ; 5037 ; 1:50000
 - Italy
   - Alpy
     - Adamello + La Presanella ; Kompass ; 71 ; 1:50000
@@ -105,6 +118,7 @@
     - Beskid Mały i Makowski ; ExpressMap ; Comfort! map ; 1:50000
     - Beskid Niski ; Compass ; 1:50000
     - Beskid Niski ; ExpressMap ; Comfort! map ; 1:70000
+    - Beskid Sądecki - Pieniny ; VKÚ Harmanec ; 159 ; 1:50000
     - Beskid Śląski ; Wydawnictwo Piętka ; 1:50000
     - Beskid Śląski i Pasmo Wielkiej Raczy ; Wydawnictwo Witański ; 1:50000
     - Beskid Wyspowy ; Compass ; Galileos ; 1:50000
@@ -112,16 +126,29 @@
     - Bieszczady ; Compass ; 1:50000
     - Bieszczady ; ExpressMap ; Comfort! map ; 1:65000
     - Bieszczady ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:75000
+    - Bieszczady - Bukovské vrchy ; VKÚ Harmanec ; 163 ; 1:50000
     - Bieszczady - Pogórze Przemyskie ; Demart ; 1:75000
+    - Čergov ; VKÚ Harmanec ; 104 ; 1:50000
     - Gorce ; Agencja Wydawnicza WIT ; 1:35000
     - Gorce ; Compass ; 1:40000
     - Gorce ; Compass ; Galileos ; 1:50000
+    - Gorce - Kotlina Nowotarska ; VKÚ Harmanec ; 158 ; 1:50000
     - Istebna - Milówka - Rajcza - Węgierska Górka ; Galileos ; Plan Wrocław ; 6 ; 1:25000
+    - Kysucké Beskydy - Veľká Rača ; VKÚ Harmanec ; 101 ; 1:50000
+    - Laborecká vrchovina - Dukla ; VKÚ Harmanec ; 106 ; 1:50000
+    - Ondavská vrchovina - Bardejov ; VKÚ Harmanec ; 105 ; 1:50000
+    - Orava - Beskid Żywiecki ; VKÚ Harmanec ; 102 ; 1:50000
+    - Pieninský národný park - Pieniński Park Narodowy ; VKÚ Harmanec ; 7 ; 1:25000
     - Pieniny + Szczawnica + Krościenko nad Dunajcem ; Galileos ; Wydawnictwo turystyczne Plan ; 1:25000
     - Pieniński Park Narodowy ; Wydawnictwo Gauss ; 1:20000/1:70000
+    - Spišská Magura - Pieniny ; VKÚ Harmanec ; 103 ; 1:50000
     - Tatry ; Demart ; 1:20000
     - Tatry ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:40000
     - Tatry Polskie 3w1 ; Agencja Wydawnicza WIT ; 1:20000
+    - Vysoké Tatry ; VKÚ Harmanec ; 2 ; 1:25000
+    - Vysoké Tatry ; VKÚ Harmanec ; 113 ; 1:50000
+    - Západné Tatry - Podbanské + Zverovka ; VKÚ Harmanec ; 3 ; 1:25000
+    - Západné Tatry - Roháče ; VKÚ Harmanec ; 112 ; 1:50000
   - Sudety
     - Góry Stołowe ; Galileos ; 1:30000
     - Karkonosze - mapa panoramiczna ; ExpressMap ; Comfort! map ; 1:33000
@@ -147,7 +174,7 @@
   - Pobrzeże Bałtyku - Die Ostseeküste Länderkarte - Od Dziwnowa do Kołobrzegu ; Galileos ; Wydawnictwo turystyczne Plan ; Wybrzeże Bałtyku z mapami Plan ; B ; 1:45000
   - Pojezierze Drawskie - część wschodnia ; Galileos ; Plan ; 1:50000
   - Pomorze ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:400000
-  - powiat Bocheński i okolice ; Regis ; 1:45000
+  - Powiat Bocheński i okolice ; Regis ; 1:45000
   - Powiat Krapkowicki i okolice ; Galileos ; 1:40000
   - Puszcza Kampinoska ; ExpressMap ; 1:35000
   - Puszcza Kampinoska ; ExpressMap ; Comfort! map ; 1:40000
@@ -166,19 +193,68 @@
   - Karpaty
     - Beskid Niski ; Compass ; 1:50000
     - Beskid Niski ; ExpressMap ; Comfort! map ; 1:70000
+    - Beskid Sądecki - Pieniny ; VKÚ Harmanec ; 159 ; 1:50000
     - Beskid Śląski ; Wydawnictwo Piętka ; 1:50000
     - Beskid Śląski i Pasmo Wielkiej Raczy ; Wydawnictwo Witański ; 1:50000
     - Beskid Żywiecki ; ExpressMap ; Comfort! map ; 1:50000
+    - Biele Karpaty - Trenčín ; VKÚ Harmanec ; 107 ; 1:50000
     - Bieszczady ; Compass ; 1:50000
     - Bieszczady ; ExpressMap ; Comfort! map ; 1:65000
     - Bieszczady ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:75000
+    - Bieszczady - Bukovské vrchy ; VKÚ Harmanec ; 163 ; 1:50000
     - Bieszczady - Pogórze Przemyskie ; Demart ; 1:75000
+    - Burda - Ipeľská pahorkatina ; VKÚ Harmanec ; 142 ; 1:50000
+    - Chočské vrchy - Vodná nádrž Liptovská Mara ; VKÚ Harmanec ; 111 ; 1:50000
+    - Čergov ; VKÚ Harmanec ; 104 ; 1:50000
+    - Gorce - Kotlina Nowotarska ; VKÚ Harmanec ; 158 ; 1:50000
     - Istebna - Milówka - Rajcza - Węgierska Górka ; Galileos ; Plan Wrocław ; 6 ; 1:25000
+    - Javorie - Ostrôžky ; VKÚ Harmanec ; 145 ; 1:50000
+    - Javorníky - Čadca ; VKÚ Harmanec ; 109 ; 1:50000
+    - Javorníky - Púchov ; VKÚ Harmanec ; 108 ; 1:50000
+    - Kysucké Beskydy - Veľká Rača ; VKÚ Harmanec ; 101 ; 1:50000
+    - Laborecká vrchovina - Dukla ; VKÚ Harmanec ; 106 ; 1:50000
+    - Levočské vrchy ; VKÚ Harmanec ; 114 ; 1:50000
+    - Malá Fatra - Martinské Hole ; VKÚ Harmanec ; 120 ; 1:50000
+    - Malá Fatra - Vrátna ; VKÚ Harmanec ; 110 ; 1:50000
+    - Malé Karpaty - Bradlo ; VKÚ Harmanec ; 129 ; 1:50000
+    - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
+    - Malé Karpaty - Juh ; VKÚ Harmanec ; 9 ; 1:25000
+    - Malé Karpaty - Sever ; VKÚ Harmanec ; 11 ; 1:25000
+    - Malé Karpaty - Stred ; VKÚ Harmanec ; 10 ; 1:25000
+    - Malé Karpaty - Záruby ; VKÚ Harmanec ; 128 ; 1:50000
+    - Národný park Malá Fatra ; VKÚ Harmanec ; 8 ; 1:25000
+    - Nízke Tatry - Chopok ; VKÚ Harmanec ; 122 ; 1:50000
+    - Nízke Tatry - Chopok + Čertovica ; VKÚ Harmanec ; 1 ; 1:25000
+    - Nízke Tatry - Kráľova Hoľa ; VKÚ Harmanec ; 123 ; 1:50000
+    - Nízke Tatry - letná turistická mapa ; Slovenská kartografia ; Súbor turistických máp ; 1:100000
+    - Ondavská vrchovina - Bardejov ; VKÚ Harmanec ; 105 ; 1:50000
+    - Orava - Beskid Żywiecki ; VKÚ Harmanec ; 102 ; 1:50000
+    - Pieninský národný park - Pieniński Park Narodowy ; VKÚ Harmanec ; 7 ; 1:25000
     - Pieniny + Szczawnica + Krościenko nad Dunajcem ; Galileos ; Wydawnictwo turystyczne Plan ; 1:25000
     - Pieniński Park Narodowy ; Wydawnictwo Gauss ; 1:20000/1:70000
+    - Podunajská rovina - Diakovce ; VKÚ Harmanec ; 153 ; 1:50000
+    - Poľana ; VKÚ Harmanec ; 133 ; 1:50000
+    - Slovenský kras ; TatraPlan ; 5037 ; 1:50000
+    - Slovenský raj ; VKÚ Harmanec ; 124 ; 1:50000
+    - Spiš, Levočské vrchy ; Shocart ; 1109 ; 1:50000
+    - Spišská Magura - Pieniny ; VKÚ Harmanec ; 103 ; 1:50000
+    - Stolické vrchy - Revúca ; VKÚ Harmanec ; 135 ; 1:50000
+    - Stražovské vrchy - Trenčianske Teplice ; VKÚ Harmanec ; 119 ; 1:50000
+    - Súľovské vrchy ; VKÚ Harmanec ; 157 ; 1:50000
+    - Štiavnické vrchy ; VKÚ Harmanec ; 138 ; 1:50000
     - Tatry ; Demart ; 1:20000
     - Tatry ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:40000
     - Tatry Polskie 3w1 ; Agencja Wydawnicza WIT ; 1:20000
+    - Trnavská pahorkatina - Senec ; VKÚ Harmanec ; 151 ; 1:50000
+    - Veľká Fatra ; VKÚ Harmanec ; 121 ; 1:50000
+    - Veporské vrchy ; VKÚ Harmanec ; 134 ; 1:50000
+    - Vihorlatské vrchy - Zemplínská Šírava ; VKÚ Harmanec ; 126 ; 1:50000
+    - Volovské vrchy - Krompachy ; VKÚ Harmanec ; 125 ; 1:50000
+    - Vtáčnik - Horná Nitra ; VKÚ Harmanec ; 131 ; 1:50000
+    - Vysoké Tatry ; VKÚ Harmanec ; 2 ; 1:25000
+    - Vysoké Tatry ; VKÚ Harmanec ; 113 ; 1:50000
+    - Západné Tatry - Podbanské + Zverovka ; VKÚ Harmanec ; 3 ; 1:25000
+    - Západné Tatry - Roháče ; VKÚ Harmanec ; 112 ; 1:50000
   - Szlak Architektury Drewnianej - Województwo Małopolskie ; Compass ; Województwo Małopolskie ; 1:200000
 - Slovenia
   - Alpy
@@ -202,4 +278,6 @@
     - Bieszczady ; Compass ; 1:50000
     - Bieszczady ; ExpressMap ; Comfort! map ; 1:65000
     - Bieszczady ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:75000
+    - Bieszczady - Bukovské vrchy ; VKÚ Harmanec ; 163 ; 1:50000
     - Bieszczady - Pogórze Przemyskie ; Demart ; 1:75000
+    - Vihorlatské vrchy - Zemplínská Šírava ; VKÚ Harmanec ; 126 ; 1:50000
