@@ -40,6 +40,8 @@
     - Wiener Hausberge : Hohe Wand - Schneeberg - Rax - Semmering - Bucklige Welt - Mürztal ; Kompass ; 210 ; 1:25000
     - Zillertaler Alpen Ost ; Alpenvereinskarte ; 35/3 ; 1:25000
     - Zillertaler Alpen West ; Alpenvereinskarte ; 35/1 ; 1:25000
+  - Ceska vrchovina
+    - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
   - Karpaty
     - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
     - Malé Karpaty - Juh ; VKÚ Harmanec ; 9 ; 1:25000
@@ -47,20 +49,48 @@
   - Karpaty
     - Beskid Śląski ; Wydawnictwo Piętka ; 1:50000
     - Beskid Śląski i Pasmo Wielkiej Raczy ; Wydawnictwo Witański ; 1:50000
+    - Beskydy ; Geodetický a kartografický podnik v Praze ; Soubor turistických map ; 1:100000
+    - Beskydy - automapa ; Geodetický a kartografický podnik v Praze ; Automapa ; 7 ; 1:200000
     - Biele Karpaty - Trenčín ; VKÚ Harmanec ; 107 ; 1:50000
     - Istebna - Milówka - Rajcza - Węgierska Górka ; Galileos ; Plan Wrocław ; 6 ; 1:25000
     - Javorníky - Čadca ; VKÚ Harmanec ; 109 ; 1:50000
     - Javorníky - Púchov ; VKÚ Harmanec ; 108 ; 1:50000
     - Kysucké Beskydy - Veľká Rača ; VKÚ Harmanec ; 101 ; 1:50000
     - Malé Karpaty - Bradlo ; VKÚ Harmanec ; 129 ; 1:50000
-  - Sudety
+    - Moravskosleyské Beskydy ; VKÚ Harmanec ; Edice KČT ; 96 ; 1:50000
+    - Slezské Beskydy a Jablunkovsko ; VKÚ Harmanec ; Edice KČT ; 97 ; 1:50000
+  - Ceska vrchovina
+    - Benešovsko a Dolní Posázaví ; KČT ; Edice KČT ; 40 ; 1:50000
+    - Brdy a Rokycansko ; VKÚ Harmanec ; Edice KČT ; 34 ; 1:50000
+    - Brdy a Třemšínsko ; VKÚ Harmanec ; Edice KČT ; 35 ; 1:50000
+    - Broumovsko, Góry Kamienne a Stołowe ; VKÚ Harmanec ; Edice KČT ; 26 ; 1:50000
+    - Chráněná krajinná oblast Kokořínsko - Mělnicko, Liběchovsko, Dubské a Mšenské skály, Máchovo jezero, Podbezdězí a Úštěcko ; Eurokart ; Geodézie On Line ; 1:25000
+    - Český ráj ; Eurokart ; Kartografie HP ; 1:25000
+    - Dolní Pojizeří - Mladoboleslavsko a Nymbursko ; KČT ; Edice KČT ; 17 ; 1:50000
     - Góry Stołowe ; Galileos ; 1:30000
+    - Haná - Prostějovsko, Konicko a Litovelsko ; KČT ; Edice KČT ; 51 ; 1:50000
+    - Havlíčkobrodsko ; VKÚ Harmanec ; Edice KČT ; 46 ; 1:50000
+    - Hřebeny a Slapská přehrada ; VKÚ Harmanec ; Edice KČT ; 38 ; 1:50000
+    - Ještědský hřbet ; Geodésie ČS ; KČT ; 1:25000
     - Karkonosze - mapa panoramiczna ; ExpressMap ; Comfort! map ; 1:33000
+    - Kolínsko a Kutnohorsko ; KČT ; Edice KČT ; 42 ; 1:50000
+    - Krušné hory - Chomutovsko a Mostecko ; VKÚ Harmanec ; Edice KČT ; 5 ; 1:50000
     - Masyw Śnieżnika + Góry Bialskie, Góry Złote, Krowiarki ; Galileos ; Plan Wrocław ; 1:40000
+    - Máchův kraj ; KČT ; Edice KČT ; 15 ; 1:50000
+    - Mělnicko a Kokořínsko ; KČT ; Edice KČT ; 16 ; 1:50000
+    - Okolí Prahy - západ ; VKÚ Harmanec ; Edice KČT ; 36 ; 1:50000
+    - Podřipsko ; KČT ; Edice KČT ; 9 ; 1:50000
+    - Prachovské skály ; Kartografie HP ; 1:7000
+    - Praha-Prčice - mapa pochodu ; Kartografie Praha ; 1:150000
     - Rychlebské hory - Góry Złote ; Galileos ; 1:40000
     - Sudety Środkowe ; ExpressMap ; Comfort! map ; 1:60000
     - Sudety Wschodnie ; ExpressMap ; Comfort! map ; 1:60000
+    - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
     - Ziemia Kłodzka ; ExpressMap ; Comfort! map ; 1:60000
+    - Zlatohorská vrchovina - Góry Opawskie ; JENA ; 1:50000
+    - Železné hory ; VKÚ Harmanec ; Edice KČT ; 45 ; 1:50000
+  - Opavsko ; KČT ; Edice KČT ; 59 ; 1:50000
+  - Ostravsko ; kartografie Praha ; Český svaz turistů ; Soubor turistických map ; 21 ; 1:100000
   - Rybnik, Żory, Jastrzębie-Zdrój, Wodzisław Śląski i okolice ; Galileos ; 1:50000
 - France
   - Alpy
@@ -80,6 +110,8 @@
     - Walchensee + Wallgau + Krün ; Kompass ; 6 ; 1:50000
     - Wetterstein- und Mieminger Gebirge Mittleres Blatt ; Alpenvereinskarte ; 4/2 ; 1:25000
     - Wetterstein- und Mieminger Gebirge Östliches Blatt ; Alpenvereinskarte ; 4/3 ; 1:25000
+  - Ceska vrchovina
+    - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
   - Wyspa Wolin - Woliński Park Narodowy ; ExpressMap ; Comfort! map ; 1:50000
 - Hungary
   - Karpaty
@@ -113,6 +145,18 @@
     - Alpy włoskie i austriackie - Mapa zimowa - Część II ; Gazeta Wyborcza ; 1:400000
     - Feldkirch - Vaduz ; Kompass ; 21 ; 1:50000
 - Poland
+  - Ceska vrchovina
+    - Broumovsko, Góry Kamienne a Stołowe ; VKÚ Harmanec ; Edice KČT ; 26 ; 1:50000
+    - Góry Stołowe ; Galileos ; 1:30000
+    - Karkonosze - mapa panoramiczna ; ExpressMap ; Comfort! map ; 1:33000
+    - Masyw Ślęży + Sobótka ; Galileos ; Wydawnictwo turystyczne Plan ; 1:25000
+    - Masyw Śnieżnika + Góry Bialskie, Góry Złote, Krowiarki ; Galileos ; Plan Wrocław ; 1:40000
+    - Rudawy Janowickie ; Galileos ; 1:25000
+    - Rychlebské hory - Góry Złote ; Galileos ; 1:40000
+    - Sudety Środkowe ; ExpressMap ; Comfort! map ; 1:60000
+    - Sudety Wschodnie ; ExpressMap ; Comfort! map ; 1:60000
+    - Ziemia Kłodzka ; ExpressMap ; Comfort! map ; 1:60000
+    - Zlatohorská vrchovina - Góry Opawskie ; JENA ; 1:50000
   - Karpaty
     - Beskid Mały ; Galileos ; Plan Wrocław ; 4 ; 1:25000
     - Beskid Mały i Makowski ; ExpressMap ; Comfort! map ; 1:50000
@@ -123,6 +167,8 @@
     - Beskid Śląski i Pasmo Wielkiej Raczy ; Wydawnictwo Witański ; 1:50000
     - Beskid Wyspowy ; Compass ; Galileos ; 1:50000
     - Beskid Żywiecki ; ExpressMap ; Comfort! map ; 1:50000
+    - Beskydy ; Geodetický a kartografický podnik v Praze ; Soubor turistických map ; 1:100000
+    - Beskydy - automapa ; Geodetický a kartografický podnik v Praze ; Automapa ; 7 ; 1:200000
     - Bieszczady ; Compass ; 1:50000
     - Bieszczady ; ExpressMap ; Comfort! map ; 1:65000
     - Bieszczady ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:75000
@@ -141,6 +187,7 @@
     - Pieninský národný park - Pieniński Park Narodowy ; VKÚ Harmanec ; 7 ; 1:25000
     - Pieniny + Szczawnica + Krościenko nad Dunajcem ; Galileos ; Wydawnictwo turystyczne Plan ; 1:25000
     - Pieniński Park Narodowy ; Wydawnictwo Gauss ; 1:20000/1:70000
+    - Slezské Beskydy a Jablunkovsko ; VKÚ Harmanec ; Edice KČT ; 97 ; 1:50000
     - Spišská Magura - Pieniny ; VKÚ Harmanec ; 103 ; 1:50000
     - Tatry ; Demart ; 1:20000
     - Tatry ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:40000
@@ -149,16 +196,6 @@
     - Vysoké Tatry ; VKÚ Harmanec ; 113 ; 1:50000
     - Západné Tatry - Podbanské + Zverovka ; VKÚ Harmanec ; 3 ; 1:25000
     - Západné Tatry - Roháče ; VKÚ Harmanec ; 112 ; 1:50000
-  - Sudety
-    - Góry Stołowe ; Galileos ; 1:30000
-    - Karkonosze - mapa panoramiczna ; ExpressMap ; Comfort! map ; 1:33000
-    - Masyw Ślęży + Sobótka ; Galileos ; Wydawnictwo turystyczne Plan ; 1:25000
-    - Masyw Śnieżnika + Góry Bialskie, Góry Złote, Krowiarki ; Galileos ; Plan Wrocław ; 1:40000
-    - Rudawy Janowickie ; Galileos ; 1:25000
-    - Rychlebské hory - Góry Złote ; Galileos ; 1:40000
-    - Sudety Środkowe ; ExpressMap ; Comfort! map ; 1:60000
-    - Sudety Wschodnie ; ExpressMap ; Comfort! map ; 1:60000
-    - Ziemia Kłodzka ; ExpressMap ; Comfort! map ; 1:60000
   - Dolinki Podkrakowskie ; Compass ; 1:25000
   - Gliwice i okolice ; Galileos ; Plan Wrocław ; 1:50000
   - Górnośląski Okręg Przemysłowy - mapa komunikacyjna ; Falk ; 1:65000
@@ -171,6 +208,8 @@
   - Nadmorski Park Krajobrazowy - Wybrzeże Bałtyku: Stilo-Władysławowo-Hel-Rewa ; ExpressMap ; Comfort! map ; 1:50000
   - Ojcowski Park Narodowy ; ExpressMap ; Comfort! map ; 1:25000
   - Okolice Krakowa ; Compass ; Galileos ; 1:50000
+  - Opavsko ; KČT ; Edice KČT ; 59 ; 1:50000
+  - Ostravsko ; kartografie Praha ; Český svaz turistů ; Soubor turistických map ; 21 ; 1:100000
   - Pobrzeże Bałtyku - Die Ostseeküste Länderkarte - Od Dziwnowa do Kołobrzegu ; Galileos ; Wydawnictwo turystyczne Plan ; Wybrzeże Bałtyku z mapami Plan ; B ; 1:45000
   - Pojezierze Drawskie - część wschodnia ; Galileos ; Plan ; 1:50000
   - Pomorze ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:400000
@@ -197,6 +236,8 @@
     - Beskid Śląski ; Wydawnictwo Piętka ; 1:50000
     - Beskid Śląski i Pasmo Wielkiej Raczy ; Wydawnictwo Witański ; 1:50000
     - Beskid Żywiecki ; ExpressMap ; Comfort! map ; 1:50000
+    - Beskydy ; Geodetický a kartografický podnik v Praze ; Soubor turistických map ; 1:100000
+    - Beskydy - automapa ; Geodetický a kartografický podnik v Praze ; Automapa ; 7 ; 1:200000
     - Biele Karpaty - Trenčín ; VKÚ Harmanec ; 107 ; 1:50000
     - Bieszczady ; Compass ; 1:50000
     - Bieszczady ; ExpressMap ; Comfort! map ; 1:65000
@@ -222,6 +263,7 @@
     - Malé Karpaty - Sever ; VKÚ Harmanec ; 11 ; 1:25000
     - Malé Karpaty - Stred ; VKÚ Harmanec ; 10 ; 1:25000
     - Malé Karpaty - Záruby ; VKÚ Harmanec ; 128 ; 1:50000
+    - Moravskosleyské Beskydy ; VKÚ Harmanec ; Edice KČT ; 96 ; 1:50000
     - Národný park Malá Fatra ; VKÚ Harmanec ; 8 ; 1:25000
     - Nízke Tatry - Chopok ; VKÚ Harmanec ; 122 ; 1:50000
     - Nízke Tatry - Chopok + Čertovica ; VKÚ Harmanec ; 1 ; 1:25000
@@ -234,6 +276,7 @@
     - Pieniński Park Narodowy ; Wydawnictwo Gauss ; 1:20000/1:70000
     - Podunajská rovina - Diakovce ; VKÚ Harmanec ; 153 ; 1:50000
     - Poľana ; VKÚ Harmanec ; 133 ; 1:50000
+    - Slezské Beskydy a Jablunkovsko ; VKÚ Harmanec ; Edice KČT ; 97 ; 1:50000
     - Slovenský kras ; TatraPlan ; 5037 ; 1:50000
     - Slovenský raj ; VKÚ Harmanec ; 124 ; 1:50000
     - Spiš, Levočské vrchy ; Shocart ; 1109 ; 1:50000

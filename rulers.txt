@@ -30977,7 +30977,7 @@ Rzym ( Rome , Řím )
                                                         59 i 49-44 ( Gajusz Juliusz Cezar wg S.C. )
                                                         59 i 49-44 (?-15.3.) ( wg H.P.S. i K.R.I.C.R. i Z.V.C. )
                                                         przed 49-po 48 ( wg B.M. )
-                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. i K.6. i Z.P.B.W.A. i O.I.W. i K.1274.P.N.E. ) ( Cezar wg Z.N.E. i K.1018 i C.K.F. i G.316.P.N.E. ) ( Cezar (Juliusz, G. Juliusz Cezar) wg G.R.I.L. ) ( Julius Caesar wg S.A.B.H.O.H. i O.M.T.O.A.T.E.O.I.L. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. ) ( Julius Caesar (Caesar) wg U.E. i S.V.D.K.V. i P.U.D. i T.F.O.R. i T.H.R.E.A.T.Y.O.E.H. ) ( Gajusz Juliusz wg P.U.D.D.L.D.R.I.P. ) ( Caesar wg H.O.W.P. i C.A.T.B.D.H.T.B.C.O.T. i C.A.R.T.G.O.S.K. ) ( C. Iulius Caesar (Caesar) wg S.N.A.S.E. )
+                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. i K.6. i Z.P.B.W.A. i O.I.W. i K.1274.P.N.E. ) ( Cezar wg Z.N.E. i K.1018 i C.K.F. i G.316.P.N.E. ) ( Cezar (Juliusz, G. Juliusz Cezar) wg G.R.I.L. ) ( Julius Caesar wg S.A.B.H.O.H. i O.M.T.O.A.T.E.O.I.L. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. ) ( Julius Caesar (Caesar) wg U.E. i S.V.D.K.V. i P.U.D. i T.F.O.R. i T.H.R.E.A.T.Y.O.E.H. ) ( Gajusz Juliusz wg P.U.D.D.L.D.R.I.P. ) ( Caesar wg H.O.W.P. i C.A.T.B.D.H.T.B.C.O.T. i C.A.R.T.G.O.S.K. i H.T.S.I.A.N.A.O.M.M. ) ( C. Iulius Caesar (Caesar) wg S.N.A.S.E. )
                                                         ?-ok.44 ( wg T. )
                                                         59 i przed 48-44 ( ?-15.3. ) ( Caesar wg S.K. )
                                                         przed 47-po 44 ( wg S.H. )
@@ -32250,6 +32250,7 @@ Rzym ( Rome , Řím )
       Mohacz 1526
       Conjectures and Refutations - The Growth of Scientific Knowledge
       Gabiene 316 p.n.e.
+      How to Solve It - A New Aspect of Mathematical Method
 
 Saamowie
   Svási                                                 ? ( wg F.L.P.D.Ś.W. )
@@ -41021,5 +41022,6 @@ Bibliografia :
     [194] Gabiene 316 p.n.e. , Michał Piekarski , 2021
     [195] The Extended Phenotype - The Long Reach of the Gene , Richard Dawkins , 1999
     [196] Oxygen - The molecule that made the world , Nick Lane , 2002
+    [197] How to Solve It - A New Aspect of Mathematical Method , George Pólya , 1990
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/

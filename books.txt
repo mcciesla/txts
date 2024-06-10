@@ -249,6 +249,7 @@ POP.SCIENCE :
         Gödel, Escher, Bach - existenciální gordická balada ; Douglas R. Hofstadter
         History of Western Philosophy ; Bertrand Russell
         Hovory s Janem Masarykem ; Viktor Fischl
+        How to Solve It - A New Aspect of Mathematical Method ; George Pólya
         Poszukiwanie języka doskonałego ; Umberto Eco
         Przewodnik po filozofii w sześć godzin i kwadrans ; Witold Gombrowicz
         Summa Technologiae ; Stanisław Lem
