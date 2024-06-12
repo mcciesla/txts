@@ -65,6 +65,7 @@
     - Brdy a Třemšínsko ; VKÚ Harmanec ; Edice KČT ; 35 ; 1:50000
     - Broumovsko, Góry Kamienne a Stołowe ; VKÚ Harmanec ; Edice KČT ; 26 ; 1:50000
     - Chráněná krajinná oblast Kokořínsko - Mělnicko, Liběchovsko, Dubské a Mšenské skály, Máchovo jezero, Podbezdězí a Úštěcko ; Eurokart ; Geodézie On Line ; 1:25000
+    - České Středohoří - východ ; KČT ; Edice KČT ; 11 ; 1:50000
     - Český ráj ; Eurokart ; Kartografie HP ; 1:25000
     - Dolní Pojizeří - Mladoboleslavsko a Nymbursko ; KČT ; Edice KČT ; 17 ; 1:50000
     - Góry Stołowe ; Galileos ; 1:30000
@@ -72,12 +73,16 @@
     - Havlíčkobrodsko ; VKÚ Harmanec ; Edice KČT ; 46 ; 1:50000
     - Hřebeny a Slapská přehrada ; VKÚ Harmanec ; Edice KČT ; 38 ; 1:50000
     - Ještědský hřbet ; Geodésie ČS ; KČT ; 1:25000
+    - Karkonosze czeskie - mapa zimowa - część IV ; Gazeta Wyborcza ; 1:40000
     - Karkonosze - mapa panoramiczna ; ExpressMap ; Comfort! map ; 1:33000
     - Kolínsko a Kutnohorsko ; KČT ; Edice KČT ; 42 ; 1:50000
     - Krušné hory - Chomutovsko a Mostecko ; VKÚ Harmanec ; Edice KČT ; 5 ; 1:50000
+    - Krušné hory - Teplicko ; VKÚ Harmanec ; Edice KČT ; 6 ; 1:50000
+    - Křivoklátsko a Rakovnicko ; VKÚ Harmanec ; Edice KČT ; 33 ; 1:50000
     - Masyw Śnieżnika + Góry Bialskie, Góry Złote, Krowiarki ; Galileos ; Plan Wrocław ; 1:40000
     - Máchův kraj ; KČT ; Edice KČT ; 15 ; 1:50000
     - Mělnicko a Kokořínsko ; KČT ; Edice KČT ; 16 ; 1:50000
+    - Národní parky České a Saské Švýcarsko ; KČT ; Edice KČT ; 12 ; 1:50000
     - Okolí Prahy - západ ; VKÚ Harmanec ; Edice KČT ; 36 ; 1:50000
     - Podřipsko ; KČT ; Edice KČT ; 9 ; 1:50000
     - Prachovské skály ; Kartografie HP ; 1:7000
@@ -111,6 +116,7 @@
     - Wetterstein- und Mieminger Gebirge Mittleres Blatt ; Alpenvereinskarte ; 4/2 ; 1:25000
     - Wetterstein- und Mieminger Gebirge Östliches Blatt ; Alpenvereinskarte ; 4/3 ; 1:25000
   - Ceska vrchovina
+    - Národní parky České a Saské Švýcarsko ; KČT ; Edice KČT ; 12 ; 1:50000
     - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
   - Wyspa Wolin - Woliński Park Narodowy ; ExpressMap ; Comfort! map ; 1:50000
 - Hungary
@@ -148,6 +154,7 @@
   - Ceska vrchovina
     - Broumovsko, Góry Kamienne a Stołowe ; VKÚ Harmanec ; Edice KČT ; 26 ; 1:50000
     - Góry Stołowe ; Galileos ; 1:30000
+    - Karkonosze czeskie - mapa zimowa - część IV ; Gazeta Wyborcza ; 1:40000
     - Karkonosze - mapa panoramiczna ; ExpressMap ; Comfort! map ; 1:33000
     - Masyw Ślęży + Sobótka ; Galileos ; Wydawnictwo turystyczne Plan ; 1:25000
     - Masyw Śnieżnika + Góry Bialskie, Góry Złote, Krowiarki ; Galileos ; Plan Wrocław ; 1:40000
