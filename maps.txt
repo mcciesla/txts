@@ -1,3 +1,17 @@
+- Albania
+  - Prokletije : planinarenje i biciklizam - Prokletije : hiking & biking ; Kartografija Huber doo ; 1:50000
+  - Wanderkarte Nordalbanien - Thethi und Kelmend ; Huber Verlag ; 1:50000
+- Algeria
+  - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
+- Andorra
+  - Pireneje
+    - Bourg-Madame - Col de Puymorens - Pic Carlit ; IGN ; Carte Topographique Top 25 ; 2249OT ; 1:25000
+- Argentina
+  - Bariloche y Angostura ; Cartografía Digital Pixmap ; 1:125000
+  - Mapa de los Siete Lagos ; Mapas Argenguide ; Latinbaires Editores S.R.L. ; 22 ; 1:500000
+  - Monte Tronador - Pampa Linda - Paso de las Nubes - Brazo Tristeza ; Pixmap ; Aoneker - mapas topograficos ; 1:50000
+  - Patagonia: Fitz Roy - Cerro Torre - Perito Moreno Glacier - Torres del Paine ; ExpressMap ; terraQuest ; 1:160000
+  - S.C. de Bariloche ; Cartografía Digital Pixmap ; 1:50000
 - Austria
   - Alpy
     - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen ; Alpenverein ; Stand:2015 ; 1:500000
@@ -42,9 +56,40 @@
     - Zillertaler Alpen West ; Alpenvereinskarte ; 35/1 ; 1:25000
   - Ceska vrchovina
     - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
+    - Vltava pod Vyšším Brodem a Blanský les ; VKÚ Harmanec ; Edice KČT ; 73 ; 1:50000
   - Karpaty
     - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
     - Malé Karpaty - Juh ; VKÚ Harmanec ; 9 ; 1:25000
+  - Pavlovské vrchy a Dolní Podyjí ; KČT ; Edice KČT ; 88 ; 1:50000
+  - Pomurje ; Kartografija ; 1:40000
+  - Štajerska : Slovenske Gorice - Haloze - Boč ; Kartografija ; 1:50000
+- Belgium
+  - Aachen und das Dreiländereck ; Kompass ; 757 ; 1:50000
+  - Clervaux - Huldange : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R1 ; 1:20000
+  - Hautes Fagnes - Hohes Venn - Hoge Venen ; Institut Geographique National - Nationaal Geografisch Instituut ; 1:25000
+  - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
+- Bosnia and Hercegovina
+  - Maglic - Veliki Vitao - Mratinje area from Soviet military map ; copied
+  - Dinara ; Hrvatska gorska služba spašavanja ; 1:25000
+  - Dinara ; Smand ; 40 ; 1:30000
+  - Dinara - Troglavska skupina - zapad ; Hrvatska gorska služba spašavanja ; 1:25000
+- Bulgaria
+  - Stara planina - Nature park prirode ; Geokarta ; 1:50000
+- Chile
+  - Bariloche y Angostura ; Cartografía Digital Pixmap ; 1:125000
+  - Mapa de los Siete Lagos ; Mapas Argenguide ; Latinbaires Editores S.R.L. ; 22 ; 1:500000
+  - Monte Tronador - Pampa Linda - Paso de las Nubes - Brazo Tristeza ; Pixmap ; Aoneker - mapas topograficos ; 1:50000
+  - Patagonia: Fitz Roy - Cerro Torre - Perito Moreno Glacier - Torres del Paine ; ExpressMap ; terraQuest ; 1:160000
+- Croatia
+  - Dinara ; Hrvatska gorska služba spašavanja ; 1:25000
+  - Dinara ; Smand ; 40 ; 1:30000
+  - Dinara - Troglavska skupina - zapad ; Hrvatska gorska služba spašavanja ; 1:25000
+  - Južni Velebit II ; Smand ; 18a ; 1:30000
+  - Kornati: Telaščica - Vransko jezero ; Trsat Polo ; nacionalni parkovi ; 1 ; 1:37000
+  - Nacionalni park Paklenica - National Park Paklenica ; Hrvatska gorska služba spašavanja ; 1:25000
+  - Pomurje ; Kartografija ; 1:40000
+  - South Velebit - Paklenica National Park Num.1 - Southeast Area: Velika and Mala Paklenica / Trekking National Park Paklenica - Starigrad/Paklenica ; Zadar County Tourist Board ; 1 ; 1:18000
+  - Štajerska : Slovenske Gorice - Haloze - Boč ; Kartografija ; 1:50000
 - Czech Republic
   - Karpaty
     - Beskid Śląski ; Wydawnictwo Piętka ; 1:50000
@@ -52,54 +97,108 @@
     - Beskydy ; Geodetický a kartografický podnik v Praze ; Soubor turistických map ; 1:100000
     - Beskydy - automapa ; Geodetický a kartografický podnik v Praze ; Automapa ; 7 ; 1:200000
     - Biele Karpaty - Trenčín ; VKÚ Harmanec ; 107 ; 1:50000
+    - Hostýnské vrchy ; VKÚ Harmanec ; Edice KČT ; 94 ; 1:50000
     - Istebna - Milówka - Rajcza - Węgierska Górka ; Galileos ; Plan Wrocław ; 6 ; 1:25000
     - Javorníky - Čadca ; VKÚ Harmanec ; 109 ; 1:50000
     - Javorníky - Púchov ; VKÚ Harmanec ; 108 ; 1:50000
+    - Javorníky - západ ; VKÚ Harmanec ; Edice KČT ; 95 ; 1:50000
     - Kysucké Beskydy - Veľká Rača ; VKÚ Harmanec ; 101 ; 1:50000
     - Malé Karpaty - Bradlo ; VKÚ Harmanec ; 129 ; 1:50000
     - Moravskosleyské Beskydy ; VKÚ Harmanec ; Edice KČT ; 96 ; 1:50000
     - Slezské Beskydy a Jablunkovsko ; VKÚ Harmanec ; Edice KČT ; 97 ; 1:50000
   - Ceska vrchovina
+    - Ašsko a Chebsko ; VKÚ Harmanec ; Edice KČT ; 1 ; 1:50000
     - Benešovsko a Dolní Posázaví ; KČT ; Edice KČT ; 40 ; 1:50000
     - Brdy a Rokycansko ; VKÚ Harmanec ; Edice KČT ; 34 ; 1:50000
     - Brdy a Třemšínsko ; VKÚ Harmanec ; Edice KČT ; 35 ; 1:50000
     - Broumovsko, Góry Kamienne a Stołowe ; VKÚ Harmanec ; Edice KČT ; 26 ; 1:50000
+    - Bruntálsko, Krnovsko a Osoblažsko ; KČT ; Edice KČT ; 58 ; 1:50000
     - Chráněná krajinná oblast Kokořínsko - Mělnicko, Liběchovsko, Dubské a Mšenské skály, Máchovo jezero, Podbezdězí a Úštěcko ; Eurokart ; Geodézie On Line ; 1:25000
+    - Česká Sibiř a Táborsko sever ; KČT ; Edice KČT ; 41 ; 1:50000
     - České Středohoří - východ ; KČT ; Edice KČT ; 11 ; 1:50000
+    - České Středohoří - západ ; VKÚ Harmanec ; Edice KČT ; 10 ; 1:50000
     - Český ráj ; Eurokart ; Kartografie HP ; 1:25000
+    - Český ráj ; VKÚ Harmanec ; Edice KČT ; 19 ; 1:50000
     - Dolní Pojizeří - Mladoboleslavsko a Nymbursko ; KČT ; Edice KČT ; 17 ; 1:50000
     - Góry Stołowe ; Galileos ; 1:30000
     - Haná - Prostějovsko, Konicko a Litovelsko ; KČT ; Edice KČT ; 51 ; 1:50000
     - Havlíčkobrodsko ; VKÚ Harmanec ; Edice KČT ; 46 ; 1:50000
+    - Hrubý Jeseník ; JENA ; 1:25000
+    - Hrubý Jeseník ; KČT ; Edice KČT ; 55 ; 1:50000
     - Hřebeny a Slapská přehrada ; VKÚ Harmanec ; Edice KČT ; 38 ; 1:50000
     - Ještědský hřbet ; Geodésie ČS ; KČT ; 1:25000
+    - Jizerské hory ; Geodézie ČS ; Edice Geobáze ; 513 ; 1:50000
+    - Karkonosze ; Demart : 1:25000
     - Karkonosze czeskie - mapa zimowa - część IV ; Gazeta Wyborcza ; 1:40000
     - Karkonosze - mapa panoramiczna ; ExpressMap ; Comfort! map ; 1:33000
     - Kolínsko a Kutnohorsko ; KČT ; Edice KČT ; 42 ; 1:50000
+    - Králický Sněžník ; VKÚ Harmanec ; Edice KČT ; 53 ; 1:50000
+    - Krkonoše-východ - Riesengebirge-ost ; VKÚ Harmanec ; KČT ; 1:25000
+    - Krkonoše-západ - Riesengebirge-west ; VKÚ Harmanec ; KČT ; 1:25000
     - Krušné hory - Chomutovsko a Mostecko ; VKÚ Harmanec ; Edice KČT ; 5 ; 1:50000
+    - Krušné hory - Karlovarsko - Porolaví, Jáchymovsko, Klínovec ; VKÚ Harmanec ; Edice KČT ; 4 ; 1:50000
+    - Krušné hory - Kraslicko ; VKÚ Harmanec ; Edice KČT ; 3 ; 1:50000
     - Krušné hory - Teplicko ; VKÚ Harmanec ; Edice KČT ; 6 ; 1:50000
     - Křivoklátsko a Rakovnicko ; VKÚ Harmanec ; Edice KČT ; 33 ; 1:50000
+    - Lounsko a Džbán ; VKÚ Harmanec ; Edice KČT ; 8 ; 1:50000
+    - Lužické hory ; Geodézie ČS ; Edice Geobáze ; 512 ; 1:50000
     - Masyw Śnieżnika + Góry Bialskie, Góry Złote, Krowiarki ; Galileos ; Plan Wrocław ; 1:40000
     - Máchův kraj ; KČT ; Edice KČT ; 15 ; 1:50000
     - Mělnicko a Kokořínsko ; KČT ; Edice KČT ; 16 ; 1:50000
     - Národní parky České a Saské Švýcarsko ; KČT ; Edice KČT ; 12 ; 1:50000
+    - Nízký Jeseník - Šternberk, Moravský Beroun, Budišov nad Budišovkou ; KČT ; Edice KČT ; 56 ; 1:50000
+    - Okolí Prahy - východ ; KČT ; Edice KČT ; 37 ; 1:50000
     - Okolí Prahy - západ ; VKÚ Harmanec ; Edice KČT ; 36 ; 1:50000
+    - Orlické hory ; VKÚ Harmanec ; Edice KČT ; 27 ; 1:50000
+    - Plzeňsko ; KČT ; Edice KČT ; 31 ; 1:50000
     - Podřipsko ; KČT ; Edice KČT ; 9 ; 1:50000
+    - Pošumaví - Vimpersko ; KČT ; Edice KČT ; 69 ; 1:50000
     - Prachovské skály ; Kartografie HP ; 1:7000
     - Praha-Prčice - mapa pochodu ; Kartografie Praha ; 1:150000
+    - Rychlebské hory a Lázně Jeseník ; KČT ; Edice KČT ; 54 ; 1:50000
     - Rychlebské hory - Góry Złote ; Galileos ; 1:40000
+    - Slavkovský les a Mariánské lázně ; KČT ; Edice KČT ; 2 ; 1:50000
     - Sudety Środkowe ; ExpressMap ; Comfort! map ; 1:60000
     - Sudety Wschodnie ; ExpressMap ; Comfort! map ; 1:60000
+    - Šumava - Povydří a národní park Bavorský les Nationalpark Bayerischer Wald ; KČT ; Edice KČT ; 65 ; 1:50000
     - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
+    - Šumava - Železnorudsko ; KČT ; Edice KČT ; 64 ; 1:50000
+    - Táborsko jih a Střední Lužnice ; VKÚ Harmanec ; Edice KČT ; 76 ; 1:50000
+    - Vltava pod Vyšším Brodem a Blanský les ; VKÚ Harmanec ; Edice KČT ; 73 ; 1:50000
+    - Zábřežsko - Moravská Třebová, Mohelnice, Uničov, Litovel ; KČT ; Edice KČT ; 52 ; 1:50000
     - Ziemia Kłodzka ; ExpressMap ; Comfort! map ; 1:60000
     - Zlatohorská vrchovina - Góry Opawskie ; JENA ; 1:50000
     - Železné hory ; VKÚ Harmanec ; Edice KČT ; 45 ; 1:50000
+  - Haná - Olomoucko ; KČT ; Edice KČT ; 57 ; 1:50000
   - Opavsko ; KČT ; Edice KČT ; 59 ; 1:50000
+  - Ostravsko - Hlučín, Bohumín, Ostrava, Karviná, Český Těšín, Frýdek-Místek, Havířov ; KČT ; Edice KČT ; 61-62 ; 1:50000
   - Ostravsko ; kartografie Praha ; Český svaz turistů ; Soubor turistických map ; 21 ; 1:100000
+  - Pavlovské vrchy a Dolní Podyjí ; KČT ; Edice KČT ; 88 ; 1:50000
   - Rybnik, Żory, Jastrzębie-Zdrój, Wodzisław Śląski i okolice ; Galileos ; 1:50000
 - France
   - Alpy
     - St-Gervais-les-Bains : Massif du Mont Blanc ; IGN ; Carte Topographique Top 25 ; 3531ET ; 1:25000
+  - Pireneje
+    - Bourg-Madame - Col de Puymorens - Pic Carlit ; IGN ; Carte Topographique Top 25 ; 2249OT ; 1:25000
+    - Foix - Tarascon-sur-Ariège ; IGN ; Top 25 ; 2147ET ; 1:25000
+  - Apt - PNR du Luberon ; IGN ; Top 25 Randonnée et plein air ; 3242OT ; 1:25000
+  - Béziers - Castres - PNR du Haut-Languedoc ; IGN ; Top100 Tourisme et découverte ; 169 ; 1:100000
+  - Carpentras - Vaison-la-Romaine - Dentelles de Montmirail ; IGN ; Top 25 Randonnée et plein air ; 3040ET ; 1:25000
+  - Cavaillon - Fontaine-de-Vaucluse - PNR du Luberon ; IGN ; Top 25 Randonnée et plein air ; 3142OT ; 1:25000
+  - Corte - Monte Cinto - PNR de Corse ; IGN ; Top 25 Randonnée et plein air ; 4250OT ; 1:25000
+  - Hyères - Île de Porquerolles ; IGN ; Top 25 Randonnée et plein air ; 3446OT ; 1:25000
+  - Île Ste Marguerite - Archipel des îles de Lérins ; RivieraLines - compagnie maritime
+  - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
+  - Massif du Sancy - PNR des Volcans d'Auvergne ; IGN ; Carte Topographique Top 25 ; 2432ET ; 1:25000
+  - Monte d'Oro - Monte Rotondo - PNR de Corse ; IGN ; Top 25 Randonnée et plein air ; 4251OT ; 1:25000
+  - Pertuis - Lourmarin - PNR du Luberon ; IGN ; Top 25 Randonnée et plein air ; 3243OT ; 1:25000
+  - Porto - Calanche de Piana - PNR de Corse ; IGN ; Carte Topographique Top 25 ; 4150OT ; 1:25000
+  - Saint-Rémy-de-Provence - Tarascon - Chaîne des Alpilles ; IGN ; Top 25 Randonnée et plein air ; 3042OT ; 1:25000
+  - Vico - Cargèse - Golfe de Sagone - PNR de Corse ; IGN ; Carte Topographique Top 25 ; 4151OT ; 1:25000
+- Georgia
+  - kaukaz
+    - Mt. Ushba, Mestia ; Geoland ; Geoland Maps - Trekking Maps ; 10 ; 1:50000
+    - Ushguli, Lashkheti, Mt. Shkhara ; Geoland ; Geoland Maps - Trekking Maps ; 8 ; 1:50000
 - Germany
   - Alpy
     - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen ; Alpenverein ; Stand:2015 ; 1:500000
@@ -116,14 +215,54 @@
     - Wetterstein- und Mieminger Gebirge Mittleres Blatt ; Alpenvereinskarte ; 4/2 ; 1:25000
     - Wetterstein- und Mieminger Gebirge Östliches Blatt ; Alpenvereinskarte ; 4/3 ; 1:25000
   - Ceska vrchovina
+    - Ašsko a Chebsko ; VKÚ Harmanec ; Edice KČT ; 1 ; 1:50000
+    - Krušné hory - Chomutovsko a Mostecko ; VKÚ Harmanec ; Edice KČT ; 5 ; 1:50000
+    - Krušné hory - Karlovarsko - Porolaví, Jáchymovsko, Klínovec ; VKÚ Harmanec ; Edice KČT ; 4 ; 1:50000
+    - Krušné hory - Kraslicko ; VKÚ Harmanec ; Edice KČT ; 3 ; 1:50000
+    - Krušné hory - Teplicko ; VKÚ Harmanec ; Edice KČT ; 6 ; 1:50000
+    - Lužické hory ; Geodézie ČS ; Edice Geobáze ; 512 ; 1:50000
     - Národní parky České a Saské Švýcarsko ; KČT ; Edice KČT ; 12 ; 1:50000
+    - Pošumaví - Vimpersko ; KČT ; Edice KČT ; 69 ; 1:50000
+    - Slavkovský les a Mariánské lázně ; KČT ; Edice KČT ; 2 ; 1:50000
+    - Šumava - Povydří a národní park Bavorský les Nationalpark Bayerischer Wald ; KČT ; Edice KČT ; 65 ; 1:50000
     - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
+    - Šumava - Železnorudsko ; KČT ; Edice KČT ; 64 ; 1:50000
+  - Aachen und das Dreiländereck ; Kompass ; 757 ; 1:50000
+  - Diekirch - Putscheid : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R3 ; 1:20000
+  - Clervaux - Huldange : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R1 ; 1:20000
+  - Harz - 2 Karten im Set ; Kompass ; 450 ; 1:50000
+  - Hautes Fagnes - Hohes Venn - Hoge Venen ; Institut Geographique National - Nationaal Geografisch Instituut ; 1:25000
+  - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
+  - Nördlicher Steigerwald - Bamberg 4in1 ; Kompass ; 167 ; 1:50000
   - Wyspa Wolin - Woliński Park Narodowy ; ExpressMap ; Comfort! map ; 1:50000
+- Greece
+  - Dion - Olympus Municipality - official map ; Dion - Olympus Municipality
+  - Νάξος - Nasso ; Freytag & Berndt ; 1:50000
+  - Oλυμπος - Mt Olympus ; Anavasi ; Anavasi Maps & Guides ; Topo 25 ; Macedonia 6.11 ; 1:25000 
 - Hungary
   - Karpaty
     - Burda - Ipeľská pahorkatina ; VKÚ Harmanec ; 142 ; 1:50000
     - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
+    - Mátra ; Cartographia A Térképszakértö - Cartographia Földgömb- és Térképbolt ; 14 ; 1:40000
     - Slovenský kras ; TatraPlan ; 5037 ; 1:50000
+  - Pomurje ; Kartografija ; 1:40000
+- Iceland
+  - Akureyri - Mývatn - Dettifoss ; Forlagið ; Sérkort ; 8 ; 1:120000/1:50000
+  - Askja - Herðubreið - Kverkfjöll ; Forlagið ; Sérkort ; 7 ; 1:100000/1:50000
+  - Borgarjörður ; Forlagið ; Sérkort ;  11 ; 1:100000/1:50000
+  - Eyjafjörður ; Forlagið ; Atlaskort ; 18 ; 1:100000
+  - Fljótsdalshérað ; Forlagið ; Atlaskort ; 27 ; 1:100000
+  - Gullfoss - Geysir - Hekla ; Forlagið ; Sérkort ; 2 ; 1:100000/1:50000
+  - Kjöllur - Langjökull - Kerlingarfjöll ; Forlagið ; Sérkort ; 3 ; 1:100000/1:50000
+  - Landmannalaugar - Þórsmörk - Fjallabak ; Forlagið ; Sérkort ; 4 ; 1:100000/1:50000
+  - Lónsöræfi - Snæfell ; Forlagið ; Sérkort ; 6 ; 1:100000/1:50000
+  - Reykjanes - Þingvellir ; Forlagið ; Sérkort ; 1 ; 1:100000/1:50000
+  - Skaftafell ; Forlagið ; Sérkort ; 5 ; 1:100000/1:50000
+  - Snæfellsnes ; Forlagið ; Sérkort ; 10 ; 1:100000/1:55000
+  - Suðvesturland - Southwest Iceland - Sud-ouest Islande - Süd West Island ; Ferðakort ; 1:75000
+  - Þórsmörk - Landmannalaugar ; Ferðakort ; 1:100000
+  - Veiðivötn ; Forlagið ; Atlaskort ; 15 ; 1:100000
+  - Vestfirðir - West Fjords ; Forlagið ; Sérkort ; 12 ; 1:200000/1:100000
 - Italy
   - Alpy
     - Adamello + La Presanella ; Kompass ; 71 ; 1:50000
@@ -146,19 +285,56 @@
     - Visp : Lötschberg - Südrampe - Brig - Simplon ; Landeskarte der Schweiz/Offizielle Wanderkarte der Schweizer Wanderwege ; 274T ; 1:50000
     - Zillertaler Alpen Ost ; Alpenvereinskarte ; 35/3 ; 1:25000
     - Zillertaler Alpen West ; Alpenvereinskarte ; 35/1 ; 1:25000
+  - Apeniny
+    - Amalfi Coast - map of the paths 2 - twenty four walks from Minori to Marina di Praia ; cart & guide ; 1:10000
+    - Amalfi Coast - map of the paths 3 - twenty walks from Conca dei Marini to Positano ; cart & guide ; 1:10000
+    - Amalfi Coast - map of the paths 4 - twenty walks from Positano to Punta Campanella ; cart & guide ; 1:10000
+    - Gran Sasso d'Italia - Parco Nazionale Gran Sasso-Laga ; S.E.L.C.A. ; Club Alpino Italiano - Sezione dell'Aquila ; 1:25000
+    - San Marino, San Leo, Urbino, Urbania - Parco Naturale del Sasso Simone e Simoncello ; Kompass ; 2455 ; 1:50000
+  - Capri ; Ordis s.r.l. - Piacenza ; Azienda Autonoma Cura Soggiorno e Turismo - Isola di Capri ; 1:10000
+  - Capri - map of the paths 5 - fourteen walks ; cart & guide ; 1:7000
 - Liechtenstein
   - Alpy
     - Alpy włoskie i austriackie - Mapa zimowa - Część II ; Gazeta Wyborcza ; 1:400000
     - Feldkirch - Vaduz ; Kompass ; 21 ; 1:50000
+- Luxembourg
+  - Diekirch - Putscheid : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R3 ; 1:20000
+  - Clervaux - Huldange : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R1 ; 1:20000
+  - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
+- Malta
+  - Malta, Gozo ; Kompass ; 235 ; 1:25000
+- Mauritania
+  - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
+- Montenegro
+  - Durmitor i Kanjon Tare - Nacionalni park Durmitor/Durmitor and Tara Canyon - Durmitor National Park ; Geokarta ; 1:25000
+  - Maglic - Veliki Vitao - Mratinje area from Soviet military map ; copied
+  - Prokletije : planinarenje i biciklizam - Prokletije : hiking & biking ; Kartografija Huber ; 1:50000
+  - Wanderkarte Nordalbanien - Thethi und Kelmend ; Huber Verlag ; 1:50000
+- Morocco
+  - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
+- Netherlands
+  - Aachen und das Dreiländereck ; Kompass ; 757 ; 1:50000
+- Northern Cyprus
+  - Zafer Burnu ; The Office of Tourism Promotion and Marketing ; North Cyprus - Walking Trails/Wanderwege ; 1:1000
 - Poland
   - Ceska vrchovina
     - Broumovsko, Góry Kamienne a Stołowe ; VKÚ Harmanec ; Edice KČT ; 26 ; 1:50000
+    - Bruntálsko, Krnovsko a Osoblažsko ; KČT ; Edice KČT ; 58 ; 1:50000
     - Góry Stołowe ; Galileos ; 1:30000
+    - Hrubý Jeseník ; JENA ; 1:25000
+    - Jizerské hory ; Geodézie ČS ; Edice Geobáze ; 513 ; 1:50000
+    - Karkonosze ; Demart : 1:25000
     - Karkonosze czeskie - mapa zimowa - część IV ; Gazeta Wyborcza ; 1:40000
     - Karkonosze - mapa panoramiczna ; ExpressMap ; Comfort! map ; 1:33000
+    - Králický Sněžník ; VKÚ Harmanec ; Edice KČT ; 53 ; 1:50000
+    - Krkonoše-východ - Riesengebirge-ost ; VKÚ Harmanec ; KČT ; 1:25000
+    - Krkonoše-západ - Riesengebirge-west ; VKÚ Harmanec ; KČT ; 1:25000
+    - Lužické hory ; Geodézie ČS ; Edice Geobáze ; 512 ; 1:50000
     - Masyw Ślęży + Sobótka ; Galileos ; Wydawnictwo turystyczne Plan ; 1:25000
     - Masyw Śnieżnika + Góry Bialskie, Góry Złote, Krowiarki ; Galileos ; Plan Wrocław ; 1:40000
+    - Orlické hory ; VKÚ Harmanec ; Edice KČT ; 27 ; 1:50000
     - Rudawy Janowickie ; Galileos ; 1:25000
+    - Rychlebské hory a Lázně Jeseník ; KČT ; Edice KČT ; 54 ; 1:50000
     - Rychlebské hory - Góry Złote ; Galileos ; 1:40000
     - Sudety Środkowe ; ExpressMap ; Comfort! map ; 1:60000
     - Sudety Wschodnie ; ExpressMap ; Comfort! map ; 1:60000
@@ -216,6 +392,7 @@
   - Ojcowski Park Narodowy ; ExpressMap ; Comfort! map ; 1:25000
   - Okolice Krakowa ; Compass ; Galileos ; 1:50000
   - Opavsko ; KČT ; Edice KČT ; 59 ; 1:50000
+  - Ostravsko - Hlučín, Bohumín, Ostrava, Karviná, Český Těšín, Frýdek-Místek, Havířov ; KČT ; Edice KČT ; 61-62 ; 1:50000
   - Ostravsko ; kartografie Praha ; Český svaz turistů ; Soubor turistických map ; 21 ; 1:100000
   - Pobrzeże Bałtyku - Die Ostseeküste Länderkarte - Od Dziwnowa do Kołobrzegu ; Galileos ; Wydawnictwo turystyczne Plan ; Wybrzeże Bałtyku z mapami Plan ; B ; 1:45000
   - Pojezierze Drawskie - część wschodnia ; Galileos ; Plan ; 1:50000
@@ -235,6 +412,28 @@
   - Wyspa Wolin - Woliński Park Narodowy ; ExpressMap ; Comfort! map ; 1:50000
   - Wyżyna Wieluńska ; Compass ; 1:50000
   - Ziemia Oświęcimska - Dolina Karpia ; Compass ; 1:50000
+- Portugal
+  - Madeira ; Kompass ; 234 ; 1:50000
+- Romania
+  - Karpaty
+    - Munții Căliman - Kelemen-havasok - Căliman Mountains ; Dimap ; 18 ; 1:60000
+    - Munții Făgărașului - Fogarasi-havasok - Făgăraș Mountains ; Erfatur ; Dimap ; 1:60000
+    - Munții Parâng - Páring-hegység - Parâng Mountains ; Erfatur ; Dimap ; 27 ; 1:50000
+    - Munții Rodnei - Radnai-havasok - Rodnei Mountains ; Dimap ; 15 ; 1:50000
+    - Piatra Craiului - Piatra Craiului Mountains ; Bel Alpin ; 1:30000
+    - Banát ; Freytag & Berndt ; KČT ; Edice KČT ; RO ; 1:100000
+- Russia
+  - Kaukaz
+    - Mt. Ushba, Mestia ; Geoland ; Geoland Maps - Trekking Maps ; 10 ; 1:50000
+    - Ushguli, Lashkheti, Mt. Shkhara ; Geoland ; Geoland Maps - Trekking Maps ; 8 ; 1:50000
+- San Marino
+  - Apeniny
+    - San Marino, San Leo, Urbino, Urbania - Parco Naturale del Sasso Simone e Simoncello ; Kompass ; 2455 ; 1:50000
+- Serbia
+  - Banát ; Freytag & Berndt ; KČT ; Edice KČT ; RO ; 1:100000
+  - Kopaonik ; Geokarta ; JP "Nacionalni park Kopaonik" National Park Kopaonik ; 1:40000
+  - Stara planina - Nature park prirode ; Geokarta ; 1:50000
+  - Suva planina - Svrljiške planine ; Geokarta ; 1:55000
 - Slovakia
   - Karpaty
     - Beskid Niski ; Compass ; 1:50000
@@ -259,6 +458,7 @@
     - Javorie - Ostrôžky ; VKÚ Harmanec ; 145 ; 1:50000
     - Javorníky - Čadca ; VKÚ Harmanec ; 109 ; 1:50000
     - Javorníky - Púchov ; VKÚ Harmanec ; 108 ; 1:50000
+    - Javorníky - západ ; VKÚ Harmanec ; Edice KČT ; 95 ; 1:50000
     - Kysucké Beskydy - Veľká Rača ; VKÚ Harmanec ; 101 ; 1:50000
     - Laborecká vrchovina - Dukla ; VKÚ Harmanec ; 106 ; 1:50000
     - Levočské vrchy ; VKÚ Harmanec ; 114 ; 1:50000
@@ -311,6 +511,30 @@
     - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen ; Alpenverein ; Stand:2015 ; 1:500000
     - Alpy austriackie - Mapa zimowa - Część I ; Gazeta Wyborcza ; 1:400000
     - Julische Alpen ; Freytag & Berndt ; WK141 ; 1:50000
+  - Pomurje ; Kartografija ; 1:40000
+  - Štajerska : Slovenske Gorice - Haloze - Boč ; Kartografija ; 1:50000
+- Spain
+  - Pireneje
+    - Bourg-Madame - Col de Puymorens - Pic Carlit ; IGN ; Carte Topographique Top 25 ; 2249OT ; 1:25000
+  - Fuertaventura 3in1 ; Kompass ; 240 ; 1:50000
+  - Gran Canaria ; Kompass ; 237 ; 1:50000
+  - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
+  - La Palma ; Kompass ; 232 ; 1:50000
+  - Mallorca ; Kompass ; 230 ; 1:75000
+  - Mallorca Nord - Formentor-Pinar-Ferrutx - Pollença-Alcúdia-Artà-Capdepera ; Editorial Alpina ; 1:25000
+  - Paraje Natural Torcal de Antequera ; Editorial Penibética ; 1:25000
+  - Parque Natural de Sierra de Grazalema - Natural Park Sierra de Grazalema ; Editorial Penibética ; 1:40000
+  - Parque Natural Sierra de las Nieves ; Editorial Penibética ; 1:40000
+  - Parque Natural Sierras de Tejeda, Almijara y Alhama - 2 mapas ; Editorial Piolet ; Piolet mapas ; Editorial La Serranía ; 1:25000
+  - Pollença ; Magenta Mprentadigital ; Pollença ; 1:50000
+  - Reservas Naturales Laguna Fuente de Piedra, Campillos, Ratosa y Archidona ; Editorial Penibética ; 1:30000
+  - Sierra de Grazalema ; Ronda Cartográfica ; Colecciones Topográficas de Andalucía "Pueblos Blancos" ; 1:30000
+  - Sierra de las Nieves ; Ronda Cartográfica ; Colecciones Topográficas de Andalucía "Pueblos Blancos" ; 1:35000
+  - Sierra Nevada - La Alpujarra ; Editorial Alpina ; Cordillera Penibética ; Alpina 40 ; 1:40000
+  - Sierras Tejeda, Almijara and Alhama - Nature Park/Sierras de Tejeda, Almijara y Alhama - Parque Natural ; Editorial Penibética ; 1:40000
+  - Sóller - Walking paradise - Fornalutx-Deià-Cala Tuent-Cúber ; Editorial Alpina ; 1:15000
+  - Teneriffa ; Kompass ; 233 ; 1:50000
+  - Valle del Guadalhorce - Caminito del Rey ; Rosa Sierra S.L. ; 1:50000
 - Switzerland
   - Alpy
     - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen ; Alpenverein ; Stand:2015 ; 1:500000
@@ -331,3 +555,15 @@
     - Bieszczady - Bukovské vrchy ; VKÚ Harmanec ; 163 ; 1:50000
     - Bieszczady - Pogórze Przemyskie ; Demart ; 1:75000
     - Vihorlatské vrchy - Zemplínská Šírava ; VKÚ Harmanec ; 126 ; 1:50000
+- United Kingdom
+  - Ben Lawers & Glen Lyon - Loch Tay, Killin & Kenmore ; OS ; OS Explorer ; OL48 ; 1:25000
+  - Ben Nevis & Fort William - The Mamores & The Grey Corries & Kinlochleven & Spean Bridge ; OS ; OS Explorer Map ; Active Map For All Extremes ; 392 ; 1:25000
+  - Glen Coe & Glen Etive - Ballachulish & Kinlochleven ; OS ; OS Explorer ; 384 ; 1:25000
+  - Isle of Mann - Ellan Vannin - Outdoor Leisure Map - north ; Isle of Man Survey ; 1:25000
+  - Isle of Mann - Ellan Vannin - Outdoor Leisure Map - south ; Isle of Man Survey ; 1:25000
+  - Loch Etive & Glen Orchy - Dalmally, Tyndrum, Bridge of Orchy & Taynuilt ; OS ; OS Explorer ; 377 ; 1:25000
+  - Snowdon/Yr Wyddfa - Conwy Valley/Dyffryn Conwy ; OS ; OS Explorer ; OL17 ; 1:25000
+  - The Trossachs - Callander, Aberfoyle & Lochearnhead, Balquhidder & Strathyre ; OS ; OS Explorer ; OL46 ; 1:25000
+  - Visitor Map - Leisure Map of Jersey ; Channel Islands Maps Ltd ; Jersey Heritage ; 1:25000
+- Western Sahara
+  - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
