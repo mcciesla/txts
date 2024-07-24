@@ -1,5 +1,5 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
-      - The Three-Body Problem (Problem trzech ciał/Problém tří těles) - Liu Cixin
+      - The Three-Body Problem (Problem trzech ciał/Problém tří těles) - Liu Cixin - Karolina
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
       - Reading in the Brain: The New Science of How We Read - Stanislas Dehaene
@@ -182,6 +182,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Language and Mind - Noam Chomsky
       - A Course in Number Theory and Cryptography - Neal Koblitz
       - Linguistics: An Introduction to Language and Communication - Adrian Akmajian, Ann K. Farmer, Lee Bickmore, Richard A. Demers, Robert M. Harnish
+      - Late Admissions: Confessions of a Black Conservative - Glenn Loury
       - C: A Reference Manual - Samuel P. Harbison, Guy L. Steele Jr.
       - Enlightenment Contested: Philosophy, Modernity, and the Emancipation of Man, 1670–1752 - Jonathan Israel
       - Democratic Enlightenment: Philosophy, Revolution, and Human Rights 1750–1790 - Jonathan Israel

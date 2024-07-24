@@ -1,17 +1,22 @@
 - Albania
+  - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
   - Prokletije : planinarenje i biciklizam - Prokletije : hiking & biking ; Kartografija Huber doo ; 1:50000
+  - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - Wanderkarte Nordalbanien - Thethi und Kelmend ; Huber Verlag ; 1:50000
 - Algeria
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
 - Andorra
   - Pireneje
     - Bourg-Madame - Col de Puymorens - Pic Carlit ; IGN ; Carte Topographique Top 25 ; 2249OT ; 1:25000
+  - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
 - Argentina
   - Bariloche y Angostura ; Cartografía Digital Pixmap ; 1:125000
   - Mapa de los Siete Lagos ; Mapas Argenguide ; Latinbaires Editores S.R.L. ; 22 ; 1:500000
   - Monte Tronador - Pampa Linda - Paso de las Nubes - Brazo Tristeza ; Pixmap ; Aoneker - mapas topograficos ; 1:50000
   - Patagonia: Fitz Roy - Cerro Torre - Perito Moreno Glacier - Torres del Paine ; ExpressMap ; terraQuest ; 1:160000
   - S.C. de Bariloche ; Cartografía Digital Pixmap ; 1:50000
+- Armenia
+  - Gruzja 3w1 ; ExpressMap ; Comfort! map ; 1:450000
 - Austria
   - Alpy
     - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen ; Alpenverein ; Stand:2015 ; 1:500000
@@ -60,21 +65,35 @@
   - Karpaty
     - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
     - Malé Karpaty - Juh ; VKÚ Harmanec ; 9 ; 1:25000
+  - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Pavlovské vrchy a Dolní Podyjí ; KČT ; Edice KČT ; 88 ; 1:50000
   - Pomurje ; Kartografija ; 1:40000
+  - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
   - Štajerska : Slovenske Gorice - Haloze - Boč ; Kartografija ; 1:50000
+- Azerbaijan
+  - Gruzja 3w1 ; ExpressMap ; Comfort! map ; 1:450000
 - Belgium
   - Aachen und das Dreiländereck ; Kompass ; 757 ; 1:50000
+  - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
   - Clervaux - Huldange : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R1 ; 1:20000
+  - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Hautes Fagnes - Hohes Venn - Hoge Venen ; Institut Geographique National - Nationaal Geografisch Instituut ; 1:25000
   - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
 - Bosnia and Hercegovina
-  - Maglic - Veliki Vitao - Mratinje area from Soviet military map ; copied
   - Dinara ; Hrvatska gorska služba spašavanja ; 1:25000
   - Dinara ; Smand ; 40 ; 1:30000
   - Dinara - Troglavska skupina - zapad ; Hrvatska gorska služba spašavanja ; 1:25000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+  - Maglic - Veliki Vitao - Mratinje area from Soviet military map ; copied
+  - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
+  - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
 - Bulgaria
+  - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
+  - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - Stara planina - Nature park prirode ; Geokarta ; 1:50000
+- Cape Verde
+  - Cape Verde Islands - Cap-Vert - Capo Verde - Kapverdische Inseln - Cabo Verde - Kaapverdië : Road map - Carte routière - Carta stradale - Autokarte - Mapa de estradas - Autokaart ; Freytag & Berndt ; 1:80000
 - Chile
   - Bariloche y Angostura ; Cartografía Digital Pixmap ; 1:125000
   - Mapa de los Siete Lagos ; Mapas Argenguide ; Latinbaires Editores S.R.L. ; 22 ; 1:500000
@@ -84,10 +103,13 @@
   - Dinara ; Hrvatska gorska služba spašavanja ; 1:25000
   - Dinara ; Smand ; 40 ; 1:30000
   - Dinara - Troglavska skupina - zapad ; Hrvatska gorska služba spašavanja ; 1:25000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Južni Velebit II ; Smand ; 18a ; 1:30000
   - Kornati: Telaščica - Vransko jezero ; Trsat Polo ; nacionalni parkovi ; 1 ; 1:37000
+  - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
   - Nacionalni park Paklenica - National Park Paklenica ; Hrvatska gorska služba spašavanja ; 1:25000
   - Pomurje ; Kartografija ; 1:40000
+  - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - South Velebit - Paklenica National Park Num.1 - Southeast Area: Velika and Mala Paklenica / Trekking National Park Paklenica - Starigrad/Paklenica ; Zadar County Tourist Board ; 1 ; 1:18000
   - Štajerska : Slovenske Gorice - Haloze - Boč ; Kartografija ; 1:50000
 - Czech Republic
@@ -169,12 +191,17 @@
     - Ziemia Kłodzka ; ExpressMap ; Comfort! map ; 1:60000
     - Zlatohorská vrchovina - Góry Opawskie ; JENA ; 1:50000
     - Železné hory ; VKÚ Harmanec ; Edice KČT ; 45 ; 1:50000
+  - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
   - Haná - Olomoucko ; KČT ; Edice KČT ; 57 ; 1:50000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Opavsko ; KČT ; Edice KČT ; 59 ; 1:50000
   - Ostravsko - Hlučín, Bohumín, Ostrava, Karviná, Český Těšín, Frýdek-Místek, Havířov ; KČT ; Edice KČT ; 61-62 ; 1:50000
   - Ostravsko ; kartografie Praha ; Český svaz turistů ; Soubor turistických map ; 21 ; 1:100000
   - Pavlovské vrchy a Dolní Podyjí ; KČT ; Edice KČT ; 88 ; 1:50000
   - Rybnik, Żory, Jastrzębie-Zdrój, Wodzisław Śląski i okolice ; Galileos ; 1:50000
+  - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
+- Finland
+  - Suomi - Finland ; Marco Polo ; 1:850000
 - France
   - Alpy
     - St-Gervais-les-Bains : Massif du Mont Blanc ; IGN ; Carte Topographique Top 25 ; 3531ET ; 1:25000
@@ -182,11 +209,14 @@
     - Bourg-Madame - Col de Puymorens - Pic Carlit ; IGN ; Carte Topographique Top 25 ; 2249OT ; 1:25000
     - Foix - Tarascon-sur-Ariège ; IGN ; Top 25 ; 2147ET ; 1:25000
   - Apt - PNR du Luberon ; IGN ; Top 25 Randonnée et plein air ; 3242OT ; 1:25000
+  - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
   - Béziers - Castres - PNR du Haut-Languedoc ; IGN ; Top100 Tourisme et découverte ; 169 ; 1:100000
   - Carpentras - Vaison-la-Romaine - Dentelles de Montmirail ; IGN ; Top 25 Randonnée et plein air ; 3040ET ; 1:25000
   - Cavaillon - Fontaine-de-Vaucluse - PNR du Luberon ; IGN ; Top 25 Randonnée et plein air ; 3142OT ; 1:25000
   - Corte - Monte Cinto - PNR de Corse ; IGN ; Top 25 Randonnée et plein air ; 4250OT ; 1:25000
+  - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Hyères - Île de Porquerolles ; IGN ; Top 25 Randonnée et plein air ; 3446OT ; 1:25000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Île Ste Marguerite - Archipel des îles de Lérins ; RivieraLines - compagnie maritime
   - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
   - Massif du Sancy - PNR des Volcans d'Auvergne ; IGN ; Carte Topographique Top 25 ; 2432ET ; 1:25000
@@ -199,6 +229,7 @@
   - kaukaz
     - Mt. Ushba, Mestia ; Geoland ; Geoland Maps - Trekking Maps ; 10 ; 1:50000
     - Ushguli, Lashkheti, Mt. Shkhara ; Geoland ; Geoland Maps - Trekking Maps ; 8 ; 1:50000
+  - Gruzja 3w1 ; ExpressMap ; Comfort! map ; 1:450000
 - Germany
   - Alpy
     - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen ; Alpenverein ; Stand:2015 ; 1:500000
@@ -228,10 +259,14 @@
     - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
     - Šumava - Železnorudsko ; KČT ; Edice KČT ; 64 ; 1:50000
   - Aachen und das Dreiländereck ; Kompass ; 757 ; 1:50000
-  - Diekirch - Putscheid : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R3 ; 1:20000
+  - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
   - Clervaux - Huldange : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R1 ; 1:20000
+  - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
+  - Diekirch - Putscheid : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R3 ; 1:20000
+  - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Harz - 2 Karten im Set ; Kompass ; 450 ; 1:50000
   - Hautes Fagnes - Hohes Venn - Hoge Venen ; Institut Geographique National - Nationaal Geografisch Instituut ; 1:25000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
   - Nördlicher Steigerwald - Bamberg 4in1 ; Kompass ; 167 ; 1:50000
   - Wyspa Wolin - Woliński Park Narodowy ; ExpressMap ; Comfort! map ; 1:50000
@@ -239,6 +274,7 @@
   - Dion - Olympus Municipality - official map ; Dion - Olympus Municipality
   - Νάξος - Nasso ; Freytag & Berndt ; 1:50000
   - Oλυμπος - Mt Olympus ; Anavasi ; Anavasi Maps & Guides ; Topo 25 ; Macedonia 6.11 ; 1:25000 
+  - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
 - Hungary
   - Karpaty
     - Burda - Ipeľská pahorkatina ; VKÚ Harmanec ; 142 ; 1:50000
@@ -246,6 +282,9 @@
     - Mátra ; Cartographia A Térképszakértö - Cartographia Földgömb- és Térképbolt ; 14 ; 1:40000
     - Slovenský kras ; TatraPlan ; 5037 ; 1:50000
   - Pomurje ; Kartografija ; 1:40000
+  - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
+  - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
+  - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
 - Iceland
   - Akureyri - Mývatn - Dettifoss ; Forlagið ; Sérkort ; 8 ; 1:120000/1:50000
   - Askja - Herðubreið - Kverkfjöll ; Forlagið ; Sérkort ; 7 ; 1:100000/1:50000
@@ -253,6 +292,7 @@
   - Eyjafjörður ; Forlagið ; Atlaskort ; 18 ; 1:100000
   - Fljótsdalshérað ; Forlagið ; Atlaskort ; 27 ; 1:100000
   - Gullfoss - Geysir - Hekla ; Forlagið ; Sérkort ; 2 ; 1:100000/1:50000
+  - Ísland - Ferðakortabók með Þéttbýliskortum ; Ferðakort ; 1:500000
   - Kjöllur - Langjökull - Kerlingarfjöll ; Forlagið ; Sérkort ; 3 ; 1:100000/1:50000
   - Landmannalaugar - Þórsmörk - Fjallabak ; Forlagið ; Sérkort ; 4 ; 1:100000/1:50000
   - Lónsöræfi - Snæfell ; Forlagið ; Sérkort ; 6 ; 1:100000/1:50000
@@ -293,29 +333,53 @@
     - San Marino, San Leo, Urbino, Urbania - Parco Naturale del Sasso Simone e Simoncello ; Kompass ; 2455 ; 1:50000
   - Capri ; Ordis s.r.l. - Piacenza ; Azienda Autonoma Cura Soggiorno e Turismo - Isola di Capri ; 1:10000
   - Capri - map of the paths 5 - fourteen walks ; cart & guide ; 1:7000
+  - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+- Kosovo
+  - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
+  - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
 - Liechtenstein
   - Alpy
     - Alpy włoskie i austriackie - Mapa zimowa - Część II ; Gazeta Wyborcza ; 1:400000
     - Feldkirch - Vaduz ; Kompass ; 21 ; 1:50000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
 - Luxembourg
+  - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
   - Diekirch - Putscheid : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R3 ; 1:20000
   - Clervaux - Huldange : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R1 ; 1:20000
+  - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
 - Malta
   - Malta, Gozo ; Kompass ; 235 ; 1:25000
 - Mauritania
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
+- Mexico
+  - Mexico North ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:130000
+- Moldova
+  - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
+- Monaco
+  - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
 - Montenegro
   - Durmitor i Kanjon Tare - Nacionalni park Durmitor/Durmitor and Tara Canyon - Durmitor National Park ; Geokarta ; 1:25000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Maglic - Veliki Vitao - Mratinje area from Soviet military map ; copied
+  - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
   - Prokletije : planinarenje i biciklizam - Prokletije : hiking & biking ; Kartografija Huber ; 1:50000
+  - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - Wanderkarte Nordalbanien - Thethi und Kelmend ; Huber Verlag ; 1:50000
 - Morocco
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
 - Netherlands
   - Aachen und das Dreiländereck ; Kompass ; 757 ; 1:50000
+  - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
+  - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
+- North Macedonia
+  - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
 - Northern Cyprus
   - Zafer Burnu ; The Office of Tourism Promotion and Marketing ; North Cyprus - Walking Trails/Wanderwege ; 1:1000
+- Norway
+  - Suomi - Finland ; Marco Polo ; 1:850000
 - Poland
   - Ceska vrchovina
     - Broumovsko, Góry Kamienne a Stołowe ; VKÚ Harmanec ; Edice KČT ; 26 ; 1:50000
@@ -379,6 +443,7 @@
     - Vysoké Tatry ; VKÚ Harmanec ; 113 ; 1:50000
     - Západné Tatry - Podbanské + Zverovka ; VKÚ Harmanec ; 3 ; 1:25000
     - Západné Tatry - Roháče ; VKÚ Harmanec ; 112 ; 1:50000
+  - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
   - Dolinki Podkrakowskie ; Compass ; 1:25000
   - Gliwice i okolice ; Galileos ; Plan Wrocław ; 1:50000
   - Górnośląski Okręg Przemysłowy - mapa komunikacyjna ; Falk ; 1:65000
@@ -404,6 +469,7 @@
   - Roztoczański Park Narodowy ; Kartpol ; Roztoczański Park Narodowy ; 1:70000/1:8000
   - Roztocze Środkowe - Puszcza Solska ; ExpressMap ; Comfort! map ; 1:50000
   - Rybnik, Żory, Jastrzębie-Zdrój, Wodzisław Śląski i okolice ; Galileos ; 1:50000
+  - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
   - Słowiński Park Narodowy - Wybrzeże Bałtyku: Ustka-Rowy-Łeba ; ExpressMap ; Comfort! map ; 1:50000
   - Szlak Architektury Drewnianej - Województwo Małopolskie ; Compass ; Województwo Małopolskie ; 1:200000
   - Tychy + Pszczyna ; Galileos ; Plan ; 1:10000
@@ -413,7 +479,9 @@
   - Wyżyna Wieluńska ; Compass ; 1:50000
   - Ziemia Oświęcimska - Dolina Karpia ; Compass ; 1:50000
 - Portugal
+  - Azoren - Azores - Açores - Azores : Auto + Freizeitkarte - Road + Leisure time map - Mapa de Estradas + de lazer - Carte routière - de loisir ; Freytag & Berndt ; 1:75000
   - Madeira ; Kompass ; 234 ; 1:50000
+  - Portugal ; Marco Polo ; 1:300000
 - Romania
   - Karpaty
     - Munții Căliman - Kelemen-havasok - Căliman Mountains ; Dimap ; 18 ; 1:60000
@@ -422,16 +490,24 @@
     - Munții Rodnei - Radnai-havasok - Rodnei Mountains ; Dimap ; 15 ; 1:50000
     - Piatra Craiului - Piatra Craiului Mountains ; Bel Alpin ; 1:30000
     - Banát ; Freytag & Berndt ; KČT ; Edice KČT ; RO ; 1:100000
+  - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
+  - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
 - Russia
   - Kaukaz
     - Mt. Ushba, Mestia ; Geoland ; Geoland Maps - Trekking Maps ; 10 ; 1:50000
     - Ushguli, Lashkheti, Mt. Shkhara ; Geoland ; Geoland Maps - Trekking Maps ; 8 ; 1:50000
+  - Gruzja 3w1 ; ExpressMap ; Comfort! map ; 1:450000
+  - Suomi - Finland ; Marco Polo ; 1:850000
 - San Marino
   - Apeniny
     - San Marino, San Leo, Urbino, Urbania - Parco Naturale del Sasso Simone e Simoncello ; Kompass ; 2455 ; 1:50000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
 - Serbia
   - Banát ; Freytag & Berndt ; KČT ; Edice KČT ; RO ; 1:100000
   - Kopaonik ; Geokarta ; JP "Nacionalni park Kopaonik" National Park Kopaonik ; 1:40000
+  - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
+  - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
+  - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - Stara planina - Nature park prirode ; Geokarta ; 1:50000
   - Suva planina - Svrljiške planine ; Geokarta ; 1:55000
 - Slovakia
@@ -505,17 +581,21 @@
     - Vysoké Tatry ; VKÚ Harmanec ; 113 ; 1:50000
     - Západné Tatry - Podbanské + Zverovka ; VKÚ Harmanec ; 3 ; 1:25000
     - Západné Tatry - Roháče ; VKÚ Harmanec ; 112 ; 1:50000
+  - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
+  - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
   - Szlak Architektury Drewnianej - Województwo Małopolskie ; Compass ; Województwo Małopolskie ; 1:200000
 - Slovenia
   - Alpy
     - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen ; Alpenverein ; Stand:2015 ; 1:500000
     - Alpy austriackie - Mapa zimowa - Część I ; Gazeta Wyborcza ; 1:400000
     - Julische Alpen ; Freytag & Berndt ; WK141 ; 1:50000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Pomurje ; Kartografija ; 1:40000
   - Štajerska : Slovenske Gorice - Haloze - Boč ; Kartografija ; 1:50000
 - Spain
   - Pireneje
     - Bourg-Madame - Col de Puymorens - Pic Carlit ; IGN ; Carte Topographique Top 25 ; 2249OT ; 1:25000
+  - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Fuertaventura 3in1 ; Kompass ; 240 ; 1:50000
   - Gran Canaria ; Kompass ; 237 ; 1:50000
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
@@ -527,6 +607,7 @@
   - Parque Natural Sierra de las Nieves ; Editorial Penibética ; 1:40000
   - Parque Natural Sierras de Tejeda, Almijara y Alhama - 2 mapas ; Editorial Piolet ; Piolet mapas ; Editorial La Serranía ; 1:25000
   - Pollença ; Magenta Mprentadigital ; Pollença ; 1:50000
+  - Portugal ; Marco Polo ; 1:300000
   - Reservas Naturales Laguna Fuente de Piedra, Campillos, Ratosa y Archidona ; Editorial Penibética ; 1:30000
   - Sierra de Grazalema ; Ronda Cartográfica ; Colecciones Topográficas de Andalucía "Pueblos Blancos" ; 1:30000
   - Sierra de las Nieves ; Ronda Cartográfica ; Colecciones Topográficas de Andalucía "Pueblos Blancos" ; 1:35000
@@ -535,6 +616,8 @@
   - Sóller - Walking paradise - Fornalutx-Deià-Cala Tuent-Cúber ; Editorial Alpina ; 1:15000
   - Teneriffa ; Kompass ; 233 ; 1:50000
   - Valle del Guadalhorce - Caminito del Rey ; Rosa Sierra S.L. ; 1:50000
+- Sweden
+  - Suomi - Finland ; Marco Polo ; 1:850000
 - Switzerland
   - Alpy
     - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen ; Alpenverein ; Stand:2015 ; 1:500000
@@ -547,6 +630,12 @@
     - Mischabel : Zermatt - Saas Fee ; Swisstopo ; Landeskarte der Schweiz/Offizielle Wanderkarte der SAW ; 284T ; 1:50000
     - Saas ; Swisstopo ; Landeskarte der Schweiz ; 1329 ; 1:25000
     - Visp : Lötschberg - Südrampe - Brig - Simplon ; Landeskarte der Schweiz/Offizielle Wanderkarte der Schweizer Wanderwege ; 274T ; 1:50000
+  - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+- Tunisia
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+- Turkey
+  - Gruzja 3w1 ; ExpressMap ; Comfort! map ; 1:450000
 - Ukraine
   - Karpaty
     - Bieszczady ; Compass ; 1:50000
@@ -555,9 +644,12 @@
     - Bieszczady - Bukovské vrchy ; VKÚ Harmanec ; 163 ; 1:50000
     - Bieszczady - Pogórze Przemyskie ; Demart ; 1:75000
     - Vihorlatské vrchy - Zemplínská Šírava ; VKÚ Harmanec ; 126 ; 1:50000
+  - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
+  - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
 - United Kingdom
   - Ben Lawers & Glen Lyon - Loch Tay, Killin & Kenmore ; OS ; OS Explorer ; OL48 ; 1:25000
   - Ben Nevis & Fort William - The Mamores & The Grey Corries & Kinlochleven & Spean Bridge ; OS ; OS Explorer Map ; Active Map For All Extremes ; 392 ; 1:25000
+  - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Glen Coe & Glen Etive - Ballachulish & Kinlochleven ; OS ; OS Explorer ; 384 ; 1:25000
   - Isle of Mann - Ellan Vannin - Outdoor Leisure Map - north ; Isle of Man Survey ; 1:25000
   - Isle of Mann - Ellan Vannin - Outdoor Leisure Map - south ; Isle of Man Survey ; 1:25000
@@ -565,5 +657,9 @@
   - Snowdon/Yr Wyddfa - Conwy Valley/Dyffryn Conwy ; OS ; OS Explorer ; OL17 ; 1:25000
   - The Trossachs - Callander, Aberfoyle & Lochearnhead, Balquhidder & Strathyre ; OS ; OS Explorer ; OL46 ; 1:25000
   - Visitor Map - Leisure Map of Jersey ; Channel Islands Maps Ltd ; Jersey Heritage ; 1:25000
+- United States
+  - Mexico North ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:130000
+- Vatican
+  - Itálie, Italien, Italian ; Marco Polo ; 1:800000
 - Western Sahara
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
