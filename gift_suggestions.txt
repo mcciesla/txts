@@ -1,11 +1,15 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Three-Body Problem (Problem trzech ciał/Problém tří těles) - Liu Cixin - Karolina
+      - Life Ascending: The Ten Great Inventions of Evolution - Nick Lane
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
       - Reading in the Brain: The New Science of How We Read - Stanislas Dehaene
+      - Cell Biology by the Numbers - Ron Milo, Rob Phillips
+      - The Origin and Nature of Life on Earth: The Emergence of the Fourth Geosphere - Eric Smith, Harold J. Morowitz
       - Colossus - Dennis Feltham Jones
       - Notatki z podziemia - Fiodor Dostojewski
       - Type-driven Development with Idris - Edwin Brady
+      - Blondes in Venetian Paintings, the Nine-Banded Armadillo, and Other Essays in Biochemistry - Konrad Bloch
       - The Growth of Biological Thought: Diversity, Evolution, and Inheritance - Ernst W. Mayr
       - The Book of Why: The New Science of Cause and Effect - Judea Pearl & Dana Mackenzie
       - The Open Society and Its Enemies - Karl Popper
@@ -14,13 +18,16 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Causality: Models, Reasoning, and Inference - Judea Pearl
       - Sea People: The Puzzle of Polynesia - Christina Thompson
       - The Power of Babel: A Natural History of Language - John McWhorter
+      - Assembling Life: How Can Life Begin on Earth and Other Habitable Planets? - David W. Deamer
       - The Enigma of Reason - Dan Sperber, Hugo Mercier
       - The Plague Cycle: The Unending War Between Humanity and Infectious Disease - Charles Kenny
+      - Chemistry Of Life (4th edition or later) - Steven Rose
+      - Molecular Biology of the Gene (7th edition or later) -  James Watson, Tania Baker, Stephen Bell, Alexander Gann, Michael Levine, Richard Losick
       - Micromotives and Macrobehavior - Thomas C. Schelling
       - Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy - Richard Hanania
       - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
       - The Empire of the Steppes: A History of Central Asia - René Grousset
-      - Poczet faraonów - Bogusław Kwiatkowski
+      - Poczet faraonów - Bogusław Kwiatkowski - Magda
       - Masters of Doom - David Kushner
       - Weje 405-396 p.n.e. - Daniel Gazda
       - Babilon 729-648 p.n.e. - Piotr Biziuk
@@ -48,6 +55,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Połabie 983 - Robert F. Barkowski
       - Aleksandria 1365 - Łukasz Burkiewicz
       - Kleidion 1014 - Łukasz Migniewicz
+      - The Periodic Table - Primo Levi
       - Who’s #1? The Science of Rating and Ranking - Amy Langville , Carl Meyer
       - Haskell Programming from first principles - Christopher Allen, Julie Moronuki
       - The Haskell Road to Logic, Maths and Programming - Kees Doets, Jan van Eijck
@@ -102,6 +110,8 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Batoh 1652 - Wojciech Jacek Długołęcki
       - Ateny-Sparta 431-404 p.n.e - Ryszard Kulesza
       - Połonka-Basia 1660 - Marcin Gawęda
+      - Life's Engines: How Microbes Made Earth Habitable - Paul G. Falkowski
+      - Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought - George C. Williams
       - The Nurture Assumption - Judith Rich Harris
       - A Profile of Mathematical Logic - Howard DeLong
       - No Two Alike - Judith Rich Harris
@@ -132,6 +142,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Adventures of a Mathematician - Stanisław Marcin Ulam
       - Endless Forms Most Beautiful: The New Science of Evo Devo - Sean B. Carroll
       - The Number Sense: How the Mind Creates Mathematics - Stanislas Dehaene
+      - Oxygen: A Four Billion Year History - Donald E. Canfield
       - Objective Knowledge: An Evolutionary Approach - Karl Popper
       - Economics for the Common Good - Jean Tirole
       - The Sciences of the Artificial - Herbert A. Simon
@@ -181,8 +192,10 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Compiling with Continuations - Andrew W. Appel
       - Language and Mind - Noam Chomsky
       - A Course in Number Theory and Cryptography - Neal Koblitz
+      - Mitochondria and Anaerobic Energy Metabolism in Eukaryotes: Biochemistry and Evolution - William F. Martin, Aloysius G. M. Tielens, Marek Mentel
       - Linguistics: An Introduction to Language and Communication - Adrian Akmajian, Ann K. Farmer, Lee Bickmore, Richard A. Demers, Robert M. Harnish
       - Late Admissions: Confessions of a Black Conservative - Glenn Loury
+      - Energy Flow in Biology - Harold J. Morowitz
       - C: A Reference Manual - Samuel P. Harbison, Guy L. Steele Jr.
       - Enlightenment Contested: Philosophy, Modernity, and the Emancipation of Man, 1670–1752 - Jonathan Israel
       - Democratic Enlightenment: Philosophy, Revolution, and Human Rights 1750–1790 - Jonathan Israel
