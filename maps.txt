@@ -1,15 +1,27 @@
 - Albania
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Griechenland - Grèce - Ελλάδα - Greece ; Marco Polo ; 1:800000
   - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Prokletije : planinarenje i biciklizam - Prokletije : hiking & biking ; Kartografija Huber doo ; 1:50000
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - Wanderkarte Nordalbanien - Thethi und Kelmend ; Huber Verlag ; 1:50000
 - Algeria
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
 - Andorra
   - Pireneje
     - Bourg-Madame - Col de Puymorens - Pic Carlit ; IGN ; Carte Topographique Top 25 ; 2249OT ; 1:25000
+  - España - Portugal - Spain - Spanien - Portugal - Espagne ; Marco Polo ; 1:800000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
 - Argentina
+  - Argentina, Chile, Uruguay - Argentine, Chili - Argentinien, Chile ; Marco Polo ; 1:4000000
   - Bariloche y Angostura ; Cartografía Digital Pixmap ; 1:125000
   - Mapa de los Siete Lagos ; Mapas Argenguide ; Latinbaires Editores S.R.L. ; 22 ; 1:500000
   - Monte Tronador - Pampa Linda - Paso de las Nubes - Brazo Tristeza ; Pixmap ; Aoneker - mapas topograficos ; 1:50000
@@ -66,55 +78,105 @@
     - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
     - Malé Karpaty - Juh ; VKÚ Harmanec ; 9 ; 1:25000
   - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
+  - Československá socialistická republika ; Kartografické nakladatelství ; Kartografie, n.p. Praha
+  - Československá socialistická republika ; Slovenská kartografia ; 1:1500000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Italy (?) ; Kartográfiai Vállalat ; 1:1250000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+  - Maďarsko - Ungarn - Hungaria ; Marco Polo ; Euro-Mapa Země ; 1:300000
+  - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
   - Pavlovské vrchy a Dolní Podyjí ; KČT ; Edice KČT ; 88 ; 1:50000
+  - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
   - Pomurje ; Kartografija ; 1:40000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+  - Schweiz - Suisse - Svizzera - Switzerland ; Marco Polo ; 1:303000
   - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
   - Štajerska : Slovenske Gorice - Haloze - Boč ; Kartografija ; 1:50000
 - Azerbaijan
   - Gruzja 3w1 ; ExpressMap ; Comfort! map ; 1:450000
+- Belarus
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+  - Suwalszczyzna ; ExpressMap ; 1:85000
 - Belgium
   - Aachen und das Dreiländereck ; Kompass ; 757 ; 1:50000
   - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
   - Clervaux - Huldange : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R1 ; 1:20000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Hautes Fagnes - Hohes Venn - Hoge Venen ; Institut Geographique National - Nationaal Geografisch Instituut ; 1:25000
   - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+- Belize
+  - Mexico ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:2000000
+- Bolivia
+  - Argentina, Chile, Uruguay - Argentine, Chili - Argentinien, Chile ; Marco Polo ; 1:4000000
 - Bosnia and Hercegovina
   - Dinara ; Hrvatska gorska služba spašavanja ; 1:25000
   - Dinara ; Smand ; 40 ; 1:30000
   - Dinara - Troglavska skupina - zapad ; Hrvatska gorska služba spašavanja ; 1:25000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Maglic - Veliki Vitao - Mratinje area from Soviet military map ; copied
   - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
+- Brazil
+  - Argentina, Chile, Uruguay - Argentine, Chili - Argentinien, Chile ; Marco Polo ; 1:4000000
 - Bulgaria
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Griechenland - Grèce - Ελλάδα - Greece ; Marco Polo ; 1:800000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - Stara planina - Nature park prirode ; Geokarta ; 1:50000
 - Cape Verde
   - Cape Verde Islands - Cap-Vert - Capo Verde - Kapverdische Inseln - Cabo Verde - Kaapverdië : Road map - Carte routière - Carta stradale - Autokarte - Mapa de estradas - Autokaart ; Freytag & Berndt ; 1:80000
 - Chile
+  - Argentina, Chile, Uruguay - Argentine, Chili - Argentinien, Chile ; Marco Polo ; 1:4000000
   - Bariloche y Angostura ; Cartografía Digital Pixmap ; 1:125000
   - Mapa de los Siete Lagos ; Mapas Argenguide ; Latinbaires Editores S.R.L. ; 22 ; 1:500000
   - Monte Tronador - Pampa Linda - Paso de las Nubes - Brazo Tristeza ; Pixmap ; Aoneker - mapas topograficos ; 1:50000
   - Patagonia: Fitz Roy - Cerro Torre - Perito Moreno Glacier - Torres del Paine ; ExpressMap ; terraQuest ; 1:160000
 - Croatia
+  - Dalmatinska zagora - Splitsko zaleđe - Dalmatian hinterland - Inland region of Split - Turistička karta - Tourist map ; Hrvatska365 ; 1:100000
   - Dinara ; Hrvatska gorska služba spašavanja ; 1:25000
   - Dinara ; Smand ; 40 ; 1:30000
   - Dinara - Troglavska skupina - zapad ; Hrvatska gorska služba spašavanja ; 1:25000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Južni Velebit II ; Smand ; 18a ; 1:30000
   - Kornati: Telaščica - Vransko jezero ; Trsat Polo ; nacionalni parkovi ; 1 ; 1:37000
+  - Maďarsko - Ungarn - Hungaria ; Marco Polo ; Euro-Mapa Země ; 1:300000
   - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
   - Nacionalni park Paklenica - National Park Paklenica ; Hrvatska gorska služba spašavanja ; 1:25000
+  - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
   - Pomurje ; Kartografija ; 1:40000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - South Velebit - Paklenica National Park Num.1 - Southeast Area: Velika and Mala Paklenica / Trekking National Park Paklenica - Starigrad/Paklenica ; Zadar County Tourist Board ; 1 ; 1:18000
   - Štajerska : Slovenske Gorice - Haloze - Boč ; Kartografija ; 1:50000
+- Cyprus
+  - North Cyprus - Touristic Road Map of North Cyprus ; Turizm Tanitma ve Pazarlama Dairesi - Tourism Promotion and Marketing Department ; 1:325000
+  - Zypern - Cyprus - Chypre - Cipro - Кипр ; Freytag & Berndt ; 1:150000
 - Czech Republic
   - Karpaty
     - Beskid Śląski ; Wydawnictwo Piętka ; 1:50000
+    - Beskid Śląski dla wymagających ; Compass ; 1:25000
     - Beskid Śląski i Pasmo Wielkiej Raczy ; Wydawnictwo Witański ; 1:50000
     - Beskydy ; Geodetický a kartografický podnik v Praze ; Soubor turistických map ; 1:100000
     - Beskydy - automapa ; Geodetický a kartografický podnik v Praze ; Automapa ; 7 ; 1:200000
@@ -143,6 +205,7 @@
     - Český ráj ; VKÚ Harmanec ; Edice KČT ; 19 ; 1:50000
     - Dolní Pojizeří - Mladoboleslavsko a Nymbursko ; KČT ; Edice KČT ; 17 ; 1:50000
     - Góry Stołowe ; Galileos ; 1:30000
+    - Góry Złote - Rychlebské hory ; Compass ; 1:35000
     - Haná - Prostějovsko, Konicko a Litovelsko ; KČT ; Edice KČT ; 51 ; 1:50000
     - Havlíčkobrodsko ; VKÚ Harmanec ; Edice KČT ; 46 ; 1:50000
     - Hrubý Jeseník ; JENA ; 1:25000
@@ -154,6 +217,7 @@
     - Karkonosze czeskie - mapa zimowa - część IV ; Gazeta Wyborcza ; 1:40000
     - Karkonosze - mapa panoramiczna ; ExpressMap ; Comfort! map ; 1:33000
     - Kolínsko a Kutnohorsko ; KČT ; Edice KČT ; 42 ; 1:50000
+    - Kotlina Kłodzka + Kłodzko - plan miasta skala 1:8000 ; galileos.pl ; Plan Wrocław ; 1:50000
     - Králický Sněžník ; VKÚ Harmanec ; Edice KČT ; 53 ; 1:50000
     - Krkonoše-východ - Riesengebirge-ost ; VKÚ Harmanec ; KČT ; 1:25000
     - Krkonoše-západ - Riesengebirge-west ; VKÚ Harmanec ; KČT ; 1:25000
@@ -181,7 +245,9 @@
     - Rychlebské hory - Góry Złote ; Galileos ; 1:40000
     - Slavkovský les a Mariánské lázně ; KČT ; Edice KČT ; 2 ; 1:50000
     - Sudety Środkowe ; ExpressMap ; Comfort! map ; 1:60000
+    - Sudety Środkowe - Góry Sowie, Góry Kamienne, Góry Wałbrzyskie ; galileos.pl ; Wydawnictwo turystyczne Plan ; 1:40000
     - Sudety Wschodnie ; ExpressMap ; Comfort! map ; 1:60000
+    - Sudety Zachodnie ; ExpressMap ; Comfort! map ; 1:60000
     - Šumava - Povydří a národní park Bavorský les Nationalpark Bayerischer Wald ; KČT ; Edice KČT ; 65 ; 1:50000
     - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
     - Šumava - Železnorudsko ; KČT ; Edice KČT ; 64 ; 1:50000
@@ -192,15 +258,41 @@
     - Zlatohorská vrchovina - Góry Opawskie ; JENA ; 1:50000
     - Železné hory ; VKÚ Harmanec ; Edice KČT ; 45 ; 1:50000
   - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
+  - Československá socialistická republika ; Kartografické nakladatelství ; Kartografie, n.p. Praha
+  - Československá socialistická republika ; Slovenská kartografia ; 1:1500000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Haná - Olomoucko ; KČT ; Edice KČT ; 57 ; 1:50000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Opavsko ; KČT ; Edice KČT ; 59 ; 1:50000
   - Ostravsko - Hlučín, Bohumín, Ostrava, Karviná, Český Těšín, Frýdek-Místek, Havířov ; KČT ; Edice KČT ; 61-62 ; 1:50000
   - Ostravsko ; kartografie Praha ; Český svaz turistů ; Soubor turistických map ; 21 ; 1:100000
+  - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
   - Pavlovské vrchy a Dolní Podyjí ; KČT ; Edice KČT ; 88 ; 1:50000
+  - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Rybnik, Żory, Jastrzębie-Zdrój, Wodzisław Śląski i okolice ; Galileos ; 1:50000
   - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
+- Denmark
+  - Føroyar
+    - Føroyar/Færøerne ; Freytag & Berndt ; 1:100000
+    - Fugloy ; Kort & Matrikelstyrelsen ; Føroyar - Topografiskt kort ; 713 ; 1:20000
+    - Mikladalur ; Kort & Matrikelstyrelsen ; Føroyar - Topografiskt kort ; 513 ; 1:20000
+  - Dänemark - Luxembourg ; RV Verlag ; Euro Cart ; Euro-Regionalkarte ; 1:300000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+- Estonia
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
 - Finland
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Suomi - Finland ; Marco Polo ; 1:850000
 - France
   - Alpy
@@ -213,9 +305,16 @@
   - Béziers - Castres - PNR du Haut-Languedoc ; IGN ; Top100 Tourisme et découverte ; 169 ; 1:100000
   - Carpentras - Vaison-la-Romaine - Dentelles de Montmirail ; IGN ; Top 25 Randonnée et plein air ; 3040ET ; 1:25000
   - Cavaillon - Fontaine-de-Vaucluse - PNR du Luberon ; IGN ; Top 25 Randonnée et plein air ; 3142OT ; 1:25000
+  - Corse ; Michelin ; Carte routière et touristique ; 90 ; 1:200000
   - Corte - Monte Cinto - PNR de Corse ; IGN ; Top 25 Randonnée et plein air ; 4250OT ; 1:25000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
+  - España - Portugal - Spain - Spanien - Portugal - Espagne ; Marco Polo ; 1:800000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Hyères - Île de Porquerolles ; IGN ; Top 25 Randonnée et plein air ; 3446OT ; 1:25000
+  - Italy (?) ; Kartográfiai Vállalat ; 1:1250000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Île Ste Marguerite - Archipel des îles de Lérins ; RivieraLines - compagnie maritime
   - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
@@ -223,7 +322,9 @@
   - Monte d'Oro - Monte Rotondo - PNR de Corse ; IGN ; Top 25 Randonnée et plein air ; 4251OT ; 1:25000
   - Pertuis - Lourmarin - PNR du Luberon ; IGN ; Top 25 Randonnée et plein air ; 3243OT ; 1:25000
   - Porto - Calanche de Piana - PNR de Corse ; IGN ; Carte Topographique Top 25 ; 4150OT ; 1:25000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Saint-Rémy-de-Provence - Tarascon - Chaîne des Alpilles ; IGN ; Top 25 Randonnée et plein air ; 3042OT ; 1:25000
+  - Schweiz - Suisse - Svizzera - Switzerland ; Marco Polo ; 1:303000
   - Vico - Cargèse - Golfe de Sagone - PNR de Corse ; IGN ; Carte Topographique Top 25 ; 4151OT ; 1:25000
 - Georgia
   - kaukaz
@@ -262,36 +363,69 @@
   - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
   - Clervaux - Huldange : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R1 ; 1:20000
   - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
+  - Československá socialistická republika ; Kartografické nakladatelství ; Kartografie, n.p. Praha
+  - Československá socialistická republika ; Slovenská kartografia ; 1:1500000
+  - Dänemark - Luxembourg ; RV Verlag ; Euro Cart ; Euro-Regionalkarte ; 1:300000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
   - Diekirch - Putscheid : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R3 ; 1:20000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Harz - 2 Karten im Set ; Kompass ; 450 ; 1:50000
   - Hautes Fagnes - Hohes Venn - Hoge Venen ; Institut Geographique National - Nationaal Geografisch Instituut ; 1:25000
+  - Italy (?) ; Kartográfiai Vállalat ; 1:1250000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
   - Nördlicher Steigerwald - Bamberg 4in1 ; Kompass ; 167 ; 1:50000
+  - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
+  - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+  - Schweiz - Suisse - Svizzera - Switzerland ; Marco Polo ; 1:303000
   - Wyspa Wolin - Woliński Park Narodowy ; ExpressMap ; Comfort! map ; 1:50000
 - Greece
   - Dion - Olympus Municipality - official map ; Dion - Olympus Municipality
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Griechenland - Grèce - Ελλάδα - Greece ; Marco Polo ; 1:800000
   - Νάξος - Nasso ; Freytag & Berndt ; 1:50000
   - Oλυμπος - Mt Olympus ; Anavasi ; Anavasi Maps & Guides ; Topo 25 ; Macedonia 6.11 ; 1:25000 
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
+- Guatemala
+  - Mexico ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:2000000
+- Honduras
+  - Mexico ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:2000000
 - Hungary
   - Karpaty
     - Burda - Ipeľská pahorkatina ; VKÚ Harmanec ; 142 ; 1:50000
     - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
     - Mátra ; Cartographia A Térképszakértö - Cartographia Földgömb- és Térképbolt ; 14 ; 1:40000
     - Slovenský kras ; TatraPlan ; 5037 ; 1:50000
+  - Československá socialistická republika ; Kartografické nakladatelství ; Kartografie, n.p. Praha
+  - Československá socialistická republika ; Slovenská kartografia ; 1:1500000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Maďarsko - Ungarn - Hungaria ; Marco Polo ; Euro-Mapa Země ; 1:300000
+  - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
+  - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
   - Pomurje ; Kartografija ; 1:40000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
+  - Verkehr Ungarns - Transport in Hungary - Communications de la Hongrie - Пути Сообщения Венгрии ; tourinform - Hungarian Tourist Board ; Cartographia Budapest
 - Iceland
   - Akureyri - Mývatn - Dettifoss ; Forlagið ; Sérkort ; 8 ; 1:120000/1:50000
   - Askja - Herðubreið - Kverkfjöll ; Forlagið ; Sérkort ; 7 ; 1:100000/1:50000
   - Borgarjörður ; Forlagið ; Sérkort ;  11 ; 1:100000/1:50000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Eyjafjörður ; Forlagið ; Atlaskort ; 18 ; 1:100000
   - Fljótsdalshérað ; Forlagið ; Atlaskort ; 27 ; 1:100000
   - Gullfoss - Geysir - Hekla ; Forlagið ; Sérkort ; 2 ; 1:100000/1:50000
+  - Iceland ; Rough Guides ; Rough Guide Map ; 1:425000
   - Ísland - Ferðakortabók með Þéttbýliskortum ; Ferðakort ; 1:500000
   - Kjöllur - Langjökull - Kerlingarfjöll ; Forlagið ; Sérkort ; 3 ; 1:100000/1:50000
   - Landmannalaugar - Þórsmörk - Fjallabak ; Forlagið ; Sérkort ; 4 ; 1:100000/1:50000
@@ -303,6 +437,12 @@
   - Þórsmörk - Landmannalaugar ; Ferðakort ; 1:100000
   - Veiðivötn ; Forlagið ; Atlaskort ; 15 ; 1:100000
   - Vestfirðir - West Fjords ; Forlagið ; Sérkort ; 12 ; 1:200000/1:100000
+- Iran
+  - Vereinigte arabische emirate - United Araba Emirates - Émirats arabes unis - Emiratos árabes unidos - Объединённые арабские эмираты - Dubai - Abu Dhabi - V.A.E. - UAE - Dubai ; Reise Know-How Verlag ; World Mapping Project ; 1:470000
+- Ireland
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
 - Italy
   - Alpy
     - Adamello + La Presanella ; Kompass ; 71 ; 1:50000
@@ -332,64 +472,150 @@
     - Gran Sasso d'Italia - Parco Nazionale Gran Sasso-Laga ; S.E.L.C.A. ; Club Alpino Italiano - Sezione dell'Aquila ; 1:25000
     - San Marino, San Leo, Urbino, Urbania - Parco Naturale del Sasso Simone e Simoncello ; Kompass ; 2455 ; 1:50000
   - Capri ; Ordis s.r.l. - Piacenza ; Azienda Autonoma Cura Soggiorno e Turismo - Isola di Capri ; 1:10000
+  - Capri Map ; LaserCapri
   - Capri - map of the paths 5 - fourteen walks ; cart & guide ; 1:7000
+  - Corse ; Michelin ; Carte routière et touristique ; 90 ; 1:200000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
+  - Italy (?) ; Kartográfiai Vállalat ; 1:1250000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+  - Livorno ; Costa degli Etruschi - Agenzia per il turismo
+  - Oplontis - Pianta degli scavi archeologici di Oplontis - Plan of the excavations of Oplontis ; Ministero dei beni e delle attività culturali e del turismo ; Pompeii -  Parco archeologico di Pompei
+  - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
+  - Pianta degli scavi di Ercolano - Plan of the Herculaneum excavations ; Ministero dei beni e delle attività culturali e del turismo ; Pompeii -  Soprintendenza Pompei - Scavi di Ercolano
+  - Pianta degli scavi di Pompei - Plan of the Pompeii excavations ; Ministero dei beni e delle attività culturali e del turismo ; Pompeii -  Parco archeologico di Pompei
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+  - Řím - Rome - Rom ; GeoClub ; Euroclub ; 1:8000
+  - Schweiz - Suisse - Svizzera - Switzerland ; Marco Polo ; 1:303000
+  - Sizilien - Palermo - Sicily - Palermo - Sicilia - Palermo - Sicile - Palermo - Sicilia - Palermo - Auto + Freizeitkarte - Road + Leisure time map - Carta stradale + turistica - Carte routière + de loisir - Mapa de rutas + del ocio ; Freytag & Berndt ; 1:150000
+  - Sorrento Coast - Town maps ; Azienda Autonoma di Soggiorno e Turismo
+  - The gardens of Villa Cimbrone - A walk through nature and history ; villacimbrone.com
 - Kosovo
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
+- Latvia
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
 - Liechtenstein
   - Alpy
     - Alpy włoskie i austriackie - Mapa zimowa - Część II ; Gazeta Wyborcza ; 1:400000
     - Feldkirch - Vaduz ; Kompass ; 21 ; 1:50000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Italy (?) ; Kartográfiai Vállalat ; 1:1250000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+  - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+  - Schweiz - Suisse - Svizzera - Switzerland ; Marco Polo ; 1:303000
+- Lithuania
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+  - Suwalszczyzna ; ExpressMap ; 1:85000
 - Luxembourg
   - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
-  - Diekirch - Putscheid : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R3 ; 1:20000
   - Clervaux - Huldange : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R1 ; 1:20000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
+  - Diekirch - Putscheid : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R3 ; 1:20000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
 - Malta
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Malta, Gozo ; Kompass ; 235 ; 1:25000
 - Mauritania
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
 - Mexico
+  - International Travel Map of Mexico Central ; ITMP Publishing ; International Travel Maps ; 1:1325000
+  - Mexico ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:2000000
   - Mexico North ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:130000
 - Moldova
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
 - Monaco
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
+  - Italy (?) ; Kartográfiai Vállalat ; 1:1250000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
 - Montenegro
   - Durmitor i Kanjon Tare - Nacionalni park Durmitor/Durmitor and Tara Canyon - Durmitor National Park ; Geokarta ; 1:25000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Maglic - Veliki Vitao - Mratinje area from Soviet military map ; copied
   - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Prokletije : planinarenje i biciklizam - Prokletije : hiking & biking ; Kartografija Huber ; 1:50000
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - Wanderkarte Nordalbanien - Thethi und Kelmend ; Huber Verlag ; 1:50000
 - Morocco
+  - España - Portugal - Spain - Spanien - Portugal - Espagne ; Marco Polo ; 1:800000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
 - Netherlands
   - Aachen und das Dreiländereck ; Kompass ; 757 ; 1:50000
   - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
 - North Macedonia
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Griechenland - Grèce - Ελλάδα - Greece ; Marco Polo ; 1:800000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
 - Northern Cyprus
   - Zafer Burnu ; The Office of Tourism Promotion and Marketing ; North Cyprus - Walking Trails/Wanderwege ; 1:1000
 - Norway
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Suomi - Finland ; Marco Polo ; 1:850000
+- Oman
+  - Vereinigte arabische emirate - United Araba Emirates - Émirats arabes unis - Emiratos árabes unidos - Объединённые арабские эмираты - Dubai - Abu Dhabi - V.A.E. - UAE - Dubai ; Reise Know-How Verlag ; World Mapping Project ; 1:470000
+- Paraguay
+  - Argentina, Chile, Uruguay - Argentine, Chili - Argentinien, Chile ; Marco Polo ; 1:4000000
+- Peru
+  - Argentina, Chile, Uruguay - Argentine, Chili - Argentinien, Chile ; Marco Polo ; 1:4000000
 - Poland
   - Ceska vrchovina
     - Broumovsko, Góry Kamienne a Stołowe ; VKÚ Harmanec ; Edice KČT ; 26 ; 1:50000
     - Bruntálsko, Krnovsko a Osoblažsko ; KČT ; Edice KČT ; 58 ; 1:50000
     - Góry Stołowe ; Galileos ; 1:30000
+    - Góry Złote - Rychlebské hory ; Compass ; 1:35000
     - Hrubý Jeseník ; JENA ; 1:25000
     - Jizerské hory ; Geodézie ČS ; Edice Geobáze ; 513 ; 1:50000
     - Karkonosze ; Demart : 1:25000
     - Karkonosze czeskie - mapa zimowa - część IV ; Gazeta Wyborcza ; 1:40000
     - Karkonosze - mapa panoramiczna ; ExpressMap ; Comfort! map ; 1:33000
+    - Kotlina Kłodzka + Kłodzko - plan miasta skala 1:8000 ; galileos.pl ; Plan Wrocław ; 1:50000
     - Králický Sněžník ; VKÚ Harmanec ; Edice KČT ; 53 ; 1:50000
     - Krkonoše-východ - Riesengebirge-ost ; VKÚ Harmanec ; KČT ; 1:25000
     - Krkonoše-západ - Riesengebirge-west ; VKÚ Harmanec ; KČT ; 1:25000
@@ -397,11 +623,14 @@
     - Masyw Ślęży + Sobótka ; Galileos ; Wydawnictwo turystyczne Plan ; 1:25000
     - Masyw Śnieżnika + Góry Bialskie, Góry Złote, Krowiarki ; Galileos ; Plan Wrocław ; 1:40000
     - Orlické hory ; VKÚ Harmanec ; Edice KČT ; 27 ; 1:50000
+    - Polanica-Zdrój - źródło zdrowia - Gdzie zjeść ? ; Euroregion Glaciensis
     - Rudawy Janowickie ; Galileos ; 1:25000
     - Rychlebské hory a Lázně Jeseník ; KČT ; Edice KČT ; 54 ; 1:50000
     - Rychlebské hory - Góry Złote ; Galileos ; 1:40000
     - Sudety Środkowe ; ExpressMap ; Comfort! map ; 1:60000
+    - Sudety Środkowe - Góry Sowie, Góry Kamienne, Góry Wałbrzyskie ; galileos.pl ; Wydawnictwo turystyczne Plan ; 1:40000
     - Sudety Wschodnie ; ExpressMap ; Comfort! map ; 1:60000
+    - Sudety Zachodnie ; ExpressMap ; Comfort! map ; 1:60000
     - Ziemia Kłodzka ; ExpressMap ; Comfort! map ; 1:60000
     - Zlatohorská vrchovina - Góry Opawskie ; JENA ; 1:50000
   - Karpaty
@@ -411,6 +640,7 @@
     - Beskid Niski ; ExpressMap ; Comfort! map ; 1:70000
     - Beskid Sądecki - Pieniny ; VKÚ Harmanec ; 159 ; 1:50000
     - Beskid Śląski ; Wydawnictwo Piętka ; 1:50000
+    - Beskid Śląski dla wymagających ; Compass ; 1:25000
     - Beskid Śląski i Pasmo Wielkiej Raczy ; Wydawnictwo Witański ; 1:50000
     - Beskid Wyspowy ; Compass ; Galileos ; 1:50000
     - Beskid Żywiecki ; ExpressMap ; Comfort! map ; 1:50000
@@ -444,7 +674,13 @@
     - Západné Tatry - Podbanské + Zverovka ; VKÚ Harmanec ; 3 ; 1:25000
     - Západné Tatry - Roháče ; VKÚ Harmanec ; 112 ; 1:50000
   - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
+  - Československá socialistická republika ; Kartografické nakladatelství ; Kartografie, n.p. Praha
+  - Československá socialistická republika ; Slovenská kartografia ; 1:1500000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
   - Dolinki Podkrakowskie ; Compass ; 1:25000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Gliwice i okolice ; Galileos ; Plan Wrocław ; 1:50000
   - Górnośląski Okręg Przemysłowy - mapa komunikacyjna ; Falk ; 1:65000
   - Góry Świętokrzyskie ; ExpressMap ; Comfort! map ; 1:75000
@@ -461,9 +697,11 @@
   - Ostravsko ; kartografie Praha ; Český svaz turistů ; Soubor turistických map ; 21 ; 1:100000
   - Pobrzeże Bałtyku - Die Ostseeküste Länderkarte - Od Dziwnowa do Kołobrzegu ; Galileos ; Wydawnictwo turystyczne Plan ; Wybrzeże Bałtyku z mapami Plan ; B ; 1:45000
   - Pojezierze Drawskie - część wschodnia ; Galileos ; Plan ; 1:50000
+  - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
   - Pomorze ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:400000
   - Powiat Bocheński i okolice ; Regis ; 1:45000
   - Powiat Krapkowicki i okolice ; Galileos ; 1:40000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Puszcza Kampinoska ; ExpressMap ; 1:35000
   - Puszcza Kampinoska ; ExpressMap ; Comfort! map ; 1:40000
   - Roztoczański Park Narodowy ; Kartpol ; Roztoczański Park Narodowy ; 1:70000/1:8000
@@ -471,6 +709,7 @@
   - Rybnik, Żory, Jastrzębie-Zdrój, Wodzisław Śląski i okolice ; Galileos ; 1:50000
   - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
   - Słowiński Park Narodowy - Wybrzeże Bałtyku: Ustka-Rowy-Łeba ; ExpressMap ; Comfort! map ; 1:50000
+  - Suwalszczyzna ; ExpressMap ; 1:85000
   - Szlak Architektury Drewnianej - Województwo Małopolskie ; Compass ; Województwo Małopolskie ; 1:200000
   - Tychy + Pszczyna ; Galileos ; Plan ; 1:10000
   - Wybrzeże Środkowe - część wschodnia ; ExpressMap ; Comfort! map ; 1:50000
@@ -480,8 +719,14 @@
   - Ziemia Oświęcimska - Dolina Karpia ; Compass ; 1:50000
 - Portugal
   - Azoren - Azores - Açores - Azores : Auto + Freizeitkarte - Road + Leisure time map - Mapa de Estradas + de lazer - Carte routière - de loisir ; Freytag & Berndt ; 1:75000
+  - España - Portugal - Spain - Spanien - Portugal - Espagne ; Marco Polo ; 1:800000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Madeira ; Kompass ; 234 ; 1:50000
   - Portugal ; Marco Polo ; 1:300000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+- Qatar
+  - Vereinigte arabische emirate - United Araba Emirates - Émirats arabes unis - Emiratos árabes unidos - Объединённые арабские эмираты - Dubai - Abu Dhabi - V.A.E. - UAE - Dubai ; Reise Know-How Verlag ; World Mapping Project ; 1:470000
 - Romania
   - Karpaty
     - Munții Căliman - Kelemen-havasok - Căliman Mountains ; Dimap ; 18 ; 1:60000
@@ -490,22 +735,46 @@
     - Munții Rodnei - Radnai-havasok - Rodnei Mountains ; Dimap ; 15 ; 1:50000
     - Piatra Craiului - Piatra Craiului Mountains ; Bel Alpin ; 1:30000
     - Banát ; Freytag & Berndt ; KČT ; Edice KČT ; RO ; 1:100000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Maďarsko - Ungarn - Hungaria ; Marco Polo ; Euro-Mapa Země ; 1:300000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
 - Russia
   - Kaukaz
     - Mt. Ushba, Mestia ; Geoland ; Geoland Maps - Trekking Maps ; 10 ; 1:50000
     - Ushguli, Lashkheti, Mt. Shkhara ; Geoland ; Geoland Maps - Trekking Maps ; 8 ; 1:50000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Gruzja 3w1 ; ExpressMap ; Comfort! map ; 1:450000
+  - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Suomi - Finland ; Marco Polo ; 1:850000
+  - Suwalszczyzna ; ExpressMap ; 1:85000
+- Salvador
+  - Mexico ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:2000000
 - San Marino
   - Apeniny
     - San Marino, San Leo, Urbino, Urbania - Parco Naturale del Sasso Simone e Simoncello ; Kompass ; 2455 ; 1:50000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Italy (?) ; Kartográfiai Vállalat ; 1:1250000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+- Saudi Arabia
+  - Vereinigte arabische emirate - United Araba Emirates - Émirats arabes unis - Emiratos árabes unidos - Объединённые арабские эмираты - Dubai - Abu Dhabi - V.A.E. - UAE - Dubai ; Reise Know-How Verlag ; World Mapping Project ; 1:470000
 - Serbia
   - Banát ; Freytag & Berndt ; KČT ; Edice KČT ; RO ; 1:100000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Kopaonik ; Geokarta ; JP "Nacionalni park Kopaonik" National Park Kopaonik ; 1:40000
+  - Maďarsko - Ungarn - Hungaria ; Marco Polo ; Euro-Mapa Země ; 1:300000
   - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - Stara planina - Nature park prirode ; Geokarta ; 1:50000
@@ -516,6 +785,7 @@
     - Beskid Niski ; ExpressMap ; Comfort! map ; 1:70000
     - Beskid Sądecki - Pieniny ; VKÚ Harmanec ; 159 ; 1:50000
     - Beskid Śląski ; Wydawnictwo Piętka ; 1:50000
+    - Beskid Śląski dla wymagających ; Compass ; 1:25000
     - Beskid Śląski i Pasmo Wielkiej Raczy ; Wydawnictwo Witański ; 1:50000
     - Beskid Żywiecki ; ExpressMap ; Comfort! map ; 1:50000
     - Beskydy ; Geodetický a kartografický podnik v Praze ; Soubor turistických map ; 1:100000
@@ -582,6 +852,15 @@
     - Západné Tatry - Podbanské + Zverovka ; VKÚ Harmanec ; 3 ; 1:25000
     - Západné Tatry - Roháče ; VKÚ Harmanec ; 112 ; 1:50000
   - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
+  - Československá socialistická republika ; Kartografické nakladatelství ; Kartografie, n.p. Praha
+  - Československá socialistická republika ; Slovenská kartografia ; 1:1500000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Maďarsko - Ungarn - Hungaria ; Marco Polo ; Euro-Mapa Země ; 1:300000
+  - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
+  - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
   - Szlak Architektury Drewnianej - Województwo Małopolskie ; Compass ; Województwo Małopolskie ; 1:200000
 - Slovenia
@@ -589,12 +868,23 @@
     - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen ; Alpenverein ; Stand:2015 ; 1:500000
     - Alpy austriackie - Mapa zimowa - Część I ; Gazeta Wyborcza ; 1:400000
     - Julische Alpen ; Freytag & Berndt ; WK141 ; 1:50000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Italy (?) ; Kartográfiai Vállalat ; 1:1250000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+  - Maďarsko - Ungarn - Hungaria ; Marco Polo ; Euro-Mapa Země ; 1:300000
+  - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
   - Pomurje ; Kartografija ; 1:40000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Štajerska : Slovenske Gorice - Haloze - Boč ; Kartografija ; 1:50000
 - Spain
   - Pireneje
     - Bourg-Madame - Col de Puymorens - Pic Carlit ; IGN ; Carte Topographique Top 25 ; 2249OT ; 1:25000
+  - España - Portugal - Spain - Spanien - Portugal - Espagne ; Marco Polo ; 1:800000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Fuertaventura 3in1 ; Kompass ; 240 ; 1:50000
   - Gran Canaria ; Kompass ; 237 ; 1:50000
@@ -608,6 +898,7 @@
   - Parque Natural Sierras de Tejeda, Almijara y Alhama - 2 mapas ; Editorial Piolet ; Piolet mapas ; Editorial La Serranía ; 1:25000
   - Pollença ; Magenta Mprentadigital ; Pollença ; 1:50000
   - Portugal ; Marco Polo ; 1:300000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Reservas Naturales Laguna Fuente de Piedra, Campillos, Ratosa y Archidona ; Editorial Penibética ; 1:30000
   - Sierra de Grazalema ; Ronda Cartográfica ; Colecciones Topográficas de Andalucía "Pueblos Blancos" ; 1:30000
   - Sierra de las Nieves ; Ronda Cartográfica ; Colecciones Topográficas de Andalucía "Pueblos Blancos" ; 1:35000
@@ -617,6 +908,10 @@
   - Teneriffa ; Kompass ; 233 ; 1:50000
   - Valle del Guadalhorce - Caminito del Rey ; Rosa Sierra S.L. ; 1:50000
 - Sweden
+  - Dänemark - Luxembourg ; RV Verlag ; Euro Cart ; Euro-Regionalkarte ; 1:300000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Suomi - Finland ; Marco Polo ; 1:850000
 - Switzerland
   - Alpy
@@ -630,12 +925,27 @@
     - Mischabel : Zermatt - Saas Fee ; Swisstopo ; Landeskarte der Schweiz/Offizielle Wanderkarte der SAW ; 284T ; 1:50000
     - Saas ; Swisstopo ; Landeskarte der Schweiz ; 1329 ; 1:25000
     - Visp : Lötschberg - Südrampe - Brig - Simplon ; Landeskarte der Schweiz/Offizielle Wanderkarte der Schweizer Wanderwege ; 274T ; 1:50000
+  - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
+  - Italy (?) ; Kartográfiai Vállalat ; 1:1250000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+  - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+  - Schweiz - Suisse - Svizzera - Switzerland ; Marco Polo ; 1:303000
 - Tunisia
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
 - Turkey
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Griechenland - Grèce - Ελλάδα - Greece ; Marco Polo ; 1:800000
   - Gruzja 3w1 ; ExpressMap ; Comfort! map ; 1:450000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
 - Ukraine
   - Karpaty
     - Bieszczady ; Compass ; 1:50000
@@ -644,22 +954,48 @@
     - Bieszczady - Bukovské vrchy ; VKÚ Harmanec ; 163 ; 1:50000
     - Bieszczady - Pogórze Przemyskie ; Demart ; 1:75000
     - Vihorlatské vrchy - Zemplínská Šírava ; VKÚ Harmanec ; 126 ; 1:50000
+  - Československá socialistická republika ; Kartografické nakladatelství ; Kartografie, n.p. Praha
+  - Československá socialistická republika ; Slovenská kartografia ; 1:1500000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Maďarsko - Ungarn - Hungaria ; Marco Polo ; Euro-Mapa Země ; 1:300000
+  - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
   - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
+- United Arab Emirates
+  - Vereinigte arabische emirate - United Araba Emirates - Émirats arabes unis - Emiratos árabes unidos - Объединённые арабские эмираты - Dubai - Abu Dhabi - V.A.E. - UAE - Dubai ; Reise Know-How Verlag ; World Mapping Project ; 1:470000
 - United Kingdom
+  - Argentina, Chile, Uruguay - Argentine, Chili - Argentinien, Chile ; Marco Polo ; 1:4000000
   - Ben Lawers & Glen Lyon - Loch Tay, Killin & Kenmore ; OS ; OS Explorer ; OL48 ; 1:25000
   - Ben Nevis & Fort William - The Mamores & The Grey Corries & Kinlochleven & Spean Bridge ; OS ; OS Explorer Map ; Active Map For All Extremes ; 392 ; 1:25000
+  - Caravan and Camping Parks Map - 2017 ; visitscotland.com ; 1:1000000
+  - España - Portugal - Spain - Spanien - Portugal - Espagne ; Marco Polo ; 1:800000
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Glen Coe & Glen Etive - Ballachulish & Kinlochleven ; OS ; OS Explorer ; 384 ; 1:25000
   - Isle of Mann - Ellan Vannin - Outdoor Leisure Map - north ; Isle of Man Survey ; 1:25000
   - Isle of Mann - Ellan Vannin - Outdoor Leisure Map - south ; Isle of Man Survey ; 1:25000
   - Loch Etive & Glen Orchy - Dalmally, Tyndrum, Bridge of Orchy & Taynuilt ; OS ; OS Explorer ; 377 ; 1:25000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Snowdon/Yr Wyddfa - Conwy Valley/Dyffryn Conwy ; OS ; OS Explorer ; OL17 ; 1:25000
+  - The English Lakes - North-Western Area - Keswick, Cockermouth, Wigton ; OS ; OS Explorer ; OL4 ; 1:25000
+  - The English Lakes - South-Western Area - Coniston, Ulverston & Barrow-in-Furness ; OS ; OS Explorer ; OL6 ; 1:25000
   - The Trossachs - Callander, Aberfoyle & Lochearnhead, Balquhidder & Strathyre ; OS ; OS Explorer ; OL46 ; 1:25000
   - Visitor Map - Leisure Map of Jersey ; Channel Islands Maps Ltd ; Jersey Heritage ; 1:25000
 - United States
+  - Mexico ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:2000000
   - Mexico North ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:130000
+- Uruguay
+  - Argentina, Chile, Uruguay - Argentine, Chili - Argentinien, Chile ; Marco Polo ; 1:4000000
 - Vatican
+  - Europa ; Demart ; moto ; 1:3400000
+  - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
+  - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Italy (?) ; Kartográfiai Vállalat ; 1:1250000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+  - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
 - Western Sahara
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
