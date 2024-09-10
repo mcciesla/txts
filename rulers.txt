@@ -224,9 +224,9 @@ Ahlat
   Bibliografia :
       Myriokefalon 1176
 
-Ahmadnagar ( Sultanát Ahmadnagar )
+Ahmadnagar ( Sultanát Ahmadnagar , Sultanát ahmadnagarský )
   Nizámšáhové
-    Ahmad Nizám Šáh                                     1490-1510 ( wg D.I. )
+    Ahmad Nizám Šáh                                     1490-1510 ( Ahmad Nizámulmulk wg D.I. )
     Burhán I.                                           1510-1553 ( wg D.I. )
     Husain I.                                           1554-1565 ( wg D.I. )
     Murtaza I.                                          1565-1588 ( wg D.I. )
@@ -920,6 +920,13 @@ Amazonki
   Bibliografia :
       Thrákové
       Mity pięciu części świata
+
+Ambér ( Ámbér )
+  Kačhváhové
+    Džaj Sinh Kačhváha                                  przed 1658-po 1666 (29.5.-12.5.) ( Džaj Sinh Kačhváha z Ambéru (Džaj Sinh z Ámbéru, Džaj Sinh) wg D.I. )
+  Džaj Sinh z Ámbéru                                    przed 1712-po 1713 ( wg D.I. )
+  Bibliografia :
+      Dějiny Indie
 
 Ambohimanga
   Andriantsimitoviaminandriana                          ok.1710 n.e.-? ( wg D.O.T.W.A.C.A.G.H. ) [King of Madagascar]
@@ -3940,6 +3947,10 @@ Badtibira ( Bad-Tibira )
   Bibliografia :
       Huryci
 
+Baglána
+  Bibliografia :
+      Dějiny Indie
+
 Królestwo Bahmanidów ( The Bahmanī Kingdom of the Deccan , Bahmanský sultanát , Bahmánský sultanát )
   Dynastia Bahmanidów ( Bahmanī Dynasty , The Bahmanis , Bahmanovci )
     Hasan Bahman Szah		                                1347-1359 ( wg D.Ś. ) ( Ḥasan Bahman Shāh wg D.O.T.W.A.C.A.G.H. )
@@ -4611,7 +4622,7 @@ Bengalia ( Bengal , Bengálsko )
       Sajfuddín Fírúz Šáh                               1487-1490 ( wg D.I. )
       Násiruddín Mahmúd Šáh                             1490-1491 ( wg D.I. )
       Šamsuddín Muzaffar Šáh                            1491-1494 ( wg D.I. )
-    Husainšáhové ( Dynastie Husainšáhů )
+    Husainšáhové ( Dynastie Husainšáhů , Husainšáhovská dynastie )
       Sajjid Aláuddín Husain Šáh                        1493/4-1519 ( Aláuddín Husain Šáh wg D.I. )
       Násiruddín Nasrat Šáh                             1519-1532 ( wg D.I. )
       Aláuddín Fírúz Šáh                                1532-1533 ( wg D.I. )
@@ -4626,14 +4637,15 @@ Bengalia ( Bengal , Bengálsko )
       Sulajmán Karrání                                  1564-1572 ( Karrání wg D.I. )
       Bájazíd Šáh Karrání                               1572 ( wg D.I. )
       Dáúd Šáh Karrání                                  1572-1576 ( Dáúd Karrání wg D.I. )
-    Muršid Kulí Chán                                    1715/6-1727 ( wg D.I. )
+    Ísa Chán                                            przed 1584-1599 ( wg D.I. )
+    Muršid Kulí Chán                                    1715/6-1727 ( Muršid wg D.I. )
     Šudžáuddín Chán                                     1728-1739 ( wg D.I. )
     Sarfaráz Chán                                       1739-1740 ( wg D.I. )
     Alívardí Chán                                       1740-1756 ( wg D.I. )
     Sirádžuddaula                                       1756-1757 ( wg D.I. )
     Mír Džáfar                                          1757-1760 ( wg D.I. )
-    Mír Kásim Alí Chán                                  1760-1764 ( wg D.I. )
-    Mír Džáfar                                          1764-1765 ( wg D.I. )
+    Mír Kásim Alí Chán                                  1760-1763/4 ( Mír Kásim wg D.I. )
+    Mír Džáfar                                          1763/4-1765 ( wg D.I. )
     Nadžmuddaula                                        1765-1766 ( wg D.I. )
     Saifuddaula                                         1766-1770 ( wg D.I. )
   Bibliografia :
@@ -4841,6 +4853,12 @@ Księstwo Biełogordskie
   Bibliografia :
       Litwa - Początki Państw
 
+Bihar
+  Behár Chán Lóhání                                     1526-1528 ( Muhammad Šáh wg D.I. )
+  Šér Chán Súr                                          1528-po 1539 ( Šér Šáh (Šér Chán) wg D.I. ) [Sultan of Delhi]
+  Bibliografia :
+      Dějiny Indie
+
 Marchia Billungów
   Ród Billungów
     Herman Billung                                      ok.936-po 955 ( Herman wg O.I.W. ) [Duke of Saxony]
@@ -5008,8 +5026,8 @@ Bizancjum ( Byzantion )
       Zrození Řecka
 
 Bídar ( Sultanát Bídar )
-  Barídíšáhové
-    Amír Baríd                                          1528-1543 ( wg D.I. )
+  Barídíšáhové ( Barídšáhové )
+    Amír Baríd                                          1528-1543 ( Baríd  wg D.I. )
     Alí Baríd Šáh                                       1543-1579 ( wg D.I. )
     Ibráhím Baríd Šáh                                   1579-1587 ( wg D.I. )
     Kásim Baríd Šáh                                     1587-1591 ( wg D.I. )
@@ -5020,15 +5038,22 @@ Bídar ( Sultanát Bídar )
       Dějiny Indie
 
 Bídžápur ( Sultanát Bídžápur )
-  Ádilšáhové
+  Júsuf Ádil Chán                                       1490 n.e.-? ( wg D.I. )
+  Ádilšáhové ( Dynastie Ádilšáhů , Ádilšáhovská dynastie )
     Ismáíl                                              1510-1534 ( wg D.I. )
     Mallú                                               1534-1535 ( wg D.I. )
     Ibráhím I.                                          1535-1557 ( wg D.I. )
     Alí I.                                              1557-1579 ( wg D.I. )
     Ibráhím II.                                         1579-1626 ( wg D.I. )
-    Muhammad                                            1626-1656 ( wg D.I. )
+    Muhammad                                            1626-1656 ( Muhammad Ádil Šáh wg D.I. )
     Alí II.                                             1656-1672 ( wg D.I. )
     Sikandar                                            1672-1686 ( wg D.I. )
+  Kám Bachš                                             1707-1709 (?-13.1.) ( wg D.I. )
+  Bibliografia :
+      Dějiny Indie
+
+Bíkánér
+  Kalján Mál z Bíkánéru                                 przed 1570 n.e.-? ( wg D.I. )
   Bibliografia :
       Dějiny Indie
 
@@ -6780,9 +6805,9 @@ Chazarowie ( Chanay , Khazars , al-Chazar , Chazaři )
       Otton I Wielki
       Kijów 1018
 
-Chándéš
-  Farúkovci
-    Malik Rádža Fárúkí                                  1370-1399 ( wg D.I. )
+Chándéš ( "Země chánů" , "Chánství" , Knížectví Chándéš )
+  Farúkovci ( Fárúkovci )
+    Malik Rádža Fárúkí                                  1370-1399 ( Malik Rádža wg D.I. )
     Nasír Chán                                          1399-1437 ( wg D.I. )
     Ádil Chán I.                                        1437-1441 ( wg D.I. )
     Mírán Mubárak Chán I.                               1441-1457 ( wg D.I. )
@@ -9991,6 +10016,8 @@ Delhi ( Dillí )
       Muhammad Ádil Šáh                                 1554 ( wg D.I. ) [Ruler of Mughal Empire Muhammad ´Adil]
       Ibráhím III.                                      1554-1555 ( wg D.I. ) [Ruler of Mughal Empire Ibrahim III]
       Ahmad Chán Sikandar Šáh III.                      1555//1554-1555/7 (?-po ?.2./?.5.) ( Sikandar Šáh Súr (Sikandar Šáh) wg D.I. ) [Ruler of Mughal Empire Sikandar III]
+      Ádil Šáh Súr                                      przed 1556-1557 ( Ádil Šáh wg D.I. )
+    Hémú                                                1556 (?-5.11.) ( Vikramáditja (Héma Čandra, Hémú Šáh) wg D.I. )
   Bibliografia :
       Dynastie Świata
       Starověká Indie
@@ -10331,6 +10358,7 @@ Dúr-Rímuš
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
 Dváraka
+  Bhíma                                                 ?-1470 n.e. ( wg D.I. )
   Bibliografia :
       Dějiny Indie
 
@@ -10365,11 +10393,6 @@ Dżanggala
       Encyklopedie panovníků
 
 Dżattowie
-
-Džerba
-  Turgut                                                ? ( wg P.U.D. ) [Ruler of Regentství Alžíru] [Ruler of Eyalet of Tripolitania]
-  Bibliografia :
-      Pírátství - Úplné dějiny
 
 Dżibal ( Irak Perski )
   Izz ad-Din Gökcze                                     przed 1200-1203/4 ( Gökcze wg B.D.K.B. )
@@ -10412,9 +10435,19 @@ Dżuzdan
   Bibliografia :
       Dzieje dawnych Turków
 
+Džaisalmér
+  Har Ráj                                               przed 1570 n.e.-? ( wg D.I. )
+  Bibliografia :
+      Dějiny Indie
+
 Džálandhar
   Bibliografia :
       Dějiny Indie
+
+Džerba
+  Turgut                                                ? ( wg P.U.D. ) [Ruler of Regentství Alžíru] [Ruler of Eyalet of Tripolitania]
+  Bibliografia :
+      Pírátství - Úplné dějiny
 
 Księstwo dźwinogrodzkie
   Wołodar                                               1085-1124 ( wg W.W.K.R. ) [Książe przemyski]
@@ -12224,6 +12257,10 @@ Faros
       Kronika Rzymu i Cesarstwa Rzymskiego
       Řecko mezi Makedonií a Římem
 
+Farruchábád
+  Bibliografia :
+      Dějiny Indie
+
 Fars
   Omar Shaykh                                           1393 n.e.
   Bibliografia :
@@ -12307,8 +12344,11 @@ Feraj ( Fery , Pherae )
 Fergana ( Ferghana )
   Bagadur Tudun		                                      przed 705 n.e.-? ( wg D.D.T. )
   Aluda			                                            713-715 ( wg D.D.T. )
+  Umar Šajch Mírza                                      ?-1494 ( wg D.I. )
+  Bábur                                                 1494-? i 1499-1500 ( wg D.I. ) [Emperor of Mughal Empire Babur]
   Bibliografia :
       Dzieje dawnych Turków
+      Dějiny Indie
 
 Ferrara
   Dom Este
@@ -13433,10 +13473,14 @@ Księstwo Gaety ( Gaeta )
       Normanowie i Bizancjum w XI stuleciu
 
 Gajapati Empire
-  Gadžapatiové ( Súrjavanší , Kapiléndrovci )
+  Gadžapatiové ( Súrjavanší , Kapiléndrovci , Dynastie Gadžapatiů )
     Kapiléndra                                          1434/5-1467 ( wg D.I. )
     Purušóttama                                         1467-1497 ( wg D.I. )
     Pratáparudra                                        1497-1540 ( wg D.I. )
+  Bibliografia :
+      Dějiny Indie
+
+Gakharové
   Bibliografia :
       Dějiny Indie
 
@@ -13547,6 +13591,16 @@ Gandhara ( Gandhára )
   Bibliografia :
       Rýžoviště zlata a doly drahokamů
       Hydaspes 326 p.n.e.
+      Dějiny Indie
+
+Garha Katanga
+  Čandéllové
+    Durgávatí                                           ?-1564 n.e. ( wg D.I. )
+  Bibliografia :
+      Dějiny Indie
+
+Garhvál
+  Bibliografia :
       Dějiny Indie
 
 Garma
@@ -13786,6 +13840,10 @@ Hrabstwo Giovinazzo
 
 Girgir
 
+Girnár
+  Bibliografia :
+      Dějiny Indie
+
 County of Girona ( Hrabstwo Girony )
   Rostagnus                                             przed 801 n.e.-? (wiosna-?) ( wg F.841 )
   Bernard Septymański                                   826-832 i 835-844 ( Bernard z Septymanii (Bernard) wg F.841 ) [Count of Toulouse] [Count of Barcelona] [Count of Autun] [Count of Osona] [Count of Narbonne] [Count of Béziers] [Count of Agde] [Count of Melguelh] [Count of Nimes] [Count of Uzès] [Count of Lodève] [Count of Rousillon] [Count of Carcassonne]
@@ -13973,15 +14031,15 @@ Goulas
       Dzieje Grecji
 
 Gólkonda ( Sultanát Gólkonda )
-  Kutubšáhové
-    Kulí Kutubulmulk                                    1518-1543 ( wg D.I. )
+  Kutubšáhové ( Dynastie Kutubšáhů )
+    Kulí Kutubulmulk                                    1518-1543 ( Kutubulmulk wg D.I. )
     Džamšíd                                             1543-1550 ( wg D.I. )
     Subhán                                              1550 ( wg D.I. )
     Ibráhím Kutub Šáh                                   1550-1580 ( wg D.I. )
     Muhammad Kulí Kutub Šáh                             1580-1612 ( wg D.I. )
     Muhammad Kutub Šáh                                  1612-1626 ( wg D.I. )
     Abdulláh Kutub Šáh                                  1626-1672 ( wg D.I. )
-    Abul Hasan Kutub Šáh                                1672-1687 ( wg D.I. )
+    Abul Hasan Kutub Šáh                                1672-1687 ( Abúl Hasan Kutub Šáh wg D.I. )
   Bibliografia :
       Dějiny Indie
 
@@ -14157,21 +14215,23 @@ Guhilové
   Bibliografia :
       Dějiny Indie
 
-Gujarat Sultanate
-  Zafar Chán Muzaffar I.                                1407-1411 ( wg D.I. )
-  Ahmad I.                                              1411-1442 ( wg D.I. )
-  Muhammad Karím                                        1442-1451 ( wg D.I. )
-  Kutbuddín Ahmad II.                                   1451-1458 ( wg D.I. )
+Gujarat Sultanate ( Gudžarát , Gudžarátský sultanát )
+  Rástí Chán                                            1389-1392 ( wg D.I. )
+  Dynastie Ahmadšáhí
+  Zafar Chán Muzaffar I.                                1407-1411 ( Muzaffar Šáh (Muzaffar Chán) wg D.I. )
+  Ahmad I.                                              1411-1442/3 ( Ahmad I. Šáh (Ahmad) wg D.I. )
+  Muhammad Karím                                        1442/3-1451 ( Muhammad Šáh wg D.I. )
+  Kutbuddín Ahmad II.                                   1451-1458 ( Kutbuddín Ahmad Šáh II. wg D.I. )
   Dáúd                                                  1458 ( wg D.I. )
-  Mahmúd I. Bégarha                                     1458-1511 ( wg D.I. )
-  Muzaffar II.                                          1511-1526 ( wg D.I. )
+  Mahmúd I. Bégarha                                     1458-1511 ( Mahmúd Bégarha (Mahmúd, Muhammad) wg D.I. )
+  Muzaffar II.                                          1511-1526 ( Muzaffar Šáh II. wg D.I. )
   Sikandar                                              1526 ( wg D.I. )
   Násir Chán Mahmúd II.                                 1526 ( wg D.I. )
-  Bahádur Šáh                                           1526-1537 ( wg D.I. )
+  Bahádur Šáh                                           1526-1537 (?-?.2.) ( Bahádur wg D.I. )
   Mírán Muhammad I. z Chandéše                          1537 ( wg D.I. ) [Ruler of Chándéš Mírán Muhammad I.]
-  Mahmúd III.                                           1537-1554 ( wg D.I. )
-  Ahmad III.                                            1554-1561 ( wg D.I. )
-  Muzaffar III.                                         1561-1573 ( wg D.I. )
+  Mahmúd III.                                           1537/8-1554 ( Mahmúd wg D.I. )
+  Ahmad III.                                            1554-1561 ( Ahmad Šáh III. wg D.I. )
+  Muzaffar III.                                         1561-1572/3 (?-?.11./?) ( Muzaffar Šáh III. wg D.I. )
   Bibliografia :
       Dějiny Indie
 
@@ -14443,10 +14503,10 @@ Królestwo Hafsydów ( The Ḥafṣid Kingdom )
       Arabowie
 
 Haidarabad ( Haidarábád )
-  Ásaf Džáh I. Nizámulmulk Čín Kilíčž Chán              1724-1748 ( wg D.I. )
+  Ásaf Džáh I. Nizámulmulk Čín Kilíčž Chán              1724-1748 ( Nizámulmulk (Čín Kilíč Chán, Nizám) wg D.I. )
   Násir Džang                                           1748-1750 ( wg D.I. )
   Muzaffar Džang                                        1750-1751 ( wg D.I. )
-  Salábat Džang                                         1751-1762 ( wg D.I. )
+  Salábat Džang                                         1751/przed 1749-1762 ( wg D.I. )
   Ásaf Džáh II. Nizám Alí Chán                          1762-1803 ( wg D.I. )
   Ásaf Džáh III. Mír Akbar Alí Chán Sikandar Džáh       1803-1829 ( wg D.I. )
   Ásaf Džáh IV. Násiruddaula Farchunda                  1829-1857 ( wg D.I. )
@@ -15361,7 +15421,7 @@ Hiszpania ( Spain , Španělsko , Espagne )
       Filip II        	                                1556-1598 ( wg D.Ś. i V.N.M.S.D. i D.Ř.I. i M.Ś. ) ( Philip II (Felipe II) wg V.K.T.H.O.H.E. ) ( Philip II wg D.O.T.W.A.C.A.G.H. i R.E.P.A.T.M.O.M. ) ( Filip II. wg S.V.D.K.V. ) ( Philip II (Philipp II., Philip, Philip II of Spain) wg T.H.R.E.A.T.Y.O.E.H. )
       		         	                                    1556-po 1588 ( wg O.A. )
       		         	                                    przed 1561-po 1571 ( wg M.A.E. )
-      			                                            ? ( wg V.F.V. ) ( Philip II wg A.S.A.O.T.D.O.T.I. i U.E. i H.O.W.P. )
+      			                                            ? ( wg V.F.V. ) ( Philip II wg A.S.A.O.T.D.O.T.I. i U.E. i H.O.W.P. ) ( Filip II. wg D.I. )
                                                         ok.1550 ( wg Z.N.E. )
                                                         przed 1565-po 1586 ( wg Ř.S.J.Ď.S. )
                                                         przed 1557-1598 (?-?.9.) ( Filip (Filip Hiszpański) wg H.W. )
@@ -15458,6 +15518,7 @@ Hiszpania ( Spain , Španělsko , Espagne )
       Maxmilián I. - Zakladatel habsburské světové říše
       The Holy Roman Empire - A Thousand Years of Europe's History
       Mohacz 1526
+      Dějiny Indie
 
 Księstwo Hobolinu
   Wirykind                                              ok.1100 n.e.
@@ -17094,13 +17155,14 @@ Jaudhéjové
     Starověká Indie
     Dějiny Indie
 
-Sultanate of Jaunpur ( Šarkíové )
-  Malik Sarvar                                          1394-1399 ( wg D.I. )
-  Mubárak Šáh                                           1399-1402 ( wg D.I. )
-  Šamsuddín Ibráhím                                     1402-1440 ( wg D.I. )
-  Mahmúd Šáh                                            1440-1457 ( wg D.I. )
-  Muhammad Šáh                                          1457-1458 ( wg D.I. )
-  Husain Šáh                                            1458-1479 ( wg D.I. )
+Sultanate of Jaunpur ( Džaunpur , Šarkíovský sultanát )
+  Dynastie Šarkíů ( Šarkíové , Dynastie Šarkí , Šarkíovská dynastie )
+    Malik Sarvar                                        1394-1399 ( wg D.I. )
+    Mubárak Šáh                                         1399-1402 ( wg D.I. )
+    Šamsuddín Ibráhím                                   1402-1440 ( Šamsuddín Ibráhím Šáh (Ibráhím Šáh, Ibráhím) wg D.I. )
+    Mahmúd Šáh                                          1440-1457 ( Mahmúd wg D.I. )
+    Muhammad Šáh                                        1457-1458 ( wg D.I. )
+    Husain Šáh                                          1458-1479 ( Husain Šáh Šarkí wg D.I. )
   Bibliografia :
       Dějiny Indie
 
@@ -17730,7 +17792,7 @@ Kalifat ( Caliphate , The Caliphate , Kalifat Arabski , Chalífát )
                                                         ? ( Ali wg T.S.O.I.C.O.T.W. i M.1526 )
                                                         656-659/61 (24.6.-?.1./24.1.) ( Ali (Ali Ibn Abi Talib) wg B.D.K.B. )
     Al-Hasan       	                                    661 (28(30).1.-?.7.) ( wg R.Z.A.D.D. )
-  Dynastia Umajjadów ( Dynastia Omajadów , Umayyad Caliphate , Umayyad Dynasty , Umajjovský chalífát , Umayyads , Umayyad dynasty , Omajjadzi , Dynastia Omajjadów , Umajjadzi , Kalifat Umajjadów )
+  Dynastia Umajjadów ( Dynastia Omajadów , Umayyad Caliphate , Umayyad Dynasty , Umajjovský chalífát , Umayyads , Umayyad dynasty , Omajjadzi , Dynastia Omajjadów , Umajjadzi , Kalifat Umajjadów , Umajjovci )
     Mu´awija I         	                                661-680 ( wg D.Ś. i I.Hrbka ) ( Mu´āwiya I wg D.O.T.W.A.C.A.G.H. ) ( Mu'awija wg K.6.)
                                               	        662-681 (?.4.-?.2.) ( wg Al-Masudiego )
                                               	        660-680 ( wg V.N.M.S.D. ) ( Mu'awija (Mu'awija Ibn Abi Sufjan) wg Arab. )
@@ -17781,7 +17843,7 @@ Kalifat ( Caliphate , The Caliphate , Kalifat Arabski , Chalífát )
                                                         750-? ( Abul Abbas wg Z.M.50.N.O. )
                                                         749/750-754 (28.11./?-?.6.) ( Abu al-Abbas Abd Allah Ibn Muhammad (Abu al-Abbas, As-Saffah, Abu al-Abbas as-Saffah, Abu al-Abbas Muhammad, Abd Allah Abu al-Abbas) wg B.D.K.B. )
                                                         749-754 (8.11.-?) ( Abu al-Abbas as-Saffah (Abu al-Abbas, As-Saffah) wg Arab. )
-    Al-Mansur                         	                754-775 ( wg D.Ś. ) ( Al-Manṣūr (al-Manṣūr) wg D.O.T.W.A.C.A.G.H. ) ( al-Mansur wg Z.M.50.N.O. ) ( Abu Dżafar al-Manusr (Abu Dżafar, Ai-Mansur, Dusigrosz) wg Arab. )
+    Al-Mansur                         	                754-775 ( wg D.Ś. ) ( Al-Manṣūr (al-Manṣūr) wg D.O.T.W.A.C.A.G.H. ) ( al-Mansur wg Z.M.50.N.O. ) ( Abu Dżafar al-Manusr (Abu Dżafar, Ai-Mansur, Dusigrosz) wg Arab. ) ( al-Mansúr wg D.I. )
                                                         753-774 ( wg V.N.M.S.D. )
       					                                        przed 763-? ( Abu Dža´far al-Mansúr wg M.A.E. )
       					                                        ? ( Mansur wg D.D.T. ) ( al-Mansúr wg S.P. )
@@ -17969,6 +18031,10 @@ Kalifat ( Caliphate , The Caliphate , Kalifat Arabski , Chalífát )
       Mohacz 1526
       Dějiny Indie
 
+Kalikat
+  Bibliografia :
+      Dějiny Indie
+
 Kalindoja
   Bibliografia :
       Dzieje Grecji
@@ -18104,6 +18170,11 @@ Kanada ( Canada )
 Kanada ( Království Kanada )
   Bibliografia :
       Atlas rané kolonizace - Od Kolumba po Bolívara
+
+Kandahár
+  Šáh Beg Arghún                                        przed 1520-1522 (?-?.9.) ( Šáh Beg wg D.I. ) [Ruler of Sindh]
+  Bibliografia :
+      Dějiny Indie
 
 Kanduraga ( Panduraga )
 
@@ -18621,7 +18692,7 @@ Kaszmir ( Kashmir , Kašmír , Ki-pin )
                                                         przed 326-? (?.5.-?) ( Aribases wg H.3.P.N.E. )
   Mihirakula                                            ?-542 n.e. ( wg D.I. ) [Ruler of Heftalici]
   Dynastie Gónandovců
-  Dynastie Kárkótovců ( Kárkótovský rod )
+  Dynastie Kárkótovců ( Kárkótovský rod , Kárkótovci )
     Durlabhavardhana                                    627-663 ( wg D.I. )
     Durlabhaka                                          663-712 ( wg D.I. )
     Čandrápída                                          712-724 ( wg D.I. )
@@ -18692,31 +18763,31 @@ Kaszmir ( Kashmir , Kašmír , Ki-pin )
   Riňčhana                                              ok.1320-ok.1323 ( wg D.I. ) [Ruler of Ladakh]
   Kótadévi                                              ?-1339 ( wg D.I. )
   Kashmir Sultanate
-    Dynastie Šáhmírovců
-      Šáh Mír Šamsuddín Šáh Mírza Svátí                 1339-1349 ( Šamsuddín Šáh (Šáh Mír) wg D.I. )
+    Dynastie Šáhmírovců ( Šáhmírovská dynastie , Šáh Mírí )
+      Šáh Mír Šamsuddín Šáh Mírza Svátí                 1339-1349/ok.1342 ( Šamsuddín Šáh (Šáh Mír, Šamsuddín Šáh Mírza Svátí) wg D.I. )
       Džamšíd                                           1349-1350 ( wg D.I. )
-      Aláuddín Alí Šér                                  1350-1359 ( wg D.I. )
-      Šihábuddín Šírášámak                              1359-1378 ( wg D.I. )
-      Kutbuddín Hindál                                  1378-1394 ( wg D.I. )
-      Sikandar Šáh                                      1394-1416 ( wg D.I. )
-      Alí Mírza Chán                                    1416-1420 ( wg D.I. )
-      Zainulábidín Šáhí Chán                            1420-1470 ( wg D.I. )
-      Haidar Šáh Hádždží Chán                           1470-1471 ( wg D.I. )
-      Hasan                                             1471-1489 ( wg D.I. )
-      Muhammad                                          1489-1490 i 1498-1499 i 1500-1526 i 1529-1533 ( wg D.I. )
+      Aláuddín Alí Šér                                  1350/ok.1342-1355/9 ( wg D.I. )
+      Šihábuddín Šírášámak                              1359/ok.1355-1374/8 ( Šihábuddín wg D.I. )
+      Kutbuddín Hindál                                  1378/ok.1374-1389/94 ( Kutbuddín wg D.I. )
+      Sikandar Šáh                                      1394/ok.1389-1413/6 ( Sikandar wg D.I. )
+      Alí Mírza Chán                                    1413/6-1420 ( Alí Šáh wg D.I. )
+      Zainulábidín Šáhí Chán                            1420-1470 ( Zainulábidín (Šáhí Chán) wg D.I. )
+      Haidar Šáh Hádždží Chán                           1470-1471 ( Haidar Šáh (Haidar) wg D.I. )
+      Hasan                                             1471-1484/9 ( wg D.I. )
+      Muhammad                                          1484/9-1490 i 1498-1499 i 1500-1526 i 1529-1533/7 ( wg D.I. )
       Fath Šáh                                          1490-1498 i 1499-1500 ( wg D.I. )
       Ibráhím I.                                        1526-1527 ( wg D.I. )
-      Názuk                                             1527-1529 i 1540 i 1551-1552 ( wg D.I. )
-      Šamsuddín                                         1533-1540 ( wg D.I. )
+      Názuk                                             1527-1529 i 1540 i 1551-1552//1540-1552 ( Názuk Šáh wg D.I. )
+      Šamsuddín                                         1533/7-1540 ( wg D.I. )
       Ibráhím II.                                       1552-1555 ( wg D.I. )
       Ismáíl                                            1555-1557 ( wg D.I. )
       Habíb                                             1557-1561 ( wg D.I. )
-    Čákové
-      Ghází Chán Čák                                    1561-1563 ( wg D.I. )
+    Čákové ( Čákovská dynastie )
+      Ghází Chán Čák                                    1561-1563 ( Ghází Čák wg D.I. )
       Nasruddín Husain                                  1563-1569 ( wg D.I. )
-      Zahíruddín Alí                                    1569-1579 ( wg D.I. )
+      Zahíruddín Alí                                    1569-1579 ( Zahíruddín Alí Šáh wg D.I. )
       Nasruddín Júsuf                                   1579-1586 ( wg D.I. )
-      Jakúb                                             1586-1589 ( wg D.I. )
+      Jakúb                                             1586-1589 (?-?.8.) ( wg D.I. )
   Bibliografia :
       Starověká Indie
       Dzieje Grecji
@@ -18889,8 +18960,20 @@ Chanat Kazański
   Bibliografia :
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
 
+Kábul
+  Timurovci
+    Bábur                                               przed 1520-po 1526 (?-20.4.) ( wg D.I. ) [Emperor of Mughal Empire Babur]
+    Kámrán                                              przed 1543-1553 (lato-?) ( wg D.I. )
+    Mírza Muhammad Hakím                                przed 1581-? ( wg D.I. )
+  Bibliografia :
+      Dějiny Indie
+
 Kádavové
   Kópperuňdžinga                                        przed ok.1217/8-po ok.1230 ( wg D.I. )
+  Bibliografia :
+      Dějiny Indie
+
+Kángra
   Bibliografia :
       Dějiny Indie
 
@@ -20821,6 +20904,10 @@ Księstwo kozielskie [Śląsk]
     Konrad kozielski                                    przed 1359-po 1373 ( wg K.P.S. ) [Książę namysłowski Konrad I] [Książę oleśnicki Konrad]
   Bibliografia :
       Książęta piastowscy Śląska
+
+Kóč
+  Bibliografia :
+      Dějiny Indie
 
 Duchy of Krain
   Bibliografia :
@@ -23359,6 +23446,10 @@ County of Madrie
   Bibliografia :
       Fontenoy 841
 
+Madurský sultanát
+  Bibliografia :
+      Dějiny Indie
+
 County of Mâeon
   Bibliografia :
       The Holy Roman Empire - A Thousand Years of Europe's History
@@ -23457,7 +23548,13 @@ Maiotowie
 
 Maisu
   Bibliografia :
-      Foiničané 
+      Foiničané
+
+Maisúr
+  Haidar Alí                                            ? ( wg D.I. )
+  Típú                                                  ? ( wg D.I. )
+  Bibliografia :
+      Dějiny Indie
   
 Państwo Maitraków ( Valabhí , Maitrakovci z Valabhí , Království Maitrakovců , Stát Maitrakovců z Valabhí )
   Maitrakovský rod ( Maitrakovci , Maitrakovci z Valabhí )
@@ -23539,6 +23636,10 @@ Majowie ( Maya , Mayové )
   Bibliografia :
       Války rudého muže
 
+Makassar
+  Bibliografia :
+      Dějiny Indie
+
 Ta´ifa Malaga ( Malaga )
   Dynastia Hammudytów ( Hammudovci )
   Bibliografia :
@@ -23611,15 +23712,16 @@ Málva
   Jašódharman                                           przed ok.532-? ( wg D.I. )
   Malwa Sultanate
     Dynastie Ghórí
-      Dilávar Chán Husain Ghórí                         1401-1405 ( wg D.I. )
-      Alp Chán Hóšang Šáh                               1405-1435 ( wg D.I. )
-      Ghazní Chán Muhammad Šáh                          1435-1436 ( wg D.I. )
+      Dilávar Chán Husain Ghórí                         1401-1405 ( Chán Ghórí wg D.I. )
+      Alp Chán Hóšang Šáh                               1405-1435 ( Hóšang Šáh (Hóšang) wg D.I. )
+      Ghazní Chán Muhammad Šáh                          1435-1436 ( Muhammad Šáh wg D.I. )
       Masúd Chán                                        1436 ( wg D.I. )
-    Dynastie Chaldží
-      Mahmúd Šáh I.                                     1436-1469 ( wg D.I. )
-      Ghijásuddín Šáh                                   1469-1500 ( wg D.I. )
-      Násiruddín Šáh                                    1500-1511 ( wg D.I. )
-      Mahmúd Šáh II.                                    1511-1531 ( wg D.I. )
+    Dynastie Chaldží ( Chaldžíovská dynastie )
+      Mahmúd Šáh I.                                     1436-1469 ( Mahmúd Šáh Chaldží (Mahmúd Šáh, Mahmúd Chán) wg D.I. )
+      Ghijásuddín Šáh                                   1469-1500 ( Ghijásuddín wg D.I. )
+      Násiruddín Šáh                                    1500-1511 ( Násiruddín wg D.I. )
+      Mahmúd Šáh II.                                    1511-1531 ( Mahmúd wg D.I. )
+    Báz Bahádur                                         ? ( wg D.I. )
   Bibliografia :
       Dějiny Indie
 
@@ -23849,19 +23951,21 @@ Maraš
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
-Marathowie ( Maráthská konfederace , Maráthové , Marathové )
+Marathowie ( Maráthská konfederace , Maráthové , Marathové , Maráthský stát )
   Čhatrapatiové ( Dynastie Bhónslé )
-    Šivádží Bhónslé                                     1674-1680 ( wg D.I. )
+    Šivádží Bhónslé                                     1674/przed 1653-1680 ( Šivádží wg D.I. )
     Šambhúdží                                           1680-1689 ( wg D.I. )
     Rádžárám                                            1689-1700 ( wg D.I. )
     Tára Báí                                            1700-1707 ( wg D.I. )
     Šáhú                                                1708-1749 ( wg D.I. )
+    Šivádží II.                                         ?-1731 ( wg D.I. )
     Rámarádža                                           1749-1777 ( wg D.I. )
-  Péšvové
-    Báládží Višvanáth                                   1713-1720 ( wg D.I. )
-    Bádží Ráo I.                                        1720-1740 ( wg D.I. )
-    Báládží Bádží Ráo                                   1740-1761 ( Nána Sáhab wg D.I. )
-    Mádhava Ráo I 		                                  1761-1772 ( wg E.P. ) ( Mádhav Ráo I. wg D.I. )
+  péšvové
+    Báládží Višvanáth                                   1713-1720 ( Báládží wg D.I. )
+    Bádží Ráo I.                                        1720-1740 ( Bádží Ráo wg D.I. )
+    Báládží Bádží Ráo                                   1740-1761 ( Nána Sáhab (Nána Sáhib) wg D.I. )
+    Mádhava Ráo I 		                                  1761-1772 ( wg E.P. ) 
+                                                        1761-1772/3 ( Mádhav Ráo I. (Mádhava Ráo I.) wg D.I. )
     Nárájan Ráo                                         1772 ( wg D.I. )
     Raghunáth Ráo                                       1773 ( wg D.I. )
     Mádhav Ráo II.                                      1774-1795 ( wg D.I. )
@@ -24300,7 +24404,7 @@ Stát Málavů
       Dějiny Indie
 
 Márvár
-  Ráthórové v Márváru
+  Ráthórové v Márváru ( Dynastie Ráthórů , Rod Ráthórů z Mándóru , Ráthórové , Ráthorové v Márváru )
     hlavní dynastická linie
       Síha                                              ?-1273 n.e. ( wg D.I. )
       Ásthán                                            ? ( wg D.I. )
@@ -24318,11 +24422,13 @@ Márvár
       Sata                                              ? ( wg D.I. )
       Ranamalla                                         1427-1438 ( wg D.I. )
       Džódha                                            1438-1488 ( wg D.I. )
-      Sátal                                             1488-1491 ( wg D.I. )
+      Sátal                                             1488-1491 ( wg D.I. ) [Ruler of Sátalmér]
       Sudža                                             1491-1515 ( wg D.I. )
       Ganga                                             1515-1531 ( wg D.I. )
       Máldéo                                            1531-1562 ( wg D.I. )
-      Čandarsén                                         1562-1581 ( wg D.I. )
+      Čandarsén                                         1562-1570/81 ( wg D.I. )
+      Džasvant Sinh Ráthór                              przed 1658-1678 (29.5.-?) ( Džasvant Sinh (Džasvant Sinh Ráthór z Džódhpuru) wg D.I. )
+      Adžit Sinh z Džódhpuru                            przed 1712-? ( wg D.I. )
   Bibliografia :
       Dějiny Indie
       
@@ -24866,6 +24972,11 @@ Metz
       Otton I Wielki
       Fontenoy 841
 
+Mérta
+  Duda                                                  ? ( wg D.I. )
+  Bibliografia :
+      Dějiny Indie
+
 Mévár
   Guhilové v Méváru ( Guhilové , Gahlóti )
     rávalové
@@ -24903,22 +25014,24 @@ Mévár
       Džaitrasinha                                      1213-1252 ( wg D.I. )
       Tédžasinha                                        1252-ok.1273 ( wg D.I. )
       Samarasinha                                       ok.1273-1302 ( wg D.I. )
-      Ratnasinha                                        1302-1303 ( Rával Ratnasinha wg D.I. )
-    Sisódijové ( ranové , Gahlóti , Guhilové , Rod Sisódijů )
+      Ratnasinha                                        1302-1303 ( Rával Ratnasinha (Ratan Sinh, Ratan Sén) wg D.I. )
+    Sisódijové ( ranové , Gahlóti , Guhilové , Rod Sisódijů , Dynastie Sisódijové )
       Hammíra                                           1314-1378 ( wg D.I. )
       Kšétrasinha                                       1378-1405 ( wg D.I. )
-      Lakšasinha                                        1405-1420 ( Lákha wg D.I. )
+      Lakšasinha                                        1405-1420/1 ( Lákha wg D.I. )
       Mókal                                             1420-1433 ( wg D.I. )
-      Kumbhakarna                                       1433-1468 ( Kumbha wg D.I. )
+      Kumbhakarna                                       1433-1468 ( Kumbha (Kumbhu) wg D.I. )
       Udaja                                             1468-1473 ( wg D.I. )
       Rájamalla                                         1473-1509 ( wg D.I. )
-      Sangrám Sinh                                      1509-1528 ( Sánga wg D.I. )
+      Sangrám Sinh                                      1509-1528 ( Sánga (Rána Sánga) wg D.I. )
       Ratna Sinh                                        1528-1531 ( wg D.I. )
       Vikramáditja                                      1531-1536 ( wg D.I. )
       Vanavíra                                          1536-1540 ( wg D.I. )
       Udaj Sinh                                         1540-1572 ( wg D.I. )
-      Pratáp Sinh                                       1572-1597 ( wg D.I. )
-      Amar Sinh                                         1597-1620 ( wg D.I. )
+      Pratáp Sinh                                       1572-1597 ( Pratáp wg D.I. )
+      Amar Sinh                                         1597-1614/20 ( Amar wg D.I. )
+      Karna Sinh                                        1620-1628 ( wg D.I. )
+      Džagat Sinh                                       1628-1652 ( wg D.I. )
   Bibliografia :
       Dějiny Indie
 
@@ -25162,14 +25275,16 @@ Mogolistan ( Moghulistan )
       Tamerlane - Sword of Islam, Conqueror of the World
 
 Imperium Mogołów ( Mughal Empire , Moghul Empire , The Mogul Empire , The Mughul Empire , Cesarstwo Wielkich Mogołów , Mughalská říše , Říše Velkých Mogulů , Wielcy Mogołowie , Mughul empire , Velcí Mughalové )
-  Dynastia Mogołów ( Mughal Dynasty , Mogul Dynasty , Mughals , Mughalové )
-    Babur                                          	    1526-1530 ( wg D.Ś. ) ( Bābur wg D.O.T.W.A.C.A.G.H. ) ( Zahíruddín Bábur wg D.I. )
+  Dynastia Mogołów ( Mughal Dynasty , Mogul Dynasty , Mughals , Mughalové , Mughalská dynastie )
+    Babur                                          	    1526-1530 ( wg D.Ś. ) ( Bābur wg D.O.T.W.A.C.A.G.H. ) 
+                                                        1504/26-1530 (?-26.12.) ( Zahíruddín Bábur (Bábur) wg D.I. )
                                                         1483-1530 ( wg V.N.M.S.D. )
       				         		                              1526-? ( Babar wg M.Ś. )
                                                         przed 1505-? ( Bábur wg Ř.S.J.Ď.S. )
                                                         ok.1500-? ( wg K.W.N.I.W.D. )
                                                         przed 1504-1530 (?-26.12.) ( Zahiruddin Mohammed Babur the Conqueror (Zahir-ud-din Muhammad) wg T.S.O.I.C.O.T.W. )
-    Humajun                                     	      1530-1540 i 1555-1556 ( wg D.Ś. ) ( Humāyūn wg D.O.T.W.A.C.A.G.H. ) ( Násiruddín Humájún wg D.I. )
+    Humajun                                     	      1530-1540 i 1555-1556 ( wg D.Ś. ) ( Humāyūn wg D.O.T.W.A.C.A.G.H. ) 
+                                                        1530-1540 i 1555-1556 (? i ?-po 26.1.) ( Násiruddín Humájún (Humájún) wg D.I. )
                                                         1530-1556 ( wg V.N.M.S.D. )
   Dynastia Suri ( Sūrī Dynasty )
     Szir Szah Sur          	                            1540-1545 ( wg D.Ś. ) ( Shīr Shāh Sūr wg D.O.T.W.A.C.A.G.H. ) [Sultan of Delhi Šér Šáh Súr]
@@ -25177,40 +25292,52 @@ Imperium Mogołów ( Mughal Empire , Moghul Empire , The Mogul Empire , The Mugh
     Muhammad ´Adil	                                    1553-1555 ( wg D.Ś. ) ( Muḥammad ´Ādil wg D.O.T.W.A.C.A.G.H. ) [Sultan of Delhi Muhammad Ádil Šáh]
     Ibrahim III              	                          1555 ( wg D.Ś. ) ( Ibrāhīm III wg D.O.T.W.A.C.A.G.H. ) [Sultan of Delhi Ibráhím III.]
     Sikandar III             	                          1555 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [Sultan of Delhi Ahmad Chán Sikandar Šáh III.]
-  Dynastia Mogołów ( Mughal Dynasty , Mogul Dynasty , Mughals )
-    Akbar I Wielki                            	        1556-1605 ( wg D.Ś. i V.N.M.S.D. ) ( Akbar wg M.Ś. i B.D.K.B. ) ( Akbar I (Akbar I the Great) wg D.O.T.W.A.C.A.G.H. ) ( Džaláluddín Akbar I. (Akbar) wg D.I. )
+  Dynastia Mogołów ( Mughal Dynasty , Mogul Dynasty , Mughals , Mughalové , Mughalská dynastie )
+    Akbar I Wielki                            	        1556-1605 ( wg D.Ś. i V.N.M.S.D. ) ( Akbar wg M.Ś. i B.D.K.B. ) ( Akbar I (Akbar I the Great) wg D.O.T.W.A.C.A.G.H. ) 
+                                                        1556-1605 (14.2.-?) ( Džaláluddín Akbar I. (Akbar) wg D.I. )
       				          		                            ok.1526 ( wg A.T.T.L.D.A.K. )
                                                         ok.1550 ( Akbar I wg E.N.T.C.F.R.S.H.A.P. )
                                                         ? ( Akbar wg T.S.O.I.C.O.T.W. ) ( Dżalal ad-Din Muhammad Akbar wg H.3.P.N.E. )
                                                         1556-1605 (?-17.11.) ( Akbar wg Z.M.50.N.O. )
-    Dżahangir                                    	      1605-1627 ( wg D.Ś. i V.N.M.S.D. ) ( Jahāngīr wg D.O.T.W.A.C.A.G.H. ) ( Núruddín Džahángír (Džahángír) wg D.I. )
+    Dżahangir                                    	      1605-1627 ( wg D.Ś. i V.N.M.S.D. ) ( Jahāngīr wg D.O.T.W.A.C.A.G.H. ) 
+                                                        1599/605-1627 (?/?.11.-?) ( Núruddín Džahángír (Džahángír, Salím, Núruddín Muhammad Džahángír) wg D.I. )
       						                                      przed 1606-? ( Džahangír wg E.P. )
                                                         przed 1619-? ( Jahangir (Salim, Mohamet Salim) wg Z.M.50.N.O. )
+    Šahrijár                                            1627-1628 ( wg D.I. )
     Szah Dżahan I                              	        1628-1658 ( wg D.Ś. ) ( Shāh Jahān I wg D.O.T.W.A.C.A.G.H. )
                                                         1627-1658 ( wg V.N.M.S.D. )
                                                         przed 1637-po 1646 ( Shah Jahan wg T.S.O.I.C.O.T.W. )
-                                                        1628-1657 ( Szahdżahan wg B.D.K.B. ) ( Šihábuddín Šáhdžahán I. wg D.I. )
-    Aurangzib ´Alamgir                     	            1658-1707 ( wg V.N.M.S.D. i D.Ś. ) ( Aurangzīb ´Ālamgīr I wg D.O.T.W.A.C.A.G.H. ) ( Muhjíuddín Aurangzéb Álamgír I. (Aurangzéb) wg D.I. )
+                                                        1628-1657 ( Szahdżahan wg B.D.K.B. ) 
+                                                        1628-1657/8 (?.2.-?) ( Šihábuddín Šáhdžahán I. (Šáhdžahán, Churram) wg D.I. )
+    Aurangzib ´Alamgir                     	            1658-1707 ( wg V.N.M.S.D. i D.Ś. ) ( Aurangzīb ´Ālamgīr I wg D.O.T.W.A.C.A.G.H. ) 
+                                                        1658-1707 (?-3.3.) ( Muhjíuddín Aurangzéb Álamgír I. (Aurangzéb) wg D.I. )
       						                                      ? ( Aurangzeba wg E.P. ) ( Orangzeb wg T.S.O.I.C.O.T.W. )
                                                         przed 1693-1707 (?.7.-?) ( Alamgir I. (Aurangzéb) wg P.U.D. )
-    Bahadur Szah I ( Szah ´Alam I )	                    1707-1712 ( wg V.N.M.S.D. i D.Ś. ) ( Bahādur Shāh I (Shāh ´Ālam I) wg D.O.T.W.A.C.A.G.H. ) ( Šáh Álam I. Bahádur Šáh wg D.I. )
+    Akbar                                               1681-? ( wg D.I. )
+    Bahadur Szah I ( Szah ´Alam I )	                    1707-1712 ( wg V.N.M.S.D. i D.Ś. ) ( Bahādur Shāh I (Shāh ´Ālam I) wg D.O.T.W.A.C.A.G.H. ) 
+                                                        1707-1712 (4.5.-27.2.) ( Šáh Álam I. Bahádur Šáh (Šáh Álam, "Vládce všehomíra", Muazzam, Šáh Álam I., Muhammad Muazzam, Bahádur Šáh) wg D.I. )
     Azímuššán                                           1712 ( wg D.I. )
     Dżahandar Szah                            	        1712-1713 ( wg D.Ś. ) ( Jahāndār Shāh wg D.O.T.W.A.C.A.G.H. )
-                                                        1712 ( Muizzuddín Džahándár wg D.I. )
-    Farruchsijar                                   	    1713-1719 ( wg D.Ś. ) ( Farrukhsiyar wg D.O.T.W.A.C.A.G.H. ) ( Farruchsijár wg D.I. )
+                                                        1712-1712/3 (29.3.-?/po 10.1.) ( Muizzuddín Džahándár (Džahándár Šáh, Džahándár) wg D.I. )
+    Farruchsijar                                   	    1713-1719 ( wg D.Ś. ) ( Farrukhsiyar wg D.O.T.W.A.C.A.G.H. ) 
+                                                        1713-1719 (?-29.4.) ( Farruchsijár wg D.I. )
                                                         1712-1719 ( wg V.N.M.S.D. )
-    Rafi´ ad-Daradżat                          	        1719 ( wg D.Ś. ) ( Rafī´al-Darajāt wg D.O.T.W.A.C.A.G.H. ) ( Šamsuddín Rafíuddaradžát wg D.I. )
-    Szah Dżahan II                              	      1719 ( wg D.Ś. ) ( Shāh Jahān II (Rafī´al-Daula) wg D.O.T.W.A.C.A.G.H. ) ( Rafíuddaula Šáhdžahán II wg D.I. )
-    Muhammad Szah                           	          1719-1748 ( wg V.N.M.S.D. i D.Ś. ) ( Muḥammad Shāh wg D.O.T.W.A.C.A.G.H. ) ( Násiruddín Muhammad Šáh wg D.I. )
+    Rafi´ ad-Daradżat                          	        1719 ( wg D.Ś. ) ( Rafī´al-Darajāt wg D.O.T.W.A.C.A.G.H. ) 
+                                                        1719 (?-?.6.) ( Šamsuddín Rafíuddaradžát (Rafíuddardžát) wg D.I. )
+    Szah Dżahan II                              	      1719 ( wg D.Ś. ) ( Shāh Jahān II (Rafī´al-Daula) wg D.O.T.W.A.C.A.G.H. ) 
+                                                        1719 (?-?.9.) ( Rafíuddaula Šáhdžahán II (Rafíuddaula) wg D.I. )
+    Muhammad Szah                           	          1719-1748 ( wg V.N.M.S.D. i D.Ś. ) ( Muḥammad Shāh wg D.O.T.W.A.C.A.G.H. ) 
+                                                        1719-1748 (?.9.-21.5.) ( Násiruddín Muhammad Šáh (Muhammad Šáh) wg D.I. )
                                                         1719-? ( Mohamet Szach wg Z.M.50.N.O. )
-    Ahmad Szah                                   	      1748-1754 ( wg D.Ś. ) ( Aḥmad Shāh wg D.O.T.W.A.C.A.G.H. ) ( Ahmad Šáh Bahádur wg D.I. )
+    Ibráhím                                             ? ( wg D.I. )
+    Ahmad Szah                                   	      1748-1754 ( wg D.Ś. ) ( Aḥmad Shāh wg D.O.T.W.A.C.A.G.H. ) ( Ahmad Šáh Bahádur (Ahmad Šáh) wg D.I. )
     ´Alamgir II                                     	  1754-1759 ( wg D.Ś. ) ( ´Ālamgīr II wg D.O.T.W.A.C.A.G.H. )
-                                                        1754-1760 ( Azízuddín Álamgír II. wg D.I. )
+                                                        1754-1759/60 (?-?.11./?) ( Azízuddín Álamgír II. (Azízuddín, Álamgír II., Álamgír) wg D.I. )
     Šáhdžahán III.                                      1760 ( wg D.I. )
     Szah ´Alam II                                 	    1759-1806 ( wg D.Ś. ) ( Shāh ´Ālam II wg D.O.T.W.A.C.A.G.H. ) ( Szah Alam II wg B.D.K.B. )
-                                                        1760-1806 ( Džaláluddín Šáh Álam II. wg D.I. )
+                                                        1760-1806//1760-? i 1788-1806 ( Džaláluddín Šáh Álam II. (Šáh Álam II.) wg D.I. )
     Tippu Sahib                                    	    1762-1798 ( wg V.N.M.S.D. )
-    Akbar II                                          	1806-1837 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Muínuddín Akbar II. wg D.I. )
+    Akbar II                                          	1806-1837 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Muínuddín Akbar II. (Akbar II.) wg D.I. )
     Bahadur Szah II                              	      1837-1858 ( wg D.Ś. ) ( Baháduršáh II wg E.P. ) ( Bahādur Shāh II wg D.O.T.W.A.C.A.G.H. ) ( Sirádžuddín Bahádur Šáh II. wg D.I. )
                                                         ?-1857 ( Bahadur wg K.W.N.I.W.D. )
     Alam                                                ? ( wg Ř.S.J.Ď.S. )
@@ -25749,8 +25876,10 @@ Mulhouse
 
 Multan ( Multán , Múlasthánapura )
   Abu l-Lahab al-Munabbih		                            ? ( wg R.Z.A.D.D. )
+  Abúl Fath Dáúd                                        przed 1005/6-1010 ( wg D.I. )
   Sultanate of Multan
-    Mahmúd Šáh Langa                                    1437-1454 ( Budhan Chán Sindhí wg D.I. )
+    Dynastie Langů
+      Mahmúd Šáh Langa                                  1437-1454 ( Budhan Chán Sindhí (Budhan Chán, Mahmúd Šáh) wg D.I. )
     Kutbuddín                                           1454-1469 ( wg D.I. )
     Husain I.                                           1469-1502 ( wg D.I. )
     Mahmúd                                              1502-1524 ( wg D.I. )
@@ -26065,6 +26194,10 @@ Narragansettowie ( Narrangasetowie )
       Wielcy Indianie Ameryki Północnej
       Války rudého muže
 
+Narvar
+  Bibliografia :
+      Dějiny Indie
+
 Nassau
   Hrabstwo Nassau ( County of Nassau )
     Wilhelm                                             przed 1797 n.e.-? ( wg H.W. )
@@ -26192,6 +26325,11 @@ Królestwo Nawarry ( The Kingdom of Navarre , Navarra )
       Svaté války - Dějiny křižových výprav
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+
+Nágaur
+  Bíka                                                  ? ( wg D.I. )
+  Bibliografia :
+      Dějiny Indie
 
 Království Nágavanšíů
   Bibliografia :
@@ -28212,6 +28350,11 @@ Orania
   Bibliografia :
       Encyklopedie panovníků
 
+Orchha State
+  Džúdžhar Sinh                                         przed 1629-po 1635 ( wg D.I. )
+  Bibliografia :
+      Dějiny Indie
+
 Orchomenos
   Minias                                                ok.1380 p.n.e.
   Bibliografia :
@@ -28379,7 +28522,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
                                                         przed 1373-? ( Murad wg H.W. )
                                                         przed 1389-? ( Murad wg T.S.O.I.C.O.T.W. )
                                                         przed 1376-1389 (?-15.6.) ( wg N.1396 )
-      Bayezid I Błyskawica     	                        1389-1402 ( wg D.Ś. ) ( Bajezid I wg D.B. i S.II.W.I.J.C.Z.E.M.P. ) ( Bajezíd I Blesk wg E.P. ) ( Bayezid I (Bayezid I the Thunderbolt) wg D.O.T.W.A.C.A.G.H. ) ( Bajazid I wg B.D.K.B. )
+      Bayezid I Błyskawica     	                        1389-1402 ( wg D.Ś. ) ( Bajezid I wg D.B. i S.II.W.I.J.C.Z.E.M.P. ) ( Bajezíd I Blesk wg E.P. ) ( Bayezid I (Bayezid I the Thunderbolt) wg D.O.T.W.A.C.A.G.H. ) ( Bajazid I wg B.D.K.B. ) ( Bájazíd wg D.I. )
                                                         1389-1402/3 ( Bajezid I. (Bajezid) wg S.V.D.K.V. )
                                                         1389-1403 ( wg V.N.M.S.D. ) ( Bajazyd I wg N.G.R.B.I.N.S. ) ( Bayezid I wg T.H.R.E.A.T.Y.O.E.H. )
       			            	                              ok.1402 ( wg 100.N.V.S. )
@@ -28427,7 +28570,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
                                                         przed 1518-? ( Selim I. wg P.U.D. )
                                                         przed 1516-1520 (24.8.-22.9.) ( Selim I (Selim, Selimszah) wg B.D.K.B. )
                                                         1512-1520 (26.5.-20.9./22.10.) ( Selim I (Selim, Selim Groźny) wg M.1526 )
-      Süleyman I Wspaniały     	                        1520-1566 ( wg D.Ś. i V.N.M.S.D. i M.Ś. ) ( Süleyman I (Süleyman I the Magnificent) wg D.O.T.W.A.C.A.G.H. ) ( Süleyman I. Nádherný (Sülejman Nádherný) wg S.V.D.K.V. ) ( Sulejman Wspaniały (Sulejman I, Sulejman) wg N.G.R.B.I.N.S. ) ( Sulejman Prawodawca wg B.D.K.B. ) ( Sulajman II wg Arab. ) ( Süleyman I (Süleyman, Süleyman 'the Magnificent', Süleyman I 'the Magnificent', Süleyman the Magnificent, Suleyman the Magnificent) wg T.H.R.E.A.T.Y.O.E.H. ) ( Sulejman Wspaniały wg N.1396 ) 
+      Süleyman I Wspaniały     	                        1520-1566 ( wg D.Ś. i V.N.M.S.D. i M.Ś. ) ( Süleyman I (Süleyman I the Magnificent) wg D.O.T.W.A.C.A.G.H. ) ( Süleyman I. Nádherný (Sülejman Nádherný) wg S.V.D.K.V. ) ( Sulejman Wspaniały (Sulejman I, Sulejman) wg N.G.R.B.I.N.S. ) ( Sulejman Prawodawca wg B.D.K.B. ) ( Sulajman II wg Arab. ) ( Süleyman I (Süleyman, Süleyman 'the Magnificent', Süleyman I 'the Magnificent', Süleyman the Magnificent, Suleyman the Magnificent) wg T.H.R.E.A.T.Y.O.E.H. ) ( Sulejman Wspaniały wg N.1396 ) ( Süleyman Kánúní wg D.I. )
                                                         1520-1566 (30.10.-?) ( Sulejman II (Sulejman Wspaniały, Sulejman, Sulejman II Wspaniały, "Wielki Turek", Suleyman the Magnificent, Suleyman, Soliman le Magnifique, Szulejman, Suleyman the Second) wg M.1526 )
                                                         1520-1566 (?-5.9.) ( wg 100.N.V.S. )
       			              	                            przed 1540-? ( Sulejman II wg D.P.I.R.G. )
@@ -28514,6 +28657,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
       The Holy Roman Empire - A Thousand Years of Europe's History
       Nikopolis 1396
       Mohacz 1526
+      Dějiny Indie
 
 Bishopric of Osnabrück
   Bibliografia :
@@ -29790,7 +29934,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán , Párásika )
                                                         420-438 ( wg D.Ś. i R.Z.A.D.D. ) ( Bahrām V (Bahrām V the Wild Ass) wg D.O.T.W.A.C.A.G.H. )
                                                         420-440 ( wg V.N.M.S.D. )
       					                                        ? ( Bahram Gur wg D.D.T. )
-                                                        421-438 ( Bahrám V. wg S.P. )
+                                                        421-438 ( Bahrám V. wg S.P. i D.I. )
     Jazdegerd II                        	              439-457 ( wg A.Č. )
                                                         438-457 ( wg D.Ś. i R.Z.A.D.D. ) ( Yazdgard II wg D.O.T.W.A.C.A.G.H. ) ( Jazdagird II. wg S.P. )
                                                         440-458 ( wg V.N.M.S.D. )
@@ -29846,16 +29990,18 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán , Párásika )
                                                         633-651 ( wg R.Z.A.D.D. )
                                                         przed 637-651 ( ?-koniec ) ( Jezgerd III wg D.D.T. )
                                                         ? ( Jazdagird wg Arab. )
-  Dynastia Safawidów ( Safavids , Ṣafavid Dynasty , Safawidzi , Safavid family )
+  Dynastia Safawidów ( Safavids , Ṣafavid Dynasty , Safawidzi , Safavid family , Safíovská říše , Safíovci )
     Isma´il I                    	                      1501-1524 ( wg D.Ś. ) ( Ismā´il I wg D.O.T.W.A.C.A.G.H. ) ( Isma'il wg B.D.K.B. )
                                                       	1501-1523 ( wg V.N.M.S.D. )
       			      	                                    ok.1515 ( wg 100.N.V.S. )
       			      	                                    1502-1524 ( wg M.Ś. )
                                                         1499-1524 ( Ismail wg S.II.W.I.J.C.Z.E.M.P. )
                                                         1500-1524 ( Ismail I (Ismail) wg M.1526 )
+                                                        przed 1522-? ( Ismaíl wg D.I. )
     Tahmasp I                 	                        1524-1576 ( wg D.Ś. ) ( Ṭahmāsp I wg D.O.T.W.A.C.A.G.H. )
                                                       	1523-1576 ( wg V.N.M.S.D. )
                                                         1524-po 1559 (?-?.5.) ( Tahmasb (Tahmasp, Tadżmant) wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        przed 1543-po 1545 ( Tahmásp wg D.I. )
     Isma´il II                   	                      1576-1577 ( wg D.Ś. ) ( Ismā´īl II wg D.O.T.W.A.C.A.G.H. )
     Sultan Muhammad	                                    1577-1587 ( wg D.Ś. ) ( Sulṭān Muḥammad wg D.O.T.W.A.C.A.G.H. )
                                                         1576-1585 ( Chodabende wg V.N.M.S.D. )
@@ -29865,6 +30011,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán , Párásika )
       			       	                                    ok.1585 ( wg A.T.T.L.D.A.K. )
       			       	                                    1587-1628 ( wg M.Ś. )
                                                         1586-1628 ( Shah Abbas (Abbas I 'the Great') wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        ? ( Abbás Veliký wg D.I. )
     Nadir-Szah                 	                        ok.1605 ( wg A.T.T.L.D.A.K. )
     Safi I                          	                  1629-1642 ( wg D.Ś. ) ( Ṣafī I wg D.O.T.W.A.C.A.G.H. )
                                                        	1628-1641 ( wg V.N.M.S.D. )
@@ -29889,7 +30036,7 @@ Persja ( Iran , Persie , Peršané , Persia , Peržania , Írán , Párásika )
                                                         ? ( Nader Shah wg S.A.B.H.O.H. ) ( Nadir Szah Afszar wg H.3.P.N.E. )
                                                         przed 1740-? ( Nadir Shah wg T.S.O.I.C.O.T.W. )
                                                         ?-1747 ( wg N.G.R.B.I.N.S. )
-                                                        przed 1739-? ( Nádir Šáh wg D.I. )
+                                                        przed 1736-1747 ( Nádir Šáh (Nádir) wg D.I. )
     ´Adil              	                                1747-1748 ( wg D.Ś. ) ( ´Ādil wg D.O.T.W.A.C.A.G.H. )
     Ibrahim          	                                  1748-1749 ( wg D.Ś. ) ( Ibrāhīm wg D.O.T.W.A.C.A.G.H. )
     Szahruch       	                                    1748-1749 i 1750-1796 ( wg D.Ś. ) ( Shāhrukh wg D.O.T.W.A.C.A.G.H. )
@@ -33778,7 +33925,7 @@ Duchy of Sachsen-Zeitz
   Bibliografia :
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
 
-Państwo Saffarydów
+Państwo Saffarydów ( Říše Saffárovců )
   Saffarydzi ( Saffárovci )
     Já´kub ibn Lajth al-Saffár                          ok.870 ( wg S.I. )
                                                         przed 867-879 (?-9.6.) ( Jakub Ibn al-Lajs (Jakub, As-Saffar, Kotlarz) wg B.D.K.B. )
@@ -34408,6 +34555,11 @@ County of Sayn-Wittgenstein-Berleburg
   Casimir                                               przed 1740-1741 ( wg R.E.P.A.T.M.O.M. )
   Bibliografia :
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
+
+Sátalmér
+  Sátal                                                 ? ( wg D.I. ) [Ruler of Márvár]
+  Bibliografia :
+      Dějiny Indie
 
 Państwo Sátaváhanów ( Sátaváhanové , Říše Sátaváhanů , Království Sátaváhanů , Dakšinápatha )
   Sátaváhana                                            ? ( wg D.I. )
@@ -35128,7 +35280,7 @@ Sindh
     Chafíf                                              ? ( wg D.I. )
     Umar                                                ? ( wg D.I. )
     Dúda II.                                            ok.1325 ( wg D.I. )
-  Dynastie Sammů ( džámové z dynastie Sammů )
+  Dynastie Sammů ( džámové z dynastie Sammů , Dynastie Samma , Dynastie Sammovců )
     Unar                                                1335-1339 ( wg D.I. )
     Džúnán                                              1339-1352 ( wg D.I. )
     Banbhina                                            1352-1367 ( wg D.I. )
@@ -35143,10 +35295,10 @@ Sindh
     Sikandar                                            1442-1444 ( wg D.I. )
     Ráidhan                                             1444-1453 ( wg D.I. )
     Sandžar                                             1453-1461 ( wg D.I. )
-    Nizámuddín Ninda                                    1461-1508 ( Nanda wg D.I. )
+    Nizámuddín Ninda                                    1461-1508 ( Nanda (Nizámuddín Nanda) wg D.I. )
     Fírúz                                               1508-1521 ( wg D.I. )
   Arghúnové
-    Šáh Beg Arghún                                      1521-1524 ( wg D.I. )
+    Šáh Beg Arghún                                      1521-1524 ( Šáh Beg wg D.I. ) [Ruler of Kandahár]
     Šáh Husain Arghún                                   1524-1554 ( wg D.I. )
   Tarchánové
     Muhammad Ísa Tarchán                                1554-1567 ( wg D.I. )
@@ -38168,6 +38320,10 @@ County of Tecklenburg
   Bibliografia :
       The Holy Roman Empire - A Thousand Years of Europe's History
 
+Telangána
+  Bibliografia :
+      Dějiny Indie
+
 Tenedos
   Bibliografia :
       Řecko mezi Makedonií a Římem
@@ -38361,6 +38517,7 @@ Imperium Timurydów ( Państwo Tamerlana , Tímúrovská říše , The Tīmūrid
       				        	                                1420-? ( wg 100.N.V.S. )
                                                         przed 1412-? ( Shahrukh (Shah Rukh Bahadur) wg T.S.O.I.C.O.T.W. )
                                                         przed 1416-? ( Szahroch wg N.1396 )
+                                                        ? ( Šáh Ruch wg D.I. )
     Ulug Beg                               	            1447-1449 ( wg D.Ś. ) ( Ulugh Beg (Ulugh-beg) wg D.O.T.W.A.C.A.G.H. )
                                                         1446-1483 ( wg V.N.M.S.D. )
                                                         ? ( Ulugh Beg wg T.S.O.I.C.O.T.W. )
@@ -39921,17 +40078,20 @@ Uxmal
       Mayové
 
 Uzbecy ( Uzbeks )
-  Dynastia Szejbanidów ( Szejbanidzi )
-    Muhammad Szajbani		                                1500-1510 ( wg S.A. i E.P. )
+  Uzbecká říše
+    Dynastia Szejbanidów ( Szejbanidzi , Šajbánovci )
+      Muhammad Szajbani		                              1500-1510 ( wg S.A. i E.P. )
                                                         przed 1507-? ( Shaibani Khan wg T.S.O.I.C.O.T.W. )
                                                         ?-1510 ( Szejbani wg B.D.K.B. )
-    Abul-Gazi Ubajdallah  		                          1534-1539 ( wg S.A. i E.P. )
-    Abdulláh II Ibn Iskander	                          1583-1598 ( wg S.A. i E.P. )
+                                                        przed 1502-? ( Šajbání Chán wg D.I. )
+      Abul-Gazi Ubajdallah  		                        1534-1539 ( wg S.A. i E.P. )
+      Abdulláh II Ibn Iskander	                        1583-1598 ( wg S.A. i E.P. )
   Bibliografia :
       Serce Azji
       Encyklopedie panovníků
       Tamerlane - Sword of Islam, Conqueror of the World
       Burzliwe dzieje Kalifatu Bagdadzkiego
+      Dějiny Indie
 
 Uzbekistan ( Uzbekistán )
   Islam Karimov                                         1991-po 2000 ( Karimov wg T.S.O.I.C.O.T.W. )

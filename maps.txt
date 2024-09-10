@@ -48,6 +48,7 @@
     - Karwendelgebirge Mitte ; Alpenvereinskarte ; 5/2 ; 1:25000
     - Karwendelgebirge West ; Alpenvereinskarte ; 5/1 ; 1:25000
     - Kitzbüheler Alpen Ost ; Alpenvereinskarte ; 34/2 ; 1:50000
+    - Kitzbüheler Alpen - St. Johann in Tirol
     - Kitzbüheler Alpen - St. Johann in Tirol - Oberndorf - Kirchdorf - Erpfendorf ; www.kitzalps.cc
     - Lechtaler Alpen - Parseierspitze ; Alpenvereinskarte ; 3/3 ; 1:25000
     - Loferer u. Leoganger Steinberge ; Alpenvereinskarte ; 9 ; 1:25000
@@ -267,11 +268,14 @@
   - Haná - Olomoucko ; KČT ; Edice KČT ; 57 ; 1:50000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
   - Opavsko ; KČT ; Edice KČT ; 59 ; 1:50000
+  - Orlová - Plán města ; Prokart nákladatelství ; M - serie č. 24 ; 1:10000
   - Ostravsko - Hlučín, Bohumín, Ostrava, Karviná, Český Těšín, Frýdek-Místek, Havířov ; KČT ; Edice KČT ; 61-62 ; 1:50000
   - Ostravsko ; kartografie Praha ; Český svaz turistů ; Soubor turistických map ; 21 ; 1:100000
   - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
   - Pavlovské vrchy a Dolní Podyjí ; KČT ; Edice KČT ; 88 ; 1:50000
   - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
+  - Praha ; Kartografie Praha
+  - Praha do kapsy - Plán města ; Kartografie Praha ; 1:20000
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Rybnik, Żory, Jastrzębie-Zdrój, Wodzisław Śląski i okolice ; Galileos ; 1:50000
   - Slovenská republika - Slowakische Republik - Slovak Republic - République Slovaquie : Automapa - Autokarte ; Marco Polo ; 1:300000
@@ -301,6 +305,7 @@
     - Bourg-Madame - Col de Puymorens - Pic Carlit ; IGN ; Carte Topographique Top 25 ; 2249OT ; 1:25000
     - Foix - Tarascon-sur-Ariège ; IGN ; Top 25 ; 2147ET ; 1:25000
   - Apt - PNR du Luberon ; IGN ; Top 25 Randonnée et plein air ; 3242OT ; 1:25000
+  - Arles - Plan de ville à 365° ; www.arlestourisme.com ; Arles 365° - Office de Tourisme ; 1:5000
   - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
   - Béziers - Castres - PNR du Haut-Languedoc ; IGN ; Top100 Tourisme et découverte ; 169 ; 1:100000
   - Carpentras - Vaison-la-Romaine - Dentelles de Montmirail ; IGN ; Top 25 Randonnée et plein air ; 3040ET ; 1:25000
@@ -323,6 +328,7 @@
   - Pertuis - Lourmarin - PNR du Luberon ; IGN ; Top 25 Randonnée et plein air ; 3243OT ; 1:25000
   - Porto - Calanche de Piana - PNR de Corse ; IGN ; Carte Topographique Top 25 ; 4150OT ; 1:25000
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+  - Roussillon en Provence - le village - le sentier l'écomusée de l'ocre ; Parc naturel régional du Luberon ; Les Plus Beaux Villages de France
   - Saint-Rémy-de-Provence - Tarascon - Chaîne des Alpilles ; IGN ; Top 25 Randonnée et plein air ; 3042OT ; 1:25000
   - Schweiz - Suisse - Svizzera - Switzerland ; Marco Polo ; 1:303000
   - Vico - Cargèse - Golfe de Sagone - PNR de Corse ; IGN ; Carte Topographique Top 25 ; 4151OT ; 1:25000
@@ -360,6 +366,7 @@
     - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
     - Šumava - Železnorudsko ; KČT ; Edice KČT ; 64 ; 1:50000
   - Aachen und das Dreiländereck ; Kompass ; 757 ; 1:50000
+  - Bamberg - Stadtplan - www.bamberg.info
   - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
   - Clervaux - Huldange : Édition touristique ; Administration du Cadastre et de la Topographie, Division de la Topographie ; Luxembourg: Grand-Duché Carte Régionale - Grossherzogtum Regionale Karte ; R1 ; 1:20000
   - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
@@ -400,8 +407,10 @@
 - Hungary
   - Karpaty
     - Burda - Ipeľská pahorkatina ; VKÚ Harmanec ; 142 ; 1:50000
+    - Bükk ; Cartographia A Térképszakértö ; 29 ; 1:40000
     - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
     - Mátra ; Cartographia A Térképszakértö - Cartographia Földgömb- és Térképbolt ; 14 ; 1:40000
+    - Mátra - Mátraalja, Mátralába ; Szarvas Térképek - map.hu ; 1:30000
     - Slovenský kras ; TatraPlan ; 5037 ; 1:50000
   - Československá socialistická republika ; Kartografické nakladatelství ; Kartografie, n.p. Praha
   - Československá socialistická republika ; Slovenská kartografia ; 1:1500000
@@ -681,12 +690,14 @@
   - Europa ; Demart ; moto ; 1:3400000
   - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Gliwice - samochodowy plan miasta ; Wydawnictwo Witański ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:25000
   - Gliwice i okolice ; Galileos ; Plan Wrocław ; 1:50000
   - Górnośląski Okręg Przemysłowy - mapa komunikacyjna ; Falk ; 1:65000
   - Góry Świętokrzyskie ; ExpressMap ; Comfort! map ; 1:75000
   - Góry Świętokrzyskie ; ExpressMap ; 1:75000
   - Jura Krakowsko-częstochowska - część północna ; ExpressMap ; Comfort! map ; 1:52000
   - Jura Krakowsko-częstochowska - część południowa ; ExpressMap ; Comfort! map ; 1:52000
+  - Kaszuby - Kaszubski Park Narodowy ; ExpressMap ; Comfort! map ; Mapy laminowane polskiego wybrzeża Bałtyku ; 8 ; 1:50000
   - Mazury ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:450000
   - Metropolia Silesia i okolice - 101 atrakcji turystycznych ; Compass ; 1:50000
   - Nadmorski Park Krajobrazowy - Wybrzeże Bałtyku: Stilo-Władysławowo-Hel-Rewa ; ExpressMap ; Comfort! map ; 1:50000
@@ -979,6 +990,7 @@
   - Isle of Mann - Ellan Vannin - Outdoor Leisure Map - north ; Isle of Man Survey ; 1:25000
   - Isle of Mann - Ellan Vannin - Outdoor Leisure Map - south ; Isle of Man Survey ; 1:25000
   - Loch Etive & Glen Orchy - Dalmally, Tyndrum, Bridge of Orchy & Taynuilt ; OS ; OS Explorer ; 377 ; 1:25000
+  - London Coaches - London Plus Sightseeing Map - Your Hop-on Hop-off Tour - Free London Map! ; London Coaches ; 1:16393
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Snowdon/Yr Wyddfa - Conwy Valley/Dyffryn Conwy ; OS ; OS Explorer ; OL17 ; 1:25000
   - The English Lakes - North-Western Area - Keswick, Cockermouth, Wigton ; OS ; OS Explorer ; OL4 ; 1:25000
