@@ -202,8 +202,9 @@ POP.SCIENCE :
         MEDYCYNA:
             Cesarz wszech chorób - Biografia raka ; Siddhartha Mukherjee
         NEUROLOGIA:
-            Zdumiewająca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
             Consciousness and the Brain - Deciphering How the Brain Codes Our Thoughts ; Stanislas Dehaene
+            How We Learn - The New Science of Education and the Brain ; Stanislas Dehaene
+            Zdumiewająca hipoteza , czyli nauka w poszukiwaniu duszy ; Francis Crick
         NUTRITION
             Pure, White and Deadly - How Sugar is Killing Us and What We Can Do to Stop It ; John Yudkin
         Blueprint - How DNA makes us who we are ; Robert Plomin
@@ -298,6 +299,7 @@ POP.SCIENCE :
         Atlas rané kolonizace - Od Kolumba po Bolívara ; Marcel Dorigny
         Æthelred the Unready - The Failed King , Richard Abels
         Berlin 1945 ; Stanisław Komornicki
+        Bibracte-Wogezy 58 p.n.e. ; Tomasz Romanowski
         Bilý orel, rudá hvězda ; Norman Davies
         Bitwa Jutlandzka 1916 ; Zbigniew Flisowski
         Bitwa o Jawę ; Witold Supiński
@@ -1005,6 +1007,7 @@ Haycox , Ernest - Dyliżans do Lordsburga - POL
 Hemingway , Ernest - Stary człowiek i morze - POL
 Henry , O. - Księżniczka i puma - POL
 Herbert , Frank - Dune - O
+                - Dune Messiah - O
 Herlihy , James Leo - Nocny kowboj - POL
 Hofman , Ota - Pan Tau a tisíc zázraků - O
 Horečka , František - Janek i skarb - POL

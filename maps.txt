@@ -391,14 +391,23 @@
   - Schweiz - Suisse - Svizzera - Switzerland ; Marco Polo ; 1:303000
   - Wyspa Wolin - Woliński Park Narodowy ; ExpressMap ; Comfort! map ; 1:50000
 - Greece
+  - Crete - Κρήτη - 401 : Kissamos - Paleochora - Gavdos - Chania - Kolimvari - Κίσσαμος - Παλαιόχωρα - Γαύδος - Χανιά - Κολυμβάρι - Trekking Map ; Nakas Road Cartography ; topo50 ; 401 ; 1:50000
+  - Crete - Κρήτη - 402 : Lefka Ori - Samaria - Sfakia - Rethimno - Plakias - Λευκά Όρη - Σαμαριά - Σφακιά - Ρέθυμνο - Πλακιάς - Trekking Map ; Nakas Road Cartography ; topo50 ; 402 ; 1:50000
+  - Crete - Κρήτη - 403 : Psiloritis - Bali - Iraklio - Anogia - Ψηλορείτης - Μπαλί - Ηράκλειο - Ανώγεια - Trekking Map ; Nakas Road Cartography ; topo50 ; 403 ; 1:50000
+  - Crete - Κρήτη - 404 : Psiloritis - Matala - Psiloritis - Agii Deka - Ψηλορείτης - Ματαλα - Ψηλορείτης - Άγιοι Δέκα - Trekking Map ; Nakas Road Cartography ; topo50 ; 404 ; 1:50000
+  - Crete - Κρήτη - 405 : Iraklio - Limenas Chersonissou - Ag. Nikolaos - Ierapetra - Lasithi Plateau - Ηράκλειο - Λιμένας Χερσονήσου - Άγ. Νικόλαος - Ιεράπετρα - Οροπέδιο Λασιθίου - Trekking Map ; Nakas Road Cartography ; topo50 ; 405 ; 1:50000
+  - Crete - Κρήτη - 406 : Mt. Thriptis - Mt. Orno - Sitia - Zakros - Vai - Όρος Θρυπτής - Όρος Ὄρνο - Σητεία - Ζάκρος - Βάι - Trekking Map ; Nakas Road Cartography ; topo50 ; 406 ; 1:50000
   - Dion - Olympus Municipality - official map ; Dion - Olympus Municipality
   - Europa ; Demart ; moto ; 1:3400000
   - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Griechenland - Grèce - Ελλάδα - Greece ; Marco Polo ; 1:800000
+  - Heraklion Sightseeing Tour - Open Bus - Hop On Hop Off
+  - Mt Dikti - Mt Selena - Δίκτη - Σελένα ; Anavasi ; Topo 25 ; 11.15 ; 1:35000
   - Νάξος - Nasso ; Freytag & Berndt ; 1:50000
   - Oλυμπος - Mt Olympus ; Anavasi ; Anavasi Maps & Guides ; Topo 25 ; Macedonia 6.11 ; 1:25000 
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+  - Psiloritis (Mt Ida) - Ψηλορείτης (Ίδη) ; Anavasi ; Anavasi maps & guides ; 1:30000
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
 - Guatemala
   - Mexico ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:2000000
