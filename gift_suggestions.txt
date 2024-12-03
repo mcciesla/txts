@@ -66,6 +66,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Proof and the Art of Mathematics - Joel David Hamkins
       - Felony and the Guilty Mind in Medieval England - Elizabeth Papp Kamali
       - Dynastie Świata - Przewodnik chronologiczny i genealogiczny - John E.Morby
+      - Prusy. Powstanie i upadek 1600-1947 - Christopher Clark
       - Smoleńsk 1609-1611 - Katarzyna Słodowy
       - Poitiers 732 - Robert F. Barkowski
       - Cedynia 972 - Paweł Rochala
@@ -110,6 +111,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Ateny-Sparta 431-404 p.n.e - Ryszard Kulesza
       - Połonka-Basia 1660 - Marcin Gawęda
       - Life's Engines: How Microbes Made Earth Habitable - Paul G. Falkowski
+      - The Science of Human Intelligence - Richard J. Haier, Roberto Colom, Earl Hunt
       - Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought - George C. Williams
       - The Nurture Assumption - Judith Rich Harris
       - A Profile of Mathematical Logic - Howard DeLong
@@ -208,6 +210,9 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
                                   - 1. Zdradzona czarodziejka
                                   - 2. Wyspa wśród lodów - Magda
                                   - 3. Nad jeziorem bez dna
+                                  - 4. Czarna galera - Magda
+                                  - 6. Upadek Brek Zarith - Magda
+                                  - 9. Łucznicy - Magda
                                   - 18. Słoneczny miecz
                                   - 19. Niewidzialna forteca
                                   - 20. Piętno wygnańców

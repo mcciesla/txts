@@ -143,6 +143,8 @@
   - Rumunsko - Romania - Rumänien ; GeoClub ; EuroClub ; 1:800000
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - Stara planina - Nature park prirode ; Geokarta ; 1:50000
+- Cambodia
+  - Tajlandia - map & guide XL - 2w1 przewodnik i mapa ; ExpressMap ; Comfort! map ; 1:1650000
 - Cape Verde
   - Cape Verde Islands - Cap-Vert - Capo Verde - Kapverdische Inseln - Cabo Verde - Kaapverdië : Road map - Carte routière - Carta stradale - Autokarte - Mapa de estradas - Autokaart ; Freytag & Berndt ; 1:80000
 - Chile
@@ -171,6 +173,8 @@
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
   - South Velebit - Paklenica National Park Num.1 - Southeast Area: Velika and Mala Paklenica / Trekking National Park Paklenica - Starigrad/Paklenica ; Zadar County Tourist Board ; 1 ; 1:18000
   - Štajerska : Slovenske Gorice - Haloze - Boč ; Kartografija ; 1:50000
+- Cuba
+  - Cuba ; terraQuest ; Comfort! map ; 1:650000
 - Cyprus
   - North Cyprus - Touristic Road Map of North Cyprus ; Turizm Tanitma ve Pazarlama Dairesi - Tourism Promotion and Marketing Department ; 1:325000
   - Zypern - Cyprus - Chypre - Cipro - Кипр ; Freytag & Berndt ; 1:150000
@@ -297,6 +301,7 @@
 - Finland
   - Europa ; Demart ; moto ; 1:3400000
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Norway ; ExpressMap ; Comfort! map ; 1:1000000
   - Suomi - Finland ; Marco Polo ; 1:850000
 - France
   - Alpy
@@ -518,6 +523,8 @@
   - Montenegro - Crna Gora - Montenegro - Montenegro - Monténégro - Montenegro : Auto + Freizeitkarte - Karta za auto + slobodno vreme - Auto + Vrije tijd kaart - Road + Leisure map - Carte routière + de loisirs - Carta stradale + turistica ; Freytag & Berndt ; 1:150000
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
+- Laos
+  - Tajlandia - map & guide XL - 2w1 przewodnik i mapa ; ExpressMap ; Comfort! map ; 1:1650000
 - Latvia
   - Europa ; Demart ; moto ; 1:3400000
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
@@ -552,6 +559,8 @@
   - Francie - Belgie a Lucembursko - Frankreich - France ; Marco Polo ; 1:800000
   - Luxembourg - Les 13 plus beaux circuits-découvertes sur pistes cyclables - Inclut trois cartes et le nombreuses informations touristiques ; Éditions Guy Binsfeld ; 1:50000/1:5000
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+- Malaysia
+  - Tajlandia - map & guide XL - 2w1 przewodnik i mapa ; ExpressMap ; Comfort! map ; 1:1650000
 - Malta
   - Europa ; Demart ; moto ; 1:3400000
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
@@ -593,6 +602,8 @@
   - Europa ; Demart ; moto ; 1:3400000
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
+- Myanmar
+  - Tajlandia - map & guide XL - 2w1 przewodnik i mapa ; ExpressMap ; Comfort! map ; 1:1650000
 - Netherlands
   - Aachen und das Dreiländereck ; Kompass ; 757 ; 1:50000
   - Belgien - Luxembourg ; RV Verlag ; Euro Cart ; 1:300000
@@ -614,6 +625,7 @@
 - Norway
   - Europa ; Demart ; moto ; 1:3400000
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Norway ; ExpressMap ; Comfort! map ; 1:1000000
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Suomi - Finland ; Marco Polo ; 1:850000
 - Oman
@@ -722,6 +734,7 @@
   - Powiat Bocheński i okolice ; Regis ; 1:45000
   - Powiat Krapkowicki i okolice ; Galileos ; 1:40000
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
+  - Puszcza Białowieska ; ExpressMap ; Comfort! map ; 1:50000
   - Puszcza Kampinoska ; ExpressMap ; 1:35000
   - Puszcza Kampinoska ; ExpressMap ; Comfort! map ; 1:40000
   - Roztoczański Park Narodowy ; Kartpol ; Roztoczański Park Narodowy ; 1:70000/1:8000
@@ -754,7 +767,8 @@
     - Munții Parâng - Páring-hegység - Parâng Mountains ; Erfatur ; Dimap ; 27 ; 1:50000
     - Munții Rodnei - Radnai-havasok - Rodnei Mountains ; Dimap ; 15 ; 1:50000
     - Piatra Craiului - Piatra Craiului Mountains ; Bel Alpin ; 1:30000
-    - Banát ; Freytag & Berndt ; KČT ; Edice KČT ; RO ; 1:100000
+    - Retezat Mountains ; terraQuest ; Comfort! map ; 1:50000
+  - Banát ; Freytag & Berndt ; KČT ; Edice KČT ; RO ; 1:100000
   - Europa ; Demart ; moto ; 1:3400000
   - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
@@ -769,6 +783,7 @@
   - Europa ; Demart ; moto ; 1:3400000
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Gruzja 3w1 ; ExpressMap ; Comfort! map ; 1:450000
+  - Norway ; ExpressMap ; Comfort! map ; 1:1000000
   - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Suomi - Finland ; Marco Polo ; 1:850000
@@ -931,6 +946,7 @@
   - Dänemark - Luxembourg ; RV Verlag ; Euro Cart ; Euro-Regionalkarte ; 1:300000
   - Europa ; Demart ; moto ; 1:3400000
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
+  - Norway ; ExpressMap ; Comfort! map ; 1:1000000
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Suomi - Finland ; Marco Polo ; 1:850000
 - Switzerland
@@ -955,6 +971,8 @@
   - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Schweiz - Suisse - Svizzera - Switzerland ; Marco Polo ; 1:303000
+- Thailand
+  - Tajlandia - map & guide XL - 2w1 przewodnik i mapa ; ExpressMap ; Comfort! map ; 1:1650000
 - Tunisia
   - Europa ; Demart ; moto ; 1:3400000
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
@@ -1007,6 +1025,7 @@
   - The Trossachs - Callander, Aberfoyle & Lochearnhead, Balquhidder & Strathyre ; OS ; OS Explorer ; OL46 ; 1:25000
   - Visitor Map - Leisure Map of Jersey ; Channel Islands Maps Ltd ; Jersey Heritage ; 1:25000
 - United States
+  - Cuba ; terraQuest ; Comfort! map ; 1:650000
   - Mexico ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:2000000
   - Mexico North ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:130000
 - Uruguay
