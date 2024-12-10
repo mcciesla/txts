@@ -667,16 +667,18 @@ Alba Longa
   Procas                       	                        808-795 ( wg V.N.M.S.D. )
   Numitor                    	                          795-794 i ok.755-ok.735 ( wg V.N.M.S.D. )
       			        	                                  ?	( wg D.R. i K.R.I.C.R. )
-      				                                          ? i ? ( wg Z.V.C. )
+      				                                          ? i ? ( wg Z.V.C. i W.4.3.P.N.E. )
   Amulius                    	                          794-ok.755 ( wg V.N.M.S.D. )
-      			         	                                  ? ( Amuliusz wg K.R.I.C.R. )
+      			         	                                  ? ( Amuliusz wg K.R.I.C.R. ) ( wg W.4.3.P.N.E. )
   Cluilius                     	                        ok.735-665 ( wg V.N.M.S.D. )
   Julus                          	                      ? ( wg K.R.I.C.R. )
+  Mettiusz                                              ? ( wg W.4.3.P.N.E. )
   Bibliografia :
       Velká nástěnná mapa světových dějin
       Dzieje Rzymu
       Kronika Rzymu i Cesarstwa Rzymskiego
       Zdraví Vás Caesar
+      Weje 405-396 p.n.e.
 
 Albania
   Jerzy Skanderberg Kastriota                           przed 1461-1468 (22.7.-17.1.) ( Jerzy (Jerzy Kastriota, Skanderberg, Skanderberg Kastriota, "Athleta Christi") wg M.1526 )
@@ -2384,6 +2386,10 @@ Królestwo Arrapcha ( Arrapha , Nuzi , Kirkúk )
   Muszteja                                              ?
   Bibliografia :
       Huryci
+
+Arretium ( Arezzo )
+  Bibliografia :
+      Weje 405-396 p.n.e.
 
 Arsúf
   Ibelinové
@@ -5249,11 +5255,12 @@ Boliwia ( Bolívie )
   Bibliografia :
       Fidel & Che - A Revolutionary Friendship
 
-Bolonia ( Bologna )
+Bolonia ( Bologna , Felsina )
   Ród Bentivogliów
     Giovanni Bentivoglio                                ?
   Bibliografia :
       Historia Wenecji
+      Weje 405-396 p.n.e.
 
 Boranie
 
@@ -6643,13 +6650,14 @@ Księstwo bytomskie
       Książęta piastowscy Śląska
       Piastowie. Walka o tron 1138–1320
 
-Caere
+Caere ( Cerveteri , Chisra , Cisra , Agylla , Carae )
   Thefarie ( Tyberiusz ) Velianas	                      przed 500 p.n.e.-? ( wg D.R. )
-      					                                        ? ( Thefarie Velianase wg Z.Ř. )
+      					                                        ? ( Thefarie Velianase wg Z.Ř. ) ( Thefarie Velians wg W.4.3.P.N.E. )
   Mezencjusz			                                      ? ( wg D.R. ) ( Mezentius wg Z.Ř. )
   Bibliografia :
       Dzieje Rzymu
       Zrození Řecka
+      Weje 405-396 p.n.e.
 
 Caesarea [Caesarea Maritima]
   Gautier I.                                            przed 1146 n.e.-? ( wg S.V.D.K.V. )
@@ -6679,19 +6687,20 @@ Księstwo Camerino
   Bibliografia :
       Otton I Wielki
 
-Księstwo Capua ( Kapua , Księstwo Kapui , Knížectví kapujské , Kapujské knížectví , Duchy of Capua )
-  Pandulf Żelaznogłowy                                  przed 969-po 970 (?-wiosna) ( Pandulf wg O.I.W. ) [Duke of Benevento] [Duke of Spoleto] [Duke of Camerino]
+Kapua ( Volturnum )
+  Księstwo Capua ( Kapua , Księstwo Kapui , Knížectví kapujské , Kapujské knížectví , Duchy of Capua )
+    Pandulf Żelaznogłowy                                przed 969-po 970 (?-wiosna) ( Pandulf wg O.I.W. ) [Duke of Benevento] [Duke of Spoleto] [Duke of Camerino]
                                                         ?-981 ( Pandulf Ironhead (Pandulf 'Iron Head') wg T.H.R.E.A.T.Y.O.E.H. )
-  Landulf IV                                            ?-982 n.e. (?-15.7.) ( wg B.S. )
-  Pandulf IV                                            1016-1026 ( Pandulf wg N.I.B.W.XI.S. )
+    Landulf IV                                          ?-982 n.e. (?-15.7.) ( wg B.S. )
+    Pandulf IV                                          1016-1026 ( Pandulf wg N.I.B.W.XI.S. )
                                                         ? ( Paldolf IV. (Paldolf, Vlk z Abruzz) wg S.N.A.S.E. )
-  Pandulf V                                             1020-1057 ( wg N.I.B.W.XI.S. )
-  Ryszard z Kapui                                       przed 1059-? ( wg F.H.C.R. ) ( Richard z Aversy wg S.V.D.K.V. )
+    Pandulf V                                           1020-1057 ( wg N.I.B.W.XI.S. )
+    Ryszard z Kapui                                     przed 1059-? ( wg F.H.C.R. ) ( Richard z Aversy wg S.V.D.K.V. )
                                                         1058-1078 ( Ryszard I wg N.I.B.W.XI.S. ) ( Richard Drengot (Richard, Richard Mladší, Richard z Capuy) wg S.N.A.S.E. )
-  Jordan I                                              1078-1090 ( Jordan wg N.I.B.W.XI.S. )
+    Jordan I                                            1078-1090 ( Jordan wg N.I.B.W.XI.S. )
                                                         1078-? ( Jordanus (Jordanis) wg S.N.A.S.E. )
-  Ryszard II                                            1090-1106 ( wg N.I.B.W.XI.S. )
-  Roger II.                                             przed 1130-? ( wg S.V.D.K.V. ) [King of Naples and Sicily Roger II]
+    Ryszard II                                          1090-1106 ( wg N.I.B.W.XI.S. )
+    Roger II.                                           przed 1130-? ( wg S.V.D.K.V. ) [King of Naples and Sicily Roger II]
   Bibliografia :
       Fryderyk II Hohenstauf - Cesarz Rzymski
       Bitwy Słowian
@@ -8444,6 +8453,10 @@ Cornwall
   Bibliografia :
       Northmen - The Viking Saga 793-1241
 
+Cortona
+  Bibliografia :
+      Weje 405-396 p.n.e.
+
 Cozumel
   Ah Naum Pat	                                          ? ( wg E.P. )
                                                         przed 1527 n.e.-? ( wg May. )
@@ -8480,12 +8493,14 @@ Cumae ( Kume )
       		  	                                          przed 524-po 505 ( Arystodemos wg K.R.I.C.R. )
       			                                            przed 506-po 504 ( Aristodemos Zženštilec wg Z.Ř. )
       			                                            przed ok.525/4-po 506/4 ( wg K.Ř. )
+                                                        przed 525-po 504 ( Arystodemos z Kume (Arystodemos) wg W.4.3.P.N.E. )
   Bibliografia :
       Dzieje Grecji
       Dzieje Rzymu
       Kronika Rzymu i Cesarstwa Rzymskiego
       Zrození Řecka
       Klasické Řecko
+      Weje 405-396 p.n.e.
 
 Cupulové
   Naabon Cupul                                          ? ( wg May. )
@@ -12545,9 +12560,10 @@ Fajstos
   Bibliografia :
       Starożytne Cywilizacje
 
-Falerie
+Falerie ( Faleria )
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
+      Weje 405-396 p.n.e.
 
 Faros
   Demetriusz                                            przed 219 p.n.e.-? ( wg K.R.I.C.R. ) [Ruler of Ardiaean Kingdom]
@@ -12702,6 +12718,11 @@ Ferrara
 Fideny
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
+      Weje 405-396 p.n.e.
+
+Fiesole
+  Bibliografia :
+      Weje 405-396 p.n.e.
 
 Figaleia ( Fialeia )
   Bibliografia :
@@ -14801,6 +14822,10 @@ Hadramaut ( Państwo hadramauckie , Państwo atramickie , Hatramotyjczycy , Hadr
   Bibliografia :
       Arabowie
 
+Hadria ( Adria )
+  Bibliografia :
+      Weje 405-396 p.n.e.
+
 Haeduowie
   Sacrovirus		                                        ?
   Bibliografia :
@@ -15383,6 +15408,10 @@ Hercegowina
   Bibliografia :
       Dynastie Świata
       Mohacz 1526
+
+Herkulaneum
+  Bibliografia :
+      Weje 405-396 p.n.e.
 
 Hermione
   Xenón                                                 ? ( wg Ř.M.M.A.Ř. )
@@ -16640,6 +16669,10 @@ Irlandia ( Ireland , Irsko , Eriu )
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Fulford-Stamford Bridge 1066
+
+Irnthi
+  Bibliografia :
+      Weje 405-396 p.n.e.
 
 Liga Irokezów
   Eskuyas                         	                    przed 1645 n.e.-? ( wg W.I.A.P. )
@@ -18742,6 +18775,7 @@ Kapadocja ( Kappadocie )
 Kapena
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
+      Weje 405-396 p.n.e.
 
 Kapisa
   Bibliografia :
@@ -20049,16 +20083,18 @@ Kleonaj
   Bibliografia :
       Dzieje Grecji
 
-Kluzjum ( Clusium )
+Kluzjum ( Clusium , Chiusi )
   Porsenna              	                              przed 508-po 505 ( wg K.R.I.C.R. )
       				                                          przed 508-? ( wg E.P. )
       				                                          ? ( wg Z.V.C. ) ( Lars Porsenna wg Z.Ř. )
                                                         przed 507-? ( wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        ? ( Lars Porsenna wg W.4.3.P.N.E. )
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
       Encyklopedie panovníků
       Zdraví Vás Caesar
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
+      Weje 405-396 p.n.e.
 
 Hrabstwo kłodzkie
   Wiktoryn                                              ? ( Wiktoryn ziębicki wg K.P.S. ) [Książę ziębicki]
@@ -23708,7 +23744,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
                                                         ok.333 ( wg F. )
 				    	                                          przed 334-po 332 ( wg D.R. )
 				    	                                          336-? ( wg S.C. )
-				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. i H.W. i F.H.C.R. i J.P.1242 i K.6. i B.D.K.B. i G.C.3000.L.N.O.I.W. i K.1274.P.N.E. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. i S.N.A.S.E. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. i T.D.W.S.A.A.C.I.T.D. i S.A.B.H.O.H. i P.U.D. i M.1526 ) ( Aleksander Macedoński wg Z.N.E. i T.R.L.Z.S.L.R.S.B. i W.P.P.K.O.S. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. ) ( Alexandr Makedonský wg A.Č.D. ) ( Alexander wg U.E. ) ( Aleksander Wielki (Aleksander Macedoński, ALeksander) wg G.R.I.L. ) ( Aleksander Wielki (Aleksander) wg O.I.W. ) ( Alexandr Makedonský (Alexandr Veliký) wg O.L.S.S.Z.C.Z.A.O.V.H. ) ( Aleksander III Macedoński Wielki (Aleksander Wielki) wg M.1176 ) ( Aleksander Macedoński (Aleksander Wielki) wg N.1396 ) ( Aleksander III Macedoński (Aleksander Wielki, Aleksander, Aleksander Macedoński) wg B.W.5.P.N.E. )
+				       	                                        ? ( Alexandr Macedónský wg M.A.E. ) ( Aleksander Wielki wg K.R.I.C.R. i P.J.D. i K.1.1.P.N.E. i H.W. i F.H.C.R. i J.P.1242 i K.6. i B.D.K.B. i G.C.3000.L.N.O.I.W. i K.1274.P.N.E. ) ( Alexandr Veliký wg D.B. i K. i E.P. i T.P.Ž.C. i S.N.A.S.E. ) ( Alexandr III Veliký wg Z.Ř. ) ( Aleksander wg O.A.O.C.E. ) ( Alexander The Great wg V.K.T.H.O.H.E. i T.D.W.S.A.A.C.I.T.D. i S.A.B.H.O.H. i P.U.D. i M.1526 ) ( Aleksander Macedoński wg Z.N.E. i T.R.L.Z.S.L.R.S.B. i W.P.P.K.O.S. ) ( Aleksander Wielki (Alexander The Great) wg K.P.N.A. ) ( Alexandr Makedonský wg A.Č.D. ) ( Alexander wg U.E. i W.4.3.P.N.E. ) ( Aleksander Wielki (Aleksander Macedoński, ALeksander) wg G.R.I.L. ) ( Aleksander Wielki (Aleksander) wg O.I.W. ) ( Alexandr Makedonský (Alexandr Veliký) wg O.L.S.S.Z.C.Z.A.O.V.H. ) ( Aleksander III Macedoński Wielki (Aleksander Wielki) wg M.1176 ) ( Aleksander Macedoński (Aleksander Wielki) wg N.1396 ) ( Aleksander III Macedoński (Aleksander Wielki, Aleksander, Aleksander Macedoński) wg B.W.5.P.N.E. )
 				    	                                          przed 332-?  ( Aleksander Macedoński wg B.M. )
                                                         przed 324-323 ( ?-10.6. ) ( Alexandr Veliký wg T.H.S. )
 					                                              przed 332-323 ( Alexandr Veliký wg Ž.V.Ř.S. )
@@ -23924,6 +23960,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
       Gabiene 316 p.n.e.
       Dějiny Indie
       Bibracte-Wogezy 58 p.n.e.
+      Weje 405-396 p.n.e.
 
 Machalata
   Bibliografia :
@@ -24560,6 +24597,10 @@ Państwo Marboda
       Římané v Germánii
       Tiberius – Pohnutý život císaře
       Goci - Rzeczywistość i legenda
+
+Marcia
+  Bibliografia :
+      Weje 405-396 p.n.e.
 
 Mardaman
   Tiszulme                                              ?
@@ -27849,6 +27890,10 @@ Księstwo Nitry
       Zrod střední a východní Evropy
       Mazowsze 1047
 
+Nocera ( Nuceria )
+  Bibliografia :
+      Weje 405-396 p.n.e.
+
 Orda Nogajska ( Orda Mangycka , Wielka Orda Nogajska )
   Idigu                                                 przed 1398 n.e.-? ( wg T.S.O.I.C.O.T.W. )
   Edygej                                                ?-1419 ( wg N.G.R.B.I.N.S. )
@@ -27866,6 +27911,10 @@ Orda Nogajska ( Orda Mangycka , Wielka Orda Nogajska )
   Bibliografia :
       Tamerlane - Sword of Islam, Conqueror of the World
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+
+Nola
+  Bibliografia :
+      Weje 405-396 p.n.e.
 
 Nolambavádi ( Nulumbapádi )
   Nolambové
@@ -29181,6 +29230,10 @@ Orlean
 Ortisowie
   Bibliografia:
       Hydaspes 326 p.n.e.
+
+Orvieto ( Velzo )
+  Bibliografia:
+      Weje 405-396 p.n.e.
 
 Osagowie
   Bibliografia :
@@ -30845,10 +30898,11 @@ Peru
       Wielcy polscy podróżnicy, którzy odkrywali świat
       Osudy lidských společností: Střelné zbraně, choroboplodné zárodky a ocel v historii
 
-Perugia
+Perugia ( Peruzja )
   Ród Baglionich
   Bibliografia :
       Historia Wenecji
+      Weje 405-396 p.n.e.
 
 Pessinous
   Bibliografia :
@@ -31018,6 +31072,7 @@ Piza ( Pisa )
   Bibliografia :
       Historia Wenecji
       History of Western Philosophy
+      Weje 405-396 p.n.e.
 
 Plateje ( Plataje )
   Bibliografia :
@@ -31592,6 +31647,10 @@ Pomorze Szczecińskie ( Księstwo Pomorskie , Księstwo Zachodniopomorskie , Duc
       Mazowsze 1047
       The Holy Roman Empire - A Thousand Years of Europe's History
 
+Pompeje
+  Bibliografia :
+      Weje 405-396 p.n.e.
+
 Pont ( Pontus )
   Mitrydates                                       	    337/6-302/1 ( wg A.Č. )
                                                         322-302 ( II wg V.N.M.S.D. )
@@ -31690,6 +31749,7 @@ County of Ponthieu ( Hrabství Ponthieu )
 Populonia
   Bibliografia :
       Zrození Řecka
+      Weje 405-396 p.n.e.
 
 Królestwo Portikanosa
   Portikanos                                            ?-325 p.n.e. ( Oksynakos wg H.3.P.N.E. )
@@ -31927,6 +31987,7 @@ Prárdžunové
 Preneste ( Praeneste )
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
+      Weje 405-396 p.n.e.
 
 Priene
   Bibliografia :
@@ -32321,6 +32382,10 @@ Ravensburg
   Bibliografia :
       The Holy Roman Empire - A Thousand Years of Europe's History
 
+Rawenna ( Ravna )
+  Bibliografia :
+      Weje 405-396 p.n.e.
+
 Księstwo rawskie
   Siemowit II                                           1313-po 1325 ( wg L.P.P. )
                                                         ?-1345 ( wg P.W.O.T. )
@@ -32447,7 +32512,7 @@ Riga
       Vanished Kingdoms - The History of Half-Forgotten Europe
       The Holy Roman Empire - A Thousand Years of Europe's History
 
-Rimini
+Rimini ( Arimna )
   Carlo Malatesta                                       przed 1409-po 1424
   Bibliografia :
       Historia Wenecji
@@ -32815,6 +32880,7 @@ Rumunia ( Romania , Rumunsko )
 Rusellae
   Bibliografia :
       Zrození Řecka
+      Weje 405-396 p.n.e.
 
 Państwo Rustamidów
   Dynastia Rustamidów
@@ -32876,28 +32942,30 @@ Rzym ( Rome , Řím )
   Królestwo Rzymu ( Królestwo )
     Romulus                                             753-715 ( wg V.N.M.S.D. )
     			   	                                          753-716 ( wg D.R. )
-    			   	                                          ? ( wg S.C. i H.P.S. i K.P.N.A. i H.O.W.P. i K.6. i H.S.P.D.N.H.W.K.S.S.O. i C.K.F. i S.N.A.S.E. i K.1274.P.N.E. )
+    			   	                                          ? ( wg S.C. i H.P.S. i K.P.N.A. i H.O.W.P. i K.6. i H.S.P.D.N.H.W.K.S.S.O. i C.K.F. i S.N.A.S.E. i K.1274.P.N.E. i W.4.3.P.N.E. )
     			    	                                        753-717 ( ?-7.7. ) ( wg K.R.I.C.R. )
     				                                            753-? ( 21.4.-? ) ( wg Z.V.C. )
-    Numa Pompilius  	                                  715-673 ( wg V.N.M.S.D. ) ( Numa Pompiliusz K.R.I.C.R. )
+    Tytus Tacjusz                                       ? ( wg W.4.3.P.N.E. ) [King of Sabinowie Tytus Tacjusz]
+    Numa Pompilius  	                                  715-673 ( wg V.N.M.S.D. ) ( Numa Pompiliusz K.R.I.C.R. ) ( Numa Pompiliusz (Numa) wg W.4.3.P.N.E. )
     			    	                                        715-673/2 ( wg D.R. )
     			    	                                        ? ( Numa Pompiliusz wg S.C. i H.P.S. ) ( wg Z.V.C. ) ( Numa wg R.E.P.A.T.M.O.M. )
     Tullus Hostilius    	                              673-640 ( wg V.N.M.S.D. )
     			                                              673/4-642 ( Hostyliusz wg D.R. )
     			    	                                        ? ( Tullus Hostyliusz wg S.C. i H.P.S. ) ( wg Z.V.C. )
-    			     	                                        673-642 ( Tullus Hostyliusz wg K.R.I.C.R. )
+    			     	                                        673-642 ( Tullus Hostyliusz wg K.R.I.C.R. ) ( Tuliusz Hostiliusz wg W.4.3.P.N.E. )
     				                                            ok.672-ok.640 ( Tullius wg T.P.Ž.C. )
     Ancus Marcius      	                                640-616 ( wg V.N.M.S.D. )
-    			     	                                        642-617 ( Ankus Marcjusz wg D.R. )
+    			     	                                        642-617 ( Ankus Marcjusz wg D.R. i W.4.3.P.N.E. )
     			   	                                          ? ( Ankus Marcjusz wg S.C. i H.P.S. ) ( Ankus Marcius wg Z.V.C. )
     			       	                                      641-617 ( Ankus Marcjusz wg K.R.I.C.R. )
-    Tarquinius Priscus  	                              616-578 ( wg V.N.M.S.D. )
-    	    	 		                                        616-579 ( Lucjusz Tarkwiniusz Stary ( Lucius Tarquinius Priscus ) wg D.R. i K.R.I.C.R. ) ( Tarkwiniusz I wg S.C. )
+    Ród Tarkwiniuszy
+      Tarquinius Priscus  	                            616-578 ( wg V.N.M.S.D. )
+    	    	 		                                        616-579 ( Lucjusz Tarkwiniusz Stary ( Lucius Tarquinius Priscus ) wg D.R. i K.R.I.C.R. ) ( Tarkwiniusz I wg S.C. ) ( Tarkwiniusz Stary (Priskus, Tarkwiniusz Starszy) wg W.4.3.P.N.E. )
     			 	                                            ? ( Tarkwiniusz Stary wg H.P.S. )
     				                                            616-? ( wg Z.V.C. )
     				                                            ok.616-579 ( Tarquinius Priskus wg Z.Ř. )
     Servius Tullius        	                            578-534 ( wg V.N.M.S.D. ) ( Mastarna wg Z.V.C. )
-    			       	                                      578-535 ( Serwiusz Tuliusz wg D.R. i K.R.I.C.R. i K.1.1.P.N.E. )
+    			       	                                      578-535 ( Serwiusz Tuliusz wg D.R. i K.R.I.C.R. i K.1.1.P.N.E. i W.4.3.P.N.E. )
     			       	                                      ok.578-535 ( Serwiusz Tulliusz wg S.C. ) ( Servius Tulius wg Z.Ř. )
     			  	                                          ? ( wg K.P.N.A. ) ( Serwiusz Tuliusz wg H.P.S. )
     Tarquinius Superbus	                                534-509 ( wg V.N.M.S.D. )
@@ -32906,17 +32974,37 @@ Rzym ( Rome , Řím )
     		     		                                        ? ( Tarkwiniusz Pyszny wg H.P.S. i H.S.P.D.N.H.W.K.S.S.O. ) ( wg K.Ř. )
     				                                            ?-ok.510/07 ( wg Z.Ř. )
     				                                            ?-509 ( Tarkwiniusz Pyszny wg O.A.O.C.E. )
+                                                        534-509/8 ( Tarkwiniusz Pyszny wg W.4.3.P.N.E. )
   Republika Rzymska ( Roman Republic , Republika , Rzeczpospolita , Republika rzymska , The Roman republic , Republika )
     Junius Brutus                                       509 ( wg V.N.M.S.D. ) ( Lucjusz Juniusz Brutus wg D.R. i K.R.I.C.R. )
     Tarkwiniusz Kolatyn                                 509 ( wg K.R.I.C.R. )
     Publiusz Waleriusz				           		            509 ( wg K.R.I.C.R. )
     Marek Horacjusz Pulwillus			           		        509 ( wg D.R. i K.R.I.C.R. )
+    Agryppa Meneniusz                                   ? ( wg W.4.3.P.N.E. )
     Kwintus Postumiusz Tubertus  			  		            502  ( wg K.R.I.C.R. )
     Spuriusz Kasjusz Wecellinus                     		502 i 493 i 486 ( wg D.R. )
     							           		                        ? i 493 i 486 ( wg K.R.I.C.R. )
     Tytus Larcjusz Flawus				           		          501 ( wg K.R.I.C.R. )
+                                                        501 i 498 ( Tytus Larcjusz wg W.4.3.P.N.E. )
     Aulus Postumiusz				           		              496 ( wg K.R.I.C.R. )
+    Publiusz Serwiliusz                                 494 ( wg W.4.3.P.N.E. )
     Manliusz Waleriusz				           		            494 ( wg K.R.I.C.R. )
+    Kwintus Fabiusz                                     483/2 ( Fabiusz wg W.4.3.P.N.E. )
+    Gajusz Juliusz                                      482 ( wg W.4.3.P.N.E. )
+    Kezon Fabiusz                                       481 ( Fabiusz wg W.4.3.P.N.E. )
+    Spuriusz Furiusz                                    481 ( wg W.4.3.P.N.E. )
+    Marek Fabiusz                                       480 ( wg W.4.3.P.N.E. )
+    Gneusz Maniliusz                                    480 ( Gneusz Manliusz (Maniliusz, Manliusz) wg W.4.3.P.N.E. )
+    Kezon Fabiusz                                       479 ( Kezon (Fabiusz) wg W.4.3.P.N.E. )
+    Tytus Werginiusz                                    479 ( wg W.4.3.P.N.E. )
+    Lucjusz Emiliusz                                    478 ( wg W.4.3.P.N.E. )
+    Gajusz Serwiliusz                                   478 ( wg W.4.3.P.N.E. )
+    Tytus Meneniusz                                     477 ( Meneniusz wg W.4.3.P.N.E. )
+    Gajusz Horacjusz                                    477 ( wg W.4.3.P.N.E. )
+    Spuriusz Serwiliusz                                 476 ( Serwiliusz wg W.4.3.P.N.E. )
+    Aulus Werginiusz                                    476 ( Werginiusz wg W.4.3.P.N.E. )
+    Lucjusz Furiusz                                     474 ( wg W.4.3.P.N.E. )
+    Gajusz Manliusz                                     474 ( wg W.4.3.P.N.E. )
     Publiusz Waleriusz				           		            460 ( wg K.R.I.C.R. )
     Lucjusz Kwincjusz Cyncynat			           		      460 i 458 i ok.440 ( wg K.R.I.C.R. )
     									                                  458 ( Lucius Quinctius Cincinnatus wg E.P. )
@@ -32925,12 +33013,68 @@ Rzym ( Rome , Řím )
     Aterniusz					           		                    454 ( wg K.R.I.C.R. )
     Lucjusz Waleriusz Potitus                          	449 ( wg D.R. i K.R.I.C.R. )
     Marek Horacjusz Barbatus                         		449 ( wg D.R. i K.R.I.C.R. )
+    Marek Gaganiusz Macerynus                           437 ( wg W.4.3.P.N.E. )
+    Lucjusz Sergiusz Fidenas                            437 ( wg W.4.3.P.N.E. )
+    Mamerkus Emiliusz                                   437 i 426 ( wg W.4.3.P.N.E. )
+                                                        426 ( Emiliusz Mamercynus wg K.R.I.C.R. )
+    Marek Korneliusz Maluginensis                       436 ( wg W.4.3.P.N.E. )
+    Lucjusz Papiriusz Krassus                           436 ( wg W.4.3.P.N.E. )
+    Gajusz Juliusz                                      435 ( Juliusz wg W.4.3.P.N.E. )
+    Lucjusz Werginiusz                                  435 ( wg W.4.3.P.N.E. )
+    Aulus Serwiliusz                                    435 ( wg W.4.3.P.N.E. )
     Aulus Postumiusz Tubertus			           		        431 ( wg K.R.I.C.R. )
     Aulus Aureliusz Kossus						                  428 ( wg D.R. )
-    Emiliusz Mamercynus				           		            426 ( wg K.R.I.C.R. )
+                                                        428 i 426 ( Aulus Korneliusz Kossus wg W.4.3.P.N.E. )
+    Tytus Kwinkcjusz Penus                              428 i 426 ( wg W.4.3.P.N.E. )
+    Gajusz Serwiliusz Ahala                             427 ( wg W.4.3.P.N.E. )
+    Lucjusz Papiriusz Mugilanus                         427 ( wg W.4.3.P.N.E. )
+    Gajusz Furiusz                                      426 ( wg W.4.3.P.N.E. )
+    Marek Postumiusz                                    426 ( wg W.4.3.P.N.E. )
+    Aulus Semproniusz Atratytus                         425 ( wg W.4.3.P.N.E. )
+    Lucjusz Kwinkcjusz Cyncynnatus                      425 ( wg W.4.3.P.N.E. )
+    Lucjusz Furiusz Medullinus                          425 ( wg W.4.3.P.N.E. )
+    Horacjusz Barbatus                                  425 ( wg W.4.3.P.N.E. )
+    Appiusz Kaludiusz Krassus                           ? ( wg W.4.3.P.N.E. )
+    Marek Kwintus Warus                                 ? ( wg W.4.3.P.N.E. )
+    Marek Sergiusz                                      402 ( Sergiusz wg W.4.3.P.N.E. )
+    Werginiusz Tricostus                                402 ( Werginiusz wg W.4.3.P.N.E. )
+    Marek Emiliusz Mamerkus                             401 ( Marek Emiliusz wg W.4.3.P.N.E. )
+    Lucjusz Waleriusz Potitus                           401 i 398 ( Waleriusz Potitus (Potitus) wg W.4.3.P.N.E. )
+    Lucjusz Juliusz Julus                               401 i 397 ( Lucjusz Juliusz wg W.4.3.P.N.E. )
+    Gneusz Korneliusz Kossus                            401 ( Gneusz Korneliusz wg W.4.3.P.N.E. )
+    Kezon Fabiusz Ambustus                              401 i 395 ( Kezon Fabiusz wg W.4.3.P.N.E. )
+    Marek Postumiusz                                    ? ( wg W.4.3.P.N.E. )
     Marek Furiusz Kamillus				     	                396 i 394 i 390-389 i 368-366 ( wg K.R.I.C.R. )
     									                                  ? i 387 ( Furius Camillus wg Z.V.C. )
                                                         406 ( wg K.1.1.P.N.E. )
+                                                        401 i 398 i 396 i 394 i 390/87/86-389/6/5 ( Kamillus (Furiusz Kamillus) wg W.4.3.P.N.E. )
+    Marek Postumiusz Albinus                            ? ( wg W.4.3.P.N.E. )
+    Marek Weturiusz                                     399 ( wg W.4.3.P.N.E. )
+    Marek Pomponiusz                                    399 ( wg W.4.3.P.N.E. )
+    Gneusz Duilliusz                                    399 ( wg W.4.3.P.N.E. )
+    Woleron Publiliusz                                  399 ( wg W.4.3.P.N.E. )
+    Gneusz Genecjusz                                    399 ( wg W.4.3.P.N.E. )
+    Lucjusz Attyliusz                                   399 ( wg W.4.3.P.N.E. )
+    Lucjusz Furiusz Medullinus                          398 i 397 i 395 i 394 ( wg W.4.3.P.N.E. )
+    Kwintus Serwiliusz Fidenas                          398 ( wg W.4.3.P.N.E. )
+    Kwintus Sulpicjusz Kamerynus                        398 ( wg W.4.3.P.N.E. )
+    Lucjusz Sergiusz Fidenus                            397 ( wg W.4.3.P.N.E. )
+    Aulus Postumiusz Regillensys                        397 ( wg W.4.3.P.N.E. )
+    Publiusz Korneliusz Maleginesys                     397 ( wg W.4.3.P.N.E. )
+    Aulus Manliusz                                      397 ( wg W.4.3.P.N.E. )
+    Lucjusz Tytyniusz                                   396 ( Tytyniusz wg W.4.3.P.N.E. )
+    Gneusz Genucjusz                                    396 ( Genucjusz wg W.4.3.P.N.E. )
+    Kwintus Meliusz                                     396 ( wg W.4.3.P.N.E. )
+    Lucjusz Atyliusz                                    396 ( wg W.4.3.P.N.E. )
+    Publiusz Licyniusz Kalwus                           396 ( wg W.4.3.P.N.E. )
+    Publiusz Kossus                                     395 ( wg W.4.3.P.N.E. )
+    Publiusz Scypion                                    395 ( wg W.4.3.P.N.E. )
+    Marek Waleriusz Maksymus                            395 ( wg W.4.3.P.N.E. )
+    Kwintus Serwiliusz                                  395 ( wg W.4.3.P.N.E. )
+    Publiusz Korneliusz                                 394 ( wg W.4.3.P.N.E. )
+    Lucjusz Waleriusz Publikola                         394 ( wg W.4.3.P.N.E. )
+    Spuriusz Postumiusz                                 394 ( wg W.4.3.P.N.E. )
+    Gajusz Emiliusz                                     394 ( wg W.4.3.P.N.E. )
     Marek Manliusz Kapitolinus			           		      392 ( wg D.R. )
     							              	                      ? ( wg K.R.I.C.R. )
     Aulus Korneliusz Kossus				    	                385 ( wg K.R.I.C.R. )
@@ -32943,7 +33087,9 @@ Rzym ( Rome , Řím )
     Lucjusz Furiusz Kamillus				       	            349 i 345 ( wg K.R.I.C.R. )
     Marek Waleriusz					       	                    ? ( wg K.R.I.C.R. )
     Tytus Manliusz Torkwatus			           		        ? i ? i 340 ( wg K.R.I.C.R. )
+                                                        ? ( Tytus Manliusz (Manliusz) wg W.4.3.P.N.E. )
     Publiusz Decjusz Mus				           		          340 ( wg K.R.I.C.R. )
+                                                        ? ( Publiusz Decjusz (Decjusz) wg W.4.3.P.N.E. )
     Kwintus Publiusz Filon 		                          339 ( wg D.R. )
     							           		                        339 i ? i 320 ( Kwintus Publiliusz Filon wg K.R.I.C.R. )
     									                                  ? ( Publius Philo wg Z.V.C. )
@@ -33091,6 +33237,7 @@ Rzym ( Rome , Řím )
     Spuriusz Postumiusz				           		            148 ( wg K.R.I.C.R. )
     Lucjusz Kalpurniusz Pizon Cezoninus                 148 ( wg K.1.1.P.N.E. )
     Publiusz Korneliusz Scypion Afrykański Młodszy      147 i 134 ( wg D.R. ) ( Publiusz Korneliusz Emilianus ( Publius Cornelius Scipio Aemilianus Africanus Minor ) wg K.R.I.C.R. ) ( Publius Cornelius Aemilianus Africanus Minor (Publiusz Korneliusz Scypion Emiliusz, Scypion Afrykański Młodszy) wg K.1.1.P.N.E. )
+                                                        ? ( Scypion Afrykański wg W.4.3.P.N.E. )
     Lucjusz Mummiusz				           		              146 ( wg H.P.S. i K.R.I.C.R. ) ( Lucius Mummius wg S.H. ) ( Lucius Mummius (Mummius) wg Ř.M.M.A.Ř. )
     Sulpicjusz Galba					         	                144 ( wg D.R. )
     Kwintus Cecyliusz Metellus Macedoński		         	  143 ( wg D.R. i K.R.I.C.R. )
@@ -33149,7 +33296,7 @@ Rzym ( Rome , Řím )
     							           		                        107-106 i 104-101 ( wg H.P.S. )
     							           		                        107 i ? i 103-100 i 86 ( wg K.R.I.C.R. )
     									                                  ? i ? i 103-100 i 86 ( Gaius Marius wg Z.V.C. )
-    									                                  ? ( Gaius Marius wg T.P.Ž.C. ) ( wg O.A.O.C.E. ) ( Mariusz wg G.R.I.L. i B.5.5.P.N.E. i G.B.5.5.P.N.E. )
+    									                                  ? ( Gaius Marius wg T.P.Ž.C. ) ( wg O.A.O.C.E. ) ( Mariusz wg G.R.I.L. i B.5.5.P.N.E. i G.B.5.5.P.N.E. i W.4.3.P.N.E. )
                                                         przed 86-? ( Marius wg Ř.S.J.Ď.S. )
                                                         107 i 104-100 i 86 ( Marius wg K.P.N.A. )
                                                         99 ( Marius wg S.P. )
@@ -33184,7 +33331,7 @@ Rzym ( Rome , Řím )
     Katon								                                89 ( ?-wiosna ) ( wg L. )
     Lucjusz Korneliusz Sulla					                  88 i 80-79 ( wg D.R. i K.R.I.C.R. )
     							            		                      82-79 ( wg H.P.S. ) ( Lucius Cornelius Sulla wg D.P.I.R.G. ) ( Sulla wg S.P. )
-    							             	                        ? ( Lucius Cornelius Sulla wg S.H. ) ( wg O.A.O.C.E. ) ( Sulla wg G.R.I.L. i B.5.5.P.N.E. i P.U.D. i H.S.P.D.N.H.W.K.S.S.O. i B.W.5.P.N.E. )
+    							             	                        ? ( Lucius Cornelius Sulla wg S.H. ) ( wg O.A.O.C.E. ) ( Sulla wg G.R.I.L. i B.5.5.P.N.E. i P.U.D. i H.S.P.D.N.H.W.K.S.S.O. i B.W.5.P.N.E. i W.4.3.P.N.E. )
     									                                  88 i 83-79 ( Lucius Cornelius Sulla wg Z.V.C. )
     									                                  88 ( wg L. )
                                                         81-79 ( Lucjusz Korneliusz Sulla Felix (Sulla) wg K.P.N.A. )
@@ -33227,11 +33374,11 @@ Rzym ( Rome , Řím )
     Publiusz Lentulus						                        71 ( wg L. ) ( Publiusz Korneliusz Lentulus Sura wg K.P.N.A. )
     Aufidiusz Orestes						                        71 ( wg L. )
     Marek Licyniusz Krassus Dives			         		      70 i 55 ( wg D.R. i H.P.S. i K.R.I.C.R. i O.A.O.C.E. ) ( Licinius Crassus wg Z.V.C. ) ( Marcus Licinius Crassus (Marcus Crassus, Krassus, Marek Licyniusz Krassus) wg K.P.N.A. )
-    							  		                                ? ( Marcus Licinius Crassus wg S.H. ) ( Crassus wg Ž.V.Ř.S. i Ř.S.J.Ď.S. i S.P. ) ( Krassus (Marek Krassus) wg G.B.5.5.P.N.E. ) ( Krassus wg H.3.P.N.E. ) ( Marek Licyniusz Krassus (Marek Licyniusz Krassus Bogacz, Krassus, Krassus Bogacz) wg B.W.5.P.N.E. )
+    							  		                                ? ( Marcus Licinius Crassus wg S.H. ) ( Crassus wg Ž.V.Ř.S. i Ř.S.J.Ď.S. i S.P. ) ( Krassus (Marek Krassus) wg G.B.5.5.P.N.E. ) ( Krassus wg H.3.P.N.E. i W.4.3.P.N.E. ) ( Marek Licyniusz Krassus (Marek Licyniusz Krassus Bogacz, Krassus, Krassus Bogacz) wg B.W.5.P.N.E. )
     							            		                      70 ( wg S.C. ) ( Crassus wg T.P.Ž.C. )
                                                         55 ( Marek Licyniusz Krassus (Krassus Bogacz, Krassus) wg B.5.5.P.N.E. )
     Gnejusz Pompejusz Magnus			            		      70 i 55 i 52 ( wg D.R. i H.P.S. i K.R.I.C.R. ) ( Gnejusz pompejusz (Pompejusz, Pompejusz Wielki, Gnejusz Pompejusz Wielki, Pompey) wg K.P.N.A. )
-    									                                  ? ( Gnaeus Pompeius Magnus wg S.H. ) ( Pompeius wg Ž.V.Ř.S. i Ř.S.J.Ď.S. ) ( Pompejusz wg Z.N.E. i W.P.P.K.O.S. ) ( Gnejusz Pompejusz (Pompejusz) wg N.I.B.W.XI.S. ) ( Gnejusz Pompejusz wg G.R.I.L. i H.3.P.N.E. ) ( Pompeius Veliký (Pompeius, Gnaeus Pompeius Magnus) wg P.U.D. ) ( Pompey wg C.A.T.B.D.H.T.B.C.O.T. ) 
+    									                                  ? ( Gnaeus Pompeius Magnus wg S.H. ) ( Pompeius wg Ž.V.Ř.S. i Ř.S.J.Ď.S. ) ( Pompejusz wg Z.N.E. i W.P.P.K.O.S. ) ( Gnejusz Pompejusz (Pompejusz) wg N.I.B.W.XI.S. ) ( Gnejusz Pompejusz wg G.R.I.L. i H.3.P.N.E. ) ( Pompeius Veliký (Pompeius, Gnaeus Pompeius Magnus) wg P.U.D. ) ( Pompey wg C.A.T.B.D.H.T.B.C.O.T. ) ( Pompejusz Wielki wg W.4.3.P.N.E. )
                                                         59 ( Pompejusz (Gnejusz Pompejusz, Gnejusz Pompejusz Wielki, Pompejusz Wielki) wg B.W.5.P.N.E. )
                                                         70 ( wg S.C. i L. ) ( Gnaeus Pompeius wg T.P.Ž.C. ) ( Pompeius wg S.P. )
     									                                  70 i 55 i ? ( Gnaeus Pompeius wg Z.V.C. ) ( wg O.A.O.C.E. )
@@ -33250,7 +33397,7 @@ Rzym ( Rome , Řím )
     Lucjusz Cezar                                       64 ( wg K.P.N.A. )
     Gajusz Figulus                                      64 ( wg K.P.N.A. )
     Marek Tuliusz Cyceron				        		            63 ( wg D.R. i H.P.S. i K.R.I.C.R. ) ( Cycero wg L. ) ( Ciceron wg Z.V.C. ) ( Marek Tulliusz Cyceron (Marcus Tullius Cicero) wg K.P.N.A. ) ( Cyceron (Cicero, Marek Tuliusz Cycero) wg B.W.5.P.N.E. )
-    									                                  ? ( Marek Tuliusz Cycero wg O.A.O.C.E. )
+    									                                  ? ( Marek Tuliusz Cycero wg O.A.O.C.E. ) ( Marek Tulliusz Cycero wg W.4.3.P.N.E. )
     Gajusz Antoniusz				            		            63 ( wg D.R. i K.R.I.C.R. ) ( Gajusz Antoniusz Hybryda (Gaius Antonius Hybrida ) wg K.P.N.A. )
     Lucjusz Licyniusz Murena			                      62 ( wg K.P.N.A. ) ( Murena wg L. )
     Decymus Juniusz Sylanus					                    62 ( wg L. )
@@ -33265,7 +33412,7 @@ Rzym ( Rome , Řím )
                                                         59 i 49-44 ( Gajusz Juliusz Cezar wg S.C. )
                                                         59 i 49-44 (?-15.3.) ( wg H.P.S. i K.R.I.C.R. i Z.V.C. )
                                                         przed 49-po 48 ( wg B.M. )
-                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. i K.6. i Z.P.B.W.A. i O.I.W. i K.1274.P.N.E. ) ( Cezar wg Z.N.E. i K.1018 i C.K.F. i G.316.P.N.E. ) ( Cezar (Juliusz, G. Juliusz Cezar) wg G.R.I.L. ) ( Julius Caesar wg S.A.B.H.O.H. i O.M.T.O.A.T.E.O.I.L. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. ) ( Julius Caesar (Caesar) wg U.E. i S.V.D.K.V. i P.U.D. i T.F.O.R. i T.H.R.E.A.T.Y.O.E.H. ) ( Gajusz Juliusz wg P.U.D.D.L.D.R.I.P. ) ( Caesar wg H.O.W.P. i C.A.T.B.D.H.T.B.C.O.T. i C.A.R.T.G.O.S.K. i H.T.S.I.A.N.A.O.M.M. i M.T.R.A.F.O.A.K. ) ( C. Iulius Caesar (Caesar) wg S.N.A.S.E. )
+                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. i K.6. i Z.P.B.W.A. i O.I.W. i K.1274.P.N.E. ) ( Cezar wg Z.N.E. i K.1018 i C.K.F. i G.316.P.N.E. i W.4.3.P.N.E. ) ( Cezar (Juliusz, G. Juliusz Cezar) wg G.R.I.L. ) ( Julius Caesar wg S.A.B.H.O.H. i O.M.T.O.A.T.E.O.I.L. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. ) ( Julius Caesar (Caesar) wg U.E. i S.V.D.K.V. i P.U.D. i T.F.O.R. i T.H.R.E.A.T.Y.O.E.H. ) ( Gajusz Juliusz wg P.U.D.D.L.D.R.I.P. ) ( Caesar wg H.O.W.P. i C.A.T.B.D.H.T.B.C.O.T. i C.A.R.T.G.O.S.K. i H.T.S.I.A.N.A.O.M.M. i M.T.R.A.F.O.A.K. ) ( C. Iulius Caesar (Caesar) wg S.N.A.S.E. )
                                                         ?-ok.44 ( wg T. )
                                                         59 i przed 48-44 ( ?-15.3. ) ( Caesar wg S.K. )
                                                         przed 47-po 44 ( wg S.H. )
@@ -33344,7 +33491,7 @@ Rzym ( Rome , Řím )
     						          		                          27 p.n.e.-14 n.e. (?-14.9.) ( Gajusz Juliusz Cezar Oktawian wg D.R. )
                                                         30 p.n.e.-14 n.e. ( wg V.N.M.S.D. i Tapsella ) ( Octavius (Augustus) wg H.O.W.P. ) ( Oktawian (Augustus, August) wg H.S.P.D.N.H.W.K.S.S.O. )
     						          		                          31 p.n.e.-14 n.e. ( wg D.P.I.R.G. )
-    							       	                              ? ( wg A.O.M.S.K.R. i D.B. i Z.Ř. ) ( Oktavián wg T. ) ( Oktawian August wg Z.N.E. i O.I.W. i G.B.5.5.P.N.E. ) ( Augustus wg S.A.B.H.O.H. i T.D.W.S.A.A.C.I.T.D. i Ř.M.M.A.Ř. i R.E.P.A.T.M.O.M. i O.L.S.S.Z.C.Z.A.O.V.H. ) ( Oktawian August (August) wg G.R.I.L. i B.5.5.P.N.E. ) ( Oktawian (August) wg Z.M.50.N.O. )
+    							       	                              ? ( wg A.O.M.S.K.R. i D.B. i Z.Ř. ) ( Oktavián wg T. ) ( Oktawian August wg Z.N.E. i O.I.W. i G.B.5.5.P.N.E. ) ( Augustus wg S.A.B.H.O.H. i T.D.W.S.A.A.C.I.T.D. i Ř.M.M.A.Ř. i R.E.P.A.T.M.O.M. i O.L.S.S.Z.C.Z.A.O.V.H. ) ( Oktawian August (August) wg G.R.I.L. i B.5.5.P.N.E. ) ( Oktawian (August) wg Z.M.50.N.O. ) ( August wg W.4.3.P.N.E. )
     						          		                          przed 23 p.n.e.-14 n.e. ( August wg Ř.V.G. )
     						          		                          27 p.n.e.-? ( wg S.H. )
     								                                    przed 14 p.n.e.-? ( wg E.P. )
@@ -33421,7 +33568,7 @@ Rzym ( Rome , Řím )
     								                                    96-98 (?.9.-?.1.) ( wg Z.V.C. )
       Marcus Ulpius Traianus ( Marek Ulpiusz Trajan )	  98-117 (27.1.-8.8.) ( wg P.C.R. i K.R.I.C.R.  )
     								                                    98-117 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i D.R. i S.C. i D.P.I.R.G. i H.P.S. i Ž.V.Ř.S. ) ( Traján wg Ř.V.G. ) ( Trajan (Imperator Caesar Nerva Trajanus Augustus) wg D.O.T.W.A.C.A.G.H. ) ( Traianus wg S.P. ) ( Trajan wg H.S.P.D.N.H.W.K.S.S.O. )
-                                                        ? ( wg A.O.M.S.K.R. i N.1396 ) ( Traján wg K. ) ( Trajan wg S.A.B.H.O.H. i B.S. i G.R.I.L. i N.B.Y.T.S.O.W.W.T.A.W.W.B. i M.1176 i B.W.5.P.N.E. )
+                                                        ? ( wg A.O.M.S.K.R. i N.1396 ) ( Traján wg K. ) ( Trajan wg S.A.B.H.O.H. i B.S. i G.R.I.L. i N.B.Y.T.S.O.W.W.T.A.W.W.B. i M.1176 i B.W.5.P.N.E. i W.4.3.P.N.E. )
     								                                    przed 101-po 104 ( wg T. )
     								                                    98-117 (?-?.8.) ( wg Z.V.C. )
     								                                    przed 102-po 106 ( wg K.H. )
@@ -33432,7 +33579,7 @@ Rzym ( Rome , Řím )
                                                         117-138 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i S.C. i T. i Ř.V.G. i Ž.V.Ř.S. i Z.V.C. i O.A.O.C.E. ) ( Lucjusz Eliusz Hadrian wg H.P.S. ) ( Hadrian wg D.O.T.W.A.C.A.G.H. ) ( Hadrianus wg S.P. )
                      							                      ok.117 ( wg F. )
     								                                    117-138 (?-lipiec) ( wg D.R. )
-    								                                    ? ( wg T.H.S. i S.H. i Ř.S.J.Ď.S. ) ( Hadrian wg S.A.B.H.O.H. i G.R.I.L. i B.5.5.P.N.E. i H.O.W.P. i C.K.F. ) ( Hadrián wg S.V.D.K.V. )
+    								                                    ? ( wg T.H.S. i S.H. i Ř.S.J.Ď.S. ) ( Hadrian wg S.A.B.H.O.H. i G.R.I.L. i B.5.5.P.N.E. i H.O.W.P. i C.K.F. i W.4.3.P.N.E. ) ( Hadrián wg S.V.D.K.V. )
                                                         przed 120-? ( Hadrian wg Z.N.E. )
                                                         przed 129-? ( Hadrian wg Z.M.50.N.O. )
       Titus Aurelius Fulvus Boionius Arrius Antoninus   138-161 (10.7.-7.3.) ( Antoninus Pius wg P.C.R. i K.R.I.C.R. )
@@ -34543,6 +34690,7 @@ Rzym ( Rome , Řím )
       Dějiny Indie
       Bibracte-Wogezy 58 p.n.e.
       Mercia - The Rise and Fall of a Kingdom
+      Weje 405-396 p.n.e.
 
 Saamowie
   Svási                                                 ? ( wg F.L.P.D.Ś.W. )
@@ -34643,9 +34791,12 @@ Państwo sabejskie ( Saba , Sabejczycy )
       Arabowie
 
 Sabinowie
-  Tytus Tacjusz                                         przed 753 p.n.e.-?
+  Tytus Tacjusz                                         przed 753 p.n.e.-? ( wg K.R.I.C.R. ) [King of Rome Tytus Tacjusz]
+                                                        ? ( wg W.4.3.P.N.E. )
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
+      Weje 405-396 p.n.e.
+      
 
 Sabirowie
   Balach            	                                  ?
@@ -35711,6 +35862,7 @@ County of Senlis
 Senonowie ( Senoni )
   Brennus 		                                          przed 387 p.n.e.-? ( wg Z.V.C. i Ř.V.G. )
                                                         przed 390 p.n.e.-? ( wg Ř.S.J.Ď.S. )
+                                                        przed 391-po 390/87/86 (?-16.7./?/?)
   Kawarynus                                             ?-54 ( wg B.5.5.P.N.E. )
                                                         ? ( wg G.B.5.5.P.N.E. )
   Akkon                                                 54-53 ( wg B.5.5.P.N.E. )
@@ -35720,6 +35872,7 @@ Senonowie ( Senoni )
       Říše slova - Jazykové dějiny světa
       Brytania 55-54 p.n.e.
       Galia belgijska 57-51 p.n.e.
+      Weje 405-396 p.n.e.
 
 Państwo Senów ( Sénové )
   Dynastie Sénů ( Dynastie Sénů v Bengálsku )
@@ -37085,6 +37238,10 @@ Suráštra
   Bibliografia :
       Dějiny Indie
 
+Surrentum ( Sorrento )
+  Bibliografia :
+      Weje 405-396 p.n.e.
+
 Surrey
   Frithuwald                                            ok.675 n.e. ( wg M.T.R.A.F.O.A.K. )
   Bibliografia :
@@ -37368,7 +37525,7 @@ Syrakuzy ( Syracuse , Syrákúsy , Syrakus )
       		        	                                    ? ( Gelon wg H.P.S. i H.O.W.P. )
     Hieron I           	                                478-466 ( wg D.Ś. i V.N.M.S.D. ) ( Hiero I wg D.O.T.W.A.C.A.G.H. )
       		        	                                    ?-467 ( Hieron wg D.G. )
-      		       	                                      przed 474-? ( wg D.R. ) ( Hieron wg H.P.S. i K.R.I.C.R. )
+      		       	                                      przed 474-? ( wg D.R. ) ( Hieron wg H.P.S. i K.R.I.C.R. ) ( Hieron (Hieron z Syrakuz) wg W.4.3.P.N.E. )
       			                                            478-466/5 ( Hierón I wg E.P. )
       			                                            478-467/6 ( wg Z.Ř. i K.Ř. )
     Trazybul         	                                  466-465 ( wg D.Ś. i V.N.M.S.D. ) ( Thrasybulus wg D.O.T.W.A.C.A.G.H. )
@@ -37381,6 +37538,7 @@ Syrakuzy ( Syracuse , Syrákúsy , Syrakus )
                                         	              406-368 ( wg V.N.M.S.D. )
       		       	                                      ok.405 ( wg F. )
                                                         przed 398-367 ( Dionýsios I. (Dionýsios, Dionysius, Dionysius I, Dionysius I of Syracuse) wg Ř.M.M.A.Ř. )
+                                                        przed 384-? ( Dionizjusz Starszy wg W.4.3.P.N.E. )
     Dionizjos II	                                      367-357 i 347-344 ( wg D.Ś. ) ( Dionysius II wg D.O.T.W.A.C.A.G.H. )
                                          	              368-345 ( wg V.N.M.S.D. )
       		       	                                      przed 366-? ( wg D.G. )
@@ -37401,6 +37559,7 @@ Syrakuzy ( Syracuse , Syrákúsy , Syrakus )
       			                                            317-307 ( Agathoklés wg E.P. )
       			                                            317-? ( Agathokles wg K.Ř. )
                                                         317-304 ( Agathocles wg D.O.T.W.A.C.A.G.H. )
+                                                        ? ( wg W.4.3.P.N.E. )
   Królestwo Syrakuz ( The Kingdom of Syracuse )
     Agatokles           	                              317-289 ( wg D.Ś. i V.N.M.S.D. )
         		              	                            ok.310 ( wg F. )
@@ -37457,6 +37616,7 @@ Syrakuzy ( Syracuse , Syrákúsy , Syrakus )
       Normanowie i Bizancjum w XI stuleciu
       History of Western Philosophy
       Řecko mezi Makedonií a Římem
+      Weje 405-396 p.n.e.
 
 Syria
   Królestwo Syrii
@@ -39091,9 +39251,10 @@ Shamkhalate of Tarki
   Bibliografia :
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
 
-Tarkwinie
+Tarkwinie ( Tarquinii , Tarskuna )
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
+      Weje 405-396 p.n.e.
 
 Taron
   Bibliografia :
@@ -39123,6 +39284,11 @@ Tatarowie
   Temudżyn Üge                                          ?
   Bibliografia :
       Legnica 1241
+
+Tauromenion
+  Andromachos                                           ? ( wg W.4.3.P.N.E. )
+  Bibliografia :
+      Weje 405-396 p.n.e.
 
 Tazos ( Thasos )
   Bibliografia :
@@ -39319,6 +39485,7 @@ Tiahuanaco ( Tiwanaku )
 Tibur
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
+      Weje 405-396 p.n.e.
 
 Sułtanat Tidore
   Bibliografia :
@@ -40807,6 +40974,10 @@ County of Urgell
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
+Urina ( Uri , Hyria )
+  Bibliografia :
+      Weje 405-396 p.n.e.
+
 Urísa
   Dynastia Manów
   Dynastia Szailodbhawów
@@ -41050,9 +41221,17 @@ Księstwo Veglii
   Bibliografia :
       Historia Wenecji
 
+Velcha
+  Bibliografia :
+      Weje 405-396 p.n.e.
+
 Principality of Veldenz
   Bibliografia :
       The Holy Roman Empire - A Thousand Years of Europe's History
+
+Velsu
+  Bibliografia :
+      Weje 405-396 p.n.e.
 
 County of Venaissin
   Bibliografia :
@@ -41193,9 +41372,14 @@ Vnitřní Rakousko
   Bibliografia :
       Maxmilián I. - Zakladatel habsburské světové říše
 
-Volaterrae
+Volaterrae ( Woltera , Voaterrae )
   Bibliografia :
       Zrození Řecka
+      Weje 405-396 p.n.e.
+
+Volsinie ( Vulsinii , Volsinii )
+  Bibliografia :
+      Weje 405-396 p.n.e.
 
 Vorarlberg
   Bibliografia :
@@ -41213,9 +41397,10 @@ Vraní Indiáni
   Bibliografia :
       Války rudého muže
 
-Vulci
+Vulci ( Volci )
   Bibliografia :
       Zrození Řecka
+      Weje 405-396 p.n.e.
 
 Wabarowie
 
@@ -41424,9 +41609,13 @@ Weimar
       Dynastie Świata
 
 Weje ( Veii )
-  Tolumniusz Lar                                        ok.426 p.n.e.
+  Vetusia                                               ?-ok.640 p.n.e. ( wg W.4.3.P.N.E. )
+  Propertius                                            ? ( wg W.4.3.P.N.E. )
+  Tolumniusz Lar                                        ok.426 ( wg D.R. )
+                                                        przed ok.438-437 ( Lars Tolumnius (Lars Tolomniusz, Tolomniusz) wg W.4.3.P.N.E. )
   Bibliografia :
       Dzieje Rzymu
+      Weje 405-396 p.n.e.
 
 Wendowie ( Wendlandia , Wenedowie )
   Burysław                                              ? ( Bolesław wg F.L.P.D.Ś.W. ) ( Burislav wg S.N.A.S.E. ) ( wg F.S.B.1066 )
@@ -41847,10 +42036,11 @@ Westphalia
       Dynasties of the World - A Chronological and Genealogical Handbook
       The Holy Roman Empire - A Thousand Years of Europe's History
 
-Wetulonia
+Wetulonia ( Vetulonia )
   Bibliografia :
       Zrození Řecka
       Klasické Řecko
+      Weje 405-396 p.n.e.
 
 Wetzlar
   Bibliografia :
@@ -43757,5 +43947,6 @@ Bibliografia :
     [200] How We Learn - The New Science of Education and the Brain , Stanislas Dehaene , 2021
     [201] Bibracte-Wogezy 58 p.n.e. , Tomasz Romanowski , 2023
     [202] Mercia - The Rise and Fall of a Kingdom ; Annie Whitehead ; 2020
+    [203] Weje 405-396 p.n.e. ; Daniel Gazda ; 2023
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/

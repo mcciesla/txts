@@ -316,6 +316,7 @@ POP.SCIENCE :
         Czarne wampuny głoszą wojnę ; Jan Szczepański
         Dějepis pro I. ročník gymnázií ; Tomáš Jílek a kol.
         Dějiny Byzance ; Bohumila Zástěrová a kol.
+        Dějiny Indie ; Jaroslav Strnad , Jan Filipský , Jaroslav Holman , Stanislava Vavroušková
         Dějiny Japonska ; Zdeňka Vasiljevová
         Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr. ; Marc van de Mieroop
         Dobytí říše Inků ; John Hemming
@@ -436,6 +437,7 @@ POP.SCIENCE :
         Vítězství v Barmě ; David Rooney
         W czasach Majów , Azteków i Inków , Ameryka od pierwszych ludzi do Krzysztofa Kolumba ; Louis-René Nougier
         Walki po Niesky 1945 ; Kazimierz Kaczmarek
+        Weje 405-396 p.n.e. ; Daniel Gazda
         Wielcy Indianie Ameryki Północnej ; Zbigniew Teplicki
         Wielcy polscy podróżnicy, którzy odkrywali świat ; Maria Pilich , Przemysław Pilich
         Wielka wyprawa Księcia Racibora - Zdobycie grodu Konunhagela przez Słowian w 1136 roku ; Artur Szrejter
