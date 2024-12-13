@@ -66,6 +66,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Proof and the Art of Mathematics - Joel David Hamkins
       - Felony and the Guilty Mind in Medieval England - Elizabeth Papp Kamali
       - Dynastie Świata - Przewodnik chronologiczny i genealogiczny - John E.Morby
+      - Burza nad Pacyfikiem. Tom 1 - Zbigniew Flisowski
       - Prusy. Powstanie i upadek 1600-1947 - Christopher Clark
       - Askulum 90–89 p.n.e - Małgorzata Członkowska-Naumiuk
       - Smoleńsk 1609-1611 - Katarzyna Słodowy
@@ -112,7 +113,9 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Batoh 1652 - Wojciech Jacek Długołęcki
       - Ateny-Sparta 431-404 p.n.e - Ryszard Kulesza
       - Połonka-Basia 1660 - Marcin Gawęda
+      - Imperium mongolskie - Stanisław Kałużyński
       - Life's Engines: How Microbes Made Earth Habitable - Paul G. Falkowski
+      - Poczet wielkich mistrzów krzyżackich - Paweł Pizuński
       - The Science of Human Intelligence - Richard J. Haier, Roberto Colom, Earl Hunt
       - Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought - George C. Williams
       - The Nurture Assumption - Judith Rich Harris
@@ -139,6 +142,14 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - In Praise of Forgetting : Historical Memory and Its Ironies - David Rieff
       - Information Theory and Coding - Norman Abramson
       - Topology : A Categorical Approach - Tai-Danae Bradley, Tyler Bryson, John Terilla
+      - The Khmers - Ian Mabbett, David Geoffrey Chandler
+      - Arménie, tři tisíce let dějin a kultury - Burchard Brentjes
+      - Antické Černomoří - Radislav Hošek, Jan Bouzek
+      - Thrákové - Jan Bouzek
+      - Poczet cesarzy rzymskich - Aleksander Krawczuk
+      - Dzieje dawnych Turków - Lew Gumilow
+      - Serce Azji - Bogdan Składanek, Maria Składanek
+      - Římané v Germánii - Reinhard Wolters
       - Wywrócony świat i inne utwory - Arkadij Strugacki, Borys Strugacki
       - Linear and Nonlinear Programming - David G. Luenberger
       - Problems in Philosophy: The Limits of Inquiry - Colin McGinn
@@ -155,6 +166,15 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Game Engine Black Book: DOOM - Fabien Sanglard
       - Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery - Gottfried Vossen, Gerhard Weikum
       - The Art of SQL - Stephane Faroult, Peter Robson
+      - The Huns - Edward Arthur Thompson
+      - Siedem Kleopatr - Anna Świderkówna
+      - Hellenika. Wizerunek epoki od Aleksandra do Augusta - Anna Świderkówna
+      - A History of Rome Down to the Reign of Constantine - Max Cary, Howard Hayes Scullard
+      - A History of Greece to 322 B.C. - Nicholas Geoffrey Lemprière Hammond
+      - The conquest of the Incas - John Hemming
+      - Říše Inků - Victor W. von Hagen
+      - The Crusades - Antony Bridge
+      - Maurové a Evropa - Hans Kaufmann
       - Programming in D - Ali Cehreli
       - Learning D - Michael Parker
       - Programming Pearls - Jon Bentley
@@ -170,6 +190,10 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Free Speech: A History from Socrates to Social Media - Jacob Mchangama
       - Slavery and Social Death: A Comparative Study - Orlando Patterson
       - D Web Development - Kai Nacke
+      - Historia Chin - Witold Rodziński
+      - Starożytny Bliski Wschód - Daniel Arnoud
+      - Foiničané - Sabatino Moscati
+      - Tiberius: Pohnutý život císaře - Roger Caratini
       - The Village Effect - Susan Pinker
       - Lying - Sam Harris
       - Proofs without Words: Exercises in Visual Thinking - Roger B. Nelsen
@@ -181,6 +205,10 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - From Logic Programming to Prolog - Krzysztof Apt
       - The Internationalists: How a Radical Plan to Outlaw War Remade the World - Oona A. Hathaway, Scott J. Shapiro
       - At Home in the Universe: The Search for the Laws of Self-Organization and Complexity - Stuart Kauffman
+      - A Cultural History of Tibet - Hugh Richardson, David Snellgrove
+      - Svět helénismu - Pavel Oliva
+      - Rýžoviště zlata a doly drahokamů - Abú al-Hasan Alí ibn al-Husajn ibn Alí al-Mas'údí
+      - Dějiny Japonska - Zdeňka Vasiljevová
       - Effective Modern C++ - Scott Meyers
       - Exceptional C++ - Herb Sutter
       - More Exceptional C++ - Herb Sutter
@@ -225,7 +253,6 @@ movies - The Act of Killing - Joshua Oppenheimer
        - The Vietnam War - Ken Burns and Lynn Novick
        - The Atomic Cafe
        - The Climb - Donald Shebib - 1986
-       - The Alpinist
 mountains
   - mobile power bank with solar panels
   - swiss knife (small)

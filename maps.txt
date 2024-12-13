@@ -194,7 +194,9 @@
     - Kysucké Beskydy - Veľká Rača ; VKÚ Harmanec ; 101 ; 1:50000
     - Malé Karpaty - Bradlo ; VKÚ Harmanec ; 129 ; 1:50000
     - Moravskosleyské Beskydy ; VKÚ Harmanec ; Edice KČT ; 96 ; 1:50000
+    - Okolí Brna - Slavkovské bojiště a Ždánický les ; KČT ; Edice KČT ; 87 ; 1:50000
     - Slezské Beskydy a Jablunkovsko ; VKÚ Harmanec ; Edice KČT ; 97 ; 1:50000
+    - Slovácko - Bílé Karpaty ; KČT ; Edice KČT ; 92 ; 1:50000
   - Ceska vrchovina
     - Ašsko a Chebsko ; VKÚ Harmanec ; Edice KČT ; 1 ; 1:50000
     - Benešovsko a Dolní Posázaví ; KČT ; Edice KČT ; 40 ; 1:50000
@@ -257,6 +259,7 @@
     - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
     - Šumava - Železnorudsko ; KČT ; Edice KČT ; 64 ; 1:50000
     - Táborsko jih a Střední Lužnice ; VKÚ Harmanec ; Edice KČT ; 76 ; 1:50000
+    - Třebíčsko ; KČT ; Edice KČT ; 80 ; 1:50000
     - Vltava pod Vyšším Brodem a Blanský les ; VKÚ Harmanec ; Edice KČT ; 73 ; 1:50000
     - Zábřežsko - Moravská Třebová, Mohelnice, Uničov, Litovel ; KČT ; Edice KČT ; 52 ; 1:50000
     - Ziemia Kłodzka ; ExpressMap ; Comfort! map ; 1:60000
@@ -271,12 +274,14 @@
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Haná - Olomoucko ; KČT ; Edice KČT ; 57 ; 1:50000
   - Itálie, Italien, Italian ; Marco Polo ; 1:800000
+  - Okolí Brna - Moravský kras ; KČT ; Edice KČT ; 86 ; 1:50000
   - Opavsko ; KČT ; Edice KČT ; 59 ; 1:50000
   - Orlová - Plán města ; Prokart nákladatelství ; M - serie č. 24 ; 1:10000
   - Ostravsko - Hlučín, Bohumín, Ostrava, Karviná, Český Těšín, Frýdek-Místek, Havířov ; KČT ; Edice KČT ; 61-62 ; 1:50000
   - Ostravsko ; kartografie Praha ; Český svaz turistů ; Soubor turistických map ; 21 ; 1:100000
   - Österreich - Austria - Rakousko ; Marco Polo ; 1:300000
   - Pavlovské vrchy a Dolní Podyjí ; KČT ; Edice KČT ; 88 ; 1:50000
+  - Podyjí a Vranovská přehrada ; KČT ; Edice KČT ; 81 ; 1:50000
   - Polska - mapa przeglądowa Europy ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa-Wrocław ; 1:1000000
   - Praha ; Kartografie Praha
   - Praha do kapsy - Plán města ; Kartografie Praha ; 1:20000
