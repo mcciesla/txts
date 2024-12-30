@@ -7090,13 +7090,13 @@ Chiny ( Čína , China )
                                                         ? ( Chuang-ti wg K.F. )
   Czuan-Siu	                                            ? ( wg H.C. )
   K´u		                                                ? ( wg H.C. )
-  Jao		                                                ? ( wg H.C. i S.S.F.Z.H. )
+  Jao		                                                ? ( wg H.C. i S.S.F.Z.H. ) ( Yao wg W.C.Z.H.2.2.P.N.E. )
   Szun             	                                    ?-2205/1989 ( wg H.C. )
-      			                                            ? ( wg S.S.F.Z.H. ) ( Shun wg G.C.3000.L.N.O.I.W. )
+      			                                            ? ( wg S.S.F.Z.H. i W.C.Z.H.2.2.P.N.E. ) ( Shun wg G.C.3000.L.N.O.I.W. )
   Dynastia Sia ( Hia-Kie, Xia , Dynastie Sia , Epoka Xia , Dynastia Xia )
     Jü               	                                  2205/1989-? ( wg H.C. )
       			                                            2205-2198 ( Ta Jü wg E.P. )
-      			                                            ? ( wg S.S.F.Z.H. ) ( Ta Jü (Velký Jü) wg A.Č.D. )
+      			                                            ? ( wg S.S.F.Z.H. ) ( Ta Jü (Velký Jü) wg A.Č.D. ) ( Wielki Yu wg W.C.Z.H.2.2.P.N.E. )
     Czie           	                                    ?-1766/1557 ( wg H.C. )
   Dynastia Szang ( Szang-In , Dynastie Šang , Państwo Szang , Dynastie Šang-Jin , Dynastia Shang , Dynastia Szang-Jin )
     T´ang          	                                    ok.1700 ( wg H.C. )
@@ -7106,6 +7106,7 @@ Chiny ( Čína , China )
     Czou Sin         	                                  ok.1122/1111/1066/1028 ( wg H.C. )
     Wu Keng        	                                    ok.1122/1111/1066/1028 ( wg H.C. )
     Czou     	                                          1154-1122 ( wg S.S.F.Z.H. )
+    Di Xin                                              ? ( wg W.C.Z.H.2.2.P.N.E. )
   Dynastia Czou ( Zhou , Dynastie Čou , Stát Čou , Dynastia Zhou )
     Czou                    	                          ok.1200-ok.1170 ( wg V.N.M.S.D. )
       			        	                                  ? ( wg H.C. )
@@ -7157,17 +7158,23 @@ Chiny ( Čína , China )
     Nan Wang                	                          330-282 ( wg V.N.M.S.D. )
     Czou Kum                	                          282-263 ( wg V.N.M.S.D. )
   Zachodnia Dynastia Zhou
-  Państwo Czin ( Tsin )
+  Państwo Czin ( Tsin , Kraj Jin )
+    Xian                                                ?-651 ( wg W.C.Z.H.2.2.P.N.E. )
     Czung Er            	                              636-628 ( wg H.C. )
-  Państwo Cz´i ( Ts´i )
+  Państwo Cz´i ( Ts´i , Królestwo Qi , Qi )
     Huan                	                              685-643 ( wg H.C. )
       				                                          przed 667-? (wg S.S.F.Z.H. )
+                                                        ? ( Huan wg W.C.Z.H.2.2.P.N.E. )
     Tao-huei		                                        ? ( wg S.S.F.Z.H. )
     Min			                                            ? ( wg S.S.F.Z.H. )
+    Jian                                                ? ( wg W.C.Z.H.2.2.P.N.E. )
     T´ien Kien		                                      ?-221 ( wg S.S.F.Z.H. )
     T´ien Tan		                                        209-208 ( wg S.S.F.Z.H. )
-    T´ien Kia		                                        208 ( wg S.S.F.Z.H. )
-    T´ien Szy		                                        208-207 ( wg S.S.F.Z.H. )
+                                                        209-208 (?-po ?.6.) ( Tian Dan wg W.C.Z.H.2.2.P.N.E. )
+    T´ien Kia		                                        208 ( wg S.S.F.Z.H. ) ( Tian Jia wg W.C.Z.H.2.2.P.N.E. )
+    Tian Rong                                           208-po 208 i 206-205 (przed ?.11.-?.12. i przed ?.7.-?.1.) ( wg W.C.Z.H.2.2.P.N.E. )
+    T´ien Szy		                                        208-207 ( wg S.S.F.Z.H. ) [King of Jiaodong]
+                                                        208-206 (?-po ?.6.) ( Tian Szi wg W.C.Z.H.2.2.P.N.E. )
     T´ien Tu		                                        207/6-206 ( wg S.S.F.Z.H. )
     T´ien Jung		                                      206-205 ( wg S.S.F.Z.H. )
     T´ien Kuang		                                      205-po 204 ( wg S.S.F.Z.H. )
@@ -7175,11 +7182,16 @@ Chiny ( Čína , China )
     T´ien Heng		                                      ? ( wg S.S.F.Z.H. )
     Liu Fei		                                          201-po 197 ( wg S.S.F.Z.H. )
   Stát Čchi ( Stát Tchien )
-  Państwo Lu ( Stát Lu )
+  Państwo Lu ( Stát Lu , Księstwo Lu )
+  Wey
+    Jiao                                                ? ( wg W.C.Z.H.2.2.P.N.E. )
   Państwo Wej ( Stát Wej )
-  Państwo Jen ( Stát Jen )
+  Państwo Jen ( Stát Jen , Królestwo Yan , Yan )
+    Zhao                                                przed 598-? ( wg G.C.3000.L.N.O.I.W. )
+    Zhao                                                przed 308-? ( wg G.C.3000.L.N.O.I.W. )
     Hi				                                          ?-222 ( wg S.S.F.Z.H. )
     Han Kuang			                                      209-207/6 ( wg S.S.F.Z.H. )
+                                                        209-206 (?-po ?.5.) ( Han Guang wg W.C.Z.H.2.2.P.N.E. )
     Tsang T´u			                                      207-202 ( wg S.S.F.Z.H. )
     Liu Kuan			                                      202-195 ( wg S.S.F.Z.H. )
     Liu Kien			                                      195-? ( wg S.S.F.Z.H. )
@@ -7190,30 +7202,34 @@ Chiny ( Čína , China )
   Stát Čchaj
   Państwo Zheng
   Państwo Czeng ( Stát Čeng )
-  Państwo Wu ( Stát Wu )
+  Państwo Wu ( Stát Wu , Królestwo Wu )
     Fu-czai			                                        495-477 ( wg S.S.F.Z.H. )
     Liu Pi				                                      195-? ( wg S.S.F.Z.H. )
   Państwo Jüe ( Yue , Stát Jüe )
     Kou-tsien			                                      496-? ( wg S.S.F.Z.H. )
   Państwo Pa
   Państwo Szu
-  Państwo Czao ( Zhao , Stát Čao )
+  Państwo Czao ( Zhao , Stát Čao , Królestwo Zhao )
     Tao Siang			                                      ? ( wg S.S.F.Z.H. )
-    Wu Cz´en			                                      209-? ( wg S.S.F.Z.H. )
-    Hie				                                          208-207 i 206-204 ( wg S.S.F.Z.H. )
+    Wu Cz´en			                                      209-? ( wg S.S.F.Z.H. ) ( Wu Czen wg W.C.Z.H.2.2.P.N.E. )
+    Li Liang                                            ? ( wg W.C.Z.H.2.2.P.N.E. )
+    Hie				                                          208-207 i 206-204 ( wg S.S.F.Z.H. ) [King of Dai Xie]
+                                                        przed 208-206 i przed 205-204 (?.11.-? i ?.1.-po ?.5.) ( Xie (Xie z Zhao) wg W.C.Z.H.2.2.P.N.E. )
     Czang Er			                                      203-202 ( wg S.S.F.Z.H. )
     Czang Ao			                                      202-198 ( wg S.S.F.Z.H. )
     In ( Liu Żu-i )			                                ? ( wg S.S.F.Z.H. )
     Kung ( Liu K´uei )		                              ? ( wg S.S.F.Z.H. )
     Jou ( Liu Jou )			                                ? ( wg S.S.F.Z.H. )
-  Państwo Wei
+  Państwo Wei ( Królestwo Wei , Wei )
     Küe				                                          ?-241 ( wg S.S.F.Z.H. )
     An-hi				                                        ? ( wg S.S.F.Z.H. )
     Wei Kiu			                                        209-208 ( wg S.S.F.Z.H. )
-    Pao				                                          205-204 ( wg S.S.F.Z.H. )
+                                                        209-208 (?-po ?.6.) ( Jiu (Jiu z Wei) wg W.C.Z.H.2.2.P.N.E. )
+    Pao				                                          205-204 ( wg S.S.F.Z.H. ) [King of Zachodnie Wei]
+                                                        przed 207-206 (?.6.-?) ( Bao wg W.C.Z.H.2.2.P.N.E. )
   Państwo Han
     Liu Pang			                                      207-202 ( wg S.S.F.Z.H. )
-  Państwo Han ( Stát Chan )
+  Państwo Han ( Stát Chan , Królestwo Han , Han )
     Süan-huei			                                      332-312 ( wg S.S.F.Z.H. )
     Siang-ai			                                      311-296 ( wg S.S.F.Z.H. )
     Li				                                          295-273 ( wg S.S.F.Z.H. )
@@ -7225,7 +7241,7 @@ Chiny ( Čína , China )
     Sin				                                          202-? ( wg S.S.F.Z.H. )
   Państwo T´ien
   Państwo Tsou
-  Państwo Cz´in ( Ts´in, Qin , Stát Ťin , Ch'in )
+  Państwo Cz´in ( Ts´in, Qin , Stát Ťin , Ch'in , Kraj Qin )
     Siang				                                        776-? ( wg S.S.F.Z.H. )
     Siao                                        	      361-337 ( wg H.C. )
       					                                        przed 361-? ( Szao wg S.S.F.Z.H. )
@@ -7236,19 +7252,23 @@ Chiny ( Čína , China )
     Szy Huang Ti ( Czao Czeng )	                        247-221 ( wg D.Ś. ) ( Shih Huang Ti (Chao Chêng) wg D.O.T.W.A.C.A.G.H. ) [Emperor Szy Huang Ti]
                                                         246-221 ( wg H.C. ) ( Czeng wg S.S.F.Z.H. ) ( Čching Š´-chuang-ti wg E.P. )
                                                         przed 223-221 ( Jing Čcheng wg A.Č.D. )
+                                                        238-221 ( Zheng wg W.C.Z.H.2.2.P.N.E. )
     Tsy-ing			                                        207 ( wg S.S.F.Z.H. )
-  Królestwo Yan
-    Zhao                                                przed 598-? ( wg G.C.3000.L.N.O.I.W. )
-    Zhao                                                przed 308-? ( wg G.C.3000.L.N.O.I.W. )
-  Państwo Cz´u ( Chu , Stát Čchu , Królestwo Chu )
+  Państwo Cz´u ( Chu , Stát Čchu , Królestwo Chu , Królestwo Czu , Czu )
     Ling Wang                                           539-527 ( wg G.C.3000.L.N.O.I.W. )
     In				                                          ? ( wg S.S.F.Z.H. )
+    Huai                                                przed 299-? ( Huai z Czu wg W.C.Z.H.2.2.P.N.E. )
     Cz´angp´ingu			                                  224-223 ( wg S.S.F.Z.H. )
     Siang K´iang			                                  209 ( wg S.S.F.Z.H. )
+    Czen Sze                                            209-208 (?.10.-?.4.) ( Czen (Smutny Król) wg W.C.Z.H.2.2.P.N.E. ) [King of Wielkie Królestwo Cz´u Cz´en Sze]
+    Kuaiji
+      Xiang Liang                                       209-? ( wg W.C.Z.H.2.2.P.N.E. )
     King Kü			                                        208-? ( wg S.S.F.Z.H. )
+    Jing Ju                                             ?-208 (?-?.5/6.) ( wg W.C.Z.H.2.2.P.N.E. )
     Sin				                                          208-po 207 ( Huai wg S.S.F.Z.H. )
+                                                        208-206 (przed ?.7.-po ?.5.) ( Xin (Huai, Cesarz Prawy) wg W.C.Z.H.2.2.P.N.E. )
     Huai				                                        ? ( wg S.S.F.Z.H. )
-    Siang Jü                     		                    206-202 ( wg H.C. )
+    Siang Jü                     		                    206-202 ( wg H.C. ) [King of Zachodnie Czu Xiang Yu]
                                                         207-202 ( Hiang Jü wg S.S.F.Z.H. )
     Han Sin			                                        202-201 ( wg S.S.F.Z.H. )
     Liu Kia			                                        201-po 197 ( wg S.S.F.Z.H. )
@@ -7260,15 +7280,24 @@ Chiny ( Čína , China )
     Cz´en Hi			                                      197-? ( wg S.S.F.Z.H. )
     Liu Heng			                                      197/6-? ( wg S.S.F.Z.H. )
   Wielkie Królestwo Cz´u
-    Cz´en Sze			                                      209-208 ( ?-początek ) ( wg S.S.F.Z.H. )
+    Cz´en Sze			                                      209-208 (?-początek) ( wg S.S.F.Z.H. ) [King of Czu Czen Sze]
+  Księstwo Pei
+    Liu Bang                                            przed 208-? (?.1.-?) ( wg W.C.Z.H.2.2.P.N.E. ) [King of Han Liu Pang]
+  Donghai
+    Qin Jia                                             209-208 (?-?.5/6.) ( Qin Jia z Ling (Qin Jiang) wg W.C.Z.H.2.2.P.N.E. )
+  Zachodnie Czu
+    Xiang Yu                                            206 (przed ?.4.-po ?.5.) ( wg W.C.Z.H.2.2.P.N.E. ) [King of Czu Siang Jü]
+  Dai ( Kraj Dai )
+    Xie                                                 206-po 206 (przed ?.6.-?.9.) ( Xie z Zhao wg W.C.Z.H.2.2.P.N.E. ) [King of Zhao Hie]
   Państwo Jung
     Czang Han			                                      207/6-205 ( wg S.S.F.Z.H. )
   Państwo Sai
     Sy-ma Hin			                                      207/6-205 ( wg S.S.F.Z.H. )
   Państwo Ti
     Ting I				                                      207/6-205 ( wg S.S.F.Z.H. )
-  Państwo Zachodnie Wei
-    Pao				                                          207-po 205 ( wg S.S.F.Z.H. )
+  Państwo Zachodnie Wei ( Zachodnie Wei )
+    Pao				                                          207-po 205 ( wg S.S.F.Z.H. ) [King of Wei]
+                                                        206-204 (przed ?.6.-po ?.1.) ( Bao (Bao z Wei) wg W.C.Z.H.2.2.P.N.E. )
   Państwo Honan
     Szen Jang			                                      207/6-205 ( wg S.S.F.Z.H. )
   Państwo In
@@ -7278,21 +7307,24 @@ Chiny ( Čína , China )
   Państwo Kiukiang
     K´ing Pu			                                      207/6-po 203 ( wg S.S.F.Z.H. )
   Państwo Hangszan ( Hengszan )
-    Wu Żuei			                                        207/6-po 206 ( wg S.S.F.Z.H. )
+    Wu Żuei			                                        207/6-po 206 ( wg S.S.F.Z.H. ) [King of Czangsza]
+                                                        206-202 (przed ?.6.-po ?.2.) ( Wu Rui wg W.C.Z.H.2.2.P.N.E. )
   Państwo Linkiang ( Liukiang )
     Kung Ao			                                        207/6-? ( wg S.S.F.Z.H. )
     Kung Huan			                                      ?-202/1 ( wg S.S.F.Z.H. )
   Państwo Liaotung
     Han Kuang			                                      207-206 ( wg S.S.F.Z.H. )
-  Państwo Kiaotung
-    T´ien Szy			                                      207-206 ( wg S.S.F.Z.H. )
+  Państwo Kiaotung ( Królestwo Jiaodong , Jiaodong )
+    T´ien Szy			                                      207-206 ( wg S.S.F.Z.H. ) [King of Qi]
+                                                        206 ( Tian Szi wg W.C.Z.H.2.2.P.N.E. )
   Państwo Tsipei
     T´ien An			                                      207-206 ( wg S.S.F.Z.H. )
   Państwo Liang
     P´eng Jüe			                                      202-196 ( wg S.S.F.Z.H. )
     Liu K´uei			                                      196-? ( wg S.S.F.Z.H. )
-  Państwo Cz´angsza
-    Wu Żuei			                                        202-po 197 ( wg S.S.F.Z.H. )
+  Państwo Cz´angsza ( Czangsza )
+    Wu Żuei			                                        202-po 197 ( wg S.S.F.Z.H. ) [King of Hengszan]
+                                                        202-? (przed ?.3.-?) ( Wu Rui wg W.C.Z.H.2.2.P.N.E. )
   Państwo Huai-nan
     K´ing Pu			                                      203-195 ( wg S.S.F.Z.H. )
   Państwo Kingu
@@ -7305,8 +7337,8 @@ Chiny ( Čína , China )
   Państwo Huai-in
     Liu Cz´ang			                                    196-? ( wg S.S.F.Z.H. )
   Cesarstwo Chin
-    Dynastia Cz´in ( Ts´in, Qin Dynasty , Dynastie Čchin , Ch'in Dynasty , Dynastia Tsin , Dynastia Qin , Čchinská dynastie )
-      Szy Huang Ti ( Czao Czeng , Ying Zheng )          221-210 ( wg D.Ś. i H.C. ) ( Pierwszy Cesarz wg S.S.F.Z.H. ) ( Čchin Š´-chuang-ti wg E.P. ) ( Shihuang Di wg Ř.S.J.Ď.S. ) ( Shi Huang Di (秦始皇帝, 嬴政) wg T.O.M.O.C.S.D. ) ( Shih Huang Ti (Chao Chêng) wg D.O.T.W.A.C.A.G.H. )
+    Dynastia Cz´in ( Ts´in, Qin Dynasty , Dynastie Čchin , Ch'in Dynasty , Dynastia Tsin , Dynastia Qin , Čchinská dynastie , Qin )
+      Szy Huang Ti ( Czao Czeng , Ying Zheng )          221-210 ( wg D.Ś. i H.C. ) ( Pierwszy Cesarz wg S.S.F.Z.H. ) ( Čchin Š´-chuang-ti wg E.P. ) ( Shihuang Di wg Ř.S.J.Ď.S. ) ( Shi Huang Di (秦始皇帝, 嬴政) wg T.O.M.O.C.S.D. ) ( Shih Huang Ti (Chao Chêng) wg D.O.T.W.A.C.A.G.H. ) ( Qin Szihuangdi (Quin Szihuangdi, Pierwszy Cesarz, Pierwszy Cesarz Chin, Pan Sadzawki w Hao, Dostojny Władca) wg W.C.Z.H.2.2.P.N.E. )
                                                         263-236 ( wg V.N.M.S.D. )
              				             	                      221-? ( wg S.B.W. )
       					   	                                    ? ( wg H.P.S. ) ( Qín Shǐ Huángdì wg S.A.B.H.O.H. )
@@ -7316,6 +7348,7 @@ Chiny ( Čína , China )
       Êr Szy Huang Ti ( Ying Huhai )           	        210-207 ( wg D.Ś. i H.C. ) ( Hu-hai wg S.S.F.Z.H. ) ( Er Shi Huang Di wg T.O.M.O.C.S.D. ) ( Êr Shih Huang Ti wg D.O.T.W.A.C.A.G.H. )
                                                         236-228 ( wg V.N.M.S.D. )
                                                         przed 209-? ( Er Shi wg G.C.3000.L.N.O.I.W. )
+                                                        210-207 (koniec(zima)-?.7.) ( Qin Erszihuangdi (Drugi Cesarz, Huhai, Er Szihuangdi, Drugi Dostojny Cesarz) wg W.C.Z.H.2.2.P.N.E. )
       Cz´in Wang                                 	      207 ( wg D.Ś. ) ( Tzu Jing wg H.C. ) ( Ch'in Wang wg D.O.T.W.A.C.A.G.H. )
     Dynastia Han
       Dynastia zachodnia Han ( Western Han Dynasty , Dynastie Chan , Han Empire , Dynastia Han , Zachodnia Dynastia Han , Chan )
@@ -8008,7 +8041,7 @@ Chiny ( Čína , China )
     Mao Ce-Tung	                                        1949-1976 (20.10.-9.9.) ( wg 100.N.V.S. )
       			         	                                  przed 1954-po 1972 ( wg M.Ś. )
       			         	                                  przed 1956-? ( Mao Tse-tung wg T.Z.H.K. )
-      				                                          ? ( Mao Tse-tung wg S.S.F.Z.H. ) ( Mao Zedong wg T.D.W.S.A.A.C.I.T.D. i R.W.I.I.W.I.S.S.W.I.M. ) ( Mao wg N.B.Y.T.S.O.W.W.T.A.W.W.B. i H.S.P.Z.S.O. i B.H.D.M.U.W.W.A. )
+      				                                          ? ( Mao Tse-tung wg S.S.F.Z.H. ) ( Mao Zedong wg T.D.W.S.A.A.C.I.T.D. i R.W.I.I.W.I.S.S.W.I.M. ) ( Mao wg N.B.Y.T.S.O.W.W.T.A.W.W.B. i H.S.P.Z.S.O. i B.H.D.M.U.W.W.A. i W.C.Z.H.2.2.P.N.E. )
                                                         przed 1960-? ( Mao Tse-tung wg F.C.A.R.F. )
                                                         przed 1959-? ( Mao wg K.W.N.I.W.D. )
                                                         1931-? i 1949-po 1964 (7.11.-? i ?-?.7.) ( Mao Ce-tung wg A.Č.D. )
@@ -8061,6 +8094,7 @@ Chiny ( Čína , China )
       Wielcy polscy podróżnicy, którzy odkrywali świat
       Geniusz Chin: 3000 lat nauki, odkryć i wynalazków
       Dějiny Indie
+      Wojna Czu z Han 209-202 p.n.e.
 
 Chios ( Cius )
   Hippoklos		                                          ?
@@ -43766,7 +43800,7 @@ Bibliografia :
    	[19] 100 nejvlivnějších vojevůdců světa , Michael Lee Lanning , 1999
    	[20] Dějiny Japonska , Zdeňka Vasiljevová , 1986
    	[21] Dzieje Grecji , N.G.L.Hammond , 1973
-   	[22] Dzieje Rzymu , Max Cary i Howard Hayes Scullard , 1992
+   	[22] Dzieje Rzymu , Max Cary , Howard Hayes Scullard , 1992
    	[23] Starożytne Cywilizacje , John Haywood , 1998
    	[24] Poczet Wielkich Mistrzów Krzyżackich , Paweł Pizuński
    	[25] Dějepis pro I. ročník gymnázií , Tomáš Jílek , 1984
@@ -43948,5 +43982,6 @@ Bibliografia :
     [201] Bibracte-Wogezy 58 p.n.e. , Tomasz Romanowski , 2023
     [202] Mercia - The Rise and Fall of a Kingdom ; Annie Whitehead ; 2020
     [203] Weje 405-396 p.n.e. ; Daniel Gazda ; 2023
+    [204] Wojna Czu z Han 209-202 p.n.e. ; Maciej Kuczyński ; 2024
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/

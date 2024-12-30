@@ -418,6 +418,7 @@
   - Oλυμπος - Mt Olympus ; Anavasi ; Anavasi Maps & Guides ; Topo 25 ; Macedonia 6.11 ; 1:25000 
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Psiloritis (Mt Ida) - Ψηλορείτης (Ίδη) ; Anavasi ; Anavasi maps & guides ; 1:30000
+  - Σάμoς - Samos ; Road Editions ; 210 ; 1:50000
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
 - Guatemala
   - Mexico ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:2000000
@@ -427,9 +428,11 @@
   - Karpaty
     - Burda - Ipeľská pahorkatina ; VKÚ Harmanec ; 142 ; 1:50000
     - Bükk ; Cartographia A Térképszakértö ; 29 ; 1:40000
+    - Krupinská planina - Veľký Krtíš ; VKÚ Harmanec ; 146 ; 1:50000
     - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
     - Mátra ; Cartographia A Térképszakértö - Cartographia Földgömb- és Térképbolt ; 14 ; 1:40000
     - Mátra - Mátraalja, Mátralába ; Szarvas Térképek - map.hu ; 1:30000
+    - Slanské vrchy - Dargov ; VKÚ Harmanec ; 117 ; 1:50000
     - Slovenský kras ; TatraPlan ; 5037 ; 1:50000
   - Československá socialistická republika ; Kartografické nakladatelství ; Kartografie, n.p. Praha
   - Československá socialistická republika ; Slovenská kartografia ; 1:1500000
@@ -845,6 +848,7 @@
     - Javorníky - Čadca ; VKÚ Harmanec ; 109 ; 1:50000
     - Javorníky - Púchov ; VKÚ Harmanec ; 108 ; 1:50000
     - Javorníky - západ ; VKÚ Harmanec ; Edice KČT ; 95 ; 1:50000
+    - Krupinská planina - Veľký Krtíš ; VKÚ Harmanec ; 146 ; 1:50000
     - Kysucké Beskydy - Veľká Rača ; VKÚ Harmanec ; 101 ; 1:50000
     - Laborecká vrchovina - Dukla ; VKÚ Harmanec ; 106 ; 1:50000
     - Levočské vrchy ; VKÚ Harmanec ; 114 ; 1:50000
@@ -869,6 +873,7 @@
     - Pieniński Park Narodowy ; Wydawnictwo Gauss ; 1:20000/1:70000
     - Podunajská rovina - Diakovce ; VKÚ Harmanec ; 153 ; 1:50000
     - Poľana ; VKÚ Harmanec ; 133 ; 1:50000
+    - Slanské vrchy - Dargov ; 117 ; 1:50000
     - Slezské Beskydy a Jablunkovsko ; VKÚ Harmanec ; Edice KČT ; 97 ; 1:50000
     - Slovenský kras ; TatraPlan ; 5037 ; 1:50000
     - Slovenský raj ; VKÚ Harmanec ; 124 ; 1:50000
