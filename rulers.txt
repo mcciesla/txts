@@ -1091,7 +1091,8 @@ Państwo Andhrów
   Bibliografia :
       Starověká Indie
 
-Principality of Andorra
+Andora
+  Principality of Andorra
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
@@ -1328,7 +1329,7 @@ Anglia ( England , Anglie , English State )
                                                         przed 1399-? ( Jindřich IV wg Ř.S.J.Ď.S. )
       Henryk V           	                              1413-1422 ( wg D.Ś. i V.N.M.S.D. i Tapsella i N.1396 ) ( Henry V wg D.O.T.W.A.C.A.G.H. ) ( Jindřich V. (Jindřich V. Anglický, Jindřich) wg S.V.D.K.V. )
 			  	                                              przed 1415-? ( wg B.M. i F.L.P.D.Ś.W. i H.3.P.N.E. ) ( Jindřich V wg Ř.S.J.Ď.S. ) ( Henryk V Lancaster wg N.1396 )
-                                                        ? ( Henry V wg T.S.O.I.C.O.T.W. i R.W.I.I.W.I.S.S.W.I.M. )
+                                                        ? ( Henry V wg T.S.O.I.C.O.T.W. i R.W.I.I.W.I.S.S.W.I.M. ) ( wg S.S.M.C. )
       Henryk VI          	                              1422-1461 i 1470-1471 ( wg D.Ś. ) ( Henry VI wg D.O.T.W.A.C.A.G.H. ) ( Jindřich VI. (Jindřich VI. Anglický) wg S.V.D.K.V. )
                             	                          1422-1461 ( wg V.N.M.S.D. )
                             		                        1422-1461 i 1471 ( wg Tapsella )
@@ -1522,7 +1523,7 @@ Anglia ( England , Anglie , English State )
       Ramsay MacDonald                                  1924 i 1929-1935 ( MacDonald (James Ramsay MacDonald) wg D.I. )
       Chamberlain                                       przed 1939-? (?.4.-?) ( wg H.S.J.M. )
                                                         przed 1938-? (?.9.-?) ( wg D.I. )
-      Winston Churchill                                 ? ( wg V.K.T.H.O.H.E. i E.N.T.C.F.R.S.H.A.P. i C.A.R.T.G.O.S.K. i B.W.5.P.N.E. ) ( Churchill wg U.E. i H.O.W.P. i T.E.I.T.B.H.M.I.E.L. ) ( Churchill (Winston) wg H.S.J.M. )
+      Winston Churchill                                 ? ( wg V.K.T.H.O.H.E. i E.N.T.C.F.R.S.H.A.P. i C.A.R.T.G.O.S.K. i B.W.5.P.N.E. ) ( Churchill wg U.E. i H.O.W.P. i T.E.I.T.B.H.M.I.E.L. ) ( Churchill (Winston) wg H.S.J.M. ) ( Churchill (sir Winston) wg S.S.M.C. )
                                                         1940-1945 i 1951-1955 ( Churchill (Winston Leonard Spencer Churchill) wg D.I. )
                                                         przed 1954-? (9.11.-?) ( Winston S. Churchill (Churchill) wg A.T.L.B.T.C.S.O.H.D. )
                                                         przed 1940-? (19.6.-?) ( wg P.W.B.O.N. )
@@ -1632,6 +1633,7 @@ Anglia ( England , Anglie , English State )
       Dějiny Indie
       Bibracte-Wogezy 58 p.n.e.
       Mercia - The Rise and Fall of a Kingdom
+      Szkice spod Monte Cassino
 
 Anglowie ( Angles )
   Bibliografia :
@@ -2532,7 +2534,7 @@ Astowie
       Antické Černomoří
       Thrákové
 
-Chanat Astrachański
+Chanat Astrachański ( Orda Astrachańska )
   Abdulkerim                                            przed 1504-po 1509 (?-wiosna) ( wg N.G.R.B.I.N.S. )
   Dżanibek                                              przed 1521-? ( wg N.G.R.B.I.N.S. )
   Akkubek                                               ? i 1532-1534 ( wg N.G.R.B.I.N.S. )
@@ -4951,6 +4953,10 @@ Biała Serbia ( Sorabowie , Serbowie połabscy )
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
 
+Orda białogrodzka
+  Bibliografia :
+      Obertyn 1531
+
 Księstwo białogrodzkie [Belgorod Kievsky]
   Ruryk Rościsławowicz                                  przed 1180-po 1188 ( Ruryk wg Z.1205 ) [Grand Prince of Kiev]
   Bibliografia :
@@ -7161,10 +7167,9 @@ Chiny ( Čína , China )
   Państwo Czin ( Tsin , Kraj Jin )
     Xian                                                ?-651 ( wg W.C.Z.H.2.2.P.N.E. )
     Czung Er            	                              636-628 ( wg H.C. )
-  Państwo Cz´i ( Ts´i , Królestwo Qi , Qi )
-    Huan                	                              685-643 ( wg H.C. )
+  Państwo Cz´i ( Ts´i , Królestwo Qi , Qi , Kraj Qi )
+    Huan                	                              685-643 ( wg H.C. ) ( Huan z Qi (Pierwszy Hegemon) wg W.C.Z.H.2.2.P.N.E. )
       				                                          przed 667-? (wg S.S.F.Z.H. )
-                                                        ? ( Huan wg W.C.Z.H.2.2.P.N.E. )
     Tao-huei		                                        ? ( wg S.S.F.Z.H. )
     Min			                                            ? ( wg S.S.F.Z.H. )
     Jian                                                ? ( wg W.C.Z.H.2.2.P.N.E. )
@@ -7176,10 +7181,14 @@ Chiny ( Čína , China )
     T´ien Szy		                                        208-207 ( wg S.S.F.Z.H. ) [King of Jiaodong]
                                                         208-206 (?-po ?.6.) ( Tian Szi wg W.C.Z.H.2.2.P.N.E. )
     T´ien Tu		                                        207/6-206 ( wg S.S.F.Z.H. )
+                                                        206-? ( Tian Du wg W.C.Z.H.2.2.P.N.E. )
     T´ien Jung		                                      206-205 ( wg S.S.F.Z.H. )
     T´ien Kuang		                                      205-po 204 ( wg S.S.F.Z.H. )
-    Han Sin		                                          203-202 ( wg S.S.F.Z.H. )
+                                                        205-po 204 (przed ?.3.-?.9.) ( Tian Guang wg W.C.Z.H.2.2.P.N.E. )
     T´ien Heng		                                      ? ( wg S.S.F.Z.H. )
+                                                        204-? (przed ?.12.-?) ( Tian Heng wg W.C.Z.H.2.2.P.N.E. )
+    Han Sin		                                          203-202 ( wg S.S.F.Z.H. ) [King of Chu]
+                                                        203-202 (przed ?.4.-?) ( Han Xin wg W.C.Z.H.2.2.P.N.E. )
     Liu Fei		                                          201-po 197 ( wg S.S.F.Z.H. )
   Stát Čchi ( Stát Tchien )
   Państwo Lu ( Stát Lu , Księstwo Lu )
@@ -7193,6 +7202,8 @@ Chiny ( Čína , China )
     Han Kuang			                                      209-207/6 ( wg S.S.F.Z.H. )
                                                         209-206 (?-po ?.5.) ( Han Guang wg W.C.Z.H.2.2.P.N.E. )
     Tsang T´u			                                      207-202 ( wg S.S.F.Z.H. )
+                                                        206-202 (przed ?.6.-po ?.3.) ( Zang Tu wg W.C.Z.H.2.2.P.N.E. )
+    Lu Wan                                              202-? ( wg W.C.Z.H.2.2.P.N.E. )
     Liu Kuan			                                      202-195 ( wg S.S.F.Z.H. )
     Liu Kien			                                      195-? ( wg S.S.F.Z.H. )
   Państwo Ts´ao ( Stát Cchao )
@@ -7208,15 +7219,18 @@ Chiny ( Čína , China )
   Państwo Jüe ( Yue , Stát Jüe )
     Kou-tsien			                                      496-? ( wg S.S.F.Z.H. )
   Państwo Pa
-  Państwo Szu
+  Królestwo Ba
+  Państwo Szu ( Królestwo Szu )
   Państwo Czao ( Zhao , Stát Čao , Królestwo Zhao )
     Tao Siang			                                      ? ( wg S.S.F.Z.H. )
     Wu Cz´en			                                      209-? ( wg S.S.F.Z.H. ) ( Wu Czen wg W.C.Z.H.2.2.P.N.E. )
     Li Liang                                            ? ( wg W.C.Z.H.2.2.P.N.E. )
     Hie				                                          208-207 i 206-204 ( wg S.S.F.Z.H. ) [King of Dai Xie]
                                                         przed 208-206 i przed 205-204 (?.11.-? i ?.1.-po ?.5.) ( Xie (Xie z Zhao) wg W.C.Z.H.2.2.P.N.E. )
-    Czang Er			                                      203-202 ( wg S.S.F.Z.H. )
+    Czang Er			                                      203-202 ( wg S.S.F.Z.H. ) [King of Czangszan]
+                                                        przed 203-202 (?.1.-?.2.) ( Zhang Er wg W.C.Z.H.2.2.P.N.E. )
     Czang Ao			                                      202-198 ( wg S.S.F.Z.H. )
+                                                        202-198 (przed ?.3.-?) ( Zhang Ao wg W.C.Z.H.2.2.P.N.E. )
     In ( Liu Żu-i )			                                ? ( wg S.S.F.Z.H. )
     Kung ( Liu K´uei )		                              ? ( wg S.S.F.Z.H. )
     Jou ( Liu Jou )			                                ? ( wg S.S.F.Z.H. )
@@ -7227,21 +7241,22 @@ Chiny ( Čína , China )
                                                         209-208 (?-po ?.6.) ( Jiu (Jiu z Wei) wg W.C.Z.H.2.2.P.N.E. )
     Pao				                                          205-204 ( wg S.S.F.Z.H. ) [King of Zachodnie Wei]
                                                         przed 207-206 (?.6.-?) ( Bao wg W.C.Z.H.2.2.P.N.E. )
-  Państwo Han
-    Liu Pang			                                      207-202 ( wg S.S.F.Z.H. )
-  Państwo Han ( Stát Chan , Królestwo Han , Han )
+  Państwo Han ( Stát Chan , Królestwo Han , Han , Hann , Kraj Hann )
     Süan-huei			                                      332-312 ( wg S.S.F.Z.H. )
     Siang-ai			                                      311-296 ( wg S.S.F.Z.H. )
     Li				                                          295-273 ( wg S.S.F.Z.H. )
     Tao-huei			                                      272-238 ( wg S.S.F.Z.H. )
     An				                                          ?-230 ( wg S.S.F.Z.H. )
     Cz´eng			                                        przed 207-206 ( wg S.S.F.Z.H. )
+                                                        207-206 (przed ?.8.-po ?.6.) ( Czeng (Pengczeng) wg W.C.Z.H.2.2.P.N.E. )
     Cz´eng Czang			                                  206-205 ( wg S.S.F.Z.H. )
+                                                        przed 205-205 (?.1.-?.3.) ( Zheng Czang wg W.C.Z.H.2.2.P.N.E. )
+    Xin                                                 205-202 (?-?.12.) ( Xin z Hann wg W.C.Z.H.2.2.P.N.E. ) [King of Dai]
     Han Sin			                                        205-po 203 ( wg S.S.F.Z.H. )
     Sin				                                          202-? ( wg S.S.F.Z.H. )
   Państwo T´ien
   Państwo Tsou
-  Państwo Cz´in ( Ts´in, Qin , Stát Ťin , Ch'in , Kraj Qin )
+  Państwo Cz´in ( Ts´in, Qin , Stát Ťin , Ch'in , Kraj Qin , Królestwo Qin )
     Siang				                                        776-? ( wg S.S.F.Z.H. )
     Siao                                        	      361-337 ( wg H.C. )
       					                                        przed 361-? ( Szao wg S.S.F.Z.H. )
@@ -7254,6 +7269,7 @@ Chiny ( Čína , China )
                                                         przed 223-221 ( Jing Čcheng wg A.Č.D. )
                                                         238-221 ( Zheng wg W.C.Z.H.2.2.P.N.E. )
     Tsy-ing			                                        207 ( wg S.S.F.Z.H. )
+                                                        207 (?.9.-?) ( Ziying wg W.C.Z.H.2.2.P.N.E. )
   Państwo Cz´u ( Chu , Stát Čchu , Królestwo Chu , Królestwo Czu , Czu )
     Ling Wang                                           539-527 ( wg G.C.3000.L.N.O.I.W. )
     In				                                          ? ( wg S.S.F.Z.H. )
@@ -7270,7 +7286,9 @@ Chiny ( Čína , China )
     Huai				                                        ? ( wg S.S.F.Z.H. )
     Siang Jü                     		                    206-202 ( wg H.C. ) [King of Zachodnie Czu Xiang Yu]
                                                         207-202 ( Hiang Jü wg S.S.F.Z.H. )
-    Han Sin			                                        202-201 ( wg S.S.F.Z.H. )
+                                                        206-202 (przed ?.6.-?.2.) ( Xiang Yu (Xiang, Król-Hegemon) wg W.C.Z.H.2.2.P.N.E. )
+    Han Sin			                                        202-201 ( wg S.S.F.Z.H. ) [King of Qi]
+                                                        202 (przed ?.3.-?.12.) ( Han Xin wg W.C.Z.H.2.2.P.N.E. )
     Liu Kia			                                        201-po 197 ( wg S.S.F.Z.H. )
   Państwo Tai
     Kia				                                          228-222 ( wg S.S.F.Z.H. )
@@ -7282,45 +7300,61 @@ Chiny ( Čína , China )
   Wielkie Królestwo Cz´u
     Cz´en Sze			                                      209-208 (?-początek) ( wg S.S.F.Z.H. ) [King of Czu Czen Sze]
   Księstwo Pei
-    Liu Bang                                            przed 208-? (?.1.-?) ( wg W.C.Z.H.2.2.P.N.E. ) [King of Han Liu Pang]
+    Liu Bang                                            przed 208-po 206 (?.1.-?.3.) ( wg W.C.Z.H.2.2.P.N.E. ) [King of Han Liu Pang]
+  Państwo Han
+    Liu Pang			                                      207-202 ( wg S.S.F.Z.H. ) [Emperor of Western Han Dynasty Kao Ti]
+                                                        206-202 (przed ?.7.-28.2.) ( Liu Bang wg W.C.Z.H.2.2.P.N.E. )
   Donghai
     Qin Jia                                             209-208 (?-?.5/6.) ( Qin Jia z Ling (Qin Jiang) wg W.C.Z.H.2.2.P.N.E. )
   Zachodnie Czu
     Xiang Yu                                            206 (przed ?.4.-po ?.5.) ( wg W.C.Z.H.2.2.P.N.E. ) [King of Czu Siang Jü]
   Dai ( Kraj Dai )
     Xie                                                 206-po 206 (przed ?.6.-?.9.) ( Xie z Zhao wg W.C.Z.H.2.2.P.N.E. ) [King of Zhao Hie]
-  Państwo Jung
+    Czen Yu                                             przed 205-204 (?.1.-po ?.5.) ( wg W.C.Z.H.2.2.P.N.E. )
+    Xin                                                 202-199 (?.12.-?) ( Xin z Hann wg W.C.Z.H.2.2.P.N.E. )
+  Państwo Jung ( Yong )
     Czang Han			                                      207/6-205 ( wg S.S.F.Z.H. )
-  Państwo Sai
+                                                        206-205 (przed ?.6.-?.7.) ( Zhang Han wg W.C.Z.H.2.2.P.N.E. )
+  Państwo Sai ( Sai )
     Sy-ma Hin			                                      207/6-205 ( wg S.S.F.Z.H. )
-  Państwo Ti
+                                                        206 (przed ?.6.-?) ( Sima Xin wg W.C.Z.H.2.2.P.N.E. )
+  Państwo Ti ( Di )
     Ting I				                                      207/6-205 ( wg S.S.F.Z.H. )
+                                                        206-205 (przed ?.6.-?) ( Dong Yi wg W.C.Z.H.2.2.P.N.E. )
   Państwo Zachodnie Wei ( Zachodnie Wei )
     Pao				                                          207-po 205 ( wg S.S.F.Z.H. ) [King of Wei]
                                                         206-204 (przed ?.6.-po ?.1.) ( Bao (Bao z Wei) wg W.C.Z.H.2.2.P.N.E. )
-  Państwo Honan
+  Państwo Honan ( Henan )
     Szen Jang			                                      207/6-205 ( wg S.S.F.Z.H. )
-  Państwo In
+                                                        206-po 205 (przed ?.6.-?.1.) ( Szen Yang wg W.C.Z.H.2.2.P.N.E. )
+  Państwo In ( Yin )
     Sy-ma Ang			                                      207/6-205 ( wg S.S.F.Z.H. )
-  Państwo Cz´angszan
-    Czang Er			                                      207/6-206 i 204-202 ( wg S.S.F.Z.H. )
-  Państwo Kiukiang
+                                                        206-205 (przed ?.6.-?.3.) ( Sima Ang wg W.C.Z.H.2.2.P.N.E. )
+  Państwo Cz´angszan ( Królestwo Czangszanu , Czangszan )
+    Czang Er			                                      207/6-206 i 204-202 ( wg S.S.F.Z.H. ) [King of Zhao]
+                                                        206 (przed ?.6.-?) ( Zhang Er wg W.C.Z.H.2.2.P.N.E. )
+  Państwo Kiukiang ( Jujiang , Huainan , Dziewięciorzecze )
     K´ing Pu			                                      207/6-po 203 ( wg S.S.F.Z.H. )
+                                                        206-po 205 i przed 203-195 (przed ?.6.-po ?.11. i ?.10.-?.3.) ( Qing Bu wg W.C.Z.H.2.2.P.N.E. )
   Państwo Hangszan ( Hengszan )
     Wu Żuei			                                        207/6-po 206 ( wg S.S.F.Z.H. ) [King of Czangsza]
                                                         206-202 (przed ?.6.-po ?.2.) ( Wu Rui wg W.C.Z.H.2.2.P.N.E. )
-  Państwo Linkiang ( Liukiang )
+  Państwo Linkiang ( Liukiang , Linjiang , Linkiang )
     Kung Ao			                                        207/6-? ( wg S.S.F.Z.H. )
+                                                        206-202 (przed ?.6.-?.2.) ( Gong Ao wg W.C.Z.H.2.2.P.N.E. )
     Kung Huan			                                      ?-202/1 ( wg S.S.F.Z.H. )
+                                                        202 (?-?.9.) ( Gong Huan wg W.C.Z.H.2.2.P.N.E. )
   Państwo Liaotung
     Han Kuang			                                      207-206 ( wg S.S.F.Z.H. )
   Państwo Kiaotung ( Królestwo Jiaodong , Jiaodong )
     T´ien Szy			                                      207-206 ( wg S.S.F.Z.H. ) [King of Qi]
                                                         206 ( Tian Szi wg W.C.Z.H.2.2.P.N.E. )
-  Państwo Tsipei
+  Państwo Tsipei ( Jibei , Królestwo Jibei )
     T´ien An			                                      207-206 ( wg S.S.F.Z.H. )
-  Państwo Liang
+                                                        206 ( Tian An wg W.C.Z.H.2.2.P.N.E. )
+  Państwo Liang ( Liang )
     P´eng Jüe			                                      202-196 ( wg S.S.F.Z.H. )
+                                                        203-196 (przed ?.4.-?) ( Peng Yue wg W.C.Z.H.2.2.P.N.E. )
     Liu K´uei			                                      196-? ( wg S.S.F.Z.H. )
   Państwo Cz´angsza ( Czangsza )
     Wu Żuei			                                        202-po 197 ( wg S.S.F.Z.H. ) [King of Hengszan]
@@ -7337,8 +7371,8 @@ Chiny ( Čína , China )
   Państwo Huai-in
     Liu Cz´ang			                                    196-? ( wg S.S.F.Z.H. )
   Cesarstwo Chin
-    Dynastia Cz´in ( Ts´in, Qin Dynasty , Dynastie Čchin , Ch'in Dynasty , Dynastia Tsin , Dynastia Qin , Čchinská dynastie , Qin )
-      Szy Huang Ti ( Czao Czeng , Ying Zheng )          221-210 ( wg D.Ś. i H.C. ) ( Pierwszy Cesarz wg S.S.F.Z.H. ) ( Čchin Š´-chuang-ti wg E.P. ) ( Shihuang Di wg Ř.S.J.Ď.S. ) ( Shi Huang Di (秦始皇帝, 嬴政) wg T.O.M.O.C.S.D. ) ( Shih Huang Ti (Chao Chêng) wg D.O.T.W.A.C.A.G.H. ) ( Qin Szihuangdi (Quin Szihuangdi, Pierwszy Cesarz, Pierwszy Cesarz Chin, Pan Sadzawki w Hao, Dostojny Władca) wg W.C.Z.H.2.2.P.N.E. )
+    Dynastia Cz´in ( Ts´in, Qin Dynasty , Dynastie Čchin , Ch'in Dynasty , Dynastia Tsin , Dynastia Qin , Čchinská dynastie , Qin , The Ch'in Empire , Qin Empire , Qin Dynasty )
+      Szy Huang Ti ( Czao Czeng , Ying Zheng )          221-210 ( wg D.Ś. i H.C. ) ( Pierwszy Cesarz wg S.S.F.Z.H. ) ( Čchin Š´-chuang-ti wg E.P. ) ( Shihuang Di wg Ř.S.J.Ď.S. ) ( Shi Huang Di (秦始皇帝, 嬴政) wg T.O.M.O.C.S.D. ) ( Shih Huang Ti (Chao Chêng) wg D.O.T.W.A.C.A.G.H. ) ( Qin Szihuangdi (Quin Szihuangdi, Pierwszy Cesarz, Pierwszy Cesarz Chin, Pan Sadzawki w Hao, Dostojny Władca, Qin Shihuang) wg W.C.Z.H.2.2.P.N.E. )
                                                         263-236 ( wg V.N.M.S.D. )
              				             	                      221-? ( wg S.B.W. )
       					   	                                    ? ( wg H.P.S. ) ( Qín Shǐ Huángdì wg S.A.B.H.O.H. )
@@ -7351,7 +7385,7 @@ Chiny ( Čína , China )
                                                         210-207 (koniec(zima)-?.7.) ( Qin Erszihuangdi (Drugi Cesarz, Huhai, Er Szihuangdi, Drugi Dostojny Cesarz) wg W.C.Z.H.2.2.P.N.E. )
       Cz´in Wang                                 	      207 ( wg D.Ś. ) ( Tzu Jing wg H.C. ) ( Ch'in Wang wg D.O.T.W.A.C.A.G.H. )
     Dynastia Han
-      Dynastia zachodnia Han ( Western Han Dynasty , Dynastie Chan , Han Empire , Dynastia Han , Zachodnia Dynastia Han , Chan )
+      Dynastia zachodnia Han ( Western Han Dynasty , Dynastie Chan , Han Empire , Dynastia Han , Zachodnia Dynastia Han , Chan , Han , The Han Empire , Han Dynasty , Han dynasty )
         Kao Ti ( Liu Czi , Kao Cu , Liu Bang )          207-195 ( wg D.Ś. )
                                                         207-202/195 ( Liu Chi wg D.O.T.W.A.C.A.G.H. )
                                                         228-211 ( wg V.N.M.S.D. )
@@ -7359,6 +7393,7 @@ Chiny ( Čína , China )
       					                                        202-195 ( Liu Pang ( Kao-tsu ) wg S.S.F.Z.H. )
       					                                        206/2-195 ( Liou Pang ( Liou Ťi , Kao-cu ) wg E.P. )
                                                         202-? ( Liou Pang wg A.Č.D. )
+                                                        202-195 (28.2.-?.6.) ( Gaodi (Najwyższy Cesarz, Gaozu, Wybitny Przodek, Wspaniały Ojciec Cesarzy) wg W.C.Z.H.2.2.P.N.E. )
         Hui Ti ( Liu Ying )                    	        195-188 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Huei wg S.S.F.Z.H. )
                                                         211-196 ( wg V.N.M.S.D. )
       				        	                                194-188 ( Huei wg H.C. )
@@ -8037,7 +8072,7 @@ Chiny ( Čína , China )
     Wang Ťing-wej                                       1940-? (?.3.-?) ( wg A.Č.D. )
   Che-pej
   Čínská republika ( Tchaj-wan , Taiwan )
-  Chińska Republika Ludowa ( Čínská lidová republika , ČLR )
+  Chińska Republika Ludowa ( Čínská lidová republika , ČLR , People's Republic of China )
     Mao Ce-Tung	                                        1949-1976 (20.10.-9.9.) ( wg 100.N.V.S. )
       			         	                                  przed 1954-po 1972 ( wg M.Ś. )
       			         	                                  przed 1956-? ( Mao Tse-tung wg T.Z.H.K. )
@@ -10456,6 +10491,10 @@ Dominikana ( Dominikánská republika )
 Donauwörth
   Bibliografia :
       The Holy Roman Empire - A Thousand Years of Europe's History
+
+Dongyue
+  Bibliografia :
+      Wojna Czu z Han 209-202 p.n.e.
 
 Dor
   Bader                                                 ok.1065 p.n.e.
@@ -13270,7 +13309,7 @@ Francja ( France , Francie , Frankreich )
 			    	                                            ?-1814 ( wg 100.N.U.W. )
 			    	                                            przed 1805-? ( Napoleon Bonaparte wg B.M. ) ( wg Z.G.C.O.P. )
 			    	                                            przed 1798-1814 i 1815 ( wg M.Ś. )
-			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i U.E. i H.S.J.M. i O.I.W. i O.L.S.S.Z.C.Z.A.O.V.H. i O.T.M.T.M.T.W. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. i S.II.W.I.J.C.Z.E.M.P. ) ( Napoleon I Bonaparte wg B.5.5.P.N.E. ) ( Napoleon Bonaparte (Napoleon, N.Bonaparte) wg G.B.5.5.P.N.E. ) ( N.Bonaparte (Napoleon) wg B.W.5.P.N.E. )
+			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i U.E. i H.S.J.M. i O.I.W. i O.L.S.S.Z.C.Z.A.O.V.H. i O.T.M.T.M.T.W. i W.C.Z.H.2.2.P.N.E. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. i S.II.W.I.J.C.Z.E.M.P. ) ( Napoleon I Bonaparte wg B.5.5.P.N.E. ) ( Napoleon Bonaparte (Napoleon, N.Bonaparte) wg G.B.5.5.P.N.E. ) ( N.Bonaparte (Napoleon) wg B.W.5.P.N.E. )
 				                                                przed 1812-? ( Napoleon Bonaparte wg B.O.R.H. ) ( Napoleon wg H.3.P.N.E. )
 				                                                przed 1815-? ( Napoleon wg G.T.G. )
                                                         1805-1814 i 1815 (?-11.4. i ?-?.6.) ( Napoleon wg V.K.T.H.O.H.E. )
@@ -13426,6 +13465,7 @@ Francja ( France , Francie , Frankreich )
       Dějiny Indie
       How We Learn - The New Science of Education and the Brain
       Bibracte-Wogezy 58 p.n.e.
+      Wojna Czu z Han 209-202 p.n.e.
 
 Frankfurt
   Principality of Frankfurt
@@ -16967,7 +17007,7 @@ Italia ( Italy , Włochy , Itálie )
                                                         1946 (?.5.-12.6.) ( Umberto II wg V.K.T.H.O.H.E. )
   premiers
     Bonomi                                              przed 1920-? (?.4.-?) ( wg V.K.T.H.O.H.E. )
-  Benito Mussolini                                      ? ( Mussolini wg F.C.A.R.F. i V.K.T.H.O.H.E. i H.W. i U.E. i H.S.J.M. i H.O.W.P. i T.H.R.E.A.T.Y.O.E.H. i C.A.R.T.G.O.S.K. ) ( wg E.N.T.C.F.R.S.H.A.P. i N.B.Y.T.S.O.W.W.T.A.W.W.B. ) ( B. Mussolini wg P.U.D.D.L.D.R.I.P. )
+  Benito Mussolini                                      ? ( Mussolini wg F.C.A.R.F. i V.K.T.H.O.H.E. i H.W. i U.E. i H.S.J.M. i H.O.W.P. i T.H.R.E.A.T.Y.O.E.H. i C.A.R.T.G.O.S.K. i S.S.M.C. ) ( wg E.N.T.C.F.R.S.H.A.P. i N.B.Y.T.S.O.W.W.T.A.W.W.B. ) ( B. Mussolini wg P.U.D.D.L.D.R.I.P. )
                                                         przed 1935-? (jesień-?) ( wg Z.P.B.W.A. )
                                                         przed 1940-po 1941 (10.6.-4.9.) ( Mussolini wg B.S.P. )
                                                         przed 1936-? ( wg B.W.5.P.N.E. )
@@ -17012,6 +17052,7 @@ Italia ( Italy , Włochy , Itálie )
       Fontenoy 841
       Conjectures and Refutations - The Growth of Scientific Knowledge
       Bibracte-Wogezy 58 p.n.e.
+      Szkice spod Monte Cassino
 
 Państwo Ito
   Bibliografia :
@@ -19468,7 +19509,7 @@ Kazallu
   Bibliografia :
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
-Chanat Kazański
+Chanat Kazański ( Orda Kazańska )
   Uług Mehmed                                           ? ( wg N.G.R.B.I.N.S. ) [Khan of Golden Horde]
   Ibrahim I                                             1467-1479 ( Ibrahim wg N.G.R.B.I.N.S. )
   Ali                                                   ?-1487 ( wg N.G.R.B.I.N.S. )
@@ -19477,10 +19518,12 @@ Chanat Kazański
   Szejch Ali                                            1519-1521 i 1551-? (? i lato-?) ( wg N.G.R.B.I.N.S. )
   Sahib Girej                                           1521-po 1524 ( wg N.G.R.B.I.N.S. ) [Khan of Crimean Khanate Sahib Girej]
   Safa Girej                                            przed 1530-1531 i 1534-1546 i 1546-1549 ( Safa Girej II wg N.G.R.B.I.N.S. )
+                                                        przed 1530-? ( Safi Girej wg O.1531 )
   Dżan Ali                                              1531-1534 ( wg N.G.R.B.I.N.S. )
   Jadyger Mehmed                                        ?-1552 (?-?.10.) ( Jadyger wg N.G.R.B.I.N.S. )
   Bibliografia :
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+      Obertyn 1531
 
 Kábul
   Timurovci
@@ -21662,7 +21705,7 @@ Chanat Krymski ( Khanate of Crimea , The Crimean Khanate )
     Girejowie ( Dynastia Girejów )
       Hadżi Girej I                                     1441-1466 ( Hadżi Girej wg N.G.R.B.I.N.S. )
       Mengli Giraj                                      1466 i 1469-1475 i 1478-1515 ( Mengli Girej (Mengli) wg N.G.R.B.I.N.S. ) ( Mengli Girej I wg M.1526 )
-                                                        ? ( Girej wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        ? ( Girej wg S.II.W.I.J.C.Z.E.M.P. ) ( Mengli-Girej wg O.1531 )
       Nur Dewlet                                        1466-1469 i 1475-1476 ( wg N.G.R.B.I.N.S. )
       Mahmed Girej I                                    1515-1523 ( Mehmed Girej wg N.G.R.B.I.N.S. )
       Sahib Girej                                       1532-po 1551 ( Sahib Giray I (Said Giray Sultan) wg N.G.R.B.I.N.S. ) [Khan of Kazan Sahib Girej]
@@ -21688,6 +21731,7 @@ Chanat Krymski ( Khanate of Crimea , The Crimean Khanate )
       Jezioro Pejpus 1242
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
       Mohacz 1526
+      Obertyn 1531
 
 Zakon Krzyżacki ( Teutonic Order, Teutonic Knights, State of Teutonic Order, Ordensstaat, Order of The Brothers of The Teutonic House of The Virgin Mary in Jerusalem , Zakon Najświętszej Maryi Panny Domu Jerozolimskiego , Krzyżowcy , Państwo Zakonu Krzyżackiego , Zakon Szpitala Najświętszej Marii Panny Domu Niemieckiego , Krzyżacy , Ordo fratrum hospitalis sanctae Mariae Theutonicorum Ierosolimitatorum , Bracia szpitala niemieckiego pod wezwaniem Najświętszej Marii Panny w Jerozolimie , Deutschen Orden , Ordo Theutonicorum , Zakon Szpitalników Świętej Marii Niemców Jerozolimskich , Ordenstaat , Zakon , Order , The Order , Order of Teutonic Knights , Zakon Teutoński Szpitala Najświętszej Marii Panny , Zakon Najświętszej Marii Panny )
   Henryk Walpot                               	        1198-1208 ( 5.3.-5.11. ) ( wg P.W.M.K. )
@@ -22992,6 +23036,7 @@ Litwa ( Litva , Lithuania )
                                                         przed 1415-? ( wg G.R.I.L. )
                                                         przed 1402-po 1429 ( wg K.P.S. )
                                                         ?-1430 (?-27.10.) ( Witold (Witold Kiejstutowicz) wg N.1396 )
+                                                        ? ( Witold wg W.C.Z.H.2.2.P.N.E. )
       Świdrygiełło ( Švitrigaila )   	                  1430-1432 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Svidrigaila wg V.K.T.H.O.H.E. )
       Zygmunt                              	            1432-1440 ( wg V.K.T.H.O.H.E. i D.Ś. ) ( Sigismund wg D.O.T.W.A.C.A.G.H. )
       Kazimierz                            	            1440-1492 ( wg D.Ś. ) ( Kazimierz III Jagiellończyk (Casimir IV Jagiellon, Casimir Jagiellończyk) wg V.K.T.H.O.H.E. ) ( Casimir wg D.O.T.W.A.C.A.G.H. ) [King of Poland Casimir IV]
@@ -23042,6 +23087,7 @@ Litwa ( Litva , Lithuania )
       The Holy Roman Empire - A Thousand Years of Europe's History
       Nikopolis 1396
       Mohacz 1526
+      Wojna Czu z Han 209-202 p.n.e.
 
 Litwini
   Dom Centaurów ( House of Kentauras )
@@ -23856,7 +23902,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
 				      	                                        przed 305-288 ( wg T.H.S. )
 				      	                                        306(294)-287/6 ( Demétrios Poliorkétes wg S.H. )
 					                                              306(294)-? ( Démétrios I Poliorkétés wg E.P. )
-                                                        ? ( Démétrios Poliorkétés (Obléhatel, Ničitel měst, Démétrios II.) wg S.P. ) ( Demetriusz Poliorketes wg H.3.P.N.E. )
+                                                        ? ( Démétrios Poliorkétés (Obléhatel, Ničitel měst, Démétrios II.) wg S.P. ) ( Demetriusz Poliorketes wg H.3.P.N.E. i W.C.Z.H.2.2.P.N.E. )
                                                         306-286/5 (?-zima) ( Démétrios Poliorkétés (Démétrios Dobyvatel měst, Démétrios, Demetrius Poliorcetes, Demetriu, Demetrio Poliorcete, Demetrios, Demetrios Poliorketes) wg Ř.M.M.A.Ř. )
                                                         przed 301-? ( Demetriusz (Demetriusz Poliorketes) wg G.316.P.N.E. )
     Pyrrus z Epiru                          	          287-285 i 274-272 ( wg D.Ś. i A.Č. ) ( Pyrrhus of Epirus wg D.O.T.W.A.C.A.G.H. )
@@ -23995,6 +24041,7 @@ Macedonia ( Makedonie , The Kingdom of Macedonia , Macedonian Empire , Macedon )
       Dějiny Indie
       Bibracte-Wogezy 58 p.n.e.
       Weje 405-396 p.n.e.
+      Wojna Czu z Han 209-202 p.n.e.
 
 Machalata
   Bibliografia :
@@ -25762,9 +25809,10 @@ Milet ( Milétos , Mílétos )
       Zrození Řecka
       Řecko mezi Makedonií a Římem
 
-Min Jüe
+Min Jüe ( Minyue )
   Bibliografia :
       Historia Chin
+      Wojna Czu z Han 209-202 p.n.e.
 
 Państwo minejskie ( Państwo Minejczyków , Minejczycy , Main )
   Bibliografia :
@@ -26133,14 +26181,20 @@ Molim
 Mołdawia
   Vojvodství Moldavské ( Hospodarstwo Mołdawskie )
     Dragoš			                                        ? ( wg K.H. )
+    Piotr                                               ? ( wg O.1531 )
     Alexandr Dobrý		                                  ? ( wg K.H. )
     Piotr Aron                                          przed 1456 n.e.-? (29.6.-?) ( Piotr wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        ? ( wg O.1531 )
     Stefan IV Wielki                                    1457-po 1484 ( Stefan Wielki wg S.II.W.I.J.C.Z.E.M.P. )
     		                                                ? ( Štěpán Velký wg K.H. )
-                                                        1457-1504 ( Stefan III Wielki (Stefan, Stefan Wielki) wg M.1526 )
+                                                        1457-1504 ( Stefan III Wielki (Stefan, Stefan Wielki) wg M.1526 ) ( Stefan Wielki (Stefan, Stefan Wielki Mołdawski) wg O.1531 )
+    Bogdan III Jednooki                                 1504-1517 (przed ?.12.-?.4.) ( Bogdan wg O.1531 )
+    Stefan V                                            1517-1527 (?-?.1.) ( Stefan wg O.1531 )
     Piotr IV		                                        przed 1528-po 1538 i ? (?.5.-?.1. i ?) ( Piotr Raresz wg S.II.W.I.J.C.Z.E.M.P. )
-                                                        ? ( Petr Rareš wg K.H. )
+                                                        ? ( Petr Rareš wg K.H. ) 
+                                                        1527-1538 i 1541-1546 ( Piotr Raresz (Piotr, Petru Rareș, Piotr IV Raresz, Raresz, Petryła) wg O.1531 )
     Stefan VI                                           ?-1540 ( Stefan (Szarańcza) wg S.II.W.I.J.C.Z.E.M.P. )
+                                                        1538-po 1540 ( Stefan Lacusta wg O.1531 )
     Aleksander Lapusneanu                               1552-po 1553 (?-1.6.) ( wg S.II.W.I.J.C.Z.E.M.P. )
     Stefan Tomża                                        przed 1563-? ( wg S.II.W.I.J.C.Z.E.M.P. )
     Jan III                                             ? ( wg S.II.W.I.J.C.Z.E.M.P. )
@@ -26148,6 +26202,7 @@ Mołdawia
       Karpatské hry
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Mohacz 1526
+      Obertyn 1531
 
 Molossis
   Bibliografia :
@@ -26487,6 +26542,7 @@ Moskwa ( Muscovy , Moskva , Moskau )
       Wasyl III                 	                      1505-1533 ( wg V.N.M.S.D. i D.Ś. ) ( Wasyl wg N.G.R.B.I.N.S. ) ( Vasily III wg T.H.R.E.A.T.Y.O.E.H. )
       			        	                                  ? ( Vasil III wg D.B. ) ( Vasilij III wg Ř.S.J.Ď.S. ) ( Vasilij III. wg M.I.Z.H.S.R. )
                                                         1502/5-1533 ( Basil III wg D.O.T.W.A.C.A.G.H. )
+                                                        przed 1531-? ( Wasyl wg O.1531 )
       Iwan IV Groźny      	                            1533-1547 ( wg V.N.M.S.D. i D.Ś. ) ( Ivan IV the Terrible (Ivan IV) wg D.O.T.W.A.C.A.G.H. ) ( Iwan IV (Iwan) wg N.G.R.B.I.N.S. ) [Tsar of Russia Ivan IV]
                                                         ?-1547 ( Ivan IV Hrozný wg Ř.S.J.Ď.S. )
                                                         ? ( Ivan IV Terrible wg V.K.T.H.O.H.E. )
@@ -26506,6 +26562,7 @@ Moskwa ( Muscovy , Moskva , Moskau )
       Goci - Rzeczywistość i legenda
       Maxmilián I. - Zakladatel habsburské světové říše
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Obertyn 1531
 
 Mosul
   Emirat Mosulu
@@ -26858,9 +26915,10 @@ Księstwo namysłowskie
   Bibliografia :
       Książęta piastowscy Śląska
 
-Państwo Nan Jüe
+Państwo Nan Jüe ( Nanyue )
+  Zhao Tuo                                              207 p.n.e.-? (?.12.-?) ( wg W.C.Z.H.2.2.P.N.E. )
   Bibliografia :
-      Historia Chin
+      Wojna Czu z Han 209-202 p.n.e.
 
 Nanczao ( Nan-czao , Nan-čao )
   Księstwo Nanczao
@@ -27747,7 +27805,7 @@ Niemcy ( Germany , Německo , Deutschland )
       			   	                                        1933-? ( wg 100.N.U.W. )
       			   	                                        1933-po 1941 ( wg M.Ś. )
                                                         1933-po 1945 (?-21.1.) ( wg V.K.T.H.O.H.E. )
-      			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. i M.W.H. ) ( Hitler wg E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i H.T.B.A.G. i U.E. i T.D.W.S.A.A.C.I.T.D. i D.A.T.M.T.E.O.G.I. i D.I.A.T.P. i W.P.P.K.O.S. i C.A.R.T.G.O.S.K. i T.E.P.T.L.R.O.T.G. ) ( A. Hitler (Hitler) wg P.U.D.D.L.D.R.I.P. )
+      			        	                                  ? ( wg F.B.CA.R. i G.T.G. i K.Ř. i M.W.H. ) ( Hitler wg E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i H.T.B.A.G. i U.E. i T.D.W.S.A.A.C.I.T.D. i D.A.T.M.T.E.O.G.I. i D.I.A.T.P. i W.P.P.K.O.S. i C.A.R.T.G.O.S.K. i T.E.P.T.L.R.O.T.G. i S.S.M.C. ) ( A. Hitler (Hitler) wg P.U.D.D.L.D.R.I.P. )
                                                         przed 1939-po 1941 (15.3.-22.6.) ( wg P.N.D. )
                                                         przed 1939-? (?.3.-?) ( Hitler wg H.S.J.M. )
                                                         przed 1939-? ( wg S.V.D.K.V. )
@@ -27848,6 +27906,7 @@ Niemcy ( Germany , Německo , Deutschland )
       The Extended Phenotype - The Long Reach of the Gene
       Transformer - The Deep Chemistry of Life and Death
       Dějiny Indie
+      Szkice spod Monte Cassino
 
 Księstwo niemodlińskie
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -28827,6 +28886,10 @@ Księstwo Oboleńskie
   Bibliografia :
       Litwa - Początki Państw
 
+Orda oczakowska
+  Bibliografia :
+      Obertyn 1531
+
 Państwo Odoakra ( Królestwo Skirów i Turkilingów )
   Odoaker	                                              476-493 ( wg V.N.M.S.D. i Z.N.E. ) ( Odovaker wg H.O.W.P. ) [Ruler of Italy]
       		      	                                      476-493 (23.8.-?) ( wg P.C.R. )
@@ -29278,7 +29341,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
   Ertogrul                                              ? ( wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ok.1280 ( Ertuğrul wg D.O.T.W.A.C.A.G.H. )
   Osman                                                 przed 1291-1299 ( Osman wg S.II.W.I.J.C.Z.E.M.P. )
-  Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát , Sułtanat Osmański , Imperium Osmańskie , Ottoman Sultanate , Porta Ottomańska , Porta Otomańska , Wysoka Porta , Państwo Osmana , Porta , The Ottoman Empire , Osmanská říše , Osmanische Reich , Ottoman State , Imperium osmańskie , Państwo Osmańskie , Turcja Osmańska , Imperium Tureckie )
+  Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát , Sułtanat Osmański , Imperium Osmańskie , Ottoman Sultanate , Porta Ottomańska , Porta Otomańska , Wysoka Porta , Państwo Osmana , Porta , The Ottoman Empire , Osmanská říše , Osmanische Reich , Ottoman State , Imperium osmańskie , Państwo Osmańskie , Turcja Osmańska , Imperium Tureckie , Turcja )
     Dynastia Osmanli ( Osmanowie , Osmanli Dynasty , Ottoman Dynasty , Otomanowie , Dynastia Osmana , Dom Osmana , Dynastia Osmańska , Ród Osmana , Ottomans , The Ottomans )
       Osman I                          	                1280-1324 ( wg D.Ś. )
                                                         1280-1323/4 ( wg D.O.T.W.A.C.A.G.H. )
@@ -29332,14 +29395,14 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
                                                         przed 1453-po 1456 (29.5.-?) ( Mehmed II (Mehmed, Mehmed Zdobywca, Mehmed II Zwycięzca, Mehmed II Fatih) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ? ( Mehmed II. wg M.I.Z.H.S.R. )
                                                         1451-1482 ( Mehmed II (Mehmed Zdobywca) wg N.1396 )
-      Bayezid II                         	              1481-1512 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. ) ( Bajezid II. wg S.V.D.K.V. ) 
+      Bayezid II                         	              1481-1512 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. ) ( Bajezid II. wg S.V.D.K.V. ) ( Bajezyd II wg O.1531 )
                                                         1481-1512 (?-26.5.) ( Bajezyd II wg M.1526 )
       			              	                            ?-1512 ( wg 100.N.V.S. )
                                                         przed 1487-1512 ( Bajazyt II (Bajazyt) wg H.W. )
                                                         1481-1512 (?-24.4.) ( Bajezid II (Bajezid, Bajezid II Veli) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1501-? ( Bajezyd wg N.G.R.B.I.N.S. )
       Djem                                              1481 i ? (?.5.-?.6. i ?) ( Dżem wg M.1526 )
-      Selim I Groźny                 	                  1512-1520 ( wg D.Ś. i V.N.M.S.D. ) ( Selim I (Selim I the Grim) wg D.O.T.W.A.C.A.G.H. ) ( Selim I. (Selim I. Ukrutný, Selim Ukrutný) wg S.V.D.K.V. ) ( Selim I (Selim) wg N.G.R.B.I.N.S. ) ( Salambek (Selim I) wg G.R.I.L. ) ( Selim I (Salim I) wg Arab. )
+      Selim I Groźny                 	                  1512-1520 ( wg D.Ś. i V.N.M.S.D. ) ( Selim I (Selim I the Grim) wg D.O.T.W.A.C.A.G.H. ) ( Selim I. (Selim I. Ukrutný, Selim Ukrutný) wg S.V.D.K.V. ) ( Selim I (Selim) wg N.G.R.B.I.N.S. ) ( Salambek (Selim I) wg G.R.I.L. ) ( Selim I (Salim I) wg Arab. ) ( Selim I wg O.1531 )
                                                         1512-1520 (?-?.9.) ( wg 100.N.V.S. )
                                                         1512-? ( Selim Groźny wg H.W. )
                                                         przed 1517-? ( Selim I wg T.S.O.I.C.O.T.W. )
@@ -29347,7 +29410,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
                                                         przed 1518-? ( Selim I. wg P.U.D. )
                                                         przed 1516-1520 (24.8.-22.9.) ( Selim I (Selim, Selimszah) wg B.D.K.B. )
                                                         1512-1520 (26.5.-20.9./22.10.) ( Selim I (Selim, Selim Groźny) wg M.1526 )
-      Süleyman I Wspaniały     	                        1520-1566 ( wg D.Ś. i V.N.M.S.D. i M.Ś. ) ( Süleyman I (Süleyman I the Magnificent) wg D.O.T.W.A.C.A.G.H. ) ( Süleyman I. Nádherný (Sülejman Nádherný) wg S.V.D.K.V. ) ( Sulejman Wspaniały (Sulejman I, Sulejman) wg N.G.R.B.I.N.S. ) ( Sulejman Prawodawca wg B.D.K.B. ) ( Sulajman II wg Arab. ) ( Süleyman I (Süleyman, Süleyman 'the Magnificent', Süleyman I 'the Magnificent', Süleyman the Magnificent, Suleyman the Magnificent) wg T.H.R.E.A.T.Y.O.E.H. ) ( Sulejman Wspaniały wg N.1396 ) ( Süleyman Kánúní wg D.I. )
+      Süleyman I Wspaniały     	                        1520-1566 ( wg D.Ś. i V.N.M.S.D. i M.Ś. ) ( Süleyman I (Süleyman I the Magnificent) wg D.O.T.W.A.C.A.G.H. ) ( Süleyman I. Nádherný (Sülejman Nádherný) wg S.V.D.K.V. ) ( Sulejman Wspaniały (Sulejman I, Sulejman) wg N.G.R.B.I.N.S. ) ( Sulejman Prawodawca wg B.D.K.B. ) ( Sulajman II wg Arab. ) ( Süleyman I (Süleyman, Süleyman 'the Magnificent', Süleyman I 'the Magnificent', Süleyman the Magnificent, Suleyman the Magnificent) wg T.H.R.E.A.T.Y.O.E.H. ) ( Sulejman Wspaniały wg N.1396 ) ( Süleyman Kánúní wg D.I. ) ( Sulejman II Wspaniały (Sulejman) wg O.1531 )
                                                         1520-1566 (30.10.-?) ( Sulejman II (Sulejman Wspaniały, Sulejman, Sulejman II Wspaniały, "Wielki Turek", Suleyman the Magnificent, Suleyman, Soliman le Magnifique, Szulejman, Suleyman the Second) wg M.1526 )
                                                         1520-1566 (?-5.9.) ( wg 100.N.V.S. )
       			              	                            przed 1540-? ( Sulejman II wg D.P.I.R.G. )
@@ -29435,6 +29498,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
       Nikopolis 1396
       Mohacz 1526
       Dějiny Indie
+      Obertyn 1531
 
 Bishopric of Osnabrück
   Bibliografia :
@@ -31339,6 +31403,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
                                                         przed 1335-1370 (?.7.-po 3.11.) ( Kazimierz Wielki (Kazimierz) wg K.P.S. )
                                                         przed 1366-1370 ( Kazimierz Wielki wg Z.1205 )
                                                         przed 1364-? ( Kazimierz Wielki wg N.1396 )
+                                                        przed 1340-po 1349 ( Kazimierz Wielki wg O.1531 )
     Dynastia andegaweńska ( House of Anjou , Andegawenowie )
       Ludwik          		                              1370-1382 ( wg D.Ś. i V.N.M.S.D. ) ( Louis the Great wg D.O.T.W.A.C.A.G.H. ) ( Ludwik Węgierski wg P.K.I.K.P. ) [King of Hungary Louis I]
       			      		                                  ? ( Ludvík Veliký wg Z.S.A.V.E. ) ( Ludwik Węgierski wg H.W. i N.1396 )
@@ -31360,7 +31425,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
                                                         1366/86-1434 ( Jogaila wg T.H.R.E.A.T.Y.O.E.H. )
                                                         przed 1400-? ( Jagiełło wg O.K.C.J. )
                                                         1386-1434 (?.2.-?) ( Jogaila wg V.K.T.H.O.H.E. )
-                                                        ? ( Władysław Jagiełło (Jagiełło) wg L.P.P. i P.W.O.T. )
+                                                        ? ( Władysław Jagiełło (Jagiełło) wg L.P.P. i P.W.O.T. ) ( Jagiełło wg W.C.Z.H.2.2.P.N.E. )
                                                         przed 1387-po 1414 ( Jagiełło (Władysław Jagiełło) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1386-? ( Jogaila (Jahelko) wg S.V.D.K.V. )
                                                         ?-1434 ( Władysław Jagiełło wg G.R.I.L. )
@@ -31383,14 +31448,17 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
                                                         1447-1492 ( Kazimierz Jagiellończyk (Kazimierz) wg P.K.I.K.P. )
                                                         ?-1492 ( Kazimierz III wg T.H.R.E.A.T.Y.O.E.H. )
                                                         1444-1492 ( Kazimierz IV Jagiellończyk wg M.1526 )
+                                                        przed 1485-? (15.9.-?) ( Kazimierz Jagiellończyk wg O.1531 )
       Jan I Olbracht                	                  1492-1501 ( wg D.Ś. i V.N.M.S.D. ) ( Jan Olbracht (John I Albert) wg V.K.T.H.O.H.E. ) ( John I Albert wg D.O.T.W.A.C.A.G.H. ) ( Jan Olbracht (Olbracht) wg P.K.I.K.P. )
                                                         przed 1499-? ( Olbracht wg O.K.C.J. )
                                                         przed 1499-po 1501 (15.4.-19.7.) ( Jan Olbracht wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ? ( Jan Olbracht (olbracht) wg K.P.S. )
                                                         przed 1491-po 1497 (?.2.-?) ( Jan Olbracht wg M.1526 )
+                                                        przed 1497-1501 (26.10.-17.6.) ( Jan Olbrecht (Olbracht) wg O.1531 )
       Aleksander                    	                  1501-1506 ( wg D.Ś. i V.N.M.S.D. i P.K.I.K.P. ) ( Alexander wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. ) ( Aleksander Jagiellończyk wg N.G.R.B.I.N.S. )
                                                         przed 1502-? (9.10.-?) ( wg S.II.W.I.J.C.Z.E.M.P. )
-      Zygmunt I Stary            	                      1506-1548 ( wg D.Ś. i V.N.M.S.D. ) ( Sigismund The Elder (Sigismund I) wg V.K.T.H.O.H.E. ) ( Sigismund I (Sigismund I the Elder) wg D.O.T.W.A.C.A.G.H. ) ( Zygmunt I (Zygmunt Stary) wg N.G.R.B.I.N.S. ) ( Zygmunt Stary (Zygmunt I, Zygmunt) wg P.K.I.K.P. )
+                                                        1501-1506 (?-19.8.) ( Aleksander Jagiellończyk wg O.1531 )
+      Zygmunt I Stary            	                      1506-1548 ( wg D.Ś. i V.N.M.S.D. ) ( Sigismund The Elder (Sigismund I) wg V.K.T.H.O.H.E. ) ( Sigismund I (Sigismund I the Elder) wg D.O.T.W.A.C.A.G.H. ) ( Zygmunt I (Zygmunt Stary) wg N.G.R.B.I.N.S. ) ( Zygmunt Stary (Zygmunt I, Zygmunt) wg P.K.I.K.P. i O.1531 )
       			              	                            1507-1548 ( wg A.T.T.L.D.A.K. )
       					                                        przed 1520-? ( Zikmund I Starý wg E.P. )
                                                         przed 1525-? (10.5.-?) ( Zygmunt Stary wg O.K.C.J. )
@@ -31408,6 +31476,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
                                                         1529-1572 ( Zygmunt II wg N.G.R.B.I.N.S. )
                                                         przed 1552-po 1569 ( Zygmunt August wg K.P.S. )
                                                         przed 1550-? (7.12.-?) ( Zygmunt August wg W.P.P.K.O.S. )
+                                                        przed 1557-po 1571 ( Zygmunt August wg O.1531 )
   Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita , Rzeczpospolita Polska , Polish-Lithuanian Commonwealth , Poland-Lithuania )
     House of France
       Henryk Walezy                     	              1573-1575 ( wg D.Ś. i V.N.M.S.D. ) ( Henri de Valois wg V.K.T.H.O.H.E. ) ( Henry wg D.O.T.W.A.C.A.G.H. ) [King of France Henry III]
@@ -31421,7 +31490,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
                                                         1575-1586 ( wg V.N.M.S.D. )
                                                         1575/6-1586 ( Istvan Bathory (Stephen Bathory) wg V.K.T.H.O.H.E. )
       				                                          przed 1578-? ( Štěpán Báthory wg E.P. )
-                                                        ? ( Stefan wg Z.1205 ) ( wg W.P.P.K.O.S. )
+                                                        ? ( Stefan wg Z.1205 ) ( wg W.P.P.K.O.S. i O.1531 )
                                                         przed 1585-? ( Batory wg K.P.S. )
     House of Sweden ( Dynastia Wazów , Vasa family , Dom Wazów )
       Zygmunt III Waza                 	                1587-1632 ( wg D.Ś. i V.N.M.S.D. i N.G.R.B.I.N.S. ) ( Sigismund III Vasa (Sigismund Vasa) wg V.K.T.H.O.H.E. ) ( Sigismund III wg D.O.T.W.A.C.A.G.H. ) ( Zygmunt III wg P.K.I.K.P. ) [King of Sweden Sigismund]
@@ -31466,8 +31535,9 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
   Polish Republic ( II Rzeczpospolita , Druga Rzeczpospolita , Rzeczpospolita , RP )
     Józef Piłsudski			                                1918-? (14.11.-?) ( wg B.O.R.H. )
                                                         1918-po 1920 ( wg V.K.T.H.O.H.E. )
-                                                        ? ( Piłsudski wg T.R.L.Z.S.L.R.S.B. i B.S.P. ) ( Józef (Piłsudski) wg W.P.P.K.O.S. )
+                                                        ? ( Piłsudski wg T.R.L.Z.S.L.R.S.B. i B.S.P. i S.S.M.C. ) ( Józef (Piłsudski) wg W.P.P.K.O.S. )
     presidents
+      Narutowicz                                        ? ( wg S.S.M.C. )
       Stanisław Wojciechowski                           przed 1923-po 1924 ( wg W.P.P.K.O.S. )
       Ignacy Mościcki                                   przed 1931-? ( wg W.P.P.K.O.S. )
     premiers
@@ -31489,7 +31559,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
                                                         przed 1981-1989 ( Jaruzelski wg K.W.P.M.N.C. )
     premiers
       Piotr Jaroszewicz                                 ? ( wg W.P.P.K.O.S. )
-  Rzeczpospolita Polska
+  Rzeczpospolita Polska ( Rzeczpospolita )
     Wojciech Jaruzelski                                 1989-? ( Jaruzelski wg K.W.P.M.N.C. )
     Lech Wałęsa                                         ? ( Wałęsa wg T.R.L.Z.S.L.R.S.B. i K.W.P.M.N.C. )
                                                         przed 1992-? ( Wałęsa wg J.P.A. )
@@ -31553,6 +31623,9 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
       Mazowsze 1047
       Nikopolis 1396
       Mohacz 1526
+      Szkice spod Monte Cassino
+      Wojna Czu z Han 209-202 p.n.e.
+      Obertyn 1531
 
 Księstwo Połockie ( Principality of Polatsk , Polocké knížectví , Księstwo połockie )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -33175,6 +33248,7 @@ Rzym ( Rome , Řím )
     									                                  233 i 228 i 217 i 215 i 214 ( Quintus Fabius Maximus Cunctator wg E.P. )
     									                                  ? i 215 ( Quintus Fabius Maximus wg Z.V.C. )
                                                         ? i 217 ( wg K.1.1.P.N.E. )
+                                                        ? ( Kwintus Fabiusz Maksymus Kunktator wg W.C.Z.H.2.2.P.N.E. )
     P. Flaminiusz                                       223 ( wg B.W.5.P.N.E. )
     Gajusz Flaminiusz   				           		          223 i 217 ( wg D.R. )
     							           		                        217 ( wg H.P.S. ) ( Flaminius wg Z.V.C. )
@@ -33205,7 +33279,7 @@ Rzym ( Rome , Řím )
     							           		                        205 i 171 ( wg K.R.I.C.R. )
                   							          	            204 ( Publiusz Korneliusz Scypio wg H.P.S. )
     									                                  205 ( Publius Cornelius Scipio wg Z.V.C. )
-                                                        ? ( Publius Cornelius Scipio wg Ř.S.J.Ď.S. ) ( Scypion Afrykański wg B.5.5.P.N.E. )
+                                                        ? ( Publius Cornelius Scipio wg Ř.S.J.Ď.S. ) ( Scypion Afrykański wg B.5.5.P.N.E. i W.C.Z.H.2.2.P.N.E. )
     Publiusz Licyniusz Krassus			           		      205 ( wg K.R.I.C.R. ) ( Publiusz Licyniusz Krassus Diwes (Publiusz Licyniusz Krassus Dives, Publius Crassus Dives) wg K.P.N.A. )
     Publiusz Semproniusz Tuditanus			        	      204 ( wg K.R.I.C.R. )
     Gajusz Serwiliusz Geminus			           		        202 ( wg K.R.I.C.R. )
@@ -33446,7 +33520,7 @@ Rzym ( Rome , Řím )
                                                         59 i 49-44 ( Gajusz Juliusz Cezar wg S.C. )
                                                         59 i 49-44 (?-15.3.) ( wg H.P.S. i K.R.I.C.R. i Z.V.C. )
                                                         przed 49-po 48 ( wg B.M. )
-                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. i K.6. i Z.P.B.W.A. i O.I.W. i K.1274.P.N.E. ) ( Cezar wg Z.N.E. i K.1018 i C.K.F. i G.316.P.N.E. i W.4.3.P.N.E. ) ( Cezar (Juliusz, G. Juliusz Cezar) wg G.R.I.L. ) ( Julius Caesar wg S.A.B.H.O.H. i O.M.T.O.A.T.E.O.I.L. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. ) ( Julius Caesar (Caesar) wg U.E. i S.V.D.K.V. i P.U.D. i T.F.O.R. i T.H.R.E.A.T.Y.O.E.H. ) ( Gajusz Juliusz wg P.U.D.D.L.D.R.I.P. ) ( Caesar wg H.O.W.P. i C.A.T.B.D.H.T.B.C.O.T. i C.A.R.T.G.O.S.K. i H.T.S.I.A.N.A.O.M.M. i M.T.R.A.F.O.A.K. ) ( C. Iulius Caesar (Caesar) wg S.N.A.S.E. )
+                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. i K.6. i Z.P.B.W.A. i O.I.W. i K.1274.P.N.E. ) ( Cezar wg Z.N.E. i K.1018 i C.K.F. i G.316.P.N.E. i W.4.3.P.N.E. i W.C.Z.H.2.2.P.N.E. ) ( Cezar (Juliusz, G. Juliusz Cezar) wg G.R.I.L. ) ( Julius Caesar wg S.A.B.H.O.H. i O.M.T.O.A.T.E.O.I.L. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. ) ( Julius Caesar (Caesar) wg U.E. i S.V.D.K.V. i P.U.D. i T.F.O.R. i T.H.R.E.A.T.Y.O.E.H. ) ( Gajusz Juliusz wg P.U.D.D.L.D.R.I.P. ) ( Caesar wg H.O.W.P. i C.A.T.B.D.H.T.B.C.O.T. i C.A.R.T.G.O.S.K. i H.T.S.I.A.N.A.O.M.M. i M.T.R.A.F.O.A.K. ) ( C. Iulius Caesar (Caesar) wg S.N.A.S.E. )
                                                         ?-ok.44 ( wg T. )
                                                         59 i przed 48-44 ( ?-15.3. ) ( Caesar wg S.K. )
                                                         przed 47-po 44 ( wg S.H. )
@@ -34725,6 +34799,7 @@ Rzym ( Rome , Řím )
       Bibracte-Wogezy 58 p.n.e.
       Mercia - The Rise and Fall of a Kingdom
       Weje 405-396 p.n.e.
+      Wojna Czu z Han 209-202 p.n.e.
 
 Saamowie
   Svási                                                 ? ( wg F.L.P.D.Ś.W. )
@@ -36424,9 +36499,12 @@ Siuksowie ( Sioux , Dakota , Nadoweisiweg , Sjuksowie , Nadouessioux , Nakota , 
       Złoto gór czarnych - Ostatnia walka Dakotów
 
 Siung Nu ( Hiung Nu , Xiongnu , Hunnu )
-  Mao Tun ( Mei Tei )                                   ok.200 p.n.e.
+  Tumen                                                 przed 215 p.n.e.-? ( wg W.C.Z.H.2.2.P.N.E. )
+  Mao Tun ( Mei Tei )                                   ok.200 ( wg H.C. )
+                                                        przed ok.200-? ( Mao Dun wg W.C.Z.H.2.2.P.N.E. )
   Bibliografia :
       Historia Chin
+      Wojna Czu z Han 209-202 p.n.e.
 
 Siunik
   Bibliografia :
@@ -38537,7 +38615,7 @@ Księstwo świdnickie
     Karol I Wielki ( Charlemagne )	                    800-814 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Karel Veliký wg D.B. ) ( Charles The Great wg V.K.T.H.O.H.E. ) ( Karol Wielki wg S.P.D.Z. ) ( Charles I (Charles I the Great, Charlemagne) wg D.O.T.W.A.C.A.G.H. ) ( Karol Wielki (Karol) wg O.I.W. )
                                                         800-? ( wg D.R. ) ( Karol Wielki wg K.R.I.C.R. i D.D.T. i K.W.N.I.W.D. i G.R.I.L. )
                                                         800-po 813 ( 23/4.12.-? ) ( Karel Veliký wg Z.S.A.V.E. )
-                                                        ? ( Karel Veliký wg F.B.C.A.R. i S.P. ) ( Karol Wielki wg O.A.O.C.E. i Z.N.E. i L.1241. i G.C.3000.L.N.O.I.W. i P.W.O.T. ) ( Karol Wielki (Karol) wg F.H.C.R. i N.I.B.W.XI.S. i B.D.K.B. ) ( Karel Veliký (Charles-Magne) wg M.I.Z.H.S.R. )
+                                                        ? ( Karel Veliký wg F.B.C.A.R. i S.P. ) ( Karol Wielki wg O.A.O.C.E. i Z.N.E. i L.1241. i G.C.3000.L.N.O.I.W. i P.W.O.T. i S.S.M.C. ) ( Karol Wielki (Karol) wg F.H.C.R. i N.I.B.W.XI.S. i B.D.K.B. ) ( Karel Veliký (Charles-Magne) wg M.I.Z.H.S.R. )
                                                         800-? (25.12.-?) ( Charles (Charles the Great) wg H.O.W.P. )
                                                         800-po 811 (24.12.-wiosna) ( Karol (Karol Wielki) wg H.W. )
                                                         800-814 (24.12.-?) ( wg N.T.V.S. )
@@ -39056,6 +39134,7 @@ Księstwo świdnickie
       Mohacz 1526
       How We Learn - The New Science of Education and the Brain
       Dějiny Indie
+      Szkice spod Monte Cassino
 
 Ta Jüe
   Bibliografia :
@@ -42259,12 +42338,12 @@ Węgry ( Hungary , Uhry , Hangryn , Hungarian State )
                                                         1458/64-1490 (?/(29.2./29.3.)-6.4.) ( Maciej Korwin (Maciej, Matthias, Matthias Corvinus, Hunyady, Matthias of Hungary) wg M.1526 )
     Dynastia Jagiellonów ( House of Poland , Jagellonci , Jagiellon family , Jagiellonians , Jagiellonowie , The Jagiellonians , Ród Jagiellonów , Jagellonians )
       Władysław II          	                          1490-1516 ( wg V.N.M.S.D. i D.Ś. ) ( Ladislas Jagiellon wg V.K.T.H.O.H.E. ) ( Vladislas II wg D.O.T.W.A.C.A.G.H. ) ( Vladislav II. Jagellonský wg S.V.D.K.V. ) ( Władysław Jagiellończyk (Władysław II Jagiellończyk, Władysław, Rex Bene, Król "Dobrze") wg K.P.S. ) [King of Bohemia Władysław II]
-                                                        1490-? ( Vladislav II wg Z.S.A.V.E. )
+                                                        1490-? ( Vladislav II wg Z.S.A.V.E. ) ( Władysław wg O.1531 )
                                                         1490-1506 ( Władysław Jagiellończyk (Władysław) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1491-po 1515 (7.11.-22.7.) ( Vladislav Jagellonský (Vladislav, Vladislav II.) wg M.I.Z.H.S.R. )
                                                         1490/1-1516 (?/przed 7.12.-13.3.) ( Władysław Jagiellończyk (Jagiellończyk, Władysław, Jagiellon, "Dobrze", Władysław II Jagiellończyk) wg M.1526 )
       Ludwik II                	                        1516-1526 ( wg V.N.M.S.D. i D.Ś. ) ( Louis II wg V.K.T.H.O.H.E. ) ( Ludwik II Jagiellończyk (Ludwik, Ludwik Jagiellończyk) wg K.P.S. ) ( Ludvík Jagellonský (Ludvík) wg M.I.Z.H.S.R. ) ( Louis II (Louis) wg T.H.R.E.A.T.Y.O.E.H. ) ( Ludvík II. Jagellonský ( Ludvík Jagellonský ) wg S.V.D.K.V. ) [King of Bohemia Louis]
-                                                        ?-1526 ( ?-29.8. ) ( wg 100.N.V.S. i D.P.I.R.G. i H.W. )
+                                                        ?-1526 (?-29.8.) ( wg 100.N.V.S. i D.P.I.R.G. i H.W. ) ( Ludwik Jagiellończyk wg O.1531 )
                                                         ?-1526 ( Ludvík wg Z.S.A.V.E. )
                                                         przed 1514-po 1526 (?-22.8.) ( Ludwik wg S.II.W.I.J.C.Z.E.M.P. )
                                                         1508/16-1526 ( Louis II wg D.O.T.W.A.C.A.G.H. )
@@ -42276,6 +42355,7 @@ Węgry ( Hungary , Uhry , Hangryn , Hungarian State )
       				                                          1526-? ( ?.11.-? ) ( Jan Zápolský wg D.P.I.R.G. )
                                                         1526-1540 (5.11.-?) ( Jan I (Jan Zapolya, Zapolya, Jan Zopolya) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         1540-1542 ( Jan I Zapolya wg N.1396 )
+                                                        przed 1528-po 1531 (?-16.1.) ( Jan Zapolya wg O.1531 )
       Jan Zygmunt   	                                  1540-1570 ( wg D.Ś. ) ( John Sigismund wg D.O.T.W.A.C.A.G.H. )
                                                         1540-po 1565 (?-28.6.) ( Jan II wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1541-? (29.8.-?) ( wg M.1526 )
@@ -42288,6 +42368,7 @@ Węgry ( Hungary , Uhry , Hangryn , Hungarian State )
                                                         1526-? ( Ferdinand I. (Ferdinand) wg M.I.Z.H.S.R. )
                                                         1525/6-1564 ( Ferdinand I (Ferdinand I., Ferdinand) wg T.H.R.E.A.T.Y.O.E.H. )
                                                         1526/7-po 1540 (17.12./3.11.-?) ( Ferdynand Habsburg (Ferdynand) wg M.1526 )
+                                                        przed 1527-po 1531 (?-16.1.) ( Ferdynand Habsburg (Ferdynand) wg O.1531 )
       Maksymilian                      	                1564-1576 ( wg D.Ś. i V.N.M.S.D. )
       Rudolf                               	            1576-1608 ( wg D.Ś. )
                                                         1576-1612 ( wg V.N.M.S.D. )
@@ -42353,6 +42434,7 @@ Węgry ( Hungary , Uhry , Hangryn , Hungarian State )
       Mazowsze 1047
       Nikopolis 1396
       Mohacz 1526
+      Obertyn 1531
 
 Węgrzy ( Hungarians , Maďaři , Magyars , Hungarians , Ungari )
   Almos                                                 ? ( wg Z.1205 )
@@ -43983,5 +44065,7 @@ Bibliografia :
     [202] Mercia - The Rise and Fall of a Kingdom ; Annie Whitehead ; 2020
     [203] Weje 405-396 p.n.e. ; Daniel Gazda ; 2023
     [204] Wojna Czu z Han 209-202 p.n.e. ; Maciej Kuczyński ; 2024
+    [205] Szkice spod Monte Cassino ; Melchior Wańkowicz ; 1972
+    [206] Obertyn 1531 ; Marek Plewczyński ; 2020
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/

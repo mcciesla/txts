@@ -139,6 +139,7 @@ HISTORIA:
     Monte Cassino ; Melchior Wańkowicz
     Objavovanie Ameriky ; Nicholas Hordern , Simon Dresner , Martin Hillman
     Ród Indian Algonkinów ; Arkady Fiedler , Marek Fiedler
+    Szkice spod Monte Cassino ; Melchior Wańkowicz
     Zrod střední a východní Evropy , mezi Byzancí a Římem ; František Dvorník
 MATEMATYKA:
     LOGIKA:
@@ -385,6 +386,7 @@ POP.SCIENCE :
         Normanowie i Bizancjum w XI stuleciu ; Dariusz Piwowarczyk
         Northmen - The Viking Saga 793-1241 ; John Haywood
         O Krakowie Ci ja! - Historia Krakowa inaczej ; Antoni Wasilewski
+        Obertyn 1531 ; Marek Plewczyński
         Objavovanie Ameriky ; Nicholas Hordern , Simon Dresner , Martin Hillman
         Od Odry do Łaby ; Kazimierz Kaczmarek
         Oddział Majora Hubala ; Tadeusz Jurga
@@ -423,6 +425,7 @@ POP.SCIENCE :
         Svaté války - Dějiny křižových výprav ; Christopher Tyerman
         Svět helénismu ; Pavel Oliva
         Syn Smoka , Fragmenty Zapisków Historyka ; Sy-ma Ts´ien
+        Szkice spod Monte Cassino ; Melchior Wańkowicz
         Table of Monarchs of Chinese Successive Dynasties ; China Nationality Art Photograph Publishing House
         Tamerlane - Sword of Islam, Conqueror of the World ; Justin Marozzi
         The Holy Roman Empire - A Thousand Years of Europe's History ; Peter H. Wilson
