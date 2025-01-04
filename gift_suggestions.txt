@@ -1,5 +1,4 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
-      - The Three-Body Problem (Problem trzech ciał/Problém tří těles) - Liu Cixin - Karolina
       - Life Ascending: The Ten Great Inventions of Evolution - Nick Lane
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
@@ -27,7 +26,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy - Richard Hanania
       - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
       - The Empire of the Steppes: A History of Central Asia - René Grousset
-      - Poczet faraonów - Bogusław Kwiatkowski - Magda
       - Masters of Doom - David Kushner
       - Babilon 729-648 p.n.e. - Piotr Biziuk
       - Wojny markomańskie 162-185 n.e. - Marek Olędzki
@@ -38,7 +36,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Crotone 982 - Robert F. Barkowski
       - Benewent 275 p.n.e. - Krzysztof Kęciek
       - Farsalos 48 p.n.e. - Romuald Romański
-      - Chocim 1673 - Damian Orłowski
       - Kynoskefalaj 197 p.n.e. - Krzysztof Kęciek
       - Magnezja 190 p.n.e. - Krzysztof Kęciek
       - Termopile 480 p.n.e. - Paweł Kupsik
@@ -46,7 +43,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Strategy of Conflict - Thomas C. Schelling
       - Proofs from THE BOOK - Martin Aigner, Günter M. Ziegler
       - Feynman Lectures On Computation - Richard P. Feynman
-      - Lechowe Pole 955 - Robert F. Barkowski
       - Adrianopol 378, rzeka Frigidus 394 - Daniel Gazda
       - Gaugamela 331 p.n.e. - Edward Dąbrowa
       - Ipsos 301 p.n.e - Grzegorz Lach
@@ -91,7 +87,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Niemcza 1017 - Paweł Rochala
       - Połock 1579 - Dariusz Kupisz
       - Grenada 1492 - Roman Warszewski
-      - Manzikert 1071 - Stanisław Rek
       - Oliwa 1627 - Eugeniusz Koczorowski
       - Wiedeń 1683 - Leszek Podhorodecki
       - Moskwa 1617-1618 - Andrzej Adam Majewski
@@ -238,10 +233,15 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
                 - Wejście na orbitę - Magda
     Thorgal - wszystkie komiksy oprocz :
                                   - 1. Zdradzona czarodziejka
-                                  - 2. Wyspa wśród lodów - Magda
+                                  - 2. Wyspa wśród lodów
                                   - 3. Nad jeziorem bez dna
-                                  - 4. Czarna galera - Magda
+                                  - 4. Czarna galera
+                                  - 5. Ponad krainą cieni
+                                  - 7. Gwiezdne dziecko
+                                  - 8. Alinoe
                                   - 9. Łucznicy - Magda
+                                  - 10. Kraina Qa
+                                  - 11. Oczy Tanatloca
                                   - 18. Słoneczny miecz
                                   - 19. Niewidzialna forteca
                                   - 20. Piętno wygnańców
@@ -255,7 +255,6 @@ movies - The Act of Killing - Joshua Oppenheimer
        - The Climb - Donald Shebib - 1986
 mountains
   - mobile power bank with solar panels
-  - swiss knife (small)
   - container that would prevent accidental switching on of headlamp
 other
   - printed and framed(or otherwise prepared for hanging on the wall) : https://github.com/usnish/biochemical-pathways-poster/blob/master/prebuilt_hires.png
