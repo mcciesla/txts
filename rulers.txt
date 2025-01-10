@@ -4364,7 +4364,7 @@ Bawaria ( Bavaria , Bavorsko , Bayern )
   Leopold         	                                    899-ok.940 ( wg V.N.M.S.D. )
   Ludolf            	                                  ? ( wg Z.S.A.V.E. )
   Luitpold                                              ?-907 ( wg O.I.W. )
-  Księstwo Bawarii ( Duchy of Bavaria , The Duchy of Bavaria , Bavorské vévodství )
+  Księstwo Bawarii ( Duchy of Bavaria , The Duchy of Bavaria , Bavorské vévodství , Księstwo bawarskie )
     Dynastia Luitpoldyngów ( Liutpolding House , Luitpoldingowie )
       Arnulf                 	                          907-937 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Arnulf of Bavaria (Arnulf von Bayern, Arnulf 'the Evil') wg T.H.R.E.A.T.Y.O.E.H. ) [King of Germany]
       			   	                                        907-937 (?-14.7.) ( wg Z.S.A.V.E. )
@@ -4386,6 +4386,7 @@ Bawaria ( Bavaria , Bavorsko , Bayern )
                                                         ?-995 ( Henryk Kłótnik wg S.P.D.Z. )
                                                         ? ( Henryk II wg O.I.W. )
                                                         958-976 i przed 984-995 ( Heinrich II 'the Quarrelsome' (Heinrich II, Heinrich the Quarrelsome, Heinrich II 'the Quarrelsome' of Bavaria, Heinrich 'the Quarrelsome') wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 973-? ( Henryk Kłótnik (Kłótnik, Bawarczyk) wg K.G.1003 )
       Otto I Szwabski  	                                976-982 ( wg D.Ś. ) ( Otto I of Swabia wg D.O.T.W.A.C.A.G.H. ) [Duke of Swabia Otton]
                                                         ?-982 ( Otton wg O.I.W. )
     Dynastia Luitpoldyngów ( Liutpolding House )
@@ -4397,6 +4398,7 @@ Bawaria ( Bavaria , Bavorsko , Bayern )
                                                         przed 1002-? ( Henryk II (Henryk) wg K.1018 )
                                                         ? ( Henryk II Święty wg wg Z.1205 )
                                                         995-? ( Henry II (Henry, Heinrich II.) wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 1002-po 1002 (?.1.-?.6.) ( Henryk (Ludolfinga, Bawarczyk, Henry) wg K.G.1003 )
     Dynastia luksemburska ( House of Luxemburg )
       Henryk V           	                              1004-1009 i 1017-1026 ( wg D.Ś. ) ( Henry V wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1005-? ( wg B.S. )
@@ -4597,6 +4599,7 @@ Bawaria ( Bavaria , Bavorsko , Bayern )
       The Holy Roman Empire - A Thousand Years of Europe's History
       Fontenoy 841
       Nikopolis 1396
+      Kraj Głomaczów 1003
 
 Bayeux
   Harold                                                ? ( wg F.L.P.D.Ś.W. )
@@ -4931,27 +4934,48 @@ Biała Orda ( White Horde , Blue Horde , Błękitna Orda , Kok Orda )
       Serce Azji
       Tamerlane - Sword of Islam, Conqueror of the World
 
-Biała Serbia ( Sorabowie , Serbowie połabscy )
+Biała Serbia ( Sorabowie , Serbowie połabscy , Serbowie , Sorbowie )
   Dervan           	                                    przed 630/1-po 632 ( Derwan wg S.P.D.Z. )
                                                         przed 632-? ( wg Z.S.A.V.E. )
                                                         ok.625 ( Derwan wg Z.N.E. )
                                                         przed 631-po 632 ( Derwan wg B.S. )
-  Miliduch		                                          ?-806 ( wg Z.S.A.V.E. i S.P.D.Z. i B.S. )
+                                                        ok.631 ( Derwan wg K.G.1003 )
+  Miliduch		                                          ?-806 ( wg Z.S.A.V.E. i S.P.D.Z. i B.S. i K.G.1003 )
   Tunglo             	                                  przed 826-? ( wg Z.S.A.V.E. )
                                                         przed 826-? (?.10.-?) ( Tęgło wg S.P.D.Z. )
   Sławibor                                              830-? ( wg S.P.D.Z. )
   Zistibor            	                                ? ( wg Z.S.A.V.E. )
                                                         ?-858 ( Cześcibór wg S.P.D.Z. )
-  Koledzicy ( Koledzice )
-    Ciemysł                                             ?-839 n.e. ( wg S.P.D.Z. i B.S. )
+                                                        przed 857-? ( Cześcibor wg K.G.1003 )
   Chudzicy ( Chudzice )
     Kuchawic                                            przed 955 n.e.-? (10.8.-?) ( wg S.P.D.Z. )
+                                                        przed 955-? ( wg K.G.1003 )
                                                         ? ( Kuchawica wg B.S. )
+  Czerwiszczanie ( Serbiszczanie )
+  Dobna
+  Koledzicy ( Koledzice )
+    Ciemysł                                             ?-839 n.e. ( wg S.P.D.Z. i B.S. )
+                                                        ? ( wg K.G.1003 )
+  Gera
+  Łużyczanie
+  Nice
+  Nielecicy
+  Orle
+  Plisni
+  Puonzowa ( Ponzowa )
+  Słupianie
+  Strupenice
+  Susłowie
+  Tuchurini
+  Weta
+  Żarowianie
+  Żyrmąty
   Bibliografia :
       Zrod střední a východní Evropy
       Zapomianie narody Europy
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
+      Kraj Głomaczów 1003
 
 Orda białogrodzka
   Bibliografia :
@@ -5002,8 +5026,10 @@ Bijapur Kingdom
 Marchia Billungów
   Ród Billungów
     Herman Billung                                      ok.936-po 955 ( Herman wg O.I.W. ) [Duke of Saxony]
+                                                        ? ( Hermann Billung wg K.G.1003 )
   Bibliografia :
       Otton I Wielki
+      Kraj Głomaczów 1003
 
 Bingen
   Bibliografia :
@@ -5745,6 +5771,7 @@ Bremy ( Brémy , Hamburg-Brémy , Hamburg-Bremen )
                                                         przed 935-? ( wg F.L.P.D.Ś.W. )
     Adaldag                                             przed 937-po 964 (?.9.-?.7.) ( wg O.I.W. )
                                                         ? ( wg F.L.P.D.Ś.W. )
+    Libencjusz                                          przed 1002-? (24.7.-?) ( Liebezo wg K.G.1003 )
     Unwan                                               przed 1022-? ( wg F.L.P.D.Ś.W. )
     Alebrand                                            1035-1043 ( wg S.N.A.S.E. )
     Adalbert of Hamburg                                 ?-1072 ( wg N.T.V.S. )
@@ -5762,6 +5789,7 @@ Bremy ( Brémy , Hamburg-Brémy , Hamburg-Bremen )
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Rugia 1168
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
 
 Księstwo Brenny ( Księstwo Brenneńskie )
   Mojmir ( Meinfryd )                                   ?-1127 n.e. ( wg S.P.D.Z. )
@@ -8343,6 +8371,7 @@ Księstwo cieszyńskie
     Włodko Głogowski                                    ? ( Władysław cieszyńsko-głogowski wg K.P.S. ) [Książę głogowski]
     Przemysł II                                         przed 1460-1477 ( Przemko z Cieszyna (Przemysław cieszyński, Przemysł II cieszyńsko-głogowski, Przemysł II cieszyński, Przemysł) wg K.P.S. ) [Książę głogowski]
     Kazimierz II                                        1460/77-1528 (?-13.12.) ( Kazimierz cieszyński (Kazimierz, Casimirus, Kazimierz II cieszyński, Kazimir II.) wg K.P.S. ) [Książę opawski] [Książę głogowski] [Książę oleśnicki] [Książę pszczyński]
+                                                        ? ( Kazimierz II cieszyński wg O.1531 )
     Wacław                                              ? ( wg K.P.S. )
     Wacław Pogrobowiec                                  1528-po 1570 ( Wacław wg K.P.S. )
     Fryderyk Kazimierz                                  ? ( Fryderyk Kazimierz cieszyński wg K.P.S. )
@@ -8351,6 +8380,7 @@ Księstwo cieszyńskie
       Litwa - Początki Państw
       Książęta piastowscy Śląska
       Piastowie. Walka o tron 1138–1320
+      Obertyn 1531
 
 County of Cilli ( Hrabstwo Celje , Hrabstwo Cilli )
   Herman II                                             przed 1396-1435 (25.9.-?) ( Herman Cilli wg N.1396 )
@@ -8905,11 +8935,12 @@ Czechy ( Čechy , Bohemia , Böhmen )
     Dynastia Sławnikowiców
       Slavník                                	          przed 981 n.e.-? ( wg Z.S.A.V.E. )
       Soběbor ( Soběslav )		                          przed 992-po 995 ( wg Z.S.A.V.E. )
-  Księstwo Czech
-    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids )
+  Księstwo Czech ( Herzogtum Böhmen )
+    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids , Państwo Przemyślidów , Přemyslovský stát , Rod Přemyslovců )
       Borzywoj I                             	          870-895 ( wg D.Ś. )
                                                         przed ok.870-ok.895 ( Bořivoj I wg D.O.T.W.A.C.A.G.H. )
       				           	                              ? ( Bořivoj wg Z.S.A.V.E. )
+                                                        przed 872/ok.860-? ( Borzywoj wg K.G.1003 )
       Spitygniew                             	          895-912 ( wg D.Ś. )
       				     	                                    894-915 ( Spityhněv wg D.P.I.R.G. )
       				         	                                ? ( Spityhněv wg Z.S.A.V.E. )
@@ -8939,6 +8970,7 @@ Czechy ( Čechy , Bohemia , Böhmen )
                                                         ok.929/35-ok.972 ( Boleslav I (Boleslav I the Cruel) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 936-972 ( Bolesław I (Bolesław, Boneszlawo) wg O.I.W. )
                                                         ok.929/35-972 ( wg Z.1205 )
+                                                        przed 936-? ( Bolesław Okrutny (Przemyślida) wg K.G.1003 )
       Bolesław II Pobożny              	                972-999 ( wg D.Ś. i Z.1205 ) ( Bolesław II Przemyślida (Bolesław II) wg O.I.W. ) ( Boleslav II wg D.P.I.R.G. )
       				     	                                    przed 975-po 995 ( Boleslav II wg Z.S.A.V.E. )
                                                         przed 984-? ( Bolesław II  Srogi wg Z.N.E. )
@@ -8946,23 +8978,31 @@ Czechy ( Čechy , Bohemia , Böhmen )
                                                         przed 976-po 992 ( Bolesław II wg B.S. )
                                                         ok.972-999 ( Boleslav II (Boleslav II the Pious) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 995-? (28.9.-?) ( Bolesław wg P.W.O.T. )
+                                                        przed 973-999 (?-początek) ( Bolesław II Przemyślida (Boleslav II., Przemyślida) wg K.G.1003 )
       Bolesław III Rudy                  	              999-1002 i 1003 ( wg D.Ś. ) ( Boleslav III (Boleslav III the Red) wg D.O.T.W.A.C.A.G.H. )
       				     	                                    999-1002 i 1003-? ( Boleslav III wg Z.S.A.V.E. )
                                                         przed 1003-? ( Bolesław Rudy wg P.W.O.T. )
+                                                        999-1002 i 1003 (?-wiosna/lato i przed 9.2.-?.2/3/4.) ( Bolesław Rudy (Bolesław czeski, Bolesław młodszy, Bolesław, Boleslav III., Rudy, Przemyślida) wg K.G.1003 )
       Władywoj                               	          1002-1003 (wg D.Ś. ) ( Vladivoj wg D.O.T.W.A.C.A.G.H. )
       				     	                                    1002-1003 (?-początek) ( Vladivoj wg Z.S.A.V.E. )
+                                                        1002-1003 (przed 11.11.-?.1.) ( Włodziwoj (Vladivoj, Włodziwój) wg K.G.1003 )
       Jaromir                                    	      1003 i 1004-1012 i 1033-1034 ( wg D.Ś. ) ( Jaromír wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1007-po 1012 ( Jaromír wg Z.S.A.V.E. )
                                                         przed 1005-? ( wg B.S. )
                                                         ?-1035 ( wg P.W.O.T. )
+                                                        1004-? ( wg K.G.1003 )
+    Piastowie
       Bolesław I Chrobry                 	              1003-1004 ( wg D.Ś. ) ( Bolesław I wg D.O.T.W.A.C.A.G.H. ) [King of Poland Bolesław I Chrobry]
                                                         przed 1003-? ( Bolesław Chrobry (Chrobry) wg K.1018 )
                                                         ? ( Bolesław Chrobry (Bolesław) wg P.W.O.T. )
+                                                        1002/3-1004 (?/?.1/2/3/4.-po ?.8.) ( Bolesław Chrobry (Bolesław, Piast, Chrobry, Bolesław Chrobry Wielki, Bolesław I Wielki, Bolesław I Chrobry Wielki, Mieszko, Bulizlavus, Bolesław Wielki, Bolesław polski, Bolesław I. von Polen, Bolesław I-szy Wielki) wg K.G.1003 )
+    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids , Państwo Przemyślidów , Přemyslovský stát , Rod Přemyslovců )
       Oldrzych ( Ulrych )                 	            1012-1033 ( wg D.Ś. ) ( Ulrich wg D.O.T.W.A.C.A.G.H. )
       				      	                                  przed 1014-1033 i ?-1034 (? i ?-9.11.) ( Oldřich wg Z.S.A.V.E. )
                                                         przed 1015-1034 ( Udalryk wg B.S. )
                                                         przed 1017-po 1031 ( wg K.1018 )
                                                         ? ( Udalryk wg Z.1205 ) ( Uldaryk wg F.S.B.1066 )
+                                                        przed 1015-? ( Udalryk wg K.G.1003 )
       Brzetysław I                            	        1034-1055 ( wg D.Ś. ) ( Břetislav I wg D.O.T.W.A.C.A.G.H. )
       				      	                                  1035-1055 ( Břetislav I wg D.P.I.R.G. )
       				      	                                  przed 1035-po 1044 ( Břetislav wg Z.S.A.V.E. )
@@ -8981,13 +9021,13 @@ Czechy ( Čechy , Bohemia , Böhmen )
                                                         przed  1068-1085 (15.6.-?) ( Wratysław wg P.W.O.T. )
                                                         ?-1085 ( Wratislav II wg T.H.R.E.A.T.Y.O.E.H. )
                                                         przed 1062-1086 ( Wratysław wg M.1047 )
-  Królestwo Czech ( The Kingdom of Bohemia , Království české , Kingdom of Bohemia )
-    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids )
+  Królestwo Czech ( The Kingdom of Bohemia , Království české , Kingdom of Bohemia , Koruna česká , Królestwo czeskie , Koruna Česká , Królestwo Czeskie )
+    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids , Państwo Przemyślidów , Přemyslovský stát , Rod Přemyslovců )
       Wratysław II ( I )                     	          1085-1092 ( wg D.Ś. )
                                                         1086-1092 ( Vratislav II (Vratislav I) wg D.O.T.W.A.C.A.G.H. )
                                                         1085-? ( Wratysław wg P.W.O.T. ) ( Wratislav II wg T.H.R.E.A.T.Y.O.E.H. )
                                                         1086-? ( Wratysław wg M.1047 )
-  Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids )
+  Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids , Państwo Przemyślidów , Přemyslovský stát , Rod Přemyslovců )
     Konrad                                  	          1092 ( wg D.Ś. ) ( Conrad wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( wg Z.1205 )
     Brzetysław II                           	          1092-1100 ( wg D.Ś. ) ( Břetislav II wg D.O.T.W.A.C.A.G.H. )
@@ -9000,6 +9040,7 @@ Czechy ( Čechy , Bohemia , Böhmen )
                                                         ?-1109 (?-21.9.) ( Świętopełk Przemyślida wg B.S. )
                                                         przed 1108-1109 (?-21.9.) ( Światopełk wg B.K.1.1. )
                                                         przed 1108-? (28.10.-?) ( wg P.W.O.T. )
+                                                        przed 1109-? ( wg K.G.1003 )
     Otton                                               1109 (?-?.12.) ( wg B.S. )
     Borzywoj                                            1109-1110 (?.12.-?) ( wg B.S. )
     Władysław I                             	          1109-1117 i 1120-1125 ( wg D.Ś. ) ( Władysław wg W.W.K.R. ) ( Vladislav I wg D.O.T.W.A.C.A.G.H. )
@@ -9019,14 +9060,14 @@ Czechy ( Čechy , Bohemia , Böhmen )
                                                         przed 1146-po 1157 (?.7.-lato) ( Władysław wg K.P.S. )
                                                         przed 1157-? (22.8.-?) ( Władysław II Przemyślida wg R.1168 )
                                                         ?-1158 ( Vladislav II (Vladislav of Bohemia) wg T.H.R.E.A.T.Y.O.E.H. )
-  Królestwo Czech ( The Kingdom of Bohemia , Království české , Kingdom of Bohemia )
-    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids )
+  Królestwo Czech ( The Kingdom of Bohemia , Království české , Kingdom of Bohemia , Koruna česká , Królestwo czeskie , Koruna Česká , Królestwo Czeskie )
+    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids , Państwo Przemyślidów , Přemyslovský stát , Rod Přemyslovců )
       Władysław II ( I )                     	          1158-1174 ( wg D.Ś. )
                                                         1158-? ( Vladislav II wg D.P.I.R.G. )
                                                         1158-1172 ( Vladislav wg F.B.C.A.R. ) ( Władysław II Przemyślida (Władysław) wg P.W.O.T. )
                                                         1158-1173 ( Vladislav II (Vladislav I) wg D.O.T.W.A.C.A.G.H. ) ( Vladislav of Bohemia (Vladislav II) wg T.H.R.E.A.T.Y.O.E.H. )
                                                         ? ( Vladislav II. (Vladislav) wg S.V.D.K.V. )
-  Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids )
+  Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids , Państwo Przemyślidów , Přemyslovský stát , Rod Přemyslovců )
     Fryderyk ( Bedřich )                	              1173 i 1178-1189 ( wg D.Ś. ) ( Frederick wg D.O.T.W.A.C.A.G.H. )
       				      	                                  1172-? i przed 1182-? ( wg F.B.C.A.R. )
                                                         przed 1188-? ( Fridrich wg S.V.D.K.V. )
@@ -9038,8 +9079,8 @@ Czechy ( Čechy , Bohemia , Böhmen )
     Przemysł Ottokar ( Otakar ) I 	                    1192-1193 i 1197-1198 ( wg D.Ś. ) ( Přemysl Ottokar I wg D.O.T.W.A.C.A.G.H. ) [King of Bohemia]
     Henryk Brzetysław                   	              1193-1197 ( wg D.Ś. ) ( Henry Břetislav wg D.O.T.W.A.C.A.G.H. )
     Władysław III Henryk              	                1197 ( wg D.Ś. ) ( Vladislav III Henry wg D.O.T.W.A.C.A.G.H. )
-  Królestwo Czech ( The Kingdom of Bohemia , Království české , České království , Kingdom of Bohemia )
-    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids )
+  Królestwo Czech ( The Kingdom of Bohemia , Království české , České království , Kingdom of Bohemia , Koruna česká , Królestwo czeskie , Koruna Česká , Królestwo Czeskie )
+    Dynastia Przemyślidów ( House of Přemysl , Přemyslovci , Přemyslovská dynastie , Przemyślidzi , Ród Przemyślidów , The Premyslid , Premyslids , The Premyslid family , Premyslid family , The Premyslids , Państwo Przemyślidów , Přemyslovský stát , Rod Přemyslovců )
       Przemysł Ottokar ( Otakar ) I	                    1198-1230 ( wg D.Ś. i V.N.M.S.D. ) ( Přemysl Ottokar I wg D.O.T.W.A.C.A.G.H. ) ( Ottokar I wg T.H.R.E.A.T.Y.O.E.H. )
       				            	                            1197-1230 ( Přemysl Otakar I wg D.P.I.R.G. )
                                                         przed 1211-po 1212 (?.9.-26.9.) ( Przemysł Otokar I (Ottokar I) wg F.H.C.R. )
@@ -9058,6 +9099,7 @@ Czechy ( Čechy , Bohemia , Böhmen )
                                                         przed 1254-1278 ( Przemysł-Ottokar II (Przemysł-Ottokar, Ottokar, Ottokar II, Przemysł Ottokar II) wg K.P.S. )
                                                         przed 1266-1278 ( Przemysł Ottokar II (Przemysł Ottokar, Przemysł) wg P.W.O.T. )
                                                         1253-1278 (?-26.8.) ( Ottokar II (Ottokar) wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        ?-1278 ( Przemysł II Otokar wg K.G.1003 )
       Wacław II                                  	      1278-1305 ( wg D.Ś. i V.N.M.S.D. ) ( Václav II wg Z.S.A.V.E. ) ( Wenceslas II wg D.O.T.W.A.C.A.G.H. ) [King of Poland Wacław II]
       				            	                            1271-1305 ( Václav II wg D.P.I.R.G. )
                                                         ? ( wg L.P.P. ) ( Wacław II Czeski wg Z.1205 )
@@ -9205,6 +9247,7 @@ Czechy ( Čechy , Bohemia , Böhmen )
       Nikopolis 1396
       Mohacz 1526
       Dějiny Indie
+      Kraj Głomaczów 1003
 
 Królestwo Czedi ( Čédi , Čéti )
   Bibliografia :
@@ -9572,10 +9615,11 @@ Dacja
       Bibracte-Wogezy 58 p.n.e.
 
 Dalemińcy ( Głomacze )
-  Siemił                                                przed 805 n.e.-? ( wg S.P.D.Z. i B.S. )
+  Siemił                                                przed 805 n.e.-? ( wg S.P.D.Z. i B.S. ) ( Semela wg K.G.1003 )
   Bibliografia :
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
+      Kraj Głomaczów 1003
 
 Dali
   Dynastia Duanów
@@ -13486,6 +13530,7 @@ Księstwo Frankonii ( Księstwo Franków , Duchy of Franconia , Franken )
   Eberhard                                              przed 928-939 ( wg S.P.D.Z. )
                                                         przed 929-? ( wg B.S. )
                                                         przed 936-939 (7.8.-2.10.) ( wg O.I.W. )
+  Konrad Czerwony                                       ?-955 ( Konrad wg K.G.1003 )
   Conrad II                                             1024-1039 ( Conrad (Conrad II the Elder, Conrad the Elder) wg T.H.R.E.A.T.Y.O.E.H. ) [Holy Roman Emperor]
   Henry III                                             1039-? ( Henry wg T.H.R.E.A.T.Y.O.E.H. ) [Holy Roman Emperor]
   Hugon                                                 ? ( wg O.I.W. )
@@ -13495,6 +13540,7 @@ Księstwo Frankonii ( Księstwo Franków , Duchy of Franconia , Franken )
       Otton I Wielki
       Furia ludzi Północy - Dzieje świata Wikingów
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
 
 Frankowie ( Franks , Frankové , Franken , The Franks )
   Kotzilis                        	                    ? ( wg Z.S.A.V.E. )
@@ -13616,6 +13662,7 @@ Frankowie ( Franks , Frankové , Franken , The Franks )
                                                         przed 632-639 ( wg S.P.D.Z. )
                                                         632-639 ( wg D.O.T.W.A.C.A.G.H. )
                                                         ?-639 ( wg G.R.I.L. )
+                                                        przed 631-po ok.634 ( Dagobert wg K.G.1003 )
       Austrasia
         Sigibert III                    	              639-656 ( wg D.Ś. )
          					                                      638-656 ( II wg V.N.M.S.D. )
@@ -13697,6 +13744,7 @@ Frankowie ( Franks , Frankové , Franken , The Franks )
                                                         ? ( Karol Wielki (Charlemagne) wg Arab. ) ( Karel Veliký wg O.L.S.S.Z.C.Z.A.O.V.H. ) ( Karol Wielki wg R.1168 ) 
                                                         przed 785-po 808 ( Charles wg M.T.R.A.F.O.A.K. )
                                                         768-814 (?-28.1.) ( Karol Wielki (Karol, Karl der Große) wg F.841 )
+                                                        przed 780-814 ( Karol Wielki wg K.G.1003 )
       Louis I The Pious                                 814-840 ( wg V.K.T.H.O.H.E. ) ( Ludwik I Pobożny wg F.S.B.1066 ) ( Louis I 'the Pious' wg T.H.R.E.A.T.Y.O.E.H. ) [Holy Roman Emperor]
                                                         przed 815-840 (zima-?) ( Ludwik I Pobożny wg S.P.D.Z. )
                                                         ? ( Ludwik Pobożny wg O.I.W. )
@@ -13735,6 +13783,7 @@ Frankowie ( Franks , Frankové , Franken , The Franks )
       The Holy Roman Empire - A Thousand Years of Europe's History
       Fontenoy 841
       Mercia - The Rise and Fall of a Kingdom
+      Kraj Głomaczów 1003
 
 Frankowie Nadreńscy ( Frankowie Rypuarscy )
   Genobaud                                              przed 289 n.e.-? ( wg C.K.F. )
@@ -13833,8 +13882,10 @@ Fryzja ( Frisia , Frísko )
 
 Abbey of Fulda
   Hadomir                                               927-956 ( wg T.H.R.E.A.T.Y.O.E.H. )
+  Erkanbald                                             przed 1003-? ( wg K.G.1003 )
   Bibliografia :
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
 
 Państwo Fundżów
   Bibliografia :
@@ -15050,8 +15101,10 @@ Hajasa ( Azzi-Hajasa )
 
 Bishopric of Halberstadt ( Biskupstwo Halberstadt )
   Hemmo                                                 ? ( wg F.841 )
+  Arnulf z Halbersztatu                                 przed 1002 n.e.-? (24.7.-?) ( wg K.G.1003 )
   Bibliografia :
       Fontenoy 841
+      Kraj Głomaczów 1003
 
 Halicz
   Rościsław                                             ? ( wg Z.1205 ) [Prince of Tmutarakan] [Prince of Księstwo włodzimiersko-wołyńskie]
@@ -15821,12 +15874,14 @@ Królestwo Hidżazu ( Kingdom of the Ḥijāz , Al-Hidżaz )
       Arabowie
 
 Biskupstwo Hildesheimu ( Bishopric of Hildesheim )
+  Bernward                                              przed 1002-po 1002 (30.4.-24.7.) ( Bernward z Hildesheimu (Benno) wg K.G.1003 )
   Hermann                                               ? ( wg R.1168 )
   Conrad of Hildesheim                                  1194-1198 ( Conrad I von Querfurt wg T.H.R.E.A.T.Y.O.E.H. )
   Clemens August of Bavaria                             1724-1761 ( wg T.H.R.E.A.T.Y.O.E.H. ) [Bishop of Münster Clemens August of Bavaria] [Bishop of Paderborn Clemens August of Bavaria] [Archbishop of Cologne Clemens August]
   Bibliografia :
       Rugia 1168
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
 
 Himera
   Terill             	                                  ok.480 p.n.e. ( wg F. )
@@ -16174,7 +16229,7 @@ Hunowie ( Huns , Kouen , Chouni , Huni , Hunové )
   Bleda                                    	            ok.442-445 ( wg P.C.R. i A.Č. )
       			              	                            434-445 ( wg 100.N.V.S. i K.R.I.C.R. i H. )
                                                         434-444 ( wg C.K.F. )
-  Imperium huńskie ( Hunská říše ) 
+  Imperium huńskie ( Hunská říše , Państwo huńskie ) 
     Attyla                                    	        ok.442-453 ( wg P.C.R. i A.Č. )
       					                                        434-453 ( wg 100.N.V.S. i K.R.I.C.R. i H. ) ( Attila wg D.B. ) ( Attyla-Siwobrody (Etzel) wg C.K.F. )
       					                                        ?-453 ( wg D.R. ) ( Attila wg Z.S.A.V.E. ) ( Attila (Attila the Hun, Atli) wg N.T.V.S. i T.H.R.E.A.T.Y.O.E.H. )
@@ -16972,9 +17027,11 @@ Italia ( Italy , Włochy , Itálie )
                                                         983-? ( Otto wg T.H.R.E.A.T.Y.O.E.H. )
     Arduin z Ivrey               	                      ? ( wg Z.S.A.V.E. ) ( Ardoin wg H.W. )
                                                         1002-1015 ( Arduin of Ivrea (Arduin) wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 1002-po 1003 ( Arduin z Ivrei wg K.G.1003 )
     Jindřich II ( Henryk II )      	                    ? ( wg Z.S.A.V.E. ) ( Henryk II Święty wg Z.1205 ) [Holy Roman Emperor]
                                                         ?-1024 ( wg S.P.D.Z. )
                                                         1002-1024 ( Henry II wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        1004-? (14.5.-?) ( Henryk (Heinrich II., Bawarczyk, Henryk II Święty, Henry, Ludolfinga, Henryk IV, Henryk II Ludolfinga, Hnery II) wg K.G.1003 )
     Konrad II                                           ?-1039 ( wg S.P.D.Z. )
                                                         przed 1027-1039 ( Conrad II (Conrad) wg T.H.R.E.A.T.Y.O.E.H. )
     Henryk III                                          ?-1056 ( wg S.P.D.Z. ) [Holy Roman Emperor]
@@ -17053,6 +17110,7 @@ Italia ( Italy , Włochy , Itálie )
       Conjectures and Refutations - The Growth of Scientific Knowledge
       Bibracte-Wogezy 58 p.n.e.
       Szkice spod Monte Cassino
+      Kraj Głomaczów 1003
 
 Państwo Ito
   Bibliografia :
@@ -19062,6 +19120,7 @@ Kart-Hadasztu
 Karyntia ( Korutany )
   Księstwo Karyntii ( Duchy of Carinthia )
     Otto of Worms                                       ?-1004 n.e. ( wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 1002-? (30.4.-?) ( Otton Karyncki wg K.G.1003 )
     Conrad                                              1004-1011 ( wg T.H.R.E.A.T.Y.O.E.H. )
     Adalbero                                            ok.1011-1035 ( Adalbero Eppensteiner (Adalberos von Kärnten) wg T.H.R.E.A.T.Y.O.E.H. )
     Conrad the Younger                                  1035-1039 ( Conrad 'the Younger' wg T.H.R.E.A.T.Y.O.E.H. )
@@ -19078,6 +19137,7 @@ Karyntia ( Korutany )
       Dynasties of the World - A Chronological and Genealogical Handbook
       Książęta piastowscy Śląska
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
 
 Karystos
   Bibliografia :
@@ -19817,7 +19877,7 @@ Kidaryci
   Bibliografia :
       Dzieje dawnych Turków
 
-Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedom of Kiev , Wielkie Księstwo Kijowskie , Kijev , Państwo Rurykowiczów , Kievan Russia )
+Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedom of Kiev , Wielkie Księstwo Kijowskie , Kijev , Państwo Rurykowiczów , Kievan Russia , Księstwo kijowskie , Ruś )
   Kij                                                   ? ( wg K.1018 )
   Askold                                                862-882 ( wg B.S. i K.1018 )
                                                         przed 866-ok.882 ( wg Z.S.A.V.E. )
@@ -19881,7 +19941,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         970-? ( Jaropolk wg S.N.A.S.E. )
     Święty Włodzimierz I Wielki    	                    978-1015 ( wg D.Ś. ) ( Vladimír Svjatoslavič wg D.P.I.R.G. ) ( St Vladimir I (Vladimir I) wg D.O.T.W.A.C.A.G.H. ) ( Vladimir wg T.H.R.E.A.T.Y.O.E.H. )
                                                         980-1015 ( wg V.N.M.S.D. ) ( Vladimír wg D.B. ) ( Vladimír I Svjatoslavič wg Z.S.A.V.E. ) ( Valdemar (Volodimir, Volodymyr The Great) wg V.K.T.H.O.H.E. ) ( Vladimir the Great (Vladimir, Vladimir I) wg N.T.V.S. )
-      					                                        ? ( Vladimír I Svjatoslavič wg E.P. ) ( Włodzimierz Wielki wg L.P.P. i F.S.B.1066 ) ( Włodzimierz Wielki (Włodzimierz) wg J.P.1242 ) ( Włodzimierz wg O.I.W. )
+      					                                        ? ( Vladimír I Svjatoslavič wg E.P. ) ( Włodzimierz Wielki wg L.P.P. i F.S.B.1066 i K.G.1003 ) ( Włodzimierz Wielki (Włodzimierz) wg J.P.1242 ) ( Włodzimierz wg O.I.W. )
                                                         ?-1015 ( Włodzimierz Wielki (Włodzimierz I Wielki, Włodzimierz I Rurykowicz) wg N.G.R.B.I.N.S. )
                                                         przed 988-? ( Vladimír wg Ř.S.J.Ď.S. ) ( Włodzimierz wg N.I.B.W.XI.S. ) ( Vladimír Svjatoslavič (Vladimír) wg S.N.A.S.E. )
                                                         przed 981-po 986 ( Włodzimierz wg Z.N.E. )
@@ -19896,7 +19956,8 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         ?-1019 ( Światopełk wg B.S. ) ( Świętopełk Przeklęty (Świętopełk) wg M.1047 )
                                                         1015-1017 i 1018-1019 (?-?.1. i 15.8.-lato) ( Światopełk (Światopełk Przeklęty, Búrizlaf) wg K.1018 )
                                                         przed 1018-? ( Światopełk wg Z.1205 )
-                                                        ? ( Świętopełk wg F.L.P.D.Ś.W. i P.K.I.K.P. )
+                                                        ? ( Świętopełk wg F.L.P.D.Ś.W. i P.K.I.K.P. ) 
+                                                        1018-? ( Świętopełk ruski (Światopełk) wg K.G.1003 )
     Jarosław I Mądry                 	                  1019-1054 ( wg D.Ś. ) ( Jaroslav Moudrý wg D.P.I.R.G. i D.B. ) ( Yaroslav the Wise wg N.T.V.S. ) ( Yaroslav I (Yaroslav I the Wise) wg D.O.T.W.A.C.A.G.H. )
                                                         1015-1054 ( wg V.N.M.S.D. )
       				                                          przed 1017-po 1039 ( Jaroslav wg Z.S.A.V.E. )
@@ -19911,6 +19972,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         przed 1028-po 1044 ( Jarosław Mądry (Jarosław) wg F.S.B.1066 )
                                                         przed 1044-? ( Jarosław Mądry (Jarosław) wg P.W.O.T. )
                                                         1015-1018 i 1019-1054 ( Jarosław Mądry (Jarosław) wg M.1047 )
+                                                        przed 1018-? (22.7.-?) ( Jarosław Mądry (Jarosław, Rurykowicz) wg K.G.1003 )
     Mścisław I                                          przed 1024-po 1026 ( wg B.S. )
                                                         ? ( Mścisław wg F.L.P.D.Ś.W. )
                                                         1024-1036 ( Mścisław (Mściła) wg M.1047 )
@@ -19937,7 +19999,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
                                                         ? ( Świętopełk II (Światopełk) wg P.W.O.T. ) ( Świętopełk II wg M.1047 )
     Włodzimierz II Monomach       	                    1113-1125 ( wg D.Ś. ) ( Vladimír Monomach wg D.B. i Z.S.A.V.E. ) ( Vladimir II (Vladimir II Monomakh) wg D.O.T.W.A.C.A.G.H. ) ( Włodzimierz Monomach (Włodzimierz, Monomach) wg Z.1205 )
                                                         1114-1125 ( wg V.N.M.S.D. )
-                                                        ? ( Vladimír Monomach wg Ř.S.J.Ď.S. ) ( Włodzimierz Monomach wg N.I.B.W.XI.S. i J.P.1242 ) ( wg F.L.P.D.Ś.W. )
+                                                        ? ( Vladimír Monomach wg Ř.S.J.Ď.S. ) ( Włodzimierz Monomach wg N.I.B.W.XI.S. i J.P.1242 i K.G.1003 ) ( wg F.L.P.D.Ś.W. )
                                                         ?-1125 ( Włodzimierz Monomach (Włodzimierz II Monomach) wg N.G.R.B.I.N.S. ) ( Włodzimierz Monomach wg B.K.1.1. )
                                                         przed 1117-? ( Włodzimierz Monomach (Monomach) wg P.W.O.T. )
     Mścisław I                              	          1125-1132 ( wg D.Ś. i V.N.M.S.D. ) ( Mstislav wg Z.S.A.V.E. ) ( Mstislav I wg D.O.T.W.A.C.A.G.H. ) ( Mścisław Wielki (Mścisław I Harald, Mścisław I Wielki) wg Z.1205 )
@@ -20020,6 +20082,7 @@ Księstwo Kijowskie ( Kiev Rus , Rus , Kievan Rus , Ruś Kijowska , The Princedo
       Myriokefalon 1176
       The Holy Roman Empire - A Thousand Years of Europe's History
       Mazowsze 1047
+      Kraj Głomaczów 1003
 
 Kikapu ( Kickapoo )
   Bibliografia :
@@ -20884,6 +20947,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
       						        	                            ? ( Silvestr II wg Z.S.A.V.E. ) ( Sylvester II (Gerbert of Aurillac, Silvester II) wg T.H.R.E.A.T.Y.O.E.H. )
       				                                          999-? ( Silvestr II wg V.F.V. )
                                                         przed 1001-po 1002 (29.12.-jesień) ( Sylwester II wg K.1018 )
+                                                        ?-1003 (?-12.5.) ( Sylwester II wg K.G.1003 )
     Jan XVII                                           	1003 ( wg V.N.M.S.D. i Tapsella i N.I.B.W.XI.S. )
     Jan XVIII                                          	1004-1009 ( wg V.N.M.S.D. i N.I.B.W.XI.S. )
                                                     	  1003-1009 ( wg Tapsella )
@@ -21493,6 +21557,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
       Conjectures and Refutations - The Growth of Scientific Knowledge
       Dějiny Indie
       Mercia - The Rise and Fall of a Kingdom
+      Kraj Głomaczów 1003
 
 Kottúra ( Koddura )
   Svámidatta                                            ? ( wg D.I. )
@@ -23719,8 +23784,9 @@ Księstwo Łuckie ( Księstwo łuckie , Łuck )
 Marchia Łużycka ( Marchia Wschodnia , Margraviate of Lusatia )
   Hodon                                                 przed 972-po 974 (24.6.-?) ( Hodo wg B.S. )
                                                         przed 972-? ( wg O.I.W. )
-                                                        przed 972-? (24.6.-?) ( wg K.1018 )
+                                                        przed 972-? (24.6.-?) ( wg K.1018 ) ( Hodo wg K.G.1003 )
   Geron II                                              ?-1015 (?-1.9.) ( Gero II wg B.S. i K.1018 )
+                                                        przed 993-1015 ( Geron wg K.G.1003 )
   Dietrich II                                           przed 1160-? (?.8.-?) ( Dietrich (Dytryk) wg R.1168 )
   Konrad                                                przed 1209-? ( wg K.P.S. i P.W.O.T. )
   Bibliografia :
@@ -23730,6 +23796,7 @@ Marchia Łużycka ( Marchia Wschodnia , Margraviate of Lusatia )
       Książęta piastowscy Śląska
       Rugia 1168
       Piastowie. Walka o tron 1138–1320
+      Kraj Głomaczów 1003
 
 Maabar ( Var , Far )
   Bibliografia :
@@ -24145,6 +24212,7 @@ Magdeburg
     Adalbert                                            968-981 ( wg O.I.W. )
                                                         ? ( wg K.1018 i B.K.1.1. )
     Giselher                                            981-1004 ( wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 1002-? (24.7.-?) ( Gizyler wg K.G.1003 )
     Tagino                                              przed 1002-? (jesień-?) ( wg K.1018 )
     Walterd                                             przed 1012-? (?.8.-?) ( wg K.1018 )
     Norbert                                             przed 1131-po 1133 (koniec-?) ( wg B.K.1.1. )
@@ -24160,6 +24228,7 @@ Magdeburg
       Książęta piastowscy Śląska
       Rugia 1168
       Bolesław Krzywousty 1085-1138
+      Kraj Głomaczów 1003
 
 Magnésia nad Maiandrem
   Bibliografia :
@@ -25410,8 +25479,9 @@ Megiddo
       Huryci
 
 Bishopric of Meissen
+  Idzi z Miśni                                          przed 1002 n.e.-? (24.7.-?) ( wg K.G.1003 )
   Bibliografia :
-      The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
 
 Księstwo Meklemburgii ( Księstwo meklemburskie , Vévodství meklenburské , Duchy of Mecklenburg , Principality of Mecklenburg )
   Dynastia Niklotowiców ( Dynastia Niklotydów , Dynastia Niklotów )
@@ -25657,9 +25727,20 @@ Meroe
       Starożytne Cywilizacje
       Osudy lidských společností: Střelné zbraně, choroboplodné zárodky a ocel v historii
 
-Bishopric of Merseburg
+Bishopric of Merseburg ( Biskupstwo Merseburga )
+  Thietmar                                              1009-1018 (?-1.12.) ( Thietmar of Merseburg wg K.G.1003 )
   Bibliografia :
-      The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
+
+County of Merseburg
+  Ezykon z Merseburga                                   przed 1002 n.e.-? (24.7.-?) ( wg K.G.1003 )
+  Bibliografia :
+      Kraj Głomaczów 1003
+
+Marchia Merseburska
+  Zygfryd                                               ?-937 n.e. ( wg K.G.1003 )
+  Bibliografia :
+      Kraj Głomaczów 1003
 
 Merw
   Bibliografia :
@@ -25779,11 +25860,13 @@ Księstwo Mikulińskie
 
 Milczanie
   Sławibor                                              ? ( wg S.P.D.Z. )
+                                                        przed ok.860 n.e.-? ( wg K.G.1003 )
   Dobromir                                              przed 984-po 987 ( wg S.P.D.Z. )
                                                         ? ( wg K.1018 )
   Bibliografia :
       Słowianie połabscy - Dzieje zagłady
       Kijów 1018
+      Kraj Głomaczów 1003
 
 Milet ( Milétos , Mílétos )
   Neleus			                                          ? ( wg Z.Ř. )
@@ -25813,6 +25896,11 @@ Min Jüe ( Minyue )
   Bibliografia :
       Historia Chin
       Wojna Czu z Han 209-202 p.n.e.
+
+Bishopric of Minden
+  Ramward z Minden                                      przed 1002 n.e.-? (24.7.-?) ( wg K.G.1003 )
+  Bibliografia :
+      Kraj Głomaczów 1003
 
 Państwo minejskie ( Państwo Minejczyków , Minejczycy , Main )
   Bibliografia :
@@ -25845,11 +25933,16 @@ Missisaugasowie
 Miśnia ( Meissen )
   Marchia Miśnieńska ( Margraviate of Meissen )
     Thietmar                                            ? ( wg O.I.W. )
+    Rygdag                                              ?-985 n.e. ( wg K.G.1003 )
     Ekkehardinger family
-    Ekkehard                                            przed 993 n.e.-? ( wg B.S. )
+    Ekkehard                                            przed 993-? ( wg B.S. ) [Duke of Thuringia Ekkehard I]
                                                         ? ( Ekkehard I wg O.I.W. )
-                                                        985-1002 ( Ekkehard of Meissen (Ekkehard of Meißen) wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        985-1002 ( Ekkehard of Meissen (Ekkehard of Meißen) wg T.H.R.E.A.T.Y.O.E.H. ) 
+                                                        985-1002 (?-30.4.) ( Ekkehard I. (Ekkehard I) wg K.G.1003 )
+    Guncelin                                            1002-1009 ( Gunzelin (Gunzelin von Meissen) wg K.G.1003 )
     Herman I                                            przed 1018-po 1025 ( Herman wg K.1018 )
+                                                        ? ( Hermann wg K.G.1003 )
+    Ekkehard II                                         ? ( wg K.G.1003 )
     Wiprecht z Goitzsch                                 przed 1109-? ( wg B.S. )
                                                         ? ( Wiprecht z Groicza wg B.K.1.1. )
   Margrabstwo Miśni ( Margrabstwo Miśnieńskie , Míšeňské markrabství , Margraviate of Meissen )
@@ -25882,6 +25975,7 @@ Miśnia ( Meissen )
       Bolesław Krzywousty 1085-1138
       Piastowie. Walka o tron 1138–1320
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
 
 Mitanni ( Hanigalbat , Chanigalbat , Haligalbat , Maitani , Habingalbat , Nahrina , Hurri , Naharina , Porzecze )
   Kirta                   			                        ok.1600-ok.1580 ( wg S.B.W. )
@@ -26434,7 +26528,7 @@ County of Montpensier
   Bibliografia :
       Dynasties of the World - A Chronological and Genealogical Handbook
 
-Morawa ( Morawy , Moravia )
+Morawa ( Morawy , Moravia , Mähren , Morava )
   Księstwo Morawy
     Mojmír I		                                        przed 833 n.e.-? ( wg D.P.I.R.G. )
   Margrabstwo Moraw ( Moravské markrabství , Markrabství moravské , Margraviate of Moravia )
@@ -27542,19 +27636,20 @@ Niemcy ( Germany , Německo , Deutschland )
                                                         843/przed 843-po 873 ( Ludvík Němec (Ludvík, Ludvík II. Němec) wg S.N.A.S.E. )
                                                         840/3-876 ( Louis the German (Louis 'the German', Louis II, Louis II 'the German') wg T.H.R.E.A.T.Y.O.E.H. )
                                                         833/przed 840/843-? (przed 29.11./?/10.8.-?) ( Ludwik II Niemiecki (Ludwik II, Ludwik, Ludwig der Deutsche, Louis the German) wg F.841 )
+                                                        843-876 ( Ludwik wg K.G.1003 )
       Karlmann                                          ?-880 ( wg S.P.D.Z. ) ( Karloman wg Z.S.A.V.E. )
                                                         876-880 ( Karloman wg D.Ś. i Tapsella )
                                                         przed 870-? ( Karloman wg D.P.I.R.G. )
       Ludwik III Młodszy                                przed 877-882 ( Ludwik Młodszy wg S.P.D.Z. )
                                                         876-882 ( Ludwik III  wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Louis the Younger wg T.H.R.E.A.T.Y.O.E.H. )
                                                         przed 881-882 (?-?.8.) ( Ludwik III wg F.L.P.D.Ś.W. )
-                                                        ? ( Ludwik II "Młodszy" wg F.841 )
+                                                        ? ( Ludwik II "Młodszy" wg F.841 ) ( Ludwik III wg K.G.1003 )
       Karol Gruby                                       876-887 ( wg D.Ś. i Tapsella ) ( Charles III the Fat (Charles III, Charles III 'the Fat', Charles the Fat) wg T.H.R.E.A.T.Y.O.E.H. ) [Holy Roman Emperor Charles III]
                                                         882-887 ( wg V.N.M.S.D. )
                                                         881-887 ( Charles III (Charles III the Fat) wg D.O.T.W.A.C.A.G.H. )
                                                         882-po 884 ( Karol wg F.L.P.D.Ś.W. )
                                                         ?-887 ( Karel Tlustý wg S.N.A.S.E. )
-      Arnulf z Karyntii                                 ?-899 ( wg S.P.D.Z. ) [Holy Roman Emperor]
+      Arnulf z Karyntii                                 ?-899 ( wg S.P.D.Z. ) ( Arnulf wg K.G.1003 ) [Holy Roman Emperor]
                                                         887-899 ( Arnulf of Carinthia (Arnulf) wg N.T.V.S. i T.H.R.E.A.T.Y.O.E.H. ) ( Arnulf of Carinthia wg D.O.T.W.A.C.A.G.H. )
                                                         887-? ( Arnulf Korutanský wg Z.S.A.V.E. )
                                                         przed 891-? ( Arnulf wg S.V.D.K.V. ) ( Arnulf wg F.L.P.D.Ś.W. )
@@ -27570,14 +27665,14 @@ Niemcy ( Germany , Německo , Deutschland )
                                                         911-? ( Konrad I wg F.841 )
     Arnulf                                              920-? ( Arnulf of Bavaria wg O.I.W. )
   Królestwo Niemieckie ( Kingdom of Germany , Królestwo Niemiec , Francia orientalis , Regnum Teutonicum )
-    Dynastia saska ( Dynastia Ludolfingów , Dynastia Liudolfingów , Dynastia Ottonów , House of Saxony , Ludolfingowie , Sächsiches Haus , Ottonians , The Ottonians , Ottonian family , Liudolfinger family )
-      Henryk I                                          919-936 ( wg Z.N.E. ) ( Henryk I Ptasznik (Henryk) wg S.P.D.Z. i K.1018 ) ( Henryk I Ptasznik wg B.S. ) ( Henry I (Henry I the Fowler) wg D.O.T.W.A.C.A.G.H. ) ( Henry I (Henry I 'the Fowler', Henry, Heinrich I., Henry the Fowler) wg T.H.R.E.A.T.Y.O.E.H. ) [Holy Roman Emperor]
+    Dynastia saska ( Dynastia Ludolfingów , Dynastia Liudolfingów , Dynastia Ottonów , House of Saxony , Ludolfingowie , Sächsiches Haus , Ottonians , The Ottonians , Ottonian family , Liudolfinger family , Ludofingowie )
+      Henryk I                                          919-936 ( wg Z.N.E. ) ( Henryk I Ptasznik (Henryk) wg S.P.D.Z. i K.1018 ) ( Henryk I Ptasznik wg B.S. ) ( Henry I (Henry I the Fowler) wg D.O.T.W.A.C.A.G.H. ) ( Henry I (Henry I 'the Fowler', Henry, Heinrich I., Henry the Fowler) wg T.H.R.E.A.T.Y.O.E.H. ) ( Henryk I Ptasznik (Ludolfinga, Heinrich I., Henryk Ptasznik, Henryk) wg K.G.1003 ) [Holy Roman Emperor]
                                                         przed 934-? ( Henry the Fowler wg N.T.V.S. ) ( Henryk Ptasznik (Henryk I Ptasznik) wg F.L.P.D.Ś.W. )
                                                         przed 933-? ( wg L.1241. )
                                                         919-936 (?.5.-2.7.) ( Henryk (Henryk "Ptasznik", Henry I, Heinrich I) wg O.I.W. )
                                                         przed 929-? ( Henryk I Ptasznik wg R.1168 )
       Otto I                                            przed 938-? ( wg V.K.T.H.O.H.E. ) [Holy Roman Emperor]
-                                                        936-973 ( Otton I wg Z.N.E. ) ( Otto I (Otto I the Great) ( Otto I. (Otto, Otto der Grosse, Otto I 'the Great', Otto der Große) wg T.H.R.E.A.T.Y.O.E.H. ) wg D.O.T.W.A.C.A.G.H. )
+                                                        936-973 ( Otton I wg Z.N.E. ) ( Otto I (Otto I the Great) wg D.O.T.W.A.C.A.G.H. ) ( Otto I. (Otto, Otto der Grosse, Otto I 'the Great', Otto der Große) wg T.H.R.E.A.T.Y.O.E.H. ) ( Otton I (Otton I Wielki, Otton Wielki, Ludolfinga) wg K.G.1003 )
                                                         936-972/3 (7.8.-?) ( Otto I Wielki (Otton I, Otto) wg S.P.D.Z. )
                                                         przed 936-po 972 ( Otto I Wielki (Otton, Otton I, Otton I Wielki) wg B.S. )
                                                         przed 955-? ( Otton I wg L.1241. i R.1168 ) ( Otton I Wielki wg Z.1205 )
@@ -27589,14 +27684,17 @@ Niemcy ( Germany , Německo , Deutschland )
                                                         961/73-983 (17.5./?-?) ( Otton II (Otto II., Otton) wg O.I.W. )
                                                         przed 974-? ( Otton II (Otton) wg F.S.B.1066 )
                                                         961-983 (?-?.11.) ( Otto wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 978-983 ( Otton II wg K.G.1003 )
       Otton III                                         przed 983-1002 ( wg Z.N.E. ) [Holy Roman Emperor]
                                                         przed 984-1002 ( wg S.P.D.Z. )
                                                         983-1002 ( Otto III wg D.O.T.W.A.C.A.G.H. )
                                                         983-1002 (?.6.-23.1.) ( Otto III. (Otto III, Otto) wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 985-1002 (?-?.1.) ( Otton (Otto, Otto III.) wg K.G.1003 )
     Henryk Kłótnik                                      przed 984-? ( wg Z.N.E. )
                                                         ? ( Henryk II Kłótnik wg F.S.B.1066 )
                                                         983-985 ( Heinrich II 'the Quarrelsome' of Bavaria (Heinrich 'the Quarrelsome', Heinrich the Quarrelsome) wg T.H.R.E.A.T.Y.O.E.H. )
-    Dynastia saska ( Dynastia Ludolfingów , Dynastia Liudolfingów , Dynastia Ottonów , House of Saxony , Ottonians , The Ottonians , Ottonian family , Liudolfinger family )
+    Hermann Szwabski                                    1002 (przed 30.4.-po ?.7.) ( Hermann wg K.G.1003 ) [Duke of Swabia Hermann II]
+    Dynastia saska ( Dynastia Ludolfingów , Dynastia Liudolfingów , Dynastia Ottonów , House of Saxony , Ottonians , The Ottonians , Ottonian family , Liudolfinger family , Ludolfingowie , Ludofingowie )
       Heinrich II ( Henry II )                          1014-1024 ( wg V.K.T.H.O.H.E. ) [Holy Roman Emperor]
                                                         1002-po 1003 ( Henryk II wg Z.N.E. )
                                                         przed 1003-1024 ( Henryk II wg S.P.D.Z. )
@@ -27605,6 +27703,8 @@ Niemcy ( Germany , Německo , Deutschland )
                                                         przed 1004-1024 ( Henryk II (Heinrich II.) wg O.I.W. )
                                                         ? ( Henryk II Święty wg Z.1205 )
                                                         przed 1018-? ( Henryk II wg R.1168 )
+                                                        przed 1003-? (?.5.-?) ( Henryk II wg K.G.1003 )
+                                                        1002-po 1018 (?.6.-?) ( Henryk (Henryk II, Henryk IV, Bawarczyk, Heinrich II., Henryk II Ludolfinga, Henry, Ludolfinga, Henryk II Święty) wg K.G.1003 )
     Salian House ( Dynastia salicka , Salians , Die Salier , Salian family )
       Konrad II                                         przed 1033-1039 ( wg S.P.D.Z. ) [Holy Roman Emperor]
                                                         ? ( Konrad II. wg B.S. )
@@ -27659,7 +27759,7 @@ Niemcy ( Germany , Německo , Deutschland )
       Frederick Barbarossa                              1152-1190 ( wg V.K.T.H.O.H.E. ) ( Frederick I (Frederick I Barbarossa) wg D.O.T.W.A.C.A.G.H. ) ( Fridrich I. Barbarossa wg S.V.D.K.V. ) ( Frederick Barbarossa (Frederick, Barbarossa) wg H.O.W.P. ) ( Fryderyk I Barbarossa (Fryderyk Barbarossa, Hohenstauf, Fryderyk I, Fryderyk, Barbarossa, Friedrich Barbarossa) wg M.1176 ) [Holy Roman Emperor Frederick I]
                                                         1152-po 1158 ( Friedrich I. wg B.S. )
                                                         1152-po 1163 (przed ?.8.-?.9.) ( Fryderyk I (Fryderyk, Fryderyk Barbarossa, Fryderyk I Rudobrody, Hohenstauf) wg K.P.S. )
-                                                        ? ( Fryderyk I Rudobrody wg P.K.I.K.P. )
+                                                        ? ( Fryderyk I Rudobrody wg P.K.I.K.P. ) ( Friedrich I. wg K.G.1003 )
                                                         1152-po 1176 (9.3.-?) ( Fryderyk I Barbarossa (Fryderyk Barbarossa, Barbarossa, Friedrich Barbarossa) wg R.1168 )
                                                         przed 1155-po 1157 ( Fryderyk Barbarossa (Fryderyk, Barbarossa) wg P.W.O.T. )
                                                         1152/4-1190 (?.3./?-?) ( Frederick I Barbarossa (Frederick I, Frederick 'Barbarossa', Frederick I 'Barbarossa', Barbarossa, Frederick, Friedrich Barbarossa) wg T.H.R.E.A.T.Y.O.E.H. )
@@ -27907,6 +28007,7 @@ Niemcy ( Germany , Německo , Deutschland )
       Transformer - The Deep Chemistry of Life and Death
       Dějiny Indie
       Szkice spod Monte Cassino
+      Kraj Głomaczów 1003
 
 Księstwo niemodlińskie
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -27974,14 +28075,16 @@ Nisibin
   Bibliografia :
       Asýrie - od městského státu k říši
 
-Księstwo Nitry
+Księstwo Nitry ( Nitrianske kniežatstvo , Das Herzogtum Neutra )
   Pribina		                                            ? ( wg Z.S.A.V.E. i D.P.I.R.G. )
   Zubor          	                                      ? ( wg Z.S.A.V.E. )
+  Michał                                                ? ( wg K.G.1003 )
   Władysław Łysy                                        ? ( wg M.1047 )
   Bibliografia :
       Dějepis pro I. ročník gymnázií
       Zrod střední a východní Evropy
       Mazowsze 1047
+      Kraj Głomaczów 1003
 
 Nocera ( Nuceria )
   Bibliografia :
@@ -28014,9 +28117,11 @@ Nolambavádi ( Nulumbapádi )
   Bibliografia :
       Dějiny Indie
 
-Nordgau
+Nordgau ( Marchia Północna )
+  Ród Babenbergów
+    Henryk ze Schweinfurtu                              przed 1000-po 1003 (?-?.8.) ( Henryk schweinfurcki (Babenberg, Schweinfurtczyk, Henryk, Henryk Babenberg, Hezilo von Schweinfurt, Hezilo) wg K.G.1003 )
   Bibliografia :
-      Otton I Wielki
+      Kraj Głomaczów 1003
 
 Nordhausen
   Bibliografia :
@@ -28112,6 +28217,11 @@ Normandia ( Normannia , Normandy , Normandie )
       Myriokefalon 1176
       Nikopolis 1396
       Mercia - The Rise and Fall of a Kingdom
+
+County of Northeim
+  Zygfryd z Northeim                                    przed 1003 n.e.-? ( wg K.G.1003 )
+  Bibliografia :
+      Kraj Głomaczów 1003
 
 Królestwo Northumbrii ( Northumbria , Kingdom of Northumbria , Nortumbria , The Kingdom of Northumbria )
   Ida                     		                          547-560 ( wg V.N.M.S.D. )
@@ -28778,6 +28888,7 @@ Obodrzyce ( Obodrzyci , Abodriti , Abodriten , Obodryci , Związek Obodrycki , A
                                                         przed 974-po 983 ( Mściwoj wg B.S. )
                                                         przed 974-? ( wg F.L.P.D.Ś.W. )
                                                         ? ( Mściwoj wg F.S.B.1066 )
+                                                        przed 990-? ( wg K.G.1003 )
       Mścidrog                                          przed 983-990 ( wg S.P.D.Z. )
     Dynastia Nakonidów
       Mitislav ( Mścisław )                             przed 1018-? ( wg Z.S.A.V.E. )
@@ -28862,6 +28973,7 @@ Obodrzyce ( Obodrzyci , Abodriti , Abodriten , Obodryci , Związek Obodrycki , A
       Rugia 1168
       Bolesław Krzywousty 1085-1138
       Fontenoy 841
+      Kraj Głomaczów 1003
 
 Królestwo Obojga Sycylii ( Kingdom of The Two Sicilies , Království Dvou Sicílií )
   Habsburgowie
@@ -29501,8 +29613,9 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
       Obertyn 1531
 
 Bishopric of Osnabrück
+  Wotiloph z Osnabrück                                  przed 1002 n.e.-? (24.7.-?) ( wg K.G.1003 )
   Bibliografia :
-      The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
 
 Hrabstwo Osona
   Bernard Septymański                                   826 n.e.-? ( Bernard z Septymanii (Bernard) wg F.841 ) [Count of Toulouse] [Count of Girona] [Count of Barcelona] [Count of Autun] [Count of Narbonne] [Count of Béziers] [Count of Agde] [Count of Melguelh] [Count of Nimes] [Count of Uzès] [Count of Lodève] [Count of Rousillon] [Count of Carcassonne]
@@ -29710,10 +29823,12 @@ Bishopric of Ösel ( Biskupstwo Ozylii , Biskupstwo Ösel-Wiek )
       Northmen - The Viking Saga 793-1241
 
 Bishopric of Paderborn ( Paderborn )
+  Redar                                                 przed 1002 n.e.-? (24.7.-?) ( Retharius wg K.G.1003 )
   Meinward                                              1009-1036 ( Meinward of Paderborn wg T.H.R.E.A.T.Y.O.E.H. )
   Clemens August of Bavaria                             1719-1761 ( wg T.H.R.E.A.T.Y.O.E.H. ) [Bishop of Münster Clemens August of Bavaria] [Bishop of Hildesheim Clemens August of Bavaria] [Archbishop of Cologne Clemens August]
   Bibliografia :
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
 
 Padmávatí
   Království Nagů ( Stát Nagů , Království Bhárašivů , Stát Bhárašivů )
@@ -29779,6 +29894,11 @@ County Palatinate of Bavaria
   Bibliografia :
       Piastowie. Walka o tron 1138–1320
       The Holy Roman Empire - A Thousand Years of Europe's History
+
+County Palatinate of Saxony
+  Fryderyk                                              przed 1002 n.e.-? (24.7.-?) ( wg K.G.1003 )
+  Bibliografia :
+      Kraj Głomaczów 1003
 
 Palatinate-Kleeburg
   John Casimir                                          ?
@@ -31246,7 +31366,7 @@ Pokasettowie
   Bibliografia :
       Wielcy Indianie Ameryki Północnej
 
-Polska ( Polsko , Poland , Rzeczpospolita Polska )
+Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
   Polanie
     Popielidzi ( Ród Popiela )
       Popiel                                            ? ( wg O.I.W. i K.1018 i P.W.O.T. )
@@ -31279,7 +31399,8 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
                                                         ? ( Mieszko wg Z.1205 i P.W.O.T. ) ( Mieszko I. (Mieszko) wg K.P.S. ) ( wg F.L.P.D.Ś.W. i B.K.1.1. )
                                                         ok.960-992 ( Mieszko wg P.K.I.K.P. )
                                                         przed 990-? ( wg R.1168 )
-      Bolesław I Chrobry           	                    992-1025 ( wg D.Ś. i V.N.M.S.D. ) ( Boleslav Chrabrý wg D.P.I.R.G. ) ( Bolesław Chrobry wg Z.N.E. i W.W.K.R. ) ( Bolesław Chrobry (Bolesław I Wielki) wg S.P.D.Z. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. ) ( Bolesław Chrobry (Bolesław) wg P.K.I.K.P. ) ( Bolesław Chrobry (Bolesław, Chrobry) wg M.1047 ) ( Boleslav I Chrobry (Boleslav Chrobry, Boleslav I 'the Brave', Boleslav, Boleslaw Chrobry) wg T.H.R.E.A.T.Y.O.E.H. ) [King of Poland]
+                                                        przed 963-992 (?-25.5.) ( Mieszko Pierwszy (Mieszko, Miseco I., Mieczysław, Piast) wg K.G.1003 )
+      Bolesław I Chrobry           	                    992-1025 ( wg D.Ś. i V.N.M.S.D. ) ( Boleslav Chrabrý wg D.P.I.R.G. ) ( Bolesław Chrobry wg Z.N.E. i W.W.K.R. ) ( Bolesław Chrobry (Bolesław I Wielki) wg S.P.D.Z. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. ) ( Bolesław Chrobry (Bolesław) wg P.K.I.K.P. ) ( Bolesław Chrobry (Bolesław, Chrobry) wg M.1047 ) ( Boleslav I Chrobry (Boleslav Chrobry, Boleslav I 'the Brave', Boleslav, Boleslaw Chrobry) wg T.H.R.E.A.T.Y.O.E.H. ) ( Bolesław Chrobry (Bolesław, Piast, Chrobry, Bolesław Chrobry Wielki, Bolesław I Wielki, Bolesław I Chrobry Wielki, Mieszko, Bulizlavus, Bolesław Wielki, Bolesław polski, Bolesław I. von Polen, Bolesław I-szy Wielki) wg K.G.1003 ) [King of Poland]
       			              	                            przed 993-po 1018 ( Boleslav Chrabrý wg Z.S.A.V.E. )
                                                         ? ( Bolesław Chrobry wg O.K.C.J. ) ( Chrobry wg L.P.P. ) ( Bolesław Chrobry (Chrobry, Bolesław Chrobry Wielki) wg G.R.I.L. )
                                                         992-po 1018 (?-22.7.) ( Bolesław Chrobry (Chrobry) wg B.S. )
@@ -31292,10 +31413,10 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
                                                         przed 995-po 1018 (28.9.-?) ( Bolesław Chrobry (Bolesław I, Chrobry) wg P.W.O.T. )
   Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland , Królestwo Polskie )
     Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska , The Piasts , Piasts )
-      Bolesław I Chrobry       	                        1025 ( wg D.Ś. i V.N.M.S.D. i W.W.K.R. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. ) ( Bolesław Chrobry (Bolesław, Chrobry) wg P.W.O.T. )
+      Bolesław I Chrobry       	                        1025 ( wg D.Ś. i V.N.M.S.D. i W.W.K.R. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. ) ( Bolesław Chrobry (Bolesław, Chrobry) wg P.W.O.T. ) ( Bolesław Chrobry (Bolesław, Piast, Chrobry, Bolesław Chrobry Wielki, Bolesław I Wielki, Bolesław I Chrobry Wielki, Mieszko, Bulizlavus, Bolesław Wielki, Bolesław polski, Bolesław I. von Polen, Bolesław I-szy Wielki) wg K.G.1003 )
                                                         1025 (?-12.6.) ( Bolesław Chrobry (Bolesław I Wielki) wg S.P.D.Z. )
                                                         1025 (18.4.-?) ( Bolesław Chrobry (Bolesław Wielki, Chrobry, Bolesław Chrobry Wielki) wg K.1018 )
-      Mieszko II Lambert       	                        1025-1034 ( wg D.Ś. i V.N.M.S.D. ) ( Mieszko II (Lambert) wg D.O.T.W.A.C.A.G.H. ) ( Mieszko II (Mieszko) wg P.K.I.K.P. i M.1047 )
+      Mieszko II Lambert       	                        1025-1034 ( wg D.Ś. i V.N.M.S.D. ) ( Mieszko II (Lambert) wg D.O.T.W.A.C.A.G.H. ) ( Mieszko II (Mieszko) wg P.K.I.K.P. i M.1047 i K.G.1003 )
                                                         przed 1027-po 1031 i przed 1033-1034 ( ? i ?-17.5. ) ( Měšek II Lambert wg Z.S.A.V.E. )
                                                         1025-1031 ( Mieszko II wg W.W.K.R. i T.H.R.E.A.T.Y.O.E.H. )
                                                         ?-1034 ( Mieszko II wg S.P.D.Z. )
@@ -31343,7 +31464,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
     Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska , The Piasts , Piasts )
       Władysław I Herman         	                      1079-1102 ( wg D.Ś. ) ( Władysław I (Herman) wg D.O.T.W.A.C.A.G.H. ) ( Władysław Herman (Władysław) wg Z.1205 i P.K.I.K.P. )
                                                         1082-1102 ( wg V.N.M.S.D. )
-                                                        ? ( Władysław Herman wg O.K.C.J. i Z.N.E. i N.I.B.W.XI.S. )
+                                                        ? ( Władysław Herman wg O.K.C.J. i Z.N.E. i N.I.B.W.XI.S. i K.G.1003 )
                                                         1080-1102 ( Władysław Herman wg W.W.K.R. )
                                                         ?-1102 ( Władysław Herman wg K.P.S. ) ( Vladyslav I Hermann wg T.H.R.E.A.T.Y.O.E.H. )
                                                         1079-1102 (?-4.6.) ( Władysław Herman (Władysław, Herman) wg B.K.1.1. ) ( Władysław Herman (Herman) wg P.W.O.T. )
@@ -31364,6 +31485,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
                                                         1102-po 1137 ( Bolesław Krzywousty (Krzywousty, Bolesław) wg K.P.S. )
                                                         przed 1131-1138 ( Krzywousty (Bolesław Krzywousty) wg R.1168 )
                                                         1102-1138 (przed 16.11.-28.10.) ( Bolesław Krzywousty (Krzywousty, Bolesław, Bozeslaw, Bolizlaus, Bolesław trzeci, Bolesław III) wg B.K.1.1. )
+                                                        przed 1108-? ( Bolesław Krzywousty (Bolesław) wg K.G.1003 )
   Księstwo wiskie
     Siemowit II                                         przed 1324-po 1327 (jesień-?) ( wg L.P.P. ) [Książe rawski]
   Dynastia czeska ( House of Bohemia )
@@ -31626,6 +31748,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska )
       Szkice spod Monte Cassino
       Wojna Czu z Han 209-202 p.n.e.
       Obertyn 1531
+      Kraj Głomaczów 1003
 
 Księstwo Połockie ( Principality of Polatsk , Polocké knížectví , Księstwo połockie )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -32038,6 +32161,8 @@ Księstwo poznańskie
 Marchia Północna ( North March , Saxon North March , Nordmark )
   Teodoryk                                              przed 972-po 983 (?-2.7.) ( Dietrich von Haldensleben wg B.S. )
                                                         ? ( Dytryk wg O.I.W. i P.W.O.T. ) ( wg K.1018 )
+                                                        przed 980-? (początek-?) ( Dytryk wg K.G.1003 )
+  Lotar                                                 przed 1002-? (24.7.-?) ( wg K.G.1003 )
   Wilhelm                                               ?-1056 (?-10.9.) ( wg B.S. )
   Albrecht Niedźwiedź                                   1134-po 1157 ( wg B.S. )
                                                         przed 1147-po 1157 (?.12.-?) ( wg R.1168 )
@@ -32047,6 +32172,7 @@ Marchia Północna ( North March , Saxon North March , Nordmark )
       Kijów 1018
       Rugia 1168
       Piastowie. Walka o tron 1138–1320
+      Kraj Głomaczów 1003
 
 Prasaiai
   Bibliografia :
@@ -32178,6 +32304,7 @@ Prusy ( Prussia , Prusko , Preussen )
       Albrecht                      	                  1525-1568 ( wg D.Ś. ) ( Albrecht von Hohenzollern (Albrecht of Brandenburg-Ansbach) wg V.K.T.H.O.H.E. ) ( Albert wg D.O.T.W.A.C.A.G.H. ) ( Albert of Brandenburg-Ansbach (Albrecht von Hohenzollern) wg T.H.R.E.A.T.Y.O.E.H. ) [Grand Master of Teutonic Order]
                                                         przed 1525 (10.5.-?) ( Albrecht Hohenzollern wg O.K.C.J. )
                                                         ? ( Albrecht von Hohenzollern wg J.P.1242 ) ( Albrecht Hohenzollern wg K.P.S. )
+                                                        przed 1531-? (13.8.-?) ( wg O.1531 )
       Albrecht Fryderyk      	                          1568-1618 ( wg D.Ś. ) ( Albrecht Friedrich wg V.K.T.H.O.H.E. ) ( Albert Frederick wg D.O.T.W.A.C.A.G.H. )
   Księstwo Prus ( Duchy of Prussia , Brandenburg-Prussia , Brandenburg-Preußen )
     Dynastia Hohenzollernów ( The House of Hohenzollern , Hohenzollerns , Hohenzollern dynasty , Die Hohenzollern )
@@ -32246,6 +32373,7 @@ Prusy ( Prussia , Prusko , Preussen )
       Poczet Królów i Książąt Polskich
       The Holy Roman Empire - A Thousand Years of Europe's History
       Conjectures and Refutations - The Growth of Scientific Knowledge
+      Obertyn 1531
 
 Księstwo przemyskie ( Przemyśl )
   Rurykowicze
@@ -33049,7 +33177,7 @@ Rzym ( Rome , Řím )
   Królestwo Rzymu ( Królestwo )
     Romulus                                             753-715 ( wg V.N.M.S.D. )
     			   	                                          753-716 ( wg D.R. )
-    			   	                                          ? ( wg S.C. i H.P.S. i K.P.N.A. i H.O.W.P. i K.6. i H.S.P.D.N.H.W.K.S.S.O. i C.K.F. i S.N.A.S.E. i K.1274.P.N.E. i W.4.3.P.N.E. )
+    			   	                                          ? ( wg S.C. i H.P.S. i K.P.N.A. i H.O.W.P. i K.6. i H.S.P.D.N.H.W.K.S.S.O. i C.K.F. i S.N.A.S.E. i K.1274.P.N.E. i W.4.3.P.N.E. i K.G.1003 )
     			    	                                        753-717 ( ?-7.7. ) ( wg K.R.I.C.R. )
     				                                            753-? ( 21.4.-? ) ( wg Z.V.C. )
     Tytus Tacjusz                                       ? ( wg W.4.3.P.N.E. ) [King of Sabinowie Tytus Tacjusz]
@@ -34800,6 +34928,7 @@ Rzym ( Rome , Řím )
       Mercia - The Rise and Fall of a Kingdom
       Weje 405-396 p.n.e.
       Wojna Czu z Han 209-202 p.n.e.
+      Kraj Głomaczów 1003
 
 Saamowie
   Svási                                                 ? ( wg F.L.P.D.Ś.W. )
@@ -34995,7 +35124,7 @@ Sakowie ( Šakové )
 
 Saksonia ( Saxony , Sasko , Sachsen )  
   Liudolf                                               ?-866 n.e. ( wg T.H.R.E.A.T.Y.O.E.H. )
-  Księstwo Saksonii ( Duchy of Saxony , Saské vévodství , Księstwo saskie , Księstwo Saskie )
+  Księstwo Saksonii ( Duchy of Saxony , Saské vévodství , Księstwo saskie , Księstwo Saskie , Księstwo saskie )
     Burchard          		                              ? ( wg Z.S.A.V.E. )
     Dynastia Ludolfingów ( Dynastia Liudolfingów , Dynastia Ottonów , Ludolfingowie , Ottonian clan )
       Otton Dostojny                                    przed 911-912 (?-30.11.) ( Otton (Otton der Erlauchte) wg O.I.W. )
@@ -35012,9 +35141,10 @@ Saksonia ( Saxony , Sasko , Sachsen )
                                                         przed 953-973 (?-13.3./27.3./1.4.) ( Herman wg O.I.W. )
       Bernard I                                         ? ( wg Z.N.E. ) ( Bernard wg B.S. )
                                                         przed 995-1011 ( Bernard I Billung (Bernard) wg S.P.D.Z. )
+                                                        przed 1002-po 1002 (30.4.-24.7.) ( Bernard (Benno) wg K.G.1003 )
       Bernard II                                        ? ( wg Z.N.E. )
                                                         przed 1057-? ( Bernard wg S.P.D.Z. )
-                                                        przed 1015-? ( wg B.S. i K.1018 )
+                                                        przed 1015-? ( wg B.S. i K.1018 ) ( Bernard wg K.G.1003 )
       Ordulf                                            przed 1066-1072 ( wg S.P.D.Z. )
                                                         przed 1071-1072 ( wg B.S. )
                                                         ? ( wg F.S.B.1066 )
@@ -35138,6 +35268,7 @@ Saksonia ( Saxony , Sasko , Sachsen )
       Maxmilián I. - Zakladatel habsburské světové říše
       Myriokefalon 1176
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
 
 Salamina
   Telamon		                                            ?
@@ -35299,6 +35430,7 @@ Państwo Samona ( Królestwo Samona , Regnum Samoni )
                                                         ok.630 ( wg Z.N.E. )
                                                         624-658 ( wg S.P.D.Z. )
                                                         przed 626-ok.660 ( Samo wg B.S. )
+                                                        przed 631-? ( Samo wg K.G.1003 )
   Bibliografia :
       Dějepis pro I. ročník gymnázií
       Dějiny Byzance
@@ -35307,6 +35439,7 @@ Państwo Samona ( Królestwo Samona , Regnum Samoni )
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
       Kijów 1018
+      Kraj Głomaczów 1003
 
 Samos
   Demotelos	                                            ? ( wg Z.Ř. )
@@ -36099,6 +36232,11 @@ Królestwo Serbów , Chorwatów i Słoweńców ( Kingdom of Serbs, Croats and Sl
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Dynasties of the World - A Chronological and Genealogical Handbook
 
+Marchia Serbska
+  Poppon Babenberg                                      przed 880-po 892 ( wg K.G.1003 )
+  Bibliografia :
+      Kraj Głomaczów 1003
+
 Królestwo Sewilli ( Ta´ifa Sewilli , Sevilla )
   Dynastia ´Abbasydów ( Abbádovci )
     Muhammad I                        	                1023-1042 ( wg D.Ś. )
@@ -36538,7 +36676,7 @@ Skordiskowie
   Bibliografia :
       Thrákové
 
-Slovakia ( Słowacja )
+Slovakia ( Słowacja , Slovensko )
   Tiso                                                  1939 n.e.-? (15.3.-?) ( wg V.K.T.H.O.H.E. )
   Slovak Republic ( Republic of Slovakia )
   Bibliografia :
@@ -36697,8 +36835,6 @@ Królestwo Sophagasenasa
 Hrabstwo Sora
   Bibliografia :
       Fryderyk II Hohenstauf - Cesarz Rzymski
-
-Sorbowie
 
 Sotutá
   Rod Cocomů ( Rod Cocom , Cocomové )
@@ -37216,9 +37352,11 @@ Stodoranie ( Hawelanie , Hawolanie , Heveller )
   Księstwo Stodorańskie ( Stodorania )
     Bolesław                                            przed 928-po 929 ( Baçqlabič wg S.P.D.Z. )
                                                         przed 929-? (zima-?) ( Basqlabič wg B.S. )
+                                                        przed 928/9-? (zima-?) ( Basqlābič wg K.G.1003 )
     Tugumir ( Tęgomir )                                 przed 939-? ( wg Z.S.A.V.E. )
                                                         przed 938-po 939 ( wg S.P.D.Z. )
                                                         940-? ( Duku (Hunu) wg O.I.W. )
+                                                        ? ( wg K.G.1003 )
     Przybysław                                          przed 991-993/4 ( wg S.P.D.Z. )
                                                         przed 991-po 993 ( wg B.S. )
                                                         ? ( wg O.I.W. )
@@ -37228,6 +37366,7 @@ Stodoranie ( Hawelanie , Hawolanie , Heveller )
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
       Otton I Wielki
+      Kraj Głomaczów 1003
 
 Strasburg ( Strasbourg )
   Biskupstwo strasburskie ( Bishopric of Strasbourg )
@@ -38130,7 +38269,9 @@ Szwabia ( Swabia , Švábsko , Schwaben )
     Burchard                                            przed 955-? (10.8.-?) ( wg B.S. i O.I.W. )
                                                         ?-973 ( Burchard III wg T.H.R.E.A.T.Y.O.E.H. )
     Otton                                               ?-982 ( wg O.I.W. ) ( Otto wg T.H.R.E.A.T.Y.O.E.H. ) [Duke of Bavaria]
-    Hermann II                                          997-1003 ( wg T.H.R.E.A.T.Y.O.E.H. )
+    Ród Konradynów
+      Hermann II                                        997-1003 ( wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 1002-po 1002 (?.1.-1.10.) ( Hermann (Hermann szwabski) wg K.G.1003 )
     Ernst II                                            1015-1030 ( wg T.H.R.E.A.T.Y.O.E.H. )
     Conrad II                                           1038-? ( Conrad II the Elder (Conrad, Conrad the Elder) wg T.H.R.E.A.T.Y.O.E.H. ) [Holy Roman Emperor Conrad II]
     Henry III                                           przed 1039-? ( Henry wg T.H.R.E.A.T.Y.O.E.H. ) [Holy Roman Emperor Henry III]
@@ -38180,6 +38321,7 @@ Szwabia ( Swabia , Švábsko , Schwaben )
       Rugia 1168
       Piastowie. Walka o tron 1138–1320
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Kraj Głomaczów 1003
 
 Szwajcaria ( Switzerland , Die Schweiz )
   Swiss Confederation ( Confederation )
@@ -38612,7 +38754,7 @@ Księstwo świdnickie
 
 Święte Cesarstwo Rzymskie ( Święte Cesarstwo , Holy Roman Empire , Cesarstwo Rzymsko-Niemieckie , Cesarstwo Rzymskie , Cesarstwo Rzymskie Narodu Niemieckiego , Svatá říše římská , Římskoněmecká říše , The Holy Roman Empire , The Empire , Reich , Heilige Römische Reich , Das Heilige Römische Reich , Das Reich , Empire , Imperium , Cesarstwo Zachodnie )
   Dynastia Karolingów ( Carolingian House , Karolingowie , Karlovci , The Carolingians , Carolingians , Dynastia karolińska , Les Carolingiens )
-    Karol I Wielki ( Charlemagne )	                    800-814 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Karel Veliký wg D.B. ) ( Charles The Great wg V.K.T.H.O.H.E. ) ( Karol Wielki wg S.P.D.Z. ) ( Charles I (Charles I the Great, Charlemagne) wg D.O.T.W.A.C.A.G.H. ) ( Karol Wielki (Karol) wg O.I.W. )
+    Karol I Wielki ( Charlemagne )	                    800-814 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Karel Veliký wg D.B. ) ( Charles The Great wg V.K.T.H.O.H.E. ) ( Karol Wielki wg S.P.D.Z. i K.G.1003 ) ( Charles I (Charles I the Great, Charlemagne) wg D.O.T.W.A.C.A.G.H. ) ( Karol Wielki (Karol) wg O.I.W. )
                                                         800-? ( wg D.R. ) ( Karol Wielki wg K.R.I.C.R. i D.D.T. i K.W.N.I.W.D. i G.R.I.L. )
                                                         800-po 813 ( 23/4.12.-? ) ( Karel Veliký wg Z.S.A.V.E. )
                                                         ? ( Karel Veliký wg F.B.C.A.R. i S.P. ) ( Karol Wielki wg O.A.O.C.E. i Z.N.E. i L.1241. i G.C.3000.L.N.O.I.W. i P.W.O.T. i S.S.M.C. ) ( Karol Wielki (Karol) wg F.H.C.R. i N.I.B.W.XI.S. i B.D.K.B. ) ( Karel Veliký (Charles-Magne) wg M.I.Z.H.S.R. )
@@ -38624,7 +38766,7 @@ Księstwo świdnickie
                                                         ?-814 ( Karol Wielki wg F.L.P.D.Ś.W. )
                                                         przed 804-814 ( Karel Veliký (Karel) wg S.N.A.S.E. )
                                                         800-814 (25.12.-28.1.) ( Karol Wielki (Charlemagne, Karl der Große, Karol) wg F.841 )
-    Ludwik I Pobożny                       	            814-840 ( wg D.Ś. i V.N.M.S.D. ) ( Ludwik Pobożny wg O.I.W. i C.K.F. )
+    Ludwik I Pobożny                       	            814-840 ( wg D.Ś. i V.N.M.S.D. ) ( Ludwik Pobożny wg O.I.W. i C.K.F. i K.G.1003 )
                                                         813-840 ( wg Tapsella )
                                                         ? ( Ludvík I Pobožný wg E.P. ) ( Ludwik Pobożny wg F.H.C.R. i B.D.K.B. )
                                                         813/4/6-840 ( Louis I (Louis I the Pious) wg D.O.T.W.A.C.A.G.H. )
@@ -38701,7 +38843,7 @@ Księstwo świdnickie
                                                         919-936 ( ?.5.-2.7. ) ( Jindřich I Ptáčník wg Z.S.A.V.E. )
                                                         przed 932-? ( wg B.S. )
                                                         przed 934-? ( Henryk Ptasznik wg F.L.P.D.Ś.W. )
-  Święte Cesarstwo Rzymskie Narodu Niemieckiego ( Cesarstwo Niemieckie , Cesarstwo rzymsko-niemieckie , Cesarstwo , Holy Roman Empire of the German Nation , Das Heilige Römische Reich Deutscher Nation , Święte Cesarstwo Rzymskie , Święte Cesarstwo Narodu Niemieckiego , Cesarstwo Rzymsko-Niemieckie , Cesarstwo Rzymskie Narodu Niemieckiego )
+  Święte Cesarstwo Rzymskie Narodu Niemieckiego ( Cesarstwo Niemieckie , Cesarstwo rzymsko-niemieckie , Cesarstwo , Holy Roman Empire of the German Nation , Das Heilige Römische Reich Deutscher Nation , Święte Cesarstwo Rzymskie , Święte Cesarstwo Narodu Niemieckiego , Cesarstwo Rzymsko-Niemieckie , Cesarstwo Rzymskie Narodu Niemieckiego , Rzesza niemiecka , Rzesza Niemiecka , Rzesza , Cesarstwo )
     Dynastia saska ( Dynastia Ottońska , Ludolfingowie , House of Saxony , Dynastie Otonů , Saská dynastie , Dynastia Ludolfingów , Dynastia Liudolfingów , Dynastia Ottonów , Sächsiches Haus , Ottonians , The Ottonians , Ottonian clan , Die Ottonen )
       Otto I Wielki       	                            936-973 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Ota I wg D.P.I.R.G. ) ( Otto I Veliký wg D.B. )
                                                         ok.936-po 962 ( Otton I wg D.R. )
@@ -38709,7 +38851,7 @@ Księstwo świdnickie
                                                         przed 973-? ( Otton I wg F.L.P.D.Ś.W. )
                                                         962-po 968 ( Otto I Veliký wg D.B. )
                                                         przed 937(962)-973 ( 2.2.-7.5. ) ( Ota I wg Z.S.A.V.E. )
-                                                        962-973 ( Otto I wg V.K.T.H.O.H.E. ) ( Otto I (Otto I the Great) wg D.O.T.W.A.C.A.G.H. ) ( Ota I. (Ota I. Veliký) wg S.V.D.K.V. )
+                                                        962-973 ( Otto I wg V.K.T.H.O.H.E. ) ( Otto I (Otto I the Great) wg D.O.T.W.A.C.A.G.H. ) ( Ota I. (Ota I. Veliký) wg S.V.D.K.V. ) ( Otton I Wielki (Otton I, Otton Wielki, Ludolfinga) wg K.G.1003 )
                                                         962-? ( Otton I Wielki wg Z.N.E. ) ( Otto I (Otton I, Otton) wg B.S. )
                                                         ?-972/3 ( wg S.P.D.Z. )
                                                         ?-973 ( Otton (Otton I Wielki) wg H.W. ) ( Otton I (Otton I Wielki) wg F.S.B.1066 ) ( Otton I wg P.W.O.T. )
@@ -38731,6 +38873,7 @@ Księstwo świdnickie
                                                         967-983 (25.12.-?) ( Otton II (Otto II., Otton) wg O.I.W. )
                                                         przed 979-po 982 ( Otton II (Otto) wg K.1018 )
                                                         967/73-983 (?-?.12.) ( Otto (Otto II.) wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 978-983 ( Otton II wg K.G.1003 )
       Otto III                 	                        983-1002 ( wg V.N.M.S.D. , D.Ś. i Tapsella ) ( Otta III. wg S.N.A.S.E. )
                                                         przed 996-1002 (?-24.1.) ( wg D.B. )
                                                         przed 1000-? ( Otton III wg K.R.I.C.R. i P.W.O.T. )
@@ -38743,11 +38886,12 @@ Księstwo świdnickie
                                                         996-1002 ( wg D.O.T.W.A.C.A.G.H. )
                                                         przed 992-1002 ( Otton III wg K.1018 )
                                                         996-1002 (?-23.1.) ( Otto (Otto III.) wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 999-1002 (?-?.1.) ( Otton III (Otto, Otto III., Otton) wg K.G.1003 )
       Henryk II Święty	                                1002-1024 ( wg V.N.M.S.D. i D.Ś. i Z.S.A.V.E. i Tapsella ) ( Henryk II wg N.I.B.W.XI.S. ) ( Jindřich II. wg S.V.D.K.V. )
                                                         przed 1006-? ( wg F.B.C.A.R. )
                                                         przed 1003-1024 ( Henryk II wg S.P.D.Z. )
                                                         przed 1004-? ( wg H.W. )
-                                                        ? ( Henryk II wg F.H.C.R. ) ( Henryk II (Henryk) wg M.1047 )
+                                                        ? ( Henryk II wg F.H.C.R. ) ( Henryk II (Henryk) wg M.1047 ) ( Henryk II (Henryk, Heinrich II., Bawarczyk, Henry, Ludolfinga, Henryk II Ludolfinga, Henryk IV, Henry II) wg K.G.1003 )
                                                         1014-po 1018 ( Henryk II wg B.S. )
                                                         1014-1024 ( St Henry II wg D.O.T.W.A.C.A.G.H. ) ( Jindřich II. (Jindřich) wg S.N.A.S.E. ) ( Henry II (Henry, Heinrich II.) wg T.H.R.E.A.T.Y.O.E.H. )
                                                         ?-1024 ( Henryk II (Heinrich II.) wg O.I.W. )
@@ -38807,7 +38951,7 @@ Księstwo świdnickie
                                                         przed 1108-po 1125 ( wg S.P.D.Z. )
                                                         przed 1118-? ( wg H.W. )
                                                         ? ( wg B.K.1.1. )
-                                                        przed 1109-? ( wg M.1047 )
+                                                        przed 1109-? ( wg M.1047 i K.G.1003 )
     Dynastia z Supplinburga ( House of Supplinburg )
       Lotar II Saski	                                  1125-1137 ( wg D.Ś. ) ( III wg Tapsella ) ( Lotar III (Lotar z Supplinburga) wg S.P.D.Z. )
                                                         1125-1137 ( ?-?.12. ) ( Lothar III wg F.B.C.A.R. )
@@ -39135,6 +39279,7 @@ Księstwo świdnickie
       How We Learn - The New Science of Education and the Brain
       Dějiny Indie
       Szkice spod Monte Cassino
+      Kraj Głomaczów 1003
 
 Ta Jüe
   Bibliografia :
@@ -40429,9 +40574,13 @@ Turukku
 Turyngia
   Księstwo Turyngii
     Radulf                                              ?-642 n.e. ( wg S.P.D.Z. )
+                                                        przed ok.634-? ( wg K.G.1003 )
     Boppo                                               ? ( wg S.N.A.S.E. )
   Karloman                                              741-747 (?-15.8.) ( wg F.841 ) [Ruler of Austrasia] [Ruler of Alemania] [Ruler of Suavia]
   Pepin Młodszy                                         747-? ( Pepin Mały (Pepin Krótki, Pepin, Pépin Le Bref) wg F.841 ) [King of the Franks Pepin]
+  Księstwo Turyngii ( Księstwo turyńskie )
+    Takulf                                              przed 857-? ( wg K.G.1003 )
+    Ekkehard I                                          ?-1002 (?-30.4.) ( Ekkehard wg K.G.1003 ) [Margrave of Meissen Ekkehard]
   Hrabstwo Turyngii
     Ludowingers ( Ludowinger family , The Ludowinger family )
       Ludvík II                	                        ? ( wg F.B.C.A.R. )
@@ -40460,6 +40609,7 @@ Turyngia
       Piastowie. Walka o tron 1138–1320
       The Holy Roman Empire - A Thousand Years of Europe's History
       Fontenoy 841
+      Kraj Głomaczów 1003
 
 Turyngowie ( Toryngowie )
   Królestwo Turyngów
@@ -41363,6 +41513,11 @@ Vercelli
   Bibliografia :
       Fryderyk II Hohenstauf - Cesarz Rzymski
 
+Bishopric of Verden
+  Bernhard z Werden                                     przed 1002 n.e.-? (24.7.-?) ( wg K.G.1003 )
+  Bibliografia :
+      Kraj Głomaczów 1003
+
 Bishopric of Verdun
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
@@ -41539,6 +41694,11 @@ Państwo Wakataków ( Stát Vákátaků , Vákátakové )
   Bibliografia :
       Starověká Indie
       Dějiny Indie
+
+County of Walbeck
+  Zygfryd z Walbeck                                     przed 972-po 990 ( Zygfryd wg K.G.1003 )
+  Bibliografia :
+      Kraj Głomaczów 1003
 
 Principality of Waldeck-Eisenberg
   Georg Friedrich of Waldeck                            ?-1692 n.e. ( George Frederick von Waldeck (Georg Friedrich) wg T.H.R.E.A.T.Y.O.E.H. )
@@ -42159,28 +42319,28 @@ Wetzlar
   Bibliografia :
       The Holy Roman Empire - A Thousand Years of Europe's History
 
-Węgry ( Hungary , Uhry , Hangryn , Hungarian State )
+Węgry ( Hungary , Uhry , Hangryn , Hungarian State , Ungarn )
   Wschodnie
     Gylas                                               ? ( wg Z.S.A.V.E. )
   Księstwo Węgier
-    Dynastia Arpadów ( House of Árpád )
+    Dynastia Arpadów ( House of Árpád , Arpadowie )
       Géza                     		                      ok.970-997 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
       			       		                                  965-996 ( Gejza wg D.P.I.R.G. )
-      			   		                                      ? ( Gejza wg Z.S.A.V.E. )
+      			   		                                      ? ( Gejza wg Z.S.A.V.E. i K.G.1003 )
                                                         972-997 ( Gejza wg Z.1205 )
       Stefan I Święty		                                997-1001 ( wg D.Ś. ) ( St Stephen I wg D.O.T.W.A.C.A.G.H. ) [King of Hungary]
       			       		                                  przed 997-? ( Štěpán I wg D.B. )
       			       		                                  przed 1000-1001 ( Štěpán I wg Z.S.A.V.E. )
                                                         przed 996-1000 (?-?.12.) ( Stefan I (Stefan) wg K.1018 )
                                                         przed 1000-1001 ( Stephen (Vaik, Istvan) wg T.H.R.E.A.T.Y.O.E.H. )
-  Królestwo Węgier ( The Kingdom of Hungary , Korona św. Stefana , Kingdom of Hungary , Uherské království , Hungarian Kingdom , Korona Świętego Stefana , The Realm of St Stephen , Królestwo Węgierskie , Królestwo Świętego Stefana , The Realm of St. Stephen )
+  Królestwo Węgier ( The Kingdom of Hungary , Korona św. Stefana , Kingdom of Hungary , Uherské království , Hungarian Kingdom , Korona Świętego Stefana , The Realm of St Stephen , Królestwo Węgierskie , Królestwo Świętego Stefana , The Realm of St. Stephen , Uhorské kráľovstvo )
     Dynastia Arpadów ( House of Árpád , Arpadowie , The Arpads , The Arpades , Arpad family , Arpads , Ród Arpada )
       Stefan I Święty             	                    1001-1038 ( wg D.Ś. ) ( St Stephen I wg D.O.T.W.A.C.A.G.H. )
                                                         ok.985-1038 ( wg V.N.M.S.D. )
       			             	                              1000-? ( Štěpán I wg D.P.I.R.G. )
       			             	                              1001-1038 ( 15.8.-? ) ( Štěpán I wg Z.S.A.V.E. )
-                                                        przed 1018-? ( Stefan I wg Z.N.E. )
-                                                        ? ( Stefan (Stefan I) wg H.W. ) ( św. Stefan wg S.II.W.I.J.C.Z.E.M.P. i N.I.B.W.XI.S. i B.K.1.1. i M.1176 ) ( Stefan I Wielki wg O.I.W. ) ( Stefan wg M.1047 ) ( St Stephen wg N.1396 ) ( Stefan (Stephan, Stefan Święty, St Stephen) wg M.1526 )
+                                                        przed 1018-? ( Stefan I wg Z.N.E. ) ( Stefan I Arpad (Štefan I., św. Stefan, Stefan Arpada) wg K.G.1003 )
+                                                        ? ( Stefan (Stefan I) wg H.W. ) ( św. Stefan wg S.II.W.I.J.C.Z.E.M.P. i N.I.B.W.XI.S. i B.K.1.1. i M.1176 ) ( Stefan I Wielki wg O.I.W. ) ( Stefan wg M.1047 ) ( St Stephen wg N.1396 ) ( Stefan (Stephan, Stefan Święty, St Stephen) wg M.1526 ) 
                                                         1000-1038 ( Svatý Štěpán (Štěpán) wg S.V.D.K.V. )
                                                         1000-po 1018 (?.12.-30.1.) ( Stefan I (Stefan) wg K.1018 )
                                                         1001-po ok.1003 ( Stefan Święty (Stefan, Stefan I) wg Z.1205 )
@@ -42435,6 +42595,7 @@ Węgry ( Hungary , Uhry , Hangryn , Hungarian State )
       Nikopolis 1396
       Mohacz 1526
       Obertyn 1531
+      Kraj Głomaczów 1003
 
 Węgrzy ( Hungarians , Maďaři , Magyars , Hungarians , Ungari )
   Almos                                                 ? ( wg Z.1205 )
@@ -42522,17 +42683,17 @@ Wielcy Nambowie
   Bibliografia :
       Ostrovy lidojedů
 
-Wieleci ( Vuilci , Lucicy , Lutykowie , Wilzen , Lutizen , Lutizenbund , Związek Wielecki , Związek Lutycki , Wiltzians , Związek Wieletów , The Veleti , Liutians , Lutici )
-  Dumar                                                 przed 1114 n.e.-?
+Wieleci ( Vuilci , Lucicy , Lutykowie , Wilzen , Lutizen , Lutizenbund , Związek Wielecki , Związek Lutycki , Wiltzians , Związek Wieletów , The Veleti , Liutians , Lutici , Związek Lucicki )
+  Dumar                                                 przed 1114 n.e.-? ( wg S.P.D.Z. )
   Chyżanie
-    Świętopełk                                          przed 1121-?
+    Świętopełk                                          przed 1121-? ( wg S.P.D.Z. )
   Redarzy
   Bibliografia :
       Słowianie połabscy - Dzieje zagłady
 
 Księstwo Wieletów
   Drogowit                                              przed 738-po 789 ( wg S.P.D.Z. )
-                                                        przed 789-? ( Dragowit wg Z.N.E. i B.S. )
+                                                        przed 789-? ( Dragowit wg Z.N.E. i B.S. ) ( wg K.G.1003 )
   Lub                                                   ?-823 ( wg S.P.D.Z. )
   Miłogost                                              823 ( wg S.P.D.Z. )
   Całodróg                                              823-po 823 (?-?.5.) ( wg S.P.D.Z. )
@@ -42540,6 +42701,7 @@ Księstwo Wieletów
       Zapomianie narody Europy
       Słowianie połabscy - Dzieje zagłady
       Bitwy Słowian
+      Kraj Głomaczów 1003
 
 Wielka Bułgaria
   Kubrat                                                ? ( wg K.6. )
@@ -42616,19 +42778,20 @@ Sułtanat Wielkich Seldżuków ( Seljuks , Seldżukowie , Great Seljuqid Sultana
       Arabowie
       Myriokefalon 1176
 
-Księstwo Wielkomorawskie ( Państwo Wielkomorawskie , Wielka Morawa , Państwo Morawskie , Wielkie Morawy , Great Moravian empire , Great Moravian Empire )
+Księstwo Wielkomorawskie ( Państwo Wielkomorawskie , Wielka Morawa , Państwo Morawskie , Wielkie Morawy , Great Moravian empire , Great Moravian Empire , Państwo wielkomorawskie )
   Mojmír I                  	                          po 833 n.e.-? ( wg D.P.I.R.G. )
       			 	                                          ok.830-? ( Mojmír wg D.B. )
       			        	                                  ? ( Mojmír wg Z.S.A.V.E. )
                                                         ?-846 (?-po ?.8.) ( Mojmir I (Mojmir) wg B.S. )
-  Rastislav                  	                          846-870 ( wg D.P.I.R.G. )
+                                                        830-846 ( Mojmir I wg K.G.1003 )
+  Rastislav                  	                          846-870 ( wg D.P.I.R.G. ) ( Rościsław wg K.G.1003 )
       			 	                                          przed 862-? ( wg D.B. i Z.S.A.V.E. )
                                                         ?-870 ( Rościsław wg S.P.D.Z. )
                                                         846-po 869 ( Rościsław wg B.S. )
   Mojmirowice
     Sławomir                                            ?-871 ( wg B.S. )
   Svatopluk ( Świętopełk )               	              871-894 ( wg D.P.I.R.G. ) ( Świętopełk I Wielki (Świętopełk I, Światopełk I Wielki) wg B.S. )
-      			                                            ? ( wg D.B. i S.N.A.S.E. )
+      			                                            ? ( wg D.B. i S.N.A.S.E. ) ( Świętopełk Morawski wg K.G.1003 )
                                                         870-894 ( wg Z.N.E. )
                                                         przed 874-894 ( Świętopełk I Wielki wg S.P.D.Z. )
                                                         przed 874-po 878 ( Świętopełk I Wielki wg K.1018 )
@@ -42642,6 +42805,7 @@ Księstwo Wielkomorawskie ( Państwo Wielkomorawskie , Wielka Morawa , Państwo 
       Bitwy Słowian
       Kijów 1018
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      Kraj Głomaczów 1003
 
 Księstwo wielkopolskie ( Velkopolské knížectví )
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -43278,11 +43442,13 @@ Marchia Wschodnia
   Zygfryd                                               ? ( wg O.I.W. )
   Geron                                                 przed 955-? (10.8.-po 16.10.) ( wg B.S. )
                                                         936-965 (?-20.5.) ( Gero wg O.I.W. )
+                                                        przed 939-965 ( Gero (Gero I) wg K.G.1003 )
   Mieszko I                                             ?-992 (?-25.5.) ( wg K.1018 ) [Duke of Poland]
   Bibliografia :
       Bitwy Słowian
       Otton I Wielki
       Kijów 1018
+      Kraj Głomaczów 1003
 
 Wu Huan
   Bibliografia :
@@ -43299,7 +43465,9 @@ Land of Wursten ( Wursten )
 Würzburg
   Biskupstwo Würzburg ( Bishopric of Würzburg )
     Burchard                                            ? ( wg F.841 )
-    Bruno                                               1034 n.e.-? ( wg T.H.R.E.A.T.Y.O.E.H. )
+    Arnon                                               ?-892 n.e. ( wg K.G.1003 )
+    Henryk                                              przed 1003-? ( wg K.G.1003 )
+    Bruno                                               1034-? ( wg T.H.R.E.A.T.Y.O.E.H. )
     Erlung		                                          ? ( wg F.B.C.A.R. )
     Gebhard	                                            przed 1152-? ( wg F.B.C.A.R. )
     Gottfried	                                          przed 1188-1190  ( wg F.B.C.A.R. )
@@ -43318,6 +43486,7 @@ Würzburg
       Svaté války - Dějiny křižových výprav
       The Holy Roman Empire - A Thousand Years of Europe's History
       Fontenoy 841
+      Kraj Głomaczów 1003
 
 Księstwo wyszogrodzkie
   Izjasław Włodzimierzowicz                             przed 1236 n.e.-? (lato-?) ( wg Z.1205 )
@@ -43550,6 +43719,11 @@ County of Zeeland ( Zeeland )
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
       The Holy Roman Empire - A Thousand Years of Europe's History
+
+Bishopric of Zeitz
+  Hugon z Żytyc                                         przed 1002 n.e.-? (24.7.-?) ( wg K.G.1003 )
+  Bibliografia :
+      Kraj Głomaczów 1003
 
 Zell am Harmersbach
   Bibliografia :
@@ -43860,6 +44034,10 @@ Księstwo żagańskie
   Bibliografia :
       Dzieje dawnych Turków
 
+Marchia Żytycka
+  Bibliografia :
+      Kraj Głomaczów 1003
+
 Bibliografia :
     [1] Monarchs , Rulers , Dynasties and Kingdoms of the World , R.F.Tapsell , 1984
     [2] Říše Inků , Victor W. von Hagen , 1963
@@ -44067,5 +44245,6 @@ Bibliografia :
     [204] Wojna Czu z Han 209-202 p.n.e. ; Maciej Kuczyński ; 2024
     [205] Szkice spod Monte Cassino ; Melchior Wańkowicz ; 1972
     [206] Obertyn 1531 ; Marek Plewczyński ; 2020
+    [207] Kraj Głomaczów 1003 ; Mariusz Samp ; 2023
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
