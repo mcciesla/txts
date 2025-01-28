@@ -389,6 +389,7 @@ POP.SCIENCE :
         Na granicach Rosji - Budowanie imperium na stepie, 1500-1800 ; Michael Khodarkovsky
         Na Końcu Włoskiego Buta ; Michał Czartoryski
         National Geographic - Zakázané město  ; Juan Velasco , Jane Vessels
+        Newel 1562 ; Marek Plewczyński
         Nikopolis 1396 ; Stanisław Rek
         Normanowie i Bizancjum w XI stuleciu ; Dariusz Piwowarczyk
         Northmen - The Viking Saga 793-1241 ; John Haywood
@@ -1350,6 +1351,8 @@ Lem , Stanisław - Astronauci - O
                 - Teksty Ostatnie - O
                 - Wielkość urojona - O
                 - Wysoki Zamek - O
+Liu , Cixin - The Dark Forest - ENG
+              The Three-Body Problem - ENG
 Lofting , Hugh - Doktor Dolittle i zielona kanarzyca - POL
 Lomová , Ivana ; Lomová , Lucie - Anča a Pepík na stopě - O
 London , Jack - Córka śniegów - POL

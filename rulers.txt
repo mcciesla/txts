@@ -7132,7 +7132,7 @@ Chiny ( Čína , China )
       			                                            2205-2198 ( Ta Jü wg E.P. )
       			                                            ? ( wg S.S.F.Z.H. ) ( Ta Jü (Velký Jü) wg A.Č.D. ) ( Wielki Yu wg W.C.Z.H.2.2.P.N.E. )
     Czie           	                                    ?-1766/1557 ( wg H.C. )
-  Dynastia Szang ( Szang-In , Dynastie Šang , Państwo Szang , Dynastie Šang-Jin , Dynastia Shang , Dynastia Szang-Jin )
+  Dynastia Szang ( Szang-In , Dynastie Šang , Państwo Szang , Dynastie Šang-Jin , Dynastia Shang , Dynastia Szang-Jin , Shang Dynasty )
     T´ang          	                                    ok.1700 ( wg H.C. )
       			                                            ? ( Tang wg S.S.F.Z.H. )
     Lin Wang       	                                    ok.1400-ok.1360 ( wg V.N.M.S.D. )
@@ -7140,8 +7140,9 @@ Chiny ( Čína , China )
     Czou Sin         	                                  ok.1122/1111/1066/1028 ( wg H.C. )
     Wu Keng        	                                    ok.1122/1111/1066/1028 ( wg H.C. )
     Czou     	                                          1154-1122 ( wg S.S.F.Z.H. )
+                                                        1075-1046 ( Zhou of SHang (Zhou) wg T.T.B.P. )
     Di Xin                                              ? ( wg W.C.Z.H.2.2.P.N.E. )
-  Dynastia Czou ( Zhou , Dynastie Čou , Stát Čou , Dynastia Zhou )
+  Dynastia Czou ( Zhou , Dynastie Čou , Stát Čou , Dynastia Zhou , Zhou Dynasty )
     Czou                    	                          ok.1200-ok.1170 ( wg V.N.M.S.D. )
       			        	                                  ? ( wg H.C. )
     Wu Wang            	                                ok.1170-1132 ( wg V.N.M.S.D. )
@@ -7149,6 +7150,7 @@ Chiny ( Čína , China )
       				                                          ? ( Wu wg S.S.F.Z.H. )
     Wen Wang          	                                1132-1095 ( wg V.N.M.S.D. )
       			      	                                    ? ( Cz´ang wg H.C. ) ( Wen wg S.S.F.Z.H. )
+                                                        1099-1050 ( Wen of Zhou (Wen, Ji Chang) wg T.T.B.P. )
     Cz´eng                       	                      ? ( wg H.C. )
     Fong                    	                          1095-1067 ( wg V.N.M.S.D. )
     Czou Wang          	                                1067-1013 ( wg V.N.M.S.D. )
@@ -7472,7 +7474,7 @@ Chiny ( Čína , China )
       Huai-jang Wang ( Liu Śuan )         	            23-25 ( wg D.Ś. ) ( Gengshi Di (Liu Xuan) wg T.O.M.O.C.S.D. ) ( Huai-yang Wang (Liu Hsüan) wg D.O.T.W.A.C.A.G.H. )
                                                         24-30 ( wg V.N.M.S.D. )
     Dynastia Han
-      Dynastia wschodnia Han ( Eastern Han Dynsaty , Dynastia Han , Wschodnia Dynastia Han )
+      Dynastia wschodnia Han ( Eastern Han Dynasty , Dynastia Han , Wschodnia Dynastia Han )
         Huai-jang Wang ( Liu Śuan )	                    ?-25 ( wg H.C. )
         Kuang Wu Ti ( Liu Siu )  		                    25-57 ( wg D.Ś. i  H.C. ) ( Guangwu Di (Liu Xiu, 刘秀, 汉光武帝) wg T.O.M.O.C.S.D. ) ( Liu Hsiu wg D.O.T.W.A.C.A.G.H. ) ( Guangwu wg G.C.3000.L.N.O.I.W. )
                                                         30-59 ( wg V.N.M.S.D. )
@@ -7534,7 +7536,7 @@ Chiny ( Čína , China )
         Czing Ti ( Sun Xiu )         	                  258-264 ( wg D.Ś. ) ( Jing Di wg T.O.M.O.C.S.D. ) ( Ching Ti wg D.O.T.W.A.C.A.G.H. )
         Mo Ti                         	                264-280 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
         Wucheng ( Sun Hao )                             264-280 ( Marquis Wucheng wg T.O.M.O.C.S.D. )
-    Dynastia zachodnia Czin ( Jin , Dynastie Ťin , Stát Ťin , Western Chin Dynasty )
+    Dynastia zachodnia Czin ( Jin , Dynastie Ťin , Stát Ťin , Western Chin Dynasty , Jin Daynsty )
       Wu Ti ( Sy-ma Jen )  	                            266-290 ( wg D.Ś. ) ( Ssǔ-ma Yen wg D.O.T.W.A.C.A.G.H. )
                                                         265-290 ( wg V.N.M.S.D. )
                                                         280-? ( Wu-ti wg A.Č.D. )
@@ -8104,13 +8106,14 @@ Chiny ( Čína , China )
     Mao Ce-Tung	                                        1949-1976 (20.10.-9.9.) ( wg 100.N.V.S. )
       			         	                                  przed 1954-po 1972 ( wg M.Ś. )
       			         	                                  przed 1956-? ( Mao Tse-tung wg T.Z.H.K. )
-      				                                          ? ( Mao Tse-tung wg S.S.F.Z.H. ) ( Mao Zedong wg T.D.W.S.A.A.C.I.T.D. i R.W.I.I.W.I.S.S.W.I.M. ) ( Mao wg N.B.Y.T.S.O.W.W.T.A.W.W.B. i H.S.P.Z.S.O. i B.H.D.M.U.W.W.A. i W.C.Z.H.2.2.P.N.E. )
+      				                                          ? ( Mao Tse-tung wg S.S.F.Z.H. ) ( Mao Zedong wg T.D.W.S.A.A.C.I.T.D. i R.W.I.I.W.I.S.S.W.I.M. ) ( Mao wg N.B.Y.T.S.O.W.W.T.A.W.W.B. i H.S.P.Z.S.O. i B.H.D.M.U.W.W.A. i W.C.Z.H.2.2.P.N.E. i T.T.B.P. ) ( Mao Zedong (Mao) wg T.E.I.T.B.H.M.I.E.L. )
                                                         przed 1960-? ( Mao Tse-tung wg F.C.A.R.F. )
                                                         przed 1959-? ( Mao wg K.W.N.I.W.D. )
                                                         1931-? i 1949-po 1964 (7.11.-? i ?-?.7.) ( Mao Ce-tung wg A.Č.D. )
                                                         1949-? ( Mao Ce-tung wg N.G.Z.M. )
                                                         przed 1958-po 1961 ( Mao (Mao Ze-dong) wg E.N.T.C.F.R.S.H.A.P. )
-    Deng Xiaoping                                       ? ( wg E.N.T.C.F.R.S.H.A.P. ) ( Mao Zedong (Mao) wg T.E.I.T.B.H.M.I.E.L. )
+                                                        przed 1973-? (?.1.-?) ( Mao Zedong wg T.D.F. )
+    Deng Xiaoping                                       ? ( wg E.N.T.C.F.R.S.H.A.P. i T.T.B.P. )
     premiers
       Čou En-laj                                        przed 1957-? (1.1.-?) ( wg D.I. )
   Bibliografia :
@@ -8158,6 +8161,8 @@ Chiny ( Čína , China )
       Geniusz Chin: 3000 lat nauki, odkryć i wynalazków
       Dějiny Indie
       Wojna Czu z Han 209-202 p.n.e.
+      The Three-Body Problem
+      The Dark Forest
 
 Chios ( Cius )
   Hippoklos		                                          ?
@@ -21999,12 +22004,13 @@ Kurion
 
 Kurlandia ( Kuronsko )
   Bishopric of Courland ( Biskupstwo Kurlandii )
-  Księstwo Kurlandii ( Kuronské vévodství , Kuronsko-zemgalské vévodství , Duchy of Courland )
+  Księstwo Kurlandii ( Kuronské vévodství , Kuronsko-zemgalské vévodství , Duchy of Courland , Księstwo Kurlandii i Semigalii )
     Dynastia Kettlerów
       Gotard Kettler            	                      1562-1587 ( wg D.Ś. )
                                                         ?-1587 ( wg V.K.T.H.O.H.E. )
                                                         1562-? ( Gotthard Kettler wg S.V.D.K.V. )
                                                         1561-1587 ( Gottfried Kettler wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        1561-? (28.11.-?) ( Gothard Kettler (Kettler) wg N.1562 )
       Wilhelm                      	                    1587-1616 ( wg D.Ś. )
       Fryderyk                     	                    1587-1642 ( wg D.Ś. )
       Jakub                         	                  1642-1682 ( wg D.Ś. )
@@ -22024,6 +22030,7 @@ Kurlandia ( Kuronsko )
       Svaté války - Dějiny křižových výprav
       Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Newel 1562
 
 Kurukšétra ( Říše Kuruů a Paňčálů , Kuru )
   Paríkšita                                             ? ( Parikshit (Paríkšit) wg D.I. )
@@ -23066,7 +23073,7 @@ Litwa ( Litva , Lithuania )
   Boudivid                                              ? ( Budiwid (Butywid, Butwiedis, Budwietis, Budwieć) wg L.P.P. )
   Boudikid                                              przed 1289-? ( Budikid wg L.P.P. )
   Maseke                                                ?-1290 ( wg L.P.P. )
-  Wielkie Księstwo Litewskie ( Grand Duchy of Litva, Vielkie Knyaztva Litvy, Magnus Ducatus Lithuaniae , The Grand Duchy of Lithuania , Wlk. Ks. Litewskie )
+  Wielkie Księstwo Litewskie ( Grand Duchy of Litva, Vielkie Knyaztva Litvy, Magnus Ducatus Lithuaniae , The Grand Duchy of Lithuania , Wlk. Ks. Litewskie , Wielkie Księstwo )
     Dynastia Litawora ( Dynastia Giedyminowiczów , Giedyminowicze , Gediminid Clan , Dynastia Giedymina , Ród Giedymina )
       Pukuwer                                           przed 1291/2-po 1295 ( Pucuwerus (Butuwer, Butumer) wg L.P.P. )
       Witenes ( Vytenis )             	                1295-1316 ( wg D.Ś. )
@@ -23110,12 +23117,13 @@ Litwa ( Litva , Lithuania )
                                                         przed 1444-1492 ( Kazimierz Jagiellończyk wg P.K.I.K.P. ) ( Kazimierz IV Jagiellończyk wg M.1526 )
       Aleksander                         	              1492-1506 ( wg D.Ś. ) ( Alexander wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. ) ( Aleksander Jagiellończyk wg N.G.R.B.I.N.S. ) [King of Poland]
                                                         1492-? ( wg P.K.I.K.P. )
-    Jagiellonowie ( The Jagiellonians )
+    Jagiellonowie ( The Jagiellonians , Dynastia Jagiellonów )
       Zygmunt I Stary ( Sigismund The Elder )           1506-1548 ( wg V.K.T.H.O.H.E. ) ( Zygmunt I wg N.G.R.B.I.N.S. ) [King of Poland]
                                                         przed 1509-po 1542 (7.10.-?) ( Zygmunt I (Zygmunt, Zigsmund, I. Sigismund) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         1506/7-1547 ( Zygmunt Stary (Zygmunt) wg M.1526 )
       Zygmunt II August ( Sigismund-Augustus )          1548-1572 (?-7.7.) ( Zygmunt August wg V.K.T.H.O.H.E. ) [King of Poland]
                                                         1529-1572 ( Zygmunt II wg N.G.R.B.I.N.S. )
+                                                        przed 1561-1572 (28.11.-?) ( Zygmunt August wg N.1562 )
     Henryk Walezy ( Henri de Valois )                   1573-1574 ( wg V.K.T.H.O.H.E. ) [King of Poland]
     Stefan Batory ( Istvan Bathory )                    1575/6-1586 ( Stephen Bathory wg V.K.T.H.O.H.E. ) [King of Poland]
     Zygmunt III Waza ( Sigismund Vasa )                 1587-1632 ( Sigismund III Vasa wg V.K.T.H.O.H.E. ) [King of Poland]
@@ -23153,6 +23161,7 @@ Litwa ( Litva , Lithuania )
       Nikopolis 1396
       Mohacz 1526
       Wojna Czu z Han 209-202 p.n.e.
+      Newel 1562
 
 Litwini
   Dom Centaurów ( House of Kentauras )
@@ -26597,7 +26606,7 @@ Despotat Morei ( Despotat Mistry )
       Historia Wenecji
       Nikopolis 1396
 
-Moskwa ( Muscovy , Moskva , Moskau )
+Moskwa ( Muscovy , Moskva , Moskau , Państwo moskiewskie )
   Księstwo Moskiewskie
     Dynastia Rurykowiczów ( House of Rurik )
       Daniel                    	                      1263-1303 ( wg D.Ś. )
@@ -26615,7 +26624,7 @@ Moskwa ( Muscovy , Moskva , Moskau )
       				                                          1353-1359 (?-13.11.) ( Ivan II Ivanovič Sličný ( Krásný ) wg E.P. )
                                                         przed 1356-1359 ( Iwan II wg L.P.P. )
       Dymitr Doński                                     przed 1363-po 1375 ( Dymitr Iwanowicz (Dymitr) wg L.P.P. ) [Grand Prince of Vladimir]
-  Wielkie Księstwo Moskiewsko-Włodzimierskie ( Wielkie Księstwo Moskiewskie , Grand Duchy of Moscow , Wielkie Księstwo Moskwy , Principality of Moscovy )
+  Wielkie Księstwo Moskiewsko-Włodzimierskie ( Wielkie Księstwo Moskiewskie , Grand Duchy of Moscow , Wielkie Księstwo Moskwy , Principality of Moscovy , W.Ks. Moskiewskie )
     Dynastia Rurykowiczów ( House of Rurik )
       Dymitr Doński        	                            1359-1389 ( wg V.N.M.S.D. i D.Ś. ) ( Dimitri Donskoi wg D.O.T.W.A.C.A.G.H. ) [Grand Prince of Vladimir Dimitri Donskoi]
       			    	                                      przed 1380-? ( Dmitrij wg D.P.I.R.G. ) ( Dimitrij Donský wg Ř.S.J.Ď.S. ) ( Dymitr Iwanowicz (Dymitr) wg J.P.1242 )
@@ -26640,6 +26649,7 @@ Moskwa ( Muscovy , Moskva , Moskau )
       Iwan IV Groźny      	                            1533-1547 ( wg V.N.M.S.D. i D.Ś. ) ( Ivan IV the Terrible (Ivan IV) wg D.O.T.W.A.C.A.G.H. ) ( Iwan IV (Iwan) wg N.G.R.B.I.N.S. ) [Tsar of Russia Ivan IV]
                                                         ?-1547 ( Ivan IV Hrozný wg Ř.S.J.Ď.S. )
                                                         ? ( Ivan IV Terrible wg V.K.T.H.O.H.E. )
+                                                        1533-1584 ( Iwan Groźny (Iwan) wg N.1562 )
    Bibliografia :
       Dynastie Świata
       Velká nástěnná mapa světových dějin
@@ -26657,6 +26667,7 @@ Moskwa ( Muscovy , Moskva , Moskau )
       Maxmilián I. - Zakladatel habsburské světové říše
       The Holy Roman Empire - A Thousand Years of Europe's History
       Obertyn 1531
+      Newel 1562
 
 Mosul
   Emirat Mosulu
@@ -29505,7 +29516,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
       					                                        przed 1453-? ( wg M.Ś. ) ( Mehmet wg Ř.S.J.Ď.S. ) ( Mehmed The Conqueror wg V.K.T.H.O.H.E. )
                                                         1451-1481 (?-3.5.) ( Mehmed II (Mehmed, Mehmed Zdobywca) wg H.W. ) ( Mehmed II Fatih (Mehmed Zdobywca, Mehmed II, Mehmed) wg M.1526 )
                                                         przed 1453-po 1456 (29.5.-?) ( Mehmed II (Mehmed, Mehmed Zdobywca, Mehmed II Zwycięzca, Mehmed II Fatih) wg S.II.W.I.J.C.Z.E.M.P. )
-                                                        ? ( Mehmed II. wg M.I.Z.H.S.R. )
+                                                        ? ( Mehmed II. wg M.I.Z.H.S.R. ) ( Mehmed Zdobywca wg N.1562 )
                                                         1451-1482 ( Mehmed II (Mehmed Zdobywca) wg N.1396 )
       Bayezid II                         	              1481-1512 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. ) ( Bajezid II. wg S.V.D.K.V. ) ( Bajezyd II wg O.1531 )
                                                         1481-1512 (?-26.5.) ( Bajezyd II wg M.1526 )
@@ -29611,6 +29622,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
       Mohacz 1526
       Dějiny Indie
       Obertyn 1531
+      Newel 1562
 
 Bishopric of Osnabrück
   Wotiloph z Osnabrück                                  przed 1002 n.e.-? (24.7.-?) ( wg K.G.1003 )
@@ -31366,7 +31378,7 @@ Pokasettowie
   Bibliografia :
       Wielcy Indianie Ameryki Północnej
 
-Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
+Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rzeczpospolita )
   Polanie
     Popielidzi ( Ród Popiela )
       Popiel                                            ? ( wg O.I.W. i K.1018 i P.W.O.T. )
@@ -31411,7 +31423,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
                                                         przed 1004-po 1018 ( wg R.1168 )
                                                         przed 1013-? ( Bolesław Chrobry wg B.K.1.1. )
                                                         przed 995-po 1018 (28.9.-?) ( Bolesław Chrobry (Bolesław I, Chrobry) wg P.W.O.T. )
-  Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland , Królestwo Polskie )
+  Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland , Królestwo Polskie , Korona Polska )
     Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska , The Piasts , Piasts )
       Bolesław I Chrobry       	                        1025 ( wg D.Ś. i V.N.M.S.D. i W.W.K.R. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. ) ( Bolesław Chrobry (Bolesław, Chrobry) wg P.W.O.T. ) ( Bolesław Chrobry (Bolesław, Piast, Chrobry, Bolesław Chrobry Wielki, Bolesław I Wielki, Bolesław I Chrobry Wielki, Mieszko, Bulizlavus, Bolesław Wielki, Bolesław polski, Bolesław I. von Polen, Bolesław I-szy Wielki) wg K.G.1003 )
                                                         1025 (?-12.6.) ( Bolesław Chrobry (Bolesław I Wielki) wg S.P.D.Z. )
@@ -31452,7 +31464,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
       				        	                                ? ( Boleslav II wg Z.S.A.V.E. ) ( Bolesław II Szczodry wg Z.N.E. ) ( Bolesław Szczodry (Bolesław) wg L.P.P. ) ( Bolesław Szczodry (Bolesław, "Szczodry", "Śmiały", Bolesław II Szczodry) wg M.1047 )
                                                         ?-1076 ( Bolesław Śmiały (Bolesław Szczodry) wg L.1241. ) ( Bolesław Śmiały (Bolesław Szczodry, Bolesław, Śmiały) wg B.K.1.1. )
                                                         przed 1069-? ( Bolesław II Szczodry (Bolesław II, Bolesław, Bolesław Szczodry) wg Z.1205 )
-  Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland , Królestwo Polskie )
+  Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland , Królestwo Polskie , Korona Polska , Korona )
     Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska , The Piasts , Piasts )
       Bolesław II Śmiały        	                      1076-1079 ( wg D.Ś. ) ( Bolesław II Szczodry (Bolesław Szczodry) wg W.W.K.R. ) ( Bolesław II (Bolesław II the Bold) wg D.O.T.W.A.C.A.G.H. ) ( Bolesław wg P.K.I.K.P. ) ( Bolesław II (Bolesław Śmiały, Bolesław) wg P.W.O.T. )
                                                         1076-1082 ( wg V.N.M.S.D. )
@@ -31490,7 +31502,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
     Siemowit II                                         przed 1324-po 1327 (jesień-?) ( wg L.P.P. ) [Książe rawski]
   Dynastia czeska ( House of Bohemia )
     Wacław II              		                          1291-1300 ( wg D.Ś. ) [King of Poland Wacław II]
-  Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland , Królestwo Polskie )
+  Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland , Królestwo Polskie , Korona Polska )
     Przemysł                                            1295-1296 ( wg D.O.T.W.A.C.A.G.H. ) ( Przemysław II (Przemysł II) wg P.K.I.K.P. )
                                                         1295-1296 (26.6.-8.2.) ( Przemysł II (Przemysław, Przemysł II wielkopolski) wg P.W.O.T. )
     Dynastia czeska ( Przemyślidzi )
@@ -31508,7 +31520,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
       				          	                              ? ( Vladislav I Lokýtek wg Z.S.A.V.E. ) ( Władysław Łokietek wg Z.1205 )
                                                         przed 1308-? ( Władysław Łokietek (Łokietek) wg L.P.P. )
                                                         1306-1320 ( Władysław Łokietek (Łokietek) wg P.K.I.K.P. )
-  Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita , Rzeczpospolita Polska , Korona Polski )
+  Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita , Rzeczpospolita Polska , Korona Polski , Korona Polska , Korona )
     Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska , The Piasts , Piasts )
       Władysław I Łokietek    	                        1320-1333 ( wg D.Ś. i V.N.M.S.D. ) ( Władysław I the Short (Władysław I) wg D.O.T.W.A.C.A.G.H. ) ( Władysław Łokietek (Łokietek) wg P.K.I.K.P. )
                                                         ? ( Władysław Łokietek wg O.K.C.J. ) ( wg T.R.L.Z.S.L.R.S.B. )
@@ -31539,7 +31551,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
                                                         1382-1386 ( wg V.K.T.H.O.H.E. )
                                                         1384-1399 ( wg P.K.I.K.P. )
                                                         ? ( wg N.1396 )
-  Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita , Rzeczpospolita Polska , Poland-Lithuania , The Polish-Lithuanian Monarchy , Korona Polski )
+  Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita , Rzeczpospolita Polska , Poland-Lithuania , The Polish-Lithuanian Monarchy , Korona Polski , Korona Polska , Korona )
     Dynastia Jagiellonów ( House of Lithuania , Jagiellonowie , Jagellonci , Jagiellon Dynasty , Jagiellon family , Jagiellons , Jagiellonians , Ród Giedymina , The Jagiellonians , Jagellonians )
       Władysław II Jagiełło    	                        1386-1434 ( wg D.Ś. ) ( Władysław II Jagiełło (Jogaila) wg D.O.T.W.A.C.A.G.H. ) ( Władysław Jagiełło (Władysław) wg P.K.I.K.P. )
                                                         1399-1434 ( wg V.N.M.S.D. )
@@ -31589,6 +31601,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
                                                         przed 1528-? (9.2.-?) ( Zygmunt Stary wg P.W.O.T. )
                                                         przed 1515-po 1516 (22.7.-13.8.) ( Zikmund I. (Zikmund) wg M.I.Z.H.S.R. )
                                                         1506/7-1547 ( Zygmunt (Zygmunt Stary) wg M.1526 )
+                                                        przed 1530-1548 (?-1.4.) ( Zygmunt Stary wg N.1562 )
       Zygmunt II August        	                        1548-1572 ( wg D.Ś. i V.N.M.S.D. i H.W. ) ( Sigismund-Augustus (Sigismund II August, Zygmunt August) wg V.K.T.H.O.H.E. ) ( Zygmunt August wg P.K.I.K.P. )
       					                                        przed 1571-? ( Zygmunt August wg B.M. )
                                                         ? ( Zygmunt August wg O.K.C.J. i P.W.O.T. i M.1526 )
@@ -31599,7 +31612,8 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
                                                         przed 1552-po 1569 ( Zygmunt August wg K.P.S. )
                                                         przed 1550-? (7.12.-?) ( Zygmunt August wg W.P.P.K.O.S. )
                                                         przed 1557-po 1571 ( Zygmunt August wg O.1531 )
-  Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita , Rzeczpospolita Polska , Polish-Lithuanian Commonwealth , Poland-Lithuania )
+                                                        1530/48-1572 (?/1.4.-?) ( Zygmunt August wg N.1562 )
+  Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita , Rzeczpospolita Polska , Polish-Lithuanian Commonwealth , Poland-Lithuania , Korona Polska , Korona )
     House of France
       Henryk Walezy                     	              1573-1575 ( wg D.Ś. i V.N.M.S.D. ) ( Henri de Valois wg V.K.T.H.O.H.E. ) ( Henry wg D.O.T.W.A.C.A.G.H. ) [King of France Henry III]
                                                         1574 (?.2.-?) ( Henryk I Walezy (Walezjusz) wg H.W. )
@@ -31612,7 +31626,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
                                                         1575-1586 ( wg V.N.M.S.D. )
                                                         1575/6-1586 ( Istvan Bathory (Stephen Bathory) wg V.K.T.H.O.H.E. )
       				                                          przed 1578-? ( Štěpán Báthory wg E.P. )
-                                                        ? ( Stefan wg Z.1205 ) ( wg W.P.P.K.O.S. i O.1531 )
+                                                        ? ( Stefan wg Z.1205 i N.1562 ) ( wg W.P.P.K.O.S. i O.1531 )
                                                         przed 1585-? ( Batory wg K.P.S. )
     House of Sweden ( Dynastia Wazów , Vasa family , Dom Wazów )
       Zygmunt III Waza                 	                1587-1632 ( wg D.Ś. i V.N.M.S.D. i N.G.R.B.I.N.S. ) ( Sigismund III Vasa (Sigismund Vasa) wg V.K.T.H.O.H.E. ) ( Sigismund III wg D.O.T.W.A.C.A.G.H. ) ( Zygmunt III wg P.K.I.K.P. ) [King of Sweden Sigismund]
@@ -31632,7 +31646,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
                                                         przed 1683-po 1685 ( wg O.K.C.J.)
                                                         1673-1696 ( Jan Sobieski wg V.K.T.H.O.H.E. )
                                                         przed 1683-1696 ( wg H.W. )
-                                                        ? ( wg L.1241. ) ( Sobieski wg T.R.L.Z.S.L.R.S.B. i Z.W.I.L.O.Z.L.1861. i W.P.P.K.O.S. )
+                                                        ? ( wg L.1241. ) ( Sobieski wg T.R.L.Z.S.L.R.S.B. i Z.W.I.L.O.Z.L.1861. i W.P.P.K.O.S. ) ( Jan III wg N.1562 )
     House of Saxony
       August II Mocny                     	            1697-1704 i 1709-1733 ( wg D.Ś. i V.N.M.S.D. ) ( Augustus II (Augustus II the Strong) wg D.O.T.W.A.C.A.G.H. ) ( August II (August the Strong, Augustus II) wg R.E.P.A.T.M.O.M. ) [Elector of Saxony Frederick Augustus I]
       				         	                                ?-1733 ( wg 100.N.V.S. )
@@ -31749,6 +31763,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie )
       Wojna Czu z Han 209-202 p.n.e.
       Obertyn 1531
       Kraj Głomaczów 1003
+      Newel 1562
 
 Księstwo Połockie ( Principality of Polatsk , Polocké knížectví , Księstwo połockie )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -32305,6 +32320,7 @@ Prusy ( Prussia , Prusko , Preussen )
                                                         przed 1525 (10.5.-?) ( Albrecht Hohenzollern wg O.K.C.J. )
                                                         ? ( Albrecht von Hohenzollern wg J.P.1242 ) ( Albrecht Hohenzollern wg K.P.S. )
                                                         przed 1531-? (13.8.-?) ( wg O.1531 )
+                                                        przed 1552-? ( Albrecht Hohenzollern wg N.1562 )
       Albrecht Fryderyk      	                          1568-1618 ( wg D.Ś. ) ( Albrecht Friedrich wg V.K.T.H.O.H.E. ) ( Albert Frederick wg D.O.T.W.A.C.A.G.H. )
   Księstwo Prus ( Duchy of Prussia , Brandenburg-Prussia , Brandenburg-Preußen )
     Dynastia Hohenzollernów ( The House of Hohenzollern , Hohenzollerns , Hohenzollern dynasty , Die Hohenzollern )
@@ -32374,6 +32390,7 @@ Prusy ( Prussia , Prusko , Preussen )
       The Holy Roman Empire - A Thousand Years of Europe's History
       Conjectures and Refutations - The Growth of Scientific Knowledge
       Obertyn 1531
+      Newel 1562
 
 Księstwo przemyskie ( Przemyśl )
   Rurykowicze
@@ -32807,9 +32824,9 @@ Roroni
       Ostrovy lidojedů
 
 Rosja ( Russia , Rusko )
-  Carstwo Rosji ( The Tsardom of Russia , Imperium Rosyjskie , Russian Empire )
+  Carstwo Rosji ( The Tsardom of Russia , Imperium Rosyjskie , Russian Empire , Wszechruś )
     Dynastia Rurykowiczów ( Rurykowicze , House of Rurik , Ruriks )
-      Iwan IV Groźny                   	                1547-1584 ( wg V.N.M.S.D. i D.Ś. ) ( Ivan IV (Ivan IV the Terrible) wg D.O.T.W.A.C.A.G.H. ) ( Iwan IV (Iwan, Iwan Groźny) wg N.G.R.B.I.N.S. )
+      Iwan IV Groźny                   	                1547-1584 ( wg V.N.M.S.D. i D.Ś. ) ( Ivan IV (Ivan IV the Terrible) wg D.O.T.W.A.C.A.G.H. ) ( Iwan IV (Iwan, Iwan Groźny) wg N.G.R.B.I.N.S. ) ( Iwan Groźny (Iwan) wg N.1562 )
       				           	                              1538-1584 ( Ivan IV wg D.P.I.R.G. )
       				     	                                    ? ( Iwan Groźny wg M.Ś. ) ( Ivan Hrozný wg Z.S.A.V.E. ) ( Ivan IV Vasilijevič Hrozný wg E.P. )
                                                         1547-? ( Ivan IV Hrozný wg Ř.S.J.Ď.S. )
@@ -32970,6 +32987,7 @@ Rosja ( Russia , Rusko )
       Poczet Królów i Książąt Polskich
       The Holy Roman Empire - A Thousand Years of Europe's History
       Dějiny Indie
+      Newel 1562
 
 Księstwo Rostowskie
   Dynastia Rurykowiczów
@@ -33163,10 +33181,12 @@ Ryga
     Jan von Schwerin                                    przed 1298-po 1299 ( wg L.P.P. )
     Isarnus de Fontiano                                 ?-1302 ( wg L.P.P. )
     Fryderyk von Pernstein                              przed 1307-po 1325 ( Frederick wg L.P.P. )
+    Wilhelm                                             przed 1559-po 1561 (15.9.-?.8.) ( wg N.1562 )
   Bibliografia :
       Litwa - Początki Państw
       Jezioro Pejpus 1242
       Svaté války - Dějiny křižových výprav
+      Newel 1562
 
 Rynchinowie
   Perbund                                               ?
@@ -38525,6 +38545,7 @@ Szwecja ( Sweden , Švédsko , Schweden )
                                                         ok.1500 ( Gustaw I Waza wg G.R.I.L. )
       Eryk XIV                               	          1560-1568 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Erik XIV wg E.P. i D.O.T.W.A.C.A.G.H. )
                                                         ? ( Eryk wg G.R.I.L. )
+                                                        przed 1561-? (?.5.-?) ( wg N.1562 )
       Jan III                                      	    1568-1592 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( John III wg D.O.T.W.A.C.A.G.H. )
         					                                      ? ( Johan III wg E.P. ) ( wg K.P.S. )
                                                         1589-1592 ( John III Vasa wg V.K.T.H.O.H.E. )
@@ -38619,6 +38640,7 @@ Szwecja ( Sweden , Švédsko , Schweden )
       Piastowie. Walka o tron 1138–1320
       The Holy Roman Empire - A Thousand Years of Europe's History
       Mazowsze 1047
+      Newel 1562
 
 Šajzar
   Izz ad-Dín                                            przed 1108 n.e.-? ( wg S.V.D.K.V. )
@@ -43638,12 +43660,16 @@ Zakon Kawalerów Mieczowych ( Kawalerowie Mieczowi , Zakon Inflancki , Fratres m
     Eberhard von Monheim                                przed 1339-? ( wg L.P.P. )
     Goswin von Herreke                                  przed 1348-? ( wg L.P.P. )
     Wilhelm von Friemersheim                            przed 1371-po 1375 ( wg L.P.P. )
+  Henryk von Gallen                                     przed 1554-? ( wg N.1562 )
+  Johann Wilhelm von Fürstenberg                        przed 1557-1560 (?-20.8.) ( wg N.1562 )
   Gotard Kettler                                        ?-1561 ( wg V.K.T.H.O.H.E. ) ( Gottfried Kettler wg T.H.R.E.A.T.Y.O.E.H. ) [Duke of Courland]
+                                                        przed 1559-1561 (31.8.-28.11.) ( Gothard Kettler (Kettler) wg N.1562 )
   Bibliografia :
       Litwa - Początki Państw
       Jezioro Pejpus 1242
       Svaté války - Dějiny křižových výprav
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      Newel 1562
 
 Zakon Maltański ( Zakon Kawalerów Rodyjskich , Joannici , Kawalerowie Maltańscy , Zakon Joannitów , Řád svatého Jana , Rytíři sv. Jana , Zakon Rycerzy Szpitala św. Jana w Jerozolimie )
   Fulko de Navarret                                     przed 1311 n.e.-? ( wg N.1396 )
@@ -44246,5 +44272,8 @@ Bibliografia :
     [205] Szkice spod Monte Cassino ; Melchior Wańkowicz ; 1972
     [206] Obertyn 1531 ; Marek Plewczyński ; 2020
     [207] Kraj Głomaczów 1003 ; Mariusz Samp ; 2023
+    [208] The Three-Body Problem ; Cixin Liu ; 2024
+    [209] The Dark Forest ; Cixin Liu ; 2016
+    [210] Newel 1562 ; Marek Plewczyński ; 2023
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
