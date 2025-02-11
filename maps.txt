@@ -56,6 +56,7 @@
     - Niedere Tauern II : Östliche Radstädter- und westliche Schladminger Tauern ; Alpenvereinskarte ; 45/2 ; 1:50000
     - Oberammergau und Ammertal ; Kompass ; 05 ; 1:35000
     - Ötztaler Alpen - Gurgl ; Alpenvereinskarte ; 30/1 ; 1:25000
+    - Pohorje - vzhodni del/wanderkarte - östlicher teil/mountain map - east part/carta alpina - parte orientale ; Planinska zveza Slovenije ; Institut za geodezijo in fotogrametrijo ; Planinska zalozba st. 95 ; 1:50000
     - Pongau + Hochkönig + Saalfelden ; Freytag & Berndt ; WK103 ; 1:50000
     - Salzkammergut ; Kompass ; 229 ; 1:50000
     - Schobergruppe ; Alpenvereinskarte ; 41 ; 1:25000
@@ -76,6 +77,7 @@
     - Šumava - Trojmezí : Boubín - Kvilda - Lenora - Strážný - Volary - Haidmühle - Horní Planá - Nová Pec - Plechý ; Geodézie On Line ; Turistické mapz pro každého ; 81 ; 1:25000
     - Vltava pod Vyšším Brodem a Blanský les ; VKÚ Harmanec ; Edice KČT ; 73 ; 1:50000
   - Karpaty
+    - Gabčíkovo ; VKÚ Harmanec ; 143 ; 1:50000
     - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
     - Malé Karpaty - Juh ; VKÚ Harmanec ; 9 ; 1:25000
   - Česká republika - Praha ; Kartografie Praha ; 1:500000/1:11000
@@ -186,6 +188,7 @@
     - Beskydy ; Geodetický a kartografický podnik v Praze ; Soubor turistických map ; 1:100000
     - Beskydy - automapa ; Geodetický a kartografický podnik v Praze ; Automapa ; 7 ; 1:200000
     - Biele Karpaty - Trenčín ; VKÚ Harmanec ; 107 ; 1:50000
+    - Chvojnická pahorkatina - Skalica ; VKÚ Harmanec ; 149 ; 1:50000
     - Hostýnské vrchy ; VKÚ Harmanec ; Edice KČT ; 94 ; 1:50000
     - Istebna - Milówka - Rajcza - Węgierska Górka ; Galileos ; Plan Wrocław ; 6 ; 1:25000
     - Javorníky - Čadca ; VKÚ Harmanec ; 109 ; 1:50000
@@ -401,6 +404,8 @@
   - Schweiz - Suisse - Svizzera - Switzerland ; Marco Polo ; 1:303000
   - Wyspa Wolin - Woliński Park Narodowy ; ExpressMap ; Comfort! map ; 1:50000
 - Greece
+  - Αίγινα - Egina ; ΕΚΔΟΣΕΙΣ ΟΡΑΜΑ/Orama Editions ; Ελληνικά Νησιά - Greek Islands ; ΧΝΗ 338 ; 1:25000
+  - Άνδρος-Andros ; ΣΚΑΪ ΧΑΡΤΕΣ/SKAI MAPS ; Terrain Cartography ; 307 ; 1:50000
   - Crete - Κρήτη - 401 : Kissamos - Paleochora - Gavdos - Chania - Kolimvari - Κίσσαμος - Παλαιόχωρα - Γαύδος - Χανιά - Κολυμβάρι - Trekking Map ; Nakas Road Cartography ; topo50 ; 401 ; 1:50000
   - Crete - Κρήτη - 402 : Lefka Ori - Samaria - Sfakia - Rethimno - Plakias - Λευκά Όρη - Σαμαριά - Σφακιά - Ρέθυμνο - Πλακιάς - Trekking Map ; Nakas Road Cartography ; topo50 ; 402 ; 1:50000
   - Crete - Κρήτη - 403 : Psiloritis - Bali - Iraklio - Anogia - Ψηλορείτης - Μπαλί - Ηράκλειο - Ανώγεια - Trekking Map ; Nakas Road Cartography ; topo50 ; 403 ; 1:50000
@@ -413,13 +418,19 @@
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Griechenland - Grèce - Ελλάδα - Greece ; Marco Polo ; 1:800000
   - Heraklion Sightseeing Tour - Open Bus - Hop On Hop Off
+  - Κύθνος-Kythnos ; Road Editions ; 106 ; 1:50000
   - Mt Dikti - Mt Selena - Δίκτη - Σελένα ; Anavasi ; Topo 25 ; 11.15 ; 1:35000
+  - Myconos - Holiday Map ; GeoCenter ; Road Editions-ROAD ΕΚΔΟΣΕΙΣ ; 1:40000
   - Νάξος - Nasso ; Freytag & Berndt ; 1:50000
   - Oλυμπος - Mt Olympus ; Anavasi ; Anavasi Maps & Guides ; Topo 25 ; Macedonia 6.11 ; 1:25000 
+  - Παρνασσός-Κίρφη/Parnassos-Kirfi ; Anavasi ; Topo 50 ; Central Greece 2.1 ; 1:50000
   - Prehľadná mapa pre medzinárodné diaľkové spoje - Mapa k cestovnému poriadku ČSD ; Nakladateľstvo dopravy a spojov ; Kartografický a reprodukčný ústav v Prahe ; Ústřední správa geodézie a kartografie ; 1:7200000/?
   - Psiloritis (Mt Ida) - Ψηλορείτης (Ίδη) ; Anavasi ; Anavasi maps & guides ; 1:30000
   - Σάμoς - Samos ; Road Editions ; 210 ; 1:50000
   - Serbien-Montenegro-Mazedonien - Servia-Montenegro-Macedonia - Servië-Montenegro-Macedonië - Serbia-Montenegro-Macedoine - Serbie-Monténégro-Macédoine - Serbia-Montenegro-Macedonia : Autokarte - Mapa de carreteras - Autokaart - Road map - Carte routière - Carta stradale ; Freytag & Berndt ; 1:500000
+  - Σέριφος-Serifos ; Anavasi ; Topo ; Aegean Cyclades 10.25 ; 1:20000
+  - Τήνος-Tinos ; Road Editions-ROAD ΕΚΔΟΣΕΙΣ ; 102 ; 1:40000
+  - Τζιά-Kea (Tzia); Anavasi ; Topo ; Aegean Cyclades 10.41 ; 1:25000
 - Guatemala
   - Mexico ; ITMP Publishing ; International Travel Maps - Mapas Internationale de Viaje ; 1:2000000
 - Honduras
@@ -428,10 +439,14 @@
   - Karpaty
     - Burda - Ipeľská pahorkatina ; VKÚ Harmanec ; 142 ; 1:50000
     - Bükk ; Cartographia A Térképszakértö ; 29 ; 1:40000
+    - Cerová vrchovina - Lučenec ; VKÚ Harmanec ; 141 ; 1:50000
+    - Gabčíkovo ; VKÚ Harmanec ; 143 ; 1:50000
+    - Krupinská planina - Dudince ; VKÚ Harmanec ; 140 ; 1:50000
     - Krupinská planina - Veľký Krtíš ; VKÚ Harmanec ; 146 ; 1:50000
     - Malé Karpaty - Bratislava ; VKÚ Harmanec ; 127 ; 1:50000
     - Mátra ; Cartographia A Térképszakértö - Cartographia Földgömb- és Térképbolt ; 14 ; 1:40000
     - Mátra - Mátraalja, Mátralába ; Szarvas Térképek - map.hu ; 1:30000
+    - Podunajská rovina - Veľký Meder ; VKÚ Harmanec ; 154 ; 1:50000
     - Slanské vrchy - Dargov ; VKÚ Harmanec ; 117 ; 1:50000
     - Slovenský kras ; TatraPlan ; 5037 ; 1:50000
   - Československá socialistická republika ; Kartografické nakladatelství ; Kartografie, n.p. Praha
@@ -695,6 +710,7 @@
     - Gorce ; Compass ; Galileos ; 1:50000
     - Gorce - Kotlina Nowotarska ; VKÚ Harmanec ; 158 ; 1:50000
     - Istebna - Milówka - Rajcza - Węgierska Górka ; Galileos ; Plan Wrocław ; 6 ; 1:25000
+    - Jezioro Solińskie - Mapa turystyczna - Tourist map - Touristenkarte ; PPWK - Polskie Przedsiębiorstwo Wydawnictw Kartograficznych im. Eugeniusza Romera ; 1:25000
     - Kysucké Beskydy - Veľká Rača ; VKÚ Harmanec ; 101 ; 1:50000
     - Laborecká vrchovina - Dukla ; VKÚ Harmanec ; 106 ; 1:50000
     - Ondavská vrchovina - Bardejov ; VKÚ Harmanec ; 105 ; 1:50000
@@ -840,14 +856,19 @@
     - Bieszczady - Bukovské vrchy ; VKÚ Harmanec ; 163 ; 1:50000
     - Bieszczady - Pogórze Przemyskie ; Demart ; 1:75000
     - Burda - Ipeľská pahorkatina ; VKÚ Harmanec ; 142 ; 1:50000
+    - Cerová vrchovina - Lučenec ; VKÚ Harmanec ; 141 ; 1:50000
     - Chočské vrchy - Vodná nádrž Liptovská Mara ; VKÚ Harmanec ; 111 ; 1:50000
+    - Chvojnická pahorkatina - Skalica ; VKÚ Harmanec ; 149 ; 1:50000
     - Čergov ; VKÚ Harmanec ; 104 ; 1:50000
+    - Gabčíkovo ; VKÚ Harmanec ; 143 ; 1:50000
     - Gorce - Kotlina Nowotarska ; VKÚ Harmanec ; 158 ; 1:50000
+    - Hronská pahorkatina - Levice ; VKÚ Harmanec ; 155 ; 1:50000
     - Istebna - Milówka - Rajcza - Węgierska Górka ; Galileos ; Plan Wrocław ; 6 ; 1:25000
     - Javorie - Ostrôžky ; VKÚ Harmanec ; 145 ; 1:50000
     - Javorníky - Čadca ; VKÚ Harmanec ; 109 ; 1:50000
     - Javorníky - Púchov ; VKÚ Harmanec ; 108 ; 1:50000
     - Javorníky - západ ; VKÚ Harmanec ; Edice KČT ; 95 ; 1:50000
+    - Krupinská planina - Dudince ; VKÚ Harmanec ; 140 ; 1:50000
     - Krupinská planina - Veľký Krtíš ; VKÚ Harmanec ; 146 ; 1:50000
     - Kysucké Beskydy - Veľká Rača ; VKÚ Harmanec ; 101 ; 1:50000
     - Laborecká vrchovina - Dukla ; VKÚ Harmanec ; 106 ; 1:50000
@@ -862,6 +883,7 @@
     - Malé Karpaty - Záruby ; VKÚ Harmanec ; 128 ; 1:50000
     - Moravskosleyské Beskydy ; VKÚ Harmanec ; Edice KČT ; 96 ; 1:50000
     - Národný park Malá Fatra ; VKÚ Harmanec ; 8 ; 1:25000
+    - Nitrianska pahorkatina ; VKÚ Harmanec ; 152 ; 1:50000
     - Nízke Tatry - Chopok ; VKÚ Harmanec ; 122 ; 1:50000
     - Nízke Tatry - Chopok + Čertovica ; VKÚ Harmanec ; 1 ; 1:25000
     - Nízke Tatry - Kráľova Hoľa ; VKÚ Harmanec ; 123 ; 1:50000
@@ -872,6 +894,7 @@
     - Pieniny + Szczawnica + Krościenko nad Dunajcem ; Galileos ; Wydawnictwo turystyczne Plan ; 1:25000
     - Pieniński Park Narodowy ; Wydawnictwo Gauss ; 1:20000/1:70000
     - Podunajská rovina - Diakovce ; VKÚ Harmanec ; 153 ; 1:50000
+    - Podunajská rovina - Veľký Meder ; VKÚ Harmanec ; 154 ; 1:50000
     - Poľana ; VKÚ Harmanec ; 133 ; 1:50000
     - Slanské vrchy - Dargov ; 117 ; 1:50000
     - Slezské Beskydy a Jablunkovsko ; VKÚ Harmanec ; Edice KČT ; 97 ; 1:50000
@@ -913,6 +936,7 @@
     - Alpenvereinshütten Übersichtskarte - Die Hütten des Deutschen und des Österreichischen Alpenvereins sowie des Alpenvereins Südtirol in den Alpen ; Alpenverein ; Stand:2015 ; 1:500000
     - Alpy austriackie - Mapa zimowa - Część I ; Gazeta Wyborcza ; 1:400000
     - Julische Alpen ; Freytag & Berndt ; WK141 ; 1:50000
+    - Pohorje - vzhodni del/wanderkarte - östlicher teil/mountain map - east part/carta alpina - parte orientale ; Planinska zveza Slovenije ; Institut za geodezijo in fotogrametrijo ; Planinska zalozba st. 95 ; 1:50000
   - Deutschland - Alemania - Allemagne - Duitsland - Germania - Germany - Německo - Německo - Niemcy - Tyskland ; Marco Polo ; Euro ; 1:750000
   - Europa ; Demart ; moto ; 1:3400000
   - Europa południowa - część wschodnia - mapa samochodowa ; Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych Warszawa ; 1:2000000
@@ -934,6 +958,7 @@
   - Fuertaventura 3in1 ; Kompass ; 240 ; 1:50000
   - Gran Canaria ; Kompass ; 237 ; 1:50000
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
+  - La Gomera 3in1 ; Kompass ; 231 ; 1:30000
   - La Palma ; Kompass ; 232 ; 1:50000
   - Mallorca ; Kompass ; 230 ; 1:75000
   - Mallorca Nord - Formentor-Pinar-Ferrutx - Pollença-Alcúdia-Artà-Capdepera ; Editorial Alpina ; 1:25000

@@ -276,6 +276,7 @@ Ailanum
       Huryci
 
 Królestwo Ailech ( Kingdom of Ailech , Królestwo Północnego Uí Néill )
+  Cenél Conaill
   Eogan mac Niall                          		          ?-466 n.e. ( wg Tapsella )
   Muiredach                                   		      466-? ( wg Tapsella )
   Muirchertach mac Erc                 		              ?-536 ( wg Tapsella )
@@ -291,7 +292,9 @@ Królestwo Ailech ( Kingdom of Ailech , Królestwo Północnego Uí Néill )
   Crunnmael                                  		        630-? ( wg Tapsella )
   Mael Duin mac Mael Fithrich		                        ?-681 ( wg Tapsella )
   Fergal                                          		  681-722 ( wg Tapsella )
-  Aed Allan                                    		      722-743 ( wg Tapsella )
+  Cenél nEógain
+    Aed Allan                                    		    722-743 ( wg Tapsella )
+                                                        przed 732-po 734 ( Áed Allan wg T.P. )
   Niall Frossach                             		        743-778 ( wg Tapsella )
   Mael Duin mac Aed Allan          		                  778-788 ( wg Tapsella )
   Aed Oirnide                                 		      788-819 ( wg Tapsella )
@@ -344,6 +347,7 @@ Królestwo Ailech ( Kingdom of Ailech , Królestwo Północnego Uí Néill )
       The Sagas of the Icelanders
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      The Picts
 
 Emirát Ajdin
   Bibliografia :
@@ -718,8 +722,8 @@ County of Albon
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Alcluith ( Kingdom of The Rock, Dumbarton, Alt Clud , Królestwo Brytów w Strathclyde , Strathclyde )
-  Ceredig Gueldig ( Ceretig Guletic map Cynlop )        ? ( Coroticus (Ceretic Guletic) wg V.K.T.H.O.H.E. )
+Alcluith ( Kingdom of The Rock, Dumbarton, Alt Clud , Królestwo Brytów w Strathclyde , Strathclyde , Ail Cloithe , Aloo , Ail Cluathe )
+  Ceredig Gueldig ( Ceretig Guletic map Cynlop )        ? ( Coroticus (Ceretic Guletic) wg V.K.T.H.O.H.E. ) ( Coroticus (Caratauc) wg T.P. )
   Erbin                                                 ? ( wg V.K.T.H.O.H.E. )
   Cinuit                                                ? ( wg V.K.T.H.O.H.E. )
   Gereint                                               ? ( wg V.K.T.H.O.H.E. )
@@ -733,16 +737,20 @@ Alcluith ( Kingdom of The Rock, Dumbarton, Alt Clud , Królestwo Brytów w Strat
   Nwython ( Neithon, Nechtan )                          ? ( wg V.K.T.H.O.H.E. )
   Bili I ( Beli )                                       ? ( wg V.K.T.H.O.H.E. )
   Ywain ( Owen, Owain )                                 przed 642-? ( wg V.K.T.H.O.H.E. )
+  Gureit                                                ?-658 ( Gureit of Strathclyde wg T.P. )
+  Bile                                                  ? ( wg T.P. )
   Beli II                                               ? ( wg V.K.T.H.O.H.E. )
   Teudebur map Beli ( Tewdwr map Beli )                 ?-752 ( Taudar mac Bili wg V.K.T.H.O.H.E. )
   Dynfwal map Teudebur                                  przed 756-? (1.8.-?) ( wg V.K.T.H.O.H.E. )
   Arthgal                                               przed 870/1-872 ( wg V.K.T.H.O.H.E. )
                                                         przed 870-? ( Artgal wg N.T.V.S. )
+                                                        przed 870-po 871 ( wg T.P. )
   Rhun map Arthgal                                      ok.872-? ( wg V.K.T.H.O.H.E. )
                                                         ? ( Run wg N.T.V.S.)
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Northmen - The Viking Saga 793-1241
+      The Picts
 
 Al-Atharib
   Alan                                                  ? ( wg S.V.D.K.V. )
@@ -1151,7 +1159,7 @@ Anglia ( England , Anglie , English State )
                                                         ?-924 ( Edward wg O.I.W. )
                                                         przed 911-po 914 ( wg F.L.P.D.Ś.W. )
       Elfweard               	                          924 ( wg D.Ś. )
-      Athelstan           	                            924-939 ( wg D.Ś. )
+      Athelstan           	                            924-939 ( wg D.Ś. ) ( Aethelstan wg T.P. )
 					                                              925-940 ( wg V.N.M.S.D. )
 				                                                925-939 ( wg Tapsella i N.S. ) ( Athelstan the Faithful (Athelstan the Victorious) wg T.S.O.T.I. )
 				                                                924-939 (?-27.10.) ( wg E.P. )
@@ -1251,7 +1259,7 @@ Anglia ( England , Anglie , English State )
     Dynastia normandzka ( House of Normandy )
       Wilhelm I Zdobywca   	                            1066-1087 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( William I (William I the Conqueror) wg D.O.T.W.A.C.A.G.H. ) ( William I (William I the Conqueror, William the Conqueror, William the Bastard, William) wg T.S.O.T.I. ) ( Vilém I. Dobyvatel (Vilém Dobyvatel, Vilém, Vilém Normanský, Vilém I.) wg S.V.D.K.V. )
 				         	                                      1066-1087 (25.12.-9.9.) ( wg 100.N.V.S. )
-				         	                                      1066-? ( Vilém Dobyvatel wg D.P.I.R.G. ) ( William of Normandy (William The Conqueror) wg V.K.T.H.O.H.E. ) 
+				         	                                      1066-? ( Vilém Dobyvatel wg D.P.I.R.G. ) ( William of Normandy (William The Conqueror) wg V.K.T.H.O.H.E. )  ( William of Normandy (William) wg T.P. )
                                                         1066-po 1076 ( Wilhelm (Wilhelm Zdobywca, Wilhelm I) wg F.S.B.1066 )
                                                         przed 1086-? ( Wilhelm Zdobywca wg K.W.N.I.W.D. )
                                                         ? ( Wilhelm Zdobywca wg H.W. i M.1176 ) ( Vilém Dobyvatel (Vilém Bastard, Vilém) wg S.N.A.S.E. )
@@ -1270,6 +1278,7 @@ Anglia ( England , Anglie , English State )
     Dynastia z Blois ( House of Blois )
       Stefan       	                                    1135-1154 ( wg D.Ś. i V.N.M.S.D. ) ( Stefan z Boulogne wg Tapsella ) ( Stephen wg D.O.T.W.A.C.A.G.H. i T.S.O.T.I. ) ( Štěpán z Blois (Štěpán, Stephen) wg S.V.D.K.V. )
 			                                                  ? ( Štěpán z Blois wg F.B.C.A.R. ) ( Stephen wg D.A.T.M.T.E.O.G.I. i F.S.B.1066 ) ( Stefan z Blois wg P.W.O.T. )
+                                                        przed 1138-? ( Stephen wg T.P. )
     Dynastia Plantagenetów ( House of Plantagenet , Anjouovci )
       Henryk II                    	                    1154-1189 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Henry II wg N.T.V.S. i D.O.T.W.A.C.A.G.H. i T.H.R.E.A.T.Y.O.E.H. ) ( Henryk II Plantagenet (Henry Plantagenet) wg M.1176 )
                                                         1154-1189 (?-7.7.) ( Jindřich II (Jindřich II., Jindřich, Jindřich II. Anglický, Henry II) wg S.V.D.K.V. )
@@ -1278,7 +1287,7 @@ Anglia ( England , Anglie , English State )
 					                                              1154-? ( Jindřich II wg E.P. )
                                                         przed 1154-po 1166 ( Jindřich II wg Ř.S.J.Ď.S. )
                                                         przed 1161-? ( Henryk II Plantagenet wg R.1168 )
-                                                        ? ( Henryk II Plantagenet wg P.W.O.T. )
+                                                        ? ( Henryk II Plantagenet wg P.W.O.T. ) ( Henry II wg T.P. )
       Henryk                        	                  1170-1183 ( wg D.Ś. ) ( Henry wg D.O.T.W.A.C.A.G.H. )
       Ryszard I Lwie Serce	                            1189-1199 ( wg D.Ś. i Tapsella i V.N.M.S.D. ) ( Richard Lví Srdce wg D.B. ) ( Richard I (Richard I Coeur-de-Lion) wg D.O.T.W.A.C.A.G.H. ) ( Richard the Lionheart (Richard, Richard I 'the Lionheart', Richard I, Richard Löwenherz) wg T.H.R.E.A.T.Y.O.E.H. ) ( Ryszard Lwie Serce (Ryszard I Lwie Serce Plantagenet) wg N.1396 )
                                                         1189-1199 (3.9.-?.4.) ( Richard I. Lví Srdce (Richard I. Anglický, Richard z Poitou, Lví Srdce, Richard I., Richard, Cœur de Lion, Richard Lví Srdce, Richard the Lion-Heart, Richard I) wg S.V.D.K.V. )
@@ -1287,11 +1296,11 @@ Anglia ( England , Anglie , English State )
                                                         przed 1199-? ( Richard the Lionheart wg S.A.B.H.O.H. )
                                                         przed 1189-? ( Ryszard Lwie Serce wg H.W. )
                                                         przed 1197-? ( Ryszard I wg F.H.C.R. )
-                                                        ? ( Ryszard Lwie Serce wg N.I.B.W.XI.S. i G.C.3000.L.N.O.I.W. ) ( Richard Cœur de Lion wg H.O.W.P. )
+                                                        ? ( Ryszard Lwie Serce wg N.I.B.W.XI.S. i G.C.3000.L.N.O.I.W. ) ( Richard Cœur de Lion wg H.O.W.P. ) ( Richard I wg T.P. )
                                                         przed 1192-? (5.8.-?) ( Ryszard Lwie Serce wg F.S.B.1066 )
                                                         przed 1192-po 1194 (?-6.1.) ( Ryszard Lwie Serce wg P.W.O.T. )
       Jan bez Ziemi              	                      1199-1216 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Jan Bezzemek wg D.P.I.R.G. ) ( Jan Bezzemek (Jan) wg S.V.D.K.V. ) ( John wg D.O.T.W.A.C.A.G.H. ) ( John of England (John) wg T.H.R.E.A.T.Y.O.E.H. )
-					                                              ? ( Jan I Bezzemek wg E.P. ) ( John wg V.K.T.H.O.H.E. i H.O.W.P. ) 
+					                                              ? ( Jan I Bezzemek wg E.P. ) ( John wg V.K.T.H.O.H.E. i H.O.W.P. ) ( John of England wg T.P. )
                                                         przed 1204-? ( Jan Bezzemek wg Ř.S.J.Ď.S. )
                                                         przed 1204-po 1213 ( wg F.H.C.R. )
                                                         przed 1205-po 1212 ( Jan wg P.U.D. )
@@ -1312,6 +1321,7 @@ Anglia ( England , Anglie , English State )
                                                         przed 1287-po 1304 ( wg K.W.N.I.W.D. )
                                                         ?-1307 ( wg S.A.B.H.O.H. )
                                                         ? ( wg U.E. i H.O.W.P. i M.T.R.A.F.O.A.K. )
+                                                        przed 1290-po 1296 ( wg T.P. )
       Edward II                     	                  1307-1327 ( wg D.Ś. i V.N.M.S.D. i Tapsella i T.S.O.I.C.O.T.W. i D.O.T.W.A.C.A.G.H. ) ( Eduard II. wg S.V.D.K.V. )
                                                         przed 1307-? ( wg K.W.N.I.W.D. )
                                                         1307-? ( wg S.A.B.H.O.H. )
@@ -1336,7 +1346,7 @@ Anglia ( England , Anglie , English State )
     Linia York ( House of York )
       Edward IV           	                            1461-1470 i 1471-1483 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) ( Eduard IV. wg S.V.D.K.V. )
                                                	        1461-1483 ( wg V.N.M.S.D. )
-                                                        ? ( wg H.O.W.P. ) ( Eduard IV. (Edvard IV., Eduard) wg M.I.Z.H.S.R. )
+                                                        ? ( wg H.O.W.P. i T.P. ) ( Eduard IV. (Edvard IV., Eduard) wg M.I.Z.H.S.R. )
       Edward V             	                            1483 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) ( Eduard V. wg S.V.D.K.V. )
       Ryszard III           	                          1483-1485 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Richard III wg D.O.T.W.A.C.A.G.H. ) ( Richard III. wg S.V.D.K.V. )
     Dynastia Tudorów ( House of Tudor )
@@ -1634,6 +1644,7 @@ Anglia ( England , Anglie , English State )
       Bibracte-Wogezy 58 p.n.e.
       Mercia - The Rise and Fall of a Kingdom
       Szkice spod Monte Cassino
+      The Picts
 
 Anglowie ( Angles )
   Bibliografia :
@@ -3104,6 +3115,16 @@ Ateny ( Athens , Atény , Athény , Athènes , Athen )
       Řecko mezi Makedonií a Římem
       Kadesz 1274 p.n.e.
       Gabiene 316 p.n.e.
+
+Atholl ( Fotla , Ath Fotla , Athfotla )
+  Fotla                                                 ? ( wg T.P. )
+  Dynasty of Drostan
+    Gartnan son of Donald                               ?-663 n.e. ( Gartnat wg T.P. ) [King of Picts Gartnait]
+    Drost                                               ?-678/9 ( Drust (Drostan, Drusten, Druisten, Druist, Drust son of Donald, Drostan son of Donald) wg T.P. ) [King of Picts Drest I]
+    Nechtan                                             przed 710-724 ( Nechtan of Atholl (Nechtan son of Drostan, Naiton) wg T.P. )
+    Talorgan son of Drostan                             724-739 ( Talorgan son of Drostan of Atholl (Talorgan, Talorgan of Atholl) wg T.P. )
+  Bibliografia :
+      The Picts
 
 Atintánové
   Bibliografia :
@@ -4808,6 +4829,7 @@ Królestwo Bernicji ( Bryneich, Berneich , Bernicia , Kingdom of Bernicia )
   Hussa          	                                      585-592 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Aethelfrith                                           592-604 ( wg D.O.T.W.A.C.A.G.H. ) [King of Deira Ethelryk] [King of Northumbria Ethelfrith]
                                                         ok.604-616 ( Æthelfrith (Æthelfrith of Bernicia) wg M.T.R.A.F.O.A.K. )
+                                                        przed 603-? ( wg T.P. )
   Edwin                                                 616-633 (?-14.10.) ( Edwin of Northumbria wg M.T.R.A.F.O.A.K. ) [King of Northumbria] [King of Deira]
   Eanfrith       	                                      633-634 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                           	                            632-633 ( wg Tapsella )
@@ -4821,6 +4843,7 @@ Królestwo Bernicji ( Bryneich, Berneich , Bernicia , Kingdom of Bernicia )
       Northmen - The Viking Saga 793-1241
       Dynasties of the World - A Chronological and Genealogical Handbook
       Mercia - The Rise and Fall of a Kingdom
+      The Picts
 
 Hrabstwo Bertinoro
   Bibliografia :
@@ -6076,6 +6099,7 @@ Brygantowie
       Dzieje Rzymu
 
 Brytania ( Britania )
+  Brutus                                                ? ( wg T.P. )
   Caswallon                   	                        ok.80-ok.50 ( wg V.N.M.S.D. )
       			    	                                      ?-ok.55 ( Kasywelanus wg D.R. )
                                                         ? ( Cassi-vellaunos wg Ř.S.J.Ď.S. )
@@ -6090,11 +6114,15 @@ Brytania ( Britania )
       				                                          przed 43-50 ( Caradoc wg E.P. )
                                                         ? ( Caratacos wg Ř.S.J.Ď.S. )
   Togibundus                 	                          40-43 ( wg D.R. )
+  Carausius                                             ? ( wg T.P. )
+  Constans                                              ? ( wg T.P. )
   Wortigern                   	                        446-464 i 471-481 ( wg V.N.M.S.D. )
+                                                        ? ( Vortigern wg T.P. )
   Wortimer                    	                        464-471 ( wg V.N.M.S.D. )
   Aurelius Ambrosius	                                  481-500 ( wg V.N.M.S.D. )
+  Marius                                                ? ( wg T.P. )
   Artur                           	                    500-542 ( wg V.N.M.S.D. i P.C.R. )
-      				                                          ? ( Artuš wg M.P.M. i Ř.S.J.Ď.S. i D.I. ) ( Arthur wg N.T.V.S. i T.S.O.T.I. ) ( wg P.W.O.T. i N.1396 )
+      				                                          ? ( Artuš wg M.P.M. i Ř.S.J.Ď.S. i D.I. ) ( Arthur wg N.T.V.S. i T.S.O.T.I. i T.P. ) ( wg P.W.O.T. i N.1396 )
   Bibliografia :
       Velká nástěnná mapa světových dějin
       Poczet Cesarzy Rzymskich
@@ -6107,6 +6135,7 @@ Brytania ( Britania )
       Piastowie. Walka o tron 1138–1320
       Nikopolis 1396
       Dějiny Indie
+      The Picts
 
 Księstwo brzeskie [Brześć Litewski]
   Mścisławowicze
@@ -6879,6 +6908,16 @@ Królestwo Cashel i Munsteru ( Kingdom of Munster , Królestwo Munsteru )
       Dynasties of the World - A Chronological and Genealogical Handbook
       Furia ludzi Północy - Dzieje świata Wikingów
       Fulford-Stamford Bridge 1066
+
+Cat
+  Cat                                                   ? ( wg T.P. )
+  Bibliografia :
+      The Picts
+
+Ce
+  Ce                                                    ? ( wg T.P. )
+  Bibliografia :
+      The Picts
 
 Ceasarea
   Eustach Garnier                                       1110 n.e.-? ( wg S.V.D.K.V. ) [Lord of Sidon]
@@ -8394,6 +8433,13 @@ County of Cilli ( Hrabstwo Celje , Hrabstwo Cilli )
       Nikopolis 1396
       Mohacz 1526
 
+Circenn
+  Circenn                                               ? ( wg T.P. )
+  Dynasty of Angus son of Fergus
+    Angus son of Fergus                                 728-761 ( Angus (Hungus, Hungus the son of Fergus, Angus the son of Fergus, Óengus mac Fergusa) wg T.P. ) [King of Picts Onuist]
+  Bibliografia :
+      The Picts
+
 Cisalpine Republic
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
@@ -9634,59 +9680,90 @@ Dali
 
 Dalriada ( Dalreudini , Dál Riata , Argyll , Antrim )
   Reuda                                                 ? ( wg Z.N.E. )
+  Dynasty of Cenél nGabráin ( Cenél nGabráin )
+    Áedan                                               przed ok.580/1-po 603 ( Áedan son of Gabran (Áedan son of Gabran of Dál Riata) wg T.P. ) [King of Dalriada Aedan]
+    Eochaid son of Echdach                              ? ( Eochaid of Dál Riata wg T.P. ) [King of Dalriada Eochaid Angbaid]
+    Áed Find                                            przed 768-778 ( Áed the Fair (Aed, Aed the Fair) wg T.P. ) [King of Dalriada Aed Find]
+    Fergus                               	              ?-781 ( Fergus (Fergus son of Eochaid of Dál Riata) wg T.P. ) [King of Dalriada Fergus mac Eochaid]
+  Dynasty of Cenél Loairn
+    Ferchar Fota                                        ? ( Ferchar the Tall (Ferchar) wg T.P. ) [King of Dalriada]
+    Ainfcellach                                         697-698 ( Armkillach wg T.P. ) [King of Dalriada Ainbcellach]
+    Selbach                                          	  ? ( wg T.P. ) [King of Dalriada]
+    Muiredach                                           733-? ( wg T.P. ) [King of Dalriada]
   Królestwo Dalriady
     Dál Riata Dynasty
-      Fergus Mor mac Erc                                ok.500 n.e. ( wg Tapsella )
+      Fergus Mor mac Erc                                ok.500 n.e. ( wg Tapsella ) ( Fergus son of Erc (Fergus) wg T.P. )
                                                         ?-501 ( Fergus Mór mac Eirc wg N.T.V.S. )
       Domangart mac Fergus                            	ok.500-ok.506 ( wg Tapsella )
       Comgall                                           ok.506-ok.538 ( wg Tapsella )
       Gabran                                            ok.538-559 ( wg Tapsella )
                                                         ? ( Gabrian wg Z.N.E. )
+                                                        ?-558/60 ( wg T.P. )
       Conall mac Comgall                                559-574 ( wg Tapsella )
                                                         przed ok.573-574 ( Conall wg Z.N.E. )
                                                         przed 563-? ( Conall wg N.T.V.S. )
-      Aedan                                             574-608 ( wg Tapsella )
+                                                        ?-574 ( Conall son of Comgall wg T.P. )
+      Dynasty of Cenél nGabráin ( Cenél nGabráin )
+        Aedan                                           574-608 ( wg Tapsella )
                                                         574-po 590 ( Aedan mac Gabrain wg V.K.T.H.O.H.E. )
                                                         574-po 603 ( Aidan wg Z.N.E. )
+                                                        przed ok.580/1-po 603 ( Áedan (Áedan son of Gabran, Áedan son of Gabran of Dál Riata) wg T.P. )
       Eochaid Buide                                     608-629 ( wg Tapsella )
+                                                        ?-629 ( Eochaid The Blond (The Blond) wg T.P. )
       Connad Cerr                                       629-? ( wg Tapsella )
       Ferchar mac Connad  				                      ? ( wg Tapsella )
       Domnall Brecc                                     629-642 ( wg Tapsella )
                                                         ok.629-642 ( wg N.T.V.S. )
+                                                        ? ( Freckled Domnall (Domnall Freckled) wg T.P. )
     Conall Crandomna                                   	642-660 ( wg Tapsella )
     Dunchad mac Duban                                  	642-660 ( wg Tapsella )
     Domangart mac Domnall                           	  660-673 ( wg Tapsella )
     Mael Duin                                          	673-689 ( wg Tapsella )
     Domnall Donn                                       	689-? ( wg Tapsella )
-    Ferchar Fota                                       	ok.676-? ( wg Tapsella )
+    Dynasty of Cenél Loairn
+      Ferchar Fota                                      ok.676-? ( wg Tapsella )
+                                                        ? ( Ferchar the Tall (Ferchar) wg T.P. )
     Eochaid mac Domangart                             	697 ( wg Tapsella )
-    Ainbcellach                                        	697-698 ( wg Tapsella )
+    Dynasty of Cenél Loairn
+      Ainbcellach                                       697-698 ( wg Tapsella ) ( Ainfcellach (Armkillach) wg T.P. )
     Fiannamail                                         	698-700 ( wg Tapsella )
-    Selbach                                          	  700-723 ( wg Tapsella )
-    Eochaid Angbaid                                    	?-733 ( wg Tapsella )
+    Dynasty of Cenél Loairn
+      Selbach                                          	700-723 ( wg Tapsella )
+                                                        ? ( wg T.P. )
     Dungal                                             	?-726 ( wg Tapsella )
+    Dynasty of Cenél nGabráin ( Cenél nGabráin )
+      Eochaid Angbaid                                   ?-733 ( wg Tapsella )
+                                                        ? ( Eochaid son of Echdach (Eochaid of Dál Riata) wg T.P. )
     Alpin mac Eochaid                                  	ok.733-736 ( wg Tapsella )
-    Muiredach                                          	ok.733-736 ( wg Tapsella )
+    Dynasty of Cenél Loairn
+      Muiredach                                         ok.733-736 ( wg Tapsella )
+                                                        733-? ( wg T.P. )
     Onuist                                             	741-748 ( wg Tapsella )
-    Aed Find                                          	ok.748-778 ( wg Tapsella )
+    Dynasty of Cenél nGabráin ( Cenél nGabráin )
+      Aed Find                                          ok.748-778 ( wg Tapsella )
                                                         przed 768-? ( Aed Finn wg Z.N.E. )
-    Fergus mac Eochaid                               	  778-781 ( wg Tapsella )
+                                                        przed 768-778 ( Áed Find (Áed the Fair, Aed, Aed the Fair) wg T.P. )
+      Fergus mac Eochaid                               	778-781 ( wg Tapsella )
+                                                        ?-781 ( Fergus (Fergus son of Eochaid of Dál Riata) wg T.P. )
     Domnall                                            	781-805 ( wg Tapsella )
                                                         ? ( Donald wg Z.N.E. )
     Conall mac Tadg ( Canaul )			                    805-807 ( wg Tapsella )
     Conall mac Aedan                                  	807-811 ( wg Tapsella )
     Constantine                                        	811-820 ( wg Tapsella ) [King of the Picts]
-                                                        ? ( Konstantyn wg Z.N.E. )
+                                                        ? ( Konstantyn wg Z.N.E. ) ( Constantine son of Fergus (Constantinus filius Fergus, Constantine, Custantin) wg T.P. )
     Angus ( Unuist )                                  	820-834 ( wg Tapsella )
     Aed mac Boanta                                     	?-839 ( wg Tapsella i N.T.V.S. )
-    Eoganan mac Angus                                  	ok.826-839 ( wg Tapsella )
+    Eoganan mac Angus                                  	ok.826-839 ( wg Tapsella ) [King of Picts Uuen]
+                                                        ?-839 ( Eóganán son of Angus (Euganan mac Oengussa, Eóganán, Uoenaen) wg T.P. )
     Alpin mac Eochaid                                  	839-842 ( wg Tapsella )
+                                                        ?-834 (?-22.7.) ( Alpin wg T.P. )
     Eoganan                                            	ok.842 ( wg Tapsella )
     Kenneth I                                          	ok.840-842 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [King of Scotland]
                                                        	843-858 ( Kenneth mac Alpin wg Tapsella )
                                                         ?-858 ( Cinead mac Alpin (Kenneth macAlpin) wg V.K.T.H.O.H.E. ) ( Kenneth (Cinaéd mac Alpin) wg Z.N.E. )
                                                         przed 842/3-858 ( Kenneth mac Alpin (Kenneth) wg N.T.V.S. )
                                                         ? ( Kenneth Mac Alpin (Kenneth) wg S.N.A.S.E. )
+                                                        ok.840-po ok.854 ( Kenneth son of Alpín (Kenneth son of Alpin, Kenneth, Cinaéd mac Ailpín, Kenneth I son of Alpin, Kenneth I MacAlpin, Cinaéd I son of Alpin, Cinaéd I MacAlpin) wg T.P. )
     Constantine I                                       863-877 ( wg V.K.T.H.O.H.E. )
   Somerled                                              przed 1140-1164 ( wg N.T.V.S. )
   Bibliografia :
@@ -9697,6 +9774,7 @@ Dalriada ( Dalreudini , Dál Riata , Argyll , Antrim )
       Northmen - The Viking Saga 793-1241
       Dynasties of the World - A Chronological and Genealogical Handbook
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
+      The Picts
 
 Damaszek ( Damašek , Damascus )
   Aram-Damaszek ( Aram-Damašek )
@@ -10160,6 +10238,12 @@ Kingdom of Dál Cais
       Northmen - The Viking Saga 793-1241
       Furia ludzi Północy - Dzieje świata Wikingów
 
+Dál nAraide ( Cruithne )
+  Fiachna Lurga                                         przed 603 n.e.-? ( wg T.P. )
+  Cathusach son of Máel Duin                            ?-682 ( Cathusach mae Maeleduin wg T.P. )
+  Bibliografia :
+      The Picts
+
 Dátija
   Bibliografia :
       Dějiny Indie
@@ -10611,13 +10695,14 @@ Dublin
                                                         853-871/4/5 ( Olaf (Olaf the White, Amláib) wg N.T.V.S. )
                                                         przed 854-ok.874 ( Olaf (Amlaib, Olaf Biały) wg F.L.P.D.Ś.W. )
                                                         853-? ( Olaf Bílý wg S.N.A.S.E. ) ( Olaf Biały wg F.S.B.1066 )
+                                                        przed 870-po 871 ( Olaf wg T.P. )
     Auisle                                              863-837 ( wg N.T.V.S. )
     Ívarova dynastie ( Dynastia Uí Ímair )
       Ivar I Ragnarson the Boneless	                    871-873 ( wg Tapsella )
                                                         853/71-873 ( Ivar I (Ivar, Ímhair) wg N.T.V.S. )
                                                         ?-873 ( Ivar wg F.L.P.D.Ś.W. ) 
                                                         853-873 ( Ívar I. (Ívar bez kostí, Ívar) wg S.N.A.S.E. )
-                                                        ? ( Ivar wg F.S.B.1066 )
+                                                        ? ( Ivar wg F.S.B.1066 i T.P. )
     Eystein Olafson                          	          873-875 ( wg Tapsella ) ( Oystín (Eystein, Eystein Olafsson) wg N.T.V.S. )
     Halfdan Ragnarson                     	            875-877 ( wg Tapsella ) [King of York]
                                                         ? ( Alband (Halfdan) wg N.T.V.S. )
@@ -10701,6 +10786,7 @@ Dublin
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Fulford-Stamford Bridge 1066
       Mercia - The Rise and Fall of a Kingdom
+      The Picts
 
 Republika Dubrownicka
   Bibliografia :
@@ -12837,6 +12923,16 @@ Ferrara
       Dynasties of the World - A Chronological and Genealogical Handbook
       Książęta piastowscy Śląska
 
+Fib ( Fife )
+  Fib                                                   ? ( wg T.P. )
+  Bibliografia :
+      The Picts
+
+Fidach
+  Fidach                                                ? ( wg T.P. )
+  Bibliografia :
+      The Picts
+
 Fideny
   Bibliografia :
       Kronika Rzymu i Cesarstwa Rzymskiego
@@ -13039,11 +13135,25 @@ Hrabství Forez
   Bibliografia :
       Svaté války - Dějiny křižových výprav
 
-Fortriu
-  Nechtan                                               ?-621 n.e.
-  Bridei map Bili                                       przed 685-? (20.5.-?)
+Fortriu ( Strong )
+  Fortriu                                               ? ( wg T.P. )
+  Nechtan                                               ?-621 n.e. ( wg V.K.T.H.O.H.E. )
+  Bridei map Bili                                       przed 685-? (20.5.-?) ( wg V.K.T.H.O.H.E. ) [King of Picts Bridei III]
+                                                        przed 682-693 ( Brude (Brude son of Bile) wg T.P. )
+  Dynasty of Deirili
+    Brude                                               przed 697-706 ( Brude son of Deirili (Brude son of Derili) wg T.P. ) [King of Picts Bridei IV]
+    Kenneth                                             706-713 ( Cinaéd (Kenneth son of Deirili, Cinaéd son of Deirili) wg T.P. )
+    Nechtan                                             ?-726 i 728-729 ( Nechtan son of Der-Ilei (Nechtan mac Deirili) wg T.P. ) [King of Picts Nechton]
+  Talorgan                                              przed 736-750 ( Talorgan son of Fergus wg T.P. ) [King of Picts Talorgen]
+  Brude                                                 ?-763 ( wg T.P. ) [King of Picts Bridei V]
+  Elpin son of Wroid                                    ?-780 ( Alpin (Alpin son of Feret, Alpín son of Feret, Alpín, Eilpin, Alpín son of Ferant) wg T.P. ) [King of Picts Alpin II]
+  Drest son of Wroid                                    ? ( wg T.P. )
+  Constantine son of Fergus                             przed 789/90-820 ( Constantinus filius Fergus (Constantine, Custantin) wg T.P. ) [King of Picts Constantine]
+  Angus son of Fergus                                   820-834 ( Angus (Óengus, Unist) wg T.P. ) [King of Picts Unuist]
+  Eóganán                                               ?-839 ( Eóganán son of Angus (Euganan mac Oengussa, Uoenaen) wg T.P. ) [King of Picts Uuen]
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      The Picts
 
 County of Fourcalquier
   Bibliografia :
@@ -13307,7 +13417,7 @@ Francja ( France , Francie , Frankreich )
       Ludwik XIV          	                            1643-1715 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Ludvík XIV wg Ř.S.J.Ď.S. ) ( Louis XIV wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. ) ( Louis XIV (Louis) wg R.E.P.A.T.M.O.M. ) ( Louis XIV (Louis, Sun Kings, Ludwig XIV, Ludwig XIV.) wg T.H.R.E.A.T.Y.O.E.H. ) ( Ludvík XIV. wg D.I. )
 			     	                                            ok.1652 ( wg 100.N.V.S. )
 			     	                                            przed 1682-? ( Ľudovít XIV wg O.A. )
-			   	                                              ? ( wg 100.N.U.W. i P.J.D. i C.K.F.) ( Louis XIV wg C.O.T.U.F.T.A.T.A. i H.O.W.P. ) ( Ludvík XIV. wg P.N.D. )
+			   	                                              ? ( wg 100.N.U.W. i P.J.D. i C.K.F.) ( Louis XIV wg C.O.T.U.F.T.A.T.A. i H.O.W.P. i T.P. ) ( Ludvík XIV. wg P.N.D. )
 			  	                                              przed 1674 -? ( wg B.M. )
 			     	                                            1661-1715 ( marzec-? ) ( wg M.Ś. )
 				                                                przed 1670-? ( Ludvík XIV wg V.F.V. )
@@ -13515,6 +13625,7 @@ Francja ( France , Francie , Frankreich )
       How We Learn - The New Science of Education and the Brain
       Bibracte-Wogezy 58 p.n.e.
       Wojna Czu z Han 209-202 p.n.e.
+      The Picts
 
 Frankfurt
   Principality of Frankfurt
@@ -13576,7 +13687,7 @@ Frankowie ( Franks , Frankové , Franken , The Franks )
                                                         481-511 ( wg V.N.M.S.D. i Tapsella i T.H.R.E.A.T.Y.O.E.H. ) ( Chlodvík wg D.P.I.R.G. )
       				    	                                    ? ( Chlodvík wg M.A.E. i Z.S.A.V.E. i S.N.A.S.E. ) ( wg H.O.W.P. )
       			             	                              przed 481-? ( Chlodvík wg D.B. )
-      			             	                              przed 496-? ( Chlodvík wg Ř.V.G. )
+      			             	                              przed 496-? ( Chlodvík wg Ř.V.G. ) ( Clovis wg T.P. )
                                                         ok.475 ( Chlodvík wg Ř.S.J.Ď.S. )
                                                         przed ok.485-511 ( wg V.K.T.H.O.H.E. )
                                                         przed 496-po 497 ( wg Z.N.E. )
@@ -13746,7 +13857,7 @@ Frankowie ( Franks , Frankové , Franken , The Franks )
                                                         przed 774-po 799 ( Charles the Great (Charles) wg H.O.W.P. )
                                                         przed 778-? ( Karol Wielki wg C.K.F. )
                                                         przed 782-814 ( Karol Wielki wg F.L.P.D.Ś.W. )
-                                                        ? ( Karol Wielki (Charlemagne) wg Arab. ) ( Karel Veliký wg O.L.S.S.Z.C.Z.A.O.V.H. ) ( Karol Wielki wg R.1168 ) 
+                                                        ? ( Karel Veliký wg O.L.S.S.Z.C.Z.A.O.V.H. ) ( Karol Wielki wg R.1168 i Arab. ) ( Karlus wg T.P. )
                                                         przed 785-po 808 ( Charles wg M.T.R.A.F.O.A.K. )
                                                         768-814 (?-28.1.) ( Karol Wielki (Karol, Karl der Große) wg F.841 )
                                                         przed 780-814 ( Karol Wielki wg K.G.1003 )
@@ -13789,6 +13900,7 @@ Frankowie ( Franks , Frankové , Franken , The Franks )
       Fontenoy 841
       Mercia - The Rise and Fall of a Kingdom
       Kraj Głomaczów 1003
+      The Picts
 
 Frankowie Nadreńscy ( Frankowie Rypuarscy )
   Genobaud                                              przed 289 n.e.-? ( wg C.K.F. )
@@ -14853,6 +14965,7 @@ Gwinea
       Fidel & Che - A Revolutionary Friendship
 
 Księstwo Gwynedd ( Gwynned , Kingdom of Gwynedd , Gwynedd )
+  Cunedda                                               ? ( Cunedda of Gododdin wg T.P. )
   Cadwallon Lawhir                	                    ok.500-ok.517 ( wg Tapsella )
   Maelgwn Hir                        	                  ok.517-547 ( wg Tapsella )
                                                         ?-547/9 ( Maelgwn wg Ř.S.J.Ď.S. )
@@ -14873,6 +14986,7 @@ Księstwo Gwynedd ( Gwynned , Kingdom of Gwynedd , Gwynedd )
   Caradog                                               ?-798 ( wg M.T.R.A.F.O.A.K. )
   Gwriad                                                825 ( wg D.O.T.W.A.C.A.G.H. )
   Merfyn Piegaty                     	                  825-844 ( wg D.Ś. i Tapsella ) ( Merfyn the Freckled wg D.O.T.W.A.C.A.G.H. )
+                                                        ? ( Merfyn of Gwynedd wg T.P. )
   Rhodri I Wielki                     	                844-878 ( wg D.Ś. i Tapsella ) ( Rhodri Mawr wg N.T.V.S. ) ( Rhodri I (Rhodri I the Great) wg D.O.T.W.A.C.A.G.H. )
                                                         ?-878 ( Rhodri Mawr (Rhodri) wg M.T.R.A.F.O.A.K. )
   Anarawd                               	              878-916 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
@@ -14903,7 +15017,7 @@ Księstwo Gwynedd ( Gwynned , Kingdom of Gwynedd , Gwynedd )
   Trahaern ap Caradog		                                1075-1081 ( wg Tapsella )
   Gruffydd II                            	              1081-1137 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Gruffydd ap Cynan wg Tapsella )
                                                         ? i 1099-? ( Gruffudd ap Cynan wg F.L.P.D.Ś.W. )
-                                                        ? ( Gruffudd ap Cynan (Gruffud ap Cynan) wg F.S.B.1066 )
+                                                        ? ( Gruffudd ap Cynan (Gruffud ap Cynan) wg F.S.B.1066 ) ( Gruffudd son of Cynan wg T.P. )
   Owain                                    	            1137-1170 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Owain Gwynedd wg Tapsella )
   Cynan II                                 	            1170-1174 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
   Iorwerth Drwyndwn              	                      1170-1174 ( wg Tapsella )
@@ -14928,6 +15042,7 @@ Księstwo Gwynedd ( Gwynned , Kingdom of Gwynedd , Gwynedd )
       Furia ludzi Północy - Dzieje świata Wikingów
       Fulford-Stamford Bridge 1066
       Mercia - The Rise and Fall of a Kingdom
+      The Picts
 
 Kingdom of Gwynedd and Powys
   Gruffudd ap Llywelyn                                  przed 1039-1063 ( Gruffudd wg M.T.R.A.F.O.A.K. ) [King of Gwynedd Gruffydd I]
@@ -15428,11 +15543,12 @@ Ha´apai
       Dynasties of the World - A Chronological and Genealogical Handbook
 
 Hebrides ( Wyspy Południowe , Suðreyar )
+  Gofraid                                               ?-853 n.e. ( Gofraid son of Fergus wg T.P. ) [King of Oriel]
   Ketil Flatnose                                        ? ( wg N.T.V.S. )
   Thorstein the Red                                     ? ( wg N.T.V.S. )
                                                         przed ok.890-? ( Thorstein Rudy (Thorstein) wg F.L.P.D.Ś.W. )
   Gilli                                                 ? ( wg N.S. )
-  Maccus                                                przed 973 n.e.-? ( wg N.T.V.S. ) [King of Man]
+  Maccus                                                przed 973-? ( wg N.T.V.S. ) [King of Man]
   Echmarcach mac Ragnaill                               przed 1031-po 1052 ( wg N.T.V.S. )
   Godred Crovan                                         1079-? ( wg N.T.V.S. ) [King of Man]
   Sigurd                                                1102-? ( wg N.T.V.S. ) [King of Norway]
@@ -15444,6 +15560,7 @@ Hebrides ( Wyspy Południowe , Suðreyar )
       Njal's Saga
       Northmen - The Viking Saga 793-1241
       Furia ludzi Północy - Dzieje świata Wikingów
+      The Picts
 
 Hebron
   Szuwardata                                            ?
@@ -16343,7 +16460,7 @@ Icenowie
                                          	              ?-61 ( wg P.C.R. )
       		    	                                        ok.61 ( Boudikka wg D.R. )
       		    	                                        przed 60-61 ( Budikka wg K.R.I.C.R. )
-                                                        ? ( Boudicca wg Ř.S.J.Ď.S. ) ( Boadicea wg H.O.W.P. )
+                                                        ? ( Boudicca wg Ř.S.J.Ď.S. ) ( Boadicea wg H.O.W.P. i T.P. )
                                                         przed 60-po 61 ( wg B.5.5.P.N.E. )
   Bibliografia :
       Dzieje Rzymu
@@ -16353,6 +16470,7 @@ Icenowie
       Říše slova - Jazykové dějiny světa
       Brytania 55-54 p.n.e.
       History of Western Philosophy
+      The Picts
 
 Idalion
   Bibliografia :
@@ -16662,11 +16780,15 @@ Irkata
 Irlandia ( Ireland , Irsko , Eriu )
   Slaine                                                  1934-1933 ( wg V.K.T.H.O.H.E. )
   Bres                                                    1897-1890 ( wg V.K.T.H.O.H.E. )
+  Conn                                                    ? ( wg T.P. )
+  Gilmaurius                                              ? ( Gille Maire ("Servant of Mary") wg T.P. )
   Arcykrólestwo Irlandii ( Kingdom of Tara , The High Kingship of Ireland )
+    Crimthann                                             ? ( wg T.P. )
     Dynastia Uí Néill ( Uí Néill dynasty )
       Niall od Dziewięciu Zakładników	                    445-452 ( wg D.Ś. ) ( Niall of the Nine Hostages wg D.O.T.W.A.C.A.G.H. )
                                                           ?-ok.450 ( Niall Noigiallach wg Tapsella )
       Nath Í                                             	ok.450-? ( wg Tapsella )
+                                                          ? ( Nath-í (Dathí) wg T.P. )
       Lóegaire                                          	452-463 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Loeguire wg Tapsella )
       Ailill Molt                                       	463-482 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
       Lugaid                                             	482-507 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
@@ -16803,6 +16925,7 @@ Irlandia ( Ireland , Irsko , Eriu )
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Fulford-Stamford Bridge 1066
+      The Picts
 
 Irnthi
   Bibliografia :
@@ -18373,11 +18496,12 @@ Knížectví Kalát ( Kalát )
       Dějiny Indie
 
 Kaledończycy ( Caledonians )
-  Calgacus                                              ? ( wg S.A.B.H.O.H. )
+  Calgacus                                              ? ( wg S.A.B.H.O.H. i T.P. )
                                                         przed 84 n.e.-? ( wg B.5.5.P.N.E. )
   Bibliografia :
       Sapiens - A Brief History of Humankind
       Brytania 55-54 p.n.e.
+      The Picts
 
 Kalifat ( Caliphate , The Caliphate , Kalifat Arabski , Chalífát )
   Mohamed	                                              622-632 ( wg D.B. ) ( Mahomet (Muhammad, Muhammad Ibn Abd Allah, Prorok, Mohammad) wg Arab. )
@@ -20765,7 +20889,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
                                                         ? ( Pelagiusz II wg G.R.I.L. )
                                                         przed 579-590 ( wg H.O.W.P. )
   Grzegorz I                      	                    590-604 ( wg Tapsella ) ( Grzegorz I Wielki wg Z.N.E. ) ( Gregory I (Gregory I the Great, Gregory I 'the Great') wg T.H.R.E.A.T.Y.O.E.H. )
-      			         	                                  ? ( Řehoř I Veliký wg Z.S.A.V.E. ) ( Gregory the Great wg N.T.V.S. i T.S.O.T.I. ) ( Řehoř I. wg S.V.D.K.V. ) ( Gregory the Great (Gregory) wg M.T.R.A.F.O.A.K. )
+      			         	                                  ? ( Řehoř I Veliký wg Z.S.A.V.E. ) ( Gregory the Great wg N.T.V.S. i T.S.O.T.I. ) ( Řehoř I. wg S.V.D.K.V. ) ( Gregory the Great (Gregory) wg M.T.R.A.F.O.A.K. ) ( Gregory I wg T.P. )
                                                         przed 600-? (?.7.-?) ( Gregorius I wg B.S. )
                                                         ?-604 ( Grzegorz I Wielki (Grzegorz, Grzegorz Wielki, Św. Grzegorz Wielki) wg G.R.I.L. )
                                                         590-po 593 ( Gregory the Great (Gregory, Gregory I) wg H.O.W.P. )
@@ -20777,6 +20901,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
   Honoriusz I                     	                    625-638 ( wg Tapsella )
       				                                          ? ( Honorius wg D.B. i H.O.W.P. ) ( Honorius I wg Z.S.A.V.E. ) ( wg K.6. )
                                                         przed 638-? (9.1.-?) ( Honoriusz wg G.R.I.L. )
+                                                        przed 431-? ( Honorius wg T.P. )
   Severinus                       	                    640 ( wg Tapsella )
   Jan IV                             	                  640-642 ( wg Tapsella )
   Teodor I                         	                    642-649 ( wg Tapsella )
@@ -20803,11 +20928,12 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
   Jan VII                            	                  705-708 ( wg Tapsella )
   Sisinnius                         	                  708 ( wg Tapsella )
   Konstantyn                     	                      708-715 ( wg Tapsella )
-  Grzegorz II                     	                    715-731 ( wg Tapsella )
+                                                        ? ( Constantine wg T.P. )
+  Grzegorz II                     	                    715-731 ( wg Tapsella ) ( Gregory II (Gregory) wg T.P. )
       				                                          ? ( Řehoř II wg D.B. )
                                                         przed 726-? ( wg H.W. )
                                                         przed 719-po 722 ( Gregory II wg H.O.W.P. )
-  Grzegorz III                 	                        731-741 ( wg Tapsella ) ( Řehoř III. wg S.V.D.K.V. )
+  Grzegorz III                 	                        731-741 ( wg Tapsella ) ( Řehoř III. wg S.V.D.K.V. ) ( Gregory III (Gregory) wg T.P. )
       			         	                                  przed 730-? ( Řehoř III wg D.B. )
                                                         przed 739-po 740 ( wg Z.N.E. )
                                                         przed 739-741 ( Gregory III wg H.O.W.P. )
@@ -20817,6 +20943,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
                                                         przed 741-? ( wg H.O.W.P. )
                                                         przed 751-? ( Zachary wg T.H.R.E.A.T.Y.O.E.H. )
                                                         przed 747-? ( Zachary wg M.T.R.A.F.O.A.K. )
+                                                        przed 743-? ( wg T.P. )
   Szczepan II                                           752-755 ( wg Tapsella )
       			         	                                  przed 754 -? ( Štěpán II wg D.B. i Z.S.A.V.E. )
                                                         przed 751-? ( Stefan II wg Z.N.E. ) ( Stefan III wg H.W. )
@@ -20840,6 +20967,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
                                                         przed 773-? ( wg Z.N.E. )
                                                         przed 772-po 781/881 (?.2.-?/15.4.) ( Hadrian wg F.841 )
                                                         przed 785-po 786 ( Hadrian wg M.T.R.A.F.O.A.K. )
+                                                        przed 786-? ( Hadrian wg T.P. )
     Leon III                                         		795-816 ( wg V.N.M.S.D. i Tapsella ) ( Lev III. wg S.V.D.K.V. ) ( Leo III (Leo III.) wg T.H.R.E.A.T.Y.O.E.H. )
       					      		                              ok.800 ( wg 100.N.V.S.D. )
       					      		                              przed 800-? ( wg K.R.I.C.R. ) ( Lev III wg D.B. )
@@ -21563,6 +21691,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
       Dějiny Indie
       Mercia - The Rise and Fall of a Kingdom
       Kraj Głomaczów 1003
+      The Picts
 
 Kottúra ( Koddura )
   Svámidatta                                            ? ( wg D.I. )
@@ -23470,9 +23599,9 @@ Lotaryngia ( Lorraine )
       The Holy Roman Empire - A Thousand Years of Europe's History
 
 Lothian ( Lleddiniawn )
+  Loth                                                  ? ( wg T.P. )
   Bibliografia :
-      Vanished Kingdoms - The History of Half-Forgotten Europe
-      Mercia - The Rise and Fall of a Kingdom
+      The Picts
 
 County of Louvain
   Godfrey I                                             przed 1106 n.e.-? ( Godfrey I the Bearded wg D.O.T.W.A.C.A.G.H. ) [Duke of Lower Lorraine] [Duke of Brabant]
@@ -25635,6 +25764,7 @@ Królestwo Mercji ( Mercia , Kingdom of Mercia , Mercja , Mercie , Mercian Kingd
       			                                            626-654 ( wg Tapsella )
                                                         przed 632-? ( wg Z.N.E. )
                                                         przed 643-? ( wg O.I.W. )
+                                                        ? ( wg T.P. )
   Eowa               	                                  626-642 ( wg Tapsella )
                                                         ok.633-642 ( wg M.T.R.A.F.O.A.K. )
   Peada                                                 654-? ( wg M.T.R.A.F.O.A.K. )
@@ -25650,13 +25780,14 @@ Królestwo Mercji ( Mercia , Kingdom of Mercia , Mercja , Mercie , Mercian Kingd
   Ceolwald                                              716 ( wg M.T.R.A.F.O.A.K. )
   Ethelbald         	                                  716-757 ( wg D.Ś. i Tapsella ) ( Aethelbald wg W.W.K.R. i D.O.T.W.A.C.A.G.H. ) ( Æthelbald (Æthelbald of Mercia) wg M.T.R.A.F.O.A.K. )
                                          	              716-755 ( wg V.N.M.S.D. )
+                                                        przed 746/7-? ( Aethelbald of Mercia wg T.P. )
   Beornred         	                                    757 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. i M.T.R.A.F.O.A.K. )
   Offa                 	                                757-796 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) [King of Kent]
                                                         756/7-796 (?-29.7.) ( Offa the Great wg M.T.R.A.F.O.A.K. )
                                          	              755-794 ( wg V.N.M.S.D. )
       			                                            757-796 (?-29.7.) ( wg E.P. )
                                                         przed 792-? ( wg N.T.V.S. i P.U.D. )
-                                                        ? ( wg Æ.T.U.T.F.K. )
+                                                        ? ( wg Æ.T.U.T.F.K. ) ( Offa of Mercia wg T.P. )
                                                         przed 789-po 792 ( wg F.L.P.D.Ś.W. )
                                                         przed 779-796 ( wg F.S.B.1066 )
   Ecgfrith           	                                  796 ( wg D.Ś. i Tapsella )
@@ -25725,6 +25856,7 @@ Królestwo Mercji ( Mercia , Kingdom of Mercia , Mercja , Mercie , Mercian Kingd
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Fulford-Stamford Bridge 1066
       Mercia - The Rise and Fall of a Kingdom
+      The Picts
 
 Merkici
   Toktoa                                                ?-1204 n.e. (?-jesień) ( wg I.M. )
@@ -26562,6 +26694,7 @@ Morawa ( Morawy , Moravia , Mähren , Morava )
       The Holy Roman Empire - A Thousand Years of Europe's History
 
 Moray
+  Urian                                                 ? ( wg T.P. )
   Máel Brigte                                           ?-ok.892 n.e. ( wg N.T.V.S. )
   Finnlaech                                             ? ( wg N.T.V.S. ) ( Findlaec wg D.O.T.W.A.C.A.G.H. )
   Gillecomgan                                           ? ( wg D.O.T.W.A.C.A.G.H. )
@@ -26573,6 +26706,7 @@ Moray
       Dynasties of the World - A Chronological and Genealogical Handbook
       Furia ludzi Północy - Dzieje świata Wikingów
       Fulford-Stamford Bridge 1066
+      The Picts
 
 Mordwini
 
@@ -28156,7 +28290,7 @@ Normandia ( Normannia , Normandy , Normandie )
                                                         ok.875 ( Rou wg Ř.S.J.Ď.S. )
                                                         911-ok.928 ( wg N.T.V.S. )
                                                         911-930 ( Rollon (Hrolf Ganger, Hrolf Göngu, Hrolf Piechur) wg N.I.B.W.XI.S. )
-                                                        ? ( Hrolf (Rolf) wg T.S.O.T.I. )
+                                                        ? ( Hrolf (Rolf) wg T.S.O.T.I. ) ( wg T.P. )
                                                         911-? ( wg O.I.W. ) ( Hrolf (Rolf, Rollon, Rollo of Normady) wg F.L.P.D.Ś.W. ) ( Hrólf Göngu (Hrólf, Hrólf Pěšák, Robert) wg S.N.A.S.E. )
       Wilhelm I Długi Miecz                     	      925-942 ( wg D.Ś. ) ( William I (William I Longsword) wg D.O.T.W.A.C.A.G.H. )
                                                         927-943 ( wg V.N.M.S.D. )
@@ -28181,7 +28315,7 @@ Normandia ( Normannia , Normandy , Normandie )
                                                         1027-1035 (?-?.7.) ( Robert z Normandii (Robert) wg F.L.P.D.Ś.W. )
       Wilhelm II Zdobywca                          	    1035-1087 (?-9.9.) ( wg 100.N.V.S. ) [King of England]
                                                         1035-1087 ( wg D.Ś. i V.N.M.S.D. ) ( William the Conqueror wg N.T.V.S. ) ( William II (William II the Conqueror) wg D.O.T.W.A.C.A.G.H. ) ( Wilhelm z Normandii (Wilhelm, William the Conqueror, Wilhelm Zdobywca) wg F.L.P.D.Ś.W. )
-        					      	                              przed 1066-?  ( Vilém wg D.P.I.R.G. ) ( Wilhelm Zdobywca wg B.M. i N.I.B.W.XI.S. ) ( Vilém Dobyvatel wg Ř.S.J.Ď.S. ) ( Vilém II. (Vilém Dobyvatel, Vilém, Vilém Bastard) wg S.N.A.S.E. )
+        					      	                              przed 1066-?  ( Vilém wg D.P.I.R.G. ) ( Wilhelm Zdobywca wg B.M. i N.I.B.W.XI.S. ) ( Vilém Dobyvatel wg Ř.S.J.Ď.S. ) ( Vilém II. (Vilém Dobyvatel, Vilém, Vilém Bastard) wg S.N.A.S.E. ) ( William of Normandy (William) wg T.P. )
                                                         ? ( William of Normandy wg V.K.T.H.O.H.E. ) ( Wilhelm Zdobywca wg H.W. ) ( William the Conqueror (William the Bastard, William) wg T.S.O.T.I. ) ( William the Conqueror wg H.O.W.P. ) ( Vilém Dobyvatel wg O.L.S.S.Z.C.Z.A.O.V.H. )
                                                         przed 1066-po 1069 ( Vilém Dobyvatel (Vilém, Vilém Normanský) wg S.V.D.K.V. )
                                                         przed 1051-po 1069 ( Wilhelm (Wilhelm z Normandii, Wilhelm Zdobywca, Wilhelm I) wg F.S.B.1066 )
@@ -28228,6 +28362,7 @@ Normandia ( Normannia , Normandy , Normandie )
       Myriokefalon 1176
       Nikopolis 1396
       Mercia - The Rise and Fall of a Kingdom
+      The Picts
 
 County of Northeim
   Zygfryd z Northeim                                    przed 1003 n.e.-? ( wg K.G.1003 )
@@ -28252,20 +28387,22 @@ Królestwo Northumbrii ( Northumbria , Kingdom of Northumbria , Nortumbria , The
       				                                          616-632 ( wg Tapsella )
                                                         617-632 ( wg Z.N.E. )
                                                         przed 627-? ( wg N.T.V.S. )
+                                                        ? ( Edwin son of Aella wg T.P. )
   Osric                  		                            632-633 ( wg Tapsella )
   Oswald Święty   		                                  634-642 ( wg V.N.M.S.D. i  D.Ś. ) ( St Oswald wg D.O.T.W.A.C.A.G.H. )
                                   		                  633-641 ( wg Tapsella )
                                                         przed 633-? ( Oswald wg Z.N.E. )
-                                                        ? ( Oswald The Saint wg N.S. ) ( Oswald wg N.T.V.S. )
+                                                        ? ( Oswald The Saint wg N.S. ) ( Oswald wg N.T.V.S. i T.P. )
                                                         ok.630 ( Oswald wg S.V.D.K.V. )
                                                         ?-643 ( Oswald wg O.I.W. )
                                                         ?-642 ( Oswald (Oswald of Northumbria) wg M.T.R.A.F.O.A.K. )
   Oswiu                 		                            642-670 ( wg V.N.M.S.D. i D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Oswiu of Northumbria wg M.T.R.A.F.O.A.K. ) [King of Mercia Oswiu of Northumbria]
                                   		                  641-670 ( wg Tapsella )
-                                                        przed 664-? ( Oswy wg Ř.S.J.Ď.S. i V.K.T.H.O.H.E. )
+                                                        przed 664-? ( Oswy wg Ř.S.J.Ď.S. i V.K.T.H.O.H.E. i T.P. )
                                                         przed 663-? ( wg Z.N.E. )
   Ecgfrith              		                            670-685 ( wg V.N.M.S.D. i D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) ( Ecgfrith of Northumbria wg M.T.R.A.F.O.A.K. )
                                                         ?-685 (?-20.5.) ( wg V.K.T.H.O.H.E. i wg Z.N.E. )
+                                                        przed 681-685 (?-20.5.) ( wg T.P. )
   Aldfrith              		                            686-705 ( wg V.N.M.S.D. i D.Ś. i D.O.T.W.A.C.A.G.H. )
                                  		                    685-704 ( wg Tapsella )
                                                         685-? ( wg M.T.R.A.F.O.A.K. )
@@ -28276,10 +28413,12 @@ Królestwo Northumbrii ( Northumbria , Kingdom of Northumbria , Nortumbria , The
   Cenred               		                              716-718 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
   Osric                  		                            718-729 ( wg V.N.M.S.D. i D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
   Ceolwulf            		                              729-737 ( wg V.N.M.S.D. i D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
+                                                        przed 735-? ( wg T.P. )
   Eadberht            		                              737-758 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Eadbert wg Tapsella )
                                             		        737-757 ( wg V.N.M.S.D. )
                                                         przed 756-756 (1.8.-11.8.) ( wg V.K.T.H.O.H.E. )
                                                         przed 740-758 ( Eadberht of Northumbria wg M.T.R.A.F.O.A.K. )
+                                                        przed 750-po 756 (?-1.8.) ( Eadberht of Northumbria wg T.P. )
   Oswulf               		                              758-759 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                  		                    758 ( wg Tapsella )
   Oswine                                                758-? ( wg M.T.R.A.F.O.A.K. )
@@ -28287,15 +28426,18 @@ Królestwo Northumbrii ( Northumbria , Kingdom of Northumbria , Nortumbria , The
                                  		                    758-765 ( wg Tapsella )
                                                         przed 761-765 ( Æthelwold Moll (Æthelwold 'Moll') wg M.T.R.A.F.O.A.K. )
   Alhred                		                            765-774 ( wg D.Ś. i V.N.M.S.D. i Tapsella i D.O.T.W.A.C.A.G.H. i M.T.R.A.F.O.A.K. )
+                                                        ?-774 ( Alhred of Northumbria wg T.P. )
   Ethelred I            		                            774-779 i 790-796 ( wg D.Ś. i Tapsella ) ( Aethelred I wg D.O.T.W.A.C.A.G.H. )
                                                         przed 793-? (8.6.-?) ( Æthelred wg N.T.V.S. )
                                                         ? ( Ethelred wg F.L.P.D.Ś.W. )
                                                         774-778 i 790-796 ( Æthelred of Northumbria (Æthelred) wg M.T.R.A.F.O.A.K. )
   Elfwald I             		                            779-788 ( wg D.Ś. i Tapsella ) ( Aelfwald I wg D.O.T.W.A.C.A.G.H. )
                                              	          778-889 ( wg V.N.M.S.D. )
-                                                        przed 786-? ( Ælfwold wg M.T.R.A.F.O.A.K. )
+                                                        przed 786-? ( Ælfwold wg M.T.R.A.F.O.A.K. ) 
+                                                        ? ( Aelfwold of Northumbria wg T.P. )
   Osred II               	                              788-790 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
   Osbald                 	                              796 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. i M.T.R.A.F.O.A.K. )
+                                                        ?-796 ( Osbald the Patrician wg T.P. )
   Eardwulf              	                              796-808 i 808-809 ( wg D.Ś. )
                                    		                  796-806 ( wg Tapsella )
                                                         przed 797-po 801 ( Eardwulf of Northumbria wg M.T.R.A.F.O.A.K. )
@@ -28345,6 +28487,7 @@ Królestwo Northumbrii ( Northumbria , Kingdom of Northumbria , Nortumbria , The
       Furia ludzi Północy - Dzieje świata Wikingów
       Fulford-Stamford Bridge 1066
       Mercia - The Rise and Fall of a Kingdom
+      The Picts
 
 Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
   Olaf                          	                      630-640 ( wg V.N.M.S.D. )
@@ -29319,7 +29462,12 @@ Orchomenos
   Bibliografia :
       Dzieje Grecji
 
-Orkneje ( Orkney, Earldom of Orkney , Orkady , Jarlostwo Orkadów , Orknejské ostrovy )
+Oriel ( Airgialla )
+  Gofraid                                               przed 836 n.e.-? ( Gofraid son of Fergus wg T.P. ) [Ruler of Hebrides]
+  Bibliografia :
+      The Picts
+
+Orkneje ( Orkney, Earldom of Orkney , Orkady , Jarlostwo Orkadów , Orknejské ostrovy , Orkneys , Orkney Islands )
   Ragnvald I                         	                  ok.874-ok.875 ( wg Tapsella ) [Jarl of Møre Rognvald]
                                                         ok.870-? ( Rognvald of Møre (Rögnvald) wg N.T.V.S. ) ( Rögnvald z Møre (Rögnvald) wg F.L.P.D.Ś.W. )
                                                         ? ( Rögnvald Eysteinsson wg F.S.B.1066 )
@@ -31173,6 +31321,11 @@ Piacenza
       Fryderyk II Hohenstauf - Cesarz Rzymski
       The Holy Roman Empire - A Thousand Years of Europe's History
 
+Pictones
+  Duratios                                              ? ( wg T.P. )
+  Bibliografia :
+      The Picts
+
 Pieczyngowie ( Pechenegs , The Pechenegs )
   Kurya                                                 przed 972 n.e.-? ( wg N.T.V.S. ) ( Kuria wg K.1018 )                                                        
   Bibliografia :
@@ -31191,60 +31344,101 @@ Principality of Piedmont
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
 
-Piktowie ( Picts )
-  Królestwo Piktów ( Království Piktů )
+Piktowie ( Picts , The Picts , Picti , Cruithne )
+  Sodric                                                ? ( Rodric wg T.P. )
+  Cruithen                                              ? ( wg T.P. )
+  Mordred                                               ? ( wg T.P. )
+  Gwid son of Peithan                                   ? ( Gwid (Gwyd, Wid, Foith, Wid son of Peithan, Faoith, Fid) wg T.P. )
+  Królestwo Piktów ( Království Piktů , Kingdomk of The Cruithne , Cruithentúaith )
+    Cindaeladh                                          ?-ok.581 ( Cennalath wg T.P. )
     Bridei I ( Brud I )                    	            ok.556-ok.586 ( wg Tapsella )
                                                         ok.554-584 ( Brud (Bridei, Brude) wg Z.N.E. )
+                                                        przed 558/60-584/ok.582 ( Brude son of Maelcon (Bridei son of Maelchon, Brude) wg T.P. )
     Gartnart                             	              ok.586-597 ( wg Tapsella )
-    Nectu		 	     	                                    ? ( wg Tapsella )
-    Cinioch                               	            ?-631 ( wg Tapsella )
+                                                        ?-601 ( Gartnan son of Domelch (Gartnat, Gartnat son of Domelch, Garnard) wg T.P. )
+    Nectu		 	     	                                    ? ( wg Tapsella ) ( Nechtan son of Uerb (Nechton son of Erp, Nechtan son of Erp, Nechtan) wg T.P. )
+    Talorcan                                            ?-ok.617 ( wg T.P. )
+    Cinioch                               	            ?-631 ( wg Tapsella ) ( Cinedon son of Lugthren (Cinedon son of Luchtren) wg T.P. )
     Garnard                              	              631-635 ( wg Tapsella )
+                                                        ?-ok.635 ( Gartnan son of Fid (Garnard) wg T.P. )
     Bridei II                              	            635-641 ( wg Tapsella )
+                                                        ? ( Brude son of Fid wg T.P. )
     Talorc                                 	            641-653 ( wg Tapsella )
+                                                        ?-653 ( Tolarg son of Fid (Talorg) wg T.P. )
+    Nechtan filius Fide                                 ? ( Nechtan son of Fid (Nechtan son of Gwyd) wg T.P. )
     Talorcen                              	            653-657 ( wg Tapsella )
+                                                        przed 654-657 ( Talorgan son of Ainfrith (Talorgan) wg T.P. )
     Gartnait                               	            657-663 ( wg Tapsella )
+                                                        ?-663 ( Gartnan son of Domnall (Gartnat, Gartnan son of Donald) wg T.P. )
     Drest I                                  	          663-671 ( wg Tapsella )
+                                                        ?-671/8/9 ( Drust (Drost, Drostan, Drusten, Druisten, Druist, Drust son of Donald, Drostan son of Donald) wg T.P. )
     Bridei III                              	          671-692 ( wg Tapsella )
                                                         672-693 ( Brud II (Brud, Bridei, Brude) wg Z.N.E. )
                                                         przed 685-? ( Bruide wg M.T.R.A.F.O.A.K. )
+                                                        ? ( Brude son of Bile wg T.P. )
     Taran                                    	          692-696 ( wg Tapsella )
-    Bridei IV                              	            696-706 ( wg Tapsella )
-    Nechton                              	              706-724 ( wg Tapsella ) ( Nechtan wg V.K.T.H.O.H.E. )
+                                                        ?-697 i 699 ( Tarain (Tarain son of Anfrith, Tarain filius Entifidich, Tarain filius Amfredech) wg T.P. )
+    Dynasty of Deirili
+      Bridei IV                              	          696-706 ( wg Tapsella )
+                                                        przed 697-706 ( Brude son of Deirili (Brude, Brude son of Derili, Brude son of Dergard, Brude filius Dergard) wg T.P. )
+      Nechton                              	            706-724 ( wg Tapsella ) ( Nechtan wg V.K.T.H.O.H.E. )
                                                         706-724 i ? ( Nechtan wg Z.N.E. )
+                                                        przed 717-726 i przed 728-po 729 ( Nechtan (Nechtan mac Der-Ilei, Nechtan mac Deirili, Naiton, Nechtan son of Deirili) wg T.P. )
     Drest II                                	          724-726 ( wg Tapsella )
                                                         724-? ( Drust wg Z.N.E. )
+                                                        przed 726-727/9 ( Drust (Drostan) wg T.P. )
     Alpin I                                  	          726-728 ( wg Tapsella )
                                                         ? ( Alpin wg Z.N.E. )
-    Onuist ( Óengus )                      	            728-761 ( wg Tapsella )
+                                                        ?-693 ( Alpin son of Nechtan wg T.P. )
+    Dynasty of Angus son of Fergus
+      Onuist ( Óengus )                      	          728-761 ( wg Tapsella )
                                                         729-761 ( Oengus I mac Fergusson wg V.K.T.H.O.H.E. )
                                                         727/8-761 ( Óengus I (Angus) wg Z.N.E. )
                                                         przed 750-? ( Angus wg M.T.R.A.F.O.A.K. )
+                                                        728-761 ( Angus (Hungus, Hungus the son of Fergus, Angus the son of Fergus, Óengus mac Fergusa, Angus son of Fergus) wg T.P. )
     Talorgen ( Talargan )                               ? ( wg V.K.T.H.O.H.E. )
+                                                        ?-750 ( Talorgan son of Fergus wg T.P. )
     Bridei V                                	          761-763 ( wg Tapsella )
     Ciniod                                   	          763-775 ( wg Tapsella )
                                                         przed 768-? ( Kenneth wg Z.N.E. )
+                                                        przed 768-774/5 ( Kenneth (Cinadhon, Cinaed, Kenneth son of Wredech, Ciniod filius Wredech, Cinaed son of Wredech, Cinadhon son of Wredech, Cynoht) wg T.P. )
+    Eithne                                              ?-778 ( wg T.P. )
     Alpin II                                 	          775-780 ( wg Tapsella )
+                                                        727-728//?-780 ( Alpin (Alpin son of Feret, Alpín son of Feret, Alpín, Elpin son of Wroid, Eilpin) wg T.P. )
     Drest III                                	          780-781 ( wg Tapsella )
     Talorcan                                	          781-785 ( wg Tapsella )
+    Dubtholargg                                         ?-782 ( Dark Talorg (Dubtolarg, Talorgan son of Angus, Dubtolarg son of Angus) wg T.P. )
     Talorgen I                             	            785-787 ( wg Tapsella )
     Canaul                                   	          787-789 ( wg Tapsella )
     Constantine                           	            789-820 ( wg Tapsella ) [King of Dalriada]
                                                         ok.789-ok.820 ( Konstantyn wg Z.N.E. )
+                                                        przed 789/90-820 ( Constantine son of Fergus wg T.P. )
     Unuist                                    	        820-834 ( wg Tapsella ) ( Oengus II wg V.K.T.H.O.H.E. )
                                                         ? ( Óengus II (Óengus) wg Z.N.E. )
     Drest IV                                 	          834-837 ( wg Tapsella )
+                                                        834-? ( Drest son of Constantine (Drest) wg T.P. )
     Talorgen II                             	          834-837 ( wg Tapsella )
+                                                        ? ( Talorgan son of Wthoil (Talorgan) wg T.P. )
     Uuen ( Eoganan z Dalriady )	                        837-839 ( wg Tapsella )
-                                                        ?-839 ( Eoganan wg Z.N.E. ) ( Eóganán wg N.T.V.S. ) ( Eoganán wg S.N.A.S.E. ) ( Eóganan mac Óengusa wg F.S.B.1066 )
+                                                        ?-839 ( Eoganan wg Z.N.E. ) ( Eóganán wg N.T.V.S. ) ( Eoganán wg S.N.A.S.E. ) ( Eóganan mac Óengusa wg F.S.B.1066 ) ( Eóganán son of Angus (Euganan mac Oengussa, Eóganán, Uoenaen) wg T.P. )
     Uurad                                     	        839-842 ( wg Tapsella )
+                                                        839-? ( Pherath filius Bergeth (Vered f. Bargot, Ferant son of Bargot, Fergus, Urad, Fergus son of Bargot) wg T.P. )
     Bred                                       	        842 ( wg Tapsella )
+                                                        ? ( Brude (Brude son of Ferant) wg T.P. )
     Kineth                                    	        842-843 ( wg Tapsella )
+                                                        ? ( Kenneth son of Ferant (Kenneth) wg T.P. )
     Brude                                     	        843-845 ( wg Tapsella )
+                                                        ? ( Brude II (Brude son of Fodel) wg T.P. )
     Drust                                      	        845-848 ( wg Tapsella )
-    Cinaed mac Alpin ( Kenneth macAlpin )               848-858 ( wg V.K.T.H.O.H.E. )
+                                                        ? ( Drust son of Ferant (Drust) wg T.P. )
+    Cinaed mac Alpin ( Kenneth macAlpin )               848-858 ( wg V.K.T.H.O.H.E. ) [King of Scotland Kenneth I]
                                                         842/3-858 ( Kenneth mac Alpin wg N.T.V.S. )
                                                         ok.842-? ( Kenneth I wg D.O.T.W.A.C.A.G.H. )
-    Constantine I                                       863-877 ( wg V.K.T.H.O.H.E. )
+                                                        ok.842-po ok.854 ( Kenneth son of Alpín (Kenneth son of Alpin, Kenneth I, Kenneth, Cináed mac Ailpín, Kenneth I son of Alpin, Kenneth I MacAlpin, Cinaéd I son of Alpin, Cinaéd I MacAlpin) wg T.P. )
+    Domnall                                             ? ( Donald (Domnall son of Alpin) wg T.P. ) [King of Scotland Donald I]
+    Constantine I                                       863-877 ( wg V.K.T.H.O.H.E. ) [King of Scotland Konstantyn I]
+                                                        ?-po 876 ( Constantine (Constantine son of Kenneth I) wg T.P. )
+    Áed                                                 ? ( wg T.P. ) [King of Scotland Aed]
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Vanished Kingdoms - The History of Half-Forgotten Europe
@@ -31254,6 +31448,7 @@ Piktowie ( Picts )
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Fulford-Stamford Bridge 1066
       Mercia - The Rise and Fall of a Kingdom
+      The Picts
 
 Księstwo pińskie
   Włodzimierz Rościsławowicz                            przed 1229 n.e.-? ( wg L.P.P. )
@@ -31796,10 +31991,6 @@ Księstwo Połockie ( Principality of Polatsk , Polocké knížectví , Księstw
       Jezioro Pejpus 1242
       Kijów 1018
       Mazowsze 1047
-
-Królestwo Południowego Uí Néill
-  Bibliografia :
-      Furia ludzi Północy - Dzieje świata Wikingów
 
 Królestwo Południowej Bregi
   Gilla Mochonna                                        przed 1005 n.e.-? ( wg F.L.P.D.Ś.W. )
@@ -32721,11 +32912,13 @@ Reuss
       The Holy Roman Empire - A Thousand Years of Europe's History
 
 Rheged
-  Coel Hen ( Old King Cole )                            ?-ok.420 n.e.
-  Urien ( Urbigenus )                                   przed 590-?
-  Llywarch Hen                                          ?
+  Coel Hen ( Old King Cole )                            ?-ok.420 n.e. ( wg V.K.T.H.O.H.E. )
+  Urien ( Urbigenus )                                   przed 590-? ( wg V.K.T.H.O.H.E. )
+                                                        ? ( Urien of Rheged wg T.P. )
+  Llywarch Hen                                          ? ( wg V.K.T.H.O.H.E. )
   Bibliografia :
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      The Picts
 
 Rhegion ( Regium )
   Anaksilas	                                            ok.494 p.n.e. -? ( wg D.G. )
@@ -33668,7 +33861,7 @@ Rzym ( Rome , Řím )
                                                         59 i 49-44 ( Gajusz Juliusz Cezar wg S.C. )
                                                         59 i 49-44 (?-15.3.) ( wg H.P.S. i K.R.I.C.R. i Z.V.C. )
                                                         przed 49-po 48 ( wg B.M. )
-                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. i K.6. i Z.P.B.W.A. i O.I.W. i K.1274.P.N.E. ) ( Cezar wg Z.N.E. i K.1018 i C.K.F. i G.316.P.N.E. i W.4.3.P.N.E. i W.C.Z.H.2.2.P.N.E. ) ( Cezar (Juliusz, G. Juliusz Cezar) wg G.R.I.L. ) ( Julius Caesar wg S.A.B.H.O.H. i O.M.T.O.A.T.E.O.I.L. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. ) ( Julius Caesar (Caesar) wg U.E. i S.V.D.K.V. i P.U.D. i T.F.O.R. i T.H.R.E.A.T.Y.O.E.H. ) ( Gajusz Juliusz wg P.U.D.D.L.D.R.I.P. ) ( Caesar wg H.O.W.P. i C.A.T.B.D.H.T.B.C.O.T. i C.A.R.T.G.O.S.K. i H.T.S.I.A.N.A.O.M.M. i M.T.R.A.F.O.A.K. ) ( C. Iulius Caesar (Caesar) wg S.N.A.S.E. )
+                                                        ? ( wg A.O.M.S.K.R. i T.H.S. i Ř.V.G. i T.Z.H.K. i S.P.D.Z. i K.6. i Z.P.B.W.A. i O.I.W. i K.1274.P.N.E. ) ( Cezar wg Z.N.E. i K.1018 i C.K.F. i G.316.P.N.E. i W.4.3.P.N.E. i W.C.Z.H.2.2.P.N.E. ) ( Cezar (Juliusz, G. Juliusz Cezar) wg G.R.I.L. ) ( Julius Caesar wg S.A.B.H.O.H. i O.M.T.O.A.T.E.O.I.L. ) ( Julius Caesar (Gaius Julius Caesar) wg D.O.T.W.A.C.A.G.H. ) ( Julius Caesar (Caesar) wg U.E. i S.V.D.K.V. i P.U.D. i T.F.O.R. i T.H.R.E.A.T.Y.O.E.H. ) ( Gajusz Juliusz wg P.U.D.D.L.D.R.I.P. ) ( Caesar wg H.O.W.P. i C.A.T.B.D.H.T.B.C.O.T. i C.A.R.T.G.O.S.K. i H.T.S.I.A.N.A.O.M.M. i M.T.R.A.F.O.A.K. ) ( C. Iulius Caesar (Caesar) wg S.N.A.S.E. ) ( Julius Caesar (Julius, Caesar) wg T.P. )
                                                         ?-ok.44 ( wg T. )
                                                         59 i przed 48-44 ( ?-15.3. ) ( Caesar wg S.K. )
                                                         przed 47-po 44 ( wg S.H. )
@@ -33770,7 +33963,7 @@ Rzym ( Rome , Řím )
     					           			                          41-54 ( wg V.N.M.S.D. i D.Ś. i A.Č. i	Tapsella i S.C. i Ř.V.G. i Ž.V.Ř.S. ) ( Tiberius Claudius Drusus Germanicus ( Tyberiusz Klaudiusz Druzus ) wg D.R. ) ( Tyberiusz Klaudiusz Neron wg H.P.S. ) ( Claudius (Tiberius Claudius Drusus) wg D.O.T.W.A.C.A.G.H. ) ( Claudius wg S.P. )
     								                                    41-54 (?-?.10.) ( Tiberius Claudius Germanicus wg Z.V.C. )
     								                                    ?-54 ( Tiberius Claudius Germanicus wg T.P.Ž.C. ) ( wg K.Ř. )
-    								                                    przed 43-? ( wg O.A.O.C.E. i Z.N.E. i B.5.5.P.N.E. )
+    								                                    przed 43-? ( wg O.A.O.C.E. i Z.N.E. i B.5.5.P.N.E. ) ( Claudius wg T.P. )
                                                         ? ( Claudius wg S.A.B.H.O.H. ) ( wg B.S. i G.B.5.5.P.N.E. )
                                                         przed 41-po 48 ( Claudius wg H.O.W.P. )
         Lucius Domitius Claudius Nero ( Neron )         54-68 (13.10.-9.6.) ( wg P.C.R. i K.R.I.C.R. )
@@ -33835,13 +34028,13 @@ Rzym ( Rome , Řím )
                                                         117-138 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i S.C. i T. i Ř.V.G. i Ž.V.Ř.S. i Z.V.C. i O.A.O.C.E. ) ( Lucjusz Eliusz Hadrian wg H.P.S. ) ( Hadrian wg D.O.T.W.A.C.A.G.H. ) ( Hadrianus wg S.P. )
                      							                      ok.117 ( wg F. )
     								                                    117-138 (?-lipiec) ( wg D.R. )
-    								                                    ? ( wg T.H.S. i S.H. i Ř.S.J.Ď.S. ) ( Hadrian wg S.A.B.H.O.H. i G.R.I.L. i B.5.5.P.N.E. i H.O.W.P. i C.K.F. i W.4.3.P.N.E. ) ( Hadrián wg S.V.D.K.V. )
+    								                                    ? ( wg T.H.S. i S.H. i Ř.S.J.Ď.S. ) ( Hadrian wg S.A.B.H.O.H. i G.R.I.L. i B.5.5.P.N.E. i H.O.W.P. i C.K.F. i W.4.3.P.N.E. i T.P. ) ( Hadrián wg S.V.D.K.V. )
                                                         przed 120-? ( Hadrian wg Z.N.E. )
                                                         przed 129-? ( Hadrian wg Z.M.50.N.O. )
       Titus Aurelius Fulvus Boionius Arrius Antoninus   138-161 (10.7.-7.3.) ( Antoninus Pius wg P.C.R. i K.R.I.C.R. )
     								                                    138-161 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i S.C. i T. i Ř.V.G. i Ž.V.Ř.S. ) ( Tytus Aureliusz Antoninus Pius wg H.P.S. ) ( Titus Aurelius Fulvius Boionius Arrius Antoninus wg Z.V.C. ) ( Antoninus Pius wg D.O.T.W.A.C.A.G.H. i S.P. )
     							  	                                  138-161 (?-marzec) ( Tytus Aureliusz Antoninus wg D.R. )
-                                                        ? ( Antoninus Pius wg Z.N.E. i K.P.N.A. ) ( Antoninius Pius wg S.A.B.H.O.H. ) ( Antoniusz Pius wg Z.M.50.N.O. )
+                                                        ? ( Antoninus Pius wg Z.N.E. i K.P.N.A. ) ( Antoninius Pius wg S.A.B.H.O.H. ) ( Antoniusz Pius wg Z.M.50.N.O. ) ( Antoninus wg T.P. )
                                                         ?-161 ( Antoninus Pius wg H.O.W.P. )
       Lucius Aurelius Verus ( Lucjusz Werus )           161-169 (7.3.-?.2.) ( wg P.C.R. ) ( Lucjusz Aureliusz Werus wg K.R.I.C.R. )
     								                                    161-169 ( wg V.N.M..D. i D.Ś. i A.Č. i Tapsella i D.R. i S.C. i Ž.V.Ř.S. i Z.V.C. ) ( Lucius Verus wg D.O.T.W.A.C.A.G.H. )
@@ -33854,7 +34047,7 @@ Rzym ( Rome , Řím )
     								                                    161-180 ( wg V.N.M.S.D. i D.Ś. i A.Č. i S.C. i H.P.S. i Ř.V.G. i Ž.V.Ř.S. ) ( Marcus Aurelius Verus wg Tapsella ) ( Marcus Aurelius Annius Verus wg Z.V.C. ) ( Marcus Aurelius wg D.O.T.W.A.C.A.G.H. ) ( Marcus Aurelius (Antoninus) wg H.O.W.P. ) ( Marek Aurelius wg S.P. )
     		  						                                  161-180 (?-marzec) ( wg D.R. )
     		  						                                  przed 172-po 175 ( wg D.P.I.R.G. )
-    		         						                            ? ( Marek Aurelius wg T. ) ( Marcus Aurelius wg V.K.T.H.O.H.E. i S.A.B.H.O.H. i U.E. i R.E.P.A.T.M.O.M. ) ( wg B.S. i Z.M.50.N.O. i H.S.P.D.N.H.W.K.S.S.O. i C.K.F. )
+    		         						                            ? ( Marek Aurelius wg T. ) ( Marcus Aurelius wg V.K.T.H.O.H.E. i S.A.B.H.O.H. i U.E. i R.E.P.A.T.M.O.M. i T.P. ) ( wg B.S. i Z.M.50.N.O. i H.S.P.D.N.H.W.K.S.S.O. i C.K.F. )
     		  						                                  przed 179-? ( Marek Aurelius wg Z.S.A.V.E. )
                                                         przed 178-po 180 ( wg Z.N.E. )
       Marcus Aurelius Antoninus Commodus ( Kommodus )	  180-192 (17.3.-31.12.) ( wg P.C.R. i K.R.I.C.R.  )
@@ -33881,7 +34074,7 @@ Rzym ( Rome , Řím )
     Dynastia Sewerów ( The Severi )
       Lucius Septimius Severus ( Septymiusz Sewer )     193-211 (?.4.-4.2.) ( Lucjusz Septymiusz Sewer wg P.C.R. i K.R.I.C.R.  )
     								                                    193-211 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i D.R. i S.C. i Ž.V.Ř.S. i Z.V.C. ) ( Lucjusz Septimiusz Sewer wg H.P.S. ) ( Septimius Sever wg T. ) ( Septimius Severus wg S.A.B.H.O.H. i S.P. ) ( Septimius Severus wg D.O.T.W.A.C.A.G.H. )
-    								                                    ? ( wg D.B. i Z.N.E. i F.H.C.R. i B.5.5.P.N.E. i Arab. ) ( Septimus Severus wg Ř.S.J.Ď.S. )
+    								                                    ? ( wg D.B. i Z.N.E. i F.H.C.R. i B.5.5.P.N.E. i Arab. ) ( Septimus Severus wg Ř.S.J.Ď.S. ) ( Septimus Severus (Severus) wg T.P. )
                                                         przed 208-211 ( wg Z.N.E. )
     Decimus Clodius Septimius Albinus                   196-197 (?.1.-19.2.) ( Klodiusz Albin wg P.C.R. )
     						            	                          196-197 (wg V.N.M.S.D. i D.Ś. i A.Č. )
@@ -33903,6 +34096,7 @@ Rzym ( Rome , Řím )
     							      	                              przed 212-po 213 ( wg Ř.V.G. )
     								                                    ?-217 ( wg Z.V.C. )
                                                         209-217 ( Caracalla wg V.K.T.H.O.H.E. )
+                                                        przed 213-? ( Caracalla wg T.P. )
       Marcus Opellius Macrinus 	                        217-218 (11.4.-8.6.) ( Marek Opiliusz Makrynus wg P.C.R. i K.R.I.C.R. )
     							        	                            217-218 ( wg V.N.M.S.D. i D.Ś. i A.Č. i Tapsella i F. ) ( Marcus Opilius Macrinus wg D.R. ) ( Marek Opeliusz Makrinus wg H.P.S. ) ( Macrinus wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Macrinus wg S.P. )
@@ -34035,6 +34229,7 @@ Rzym ( Rome , Řím )
     								                                    276-282 (wiosna-19.8.) ( wg K.R.I.C.R. )
                                                         ? ( Probus wg Z.M.50.N.O. )
                                                         przed 277-? ( Probus wg C.K.F. )
+                                                        przed 278-? ( M. Aurelius Probus wg T.P. )
       Iulius Saturninus ( Juliusz Saturnin )            280-281 ( wg P.C.R. )
       Titus Aelius Proculus ( Prokulus )                280-281 ( wg P.C.R. )
       Bonosus ( Bonozus )                               281 ( wg P.C.R. )
@@ -34057,7 +34252,7 @@ Rzym ( Rome , Řím )
     Diocletian and the Tetrarchy
       Gaius Aurelius Valerius Diocletianus              284-305 (20.11.-1.5.) ( Dioklecjan wg P.C.R. i K.R.I.C.R. )	( Dioklecián wg D.B. )
     								                                    284-305 ( wg V.N.M.S.D. i D.Ś. i A.Č. i D.P.I.R.G. i Tapsella i D.R. i S.C. i Ž.V.Ř.S. ) ( Gajusz Aureliusz Diokles wg H.P.S. ) ( Dioklecián wg T. ) ( Diocletian wg D.O.T.W.A.C.A.G.H. ) ( Diocletianus wg S.P. ) ( Dioklecjan wg F.L.P.D.Ś.W. )
-    								                                    ? ( Dioklés wg H. ) ( Dioklecián wg T.H.S. ) ( Dioklecjan wg G.R.I.L. i Z.M.50.N.O. ) ( Diocletian wg R.E.P.A.T.M.O.M. ) ( Diocletianus wg S.N.A.S.E. )
+    								                                    ? ( Dioklés wg H. ) ( Dioklecián wg T.H.S. ) ( Dioklecjan wg G.R.I.L. i Z.M.50.N.O. ) ( Diocletian wg R.E.P.A.T.M.O.M. i T.P. ) ( Diocletianus wg S.N.A.S.E. )
                                                         przed 285-? ( Diocletian wg V.K.T.H.O.H.E. )
                                                         przed 299-? ( Dioklecjan wg Z.N.E. )
                                                         286-305 ( Diocletian wg H.O.W.P. )
@@ -34076,12 +34271,14 @@ Rzym ( Rome , Řím )
     								                                    286-305 ( wg Ž.V.Ř.S. )
                                                         ? ( wg O.I.W. )
                                                         przed 288-po 289 ( wg C.K.F. )
+                                                        przed 291-? ( Maximian wg T.P. )
       Marcus Aurelius Mausaeus Carausius ( Karauzjusz )	286-293 ( wg P.C.R. i Tapsella )
     								                                    287-293 ( Marek Aureliusz Mauzeusz Karauzjusz wg D.R. )
     							 	                                    286-? ( wg K.R.I.C.R. )
     								                                    ? ( wg D.B. )
       Allectus ( Allektus )                             293-296 ( wg P.C.R. i Tapsella i D.R. )
     								                                    ?-297 ( wg K.R.I.C.R. )
+                                                        ? ( wg T.P. )
       Lucius Domitius Domitianus ( Domicjusz Domicjan ) 295 ( wg P.C.R. )
     			                                              296-297 ( Lucjusz Domicjusz Domicjanus wg D.R. )
       Aurelius Achilleus ( Achilles )                   295-297 ( wg P.C.R. )
@@ -34092,6 +34289,7 @@ Rzym ( Rome , Řím )
     								                                    305-306 ( Constantius Chlorus wg D.B. ) ( Flavius Valerius Constantius Chlorus ( Konstancius I ) wg E.P. ) ( Konstancjusz Chlorus wg Z.N.E. ) ( Constantius I (Constantius I Chlorus, Flavius Valerius Contantius) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 312-? ( Konstancjusz Chlorus wg C.K.F. )
                                                         przed 297-? ( Konstancjusz Chlorus wg F.L.P.D.Ś.W. )
+                                                        292/306-306 ( Constantius (Constantius Chlorus, Constantius the Pale, Constantius "the Pale") wg T.P. )
       Gaius Galerius Valerius Maximianus ( Galeriusz )	305-311 (1.5.-5.5.) ( wg P.C.R. i Tapsella i S.C. )
     								                                    305-311 (?-początek) ( Gajusz Galeriusz Waleriusz Maksymianus wg D.R. )
     						 		                                    293-311 (23.5.-5.5.) ( wg K.R.I.C.R. i E.P. )
@@ -34119,7 +34317,7 @@ Rzym ( Rome , Řím )
            								                              ok.330 ( wg K.V. )
     	  							                                  307-308 i 310-337 (?-listopad i ?) ( wg D.R. )
           								                              324-337 (?-?.10.) ( Konstantin I Veliký wg D.B. )
-                 							                          ? ( Konstantin Veliký wg Z.S.A.V.E. i F.B.C.A.R. ) ( Konstantyn Wielki wg H.W. i B.S. ) ( Konstantyn wg F.H.C.R. i N.I.B.W.XI.S. i M.1176 i B.W.5.P.N.E. ) ( Konstantyn Wielki (Konstantyn) wg O.I.W. )
+                 							                          ? ( Konstantin Veliký wg Z.S.A.V.E. i F.B.C.A.R. ) ( Konstantyn Wielki wg H.W. i B.S. ) ( Konstantyn wg F.H.C.R. i N.I.B.W.XI.S. i M.1176 i B.W.5.P.N.E. ) ( Konstantyn Wielki (Konstantyn) wg O.I.W. ) ( Constantine the Great (Constantine "the Great") wg T.P. )
     								                                    przed 324-po 325 ( Konstantin I wg E.P. )
                                                         przed 330-? ( Konstantin Veliký wg Ř.S.J.Ď.S. ) ( Constantine wg V.K.T.H.O.H.E. ) ( Konstantin wg P.U.D. )
                                                         306-? ( Constantine (Constantine the Great) wg S.A.B.H.O.H. ) ( Constantin the Great wg N.T.V.S. )
@@ -34154,7 +34352,7 @@ Rzym ( Rome , Řím )
     							 	                                    337-340 (9.9.-?) ( wg K.R.I.C.R. )
     							 	                                    ?-340 ( Konstantinus II wg D.B. )
       Flavius Julius Constans ( Konstans )              337-350 (9.9.-?.1.) ( wg P.C.R. )
-    						             	                          337-350 ( wg A.Č. i V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i D.R. i H.P.S. i E.P. ) ( Flavius Valerius Julius Constans wg Tapsella ) ( Constans wg D.O.T.W.A.C.A.G.H. )
+    						             	                          337-350 ( wg A.Č. i V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i D.R. i H.P.S. i E.P. ) ( Flavius Valerius Julius Constans wg Tapsella ) ( Constans wg D.O.T.W.A.C.A.G.H. i T.P. )
     								                                    337-350 (9.9.-?) ( wg K.R.I.C.R. )
     								                                    przed 340-po 350 ( wg D.B. )
       Flavius Julius Constantius ( Konstancjusz II )    337-361 (9.9.-3.11.) ( wg P.C.R. i K.R.I.C.R. )
@@ -34179,7 +34377,7 @@ Rzym ( Rome , Řím )
                                                         361-363 ( wg V.N.M.S.D. i R.Z.A.D.D. i D.R. i S.C. i H.P.S. i Z.N.E. ) ( Julianus Apostata wg Ř.V.G. ) ( Iulianus wg Ž.V.Ř.S. ) ( Julian the Apostate wg H.O.W.P. )
     								                                    361-363 (?-26.6.) ( Julián wg D.B. )
     								                                    360-363 (?.2/3.-26.6.) ( wg K.R.I.C.R. )
-    								                                    ? ( wg H. i O.I.W. )
+    								                                    ? ( wg H. i O.I.W. ) ( Julian wg T.P. )
                                                         ?-363 ( Iulianus Apostata wg S.P. ) ( Julian the Apostate wg R.E.P.A.T.M.O.M. )
                                                         przed 361-? ( Julian (Julian Francicus) wg C.K.F. )
                                                         przed 363-? ( Julian wg Arab. )
@@ -34195,10 +34393,11 @@ Rzym ( Rome , Řím )
     						        	                              364-375 (?.2.-?) ( Valentinianus I wg D.B. )
     							                                      ? ( wg Ř.V.G. ) ( Walentynian wg G.R.I.L. ) ( Valentinian I wg H.O.W.P. )
                                                         przed 374-po 375 ( wg Z.N.E. )
+                                                        przed 367-? ( Valentinian wg T.P. )
         Flavius Valens ( Walens )                 		  364-378 ( wg D.Ś. i A.Č. i R.Z.A.D.D. i Tapsella i D.R. ) ( Valens wg D.O.T.W.A.C.A.G.H. )
                                                         364-378 (28.3.-9.8.) ( wg P.C.R. )
                                                         364-379 ( wg V.N.M.S.D. )
-    							                                      ? ( wg S.C. i K.6. i Arab. ) ( Valens wg S.N.A.S.E. )
+    							                                      ? ( wg S.C. i K.6. i Arab. ) ( Valens wg S.N.A.S.E. i T.P. )
                                                         przed 367-378 (?-9.8.) ( wg G.R.I.L. )
     						           	                            ?-378 ( wg M.A.E. i H.P.S. i Ř.V.G. i Z.N.E. i N.I.B.W.XI.S. ) ( Valence wg S.A.B.H.O.H. )
     						           	                            364-378 (28.2.-9.8.) ( wg K.R.I.C.R. )
@@ -34243,12 +34442,13 @@ Rzym ( Rome , Řím )
                                                         przed 381-? ( Teodozjusz Wielki (Teodozjusz) wg K.6. )
                                                         przed 380-? ( Theodosius wg S.P. )
                                                         przed 382-395 ( Teodozjusz wg C.K.F. )
+                                                        przed 382-? ( Theodosius wg T.P. )
         Magnus Maximus Clemens ( Magnus Maksymus )	    383-388 ( wg D.Ś. i A.Č. i D.B. ) ( Maximus (Magnus Maximus) wg D.O.T.W.A.C.A.G.H. )
     								                                    383-388 (wiosna-28.8.) ( wg P.C.R. )
     								                                    383-388 ( Magnus Clemens Maximus wg Tapsella)
     								                                    383-388 (wiosna-?) ( wg K.R.I.C.R. )
     								                                    przed 388-? ( wg H. )
-                                                        ? ( Maximus wg H.O.W.P. )
+                                                        ? ( Maximus wg H.O.W.P. ) ( Magnus Maximus (Macsen Wledig, Magnus, "Prince Magnus") wg T.P. )
                                                         przed 383-? ( Maksym wg C.K.F. )
         Flavius Victor ( Wiktor )                       387-388 ( wg D.Ś. i A.Č. i P.C.R. ) ( Victor wg D.O.T.W.A.C.A.G.H. )
         Flavius Eugenius ( Eugeniusz )                  392-394 ( wg D.Ś. i A.Č. i Tapsella i D.R. ) ( Eugenius wg D.O.T.W.A.C.A.G.H. )
@@ -34277,13 +34477,14 @@ Rzym ( Rome , Řím )
                                                         przed 411-? ( wg Z.N.E. )
                                                         przed 401-423 ( wg G.R.I.L. )
                                                         395-po 425 ( wg C.K.F. )
+                                                        przed 398-po 408 ( Honorius wg T.P. )
       Marcus ( Marek )                                  406 ( wg P.C.R. )
     								                                    406(7) ( wg K.R.I.C.R. )
       Gratianus ( Gracjan )                            	406 ( wg P.C.R. )
     								                                    407 ( wg K.R.I.C.R. )
       Claudius Flavius Constantinus ( Konstantyn III )  407-411 ( wg P.C.R. i K.R.I.C.R. ) ( Flavius Claudius Constantinus wg Tapsella )
     							  	                                  407-?  ( wg D.R. )
-                                                        ? ( wg Z.N.E. )
+                                                        ? ( wg Z.N.E. ) ( Constantine III wg T.P. )
                                                         ?-411 ( wg C.K.F. )
       Konstancjusz III					                        409-? ( wg K.R.I.C.R. )
       Priscus Attalus ( Attalus )                       409-410 i 414-415 ( wg P.C.R. )
@@ -34485,7 +34686,7 @@ Rzym ( Rome , Řím )
                                                         638-641 (?-?.9.) ( Herakliusz Herakleonas wg P.C.R. ) ( Heraklonas wg D.B. )
         Heraclius Constantinus                          641-668 (?.9.-15.9.) ( Konstans II Pogonatos ( Herakliusz Konstantyn III ) wg P.C.R. )
     								                                    641-668 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. i Tapsella ) ( Konstans II wg D.B. ) ( Constans II (Constans II Pogonatus) wg D.O.T.W.A.C.A.G.H. ) ( Konstans II (Konstans) wg K.6. ) ( Constans II wg T.H.R.E.A.T.Y.O.E.H. )
-                                                        ? ( Konstans II wg Z.N.E. )
+                                                        ? ( Konstans II wg Z.N.E. ) ( Constans II wg T.P. )
         Constantinus ( Konstantyn IV )                 	668-685 (?.9.-?.9.) ( wg P.C.R. )
     								                                    668-685 ( wg V.N.M.S.D. i D.Ś. i R.Z.A.D.D. ) ( Konstantyn IV Pogonatus wg Tapsella ) ( Konstantinos IV wg D.B. ) ( Konstantyn wg K.6. )
                                                         654/68-685 ( Constantine IV wg D.O.T.W.A.C.A.G.H. )
@@ -34515,7 +34716,7 @@ Rzym ( Rome , Řím )
       Dynastia syryjska ( Syrian Dynasty )
         Leon III Syryjczyk                	            717-741 ( wg D.Ś. i R.Z.A.D.D. i D.B. ) ( Leo III Isauricus wg Tapsella ) ( Leo III wg V.K.T.H.O.H.E. ) ( Leo III (Leo III the Syrian) wg D.O.T.W.A.C.A.G.H. )
                                                         718-741 ( wg V.N.M.S.D. )
-    				         	                                  ? ( Lev III Syrský wg Z.S.A.V.E. ) ( Leon III wg Z.N.E. )
+    				         	                                  ? ( Lev III Syrský wg Z.S.A.V.E. ) ( Leon III wg Z.N.E. ) ( Leo III wg T.P. )
                                                         przed 726-? ( Leon III wg H.W. ) ( Leon wg Arab. )
                                                         717-po 718 (?-15.8.) ( Leon III Izauryjczyk (Leon) wg B.S. )
                                                         ok.750 ( Leon III wg N.I.B.W.XI.S. )
@@ -34949,6 +35150,7 @@ Rzym ( Rome , Řím )
       Weje 405-396 p.n.e.
       Wojna Czu z Han 209-202 p.n.e.
       Kraj Głomaczów 1003
+      The Picts
 
 Saamowie
   Svási                                                 ? ( wg F.L.P.D.Ś.W. )
@@ -38056,7 +38258,9 @@ Sziraz
       Zaginione miasta - 50 najsłynniejszych odkryć
 
 Szkocja ( Scotland , Scotia , Skotsko )
+  Auguselus                                             ? ( wg T.P. )
   Fergus I                 	                            330-305 ( wg V.N.M.S.D. )
+                                                        ? ( Fergus son of Ferechad wg T.P. )
   Eugenius I             	                              357-377 ( wg V.N.M.S.D. )
   Fergus II                	                            404-420 ( wg V.N.M.S.D. )
   Eugenius II            	                              420-451 ( wg V.N.M.S.D. )
@@ -38087,21 +38291,23 @@ Szkocja ( Scotland , Scotia , Skotsko )
   Alpine                     	                          831-834 ( wg V.N.M.S.D. )
   The Kingdom of Scotland
     Dynastia Alpina ( House of Alpin )
-      Kenneth I               	                        842-858 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Kenneth I               	                        842-858 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [King of the Picts Cinaed mac Alpin]
       				                                          834-854 ( II wg V.N.M.S.D. )
       				                                          843-858 ( Kenneth mac Alpin wg Tapsella )
                                                         843-? ( Kenneth McAlpin wg B.5.5.P.N.E. )
                                                         844-860 ( Kenneth Mac Alpin (Kenneth) wg S.N.A.S.E. )
-      Donald I                 	                        858-862 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
+                                                        ? ( Kenneth MacAlpin (Kenneth son of Alpin, Kenneth I, Kenneth mac Ailpín, Kenneth I son of Alpin, Kenneth I MacAlpin, Cinaéd I son of Alpin, Cinaéd I MacAlpin) wg T.P. )
+      Donald I                 	                        858-862 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) [King of the Picts Domnall]
                                                    	    854-858 ( V wg V.N.M.S.D. )
-      Konstantyn I          	                          862-876 ( wg D.Ś. ) ( Constantine I wg D.O.T.W.A.C.A.G.H. )
+      Konstantyn I          	                          862-876 ( wg D.Ś. ) ( Constantine I wg D.O.T.W.A.C.A.G.H. ) [King of the Picts Constantine I]
       				                                          858-874 ( II wg V.N.M.S.D. )
       				                                          862-877 ( wg Tapsella )
                                                         przed 870-877 ( Constantine I wg N.T.V.S. )
       Grzegorz                	                        874-893 ( wg V.N.M.S.D. )
-      Aed                        	                      876-878 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+      Aed                        	                      876-878 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) [King of the Picts Áed]
                                     		                877-878 ( wg Tapsella )
       Giric                       	                    878-889 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
+                                                        ?-889 ( wg T.P. )
   Kingdom of Alba ( Albania , The Kingdom of Scotland , Alba , Królestwo Alba , Królestwo Szkocji )
     Dynastia Alpina ( House of Alpin )
       Eochaid                 	                        878-889 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
@@ -38109,11 +38315,13 @@ Szkocja ( Scotland , Scotia , Skotsko )
       Donald II                	                        889-900  ( wg D.Ś. i N.T.V.S. i D.O.T.W.A.C.A.G.H. )
       				                                          893-904 ( VI wg V.N.M.S.D. )
       				                                          889-903 ( wg Tapsella )
+                                                        ?-900 ( Donald the Madman wg T.P. )
       Konstantyn II          	                          900-943 ( wg D.Ś. ) ( Constantine II wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. ) ( Constantine II (Constantine) wg N.T.V.S. ) ( Konstantyn wg F.L.P.D.Ś.W. )
       				                                          904-944 ( III wg V.N.M.S.D. )
       				                                          903-943 ( wg Tapsella )
                                                         przed 937-? ( Konstantyn wg F.S.B.1066 )
                                                         przed 927-po 937 ( Constantine wg M.T.R.A.F.O.A.K. )
+                                                        przed 906-po 908 ( Constantine (Constantine son of Áed) wg T.P. )
       Malcolm I               	                        943-954 ( wg D.Ś. i Tapsella i N.T.V.S. i D.O.T.W.A.C.A.G.H. )
                                                     	  944-953 ( wg V.N.M.S.D. )
                                                         przed 945-? ( Malcolm wg M.T.R.A.F.O.A.K. )
@@ -38122,11 +38330,13 @@ Szkocja ( Scotland , Scotia , Skotsko )
                                                         przed ok.960-? ( wg N.T.V.S. )
       Duf ( Duff )             	                        962-966  ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Dub wg Tapsella )
                                                     	  961-965 ( wg V.N.M.S.D. )
+                                                        ?-966 (?-?.7.) ( Dub son of Malcolm wg T.P. )
       Culén                      	                      966-971 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                     	  965-970 ( wg V.N.M.S.D. )
       Kenneth II               	                        971-995 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                      	  970-994 ( III wg V.N.M.S.D. )
                                                         971-975 ( wg N.T.V.S. )
+                                                        ? ( wg T.P. )
       Konstantyn III         	                          995-997 ( wg D.Ś. i Tapsella ) ( Constantine III wg D.O.T.W.A.C.A.G.H. )
                                                      	  994-995 ( IV wg V.N.M.S.D. )
       Kenneth III          	                            997-1005 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
@@ -38137,6 +38347,7 @@ Szkocja ( Scotland , Scotia , Skotsko )
                                                         przed 1031-? ( Malcolm I wg V.K.T.H.O.H.E. ) 
                                                         przed 1014-po 1031 ( Malkolm II (Malkolm) wg F.L.P.D.Ś.W. )
                                                         przed 1031-1034 ( Malcolm wg F.S.B.1066 )
+                                                        ? ( Malcolm II son of Kenneth II wg T.P. )
     Dynastia z Dunkeld ( House of Dunkeld )
       Duncan I                           	              1034-1040 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                                         1033-1039 ( wg V.N.M.S.D. )
@@ -38145,12 +38356,14 @@ Szkocja ( Scotland , Scotia , Skotsko )
       Macbeth               	                          1040-1057 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. ) ( macBethad mac Findlaich wg V.K.T.H.O.H.E. ) ( wg N.T.V.S. )
                                                  	      1039-1057 ( wg V.N.M.S.D. )
                                                         1040-1057 ( ?-15.8. ) ( wg E.P. )
-                                                        ? ( wg H.O.W.P. i F.S.B.1066 )
+                                                        ? ( wg H.O.W.P. i F.S.B.1066 ) ( Mac Bethad wg T.P. )
       Lulach                  	                        1057-1058 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
+                                                        ? ( Lulach wg T.P. )
     Dynastia z Dunkeld ( House of Dunkeld )
       Malcolm III                      	                1058-1093 ( wg D.Ś. i Tapsella ) ( Malcolm III Canmore wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
                                                         1057-1093 ( wg V.N.M.S.D. )
-      					                                        ? ( wg E.P. i Ř.S.J.Ď.S. )
+      					                                        ? ( wg E.P. i Ř.S.J.Ď.S. ) 
+                                                        ?-1093 ( Malcolm Canmore (Malcolm III, Malcolm, Malcolm III son of Duncan, Malcolm III son of Duncan Canmore) wg T.P. )
                                                         przed 1058-po 1072 ( Malkolm (Malkolm II) wg F.L.P.D.Ś.W. )
                                                         1058-po 1066 ( Malcolm wg F.S.B.1066 )
       Donald III                         	              1093-1094 i 1094-1097 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
@@ -38162,14 +38375,18 @@ Szkocja ( Scotland , Scotia , Skotsko )
                                                         przed 1098-? ( wg F.L.P.D.Ś.W. ) ( Edgar I wg F.S.B.1066 )
       Aleksander I                      	              1107-1124 ( wg V.N.M.S.D. i Tapsella i D.Ś. ) ( Alexander I wg D.O.T.W.A.C.A.G.H. )
       					                                        1107-1124 (?-27.4.) ( Alexandr I wg E.P. )
+                                                        ? ( Alexander I wg T.P. )
       Dawid I Święty                  	                1124-1153 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( David I wg Ř.S.J.Ď.S. ) ( St David I wg D.O.T.W.A.C.A.G.H. )
       					                                        1124-1153 (?-24.5.) ( David I wg E.P. )
                                                         ? ( David I wg V.K.T.H.O.H.E. ) ( David I (David) wg N.T.V.S. )
+                                                        przed 1133-1153 ( David I (David) wg T.P. )
       Malcolm IV Dzieweczka	                            1153-1165 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Malcolm IV (Malcolm IV the Maiden) wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1164-? ( Malcolm IV wg N.T.V.S. )
+                                                        przed 1154/9-? (19.12./19.12.-?) ( Malcolm IV wg T.P. )
       Wilhelm Lew                     	                1165-1214 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( William the Lion wg D.O.T.W.A.C.A.G.H. )
                                                         przed 1201-? ( William the Lion (William) wg N.T.V.S. )
                                                         ? ( Vilém Lev wg S.V.D.K.V. )
+                                                        przed ok.1166-? ( William the Lion wg T.P. )
       Aleksander II                     	              1214-1249 ( wg V.N.M.S.D. i Tapsella i D.Ś. ) ( Alexander II wg N.T.V.S. i D.O.T.W.A.C.A.G.H. )
       				                                          1214-1249 (?-8.7.) ( Alexandr II wg E.P. )
                                                         przed 1242-1249 ( Aleksander wg F.L.P.D.Ś.W. )
@@ -38210,6 +38427,7 @@ Szkocja ( Scotland , Scotia , Skotsko )
       Jakub IV            	                            1488-1513 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( James IV wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( James IV wg H.W.L.T.N.S.O.E.A.T.B. )
       Jakub V              	                            1513-1542 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( James V wg D.O.T.W.A.C.A.G.H. )
+                                                        ? ( James V wg T.P. )
       Maria                  	                          1542-1567 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Mary wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( Maria Stuart wg H.W. ) ( Mary wg H.O.W.P. )
       Jakub VI             	                            1567-1625 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( James VI wg N.T.V.S. i D.O.T.W.A.C.A.G.H. ) [King of England James I]
@@ -38245,6 +38463,7 @@ Szkocja ( Scotland , Scotia , Skotsko )
       The Holy Roman Empire - A Thousand Years of Europe's History
       How We Learn - The New Science of Education and the Brain
       Mercia - The Rise and Fall of a Kingdom
+      The Picts
 
 Szoszoni
   Washakie                                              przed 1876 n.e.-?
@@ -38779,7 +38998,7 @@ Księstwo świdnickie
     Karol I Wielki ( Charlemagne )	                    800-814 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Karel Veliký wg D.B. ) ( Charles The Great wg V.K.T.H.O.H.E. ) ( Karol Wielki wg S.P.D.Z. i K.G.1003 ) ( Charles I (Charles I the Great, Charlemagne) wg D.O.T.W.A.C.A.G.H. ) ( Karol Wielki (Karol) wg O.I.W. )
                                                         800-? ( wg D.R. ) ( Karol Wielki wg K.R.I.C.R. i D.D.T. i K.W.N.I.W.D. i G.R.I.L. )
                                                         800-po 813 ( 23/4.12.-? ) ( Karel Veliký wg Z.S.A.V.E. )
-                                                        ? ( Karel Veliký wg F.B.C.A.R. i S.P. ) ( Karol Wielki wg O.A.O.C.E. i Z.N.E. i L.1241. i G.C.3000.L.N.O.I.W. i P.W.O.T. i S.S.M.C. ) ( Karol Wielki (Karol) wg F.H.C.R. i N.I.B.W.XI.S. i B.D.K.B. ) ( Karel Veliký (Charles-Magne) wg M.I.Z.H.S.R. )
+                                                        ? ( Karel Veliký wg F.B.C.A.R. i S.P. ) ( Karol Wielki wg O.A.O.C.E. i Z.N.E. i L.1241. i G.C.3000.L.N.O.I.W. i P.W.O.T. i S.S.M.C. ) ( Karol Wielki (Karol) wg F.H.C.R. i N.I.B.W.XI.S. i B.D.K.B. ) ( Karel Veliký (Charles-Magne) wg M.I.Z.H.S.R. ) ( Charles the Great wg T.P. )
                                                         800-? (25.12.-?) ( Charles (Charles the Great) wg H.O.W.P. )
                                                         800-po 811 (24.12.-wiosna) ( Karol (Karol Wielki) wg H.W. )
                                                         800-814 (24.12.-?) ( wg N.T.V.S. )
@@ -38790,7 +39009,7 @@ Księstwo świdnickie
                                                         800-814 (25.12.-28.1.) ( Karol Wielki (Charlemagne, Karl der Große, Karol) wg F.841 )
     Ludwik I Pobożny                       	            814-840 ( wg D.Ś. i V.N.M.S.D. ) ( Ludwik Pobożny wg O.I.W. i C.K.F. i K.G.1003 )
                                                         813-840 ( wg Tapsella )
-                                                        ? ( Ludvík I Pobožný wg E.P. ) ( Ludwik Pobożny wg F.H.C.R. i B.D.K.B. )
+                                                        ? ( Ludvík I Pobožný wg E.P. ) ( Ludwik Pobożny wg F.H.C.R. i B.D.K.B. ) ( Louis the Pious wg T.P. )
                                                         813/4/6-840 ( Louis I (Louis I the Pious) wg D.O.T.W.A.C.A.G.H. )
                                                         ?-840 ( Louis The Pious wg V.K.T.H.O.H.E. )
                                                         przed 817-po 839 ( Ludwik Pobożny wg Z.N.E. )
@@ -39302,6 +39521,7 @@ Księstwo świdnickie
       Dějiny Indie
       Szkice spod Monte Cassino
       Kraj Głomaczów 1003
+      The Picts
 
 Ta Jüe
   Bibliografia :
@@ -40957,7 +41177,7 @@ Ukumani
   Bibliografia :
       Asýrie - od městského státu k říši
 
-Królestwo Ulaid ( Królestwo Ulsteru , Kingdom of Ulster )
+Królestwo Ulaid ( Królestwo Ulsteru , Kingdom of Ulster , Ulaidh , Ulad , Ulstermen , Ulaid , Ulster )
   Muiredach Muinderg                      	            ?-ok.500 n.e. ( wg Tapsella )
   Eochaid mac Muiredach                 	              ok.500-507 ( wg Tapsella )
   Cairell mac Muiredach                   	            507-525 ( wg Tapsella )
@@ -40965,6 +41185,7 @@ Królestwo Ulaid ( Królestwo Ulsteru , Kingdom of Ulster )
   Fergnae mac Oengus                       	            553-557 ( wg Tapsella )
   Demman                                          	    557-572 ( wg Tapsella )
   Baetan                                              	572-581 ( wg Tapsella )
+                                                        przed ok.578-? ( Báetan son of Cairill (Baetan) wg T.P. )
   Aed Dub                                           	  581-588 ( wg Tapsella )
   Fiachnae Lurgan                              	        588-626 ( wg Tapsella )
                                                         przed 590-? ( Fiachna wg V.K.T.H.O.H.E. )
@@ -41034,6 +41255,7 @@ Królestwo Ulaid ( Królestwo Ulsteru , Kingdom of Ulster )
   Bibliografia :
       Monarchs , Rulers , Dynasties and Kingdoms of the World
       Vanished Kingdoms - The History of Half-Forgotten Europe
+      The Picts
 
 Ulm
   Bibliografia :
@@ -41531,6 +41753,10 @@ Vendôme
       Dynasties of the World - A Chronological and Genealogical Handbook
       Svaté války - Dějiny křižových výprav
 
+Veneti [Galia]
+  Bibliografia :
+      The Picts
+
 Vercelli
   Bibliografia :
       Fryderyk II Hohenstauf - Cesarz Rzymski
@@ -41675,7 +41901,7 @@ Vorarlberg
   Bibliografia :
       The Holy Roman Empire - A Thousand Years of Europe's History
 
-Votadini ( Guotadin, Gododdin )
+Votadini ( Guotadin, Gododdin , Prydyn , Prydein )
   Padarn Pesrut (Paternus of The Red Cloak)             ?
   Morgant                                               przed 590-?
   Yrfai                                                 ?-600
@@ -41848,10 +42074,11 @@ Wardana
   Bibliografia :
       Serce Azji
 
-Warnowie ( Warenowie )
-  Hermegiskl                                            ? ( wg C.K.F. )
+Warnowie ( Warenowie , Varni )
+  Hermegiskl                                            ? ( wg C.K.F. ) ( Hermegisclus wg T.P. )
   Bibliografia :
       Chlodwik król Franków
+      The Picts
 
 Warszawa
   Księstwo warszawskie
@@ -42226,7 +42453,7 @@ Królestwo Wessexu ( Wessex , Kingdom of Wessex , Wesseks , Kingdom of the West 
                                                         przed 688-? ( Cædwalla of the West Saxons (Cædwalla, Cadwalla) wg M.T.R.A.F.O.A.K. )
   Ine                  	                                688-726 ( wg D.Ś. i Tapsella i D.O.T.W.A.C.A.G.H. )
                                         	              688-728 ( wg V.N.M.S.D. )
-                                                        ? ( wg F.L.P.D.Ś.W. ) 
+                                                        ? ( wg F.L.P.D.Ś.W. i T.P. ) 
                                                         przed 715-726 ( Ine of Wessex (Ine) wg M.T.R.A.F.O.A.K. )
   Ethelheard	                                          726-740 ( wg D.Ś. ) ( Aethelheard wg Tapsella i D.O.T.W.A.C.A.G.H. )
                                         	              728-740 ( wg V.N.M.S.D. )
@@ -42262,7 +42489,7 @@ Królestwo Wessexu ( Wessex , Kingdom of Wessex , Wesseks , Kingdom of the West 
                                                         865-871 (?-koniec) ( Æthelred of Wessex wg M.T.R.A.F.O.A.K. )
   Alfred The Great                                      871-899 ( wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. i T.S.O.T.I. ) ( Alfred wg N.T.V.S. ) ( Alfred (Alfred 'the Great') wg Æ.T.U.T.F.K. ) ( Alfred Veliký (Alfred) wg S.N.A.S.E. ) ( Alfred 'the Great' wg T.H.R.E.A.T.Y.O.E.H. ) [King of England]
                                                         ?-899 ( Alfred (Alfred Veliký) wg S.V.D.K.V. ) ( Alfred Wielki wg O.I.W. )
-                                                        ? ( Alfred the Great wg H.O.W.P. )
+                                                        ? ( Alfred the Great wg H.O.W.P. i T.P. )
                                                         871-899 (15.4.-?.10.) ( Alfred Wielki (Alfred) wg F.L.P.D.Ś.W. )
                                                         871-899/901 (?-26.10./?) ( Alfred Wielki (Alfred) wg F.S.B.1066 )
                                                         871-899 (koniec-?) ( Alfred (Alfred the Great) wg M.T.R.A.F.O.A.K. )
@@ -42272,7 +42499,7 @@ Królestwo Wessexu ( Wessex , Kingdom of Wessex , Wesseks , Kingdom of the West 
   Aelfweard                                             924 ( wg D.O.T.W.A.C.A.G.H. ) ( Ælfweard wg M.T.R.A.F.O.A.K. ) [King of England]
                                                         924-? ( Elfweard wg F.S.B.1066 )
   Edwin                                                 ? ( wg M.T.R.A.F.O.A.K. )
-  Athelstan                                             924-939 ( wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. ) ( Æthelstan wg N.T.V.S. ) ( Athelstan z Wessexu wg F.L.P.D.Ś.W. ) [King of England]
+  Athelstan                                             924-939 ( wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. ) ( Æthelstan wg N.T.V.S. ) ( Athelstan z Wessexu wg F.L.P.D.Ś.W. ) ( Aethelstan wg T.P. ) [King of England]
                                                         przed 926-939 ( Aethelstan wg S.N.A.S.E. )
                                                         924/5-939 (?/?.9.-27.10.) ( Æthelstan wg F.S.B.1066 )
                                                         925-939 ( wg M.T.R.A.F.O.A.K. )
@@ -42313,6 +42540,7 @@ Królestwo Wessexu ( Wessex , Kingdom of Wessex , Wesseks , Kingdom of the West 
       Fulford-Stamford Bridge 1066
       The Holy Roman Empire - A Thousand Years of Europe's History
       Mercia - The Rise and Fall of a Kingdom
+      The Picts
 
 West Ukrainian Socialist Republic
   Bibliografia :
@@ -43049,6 +43277,7 @@ Wizygoci ( Terwingowie , The Visigoths , Vizigóti , Wezjowie , Vesi , Wesegoci 
                                                         395-410 (przed wiosna-koniec) ( Alaryk wg G.R.I.L. )
                                                         395-410 (?-po 24.8.) ( Alaryk wg C.K.F. )
                                                         przed 396-? ( Alaric wg Ř.M.M.A.Ř. )
+                                                        ? ( Alaric wg T.P. )
       Ataulf                 	                          410-415 (?-?.8.) ( wg P.C.R. i G.R.I.L. )
       		             	                                410-415 ( wg D.Ś. ) ( Athaulf wg D.O.T.W.A.C.A.G.H. )
                                                	        410-418 ( wg V.N.M.S.D. )
@@ -43191,6 +43420,7 @@ Wizygoci ( Terwingowie , The Visigoths , Vizigóti , Wezjowie , Vesi , Wesegoci 
       Furia ludzi Północy - Dzieje świata Wikingów
       Stěhování národů a sever Evropy - Vikingové na mořích i na pevnině
       Arabowie
+      The Picts
 
 Księstwo Włodzimiersko-Halickie ( Ruś Włodzimiersko-Halicka , Księstwo Halicko-Włodzimierskie , Ruś Halicko-Wołyńska , Księstwo halicko-włodzimierskie , Księstwo halicko-wołyńskie , Ruś Halicka )
   Romanowicze ( Dynastia Romanowiczów )
@@ -44275,5 +44505,6 @@ Bibliografia :
     [208] The Three-Body Problem ; Cixin Liu ; 2024
     [209] The Dark Forest ; Cixin Liu ; 2016
     [210] Newel 1562 ; Marek Plewczyński ; 2023
+    [211] The Picts ; Benjamin Hudson ; 2014
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/
