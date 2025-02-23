@@ -147,6 +147,8 @@ HISTORIA:
     Ród Indian Algonkinów ; Arkady Fiedler , Marek Fiedler
     Szkice spod Monte Cassino ; Melchior Wańkowicz
     Zrod střední a východní Evropy , mezi Byzancí a Římem ; František Dvorník
+LITERATURA:
+    Ocalone w tłumaczeniu - szkice o warsztacie tłumacza poezji z dodatkiem małej antologii przekładów-problemów ; Stanisław Barańczak
 MATEMATYKA:
     LOGIKA:
         Logika a logiky ; Jaroslav Peregrin
@@ -477,6 +479,7 @@ POP.SCIENCE :
     	Ars Poetica ; Jorge Luis Borges
         Fantastyka i futurologia ; Stanisław Lem
         Filozofia przypadku ; Stanisław Lem
+        Ocalone w tłumaczeniu - szkice o warsztacie tłumacza poezji z dodatkiem małej antologii przekładów-problemów ; Stanisław Barańczak
         Severské mýty ; R. I. Page
   	MATEMATYKA:
 	    Velká Fermatová věta ; Simon Singh
@@ -571,7 +574,6 @@ OTHER :
     Guinessova kniha rekordů 1988
     Mała Biblia Dla Dzieci ; Pat Alexander
     Młot na czarownice (2. części) ; Jakub Sprenger , Henryk Kraemer , Jerzy Szafiański (przedmowa)
-    Mój zbiór opowieści biblijnych ; International Bible Students Association
     Plachetnice ; Karl-Heinz Wieland
     Pravidla pro hru Canasta ; F.Kolár
     Svět záhad Arthura C. Clarka A-Z od Atlantidy k Zombie ; Simon Welfare , John Fairley
@@ -584,6 +586,7 @@ OTHER :
 FICTION:
 ------------------
 ? - Zamarovský , Vojtech - Gilgameš - SVK
+  - International Bible Students Association - Mój zbiór opowieści biblijnych - POL
   - Cook , Robert - Njal's Saga - EN
   - Örnólfur Thorsson , Jane Smiley , Robert Kellogg - The Sagas of the Icelanders - EN
                                                                         - Egil's Saga (Egils saga Skallagrímssonar) - EN

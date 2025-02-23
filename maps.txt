@@ -740,10 +740,12 @@
   - Górnośląski Okręg Przemysłowy - mapa komunikacyjna ; Falk ; 1:65000
   - Góry Świętokrzyskie ; ExpressMap ; Comfort! map ; 1:75000
   - Góry Świętokrzyskie ; ExpressMap ; 1:75000
-  - Jura Krakowsko-częstochowska - część północna ; ExpressMap ; Comfort! map ; 1:52000
   - Jura Krakowsko-częstochowska - część południowa ; ExpressMap ; Comfort! map ; 1:52000
+  - Jura Krakowsko-częstochowska - część północna ; ExpressMap ; Comfort! map ; 1:52000
   - Kaszuby - Kaszubski Park Narodowy ; ExpressMap ; Comfort! map ; Mapy laminowane polskiego wybrzeża Bałtyku ; 8 ; 1:50000
   - Mazury ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:450000
+  - Mazury - część południowa ; ExpressMap ; Comfort! map ; 1:60000
+  - Mazury - część północna ; ExpressMap ; Comfort! map ; 1:60000
   - Metropolia Silesia i okolice - 101 atrakcji turystycznych ; Compass ; 1:50000
   - Nadmorski Park Krajobrazowy - Wybrzeże Bałtyku: Stilo-Władysławowo-Hel-Rewa ; ExpressMap ; Comfort! map ; 1:50000
   - Ojcowski Park Narodowy ; ExpressMap ; Comfort! map ; 1:25000
@@ -958,6 +960,7 @@
   - Fuertaventura 3in1 ; Kompass ; 240 ; 1:50000
   - Gran Canaria ; Kompass ; 237 ; 1:50000
   - High Atlas + Morocco ; ExpressMap ; Comfort! map ; terraQuest ; 1:100000/1:1500000/1:3000000
+  - Ibiza - Formentera mit Cityplänen ; Kompass ; 239 ; 1:50000
   - La Gomera 3in1 ; Kompass ; 231 ; 1:30000
   - La Palma ; Kompass ; 232 ; 1:50000
   - Mallorca ; Kompass ; 230 ; 1:75000
