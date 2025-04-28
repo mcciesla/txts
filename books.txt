@@ -321,6 +321,7 @@ POP.SCIENCE :
         Burza Nad Pacyfikiem Tom II ; Zbigniew Flisowski
         Burzliwe dzieje Kalifatu Bagdadzkiego ; Jerzy Hauziński
         Chlodwik król Franków ; Michel Rouche
+        Clontarf 1014 ; Cezary Namirski
         Concertina ; Olgierd Terlecki
         Czarne wampuny głoszą wojnę ; Jan Szczepański
         Dějepis pro I. ročník gymnázií ; Tomáš Jílek a kol.
@@ -373,9 +374,11 @@ POP.SCIENCE :
         Křížové výpravy ; Antony Bridge
         Książęta piastowscy Śląska ; Zygmunt Boras
         Kubiłaj-chan - władca największego imperium w dziejach ; John Mann
+        Lechowe Pole 955 ; Robert F. Barkowski
         Legnica 1241 ; Jerzy Maroń
         Leyte 1944 ; Zbigniew Flisowski
         Lukullus ; Arthur Keaveney
+        Masada 66-73 n.e. ; Bernard Nowaczyk
         Maurové a Evropa ; Hans Kaufmann
         Maxmilián I. - Zakladatel habsburské světové říše ; Sigrid-Maria Größingová
         Mayové ; Sylvanus Griswold Morley , George W. Brainerd
@@ -1025,7 +1028,8 @@ Hašek , Jaroslav - Osudy dobrého vojáka Švejka - O
 Haycox , Ernest - Dyliżans do Lordsburga - POL
 Hemingway , Ernest - Stary człowiek i morze - POL
 Henry , O. - Księżniczka i puma - POL
-Herbert , Frank - Dune - O
+Herbert , Frank - Children of Dune - O
+                - Dune - O
                 - Dune Messiah - O
 Herlihy , James Leo - Nocny kowboj - POL
 Hofman , Ota - Pan Tau a tisíc zázraků - O

@@ -26,12 +26,6 @@ Winter
             - ?
             - cokoli co se naplanuje
 Europe highpoints
-    - Spain
-        - Teide 3718m
-        - Octobar-April
-        - 5 days
-        - possible routes
-            - traverse of Tenerife (4-5 days)
     - Andorra
         - Pic de Comapedrosa 2943m
         - Late May-November
@@ -218,7 +212,7 @@ World (non-Europe) highpoints
             - https://www.michalzhor.cz/2022/05/17/pico-de-sao-tome-nejvyssi-sopka-na-ostrove/
             - June-August
             - 1-2 days
-        Namibia
+        - Namibia
             - Konigstein 2573m
             - June-August
             - 2 days

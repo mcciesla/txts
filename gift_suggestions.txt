@@ -1,4 +1,5 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
+      - The Genetic Book of the Dead: A Darwinian Reverie - Richard Dawkins
       - Life Ascending: The Ten Great Inventions of Evolution - Nick Lane
       - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
@@ -26,6 +27,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy - Richard Hanania
       - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
       - The Empire of the Steppes: A History of Central Asia - René Grousset
+      - Asyria. Powstanie i upadek pierwszego imperium w historii świata - Eckart Frahm
       - Masters of Doom - David Kushner
       - Babilon 729-648 p.n.e. - Piotr Biziuk
       - Wojny markomańskie 162-185 n.e. - Marek Olędzki
@@ -39,6 +41,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Kynoskefalaj 197 p.n.e. - Krzysztof Kęciek
       - Magnezja 190 p.n.e. - Krzysztof Kęciek
       - Termopile 480 p.n.e. - Paweł Kupsik
+      - Starożytni Celtowie - Barry Cunliffe
       - Warriors and Worriers: The Survival of the Sexes - Joyce F. Benenson
       - The Strategy of Conflict - Thomas C. Schelling
       - Proofs from THE BOOK - Martin Aigner, Günter M. Ziegler
@@ -85,6 +88,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Myth of the Framework: In Defence of Science and Rationality - Karl Popper
       - The Origins of Knowledge and Imagination - Jacob Bronowski
       - On Liberty - John Stuart Mill
+      - Take Pride - Jessica Tracy
       - Niemcza 1017 - Paweł Rochala
       - Połock 1579 - Dariusz Kupisz
       - Grenada 1492 - Roman Warszewski
@@ -148,6 +152,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Římané v Germánii - Reinhard Wolters
       - Wywrócony świat i inne utwory - Arkadij Strugacki, Borys Strugacki
       - Linear and Nonlinear Programming - David G. Luenberger
+      - Tropical Gangsters: One Man's Experience with Development and Decadence in Deepest Africa - Robert Klitgaard
       - Problems in Philosophy: The Limits of Inquiry - Colin McGinn
       - Adventures of a Mathematician - Stanisław Marcin Ulam
       - Endless Forms Most Beautiful: The New Science of Evo Devo - Sean B. Carroll
