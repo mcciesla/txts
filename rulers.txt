@@ -13663,7 +13663,7 @@ Francja ( France , Francie , Frankreich )
 			    	                                            ?-1814 ( wg 100.N.U.W. )
 			    	                                            przed 1805-? ( Napoleon Bonaparte wg B.M. ) ( wg Z.G.C.O.P. )
 			    	                                            przed 1798-1814 i 1815 ( wg M.Ś. )
-			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i U.E. i H.S.J.M. i O.I.W. i O.L.S.S.Z.C.Z.A.O.V.H. i O.T.M.T.M.T.W. i W.C.Z.H.2.2.P.N.E. ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. i S.II.W.I.J.C.Z.E.M.P. ) ( Napoleon I Bonaparte wg B.5.5.P.N.E. ) ( Napoleon Bonaparte (Napoleon, N.Bonaparte) wg G.B.5.5.P.N.E. ) ( N.Bonaparte (Napoleon) wg B.W.5.P.N.E. ) ( Napoleon I Bonaparte (Napoleon) wg O.W.T.S.O.W.T.P.Z.D.M.A.P.P. )
+			        	                                        ? ( Napoleon wg Ř.V.G. i Z.V.C. i M.P.M. i K.Ř. i Ř.S.J.Ď.S. i E.N.T.C.F.R.S.H.A.P. i S.A.B.H.O.H. i T.R.L.Z.S.L.R.S.B. i U.E. i H.S.J.M. i O.I.W. i O.L.S.S.Z.C.Z.A.O.V.H. i O.T.M.T.M.T.W. i W.C.Z.H.2.2.P.N.E. i M.1612 ) ( Napoleon Bonaparte wg F.B.C.A.R. i O.A.O.C.E. i S.II.W.I.J.C.Z.E.M.P. ) ( Napoleon I Bonaparte wg B.5.5.P.N.E. ) ( Napoleon Bonaparte (Napoleon, N.Bonaparte) wg G.B.5.5.P.N.E. ) ( N.Bonaparte (Napoleon) wg B.W.5.P.N.E. ) ( Napoleon I Bonaparte (Napoleon) wg O.W.T.S.O.W.T.P.Z.D.M.A.P.P. )
 				                                                przed 1812-? ( Napoleon Bonaparte wg B.O.R.H. ) ( Napoleon wg H.3.P.N.E. )
 				                                                przed 1815-? ( Napoleon wg G.T.G. )
                                                         1805-1814 i 1815 (?-11.4. i ?-?.6.) ( Napoleon wg V.K.T.H.O.H.E. )
@@ -13823,6 +13823,7 @@ Francja ( France , Francie , Frankreich )
       The Picts
       Ocalone w tłumaczeniu - szkice o warsztacie tłumacza poezji z dodatkiem małej antologii przekładów-problemów
       Lechowe Pole 955
+      Moskwa 1612
 
 Frankfurt
   Principality of Frankfurt
@@ -19555,15 +19556,17 @@ Karystos
   Bibliografia :
       Dzieje Grecji
 
-Kasimow ( Chanat Kasimowa , Khanate of Kasimow )
+Kasimow ( Chanat Kasimowa , Khanate of Kasimow , Orda kasimowska )
   Kasym                                                 1452 n.e.-? ( wg N.G.R.B.I.N.S. )
   Nur Dewlet                                            1478/79/86-? ( wg N.G.R.B.I.N.S. ) [Khan of Crimea]
   Janaj                                                 przed 1509-? ( wg N.G.R.B.I.N.S. )
   Szejch Awlijar                                        ? ( wg N.G.R.B.I.N.S. )
+  Uraz-Mahmet                                           przed 1610-po 1610 (13.1.-?.4.) ( wg M.1612 )
   Sejjid Burhan                                         ok.1650 ( Sejjid Burchan wg N.G.R.B.I.N.S. )
   Wasyl                                                 ? ( wg N.G.R.B.I.N.S. )
   Bibliografia :
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
+      Moskwa 1612
 
 Kaskaskia
   Bibliografia :
@@ -21067,6 +21070,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
   Linus                          	                      ok.67-ok.76 ( wg Tapsella )
   Anacletus I                 	                        ok.76-ok.88 ( wg Tapsella )
   Klement I                   	                        ok.88-ok.97 ( wg Tapsella )
+                                                        ? ( Klemens wg M.1612 )
   Evaristus                    	                        ok.97-ok.105 ( wg Tapsella )
   Aleksander I              	                          ok.105-ok.115 ( wg Tapsella )
   Sykstus I                    	                        ok.115-ok.125 ( wg Tapsella )
@@ -21986,6 +21990,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
       Clontarf 1014
       Lechowe Pole 955
       Masada 66-73 n.e.
+      Moskwa 1612
 
 Kottúra ( Koddura )
   Svámidatta                                            ? ( wg D.I. )
@@ -22193,7 +22198,7 @@ Kroton ( Croton )
       Dzieje Grecji
       History of Western Philosophy
 
-Chanat Krymski ( Khanate of Crimea , The Crimean Khanate )
+Chanat Krymski ( Khanate of Crimea , The Crimean Khanate , Chanat krymski )
   Czyngisydzi
     Girejowie ( Dynastia Girejów )
       Hadżi Girej I                                     1441-1466 ( Hadżi Girej wg N.G.R.B.I.N.S. )
@@ -22207,11 +22212,13 @@ Chanat Krymski ( Khanate of Crimea , The Crimean Khanate )
                                                         przed 1551-po 1572 ( wg N.G.R.B.I.N.S. )
       Islam Girej                                       przed 1586-? ( wg N.G.R.B.I.N.S. )
       Gazi Girej                                        przed 1588-? ( wg N.G.R.B.I.N.S. )
+                                                        przed 1591-? ( Kaza-Girej wg M.1612 )
       Dżanibek Girej                                    przed 1616-? ( wg N.G.R.B.I.N.S. )
       Islam Girej                                       przed 1620-? ( wg N.G.R.B.I.N.S. )
       Bahadyr Girej                                     przed 1636-? ( wg N.G.R.B.I.N.S. )
       Mehmed Girej IV                                   1641-1644 i 1654-1666 ( Muhammed-Geraj (Muhammed-Gerai, Muhammed-Gieraj) wg N.G.R.B.I.N.S. )
       Adyl Girej                                        1666-1671 ( wg N.G.R.B.I.N.S. )
+      Selim Girej                                       przed 1672-po 1676 (?-19.10.) ( wg C.1673 )
       Murad Girej                                       ? ( wg N.G.R.B.I.N.S. )
       Kapłan Girej I                                    1708-? i 1713-1716 ( Kapłan Girej wg N.G.R.B.I.N.S. )
   Szyrynowie ( Plemię Szyrynów , Klan Szyrynów )
@@ -22225,6 +22232,8 @@ Chanat Krymski ( Khanate of Crimea , The Crimean Khanate )
       Na granicach Rosji - Budowanie imperium na stepie 1500-1800
       Mohacz 1526
       Obertyn 1531
+      Moskwa 1612
+      Chocim 1673
 
 Zakon Krzyżacki ( Teutonic Order, Teutonic Knights, State of Teutonic Order, Ordensstaat, Order of The Brothers of The Teutonic House of The Virgin Mary in Jerusalem , Zakon Najświętszej Maryi Panny Domu Jerozolimskiego , Krzyżowcy , Państwo Zakonu Krzyżackiego , Zakon Szpitala Najświętszej Marii Panny Domu Niemieckiego , Krzyżacy , Ordo fratrum hospitalis sanctae Mariae Theutonicorum Ierosolimitatorum , Bracia szpitala niemieckiego pod wezwaniem Najświętszej Marii Panny w Jerozolimie , Deutschen Orden , Ordo Theutonicorum , Zakon Szpitalników Świętej Marii Niemców Jerozolimskich , Ordenstaat , Zakon , Order , The Order , Order of Teutonic Knights , Zakon Teutoński Szpitala Najświętszej Marii Panny , Zakon Najświętszej Marii Panny )
   Henryk Walpot                               	        1198-1208 ( 5.3.-5.11. ) ( wg P.W.M.K. )
@@ -26771,11 +26780,14 @@ Mołdawia
     Aleksander Lapusneanu                               1552-po 1553 (?-1.6.) ( wg S.II.W.I.J.C.Z.E.M.P. )
     Stefan Tomża                                        przed 1563-? ( wg S.II.W.I.J.C.Z.E.M.P. )
     Jan III                                             ? ( wg S.II.W.I.J.C.Z.E.M.P. )
+    Stefan Petryczajko                                  przed 1673-1674 (29.10.-po 14.1.) ( Petryczajko wg C.1673 )
+    Dymitr Kantakuzen                                   1674-po 1675 (?-?.2.) ( Dymitr Kantakuzin wg C.1673 )
   Bibliografia :
       Karpatské hry
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Mohacz 1526
       Obertyn 1531
+      Chocim 1673
 
 Molossis
   Bibliografia :
@@ -27080,14 +27092,14 @@ Despotat Morei ( Despotat Mistry )
 
 Moskwa ( Muscovy , Moskva , Moskau , Państwo moskiewskie )
   Księstwo Moskiewskie
-    Dynastia Rurykowiczów ( House of Rurik )
+    Dynastia Rurykowiczów ( House of Rurik , Rurykowicze )
       Daniel                    	                      1263-1303 ( wg D.Ś. )
                                                         przed 1285-? ( wg L.P.P. )
                                                         ? ( wg J.P.1242 )
                                                         ok.1263-1303 ( wg D.O.T.W.A.C.A.G.H. )
       Jurij                       	                    1303-1325 ( wg D.Ś. ) ( Yurii wg D.O.T.W.A.C.A.G.H. ) [Grand Prince of Vladimir Yurii III]
                                                         ? ( Jurij Moskiewski (Jurij) wg J.P.1242 )
-      Iwan I Kalita         	                          1325-1340 ( wg D.Ś. ) ( Ivan Danilovič Kalita wg D.B. ) ( Ivan I (Ivan I Kalita) wg D.O.T.W.A.C.A.G.H. ) [Grand Prince of Vladimir Ivan I]
+      Iwan I Kalita         	                          1325-1340 ( wg D.Ś. ) ( Ivan Danilovič Kalita wg D.B. ) ( Ivan I (Ivan I Kalita) wg D.O.T.W.A.C.A.G.H. ) ( Iwan Kalita (Kalita) wg M.1612 ) [Grand Prince of Vladimir Ivan I]
       			         	                                  ? ( Ivan I Kalita wg D.P.I.R.G. ) ( Ivan I Danilovič Kalita wg E.P. ) ( Iwan Kalita wg J.P.1242 )
                                                         przed 1331-po 1333 ( Iwan Kalita (Kalita) wg L.P.P. )
       Szymon Dumny	                                    1340-1353 ( wg D.Ś. ) ( Simeon the Proud wg D.O.T.W.A.C.A.G.H. ) [Grand Prince of Vladimir]
@@ -27097,7 +27109,7 @@ Moskwa ( Muscovy , Moskva , Moskau , Państwo moskiewskie )
                                                         przed 1356-1359 ( Iwan II wg L.P.P. )
       Dymitr Doński                                     przed 1363-po 1375 ( Dymitr Iwanowicz (Dymitr) wg L.P.P. ) [Grand Prince of Vladimir]
   Wielkie Księstwo Moskiewsko-Włodzimierskie ( Wielkie Księstwo Moskiewskie , Grand Duchy of Moscow , Wielkie Księstwo Moskwy , Principality of Moscovy , W.Ks. Moskiewskie )
-    Dynastia Rurykowiczów ( House of Rurik )
+    Dynastia Rurykowiczów ( House of Rurik , Rurykowicze )
       Dymitr Doński        	                            1359-1389 ( wg V.N.M.S.D. i D.Ś. ) ( Dimitri Donskoi wg D.O.T.W.A.C.A.G.H. ) [Grand Prince of Vladimir Dimitri Donskoi]
       			    	                                      przed 1380-? ( Dmitrij wg D.P.I.R.G. ) ( Dimitrij Donský wg Ř.S.J.Ď.S. ) ( Dymitr Iwanowicz (Dymitr) wg J.P.1242 )
       				                                          ? ( Dimitrij Ivanovič Donský wg E.P. ) ( Dmitri Donskoy wg V.K.T.H.O.H.E. )
@@ -27111,7 +27123,7 @@ Moskwa ( Muscovy , Moskva , Moskau , Państwo moskiewskie )
       				                                          przed 1471-? ( Ivan III Vasilijevič wg E.P. ) ( Iwan III wg J.P.1242 )
                                                         ok.1475 ( wg Ř.S.J.Ď.S. )
                                                         ?-1505 ( Ivan III The Great wg V.K.T.H.O.H.E. )
-                                                        ? ( Iwan III wg L.P.P. )
+                                                        ? ( Iwan III wg L.P.P. i M.1612 )
       Iwan Młody            	                          1471-1490 ( wg D.Ś. ) ( Ivan the Younger wg D.O.T.W.A.C.A.G.H. )
       				                                          1471-1490 ( ?-7.3. ) ( Ivan Ivanovič Mladý wg E.P. )
       Wasyl III                 	                      1505-1533 ( wg V.N.M.S.D. i D.Ś. ) ( Wasyl wg N.G.R.B.I.N.S. ) ( Vasily III wg T.H.R.E.A.T.Y.O.E.H. )
@@ -27140,6 +27152,7 @@ Moskwa ( Muscovy , Moskva , Moskau , Państwo moskiewskie )
       The Holy Roman Empire - A Thousand Years of Europe's History
       Obertyn 1531
       Newel 1562
+      Moskwa 1612
 
 Mosul
   Emirat Mosulu
@@ -29995,7 +30008,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
   Ertogrul                                              ? ( wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ok.1280 ( Ertuğrul wg D.O.T.W.A.C.A.G.H. )
   Osman                                                 przed 1291-1299 ( Osman wg S.II.W.I.J.C.Z.E.M.P. )
-  Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát , Sułtanat Osmański , Imperium Osmańskie , Ottoman Sultanate , Porta Ottomańska , Porta Otomańska , Wysoka Porta , Państwo Osmana , Porta , The Ottoman Empire , Osmanská říše , Osmanische Reich , Ottoman State , Imperium osmańskie , Państwo Osmańskie , Turcja Osmańska , Imperium Tureckie , Turcja )
+  Cesarstwo Osmańskie ( Ottoman Turks, Ottoman Empire , Osmanský sultanát , Sułtanat Osmański , Imperium Osmańskie , Ottoman Sultanate , Porta Ottomańska , Porta Otomańska , Wysoka Porta , Państwo Osmana , Porta , The Ottoman Empire , Osmanská říše , Osmanische Reich , Ottoman State , Imperium osmańskie , Państwo Osmańskie , Turcja Osmańska , Imperium Tureckie , Turcja , Wielka Porta , Imperium otomańskie , Otomańska Porta )
     Dynastia Osmanli ( Osmanowie , Osmanli Dynasty , Ottoman Dynasty , Otomanowie , Dynastia Osmana , Dom Osmana , Dynastia Osmańska , Ród Osmana , Ottomans , The Ottomans )
       Osman I                          	                1280-1324 ( wg D.Ś. )
                                                         1280-1323/4 ( wg D.O.T.W.A.C.A.G.H. )
@@ -30010,6 +30023,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
                                                         1326-1359/62 ( Orchan wg S.V.D.K.V. )
                                                         ? ( wg H.W. )
                                                         1326-1362 ( Orchan wg N.1396 )
+                                                        przed 1330-? ( Orchan wg C.1673 )
       Murad I                           	              1362-1389 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1360-1389 ( wg V.N.M.S.D. ) ( Murat I (Murat) wg S.II.W.I.J.C.Z.E.M.P. ) ( Murad wg B.D.K.B. )
       			            	                              1359-1389 ( wg D.B. i M.1526 ) ( Murad I. wg S.V.D.K.V. )
@@ -30087,9 +30101,9 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
                                                         ? ( wg S.II.W.I.J.C.Z.E.M.P. )
       Murad IV                            	            1623-1640 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1625-1640 ( wg V.N.M.S.D. )
-      Ibrahim                               	          1640-1648 ( wg D.Ś. i V.N.M.S.D. i H.W. i D.O.T.W.A.C.A.G.H. ) ( Ibrahim I (Ibrahim chan) wg B.D.K.B. )
+      Ibrahim                               	          1640-1648 ( wg D.Ś. i V.N.M.S.D. i H.W. i D.O.T.W.A.C.A.G.H. ) ( Ibrahim I (Ibrahim chan) wg B.D.K.B. ) ( Ibrahim I wg C.1673 )
                                                         ? ( Ibrahim I (Ibrahim I Deli, Ibrahim I Idiot, Ibrahim I Wariat) wg S.II.W.I.J.C.Z.E.M.P. )
-      Mehmed IV                        	                1648-1687 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
+      Mehmed IV                        	                1648-1687 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. ) ( Mehmet IV (Mehmet, Avci) wg C.1673 )
       Süleyman II                                       1687-1691 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
                                                         ? ( Sulejman III wg S.II.W.I.J.C.Z.E.M.P. )
       Ahmed II                             	            1691-1695 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. )
@@ -30154,6 +30168,7 @@ Osmanowie ( Devlet-i âl-i Osman , Osmané , Osmanové , The Ottomans , Ottomans
       Dějiny Indie
       Obertyn 1531
       Newel 1562
+      Chocim 1673
 
 Bishopric of Osnabrück
   Wotiloph z Osnabrück                                  przed 1002 n.e.-? (24.7.-?) ( wg K.G.1003 )
@@ -32196,7 +32211,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
                                                         przed 1530-1548 (?-1.4.) ( Zygmunt Stary wg N.1562 )
       Zygmunt II August        	                        1548-1572 ( wg D.Ś. i V.N.M.S.D. i H.W. ) ( Sigismund-Augustus (Sigismund II August, Zygmunt August) wg V.K.T.H.O.H.E. ) ( Zygmunt August wg P.K.I.K.P. )
       					                                        przed 1571-? ( Zygmunt August wg B.M. )
-                                                        ? ( Zygmunt August wg O.K.C.J. i P.W.O.T. i M.1526 )
+                                                        ? ( Zygmunt August wg O.K.C.J. i P.W.O.T. i M.1526 i C.1673 )
                                                         ok.1550 ( Zygmunt August wg L.P.P. )
                                                         przed 1548-po 1567 ( Zygmunt August (II Zigsmund) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         1529/48-1572 ( Sigismund II Augustus wg D.O.T.W.A.C.A.G.H. )
@@ -32205,7 +32220,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
                                                         przed 1550-? (7.12.-?) ( Zygmunt August wg W.P.P.K.O.S. )
                                                         przed 1557-po 1571 ( Zygmunt August wg O.1531 )
                                                         1530/48-1572 (?/1.4.-?) ( Zygmunt August wg N.1562 )
-  Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita , Rzeczpospolita Polska , Polish-Lithuanian Commonwealth , Poland-Lithuania , Korona Polska , Korona )
+  Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita , Rzeczpospolita Polska , Polish-Lithuanian Commonwealth , Poland-Lithuania , Korona Polska , Korona , Rzplita )
     House of France
       Henryk Walezy                     	              1573-1575 ( wg D.Ś. i V.N.M.S.D. ) ( Henri de Valois wg V.K.T.H.O.H.E. ) ( Henry wg D.O.T.W.A.C.A.G.H. ) [King of France Henry III]
                                                         1574 (?.2.-?) ( Henryk I Walezy (Walezjusz) wg H.W. )
@@ -32218,19 +32233,21 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
                                                         1575-1586 ( wg V.N.M.S.D. )
                                                         1575/6-1586 ( Istvan Bathory (Stephen Bathory) wg V.K.T.H.O.H.E. )
       				                                          przed 1578-? ( Štěpán Báthory wg E.P. )
-                                                        ? ( Stefan wg Z.1205 i N.1562 ) ( wg W.P.P.K.O.S. i O.1531 )
+                                                        ? ( Stefan wg Z.1205 i N.1562 ) ( wg W.P.P.K.O.S. i O.1531 i M.1612 )
                                                         przed 1585-? ( Batory wg K.P.S. )
     House of Sweden ( Dynastia Wazów , Vasa family , Dom Wazów )
       Zygmunt III Waza                 	                1587-1632 ( wg D.Ś. i V.N.M.S.D. i N.G.R.B.I.N.S. ) ( Sigismund III Vasa (Sigismund Vasa) wg V.K.T.H.O.H.E. ) ( Sigismund III wg D.O.T.W.A.C.A.G.H. ) ( Zygmunt III wg P.K.I.K.P. ) [King of Sweden Sigismund]
                                                         przed 1595-? ( wg O.K.C.J. )
                                                         ? ( Zygmunt Waza (Zygmunt) wg K.P.S. ) ( wg W.P.P.K.O.S. )
-      Władysław IV                        	            1632-1648 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. i P.K.I.K.P. ) ( Władysław IV Waza (Ladislas IV Vasa) wg V.K.T.H.O.H.E. )
-                                                        ? ( wg O.K.C.J. i W.P.P.K.O.S. )
+                                                        przed 1606-po 1621 ( Zygmunt (Zygmunt Trzeci, Zygmunt III, Zygmunt II Waza) wg M.1612 )
+      Władysław IV                        	            1632-1648 ( wg D.Ś. i V.N.M.S.D. i D.O.T.W.A.C.A.G.H. i P.K.I.K.P. ) ( Władysław IV Waza (Ladislas IV Vasa) wg V.K.T.H.O.H.E. ) [Tsar of Russia Władysław]
+                                                        ? ( wg O.K.C.J. i W.P.P.K.O.S. ) ( Władysław Waza wg M.1612 )
       Jan II Kazimierz                    	            1648-1668 ( wg D.Ś. i V.N.M.S.D. ) ( Jan Kazimierz Waza (John Casimir Vasa, Jan Kazimierz Vasa) wg V.K.T.H.O.H.E. ) ( John II Casimir wg D.O.T.W.A.C.A.G.H. ) ( Jan Kazimierz wg P.K.I.K.P. )
-                                                        ? ( Jan Kazimierz wg K.P.S. )
+                                                        ? ( Jan Kazimierz wg K.P.S. i M.1612 )
     House of Wiśniowiecki
       Michał Korybut Wiśniowiecki	                      1669-1673 ( wg D.Ś. i P.K.I.K.P. ) ( Michael wg D.O.T.W.A.C.A.G.H. )
                                                         1669-1674 ( wg V.N.M.S.D. )
+                                                        przed 1673-po 1673 (4.4.-15.10.) ( Michał (Michał Wiszniowiecki) wg C.1673 )
     House of Sobieski
       Jan III Sobieski                      	          1674-1696 ( wg D.Ś. ) ( John III wg D.O.T.W.A.C.A.G.H. ) ( Sobieski wg P.K.I.K.P. )
                                                         1674-1697 ( wg V.N.M.S.D. )
@@ -32239,6 +32256,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
                                                         1673-1696 ( Jan Sobieski wg V.K.T.H.O.H.E. )
                                                         przed 1683-1696 ( wg H.W. )
                                                         ? ( wg L.1241. ) ( Sobieski wg T.R.L.Z.S.L.R.S.B. i Z.W.I.L.O.Z.L.1861. i W.P.P.K.O.S. ) ( Jan III wg N.1562 )
+                                                        1674/6-1696 (21.5./2.2.-?) ( Sobieski (Jan Sobieski, Jan III, Jan, Jan III. Sobieski) wg C.1673 )
     House of Saxony
       August II Mocny                     	            1697-1704 i 1709-1733 ( wg D.Ś. i V.N.M.S.D. ) ( Augustus II (Augustus II the Strong) wg D.O.T.W.A.C.A.G.H. ) ( August II (August the Strong, Augustus II) wg R.E.P.A.T.M.O.M. ) [Elector of Saxony Frederick Augustus I]
       				         	                                ?-1733 ( wg 100.N.V.S. )
@@ -32357,6 +32375,8 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
       Kraj Głomaczów 1003
       Newel 1562
       Lechowe Pole 955
+      Moskwa 1612
+      Chocim 1673
 
 Księstwo Połockie ( Principality of Polatsk , Polocké knížectví , Księstwo połockie )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -33417,12 +33437,12 @@ Roroni
   Bibliografia :
       Ostrovy lidojedů
 
-Rosja ( Russia , Rusko )
+Rosja ( Russia , Rusko , Państwo Moskiewskie , Państwo moskiewskie )
   Carstwo Rosji ( The Tsardom of Russia , Imperium Rosyjskie , Russian Empire , Wszechruś )
     Dynastia Rurykowiczów ( Rurykowicze , House of Rurik , Ruriks )
       Iwan IV Groźny                   	                1547-1584 ( wg V.N.M.S.D. i D.Ś. ) ( Ivan IV (Ivan IV the Terrible) wg D.O.T.W.A.C.A.G.H. ) ( Iwan IV (Iwan, Iwan Groźny) wg N.G.R.B.I.N.S. ) ( Iwan Groźny (Iwan) wg N.1562 )
       				           	                              1538-1584 ( Ivan IV wg D.P.I.R.G. )
-      				     	                                    ? ( Iwan Groźny wg M.Ś. ) ( Ivan Hrozný wg Z.S.A.V.E. ) ( Ivan IV Vasilijevič Hrozný wg E.P. )
+      				     	                                    ? ( Iwan Groźny wg M.Ś. i M.1612 ) ( Ivan Hrozný wg Z.S.A.V.E. ) ( Ivan IV Vasilijevič Hrozný wg E.P. )
                                                         1547-? ( Ivan IV Hrozný wg Ř.S.J.Ď.S. )
                                                         przed 1570-? (?.5.-?) ( Iwan Groźny wg H.W. )
                                                         ok.1550 ( wg L.P.P. )
@@ -33430,24 +33450,33 @@ Rosja ( Russia , Rusko )
                                                         1531-1581 ( Ivan IV 'the Terrible' wg T.H.R.E.A.T.Y.O.E.H. )
       Fiodor I                               	          1584-1598 ( wg V.N.M.S.D. i D.Ś. ) ( Theodore I wg D.O.T.W.A.C.A.G.H. )
       					                                        1584-1587 ( Fjodor Ivanovič wg E.P. )
+                                                        przed 1591-? (15.5.-?) ( Fiodor wg M.1612 )
     House of Godunov
       Borys Godunow                  	                  1598-1605 ( wg D.Ś. ) ( Boris Godunov wg D.O.T.W.A.C.A.G.H. )
                                                         1598-1606 ( wg V.N.M.S.D. )
       					                                        1587-? ( Boris Godunov wg E.P. )
                                                         przed 1598-1605 ( wg N.G.R.B.I.N.S. )
+                                                        przed 1601-po 1605 ( Boris Godunow (Godunow) wg M.1612 )
       Fiodor II                               	        1605 ( wg D.Ś. ) ( Theodore II wg D.O.T.W.A.C.A.G.H. )
       Dymitr Samozwaniec          	                    1605-1606 ( wg D.Ś. ) ( Dimitri wg D.O.T.W.A.C.A.G.H. )
                                                         ?-1606 ( Lżedmitrij I wg N.G.R.B.I.N.S. )
+                                                        1605-1606 (?-?.5.) ( Dymitr I Samozwaniec (Grigorij Otriepiew, Dymitr Iwanowicz, Dymitr, Dymitr Samozwaniec I) wg M.1612 )
     House of Shuiskii
       Wasyl IV Iwanowicz Szujski	                      1606-1610 ( wg D.Ś. i V.N.M.S.D. ) ( Basil IV Shuiskii wg D.O.T.W.A.C.A.G.H. )
+                                                        1606-1610 (przed jesień-27.7.) ( Wasil (Szujski, Wasyl Szujski) wg M.1612 )
+    Dymitr Samozwaniec II                               1607-1610 (przed ?.9.-?.12.) ( Dymitr II (Dymitr II Samozwaniec, Dymitr, Dymitr Zmyślony) wg M.1612 )
+    Władysław                                           1610-po 1612 (27.8.-25.9.) ( Władysław Waza (Władysław Zygmuntowicz) wg M.1612 ) [King of Poland Władysław IV]
     Dynastia Romanowów ( Romanowowie , House of Romanov , Romanovs )
       Michał Fiodorowicz Romanow      	                1613-1645 ( wg D.Ś. i V.N.M.S.D. ) ( Michael Romanov wg D.O.T.W.A.C.A.G.H. ) ( Michał Romanov wg N.G.R.B.I.N.S. )
+                                                        1613-? (3.3.-?) ( Michaił Romanov wg M.1612 )
       Aleksy                                           	1645-1676 ( wg D.Ś. i V.N.M.S.D. ) ( Alexis wg D.O.T.W.A.C.A.G.H. )
       	       				    	                            ok.1672 ( wg 100.N.V.S. )
                                                         przed 1667-? ( Alexej wg Ř.S.J.Ď.S. )
                                                         ? ( wg N.G.R.B.I.N.S. )
+                                                        przed 1674-? (19.6.-?) ( Aleksy Michajłowicz wg C.1673 )
       Fiodor III                                       	1676-1682 ( wg V.N.M.S.D. i D.Ś. ) ( Theodore III wg D.O.T.W.A.C.A.G.H. )
       						                                      ? ( Fjodor II wg E.P. ) ( Fiodor wg N.G.R.B.I.N.S. )
+                                                        przed 1676-? (19.8.-?) ( Fiodor wg C.1673 )
       Iwan V                                           	1682-1696 ( wg D.Ś. ) ( Ivan V wg D.O.T.W.A.C.A.G.H. )
                                                        	1682-1689 ( wg V.N.M.S.D. )
       						                                      1682-? ( Ivan V wg E.P. )
@@ -33583,6 +33612,8 @@ Rosja ( Russia , Rusko )
       Dějiny Indie
       Newel 1562
       Ocalone w tłumaczeniu - szkice o warsztacie tłumacza poezji z dodatkiem małej antologii przekładów-problemów
+      Moskwa 1612
+      Chocim 1673
 
 Księstwo Rostowskie
   Dynastia Rurykowiczów
@@ -38195,11 +38226,6 @@ Suza ( Susa , Súsy )
       Dějiny starověkého Blízkého východu - okolo 3000-323 př.Kr.
 
 Suzdal
-  Księstwo Suzdalskie ( Principality of Vladimir-Suzdal )
-    Dynastia Rurykowiczów
-      Jurij I Dołgoruki		                              ? ( wg D.Ś. )
-                                                        przed 1147 n.e.-? ( Yuri Dolgorukiy wg V.K.T.H.O.H.E. )
-                                                        przed 1149-po ok.1155 ( Jerzy Dołgoruki wg Z.1205 )
   Wielkie Księstwo Suzdalskie ( Wielkie księstwo włodzimiersko-suzdalskie , Ruś Suzdalska )
     Juriewicze
       Wsiewołod Juriewicz                               przed 1194-po 1204 ( Wielkie Gniazdo (Wsiewołod, Wsiewołod Wielkie Gniazdo) wg Z.1205 )
@@ -38211,7 +38237,6 @@ Suzdal
       Dymitr Konstantynowicz                            przed 1363-? ( wg L.P.P. ) [Grand Prince of Vladimir]
   Bibliografia :
       Dynastie Świata
-      Vanished Kingdoms - The History of Half-Forgotten Europe
       Litwa - Początki Państw
       Zawichost 1205
 
@@ -39228,6 +39253,7 @@ Szwecja ( Sweden , Švédsko , Schweden )
       Karol IX                                	        1604-1611 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Charles IX wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. )
         				      	                                ?-1611 ( wg 100.N.V.S. )
         					                                      ? ( Karel IX wg E.P. )
+                                                        przed 1609-? (28.2.-?) ( wg M.1612 )
       Gustaw II Adolf                   	              1611-1632 (?-16.11.) ( wg 100.N.V.S. )
         				      	                                1611-1632 ( wg D.Ś. i Tapsella i M.Ś. ) ( Gustavus Adolphus wg V.K.T.H.O.H.E. ) ( Gustavus II Adolphus wg D.O.T.W.A.C.A.G.H. )
                                                         1611-1633 ( wg V.N.M.S.D. )
@@ -39315,6 +39341,7 @@ Szwecja ( Sweden , Švédsko , Schweden )
       Mazowsze 1047
       Newel 1562
       Clontarf 1014
+      Moskwa 1612
 
 Šajzar
   Izz ad-Dín                                            przed 1108 n.e.-? ( wg S.V.D.K.V. )
@@ -41638,6 +41665,7 @@ Ukraina ( Ukraine )
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Mazowsze 1047
       Oxygen - The molecule that made the world
+      Chocim 1673
 
 Ukulzat
   Takipszarri                                           ok.1325 p.n.e.
@@ -43957,12 +43985,17 @@ Księstwo Włodzimiersko-Halickie ( Ruś Włodzimiersko-Halicka , Księstwo Hali
       Mazowsze 1047
 
 Włodzimierz ( Vladimir-Suzdal )
+  Księstwo Suzdalskie ( Principality of Vladimir-Suzdal )
+    Dynastia Rurykowiczów
+      Jurij I Dołgoruki		                              ? ( wg D.Ś. ) [Grand Prince of Kiev]
+                                                        przed 1147 n.e.-? ( Yuri Dolgorukiy wg V.K.T.H.O.H.E. ) ( Jurij Dołgoruki (Jurij) wg M.1612 )
+                                                        przed 1149-po ok.1155 ( Jerzy Dołgoruki wg Z.1205 )
   Księstwo Włodzimierskie ( Księstwo włodzimiersko-suzdalskie )
     Izjaslav Mstislavič			                            1134-1154 ( wg E.P. )
     Dynastia Rurykowiczów ( House of Rurik )
       Andrzej I Bogolubski                    	        1157-1174 ( wg D.Ś. ) ( Andrew I (Andrew I Bogolyubskii) wg D.O.T.W.A.C.A.G.H. )
                                                         1157-1177 ( wg V.N.M.S.D. )
-      					       	                                ? ( Andrej Bogoljubský wg D.B. )
+      					       	                                ? ( Andrej Bogoljubský wg D.B. ) ( Andriej Bogoliubskij (Andriej) wg M.1612 )
                                                         przed 1169-? ( Andrzej Bogolubski (Andrzej Bogoliubski) wg Z.1205 )
       Michał I ( Michałko )                     	      1174-1176 ( wg D.Ś. ) ( Michael I wg D.O.T.W.A.C.A.G.H. )
       Wsiewołod III Wielkie Gniazdo    	                1176-1195 ( wg D.Ś. ) ( Vsevolod III (Vsevolod III Big Nest) wg D.O.T.W.A.C.A.G.H. ) [Grand Prince of Vladimir]
@@ -44029,7 +44062,9 @@ Włodzimierz ( Vladimir-Suzdal )
       Litwa - Początki Państw
       Jezioro Pejpus 1242
       Dynasties of the World - A Chronological and Genealogical Handbook
+      Vanished Kingdoms - The History of Half-Forgotten Europe
       Zawichost 1205
+      Moskwa 1612
 
 Wolin
   Bibliografia :
@@ -44058,7 +44093,7 @@ Księstwo wołogoskie
 Wołoszczyzna ( Wołosi )
   Valašské vojvodství
     Michal Chrabrý ( Mihail Viteazu )	                  ? ( wg K.H. )
-  Księstwo Wołochów ( Hospodarstwo Wołoszczyzny , Hospodarstwo Wołoskie )
+  Księstwo Wołochów ( Hospodarstwo Wołoszczyzny , Hospodarstwo Wołoskie , Hospodarstwo multańskie , Hospodarstwo wołoskie )
     Basarab I		                                        1325-1352 ( wg E.P. )
       				                                          1324-? ( wg K.H.)
     Mircea			                                        ? ( wg D.B. )
@@ -44074,12 +44109,16 @@ Wołoszczyzna ( Wołosi )
     Radu Piękny                                         1462-1473 i 1473-1474 i 1474 i 1474-1475 ( wg M.1526 )
     Wład Mnich                                          1481 i 1482-1495 ( wg M.1526 )
     Radu z Afumaʈi                                      1522-1523 i 1524 i 1525-1529 ( wg M.1526 )
+    Grzegorz Ghika                                      przed 1673-po 1673 (10.11.-19.11.) ( Ghika (Ghka, G. Ghica) wg C.1673 )
+    Jerzy Duka                                          przed 1675-? (?.2.-?) ( Jerzy Duca (Duca) wg C.1673 )
+    Konstanty Bassaraba                                 ? ( Konstanty wg C.1673 )
   Bibliografia :
       Dějiny Byzance
       Encyklopedie panovníků
       Karpatské hry
       Nikopolis 1396
       Mohacz 1526
+      Chocim 1673
 
 Księstwo wołowskie
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -44709,6 +44748,7 @@ Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet
                                                         przed 1962-? (?.12.-?) ( Nikita Khrushchev (Khrushchev, Nikita Sergeyevich) wg H.T.B.A.G. )
   Leonid Brežněv		                                    ?	( wg B.O.H.R. ) ( Leonid Brezhnev wg V.K.T.H.O.H.E. ) ( Brezhnev wg E.N.T.C.F.R.S.H.A.P. i H.T.B.A.G. ) ( Leonid I. Breżniew (Breżniew) wg T.R.L.Z.S.L.R.S.B. ) ( Leonid Breżniew (Breżniew) wg O.W.T.S.O.W.T.P.Z.D.M.A.P.P. )
                                                         1964-po 1967 ( ?.10.-? ) ( wg F.C.A.R.F. )
+                                                        przed 1969-? ( Leonid Breżniew wg M.1612 )
   Michaił Gorbaczow		                                  ? ( wg M.Ś. ) ( Mikhail Gorbachev wg S.A.B.H.O.H. ) ( Michaił S. Gorbaczow wg T.R.L.Z.S.L.R.S.B. ) ( Mikhail Gorbachev (Gorbachev) wg T.D.W.S.A.A.C.I.T.D. )
                                                         1985-1991 (?.3.-31.12.) ( Mikhail Gorbachev wg V.K.T.H.O.H.E. )
                                                         przed 1986-? ( Mikhail Gorbachev wg E.N.T.C.F.R.S.H.A.P. )
@@ -44750,6 +44790,7 @@ Związek Socjalistycznych Republik Radzieckich ( Soviet Union , Unions of Soviet
       Oxygen - The molecule that made the world
       Dějiny Indie
       Ocalone w tłumaczeniu - szkice o warsztacie tłumacza poezji z dodatkiem małej antologii przekładów-problemów
+      Moskwa 1612
 
 Państwo Zyjadydów
   Ibrahim ibn Muhammad                                  859-902
@@ -45035,5 +45076,7 @@ Bibliografia :
     [213] Clontarf 1014 ; Cezary Namirski ; 2023
     [214] Lechowe Pole 955 ; Robert F. Barkowski ; 2016
     [215] Masada 66-73 n.e. ; Bernard Nowaczyk ; 2024
+    [216] Moskwa 1612 ; Tomasz Bohun ; 2023
+    [217] Chocim 1673 ; Damian Orłowski ; 2022
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/

@@ -65,6 +65,7 @@ Jean Van Hamme , Grzegorz Rosiński - Thorgal - 2. Wyspa wśród lodów
                                              - 4. Czarna galera
                                              - 5. Ponad krainą cieni
                                              - 7. Gwiezdne dziecko
+                                             - 9. Łucznicy
                                              - 10. Kraina Qa
                                              - 11. Oczy Tanatloca
 John Christopher - The Death of Grass
@@ -321,6 +322,7 @@ POP.SCIENCE :
         Burza Nad Pacyfikiem Tom II ; Zbigniew Flisowski
         Burzliwe dzieje Kalifatu Bagdadzkiego ; Jerzy Hauziński
         Chlodwik król Franków ; Michel Rouche
+        Chocim 1673 ; Damian Orłowski
         Clontarf 1014 ; Cezary Namirski
         Concertina ; Olgierd Terlecki
         Czarne wampuny głoszą wojnę ; Jan Szczepański
@@ -390,6 +392,7 @@ POP.SCIENCE :
         Mocarstwa świata - narodziny, rozkwit, upadek ; Paul Kennedy
         Mohacz 1526 ; Stanisław Rek
         Monte Cassino ; Melchior Wańkowicz
+        Moskwa 1612 ; Tomasz Bohun
         Myriokefalon 1176 ; Stanisław Rek
         Na granicach Rosji - Budowanie imperium na stepie, 1500-1800 ; Michael Khodarkovsky
         Na Końcu Włoskiego Buta ; Michał Czartoryski
@@ -1737,6 +1740,7 @@ Sapkowski , Andrzej - Wiedźmin
                                         - Wiedźmin - O
                                         - Ziarno prawdy - O
                             - Pani jeziora - O
+                            - Rozdroże Kruków - O
                             - Sezon Burz - O
                             - Wieża jaskółki - O
                     - Maladie i inne opowiadania - O
@@ -1975,6 +1979,7 @@ Van Hamme , Jean ; Rosiński , Grzegorz - Thorgal - 1. Zdradzona czarodziejka - 
                                                  - 5. Ponad krainą cieni - POL
                                                  - 7. Gwiezdne dziecko - POL
                                                  - 8. Alinoe - POL
+                                                 - 9. Łucznicy - POL
                                                  - 10. Kraina Qa - POL
                                                  - 11. Oczy Tanatloca - POL
 Van Tilburg Clark , Walter - Indiańska studnia - POL
