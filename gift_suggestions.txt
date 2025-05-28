@@ -37,7 +37,6 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Principles of Population Genetics - Daniel L. Hartl, Andrew G. Clark
       - Crotone 982 - Robert F. Barkowski
       - Benewent 275 p.n.e. - Krzysztof Kęciek
-      - Farsalos 48 p.n.e. - Romuald Romański
       - Kynoskefalaj 197 p.n.e. - Krzysztof Kęciek
       - Magnezja 190 p.n.e. - Krzysztof Kęciek
       - Termopile 480 p.n.e. - Paweł Kupsik
@@ -65,9 +64,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Proof and the Art of Mathematics - Joel David Hamkins
       - Felony and the Guilty Mind in Medieval England - Elizabeth Papp Kamali
       - Dynastie Świata - Przewodnik chronologiczny i genealogiczny - John E.Morby
-      - Burgundczycy - Książęta równi królom - Bart van Loo
       - Burza nad Pacyfikiem. Tom 1 - Zbigniew Flisowski
-      - Prusy. Powstanie i upadek 1600-1947 - Christopher Clark
       - Askulum 90–89 p.n.e - Małgorzata Członkowska-Naumiuk
       - Smoleńsk 1609-1611 - Katarzyna Słodowy
       - Poitiers 732 - Robert F. Barkowski
@@ -95,10 +92,8 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Oliwa 1627 - Eugeniusz Koczorowski
       - Wiedeń 1683 - Leszek Podhorodecki
       - Moskwa 1617-1618 - Andrzej Adam Majewski
-      - Chojnice 1454, Świecino 1462 - Bernard Nowaczyk
       - Płowce 1331 - Piotr Strzyż
       - Cecora 1620 - Kacper Śledziński
-      - Koronowo 1410 - Piotr Derdej
       - Żółte Wody-Korsuń 1648 - 	Witold Biernacki
       - Kłuszyn 1610 - Robert Szcześniak
       - Beresteczko 1651 - Romuald Romański
@@ -111,8 +106,8 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Warna 1444 - Edward Potkowski
       - Kircholm 1605 -	Henryk Wisner
       - Batoh 1652 - Wojciech Jacek Długołęcki
+      - Nakło 1109 - Mariusz Samp
       - Ateny-Sparta 431-404 p.n.e - Ryszard Kulesza
-      - Połonka-Basia 1660 - Marcin Gawęda
       - Imperium mongolskie - Stanisław Kałużyński
       - Life's Engines: How Microbes Made Earth Habitable - Paul G. Falkowski
       - Poczet wielkich mistrzów krzyżackich - Paweł Pizuński
@@ -247,6 +242,10 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
                                   - 9. Łucznicy
                                   - 10. Kraina Qa
                                   - 11. Oczy Tanatloca
+                                  - 12. Miasto zaginionego boga
+                                  - 13. Między ziemią a światłem
+                                  - 14. Aaricia
+                                  - 15. Władca gór
                                   - 18. Słoneczny miecz
                                   - 19. Niewidzialna forteca
                                   - 20. Piętno wygnańców
