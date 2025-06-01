@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://mapy.cz/">
+	<wpt lat="50.452960" lon="19.547836">
+		<ele>436.456177</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.452983" lon="19.547772">
+		<ele>436.352661</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453337" lon="19.547721">
+		<ele>434.982666</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453518" lon="19.547718">
+		<ele>434.294861</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453879" lon="19.547761">
+		<ele>433.017090</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453860" lon="19.548115">
+		<ele>433.382965</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453895" lon="19.549279">
+		<ele>438.646179</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453947" lon="19.549912">
+		<ele>440.457214</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453802" lon="19.551701">
+		<ele>450.651276</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453785" lon="19.551873">
+		<ele>451.215698</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453703" lon="19.552377">
+		<ele>453.928223</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453665" lon="19.552503">
+		<ele>454.927063</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453546" lon="19.552793">
+		<ele>456.708374</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453375" lon="19.553211">
+		<ele>460.174042</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453420" lon="19.553377">
+		<ele>459.947815</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453443" lon="19.553576">
+		<ele>460.591827</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453522" lon="19.553801">
+		<ele>461.645203</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453633" lon="19.553874">
+		<ele>464.228271</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453744" lon="19.553962">
+		<ele>466.581207</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453699" lon="19.553927">
+		<ele>466.191437</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453597" lon="19.553919">
+		<ele>465.466492</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453525" lon="19.553919">
+		<ele>464.469788</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453420" lon="19.553833">
+		<ele>462.613556</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453327" lon="19.553773">
+		<ele>463.205139</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453235" lon="19.553681">
+		<ele>464.138641</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453143" lon="19.553611">
+		<ele>465.511627</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453061" lon="19.553563">
+		<ele>466.901825</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.452836" lon="19.553327">
+		<ele>470.078583</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453030" lon="19.552962">
+		<ele>468.757172</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453244" lon="19.552415">
+		<ele>471.145844</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453290" lon="19.552136">
+		<ele>471.492584</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453368" lon="19.552002">
+		<ele>470.523895</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453399" lon="19.551921">
+		<ele>468.779022</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453343" lon="19.551854">
+		<ele>468.064758</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453278" lon="19.551851">
+		<ele>467.373413</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453190" lon="19.551908">
+		<ele>467.435669</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453039" lon="19.551996">
+		<ele>467.857605</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453009" lon="19.552128">
+		<ele>469.673920</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453122" lon="19.552101">
+		<ele>470.316742</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453042" lon="19.552256">
+		<ele>471.490967</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.452993" lon="19.552460">
+		<ele>472.903778</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453008" lon="19.552675">
+		<ele>471.326263</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453013" lon="19.552956">
+		<ele>468.929169</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.452846" lon="19.553450">
+		<ele>469.703644</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453050" lon="19.553579">
+		<ele>467.102844</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453300" lon="19.553402">
+		<ele>461.987762</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453452" lon="19.553439">
+		<ele>459.771423</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453522" lon="19.553343">
+		<ele>458.417236</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453486" lon="19.553139">
+		<ele>458.238495</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453481" lon="19.552983">
+		<ele>458.042603</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453563" lon="19.552718">
+		<ele>456.578094</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453705" lon="19.552667">
+		<ele>454.831757</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453612" lon="19.552651">
+		<ele>455.814819</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453648" lon="19.552506">
+		<ele>455.301056</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453696" lon="19.552334">
+		<ele>453.992615</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453768" lon="19.551841">
+		<ele>451.340576</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453785" lon="19.551698">
+		<ele>450.917511</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453838" lon="19.551452">
+		<ele>448.989166</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453925" lon="19.551452">
+		<ele>448.414398</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453831" lon="19.551454">
+		<ele>449.050507</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453778" lon="19.551701">
+		<ele>451.034882</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453759" lon="19.551814">
+		<ele>451.352386</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453486" lon="19.551551">
+		<ele>452.799652</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453457" lon="19.551385">
+		<ele>452.323578</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453486" lon="19.551546">
+		<ele>452.751801</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453758" lon="19.551830">
+		<ele>451.433960</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453778" lon="19.551696">
+		<ele>451.033417</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453829" lon="19.551476">
+		<ele>449.180206</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453921" lon="19.551476">
+		<ele>448.540222</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453823" lon="19.551497">
+		<ele>449.393402</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453768" lon="19.551696">
+		<ele>451.183777</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453778" lon="19.551889">
+		<ele>451.372986</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.454012" lon="19.552318">
+		<ele>449.425964</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453752" lon="19.551835">
+		<ele>451.527313</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453300" lon="19.551446">
+		<ele>454.614807</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.452112" lon="19.553163">
+		<ele>481.927002</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451941" lon="19.553308">
+		<ele>483.156982</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451550" lon="19.553563">
+		<ele>494.303040</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451519" lon="19.553795">
+		<ele>495.654510</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451457" lon="19.553678">
+		<ele>497.695007</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451426" lon="19.553597">
+		<ele>499.133789</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451416" lon="19.553485">
+		<ele>500.811523</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451462" lon="19.553356">
+		<ele>504.930878</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451529" lon="19.553302">
+		<ele>503.734161</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451460" lon="19.553383">
+		<ele>504.576721</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451426" lon="19.553528">
+		<ele>500.478394</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451447" lon="19.553648">
+		<ele>498.144867</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451491" lon="19.553748">
+		<ele>496.646088</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451534" lon="19.553667">
+		<ele>494.817810</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.451932" lon="19.553308">
+		<ele>483.243591</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.452106" lon="19.553179">
+		<ele>481.975128</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453324" lon="19.554303">
+		<ele>467.484558</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453573" lon="19.554137">
+		<ele>472.461792</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453693" lon="19.554271">
+		<ele>472.821136</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453696" lon="19.554426">
+		<ele>469.883698</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453792" lon="19.554461">
+		<ele>471.906647</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453686" lon="19.554453">
+		<ele>469.174561</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453525" lon="19.554815">
+		<ele>460.311859</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453778" lon="19.555601">
+		<ele>453.888672</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.454167" lon="19.555462">
+		<ele>453.230499</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.454202" lon="19.556009">
+		<ele>446.252747</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.454232" lon="19.558450">
+		<ele>437.458618</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.454859" lon="19.557202">
+		<ele>433.956757</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.455443" lon="19.555749">
+		<ele>435.793610</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.455614" lon="19.553576">
+		<ele>433.780121</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.455679" lon="19.553222">
+		<ele>432.772125</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.456573" lon="19.551760">
+		<ele>425.952423</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.456391" lon="19.551186">
+		<ele>426.215179</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.457914" lon="19.551765">
+		<ele>416.125824</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.458382" lon="19.552189">
+		<ele>414.881378</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.458676" lon="19.552262">
+		<ele>414.309814</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.460122" lon="19.552353">
+		<ele>411.231201</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.460943" lon="19.552618">
+		<ele>408.798462</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.461531" lon="19.552761">
+		<ele>407.114746</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.463310" lon="19.554292">
+		<ele>409.712921</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.463947" lon="19.552710">
+		<ele>424.474976</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464145" lon="19.551833">
+		<ele>447.275543</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464141" lon="19.551739">
+		<ele>448.863403</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464102" lon="19.551650">
+		<ele>451.460327</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464147" lon="19.551693">
+		<ele>449.407715</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464191" lon="19.551350">
+		<ele>455.136322</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464151" lon="19.551189">
+		<ele>458.133331</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464213" lon="19.551232">
+		<ele>455.666138</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464147" lon="19.551197">
+		<ele>458.311279</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464131" lon="19.551090">
+		<ele>455.979126</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464105" lon="19.550962">
+		<ele>451.543732</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464121" lon="19.551075">
+		<ele>455.391724</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464419" lon="19.551111">
+		<ele>457.856415</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464553" lon="19.551446">
+		<ele>456.694092</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464466" lon="19.551824">
+		<ele>450.999573</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464360" lon="19.551867">
+		<ele>449.351044</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464307" lon="19.551910">
+		<ele>447.864380</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464129" lon="19.551835">
+		<ele>447.229126</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464008" lon="19.551763">
+		<ele>452.374786</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464124" lon="19.551835">
+		<ele>447.230011</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464298" lon="19.551900">
+		<ele>447.894562</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464281" lon="19.551808">
+		<ele>448.316010</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464141" lon="19.551752">
+		<ele>448.663208</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.464027" lon="19.552388">
+		<ele>429.080414</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.463926" lon="19.552736">
+		<ele>424.101318</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.463294" lon="19.554260">
+		<ele>409.834839</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.461495" lon="19.552728">
+		<ele>407.191010</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.460923" lon="19.552613">
+		<ele>408.912292</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.460105" lon="19.552369">
+		<ele>411.347321</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.458662" lon="19.552238">
+		<ele>414.207550</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.458360" lon="19.552179">
+		<ele>414.949493</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.457902" lon="19.551725">
+		<ele>416.213806</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.456353" lon="19.551173">
+		<ele>426.446259</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.455055" lon="19.549274">
+		<ele>431.041046</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.454517" lon="19.548324">
+		<ele>431.003113</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.454210" lon="19.548150">
+		<ele>432.113525</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453887" lon="19.548029">
+		<ele>433.139343</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453811" lon="19.548324">
+		<ele>434.548218</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453862" lon="19.548005">
+		<ele>433.229980</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453846" lon="19.547796">
+		<ele>433.126099</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453536" lon="19.547761">
+		<ele>434.178223</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.453315" lon="19.547715">
+		<ele>435.076813</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.452964" lon="19.547766">
+		<ele>436.415985</ele>
+		<name>Nový bod</name>
+	</wpt>
+	<wpt lat="50.452946" lon="19.547828">
+		<ele>436.492188</ele>
+		<name>Nový bod</name>
+	</wpt>
+</gpx>
+

@@ -749,6 +749,7 @@
   - Europa - mapa samochodowa krajów Unii Europejskiej ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:5000000
   - Gliwice - samochodowy plan miasta ; Wydawnictwo Witański ; Gazeta Wyborcza ; Mapa Gazety Wyborczej ; 1:25000
   - Gliwice i okolice ; Galileos ; Plan Wrocław ; 1:50000
+  - Gmina Ogrodzieniec ; Kartogram ; Zamek Sp. z o.o. ; 1:30000
   - Górnośląski Okręg Przemysłowy - mapa komunikacyjna ; Falk ; 1:65000
   - Góry Świętokrzyskie ; ExpressMap ; Comfort! map ; 1:75000
   - Góry Świętokrzyskie ; ExpressMap ; 1:75000
