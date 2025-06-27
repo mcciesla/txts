@@ -219,6 +219,7 @@
     - Dolní Pojizeří - Mladoboleslavsko a Nymbursko ; KČT ; Edice KČT ; 17 ; 1:50000
     - Góry Stołowe ; Galileos ; 1:30000
     - Góry Złote - Rychlebské hory ; Compass ; 1:35000
+    - Haná - Olomoucko ; KČT ; Edice KČT ; 57 ; 1:50000
     - Haná - Prostějovsko, Konicko a Litovelsko ; KČT ; Edice KČT ; 51 ; 1:50000
     - Havlíčkobrodsko ; VKÚ Harmanec ; Edice KČT ; 46 ; 1:50000
     - Hrubý Jeseník ; JENA ; 1:25000
@@ -244,6 +245,7 @@
     - Masyw Śnieżnika + Góry Bialskie, Góry Złote, Krowiarki ; Galileos ; Plan Wrocław ; 1:40000
     - Máchův kraj ; KČT ; Edice KČT ; 15 ; 1:50000
     - Mělnicko a Kokořínsko ; KČT ; Edice KČT ; 16 ; 1:50000
+    - Moravská brána a Oderské vrchy ; KČT ; Edice KČT ; 60 ; 1:50000
     - Národní parky České a Saské Švýcarsko ; KČT ; Edice KČT ; 12 ; 1:50000
     - Nízký Jeseník - Šternberk, Moravský Beroun, Budišov nad Budišovkou ; KČT ; Edice KČT ; 56 ; 1:50000
     - Okolí Prahy - východ ; KČT ; Edice KČT ; 37 ; 1:50000
