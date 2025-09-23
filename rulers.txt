@@ -1327,7 +1327,7 @@ Anglia ( England , Anglie , English State )
                                                         przed 1199-? ( Richard the Lionheart wg S.A.B.H.O.H. )
                                                         przed 1189-? ( Ryszard Lwie Serce wg H.W. )
                                                         przed 1197-? ( Ryszard I wg F.H.C.R. )
-                                                        ? ( Ryszard Lwie Serce wg N.I.B.W.XI.S. i G.C.3000.L.N.O.I.W. ) ( Richard Cœur de Lion wg H.O.W.P. ) ( Richard I wg T.P. )
+                                                        ? ( Ryszard Lwie Serce wg N.I.B.W.XI.S. i G.C.3000.L.N.O.I.W. i CH.1.Ś.1. ) ( Richard Cœur de Lion wg H.O.W.P. ) ( Richard I wg T.P. )
                                                         przed 1192-? (5.8.-?) ( Ryszard Lwie Serce wg F.S.B.1066 )
                                                         przed 1192-po 1194 (?-6.1.) ( Ryszard Lwie Serce wg P.W.O.T. )
       Jan bez Ziemi              	                      1199-1216 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Jan Bezzemek wg D.P.I.R.G. ) ( Jan Bezzemek (Jan) wg S.V.D.K.V. ) ( John wg D.O.T.W.A.C.A.G.H. ) ( John of England (John) wg T.H.R.E.A.T.Y.O.E.H. )
@@ -1679,6 +1679,7 @@ Anglia ( England , Anglie , English State )
       Szkice spod Monte Cassino
       The Picts
       Clontarf 1014
+      Chojnice 1454, Świecino 1462
 
 Anglowie ( Angles )
   Bibliografia :
@@ -3345,6 +3346,7 @@ Austria ( Rakousko , Österreich )
       Albert VI                                         1453-? ( wg D.O.T.W.A.C.A.G.H. )
                                                         ?-1463 (?-2.12.) ( Albrecht VI. (Albrecht) wg M.I.Z.H.S.R. )
                                                         ?-1463 ( Albrecht VI (Albrecht VI 'the spendthrift') wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 1458-po 1459 (?-?.3.) ( Albrecht VI Habsburg (Albrecht Habsburg, Albrecht VI austriacki) wg CH.1.Ś.1. )
       Frederick V                                       1453-? ( wg D.O.T.W.A.C.A.G.H. ) [King of Germany Frederick III]
                                                         1439-? ( Fridrich V. (Friedrich III., Fridrich III.) wg M.I.Z.H.S.R. )
     Matyáš Korvín                                       ? ( wg M.I.Z.H.S.R. ) [King of Hungary Maciej I Korwin]
@@ -3442,6 +3444,7 @@ Austria ( Rakousko , Österreich )
       Nikopolis 1396
       Mohacz 1526
       Dějiny Indie
+      Chojnice 1454, Świecino 1462
 
 County of Autun
   Theoderich                                            przed 820 n.e.-? (?.1.-?) ( wg F.841 )
@@ -4591,7 +4594,7 @@ Bawaria ( Bavaria , Bavorsko , Bayern )
         Otto V                                          1376-1379 ( wg D.O.T.W.A.C.A.G.H. ) [Duke of Bavaria]
         Henryk XVI Bogaty   	                          1393-1450 ( wg D.Ś. ) ( Henry XVI (Henry XVI the Rich) wg D.O.T.W.A.C.A.G.H. ) [Prince of Upper Bavaria-Ingolstadt]
         Ludwik IX Bogaty     	                          1450-1479 ( wg D.Ś. ) ( Louis IX (Louis IX the Rich) wg D.O.T.W.A.C.A.G.H. )
-                                                        ? ( Ludvík Bavorský wg M.I.Z.H.S.R. )
+                                                        ? ( Ludvík Bavorský wg M.I.Z.H.S.R. ) ( wg CH.1.Ś.1. )
         Jerzy Bogaty              	                    1479-1503 ( wg D.Ś. ) ( George the Rich wg D.O.T.W.A.C.A.G.H. ) ( Georg (Georg 'the Rich') wg T.H.R.E.A.T.Y.O.E.H. )
                                                         ? ( Jerzy wg K.P.S. )
                                                         ?-1503 ( Jiří Bohatý (Jiří) wg M.I.Z.H.S.R. )
@@ -4677,6 +4680,7 @@ Bawaria ( Bavaria , Bavorsko , Bayern )
       Nikopolis 1396
       Kraj Głomaczów 1003
       Lechowe Pole 955
+      Chojnice 1454, Świecino 1462
 
 Bayeux
   Harold                                                ? ( wg F.L.P.D.Ś.W. )
@@ -5696,10 +5700,12 @@ Brandenburgia ( Brandenburg )
       Otto IV                      	                    1266-1308 ( wg D.Ś. )
                                                        	1292-1309 ( wg V.N.M.S.D. )
                                                         ? ( Otton IV wg K.P.S. )
+                                                        przed 1308-? ( Otto wg CH.1.Ś.1. )
       Henryk I bez Ziemi	                              1294-1318 ( wg D.Ś. )
       Jan IV                        	                  1304-1305 ( wg D.Ś. )
       Waldemar Wielki      	                            1304-1319 ( wg D.Ś. )
                                                        	1309-1319 ( wg V.N.M.S.D. )
+                                                        przed 1308-? ( Waldemar wg CH.1.Ś.1. )
       Henryk II                   	                    1318-1320 ( wg D.Ś. )
     Wittelsbachowie
       Ludwik I Bawarski         	                      1323-1352 ( wg V.N.M.S.D. )
@@ -5719,12 +5725,13 @@ Brandenburgia ( Brandenburg )
     Dynastia Hohenzollernów ( Hohenzollern , The House of Hohenzollern , Hohenzollerns , Hohenzollern family )
       Fryderyk VI ( I )                             	  1397-1440 ( wg D.Ś. )
                                                         1415-1440 ( wg V.N.M.S.D. ) ( Frederick I wg V.K.T.H.O.H.E. ) ( Frederick I (Frederick VI) wg D.O.T.W.A.C.A.G.H. )
-                                                        ? ( wg K.P.S. )
+                                                        ? ( wg K.P.S. ) ( Fryderyk von Hohenzollern wg CH.1.Ś.1. )
                                                         1415/7-1440 ( Frederick II (Frederick IV of Hohenzollern, Frederick I, Friedrich IV of Hohenzollern, Friedrich IV Hohenzollern) wg T.H.R.E.A.T.Y.O.E.H. )
       Old Mark and Prignitz
         Fryderyk Gruby                              	  1440-1463 ( wg D.Ś. ) ( Frederick the Fat wg D.O.T.W.A.C.A.G.H. )
       Fryderyk II Żelazny Margrabia	                    1440-1470 ( wg V.N.M.S.D. i D.Ś. ) ( Frederick II (Frederick II the Iron Margrave) wg D.O.T.W.A.C.A.G.H. )
                                                         1440-1471 ( Frederick II Eisenzahn (Frederick II Irontooth) wg V.K.T.H.O.H.E. )
+                                                        przed 1454-po 1460 ( Fryderyk wg CH.1.Ś.1. )
       Albrecht Achilles                            	    1470-1486 ( wg D.Ś. ) ( Albert Achilles wg D.O.T.W.A.C.A.G.H. )
                                                         1470-1476 ( III wg V.N.M.S.D. )
                                                         1471-1486 ( wg V.K.T.H.O.H.E. )
@@ -5783,6 +5790,7 @@ Brandenburgia ( Brandenburg )
       The Holy Roman Empire - A Thousand Years of Europe's History
       Mohacz 1526
       Koronowo 10 X 1410
+      Chojnice 1454, Świecino 1462
 
 Margraviate of Brandenburg-Ansbach ( Ansbach , Margraviate of Ansbach )
   Albrecht Achilles                                     przed 1449-po 1453 ( Albrecht Achilles of Bayreuth wg T.H.R.E.A.T.Y.O.E.H. ) [Margrave of Kulmbach]
@@ -9320,9 +9328,10 @@ Czechy ( Čechy , Bohemia , Böhmen )
                                                         przed 1288-1305 (jesień-?) ( Wacław II czeski (Wacław) wg K.P.S. )
                                                         przed 1291-1305 ( Wacław II czeski ( Wacław) wg P.K.I.K.P. )
                                                         przed 1284-1305 ( Wacław II Czeski (Wacław, Przemyślida) wg P.W.O.T. )
+                                                        przed 1295-? ( wg CH.1.Ś.1. )
       Wacław III                                 	      1305-1306 ( wg D.Ś. i P.K.I.K.P. ) ( Wenceslas III wg D.O.T.W.A.C.A.G.H. ) [King of Poland Wacław III] [King of Hungary Wenceslas]
       				             	                            ?-1306 ( Václav III wg D.P.I.R.G. i Z.S.A.V.E. )
-                                                        ? ( wg L.P.P. )
+                                                        ? ( wg L.P.P. i CH.1.Ś.1. )
                                                         1305-1306 (?-4.8.) ( wg K.P.S. )
                                                         ?-1306 (?-4.8.) ( Wacław wg P.W.O.T. )
     Dynastia habsburska ( House of Habsburg , Ród Habsburgów , Habsburgowie , Dynastia Habsburgów , Habsburgs )
@@ -9339,6 +9348,7 @@ Czechy ( Čechy , Bohemia , Böhmen )
                                                         przed 1325-po 1345 (?-9.5.) ( Jan Luksemburski (Jan luksemburski, Luksemburczyk, Jan, Jan Luksemburczyk) wg K.P.S. )
                                                         ? ( Jan Luksemburczyk wg P.K.I.K.P. ) ( Jan z Luksemburga wg N.1396 )
                                                         przed 1328-? ( Jan Luksemburski (Jan) wg P.W.O.T. )
+                                                        przed 1327-po 1335 ( Jan Luksemburski wg CH.1.Ś.1. )
       Karol                  	                          1346-1378 ( wg D.Ś. ) ( Karel IV wg D.P.I.R.G. i D.B. i Z.S.A.V.E. ) ( Charles wg D.O.T.W.A.C.A.G.H. ) [Holy Roman Emperor]
                                                         ok.1350 ( Karol IV wg Z.N.E. )
                                                         przed 1353-? ( Karel IV. wg A.Č.D. )
@@ -9363,6 +9373,7 @@ Czechy ( Čechy , Bohemia , Böhmen )
                                                         1419-po 1437 (?-16.8.) ( Zygmunt Luksemburski wg H.W. )
                                                         ? ( Zygmunt Luksemburski (Zygmunt Luksemburczyk, Sigismund, Luksemburczyk, Sigismund of Luxemburg) wg N.1396 )
                                                         1419/36-1437 (?-9.12.) ( Zygmunt Luksemburczyk (Zygmunt Luksemburski) wg K.1.X.1. )
+                                                        przed 1420-? ( Zygmunt Luksemburski wg CH.1.Ś.1. )
     Dynastia habsburska ( House of Habsburg , Ród Habsburgów , Habsburgowie , Dynastia Habsburgów , Habsburgs )
       Albrecht                             	            1437-1439 ( wg D.Ś. i V.N.M.S.D. ) ( Albert of Austria wg D.O.T.W.A.C.A.G.H. ) ( Albert III (Albert V, Albrecht II., Albert, Albrecht V) wg T.H.R.E.A.T.Y.O.E.H. ) [Holy Roman Emperor Albrecht II]
       				     	                                    ?-1439 ( Albrecht Rakouský wg D.P.I.R.G. )
@@ -9374,12 +9385,14 @@ Czechy ( Čechy , Bohemia , Böhmen )
       Władysław Pogrobowiec	                            1453-1457 ( wg D.Ś. ) ( Ladislav Pohrobek wg D.P.I.R.G. ) ( Ladislas Posthumus wg D.O.T.W.A.C.A.G.H. ) ( Ladislav Pohrobek (Ladislav) wg M.I.Z.H.S.R. ) ( Ladislas Posthumous (Ladislas V Posthumous) wg T.H.R.E.A.T.Y.O.E.H. ) [King of Hungary Władysław Pogrobowiec]
                                                         1439-ok.1455 ( wg V.N.M.S.D. )
                                                         przed 1452-po 1456 (?-9.11.) ( Władysław V Pogrobowiec (Władysław, Władysław Habsburg, Władysław V) wg M.1526 )
+                                                        przed 1454-po 1456 ( Władysław Habsburg (Władysław) wg CH.1.Ś.1. )
     Dynastia Poděbradów ( House of Poděbrad )
       Jerzy z Poděbrad 	                                1458-1471 ( wg D.Ś. ) ( Jiří z Poděbrad wg D.P.I.R.G. i Z.S.A.V.E. ) ( George of Poděbrad wg D.O.T.W.A.C.A.G.H. ) ( George Podibrad wg T.H.R.E.A.T.Y.O.E.H. )
                                                       	ok.1455-1471 ( wg V.N.M.S.D. )
                                                         ? ( Jiří z Poděbrad wg H.S.J.M. i S.V.D.K.V. i M.I.Z.H.S.R. )
                                                         przed 1458-1471 (19.3.-?) ( Jerzy z Podiebradu (Jerzy) wg K.P.S. )
                                                         1458-1471 (?-?.3.) ( Jerzy z Podiebradów wg M.1526 )
+                                                        przed 1460-? (?.6.-?) ( Jerzy z Podiebradu (Jerzy) wg CH.1.Ś.1. )
     Maciej Korwin                                       przed 1469-1490 (31.5.-?) ( Maciej (Korwin) wg K.P.S. ) [King of Hungary]
                                                         ?-1490 (?-6.4.) ( Matthias (Hunyady, Matthias Corvinus, Maciej) wg M.1526 )
     Dynastia Jagiellonów ( House of Poland , Jagellonci , Jagiellon family , Ród Jagiellonów , Jagiellonowie , The Jagiellonians , Jagellonians )
@@ -9389,6 +9402,7 @@ Czechy ( Čechy , Bohemia , Böhmen )
                                                         przed 1490-1506 ( Władysław Jagielończyk (Władysław) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1490-po 1515 (8.4.-22.7.) ( Vladislav Jagellonský (Vladislav, Vladislav II.) wg M.I.Z.H.S.R. )
                                                         1471-1516 (?-13.3.) ( Władysław Jagiellończyk (Jagiellończyk, Władysław, Jagiellon, "Dobrze") wg M.1526 )
+                                                        1471-? ( Władysław wg CH.1.Ś.1. )
       Ludwik                 	                          1516-1526 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík wg Z.S.A.V.E. ) ( Louis II wg V.K.T.H.O.H.E. i T.H.R.E.A.T.Y.O.E.H. ) ( Ludwik II Jagiellończyk (Ludwik II, Ludwik Jagiellończyk) wg K.P.S. ) ( Ludvík (Ludvík Jagellonský) wg M.I.Z.H.S.R. ) [King of Hungary Louis II]
                                                      	  1516-1526 (?-29.8.) ( Ludvík wg D.P.I.R.G. ) 
                                                         1509/16-1526 (?-29.8.) ( Ludwik II Jagiellończyk (Ludwik II, Ludwik, Ludwik Jagiellończyk, Louis II) wg M.1526 )
@@ -9467,6 +9481,7 @@ Czechy ( Čechy , Bohemia , Böhmen )
       Ocalone w tłumaczeniu - szkice o warsztacie tłumacza poezji z dodatkiem małej antologii przekładów-problemów
       Lechowe Pole 955
       Koronowo 10 X 1410
+      Chojnice 1454, Świecino 1462
 
 Królestwo Czedi ( Čédi , Čéti )
   Bibliografia :
@@ -10272,9 +10287,10 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
     Dynastia norweska ( House of Norway )
       Olaf II                   	                      1376-1387 ( wg V.N.M.S.D. i D.Ś. ) ( Oluf II wg D.O.T.W.A.C.A.G.H. ) [King of Norway Olav IV]
                                                       	1375-1387 ( V wg Tapsella )
-      Małgorzata I	                                    1387-1396 ( wg D.Ś. ) ( Margaret I wg D.O.T.W.A.C.A.G.H. )
+      Małgorzata I	                                    1387-1396 ( wg D.Ś. ) ( Margaret I wg D.O.T.W.A.C.A.G.H. ) [Queen of Sweden Małgorzata] [Queen of Norway Małgorzata]
                                                       	1387-1412 ( wg V.N.M.S.D. i Tapsella )
                                                         ? ( Markéta wg P.U.D. )
+                                                        przed 1409-? ( Małgorzata wg CH.1.Ś.1. )
     Dynastia pomorska ( House of Pomerania )
       Eryk VII         	                                1396-1439 ( wg D.Ś. ) ( Erik VII wg D.O.T.W.A.C.A.G.H. ) [King of Sweden Eryk XIII] [King of Norway Eryk Pomorski]
                                                	        1412-1438 ( wg V.N.M.S.D. )
@@ -10282,6 +10298,7 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
       		             	                                przed 1427-? ( wg B.M. )
                                                         przed 1434-? ( Eryk (Eryk Pomorski) wg G.R.I.L. )
                                                         przed 1415-? ( wg F.L.P.D.Ś.W. )
+                                                        przed 1407-po 1418 ( Eryk I Pomorski wg CH.1.Ś.1. )
     Dynastia z Palatynatu ( House of the Palatinate )
       Krzysztof III Bawarski	                          1440-1448 ( wg D.Ś. ) ( Christopher III of Bavaria wg D.O.T.W.A.C.A.G.H. )
                                                         1438-1448 ( wg V.N.M.S.D. )
@@ -10291,6 +10308,7 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
                                                         przed 1468-? ( Christian I wg N.T.V.S. )
                                                         przed 1450-po 1468 ( wg F.L.P.D.Ś.W. )
                                                         przed 1476-? ( Krystian wg W.P.P.K.O.S. )
+                                                        przed 1458-po 1459 (?.7.-?.5.) ( wg CH.1.Ś.1. )
       Jan ( Hans )     	                                1483-1513 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( John wg D.O.T.W.A.C.A.G.H. ) [King of Sweden John II]
       Chrystian II     	                                1513-1523 ( wg D.Ś. i V.N.M.S.D. i Tapsella ) ( Christian II wg D.O.T.W.A.C.A.G.H. ) [King of Sweden Christian II]
                                                         przed 1520-? ( Chrystian wg F.L.P.D.Ś.W. )
@@ -10377,6 +10395,7 @@ Dania ( Denmark , Tannmarkar , Dánsko , Dänemark )
       Fontenoy 841
       Mercia - The Rise and Fall of a Kingdom
       Clontarf 1014
+      Chojnice 1454, Świecino 1462
 
 Emirat Daniszmendydów ( Daniszmendydzi , Danišmendové , Danismend )
   Dynastia Daniszmendydów ( Daniszmendydzi )
@@ -12178,7 +12197,7 @@ Egipt ( Egypt , Kemet , Ta Meri , Czarna Ziemia )
       				   	                                      przed 1187-? ( wg D.R. i N.I.B.W.XI.S. ) ( Saladin wg D.B. i K.W.N.I.W.D. )
       				   	                                      1168-? ( Salah ud-Dín wg M.A.E. )
       				   	                                      przed 1172-po 1187 ( Saladin wg F.B.C.A.R. )
-                                                        ? ( wg Z.N.E. i M.1176 ) ( Salah ad-Din wg F.H.C.R. ) ( Saladin wg T.S.O.I.C.O.T.W. )
+                                                        ? ( wg Z.N.E. i M.1176 ) ( Salah ad-Din wg F.H.C.R. ) ( Saladin wg T.S.O.I.C.O.T.W. ) ( Salah ad-Din wg CH.1.Ś.1. )
                                                         1171-1193 (?-4.3.) ( Saladin (Júsuf ibn Ajjúb, Saláh ad-Dín, al-Málik an-Násir Saláh ad-Dunj wa-ad-Dín Abú-l-Muzaffar Júsuf ibn Ajjúb ibn Šadhí al-Kurdí, "Vítězný král, obnovitel světa a víry, otec Mustafy, Júsuf, syn Ajjúba, syn Sádhího Kurda") wg S.V.D.K.V. )
                                                         przed 1187-? (4.7.-?) ( wg H.W. )
                                                         przed 1170-po 1187 (?-4.7.) ( Salah ad-Din Jusuf (Salah ad-Din, Saladin) wg B.D.K.B. )
@@ -12402,6 +12421,7 @@ Egipt ( Egypt , Kemet , Ta Meri , Czarna Ziemia )
       How We Learn - The New Science of Education and the Brain
       Bibracte-Wogezy 58 p.n.e.
       Masada 66-73 n.e.
+      Chojnice 1454, Świecino 1462
 
 Egrisi
   Bibliografia :
@@ -13521,7 +13541,7 @@ Francja ( France , Francie , Frankreich )
                                                         przed 1189-? ( Filip August wg H.W. )
                                                         przed 1211-po 1213 ( Filip II (Philipp II August) wg F.H.C.R. )
                                                         1179/80-1223 ( Philip II (Philip II Augustus) wg D.O.T.W.A.C.A.G.H. )
-                                                        ? ( Filip II. (Filip) wg P.U.D. ) ( Filip August wg P.W.O.T. ) ( Filip II wg M.1526 )
+                                                        ? ( Filip II. (Filip) wg P.U.D. ) ( Filip August wg P.W.O.T. ) ( Filip II wg M.1526 ) ( wg CH.1.Ś.1. )
                                                         przed 1214-? (27.7.-?) ( wg Z.1205 )
                                                         przed 1198-? ( Filip wg K.P.S. )
                                                         przed 1214-? (?.7.-?) ( wg F.S.B.1066 )
@@ -13840,6 +13860,7 @@ Francja ( France , Francie , Frankreich )
       Ocalone w tłumaczeniu - szkice o warsztacie tłumacza poezji z dodatkiem małej antologii przekładów-problemów
       Lechowe Pole 955
       Moskwa 1612
+      Chojnice 1454, Świecino 1462
 
 Frankfurt
   Principality of Frankfurt
@@ -21507,6 +21528,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
       						     	                                przed 1122-? ( Kalixt II wg D.B. ) ( Calixto II wg F.B.C.A.R. ) ( Calixtus II wg H.O.W.P. )
                                                         ? ( Kalikst II wg H.W. )
     Honoriusz II ( Lamberto dei Fagnani )               1124-1130 ( wg V.N.M.S.D. i Tapsella ) ( Honorius II. wg S.V.D.K.V. ) ( Honorius II wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 1128-? ( wg CH.1.Ś.1. )
     Celestyn II                                        	1124-1130 ( wg Tapsella )
                                                         1124 ( Celestin II. (Celestin) wg S.V.D.K.V. )
     Innocenty II ( Grzegorz Papareschi )               	1130-1144 ( wg V.N.M.S.D. )
@@ -21579,8 +21601,9 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
                                                         ? ( wg H.W. )
     Klement III ( Paolo Scolari )                      	1187-1191 ( wg Tapsella i V.N.M.S.D. ) ( Klemens III wg F.H.C.R. ) ( Klement III. wg S.V.D.K.V. )
       						       	                              1187-? ( ?.12.-? ) ( wg F.B.C.A.R. )
+                                                        przed 1191-? (6.2.-?) ( Klemens III wg CH.1.Ś.1. )
     Celestyn III ( Giacinto Boboni-Orsini )            	1191-1198 ( wg Tapsella i V.N.M.S.D. ) ( Celestin III. (Celestin) wg S.V.D.K.V. )
-      						       	                              przed 1196-? ( Celestýn III wg D.B. )
+      						       	                              przed 1196-? ( Celestýn III wg D.B. ) ( wg CH.1.Ś.1. )
                                                         1191-po 1196 (14.4.-?.11.) ( Hiacynt Boboni-Orsini wg F.H.C.R. )
                                                         przed 1193-? ( Celestine wg N.T.V.S. )
                                                         przed 1195-? ( wg J.P.1242 )
@@ -21595,10 +21618,11 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
                                                         przed 1212-? ( Innocent III wg N.B.Y.T.S.O.W.W.T.A.W.W.B. )
                                                         ? ( wg Z.1205 )
                                                         przed 1198-po 1210 ( wg K.P.S. )
+                                                        przed 1198-po 1199 ( wg CH.1.Ś.1. )
     Honoriusz III ( Cencio Savelli )                   	1216-1227 ( wg V.N.M.S.D. i Tapsella )
                                                         1216-1227 (przed ?.9.-?) ( Honorius III. (Cencius Savelli) wg S.V.D.K.V. )
                                                         1216-1227 (18.7.-18.3.) ( Cencio Savelli wg F.H.C.R. )
-                                                        ? ( wg L.1241. )
+                                                        ? ( wg L.1241. i CH.1.Ś.1. )
                                                         przed 1218-po 1227 (?-17.1.) ( wg J.P.1242 )
                                                         przed 1225-? ( Honorius III wg H.O.W.P. )
                                                         ?-1227 ( Honorius III (Honorius) wg H.O.W.P. )
@@ -21608,7 +21632,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
     Grzegorz IX  ( Ugolini di Segni )                  	1227-1241 ( wg Tapsella i V.N.M.S.D. ) ( Gregory IX wg T.H.R.E.A.T.Y.O.E.H. )
                                                         1227-1241 (?.3.-?) ( Řehoř IX. (Ugolino z Ostie, Řehoř, Ugolino) wg S.V.D.K.V. )
                                                         przed 1234-? ( Gregory IX wg V.K.T.H.O.H.E. )
-                                                        ? ( wg M.N.C. ) ( Gregory IX wg N.T.V.S. )
+                                                        ? ( wg M.N.C. i CH.1.Ś.1. ) ( Gregory IX wg N.T.V.S. )
                                                         przed 1239-1241 (?.9.-?) ( Grzegorz wg H.W. )
                                                         1227-1241 (19.3.-22.8.) ( Grzegorz (Hugolin, Ugolin) wg F.H.C.R. )
                                                         przed 1241-? (?.8.-) ( Gregory IX wg T.S.O.I.C.O.T.W. )
@@ -21639,6 +21663,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
                                                         przed 1256-? ( wg F.L.P.D.Ś.W. )
                                                         ? ( wg K.P.S. )
                                                         przed 1256-po 1259 (?-wiosna) ( wg P.W.O.T. )
+                                                        przed 1258-? ( wg CH.1.Ś.1. )
     Urban IV ( Jacques  Pantaleon )                    	1261-1264 ( wg V.N.M.S.D. i D.B. ) ( Urban wg F.H.C.R. ) ( Urban IV. wg S.V.D.K.V. )
                                                     	  1261-1265 ( wg Tapsella )
                                                         przed 1263-po 1264 (31.12.-?) ( wg L.P.P. )
@@ -21765,6 +21790,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
                                                         przed 1448-? ( wg F.L.P.D.Ś.W. )
     Kalikst III ( Alonso Borgia )                      	1455-1458 ( wg Tapsella i V.N.M.S.D. i M.1526 ) ( Callistus III wg V.K.T.H.O.H.E. )
                                                         1455-1458 (przed ?.11.-?) ( Kalixtus III. (Kalixtus, Kalixt III.) wg S.V.D.K.V. )
+                                                        przed 1457-? (lato-?) ( wg CH.1.Ś.1. )
     Pius II ( Aeneas Silvio de´ Piccolomini )        	  1458-1464 ( wg V.N.M.S.D. i Tapsella )
                                                         1458-1464 (?.8.-14.8.) ( Pius II. (Pius, Aeneas Sylvius Piccolomini, Piccolomini, Silvio, Eneas) wg S.V.D.K.V. )
       						     	                                ? ( wg Ř.V.G. i M.N.C. ) ( Eneasz Sylwiusz Piccolomini (Piccolomini) wg L.P.P. ) ( Eneasz Sylwiusz Piccolomini (Eneasz Sylwiusz) wg G.R.I.L. ) 
@@ -21773,10 +21799,12 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
                                                         przed 1462-? ( Eneasz Sylwiusz Piccolomini (Eneasz Sylwiusz) wg K.P.S. )
                                                         przed 1452-po 1467 (16.3.-3.9.) ( Pius II. (Aeneas Silvio, Aeneas Silvio Piccolomini) wg M.I.Z.H.S.R. )
                                                         1458-1464 (?-15.8.) ( wg M.1526 )
+                                                        1458-? ( Piccolomini wg CH.1.Ś.1. )
     Paweł II ( Pietro Barbo )                        	  1464-1471 ( wg V.N.M.S.D. i Tapsella i M.1526 ) ( Pavel II. wg S.V.D.K.V. )
                                                         1464-? ( Barbo (Pietro Barbolo) wg H.W. )
                                                         przed 1471-? ( Paul II wg D.O.T.W.A.C.A.G.H. )
                                                         ? ( wg K.P.S. )
+                                                        przed 1466-? (23.9.-?) ( wg CH.1.Ś.1. )
     Sykstus IV ( Francesco della Rovere )             	1471-1484 ( wg Tapsella ) ( Sixtus IV. wg S.V.D.K.V. ) ( Sixtus IV wg T.H.R.E.A.T.Y.O.E.H. )
       						    	                                ? ( wg K.R.I.C.R. )
                                                         przed 1472-po 1484 (?-?.8.) ( wg H.W. )
@@ -22023,6 +22051,7 @@ Kościół ( Papežství , Patrymonium św. Piotra , Papacy , Patrimonium , Patr
       Masada 66-73 n.e.
       Moskwa 1612
       Koronowo 10 X 1410
+      Chojnice 1454, Świecino 1462
 
 Kottúra ( Koddura )
   Svámidatta                                            ? ( wg D.I. )
@@ -22267,78 +22296,109 @@ Chanat Krymski ( Khanate of Crimea , The Crimean Khanate , Chanat krymski )
       Moskwa 1612
       Chocim 1673
 
-Zakon Krzyżacki ( Teutonic Order, Teutonic Knights, State of Teutonic Order, Ordensstaat, Order of The Brothers of The Teutonic House of The Virgin Mary in Jerusalem , Zakon Najświętszej Maryi Panny Domu Jerozolimskiego , Krzyżowcy , Państwo Zakonu Krzyżackiego , Zakon Szpitala Najświętszej Marii Panny Domu Niemieckiego , Krzyżacy , Ordo fratrum hospitalis sanctae Mariae Theutonicorum Ierosolimitatorum , Bracia szpitala niemieckiego pod wezwaniem Najświętszej Marii Panny w Jerozolimie , Deutschen Orden , Ordo Theutonicorum , Zakon Szpitalników Świętej Marii Niemców Jerozolimskich , Ordenstaat , Zakon , Order , The Order , Order of Teutonic Knights , Zakon Teutoński Szpitala Najświętszej Marii Panny , Zakon Najświętszej Marii Panny , Zakon krzyżacki , Zakon Szpitala Najświętszej Marii Panny Domu Niemieckiego w Jerozolimie , Zakon niemiecki )
-  Henryk Walpot                               	        1198-1208 ( 5.3.-5.11. ) ( wg P.W.M.K. )
-  Otto von Kerpen                             	        1209 ( ?-7.2. ) ( wg P.W.M.K. )
-  Henryk von Tunna ( Bart )             	              1209 ( ?.2.-2.6. ) ( wg P.W.M.K. )
+Zakon Krzyżacki ( Teutonic Order, Teutonic Knights, State of Teutonic Order, Ordensstaat, Order of The Brothers of The Teutonic House of The Virgin Mary in Jerusalem , Zakon Najświętszej Maryi Panny Domu Jerozolimskiego , Krzyżowcy , Państwo Zakonu Krzyżackiego , Zakon Szpitala Najświętszej Marii Panny Domu Niemieckiego , Krzyżacy , Ordo fratrum hospitalis sanctae Mariae Theutonicorum Ierosolimitatorum , Bracia szpitala niemieckiego pod wezwaniem Najświętszej Marii Panny w Jerozolimie , Deutschen Orden , Ordo Theutonicorum , Zakon Szpitalników Świętej Marii Niemców Jerozolimskich , Ordenstaat , Zakon , Order , The Order , Order of Teutonic Knights , Zakon Teutoński Szpitala Najświętszej Marii Panny , Zakon Najświętszej Marii Panny , Zakon krzyżacki , Zakon Szpitala Najświętszej Marii Panny Domu Niemieckiego w Jerozolimie , Zakon niemiecki , Zakon Najświętszej Marii Panny Domu Niemieckiego w Jerozolimie )
+  Henryk Walpot                               	        1198-1208 (5.3.-5.11.) ( wg P.W.M.K. )
+                                                        1198-1200 ( Heinrich Walpot von Bassenheim wg CH.1.Ś.1. )
+  Otto von Kerpen                             	        1209 (?-7.2.) ( wg P.W.M.K. )
+                                                        1200-1208 ( wg CH.1.Ś.1. )
+  Henryk von Tunna ( Bart )             	              1209 (?.2.-2.6.) ( wg P.W.M.K. )
+                                                        1208-1209 ( Heinrich von Tuna wg CH.1.Ś.1. )
   Herman von Salza                          	          1210-1239 (?-20.3.) ( wg P.W.M.K. )
                                                         przed 1226-1239 ( Hermann von Salza wg V.K.T.H.O.H.E. )
                                                         1209-1239 (?-28.3.) ( Herman Salza (Herman, Herman zwany Salza, Hermann von Salza) wg F.H.C.R. )
-                                                        1209-1239 ( Hermann ze Salzy (Hermann) wg S.V.D.K.V. )
+                                                        1209-1239 ( Hermann ze Salzy (Hermann) wg S.V.D.K.V. ) 
+                                                        1209-1239 (?-20.3.) ( wg CH.1.Ś.1. )
                                                         1210-1239 ( Hermann von Salza wg T.H.R.E.A.T.Y.O.E.H. )
-  Konrad z Turyngii                          	          1240 ( ?-24.12. ) ( wg P.W.M.K. )
-                                                        1239-1240 ( Conrad of Thuringia wg V.K.T.H.O.H.E. )
+  Konrad z Turyngii                          	          1240 (?-24.12.) ( wg P.W.M.K. )
+                                                        1239-1240 ( Conrad of Thuringia wg V.K.T.H.O.H.E. ) ( Konrad von Thuringen wg CH.1.Ś.1. )
                                                         ? ( Konrad wg F.H.C.R. )
-  Gerhard von Malberg                     	            1241-1244 ( ?-7.7. ) ( wg P.W.M.K. )
+  Gerhard von Malberg                     	            1241-1244 (?-7.7.) ( wg P.W.M.K. )
                                                         ? ( Gerhard z Malbergu wg F.H.C.R. )
-  Henryk von Hohenlohe                  	              1244-1250 ( ?.7.-15.7. ) ( wg P.W.M.K. )
-                                                        1244-1249 ( Henryk z Hohenlohe wg F.H.C.R. )
+                                                        1240-1244 ( wg CH.1.Ś.1. )
+  Henryk von Hohenlohe                  	              1244-1250 (?.7.-15.7.) ( wg P.W.M.K. )
+                                                        1244-1249 ( Henryk z Hohenlohe wg F.H.C.R. ) ( Heinrich von Hohenlohe wg CH.1.Ś.1. )
                                                         przed 1245-? ( wg L.P.P. )
-  Günther von Wüllersleben             	                1250-1252 ( jesień-3(4).5. ) ( wg P.W.M.K. )
-  Poppo von Osterna                         	          1252-1256 ( ?-lato ) ( wg P.W.M.K. )
+  Günther von Wüllersleben             	                1250-1252 (jesień-3/4.5.) ( wg P.W.M.K. )
+                                                        1250-1252 ( Gunter von Wullersleben wg CH.1.Ś.1. )
+  Poppo von Osterna                         	          1252-1256 (?-lato) ( wg P.W.M.K. )
                                                         ? ( Poppo z Osterny (Poppo) wg L.1241. )
                                                         1253-? ( Poppo von Ostern (Poppo, Poppo von Hostern) wg K.P.S. )
+                                                        1252-1256 ( wg CH.1.Ś.1. )
   Wilhelm von Urenbach                  	              1253-? ( wg P.W.M.K. )
-  Anno von Sangershausen               	                1256-1273 ( ?.6.-6(8).7. ) ( wg P.W.M.K. )
-  Hartmann von Haldrungen             	                1273-1282 ( ?.7.-19.8. ) ( wg P.W.M.K. )
-  Burchard von Schwanden               	                1282-1290 ( ?-?.9. ) ( wg P.W.M.K. )
-  Konrad von Feuchtwangen             	                1291-1296 ( jesień-4.7. ) ( wg P.W.M.K. )
+  Anno von Sangershausen               	                1256-1273 (?.6.-6/8.7.) ( wg P.W.M.K. )
+                                                        1256-1273 ( wg CH.1.Ś.1. )
+  Hartmann von Haldrungen             	                1273-1282 (?.7.-19.8.) ( wg P.W.M.K. )
+                                                        1273-1282 ( Hartman von Heldrungen wg CH.1.Ś.1. )
+  Burchard von Schwanden               	                1282-1290 (?-?.9.) ( wg P.W.M.K. )
+                                                        1283-1290 ( Burkhard von Schwanden wg CH.1.Ś.1. )
+  Konrad von Feuchtwangen             	                1291-1296 (jesień-4.7.) ( wg P.W.M.K. )
+                                                        1291-1296 ( wg CH.1.Ś.1. )
   Gottfryd von Hohenlohe                 	              1297-1303 ( 3.5.-? ) ( wg P.W.M.K. )
                                                         ? ( Gotfryd von Hohenlohe wg L.P.P. )
+                                                        1297-1302 ( Gottfried von Hohenlohe wg CH.1.Ś.1. )
   Zygfryd von Feuchtwangen            	                1303-1311 (?-5.3.) ( wg P.W.M.K. )
                                                         ?-1311 (?-?.3.) ( wg L.P.P. )
+                                                        1302-1310 ( Siegfried von Feuchtwangen wg CH.1.Ś.1. )
   Karol z Trewiru                               	      1311-1324 ((6-26).6.-10.2) ( wg P.W.M.K. )
                                                         przed 1313-po 1315 (?-?.8.) ( wg L.P.P. )
-  Werner von Orseln                          	          1324-1330 ( 6.7.-18.11. ) ( wg P.W.M.K. )
+                                                        1311-1324 ( Karl Bessart von Trier wg CH.1.Ś.1. )
+  Werner von Orseln                          	          1324-1330 (6.7.-18.11.) ( wg P.W.M.K. )
                                                         przed 1329-? ( wg L.P.P. )
-  Luther z Brunszwiku                       	          1331-1335 ( 17.2.-18.4. ) ( wg P.W.M.K. )
-  Dytrych von Altenburg                    	            1335-1341 ( 13.5.-6.10. ) ( wg P.W.M.K. )
+                                                        1324-1330 ( wg CH.1.Ś.1. )
+  Luther z Brunszwiku                       	          1331-1335 (17.2.-18.4.) ( wg P.W.M.K. )
+                                                        1331-1335 ( Luther von Braunschweig wg CH.1.Ś.1. )
+  Dytrych von Altenburg                    	            1335-1341 (13.5.-6.10.) ( wg P.W.M.K. )
                                                         przed 1336-? ( Dytryk wg L.P.P. )
+                                                        1335-1341 ( Dietrich von Altenburg wg CH.1.Ś.1. )
   Ludolf König                                   	      1342-1345 (styczeń-13.12) ( wg P.W.M.K. )
                                                         przed 1343-1345 ( wg L.P.P. )
-  Henryk Dusemer                              	        1345-1351 ( 13.12.-14.9. ) ( wg P.W.M.K. )
+                                                        1342-1345 ( Ludolf Koning von Wattzau wg CH.1.Ś.1. )
+  Henryk Dusemer                              	        1345-1351 (13.12.-14.9.) ( wg P.W.M.K. )
                                                         1345-po 1348 (przed zimą-?.8.) ( wg L.P.P. )
-  Winrych von Kniprode                    	            1351-1382 ( wrzesień-24.6. ) ( wg P.W.M.K. )
-                                                        1351-1382 ( Winrich von Kniprode wg V.K.T.H.O.H.E. )
+                                                        1345-1351 ( Heinrich Dusemer von Arfberg wg CH.1.Ś.1. )
+  Winrych von Kniprode                    	            1351-1382 (wrzesień-24.6.) ( wg P.W.M.K. )
+                                                        1351-1382 ( Winrich von Kniprode wg V.K.T.H.O.H.E. i CH.1.Ś.1. )
                                                         przed 1352-po 1376 (?-?.1.) ( wg L.P.P. )
                                                         przed 1352-1382 ( Winrich z Kniprode wg S.V.D.K.V. )
   Konrad Zöllner von Rotenstein        	                1382-1390 (2.10.-20.8.) ( wg P.W.M.K. )
                                                         ? ( Konrad Zöllner von Rathenstein wg K.P.S. )
+                                                        1382-1390 ( Konrad Zollner von Rotenstein wg CH.1.Ś.1. )
   Konrad von Wallenrod                     	            1391-1393 (12.3.-25.7.) ( wg P.W.M.K. )
                                                         ? ( Konrad Wallenrod (Konrad, Wallenrod) wg K.P.S. )
+                                                        1391-1393 ( Konrad von Wallenrode wg CH.1.Ś.1. )
   Konrad von Jungingen                      	          1393-1407 (30.11.- 30.3.) ( wg P.W.M.K. )
                                                         przed 1395-po 1402 ( Konrad wg K.P.S. )
+                                                        1393-1407 ( wg CH.1.Ś.1. )
   Ulryk von Jungingen                         	        1407-1410 (26.6.-lipiec) ( wg P.W.M.K. )
                                                         ?-1410 (?-15.7.) ( Ulrich von Jungingen wg V.K.T.H.O.H.E. i S.V.D.K.V. )
-                                                        1407-1410 (?-15.7.) ( Ulrich von Jungingen (Ulryk) wg K.1.X.1. )
+                                                        1407-1410 (?-15.7.) ( Ulrich von Jungingen (Ulryk) wg K.1.X.1. ) ( Ulrich von Jungingen wg CH.1.Ś.1. )
   Henryk von Plauen                            	        1410-1413 (9.11-wrzesień) ( wg P.W.M.K. )
                                                         ? ( Henryk (Henryk Plauen) wg K.P.S. )
                                                         1410-1413 (9.11.-?) ( wg K.1.X.1. )
+                                                        1410-1413 (przed jesień-?) ( Heinrich von Plauen (Von Plauen) wg CH.1.Ś.1. )
   Michał Küchmeister                          	        1414-1422 (7.1.-10.3.) ( wg P.W.M.K. )
                                                         ? ( Küchenmeister wg K.P.S. )
-                                                        1414-1422 ( Michał Küchmeister von Stemberg wg K.1.X.1. )
+                                                        1414-1422 ( Michał Küchmeister von Stemberg wg K.1.X.1. ) ( Michael Kuchmeister von Sternberg wg CH.1.Ś.1. )
   Paweł von Russdorf                           	        1422-1441 (10.3.-2.1.) ( wg P.W.M.K. )
-  Konrad von Erlichshausen                 	            1441-1449 (12.4.-7.11.) ( wg P.W.M.K. )
-  Ludwik von Erlichshausen                 	            1450-1467 (21.3.-4.4.) ( wg P.W.M.K. )
+                                                        1422-1441 ( Paul Bellitzer von Russdorf wg CH.1.Ś.1. )
+  Ród von Erlichshausen
+    Konrad von Erlichshausen                 	          1441-1449 (12.4.-7.11.) ( wg P.W.M.K. )
+                                                        1441-1449 ( Konrad wg CH.1.Ś.1. )
+    Ludwik von Erlichshausen                 	          1450-1467 (21.3.-4.4.) ( wg P.W.M.K. ) ( Ludwig von Erlichshausen (Ludwik von Erlischausen, Ludwik, Ludwik v. Erlichshausen, Ludwik v. Erlichussen) wg CH.1.Ś.1. )
   Henryk Reuss von Plauen                  	            1469-1470 (17.10-2.1.) ( wg P.W.M.K. )
+                                                        1467/9-1470 (?/17.10.-2.1.) ( wg CH.1.Ś.1. )
   Henryk Reffin von Richtenberg         	              1470-1477 (?-20.2.) ( wg P.W.M.K. )
+                                                        1470-1477 ( Henryk Reffle von Richtenberg wg CH.1.Ś.1. )
   Marcin Truchsess von Wetzhausen	                      1477-1489 (sierpień-3.1.) ( wg P.W.M.K. )
+                                                        1477-1489 ( Martin Truchsess von Wetzhausen wg CH.1.Ś.1. )
   Jan von Tieffen                                   	  1489-1497 (wrzesień-25.8.) ( wg P.W.M.K. )
+                                                        1489-1497 ( wg CH.1.Ś.1. )
   Fryderyk książę Saski                         	      1498-1510 (29.9.-14.12.) ( wg P.W.M.K. )
                                                         1497-1510 ( Friedrich von Sachsen wg V.K.T.H.O.H.E. )
+                                                        1498-1510 ( Fryderyk Wettyn wg CH.1.Ś.1. )
   Albrecht von Hohenzollern-Ansbach 	                  1511-1525 (13.2.-10.4.) ( wg P.W.M.K. ) [Duke of Prussia]
                                                         ? ( wg O.K.C.J. ) ( Albrecht Hohenzollern (Albrecht) wg K.P.S. )
-                                                        1510-1525 ( Albrecht von Hohenzollern (Albrecht of Brandenburg-Ansbach) wg V.K.T.H.O.H.E. )
+                                                        1510-1525 ( Albrecht von Hohenzollern (Albrecht of Brandenburg-Ansbach) wg V.K.T.H.O.H.E. ) ( Albrecht von Hohenzollern wg CH.1.Ś.1. )
                                                         przed 1524-? ( Albrecht von Hohenzollern wg J.P.1242 )
                                                         1511-? ( Albert wg D.O.T.W.A.C.A.G.H. )
                                                         1520-1525 ( Albrecht von Hohenzollern (Albert of Brandenburg-Ansbach) wg T.H.R.E.A.T.Y.O.E.H. )
@@ -22356,6 +22416,7 @@ Zakon Krzyżacki ( Teutonic Order, Teutonic Knights, State of Teutonic Order, Or
       The Holy Roman Empire - A Thousand Years of Europe's History
       Nikopolis 1396
       Koronowo 10 X 1410
+      Chojnice 1454, Świecino 1462
 
 Państwo Kszaharatów ( Západní Šakové , Kšaharátská říše , Stát Kšatrapů , Western Kshatrapas )
   Azes I.                                               ok.70-ok.50 ( wg D.I. ) [Ruler of Sakowie]
@@ -22430,6 +22491,7 @@ Kujawy
     Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
       Władysław Łokietek                                ? ( Łokietek wg P.K.I.K.P. ) [King of Poland]
                                                         przed 1289-? i przed 1320-? ( Władysław (Łokietek) wg P.W.O.T. )
+                                                        przed 1306-po 1320 ( Władysław Łokietek (Łokietek) wg CH.1.Ś.1. )
   Księstwo kujawskie
     Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
       Władysław Opolczyk                                1378-po 1396 (5.12-?) ( Władysław opolski (Władysław, Opolczyk) wg K.P.S. ) [Książę opolski] [Książę niemodliński] [Książę dobrzyński] [Książę wieluński]
@@ -22442,6 +22504,7 @@ Kujawy
       Książęta piastowscy Śląska
       Poczet Królów i Książąt Polskich
       Piastowie. Walka o tron 1138–1320
+      Chojnice 1454, Świecino 1462
 
 Królestwo Kulútów ( Kulúta )
   Bibliografia :
@@ -23588,6 +23651,7 @@ Litwa ( Litva , Lithuania )
                                                         przed 1385-? ( wg K.P.S. )
                                                         1377-po 1386 ( wg T.H.R.E.A.T.Y.O.E.H. )
                                                         1377-1381 i 1382-1401 ( Władysław Jagiełło (Władysław II Jagiełło, Władysław, Władysław II, Jagieło) wg K.1.X.1. )
+                                                        przed 1385-po 1386 ( Władysław Jagiełło (Władysław) wg CH.1.Ś.1. )
       Witold ( Vytautas ) Wielki	                      1392-1430 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. )
                                                         1401-1430 ( wg V.K.T.H.O.H.E. )
                                                         ok.1350 ( Witold wg Z.N.E. )
@@ -23598,12 +23662,15 @@ Litwa ( Litva , Lithuania )
                                                         ?-1430 (?-27.10.) ( Witold (Witold Kiejstutowicz) wg N.1396 )
                                                         ? ( Witold wg W.C.Z.H.2.2.P.N.E. )
                                                         1401-1430 (?-27.10.) ( Witold Kiejstutowicz (Aleksander, Witold, Wigand) wg K.1.X.1. )
+                                                        przed 1410-? (15.7.-?) ( Witold wg CH.1.Ś.1. )
       Świdrygiełło ( Švitrigaila )   	                  1430-1432 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Svidrigaila wg V.K.T.H.O.H.E. )
+                                                        ? ( wg CH.1.Ś.1. )
       Zygmunt                              	            1432-1440 ( wg V.K.T.H.O.H.E. i D.Ś. ) ( Sigismund wg D.O.T.W.A.C.A.G.H. )
       Kazimierz                            	            1440-1492 ( wg D.Ś. ) ( Kazimierz III Jagiellończyk (Casimir IV Jagiellon, Casimir Jagiellończyk) wg V.K.T.H.O.H.E. ) ( Casimir wg D.O.T.W.A.C.A.G.H. ) [King of Poland Casimir IV]
                                                         ? ( Kazimierz Jagiellończyk wg L.P.P. )
                                                         przed 1475-1492 ( Kazimierz Jagiellończyk (Kazimierz IV Jagiellończyk) wg N.G.R.B.I.N.S. )
                                                         przed 1444-1492 ( Kazimierz Jagiellończyk wg P.K.I.K.P. ) ( Kazimierz IV Jagiellończyk wg M.1526 )
+                                                        1440-1484 (?-4.3.) ( Kazimierz IV Jagiellończyk (Kazimierz Jagiellończyk, Kazimierz) wg CH.1.Ś.1. )
       Aleksander                         	              1492-1506 ( wg D.Ś. ) ( Alexander wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. ) ( Aleksander Jagiellończyk wg N.G.R.B.I.N.S. ) [King of Poland]
                                                         1492-? ( wg P.K.I.K.P. )
     Jagiellonowie ( The Jagiellonians , Dynastia Jagiellonów )
@@ -23652,6 +23719,7 @@ Litwa ( Litva , Lithuania )
       Wojna Czu z Han 209-202 p.n.e.
       Newel 1562
       Koronowo 10 X 1410
+      Chojnice 1454, Świecino 1462
 
 Litwini
   Dom Centaurów ( House of Kentauras )
@@ -24258,11 +24326,13 @@ Księstwo łęczyckie
   Leszek Czarny                                         przed 1282-? ( wg Z.N.E. ) [Książę krakowski]
   Kazimierz II                                          ? ( wg L.P.P. )
                                                         ?-1294 ( Kazimierz II Łęczycki (Kazimierz łęczycki) wg P.W.O.T. )
+  Władysław I Łokietek                                  przed 1306-po 1320 ( Władysław Łokietek (Łokietek) wg CH.1.Ś.1. ) [King of Poland]
   Bibliografia :
       Litwa - Początki Państw
       Zapomianie narody Europy
       Poczet Królów i Książąt Polskich
       Bolesław Krzywousty 1085-1138
+      Chojnice 1454, Świecino 1462
 
 Łotwa ( Latvia )
   Bibliografia :
@@ -25613,7 +25683,7 @@ Mazowsze
                                                         ?-1047 n.e. ( wg B.S. )
                                                         przed 1041-? ( Masław wg Z.1205 )
                                                         ok.1037-1046/7 ( Masław (Meczzlaus, Mojsław) wg M.1047 )
-  Księstwo mazowieckie ( Księstwo Mazowsza , Duchy of Mazovia , Mazovské vévodství , Mazowsze )
+  Księstwo mazowieckie ( Księstwo Mazowsza , Duchy of Mazovia , Mazovské vévodství , Mazowsze , Księstwo Mazowieckie )
     Dynastia Piastów ( Ród Piastów , Dom Piastów , Piastowicze )
       Bolesław IV Kędzierzawy                           przed 1146-1177 ( wg Z.N.E. ) [Książę krakowski]
                                                         przed 1145-? ( Bolesław Kędzierzawy (Bolesław, Kędzierzawy) wg Z.1205 )
@@ -25644,6 +25714,7 @@ Mazowsze
                                                         ? ( wg W.P.P.K.O.S. i L.P.955 )
                                                         ok.1200-1247 ( Konrad wg P.K.I.K.P. )
                                                         przed 1210-1247 ( Konrad I Mazowiecki (Konrad) wg P.W.O.T. )
+                                                        przed 1225-po 1228 ( Konrad wg CH.1.Ś.1. )
       Bolesław                                          ? ( wg K.P.S. )
                                                         ?-1248 ( Bolesław I Mazowiecki wg P.W.O.T. )
       Siemowit I                                        1247-1262 ( wg Z.N.E. )
@@ -25677,6 +25748,7 @@ Mazowsze
       Mazowsze 1047
       Lechowe Pole 955
       Koronowo 10 X 1410
+      Chojnice 1454, Świecino 1462
 
 Mádrové
   Bibliografia :
@@ -27158,7 +27230,7 @@ Moskwa ( Muscovy , Moskva , Moskau , Państwo moskiewskie )
       			    	                                      przed 1380-? ( Dmitrij wg D.P.I.R.G. ) ( Dimitrij Donský wg Ř.S.J.Ď.S. ) ( Dymitr Iwanowicz (Dymitr) wg J.P.1242 )
       				                                          ? ( Dimitrij Ivanovič Donský wg E.P. ) ( Dmitri Donskoy wg V.K.T.H.O.H.E. )
       Wasyl I                   	                      1389-1425 ( wg V.N.M.S.D. i D.Ś. ) ( Basil I wg D.O.T.W.A.C.A.G.H. )
-      				                                          ? ( Vasilij I Dmitrijevič wg E.P. ) ( Vassili I wg T.S.O.I.C.O.T.W. )
+      				                                          ? ( Vasilij I Dmitrijevič wg E.P. ) ( Vassili I wg T.S.O.I.C.O.T.W. ) ( Wasyl wg CH.1.Ś.1. )
       Wasyl II Ślepy		                                1425-1462 ( wg V.N.M.S.D. i D.Ś. ) ( Basil II (Basil II the Blind) wg D.O.T.W.A.C.A.G.H. ) ( Wasyl II (Wasyl II Rurykowicz) wg N.G.R.B.I.N.S. )
       				                                          przed 1425-? ( Vasilij II Vasiljevič wg E.P. )
                                                         przed 1415-? ( Wasyl II wg G.R.I.L. )
@@ -27197,6 +27269,7 @@ Moskwa ( Muscovy , Moskva , Moskau , Państwo moskiewskie )
       Obertyn 1531
       Newel 1562
       Moskwa 1612
+      Chojnice 1454, Świecino 1462
 
 Mosul
   Emirat Mosulu
@@ -28315,7 +28388,7 @@ Niemcy ( Germany , Německo , Deutschland )
       Frederick Barbarossa                              1152-1190 ( wg V.K.T.H.O.H.E. ) ( Frederick I (Frederick I Barbarossa) wg D.O.T.W.A.C.A.G.H. ) ( Fridrich I. Barbarossa wg S.V.D.K.V. ) ( Frederick Barbarossa (Frederick, Barbarossa) wg H.O.W.P. ) ( Fryderyk I Barbarossa (Fryderyk Barbarossa, Hohenstauf, Fryderyk I, Fryderyk, Barbarossa, Friedrich Barbarossa) wg M.1176 ) [Holy Roman Emperor Frederick I]
                                                         1152-po 1158 ( Friedrich I. wg B.S. )
                                                         1152-po 1163 (przed ?.8.-?.9.) ( Fryderyk I (Fryderyk, Fryderyk Barbarossa, Fryderyk I Rudobrody, Hohenstauf) wg K.P.S. )
-                                                        ? ( Fryderyk I Rudobrody wg P.K.I.K.P. ) ( Friedrich I. wg K.G.1003 )
+                                                        ? ( Fryderyk I Rudobrody wg P.K.I.K.P. ) ( Friedrich I. wg K.G.1003 ) ( Fryderyk Barbarossa wg CH.1.Ś.1. )
                                                         1152-po 1176 (9.3.-?) ( Fryderyk I Barbarossa (Fryderyk Barbarossa, Barbarossa, Friedrich Barbarossa) wg R.1168 )
                                                         przed 1155-po 1157 ( Fryderyk Barbarossa (Fryderyk, Barbarossa) wg P.W.O.T. )
                                                         1152/4-1190 (?.3./?-?) ( Frederick I Barbarossa (Frederick I, Frederick 'Barbarossa', Frederick I 'Barbarossa', Barbarossa, Frederick, Friedrich Barbarossa) wg T.H.R.E.A.T.Y.O.E.H. )
@@ -28568,6 +28641,7 @@ Niemcy ( Germany , Německo , Deutschland )
       Clontarf 1014
       Lechowe Pole 955
       Koronowo 10 X 1410
+      Chojnice 1454, Świecino 1462
 
 Księstwo niemodlińskie
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -29122,9 +29196,11 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
                                                         przed 1374-? (?.7.-?) ( Håkon VI wg F.L.P.D.Ś.W. )
     Olaf IV                      		                    1380-1387 ( wg D.Ś. i Tapsella ) ( Olav IV wg D.O.T.W.A.C.A.G.H. ) [King of Denmark Olaf II]
                                                        	1380-1387 ( V wg V.N.M.S.D. )
-    Małgorzata                		                      1387-1412 ( wg Tapsella )
+    Małgorzata                		                      1387-1412 ( wg Tapsella ) [Queen of Sweden] [Queen of Denmark Małgorzata I]
+                                                        przed 1409-? ( wg CH.1.Ś.1. )
   Eryk Pomorski                                         ? ( Eryk wg G.R.I.L. ) [King of Denmark Eric VII] [King of Sweden Eric XIII]
                                                         przed 1415-? ( Eryk VII wg F.L.P.D.Ś.W. )
+                                                        przed 1407-po 1418 ( Eryk I Pomorski wg CH.1.Ś.1. )
   Chrystian I                                           1450-po 1468 (?-?.9.) ( wg F.L.P.D.Ś.W. ) [King of Denmark]
   Dynastia duńska ( House of Denmark )
     Chrystian Fryderyk		                              1814 ( wg D.Ś. ) ( Christian Frederick wg D.O.T.W.A.C.A.G.H. )
@@ -29170,6 +29246,7 @@ Królestwo Norwegii ( Norway , Norsko , The Kingdom of Norway , Norwegia )
       Mazowsze 1047
       Mercia - The Rise and Fall of a Kingdom
       Clontarf 1014
+      Chojnice 1454, Świecino 1462
 
 Norymberga ( Nuremberg )
   Burgraviate of Nuremberg
@@ -29832,7 +29909,7 @@ Księstwo opolskie
     Jan Kropidło                                        ? ( Johann Kropidlo (Jan opolski "Kropidło", Johann, Johann Kropidło, Jan Opolski "Kropidło") wg K.P.S. )
     Bolko IV                                            przed 1399-po 1435 ( Bolko (Bolesław IV opolski) wg K.P.S. )
     Bernard                                             przed 1399-? ( wg K.P.S. ) [Książę niemodliński]
-    Bolko V                                             ? ( Bolko V opolski (Bolko, Bolko opolski, Bolesław opolski, Bolko V opolski) wg K.P.S. ) [Książę niemodliński] [Książę głogówecki] [Książę prudnicki]
+    Bolko V                                             ? ( Bolko V opolski (Bolko, Bolko opolski, Bolesław opolski, Bolko V opolski) wg K.P.S. ) ( Bolesław wg CH.1.Ś.1. ) [Książę niemodliński] [Książę głogówecki] [Książę prudnicki]
     Mikołaj I                                           przed 1469-1476 (31.5.-3.7./po 14.8.) ( Mikołaj I opolski (Mikołaj z Opola) wg K.P.S. )
     Mikołaj II                                          1476-1497 (?-?.6.) ( Mikołaj (Mikołaj II opolski) wg K.P.S. )
     Jan II                                              1476-1532 (przed 4.9.-27/8.3.) ( Jan (Jan opolski, Jan Dobry, Jan II opolski, Jan Opolski) wg K.P.S. ) [Książę niemodliński] [Książę opolsko-raciborski]
@@ -29843,6 +29920,7 @@ Księstwo opolskie
       Książęta piastowscy Śląska
       Piastowie. Walka o tron 1138–1320
       Mazowsze 1047
+      Chojnice 1454, Świecino 1462
 
 Księstwo opolsko-raciborskie ( Księstwo raciborsko-opolskie )
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -30374,10 +30452,12 @@ Księstwo oświęcimskie ( Duchy of Oświęcim )
                                                         przed 1399-? ( Jan oświęcimski wg K.P.S. )
     Przemysław oświęcimski                              ?-1406 (?-1.1.) ( Przemysław wg P.W.O.T. )
     Janusz IV oświęcimski                               przed 1497-? ( Jan IV wg K.P.S. ) [Książę gliwicki Jan z Gliwic]
+                                                        przed 1454-? (?.8.-?) ( Janusz z Oświęcimia (Janusz) wg CH.1.Ś.1. )
   Bibliografia :
       Litwa - Początki Państw
       Książęta piastowscy Śląska
       Piastowie. Walka o tron 1138–1320
+      Chojnice 1454, Świecino 1462
 
 Ottawowie
   Pontiac                    	                          1755-1769 ( wg W.I.A.P. )
@@ -32069,7 +32149,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
                                                         przed 963-992 (?-25.5.) ( Mieszko Pierwszy (Mieszko, Miseco I., Mieczysław, Piast) wg K.G.1003 )
       Bolesław I Chrobry           	                    992-1025 ( wg D.Ś. i V.N.M.S.D. ) ( Boleslav Chrabrý wg D.P.I.R.G. ) ( Bolesław Chrobry wg Z.N.E. i W.W.K.R. ) ( Bolesław Chrobry (Bolesław I Wielki) wg S.P.D.Z. ) ( Bolesław I (Bolesław I the Brave) wg D.O.T.W.A.C.A.G.H. ) ( Bolesław Chrobry (Bolesław) wg P.K.I.K.P. ) ( Bolesław Chrobry (Bolesław, Chrobry) wg M.1047 ) ( Boleslav I Chrobry (Boleslav Chrobry, Boleslav I 'the Brave', Boleslav, Boleslaw Chrobry) wg T.H.R.E.A.T.Y.O.E.H. ) ( Bolesław Chrobry (Bolesław, Piast, Chrobry, Bolesław Chrobry Wielki, Bolesław I Wielki, Bolesław I Chrobry Wielki, Mieszko, Bulizlavus, Bolesław Wielki, Bolesław polski, Bolesław I. von Polen, Bolesław I-szy Wielki) wg K.G.1003 ) [King of Poland]
       			              	                            przed 993-po 1018 ( Boleslav Chrabrý wg Z.S.A.V.E. )
-                                                        ? ( Bolesław Chrobry wg O.K.C.J. i L.P.955 ) ( Chrobry wg L.P.P. ) ( Bolesław Chrobry (Chrobry, Bolesław Chrobry Wielki) wg G.R.I.L. )
+                                                        ? ( Bolesław Chrobry wg O.K.C.J. i L.P.955 i CH.1.Ś.1. ) ( Chrobry wg L.P.P. ) ( Bolesław Chrobry (Chrobry, Bolesław Chrobry Wielki) wg G.R.I.L. )
                                                         992-po 1018 (?-22.7.) ( Bolesław Chrobry (Chrobry) wg B.S. )
                                                         przed 1002-? ( Bolesław Chrobry (Bolesław) wg O.I.W. )
                                                         992-1025 (?-18.4.) ( Bolesław Chrobry (Bolesław Wielki, Chrobry, Bolesław Chrobry Wielki) wg K.1018 )
@@ -32143,7 +32223,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
                                                         1102-po 1107 ( wg P.W.O.T. )
                                                         ? ( wg M.1047 )
       Bolesław III Krzywousty	                          1102-1138 ( wg D.Ś. i V.N.M.S.D. i Z.N.E. ) ( Bolesław III (Bolesław III Wrymouth) wg D.O.T.W.A.C.A.G.H. ) ( Boleslav III. Křivoústý (Boleslav III.) wg S.V.D.K.V. ) ( Bolesław Krzywousty (Bolesław) wg P.K.I.K.P. i M.1047 )
-      				         	                                ? ( Boleslav III wg Z.S.A.V.E. ) ( Boleslav III Křivoústý wg F.B.C.A.R. ) ( Bolesław Krzywousty wg N.I.B.W.XI.S. )
+      				         	                                ? ( Boleslav III wg Z.S.A.V.E. ) ( Boleslav III Křivoústý wg F.B.C.A.R. ) ( Bolesław Krzywousty wg N.I.B.W.XI.S. i CH.1.Ś.1. )
                                                         1102-1138 (?-28.10.) ( Bolesław Krzywousty (Krzywousty) wg W.W.K.R. ) ( Bolesław III (Bolesław Krzywousty, Bolesław, Krzywousty) wg P.W.O.T. )
                                                         przed 1120-1138 (?-28.10.) ( Bolesław Krzywousty wg S.P.D.Z. )
                                                         przed 1109-1138 (10.8.-28.10.) ( Bolesław Krzywousty (Krzywousty) wg B.S. )
@@ -32158,14 +32238,14 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
   Dynastia czeska ( House of Bohemia )
     Wacław II              		                          1291-1300 ( wg D.Ś. ) [King of Poland Wacław II]
   Królestwo Polski ( Kingdom of Poland , The Kingdom of Poland , Królestwo Polskie , Korona Polska )
-    Przemysł                                            1295-1296 ( wg D.O.T.W.A.C.A.G.H. ) ( Przemysław II (Przemysł II) wg P.K.I.K.P. )
+    Przemysł                                            1295-1296 ( wg D.O.T.W.A.C.A.G.H. ) ( Przemysław II (Przemysł II) wg P.K.I.K.P. ) ( Przemysław II wg CH.1.Ś.1. )
                                                         1295-1296 (26.6.-8.2.) ( Przemysł II (Przemysław, Przemysł II wielkopolski) wg P.W.O.T. )
     Dynastia czeska ( Przemyślidzi )
       Wacław II         		                            1300-1305 ( wg D.Ś. ) ( Wenceslas wg D.O.T.W.A.C.A.G.H. ) ( Wacław II czeski (Wacław) wg P.K.I.K.P. ) ( Wacław II Czeski (Wacław, Przemyślida) wg P.W.O.T. ) [King of Bohemia Wacław II]
-                                                        1300-? ( Václav II wg Z.S.A.V.E. )
+                                                        1300-? ( Václav II wg Z.S.A.V.E. ) ( wg CH.1.Ś.1. )
                                                         ? ( wg L.P.P. )
                                                         przed 1301-? ( Wacław II Czeski wg Z.1205 )
-      Wacław III                                        ? ( wg L.P.P. ) [King of Bohemia Wacław III]
+      Wacław III                                        ? ( wg L.P.P. i CH.1.Ś.1. ) [King of Bohemia Wacław III]
                                                         1305-1306 ( wg P.K.I.K.P. )
                                                         1305-1306 (?-4.8.) ( Wacław wg P.W.O.T. )
   Duchy of Poland
@@ -32175,7 +32255,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
       				          	                              ? ( Vladislav I Lokýtek wg Z.S.A.V.E. ) ( Władysław Łokietek wg Z.1205 )
                                                         przed 1308-? ( Władysław Łokietek (Łokietek) wg L.P.P. )
                                                         1306-1320 ( Władysław Łokietek (Łokietek) wg P.K.I.K.P. )
-  Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita , Rzeczpospolita Polska , Korona Polski , Korona Polska , Korona )
+  Królestwo Polski ( Kingdom of Poland , Korona Królestwa Polskiego , Królestwo Polskie , Lechistan , The Kingdom of Poland , Rzeczpospolita , Rzeczpospolita Polska , Korona Polski , Korona Polska , Korona , Regnum Polonica )
     Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska , The Piasts , Piasts )
       Władysław I Łokietek    	                        1320-1333 ( wg D.Ś. i V.N.M.S.D. ) ( Władysław I the Short (Władysław I) wg D.O.T.W.A.C.A.G.H. ) ( Władysław Łokietek (Łokietek) wg P.K.I.K.P. )
                                                         ? ( Władysław Łokietek wg O.K.C.J. ) ( wg T.R.L.Z.S.L.R.S.B. )
@@ -32183,6 +32263,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
                                                         przed 1323-po 1327 ( Władysław Łokietek (Łokietek, Władysław) wg K.P.S. )
                                                         1320-1333 (20.1.-?) ( Władysław Łokietek (Łokietek, Władysław) wg P.W.O.T. )
                                                         przed 1325-? ( Władysław Łokietek (Władysław, Łokietek) wg K.1.X.1. )
+                                                        1320-po 1333 ( Władysław Łokietek (Łokietek) wg CH.1.Ś.1. )
       Kazimierz III Wielki      	                      1333-1370 ( wg D.Ś. i V.N.M.S.D. ) ( Kazimír III Veliký wg D.P.I.R.G. ) ( Casimir The Great (Kazimierz III) wg V.K.T.H.O.H.E. ) ( Casimir III (Casimir III the Great) wg D.O.T.W.A.C.A.G.H. ) ( Kazimierz Wielki (Kazimierz) wg P.K.I.K.P. )
       				 	                                        przed 1335-? ( Kazimierz Wielki wg K.R.I.C.R. )
       				 	                                        ?-1370 ( Kazimír Veliký wg Z.S.A.V.E. ) 
@@ -32195,6 +32276,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
                                                         przed 1364-? ( Kazimierz Wielki wg N.1396 )
                                                         przed 1340-po 1349 ( Kazimierz Wielki wg O.1531 )
                                                         przed 1359-po 1368 (3.2.-18.12.) ( Kazimierz Wielki (Kazimierz) wg K.1.X.1. )
+                                                        przed 1335-po 1343 ( Kazimierz Wielki wg CH.1.Ś.1. )
     Dynastia andegaweńska ( House of Anjou , Andegawenowie )
       Ludwik          		                              1370-1382 ( wg D.Ś. i V.N.M.S.D. ) ( Louis the Great wg D.O.T.W.A.C.A.G.H. ) ( Ludwik Węgierski wg P.K.I.K.P. ) [King of Hungary Louis I]
       			      		                                  ? ( Ludvík Veliký wg Z.S.A.V.E. ) ( Ludwik Węgierski wg H.W. i N.1396 )
@@ -32225,10 +32307,11 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
                                                         ?-1433/4 ( Władysław Jagiełło wg N.1396 )
                                                         1386-1433 ( Władysław Jagiełło wg M.1526 )
                                                         1386-1434 (?-1.6.) ( Władysław (Jagiełło, Władysław Jagiełło, Władysław II) wg K.1.X.1. )
+                                                        1386-po 1422 (?-?.9.) ( Władysław Jagiełło (Władysław, Jagiełło) wg CH.1.Ś.1. )
       Władysław III                	                    1434-1444 ( wg D.Ś. i D.O.T.W.A.C.A.G.H. ) ( Władysław III Warneńczyk (Ladislas Of Varna) wg V.K.T.H.O.H.E. ) ( Władysław Warneńczyk (Władysław) wg P.K.I.K.P. ) [King of Hungary Władysław I]
                                                         1434-1445 ( wg V.N.M.S.D. )
       					                                        przed 1440-1444 ( ?-10.11. ) ( Vladislav II Jagellonský wg D.B. )
-      					                                        ?-1444 ( Vladislav III Varnenčík wg Z.S.A.V.E. ) ( Władysław Jagiellończyk wg S.II.W.I.J.C.Z.E.M.P. )
+      					                                        ?-1444 ( Vladislav III Varnenčík wg Z.S.A.V.E. ) ( Władysław Jagiellończyk wg S.II.W.I.J.C.Z.E.M.P. ) ( Władysław Warneńczyk (Władysław) wg CH.1.Ś.1. )
                                                         ?-1444 (?-10.11.) ( Władysław Warneńczyk wg H.W. )
                                                         przed 1441-1444 ( Władysław III Warneńczyk (Władysław II Warneńczyk, Władysław Warneńczyk, Wladislas) wg N.1396 )
                                                         przed 1440-1444 ( Władysław Warneńczyk (Władysław, Warneńczyk, Wladislas, Władysław Jagiellończyk) wg M.1526 )
@@ -32242,15 +32325,18 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
                                                         1444-1492 ( Kazimierz IV Jagiellończyk wg M.1526 )
                                                         przed 1485-? (15.9.-?) ( Kazimierz Jagiellończyk wg O.1531 )
                                                         przed 1454-po 1479 (18.9.-?) ( Kazimierz Jagiellończyk wg K.1.X.1. )
+                                                        1445/1447-1484 (?.4./25.6.-4.3.) ( Kazimierz IV Jagiellończyk (Kazimierz, Kazimierz Jagiellończyk) wg CH.1.Ś.1. )
       Jan I Olbracht                	                  1492-1501 ( wg D.Ś. i V.N.M.S.D. ) ( Jan Olbracht (John I Albert) wg V.K.T.H.O.H.E. ) ( John I Albert wg D.O.T.W.A.C.A.G.H. ) ( Jan Olbracht (Olbracht) wg P.K.I.K.P. )
                                                         przed 1499-? ( Olbracht wg O.K.C.J. )
                                                         przed 1499-po 1501 (15.4.-19.7.) ( Jan Olbracht wg S.II.W.I.J.C.Z.E.M.P. )
                                                         ? ( Jan Olbracht (olbracht) wg K.P.S. )
                                                         przed 1491-po 1497 (?.2.-?) ( Jan Olbracht wg M.1526 )
                                                         przed 1497-1501 (26.10.-17.6.) ( Jan Olbrecht (Olbracht) wg O.1531 )
+                                                        przed 1497-? ( Jan Olbracht wg CH.1.Ś.1. )
       Aleksander                    	                  1501-1506 ( wg D.Ś. i V.N.M.S.D. i P.K.I.K.P. ) ( Alexander wg V.K.T.H.O.H.E. i D.O.T.W.A.C.A.G.H. ) ( Aleksander Jagiellończyk wg N.G.R.B.I.N.S. )
                                                         przed 1502-? (9.10.-?) ( wg S.II.W.I.J.C.Z.E.M.P. )
                                                         1501-1506 (?-19.8.) ( Aleksander Jagiellończyk wg O.1531 )
+                                                        ? ( wg CH.1.Ś.1. )
       Zygmunt I Stary            	                      1506-1548 ( wg D.Ś. i V.N.M.S.D. ) ( Sigismund The Elder (Sigismund I) wg V.K.T.H.O.H.E. ) ( Sigismund I (Sigismund I the Elder) wg D.O.T.W.A.C.A.G.H. ) ( Zygmunt I (Zygmunt Stary) wg N.G.R.B.I.N.S. ) ( Zygmunt Stary (Zygmunt I, Zygmunt) wg P.K.I.K.P. i O.1531 )
       			              	                            1507-1548 ( wg A.T.T.L.D.A.K. )
       					                                        przed 1520-? ( Zikmund I Starý wg E.P. )
@@ -32431,6 +32517,7 @@ Polska ( Polsko , Poland , Rzeczpospolita Polska , Polen , Państwo Polskie , Rz
       Moskwa 1612
       Chocim 1673
       Koronowo 10 X 1410
+      Chojnice 1454, Świecino 1462
 
 Księstwo Połockie ( Principality of Polatsk , Polocké knížectví , Księstwo połockie )
   Rogvolod                                              ? ( wg V.K.T.H.O.H.E. )
@@ -32486,6 +32573,7 @@ Księstwo Pomorskie ( Pomorze Gdańskie , Księstwo pomorskie )
                                                         przed 1227-? ( Świętopełk pomorski wg P.K.I.K.P. )
                                                         przed 1219-po 1227 (?-23.11.) ( Świętopełk Wielki wg P.W.O.T. )
     Mściwoj                                             przed 1282-1294/5 ( wg P.W.O.T. )
+                                                        przed 1281-? ( Mściwoj II (Mściwój II) wg CH.1.Ś.1. )
   Przemysł II wielkopolski                              1294-? ( Przemysł II (Przemysł) wg P.W.O.T. )
   Bibliografia :
       Zapomianie narody Europy
@@ -32497,6 +32585,7 @@ Księstwo Pomorskie ( Pomorze Gdańskie , Księstwo pomorskie )
       Poczet Królów i Książąt Polskich
       Bolesław Krzywousty 1085-1138
       Piastowie. Walka o tron 1138–1320
+      Chojnice 1454, Świecino 1462
 
 Pomorze
   Świętobor                                             ? ( wg B.K.1.1. )
@@ -33081,9 +33170,11 @@ Księstwo przemyskie ( Przemyśl )
 Przewóz
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
     Jan II                                              1449-po 1472 ( Jan II żagański (Jan żagański, Jan, Jan bez Ziemi) wg K.P.S. ) [Książę głogowski] [Książę żagański]
-    Wacław                                              1449-? ( wg K.P.S. ) [Książę żagański]
+                                                        1449-? ( wg CH.1.Ś.1. )
+    Wacław                                              1449-? ( wg K.P.S. i CH.1.Ś.1. ) [Książę żagański]
   Bibliografia :
       Książęta piastowscy Śląska
+      Chojnice 1454, Świecino 1462
 
 Přední Rakousy ( Přední Země )
   Albrecht VI.                                          1446-1463 ( wg M.I.Z.H.S.R. ) [Archduke of Austria Albert VI]
@@ -37456,11 +37547,14 @@ Księstwo słupskie
     Warcisław VII                                       ? ( wg G.R.I.L. )
     Bogusław VIII                                       ? ( wg K.P.S. )
                                                         przed 1410 n.e.-? (15.7.-?) ( wg K.1.X.1. )
+    Eryk I Pomorski                                     ? ( wg CH.1.Ś.1. ) [King of Denmark Eryk VII] [King of Norway Eryk Pomorski] [King of Sweden Eryk XIII]
+    Eryk II                                             przed 1460-po 1466 (?.9.-21.9.) ( Eryk (Henryk) wg CH.1.Ś.1. ) [Duke of Szczecin]
   Bibliografia :
       Litwa - Początki Państw
       Goci - Rzeczywistość i legenda
       Książęta piastowscy Śląska
       Koronowo 10 X 1410
+      Chojnice 1454, Świecino 1462
 
 Smad-bod
 
@@ -38772,9 +38866,12 @@ Sza-T´o
       Historia Chin
 
 Szczecin
-  Bogislav                                              ? ( Bogislav of Stettin (Bogislav of Stetting) wg T.H.R.E.A.T.Y.O.E.H. ) [Duke of Pomerania Bogusław I]
+  Księstwo szczecińskie
+    Bogislav                                            ? ( Bogislav of Stettin (Bogislav of Stetting) wg T.H.R.E.A.T.Y.O.E.H. ) [Duke of Pomerania Bogusław I]
+    Eryk II                                             przed 1460-po 1466 (?.9.-21.9.) ( Eryk (Henryk) wg CH.1.Ś.1. ) [Duke of Słupsk]
   Bibliografia :
       Rugia 1168
+      Chojnice 1454, Świecino 1462
 
 Szechna ( Šechna , Šubat-Enlil )
   Bibliografia :
@@ -39077,7 +39174,7 @@ Szwabia ( Swabia , Švábsko , Schwaben )
                                                         ?-1166 ( Fryderyk IV wg R.1168 )
                                                         1152-1167 ( Friedrich von Rothenberg (Friedrich) wg T.H.R.E.A.T.Y.O.E.H. )
   Fridrich V Švabský         		                        przed 1172-1190 ( wg F.B.C.A.R. )
-                                                        ? ( Fryderyk V Szwabski wg R.1168 )
+                                                        ? ( Fryderyk V Szwabski wg R.1168 ) ( Fryderyk wg CH.1.Ś.1. )
                                                         przed 1189-1191 (?.5.-20.1.) ( Fridrich Švábský (Fridrich) wg S.V.D.K.V. )
                                                         ok.1190-1191 ( Friedrich VI of Swabia (Friedrich IV Staufer) wg T.H.R.E.A.T.Y.O.E.H. )
   Konrád                                 	              1191-? ( wg F.B.C.A.R. )
@@ -39103,6 +39200,7 @@ Szwabia ( Swabia , Švábsko , Schwaben )
       The Holy Roman Empire - A Thousand Years of Europe's History
       Kraj Głomaczów 1003
       Lechowe Pole 955
+      Chojnice 1454, Świecino 1462
 
 Szwajcaria ( Switzerland , Die Schweiz )
   Swiss Confederation ( Confederation )
@@ -39290,9 +39388,11 @@ Szwecja ( Sweden , Švédsko , Schweden )
                                              		        1373-1389 ( wg V.N.M.S.D. )
                                              		        1365-1389 ( wg Tapsella )
     Dynastia duńska ( House of Denmark )
-      Małgorzata                        	              1389-1412 ( wg Tapsella )
+      Małgorzata                        	              1389-1412 ( wg Tapsella ) [Queen of Norway] [Queen of Denmark Małgorzata I]
+                                                        przed 1409-? ( wg CH.1.Ś.1. )
       Eryk XIII z Pomorza         	                    1412-1440 ( wg Tapsella ) [King of Denmark Eryk VII] [King of Norway Eryk Pomorski]
                                                         przed 1434-? ( Eryk (Eryk Pomorski) wg G.R.I.L. )
+                                                        przed 1407-po 1418 ( Eryk I Pomorski wg CH.1.Ś.1. )
       Krzysztof z Bawarii           	                  1440-1448 ( wg Tapsella )
       Karol VIII Knutsson         	                    1448-1457 i 1464 -1465 i 1467-1470 ( wg D.Ś. i Tapsella ) ( Charles VIII (Charles VIII Knutsson) wg D.O.T.W.A.C.A.G.H. )
       Chrystian I                        	              1457-1464 i 1465-1467 ( wg D.Ś. ) ( Christian I wg D.O.T.W.A.C.A.G.H. ) [King of Denmark Christian I]
@@ -39406,6 +39506,7 @@ Szwecja ( Sweden , Švédsko , Schweden )
       Newel 1562
       Clontarf 1014
       Moskwa 1612
+      Chojnice 1454, Świecino 1462
 
 Šajzar
   Izz ad-Dín                                            przed 1108 n.e.-? ( wg S.V.D.K.V. )
@@ -39458,6 +39559,7 @@ Księstwo śląskie ( Vévodství slezské , Duchy of Silesia )
                                                         przed 1202-1238 (25.12.-19.3.) ( Henryk I (Henryk, Brodaty, Heinrich I.) wg K.P.S. )
                                                         przed 1227-1238 ( Henryk I Brodaty (Henryk) wg P.K.I.K.P. )
                                                         przed 1208-1238 (24.12-19.3.) ( Henryk I Brodaty (Henryk, Brodaty) wg P.W.O.T. )
+                                                        przed 1225-? ( wg CH.1.Ś.1. )
     Henryk Pobożny                                      1238-1241 ( wg W.W.K.R. ) ( Henryk II Pobożny wg P.K.I.K.P. ) [Książę krakowski]
                                                         przed 1239-1241 (29.6.-9.4.) ( Henryk II Pobożny wg F.H.C.R. )
                                                         ?-1241 (?-9.4.) ( Henryk II Pobożny wg Z.1205 i W.P.P.K.O.S. )
@@ -39480,6 +39582,7 @@ Księstwo śląskie ( Vévodství slezské , Duchy of Silesia )
       Bolesław Krzywousty 1085-1138
       Piastowie. Walka o tron 1138–1320
       The Holy Roman Empire - A Thousand Years of Europe's History
+      Chojnice 1454, Świecino 1462
 
 Ślężanie
   Bibliografia :
@@ -39771,7 +39874,7 @@ Księstwo świdnickie
       Fryderyk I Barbarossa   	                        1152-1190 (?-czerwiec) ( wg K.V. )
                                                         1152-1190 ( wg V.N.M.S.D. i D.Ś. i Tapsella ) ( Friedrich Barbarossa (Fryderyk I, Barbarossa, Hohenstauf, Fryderyk, Fryderyk Barbarossa) wg M.1176 )
                                                         1152-1190 (4.3.-10.6.) ( Fridrich Barbarossa wg F.B.C.A.R. )
-                                                        ? ( Bedřich I Barbarossa wg M.A.E. ) ( Fridrich Barbarossa wg Z.V.C. ) ( Fryderyk I wg Z.N.E. ) ( Barbarossa wg H.S.J.M. ) ( wg O.I.W. )
+                                                        ? ( Bedřich I Barbarossa wg M.A.E. ) ( Fridrich Barbarossa wg Z.V.C. ) ( Fryderyk I wg Z.N.E. ) ( Barbarossa wg H.S.J.M. ) ( wg O.I.W. i CH.1.Ś.1. )
                                                         przed 1157-po 1180 ( Fryderyk Barbarossa (Barbarossa, Fryderyk, Rudobrody) wg P.W.O.T. )
                                                         1151-1190 ( Fridrich I Barbarossa wg D.B. )
                                                         przed 1189-po 1190 ( Fridrich I Barbarossa wg E.P. )
@@ -39827,6 +39930,7 @@ Księstwo świdnickie
                                                         przed 1241-po 1241 (?.4.-?.5.) ( wg L.1241. )
                                                         przed 1236-? ( Fryderyk II Hohenstauf wg Z.1205 )
                                                         przed 1238-? (19.3.-?) ( Fryderyk II Hohenstauf wg K.P.S. )
+                                                        przed 1222-po 1229 ( wg CH.1.Ś.1. )
       Henryk                               	            1220-1235 ( wg D.Ś. )
       Henryk Raspe z Turyngii	                          1246-1247 ( wg D.Ś. i Tapsella )
       Wilhelm z Holandii            	                  1247-1256 ( wg D.Ś. i Tapsella )
@@ -39897,6 +40001,7 @@ Księstwo świdnickie
                                                         1433-1437 (31.5.-?) ( Sigismund wg T.H.R.E.A.T.Y.O.E.H. )
                                                         ?-1437 ( Zygmunt Luksemburski (Zygmunt Luksemburczyk, Luksemburczyk, Sigismund, Sigismund of Luxemburg) wg N.1396 )
                                                         1433-1437 (?-9.12.) ( Zygmunt Luksemburczyk (Zygmunt Luksemburski) wg K.1.X.1. )
+                                                        przed 1418-po 1420 ( Zygmunt Luksemburski wg CH.1.Ś.1. )
       Jodok z Moraw                    	                1410-1411 ( wg D.Ś. i Tapsella )
     Dynastia habsburska ( House of Habsburg , Habsburgowie , Habsburkové , Rod Habsburků , The Hapsburgs , Haus Habsburg , Dynastia Habsburgów , Habsburgs )
       Albrecht II Austriacki	                          1438-1439 ( wg D.Ś. )
@@ -39908,6 +40013,7 @@ Księstwo świdnickie
                                                         1452-1493 ( Frederick III wg D.O.T.W.A.C.A.G.H. ) ( Fridrich III. wg S.V.D.K.V. ) ( Fryderyk III Habsburg wg M.1526 )
                                                         1452-1493 (16.3.-19.8.) ( Fridrich III. (Friedrich III., Fridrich, Fridrich V.) wg M.I.Z.H.S.R. )
                                                         1452-1493 (19.3.-?) ( Frederick III (Frederick, Friedrich III.) wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 1453-? (?.12.-?) ( Fryderyk wg CH.1.Ś.1. )
       Maksymilian I              	                      1493-1519 ( wg D.Ś. i Tapsella )
                                                         1492-1519 ( wg V.N.M.S.D. )
                                                         ?-1519 ( Maximilián wg M.A.E. )
@@ -40077,6 +40183,7 @@ Księstwo świdnickie
       Clontarf 1014
       Lechowe Pole 955
       Koronowo 10 X 1410
+      Chojnice 1454, Świecino 1462
 
 Ta Jüe
   Bibliografia :
@@ -40344,10 +40451,12 @@ Tazos ( Thasos )
   Bibliografia :
       Dzieje Grecji
 
-Księstwo tczewskie
+Księstwo tczewskie ( Księstwo lubiszewsko-tczewskie )
   Sambor II                                             przed 1268 n.e.-? ( wg P.W.O.T. )
+                                                        przed 1251-po 1276 ( wg CH.1.Ś.1. )
   Bibliografia :
       Piastowie. Walka o tron 1138–1320
+      Chojnice 1454, Świecino 1462
 
 Teby ( Théby , Thebes )
   Pentheus        	                                    ? ( wg T.H.S. i Z.Ř. i K.Ř. )
@@ -43256,7 +43365,7 @@ Węgry ( Hungary , Uhry , Hangryn , Hungarian State , Ungarn )
                                                         ?-1204 ( wg Z.1205 )
       Władysław III                	                    1204-1205 ( wg D.Ś. ) ( Ladislas III wg D.O.T.W.A.C.A.G.H. ) ( Ladislav III. wg S.V.D.K.V. )
                                                         1204-? ( wg Z.1205 )
-      Andrzej II                       	                1205-1235 ( wg D.Ś. i V.N.M.S.D. ) ( Andrew II wg D.O.T.W.A.C.A.G.H. ) ( Ondřej II. (Ondřej) wg S.V.D.K.V. )
+      Andrzej II                       	                1205-1235 ( wg D.Ś. i V.N.M.S.D. i CH.1.Ś.1. ) ( Andrew II wg D.O.T.W.A.C.A.G.H. ) ( Ondřej II. (Ondřej) wg S.V.D.K.V. )
       			               	                            ok.1217 ( wg K.V. )
       				                                          przed 1222-? ( Ondřej II wg D.P.I.R.G. ) 
                                                         przed 1203-po 1222 ( wg P.W.O.T. )
@@ -43293,6 +43402,7 @@ Węgry ( Hungary , Uhry , Hangryn , Hungarian State , Ungarn )
                                                         ? ( Karol Robert Andegaweński wg Z.1205 ) ( Karol Robert wg P.K.I.K.P. )
                                                         przed 1330-1342 ( Karol Robert Andegaweński (Karol Robert) wg P.W.O.T. )
                                                         ?-1342 ( Charles II d'Anjou wg T.H.R.E.A.T.Y.O.E.H. )
+                                                        przed 1320-po 1335 ( Karol Robert Andegaweński (Karol Robert) wg CH.1.Ś.1. )
       Ludwik I Wielki    	                              1342-1382 ( wg D.Ś. i V.N.M.S.D. ) ( Ludvík I Veliký wg D.P.I.R.G. ) ( Louis I (Louis I the Great) wg D.O.T.W.A.C.A.G.H. ) ( Ludvík I. Veliký wg S.V.D.K.V. ) ( Ludwik Wielki (Ludwik Węgierski) wg M.1526 ) [King of Poland Louis the Great]
       			        	                                  przed 1366-? ( Ludvík wg D.B. )
       				                                          ? ( Ludvík Veliký wg Z.S.A.V.E. ) ( Ludwik Wielki wg S.II.W.I.J.C.Z.E.M.P. ) ( Ludwik Węgierski wg N.1396 )
@@ -43340,12 +43450,14 @@ Węgry ( Hungary , Uhry , Hangryn , Hungarian State , Ungarn )
                                                         ?-1490 ( Matias Korwin wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1477-1490 (?-6.4.) ( Matyáš Korvín (Matyáš) wg M.I.Z.H.S.R. )
                                                         1458/64-1490 (?/(29.2./29.3.)-6.4.) ( Maciej Korwin (Maciej, Matthias, Matthias Corvinus, Hunyady, Matthias of Hungary) wg M.1526 )
+                                                        przed 1474-? ( Maciej Korwin wg CH.1.Ś.1. )
     Dynastia Jagiellonów ( House of Poland , Jagellonci , Jagiellon family , Jagiellonians , Jagiellonowie , The Jagiellonians , Ród Jagiellonów , Jagellonians )
       Władysław II          	                          1490-1516 ( wg V.N.M.S.D. i D.Ś. ) ( Ladislas Jagiellon wg V.K.T.H.O.H.E. ) ( Vladislas II wg D.O.T.W.A.C.A.G.H. ) ( Vladislav II. Jagellonský wg S.V.D.K.V. ) ( Władysław Jagiellończyk (Władysław II Jagiellończyk, Władysław, Rex Bene, Król "Dobrze") wg K.P.S. ) [King of Bohemia Władysław II]
                                                         1490-? ( Vladislav II wg Z.S.A.V.E. ) ( Władysław wg O.1531 )
                                                         1490-1506 ( Władysław Jagiellończyk (Władysław) wg S.II.W.I.J.C.Z.E.M.P. )
                                                         przed 1491-po 1515 (7.11.-22.7.) ( Vladislav Jagellonský (Vladislav, Vladislav II.) wg M.I.Z.H.S.R. )
                                                         1490/1-1516 (?/przed 7.12.-13.3.) ( Władysław Jagiellończyk (Jagiellończyk, Władysław, Jagiellon, "Dobrze", Władysław II Jagiellończyk) wg M.1526 )
+                                                        ? ( Władysław wg CH.1.Ś.1. )
       Ludwik II                	                        1516-1526 ( wg V.N.M.S.D. i D.Ś. ) ( Louis II wg V.K.T.H.O.H.E. ) ( Ludwik II Jagiellończyk (Ludwik, Ludwik Jagiellończyk) wg K.P.S. ) ( Ludvík Jagellonský (Ludvík) wg M.I.Z.H.S.R. ) ( Louis II (Louis) wg T.H.R.E.A.T.Y.O.E.H. ) ( Ludvík II. Jagellonský ( Ludvík Jagellonský ) wg S.V.D.K.V. ) [King of Bohemia Louis]
                                                         ?-1526 (?-29.8.) ( wg 100.N.V.S. i D.P.I.R.G. i H.W. ) ( Ludwik Jagiellończyk wg O.1531 )
                                                         ?-1526 ( Ludvík wg Z.S.A.V.E. )
@@ -43442,6 +43554,7 @@ Węgry ( Hungary , Uhry , Hangryn , Hungarian State , Ungarn )
       Kraj Głomaczów 1003
       Lechowe Pole 955
       Koronowo 10 X 1410
+      Chojnice 1454, Świecino 1462
 
 Węgrzy ( Hungarians , Maďaři , Magyars , Hungarians , Ungari , Ungare , Awari , Ungri , Turki , Magyaren )
   grand princes
@@ -43695,6 +43808,7 @@ Księstwo wielkopolskie ( Velkopolské knížectví )
     Przemysł II                                         przed 1287-1296 (24.4.-?.2.) ( Przemysł wg K.P.S. ) [King of Poland]
                                                         ? ( Przemysław II (Przemysław) wg P.K.I.K.P. )
                                                         przed 1273-1296 (24.4.-8.2.) ( Przemysł (Przemysł II wielkopolski, Przemysł wielkopolski) wg P.W.O.T. )
+                                                        przed 1295-1296 ( Przemysław II wg CH.1.Ś.1. )
     Władysław Łokietek                                  przed 1296-? i 1313-po 1320 (? i ?-20.1.) ( Władysław (Łokietek) wg P.W.O.T. )
   Bibliografia :
       Legnica 1241
@@ -43705,6 +43819,7 @@ Księstwo wielkopolskie ( Velkopolské knížectví )
       Rugia 1168
       Bolesław Krzywousty 1085-1138
       Piastowie. Walka o tron 1138–1320
+      Chojnice 1454, Świecino 1462
 
 Księstwo wieluńskie
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
@@ -44539,7 +44654,8 @@ Zakon Kawalerów Mieczowych ( Kawalerowie Mieczowi , Zakon Inflancki , Fratres m
       Vanished Kingdoms - The History of Half-Forgotten Europe
       Newel 1562
 
-Zakon Maltański ( Zakon Kawalerów Rodyjskich , Joannici , Kawalerowie Maltańscy , Zakon Joannitów , Řád svatého Jana , Rytíři sv. Jana , Zakon Rycerzy Szpitala św. Jana w Jerozolimie )
+Zakon Maltański ( Zakon Kawalerów Rodyjskich , Joannici , Kawalerowie Maltańscy , Zakon Joannitów , Řád svatého Jana , Rytíři sv. Jana , Zakon Rycerzy Szpitala św. Jana w Jerozolimie , Szpital św.Jana Chrzciciela )
+  Rajmund du Puy                                        ok.1130 ( wg CH.1.Ś.1. )
   Fulko de Navarret                                     przed 1311 n.e.-? ( wg N.1396 )
   Filibert de Naillac                                   1396-po 1397 (?.3.-?) ( wg N.1396 )
   Philippe de l'isle Adam                               przed 1522-? (?.12.-?) ( wg S.II.W.I.J.C.Z.E.M.P. )
@@ -44550,6 +44666,7 @@ Zakon Maltański ( Zakon Kawalerów Rodyjskich , Joannici , Kawalerowie Maltańs
       Sulejman II Wspaniały i jego czasy - Złota epoka muzułmańskiej Porty
       Nikopolis 1396
       Mohacz 1526
+      Chojnice 1454, Świecino 1462
 
 Zambia
   Bibliografia :
@@ -44879,22 +44996,27 @@ Państwo Zijarydów
   Bibliografia :
       Burzliwe dzieje Kalifatu Bagdadzkiego
 
-Księstwo żagańskie
+Księstwo żagańskie ( Księstwo żegańskie )
   Dynastia Piastów ( House of Piast , Piastowie , Ród Piastów , Dom Piastów , Piastowicze , Dynastia Piastowska )
     Konrad żagański                                     ?-1304 n.e. ( Konrad wg K.P.S. )
     Henryk IV Wierny                                    1312-? ( Henryk Wierny (Henryk IV głogowsko-żagański) wg K.P.S. ) [Książę poznański]
     Henryk V Żelazny                                    przed 1343-1369 (?.7.-13.6.) ( Henryk żagański (Henryk Katheran, Henryk, Henryk Żelazny, Henryk V) wg K.P.S. ) [Książę głogowski]
                                                         przed 1355-? ( wg P.W.O.T. )
-    Jan I                                               ? ( Jan I żagański wg K.P.S. )
+    Jan I                                               ? ( Jan I żagański wg K.P.S. ) ( wg CH.1.Ś.1. )
     Wacław                                              ? ( wg K.P.S. ) [Książę na Przewozie]
+                                                        1439-1449 ( wg CH.1.Ś.1. )
     Baltazar                                            przed 1449-po 1454 i przed 1460-1461 i przed 1469-1472 (? i ?-po ?.8. i 31.5.-po 7.5.) ( Baltazar żagański wg K.P.S. )
+                                                        1439-po 1458 (?-wiosna) ( wg CH.1.Ś.1. )
     Rudolf                                              1454 ( wg K.P.S. )
+                                                        1439-1454 (?-18.9.) ( Rudolf żagański (Baltazar) wg CH.1.Ś.1. )
     Jan II                                              przed 1458-? i 1461-po 1466 i 1472-? (19.3.-? i ?-koniec i przed 15.7.-?) ( Jan (Jan żagański, Jan II żagański, Jan bez Ziemi, Jan II Żagański) wg K.P.S. ) [Książę głogowski] [Książę na Przewozie]
+                                                        1439-1449 ( wg CH.1.Ś.1. )
     Ernest                                              przed 1474-? (?.9.-?) ( wg K.P.S. ) [Elektor Saksonii Ernest]
     Albrecht                                            przed 1474-? (?.9.-?) ( wg K.P.S. ) [Duke of Saxony Albrecht Odważny]
   Bibliografia :
       Książęta piastowscy Śląska
       Piastowie. Walka o tron 1138–1320
+      Chojnice 1454, Świecino 1462
 
 Żmudź ( Żmudzini )
   Erdiwił                                               przed 1219 n.e.-? ( wg L.P.P. )
@@ -45154,5 +45276,6 @@ Bibliografia :
     [216] Moskwa 1612 ; Tomasz Bohun ; 2023
     [217] Chocim 1673 ; Damian Orłowski ; 2022
     [218] Koronowo 10 X 1410 ; Piotr Derdej ; 2023
+    [219] Chojnice 1454, Świecino 1462 ; Bernard Nowaczyk ; 2024
   Źródła internetowe :
     [1] Encyklopedie panovníků , http://www.panovnici.kvalitne.cz/

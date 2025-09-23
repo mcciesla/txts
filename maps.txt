@@ -731,6 +731,7 @@
     - Pieninský národný park - Pieniński Park Narodowy ; VKÚ Harmanec ; 7 ; 1:25000
     - Pieniny + Szczawnica + Krościenko nad Dunajcem ; Galileos ; Wydawnictwo turystyczne Plan ; 1:25000
     - Pieniński Park Narodowy ; Wydawnictwo Gauss ; 1:20000/1:70000
+    - Pogórze Przemyskie - Bieszczady ; Demart ; 1:75000
     - Slezské Beskydy a Jablunkovsko ; VKÚ Harmanec ; Edice KČT ; 97 ; 1:50000
     - Spišská Magura - Pieniny ; VKÚ Harmanec ; 103 ; 1:50000
     - Tatry ; Demart ; 1:20000

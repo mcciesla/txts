@@ -324,6 +324,7 @@ POP.SCIENCE :
         Burza Nad Pacyfikiem Tom II ; Zbigniew Flisowski
         Burzliwe dzieje Kalifatu Bagdadzkiego ; Jerzy Hauziński
         Chlodwik król Franków ; Michel Rouche
+        Chojnice 1454, Świecino 1462 ; Bernard Nowaczyk
         Chocim 1673 ; Damian Orłowski
         Clontarf 1014 ; Cezary Namirski
         Concertina ; Olgierd Terlecki
@@ -1037,6 +1038,7 @@ Henry , O. - Księżniczka i puma - POL
 Herbert , Frank - Children of Dune - O
                 - Dune - O
                 - Dune Messiah - O
+                - God Emperor of Dune - O
 Herlihy , James Leo - Nocny kowboj - POL
 Hofman , Ota - Pan Tau a tisíc zázraků - O
 Horečka , František - Janek i skarb - POL

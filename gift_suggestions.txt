@@ -206,6 +206,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Svět helénismu - Pavel Oliva
       - Rýžoviště zlata a doly drahokamů - Abú al-Hasan Alí ibn al-Husajn ibn Alí al-Mas'údí
       - Dějiny Japonska - Zdeňka Vasiljevová
+      - Války rudého muže - Miloslav Stingl
       - Effective Modern C++ - Scott Meyers
       - Exceptional C++ - Herb Sutter
       - More Exceptional C++ - Herb Sutter
