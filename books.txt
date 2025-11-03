@@ -418,6 +418,7 @@ POP.SCIENCE :
         Pírátství - Úplné dějiny ; Angus Konstam
         Plachetnice ; Karl-Heinz Wieland
         Poczet Cesarzy Rzymskich ; Aleksander Krawczuk
+        Poczet faraonów - życie, legenda, odkrycia ; Bogusław Kwiatkowski
         Poczet Królów i Książąt Polskich ; Jan Matejko , Jan Gintel
         Poczet Wielkich Mistrzów Krzyżackich ; Paweł Pizuński
         Polacy w bitwie o Narwik ; Witold Biegański
@@ -448,6 +449,7 @@ POP.SCIENCE :
         Szkice spod Monte Cassino ; Melchior Wańkowicz
         Table of Monarchs of Chinese Successive Dynasties ; China Nationality Art Photograph Publishing House
         Tamerlane - Sword of Islam, Conqueror of the World ; Justin Marozzi
+        The Fall of Rome and the End of Civilization ; Bryan Ward-Perkins
         The Holy Roman Empire - A Thousand Years of Europe's History ; Peter H. Wilson
         The Picts ; Benjamin Hudson
         Thrákové ; Jan Bouzek
