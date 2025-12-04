@@ -541,6 +541,7 @@ POP.SCIENCE :
         The Elephant in the Brain - Hidden Motives in Everyday Life ; Kevin Simler , Robin Hanson
         Thinking Fast and Slow ; Daniel Kahneman
     SOCIOLOGIA:
+        Conspicuous Consumption [extract from The Theory of the Leisure Class] ; Thorstein Veblen
         Enlightenment Now - The Case For Reason, Science, Humanism, and Progress ; Steven Pinker
         Outliers - The Story of Success ; Malcolm Gladwell
         The Better Angels of Our Nature - A History of Violence and Humanity ; Steven Pinker
@@ -1369,8 +1370,9 @@ Lem , Stanisław - Astronauci - O
                 - Teksty Ostatnie - O
                 - Wielkość urojona - O
                 - Wysoki Zamek - O
-Liu , Cixin - The Dark Forest - ENG
-              The Three-Body Problem - ENG
+Liu , Cixin - Death's End - ENG
+            - The Dark Forest - ENG
+            - The Three-Body Problem - ENG
 Lofting , Hugh - Doktor Dolittle i zielona kanarzyca - POL
 Lomová , Ivana ; Lomová , Lucie - Anča a Pepík na stopě - O
 London , Jack - Córka śniegów - POL

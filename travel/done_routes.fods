@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2025-02-11T18:10:31.869803000</meta:creation-date><dc:date>2025-11-01T19:53:19.580268600</dc:date><meta:editing-duration>P3DT17H53M</meta:editing-duration><meta:editing-cycles>33</meta:editing-cycles><meta:generator>LibreOffice/25.2.6.2$Windows_X86_64 LibreOffice_project/729c5bfe710f5eb71ed3bbde9e06a6065e9c6c5d</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="189" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2025-02-11T18:10:31.869803000</meta:creation-date><dc:date>2025-12-04T09:18:56.602517400</dc:date><meta:editing-duration>P3DT19H55M40S</meta:editing-duration><meta:editing-cycles>42</meta:editing-cycles><meta:generator>LibreOffice/25.2.6.2$Windows_X86_64 LibreOffice_project/729c5bfe710f5eb71ed3bbde9e06a6065e9c6c5d</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="219" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">34002</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">17639</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">19971</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">20348</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Walking routes">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">38</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">44</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -31,7 +31,7 @@
       </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">Walking routes</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">3754</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">2483</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -232,7 +232,7 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="co1" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.1583in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.0484in"/>
   </style:style>
   <style:style style:name="co2" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
@@ -241,7 +241,7 @@
    <style:table-column-properties fo:break-before="auto" style:column-width="2.1472in"/>
   </style:style>
   <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="7.3035in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.2972in"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
@@ -315,7 +315,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2025-11-01">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="19:51:57.188826400">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2025-12-04">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="07:27:01.286961200">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -334,6 +334,7 @@
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="ce3"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="7" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -351,6 +352,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Route file</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">Holý</text:span> a Benešovská pahorkatina</text:p>
@@ -367,6 +369,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_02_07-08_benesovska_pahorkatina_holy.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -381,6 +384,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_02_16_skalka.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -395,6 +399,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_02_23_bindowa_kepa.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -409,6 +414,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_03_07_velky_choc.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -423,6 +429,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_03_08_tarbucka.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -437,6 +444,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_03_09_rozhladna.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -454,6 +462,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_03_14-18_tenerife_with_teide.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -468,6 +477,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_03_19_palmetum.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -482,6 +492,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_04_19_matera.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -499,6 +510,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_04_20-21_ostuni.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -516,6 +528,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_05_01-04_vaalserberg_i_botrange.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -530,6 +543,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_05_08_skradinski_buk.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -544,6 +558,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_05_09_kudin_most.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -558,6 +573,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_05_09_visoki_buk.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -575,6 +591,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_05_10-11_dinara.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -589,6 +606,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_05_17_milesovka.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -603,6 +621,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_05_25_vysoka.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -617,6 +636,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_05_31_zamek_rabsztyn.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -631,6 +651,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_05_31_dabrowka.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -645,6 +666,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_05_31_gora_zamkowa.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -659,6 +681,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_05_31_zamek_w_smoleniu.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -673,6 +696,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_06_09_stonavsky.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -687,6 +711,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_06_20_corfu_old_town.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -704,6 +729,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_06_20-21_pantokrator.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -718,6 +744,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_06_22_monastery_of_paleokastritsa.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -732,6 +759,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_07_06_decinsky_sneznik.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -746,6 +774,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_07_19_gorka_szczesliwicka.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -760,6 +789,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_07_20_palmiry.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -774,6 +804,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_08_02_luz_a_penkavci_vrch.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -791,6 +822,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_08_15-17_schneeberg.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -808,6 +840,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_09_11-13_gerlachovsky_stit.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -822,6 +855,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_09_20_halda_ema.gpx</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -833,7 +867,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/matagehoca</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_10_11_slunecna.gpx</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -848,7 +885,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/lefetopuco</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_10_11-12_sternberk.gpx</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -860,7 +900,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/nenerupaso</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_10_12_olomouc.gpx</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -872,7 +915,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/loteduhafu</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_10_23_ladvi.gpx</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -884,7 +930,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/becanovubu</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_10_25_ramza.gpx</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -896,7 +945,88 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hefuvuhebo</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/mcciesla/txts/blob/master/travel/done_routes/2025_11_1_hostibejk_i_kopec.gpx</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Puig Major – espolo NE</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="date" office:date-value="2025-11-04" calcext:value-type="date">
+      <text:p>2025-11-04</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="date" office:date-value="2025-11-05" calcext:value-type="date">
+      <text:p>2025-11-05</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/nanokuhenu</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Beskid</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="date" office:date-value="2025-11-16" calcext:value-type="date">
+      <text:p>2025-11-16</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mubucofoha</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Port Louis i Fort Adelaide</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="date" office:date-value="2025-11-24" calcext:value-type="date">
+      <text:p>2025-11-24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/jazodojaga</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Piton de la Petite Rivière Noire</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="date" office:date-value="2025-11-25" calcext:value-type="date">
+      <text:p>2025-11-25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="date" office:date-value="2025-11-26" calcext:value-type="date">
+      <text:p>2025-11-26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/nobabemuke</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Le Morne viewpoints and beach</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="date" office:date-value="2025-11-27" calcext:value-type="date">
+      <text:p>2025-11-27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/bujekomebo</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Seven Coloured Earths and Chamarel Waterfall</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="date" office:date-value="2025-11-28" calcext:value-type="date">
+      <text:p>2025-11-28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/kukokopako</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
     </table:table-row>
    </table:table>
    <table:named-expressions/>
