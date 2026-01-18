@@ -64,6 +64,7 @@ Jean Van Hamme , Grzegorz Rosiński - Thorgal - 2. Wyspa wśród lodów
                                              - 3. Trzej starcy z kraju Aran
                                              - 4. Czarna galera
                                              - 5. Ponad krainą cieni
+                                             - 6. Upadek Brek Zarith
                                              - 7. Gwiezdne dziecko
                                              - 9. Łucznicy
                                              - 10. Kraina Qa
@@ -601,7 +602,7 @@ FICTION:
 ? - Zamarovský , Vojtech - Gilgameš - SVK
   - International Bible Students Association - Mój zbiór opowieści biblijnych - POL
   - Cook , Robert - Njal's Saga - EN
-  - Jesse L. Byock - The Saga of the Volsungs - The legend of Sigurd the Dragon Slayer and the magic ring of power - EN
+  - Byock, Jesse L. - The Saga of the Volsungs - The legend of Sigurd the Dragon Slayer and the magic ring of power - EN
   - Örnólfur Thorsson , Jane Smiley , Robert Kellogg - The Sagas of the Icelanders - EN
                                                                         - Egil's Saga (Egils saga Skallagrímssonar) - EN
                                                                         - The Saga of the People of Vatnsdal (Vatnsdæla saga) - EN
@@ -1042,6 +1043,7 @@ Henry , O. - Księżniczka i puma - POL
 Herbert , Frank - Children of Dune - O
                 - Dune - O
                 - Dune Messiah - O
+                - Heretics of Dune - O
                 - God Emperor of Dune - O
 Herlihy , James Leo - Nocny kowboj - POL
 Hofman , Ota - Pan Tau a tisíc zázraků - O
@@ -1987,6 +1989,7 @@ Van Hamme , Jean ; Rosiński , Grzegorz - Thorgal - 1. Zdradzona czarodziejka - 
                                                  - 3. Trzej starcy z kraju Aran - POL
                                                  - 4. Czarna galera - POL
                                                  - 5. Ponad krainą cieni - POL
+                                                 - 6. Upadek Brek Zarith - POL
                                                  - 7. Gwiezdne dziecko - POL
                                                  - 8. Alinoe - POL
                                                  - 9. Łucznicy - POL
@@ -1996,6 +1999,16 @@ Van Hamme , Jean ; Rosiński , Grzegorz - Thorgal - 1. Zdradzona czarodziejka - 
                                                  - 13. Między ziemią a światłem - POL
                                                  - 14. Aaricia - POL
                                                  - 15. Władca gór - POL
+                                                 - 16. Wilczyca - POL
+                                                 - 17. Strażniczka kluczy - POL
+                                                 - 18. Słoneczny miecz - POL
+                                                 - 19. Niewidzialna forteca - POL
+                                                 - 20. Piętno wygnańców - POL
+                                                 - 21. Korona Ogotaia - POL
+                                                 - 22. Giganci - POL
+                                                 - 23. Klatka - POL
+                                                 - 24. Arachnea - POL
+                                                 - 25. Błękitna zaraza - POL
 Van Tilburg Clark , Walter - Indiańska studnia - POL
 Verne , Jules - Děti kapitána Granta - CZ
               - Dva roky prázdnin - CZ

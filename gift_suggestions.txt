@@ -1,8 +1,5 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
-      - The Genetic Book of the Dead: A Darwinian Reverie - Richard Dawkins
-      - When Everyone Knows That Everyone Knows: Common Knowledge and the Mysteries of Money, Power, and Everyday Life - Steven Pinker
-      - Life Ascending: The Ten Great Inventions of Evolution - Nick Lane
-      - The Self-Made Tapestry: Pattern Formation in Nature - Philip Ball
+      - Beyond the God Particle (Dalej niż boska cząstka) - Christopher Hill, Leon Lederman
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
       - Reading in the Brain: The New Science of How We Read - Stanislas Dehaene
       - Cell Biology by the Numbers - Ron Milo, Rob Phillips
@@ -17,7 +14,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Genesis - Bernard Beckett
       - Category Theory for Programmers - Bartosz Milewski
       - Causality: Models, Reasoning, and Inference - Judea Pearl
-      - Sea People: The Puzzle of Polynesia - Christina Thompson
+      - Sea People: The Puzzle of Polynesia - Christina Thompson - Magda
       - The Power of Babel: A Natural History of Language - John McWhorter
       - Assembling Life: How Can Life Begin on Earth and Other Habitable Planets? - David W. Deamer
       - The Enigma of Reason - Dan Sperber, Hugo Mercier
@@ -29,6 +26,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
       - The Empire of the Steppes: A History of Central Asia - René Grousset
       - Asyria. Powstanie i upadek pierwszego imperium w historii świata - Eckart Frahm
+      - Anglosasi. Historia początków Anglii - Marc Morris
       - Masters of Doom - David Kushner
       - Babilon 729-648 p.n.e. - Piotr Biziuk
       - Wojny markomańskie 162-185 n.e. - Marek Olędzki
@@ -53,6 +51,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Połabie 983 - Robert F. Barkowski
       - Aleksandria 1365 - Łukasz Burkiewicz
       - Kleidion 1014 - Łukasz Migniewicz
+      - Bosworth 1485 - Jarosław Wojtczak
       - The Periodic Table - Primo Levi
       - Who’s #1? The Science of Rating and Ranking - Amy Langville , Carl Meyer
       - Haskell Programming from first principles - Christopher Allen, Julie Moronuki
@@ -79,6 +78,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Wyprawa sycylijska 415-413 p.n.e. - Grzegorz Lach
       - Psków 1581-1582 - Dariusz Kupisz
       - Przemyśl 1656-1657 - Andrzej Borcz
+      - Budziszyn 1002-1018 - Robert F. Barkowski
       - Alezja 52 p.n.e. - Tomasz Romanowski
       - Let Over Lambda - Doug Hoyte
       - Surfing Uncertainty: Prediction, Action, and the Embodied Mind - Andy Clark
@@ -109,6 +109,9 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Batoh 1652 - Wojciech Jacek Długołęcki
       - Nakło 1109 - Mariusz Samp
       - Ateny-Sparta 431-404 p.n.e - Ryszard Kulesza
+      - Naseby 1645 - Jarosław Wojtczak
+      - Ankara 1402 - Stanisław Rek
+      - Lützen 1632 - Marek Wagner
       - Imperium mongolskie - Stanisław Kałużyński
       - Life's Engines: How Microbes Made Earth Habitable - Paul G. Falkowski
       - Poczet wielkich mistrzów krzyżackich - Paweł Pizuński
@@ -239,6 +242,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
                                   - 3. Nad jeziorem bez dna
                                   - 4. Czarna galera
                                   - 5. Ponad krainą cieni
+                                  - 6. Upadek Brek Zarith
                                   - 7. Gwiezdne dziecko
                                   - 8. Alinoe
                                   - 9. Łucznicy
@@ -248,11 +252,16 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
                                   - 13. Między ziemią a światłem
                                   - 14. Aaricia
                                   - 15. Władca gór
+                                  - 16. Wilczyca
+                                  - 17. Strażniczka kluczy
                                   - 18. Słoneczny miecz
                                   - 19. Niewidzialna forteca
                                   - 20. Piętno wygnańców
                                   - 21. Korona Ogotaia
                                   - 22. Giganci
+                                  - 23. Klatka
+                                  - 24. Arachnea
+                                  - 25. Błękitna zaraza
 movies - The Act of Killing - Joshua Oppenheimer
        - The Look of Silence - Joshua Oppenheimer
        - Joseph Campbell and the Power of Myth
