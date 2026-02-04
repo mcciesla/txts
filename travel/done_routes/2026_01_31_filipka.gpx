@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://mapy.com/">
+	<wpt lat="49.613735" lon="18.739477">
+		<ele>359.884491</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.613640" lon="18.739662">
+		<ele>360.196075</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614002" lon="18.739594">
+		<ele>360.909393</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614080" lon="18.739813">
+		<ele>362.136230</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614200" lon="18.740908">
+		<ele>371.320648</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614304" lon="18.744995">
+		<ele>398.298035</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614315" lon="18.745665">
+		<ele>402.523407</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.613934" lon="18.749006">
+		<ele>437.657898</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.613180" lon="18.750278">
+		<ele>449.200012</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614014" lon="18.750900">
+		<ele>466.517029</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615350" lon="18.751554">
+		<ele>486.655518</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616405" lon="18.753792">
+		<ele>512.478271</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614796" lon="18.755573">
+		<ele>532.839539</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614788" lon="18.755241">
+		<ele>534.094788</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614788" lon="18.754753">
+		<ele>536.581787</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614773" lon="18.754313">
+		<ele>539.575806</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614765" lon="18.753954">
+		<ele>540.765503</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614730" lon="18.753723">
+		<ele>541.000000</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614758" lon="18.753904">
+		<ele>540.850342</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614784" lon="18.754120">
+		<ele>540.216003</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614796" lon="18.754484">
+		<ele>538.206665</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614810" lon="18.755037">
+		<ele>535.036438</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614796" lon="18.755428">
+		<ele>533.474915</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614773" lon="18.755611">
+		<ele>532.882446</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614475" lon="18.756410">
+		<ele>533.764709</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614254" lon="18.757725">
+		<ele>543.771057</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.610980" lon="18.760960">
+		<ele>559.985657</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.611530" lon="18.763020">
+		<ele>571.759460</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.611618" lon="18.763819">
+		<ele>580.680237</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.612144" lon="18.765888">
+		<ele>602.350708</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614536" lon="18.768640">
+		<ele>642.819763</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.613647" lon="18.767601">
+		<ele>652.420654</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.613823" lon="18.767601">
+		<ele>657.535461</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614000" lon="18.767601">
+		<ele>664.179993</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614197" lon="18.767610">
+		<ele>668.918701</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614395" lon="18.767664">
+		<ele>672.806274</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614510" lon="18.767683">
+		<ele>673.452271</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614510" lon="18.767591">
+		<ele>675.171021</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614548" lon="18.767542">
+		<ele>675.778076</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614502" lon="18.767536">
+		<ele>675.585815</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614510" lon="18.767447">
+		<ele>675.568726</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614600" lon="18.767460">
+		<ele>675.502014</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614594" lon="18.767492">
+		<ele>675.649109</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614500" lon="18.767460">
+		<ele>675.536560</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614500" lon="18.767563">
+		<ele>675.459778</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614580" lon="18.767637">
+		<ele>674.758545</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614754" lon="18.767668">
+		<ele>673.804993</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.614906" lon="18.767735">
+		<ele>672.546143</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615086" lon="18.767790">
+		<ele>671.606567</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615227" lon="18.767841">
+		<ele>671.000061</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615368" lon="18.767828">
+		<ele>671.130981</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615550" lon="18.767843">
+		<ele>670.053589</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615456" lon="18.767742">
+		<ele>671.619934</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615550" lon="18.767862">
+		<ele>670.053589</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615635" lon="18.768019">
+		<ele>667.000854</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615723" lon="18.768223">
+		<ele>662.686523</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615833" lon="18.768461">
+		<ele>652.454834</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615940" lon="18.768715">
+		<ele>645.561157</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616035" lon="18.768936">
+		<ele>641.018433</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616120" lon="18.769148">
+		<ele>637.372253</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616200" lon="18.769173">
+		<ele>637.190674</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616210" lon="18.768982">
+		<ele>638.125671</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616200" lon="18.769188">
+		<ele>637.123901</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616420" lon="18.769453">
+		<ele>636.124268</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616566" lon="18.769869">
+		<ele>637.184021</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616688" lon="18.770151">
+		<ele>639.641602</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616913" lon="18.770750">
+		<ele>645.180603</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.617146" lon="18.771173">
+		<ele>650.802979</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.617535" lon="18.772053">
+		<ele>663.243408</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.617990" lon="18.773024">
+		<ele>673.761780</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.618248" lon="18.774000">
+		<ele>679.619263</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.618385" lon="18.774000">
+		<ele>680.287720</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.618385" lon="18.774134">
+		<ele>680.926636</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.618393" lon="18.774280">
+		<ele>681.400024</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.618410" lon="18.774418">
+		<ele>681.807373</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.618435" lon="18.774601">
+		<ele>682.149902</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.618435" lon="18.774721">
+		<ele>682.149841</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.619762" lon="18.776535">
+		<ele>688.745239</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.619150" lon="18.784994">
+		<ele>731.498230</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.618435" lon="18.787178">
+		<ele>739.018250</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.618260" lon="18.787312">
+		<ele>736.833069</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.617050" lon="18.788250">
+		<ele>745.367493</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616650" lon="18.788448">
+		<ele>746.000000</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616550" lon="18.788485">
+		<ele>745.864990</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616530" lon="18.788412">
+		<ele>745.781738</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.616535" lon="18.788494">
+		<ele>745.821960</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.615635" lon="18.789623">
+		<ele>746.828613</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.613790" lon="18.790222">
+		<ele>768.819153</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.612804" lon="18.787926">
+		<ele>718.058105</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.609245" lon="18.780850">
+		<ele>632.848450</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.609080" lon="18.780485">
+		<ele>633.868774</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.608994" lon="18.780249">
+		<ele>635.284668</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.608498" lon="18.779274">
+		<ele>642.532532</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.608578" lon="18.779264">
+		<ele>643.410278</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.608480" lon="18.779156">
+		<ele>643.805969</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.608437" lon="18.779190">
+		<ele>643.265320</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.606190" lon="18.777327">
+		<ele>624.671143</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.606090" lon="18.777313">
+		<ele>624.191772</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605927" lon="18.777250">
+		<ele>623.771240</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605800" lon="18.777163">
+		<ele>624.190430</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605720" lon="18.777056">
+		<ele>625.723083</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605656" lon="18.776964">
+		<ele>626.633606</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605556" lon="18.776894">
+		<ele>627.077576</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605503" lon="18.776854">
+		<ele>627.083252</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605446" lon="18.776825">
+		<ele>625.984192</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605354" lon="18.776781">
+		<ele>624.335815</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605247" lon="18.776740">
+		<ele>622.186157</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605150" lon="18.776680">
+		<ele>619.851807</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605080" lon="18.776628">
+		<ele>617.032593</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605007" lon="18.776527">
+		<ele>614.377747</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604960" lon="18.776386">
+		<ele>611.854248</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604900" lon="18.776215">
+		<ele>610.750610</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604800" lon="18.776138">
+		<ele>610.753479</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604702" lon="18.776073">
+		<ele>611.259949</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604580" lon="18.775963">
+		<ele>612.200073</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604538" lon="18.775900">
+		<ele>612.613770</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604500" lon="18.775915">
+		<ele>611.947205</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604527" lon="18.775799">
+		<ele>613.392090</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604584" lon="18.775711">
+		<ele>611.976990</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604660" lon="18.775623">
+		<ele>609.995605</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604740" lon="18.775524">
+		<ele>607.711670</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604782" lon="18.775467">
+		<ele>605.516846</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.605050" lon="18.775692">
+		<ele>605.364929</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.604774" lon="18.775470">
+		<ele>605.785522</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.603930" lon="18.774864">
+		<ele>597.393799</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.603584" lon="18.774780">
+		<ele>596.814209</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.603596" lon="18.774729">
+		<ele>596.835327</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.603565" lon="18.774765">
+		<ele>596.851746</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.602830" lon="18.773798">
+		<ele>587.768372</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.602950" lon="18.773740">
+		<ele>587.029297</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.603085" lon="18.773699">
+		<ele>586.020264</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.602950" lon="18.773748">
+		<ele>587.152405</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.602810" lon="18.773788">
+		<ele>587.554871</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.602703" lon="18.773573">
+		<ele>584.548279</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.599970" lon="18.772984">
+		<ele>527.554443</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.597370" lon="18.771250">
+		<ele>486.903595</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.597202" lon="18.771116">
+		<ele>485.311371</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.596485" lon="18.771069">
+		<ele>480.252319</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.596745" lon="18.770166">
+		<ele>479.117737</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.596030" lon="18.768322">
+		<ele>486.585327</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595497" lon="18.767050">
+		<ele>502.331970</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595345" lon="18.767206">
+		<ele>502.302307</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595257" lon="18.767319">
+		<ele>501.886292</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595158" lon="18.767437">
+		<ele>501.507935</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595108" lon="18.767536">
+		<ele>501.245850</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595108" lon="18.767630">
+		<ele>501.186646</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595130" lon="18.767479">
+		<ele>501.317841</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595230" lon="18.767372">
+		<ele>501.714630</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595325" lon="18.767248">
+		<ele>502.218750</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595430" lon="18.767117">
+		<ele>502.425934</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595516" lon="18.767096">
+		<ele>502.102112</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595577" lon="18.767036">
+		<ele>501.924774</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595560" lon="18.766973">
+		<ele>502.209595</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595524" lon="18.766922">
+		<ele>502.548126</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.595310" lon="18.766508">
+		<ele>500.815491</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.594810" lon="18.765192">
+		<ele>486.061615</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.593933" lon="18.766178">
+		<ele>487.540680</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.593033" lon="18.763674">
+		<ele>468.725525</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.590973" lon="18.758532">
+		<ele>415.656708</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.590668" lon="18.757600">
+		<ele>404.277069</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.589916" lon="18.755905">
+		<ele>387.979828</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.589813" lon="18.755670">
+		<ele>385.652832</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.589752" lon="18.755594">
+		<ele>384.856506</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.589760" lon="18.755428">
+		<ele>382.701782</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.589836" lon="18.755348">
+		<ele>382.401642</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.589830" lon="18.755156">
+		<ele>381.652618</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.590126" lon="18.754780">
+		<ele>381.611206</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.590120" lon="18.754644">
+		<ele>381.600006</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="49.590034" lon="18.754412">
+		<ele>381.191528</ele>
+		<name>New marker</name>
+	</wpt>
+</gpx>
+
