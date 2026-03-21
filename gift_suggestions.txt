@@ -1,6 +1,7 @@
 books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Beyond the God Particle (Dalej niż boska cząstka) - Christopher Hill, Leon Lederman
       - Yanomamo: The Fierce People - Napoleon A. Chagnon
+      - Parasite Rex: Inside the Bizarre World of Nature's Most Dangerous Creatures - Carl Zimmer
       - Reading in the Brain: The New Science of How We Read - Stanislas Dehaene
       - Cell Biology by the Numbers - Ron Milo, Rob Phillips
       - The Origin and Nature of Life on Earth: The Emergence of the Fourth Geosphere - Eric Smith, Harold J. Morowitz
@@ -14,14 +15,16 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Genesis - Bernard Beckett
       - Category Theory for Programmers - Bartosz Milewski
       - Causality: Models, Reasoning, and Inference - Judea Pearl
-      - Sea People: The Puzzle of Polynesia - Christina Thompson - Magda
       - The Power of Babel: A Natural History of Language - John McWhorter
       - Assembling Life: How Can Life Begin on Earth and Other Habitable Planets? - David W. Deamer
       - The Enigma of Reason - Dan Sperber, Hugo Mercier
       - The Plague Cycle: The Unending War Between Humanity and Infectious Disease - Charles Kenny
+      - Consciousness Explained - Daniel Dennett
       - Chemistry Of Life (4th edition or later) - Steven Rose
       - Molecular Biology of the Gene (7th edition or later) -  James Watson, Tania Baker, Stephen Bell, Alexander Gann, Michael Levine, Richard Losick
+      - Singularities: Landmarks on the Pathways of Life - Christian de Duve
       - Micromotives and Macrobehavior - Thomas C. Schelling
+      - The Way of the Cell: Molecules, Organisms, and the Order of Life - Franklin M. Harold
       - Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy - Richard Hanania
       - Human Diversity: Gender, Race, Class, and Genes - Charles Murray
       - The Empire of the Steppes: A History of Central Asia - René Grousset
@@ -58,6 +61,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - The Haskell Road to Logic, Maths and Programming - Kees Doets, Jan van Eijck
       - The Little Schemer - Daniel P. Friedman, Matthias Felleisen
       - The Seasoned Schemer - Daniel P. Friedman, Matthias Felleisen
+      - Power, Sex, Suicide: Mitochondria and the Meaning of Life - Nick Lane
       - Artificial Intelligence for Humans, Volume 1: Fundamental Algorithms - Jeff Heaton
       - Artificial Intelligence for Humans, Volume 2: Nature-Inspired Algorithms - Jeff Heaton
       - Artificial Intelligence for Humans, Volume 3: Deep Learning and Neural Networks - Jeff Heaton
@@ -114,16 +118,19 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Lützen 1632 - Marek Wagner
       - Imperium mongolskie - Stanisław Kałużyński
       - Life's Engines: How Microbes Made Earth Habitable - Paul G. Falkowski
+      - Francis Crick: Discoverer of the Genetic Code - Matt Ridley
       - Poczet wielkich mistrzów krzyżackich - Paweł Pizuński
       - The Science of Human Intelligence - Richard J. Haier, Roberto Colom, Earl Hunt
       - Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought - George C. Williams
       - The Nurture Assumption - Judith Rich Harris
       - A Profile of Mathematical Logic - Howard DeLong
+      - Intuition Pumps and Other Tools for Thinking - Daniel Dennett
       - No Two Alike - Judith Rich Harris
       - The Baroque Cycle - Neal Stephenson
       - Piranesi - Susanna Clarke
       - Category Theory for the Sciences - David I. Spivak
       - Type Theory and Formal Proof: An Introduction - Rob Nederpelt, Herman Geuvers
+      - The Primordial Emotions: The Dawning of Consciousness - Derek Denton
       - The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution - Sean B. Carroll
       - The Evolution of Human Sexuality - Donald Symons
       - Words On The Move: Why English Won’t, and Can’t, Sit Still (Like, Literally) - John McWhorter
@@ -210,6 +217,7 @@ books - Monarchs, Rulers, Dynasties and Kingdoms of the World - R. F. Tapsell
       - Rýžoviště zlata a doly drahokamů - Abú al-Hasan Alí ibn al-Husajn ibn Alí al-Mas'údí
       - Dějiny Japonska - Zdeňka Vasiljevová
       - Války rudého muže - Miloslav Stingl
+      - Animal Eyes - Michael F. Land, Dan-Eric Nilsson
       - Effective Modern C++ - Scott Meyers
       - Exceptional C++ - Herb Sutter
       - More Exceptional C++ - Herb Sutter

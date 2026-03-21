@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2025-02-08T20:16:16.077370200</meta:creation-date><meta:generator>LibreOffice/25.2.7.2$Windows_X86_64 LibreOffice_project/5cbfd1ab6520636bb5f7b99185aa69bd7456825d</meta:generator><dc:date>2026-02-03T22:22:25.692573600</dc:date><meta:editing-duration>P2DT20H1M34S</meta:editing-duration><meta:editing-cycles>196</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:cell-count="4144" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2025-02-08T20:16:16.077370200</meta:creation-date><meta:generator>LibreOffice/25.2.7.2$Windows_X86_64 LibreOffice_project/5cbfd1ab6520636bb5f7b99185aa69bd7456825d</meta:generator><dc:date>2026-03-16T14:54:00.743256100</dc:date><meta:editing-duration>P3DT11H53M36S</meta:editing-duration><meta:editing-cycles>227</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:cell-count="4607" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">71422</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">87150</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">96633</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -30,13 +30,13 @@
        <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Mountain list">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">108</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">60</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">151</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">40</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -416,7 +416,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2026-02-03">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="17:34:20.024590900">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2026-03-16">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="23:53:01.578149800">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -456,7 +456,7 @@
     <table:table-column table:style-name="co16" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co18" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co19" table:number-columns-repeated="16360"/>
+    <table:table-column table:style-name="co19" table:number-columns-repeated="16360" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Name</text:p>
@@ -530,7 +530,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Other routes</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16360"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -599,8 +599,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -669,8 +668,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
@@ -739,8 +737,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/jujonufebe</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
@@ -806,8 +803,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
@@ -873,8 +869,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -943,8 +938,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1013,8 +1007,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1083,8 +1076,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1153,8 +1145,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1223,8 +1214,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1293,8 +1283,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1363,8 +1352,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1430,8 +1418,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1500,8 +1487,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1567,8 +1553,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1637,8 +1622,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1707,8 +1691,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1777,8 +1760,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kohosofojo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1847,8 +1829,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kohosofojo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -1917,8 +1898,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1984,8 +1964,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -2054,8 +2033,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -2121,8 +2099,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -2191,8 +2168,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -2261,8 +2237,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
@@ -2331,8 +2306,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -2401,8 +2375,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/homojelaze</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">Montaña Cabezo de Toro (Montaña Cabeza de Toro</text:span>)</text:p>
@@ -2470,8 +2443,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -2540,8 +2512,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/nanokuhenu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -2610,8 +2581,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -2677,8 +2647,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -2747,8 +2716,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -2817,8 +2785,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/homojelaze</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -2887,8 +2854,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/jujonufebe</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -2957,8 +2923,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/homojelaze</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -3027,8 +2992,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -3097,8 +3061,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -3167,8 +3130,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/demogakeju</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -3237,8 +3199,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -3307,8 +3268,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -3377,8 +3337,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/ponasamalu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3447,8 +3406,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3517,8 +3475,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3587,8 +3544,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -3657,8 +3613,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/fakolekudu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -3727,8 +3682,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kohosofojo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -3796,8 +3750,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/ponasamalu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -3865,8 +3818,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/ponasamalu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -3934,8 +3886,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/ponasamalu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -4003,8 +3954,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/ponasamalu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -4073,8 +4023,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dutajocoga</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -4143,8 +4092,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -4213,8 +4161,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -4280,8 +4227,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kohosofojo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -4350,8 +4296,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hanacunate</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -4420,8 +4365,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -4490,8 +4434,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -4560,8 +4503,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -4630,8 +4572,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Žibrid</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="868" calcext:value-type="float">
+      <text:p>868</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1275642N, 18.6094667E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -4700,8 +4710,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mubucofoha</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -4770,8 +4779,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/nodesuluza</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -4840,8 +4848,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/nobabemuke</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -4910,8 +4917,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mubucofoha</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kečka</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="823" calcext:value-type="float">
+      <text:p>823</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1626622N, 18.6125203E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -4980,8 +5055,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5050,8 +5124,283 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Patúch</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="814" calcext:value-type="float">
+      <text:p>814</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1405333N, 18.6104472E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>kota</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="813" calcext:value-type="float">
+      <text:p>813</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1446661N, 18.6095778E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kečka – vrchol J4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="811" calcext:value-type="float">
+      <text:p>811</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1568553N, 18.6124800E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Prostredný Patúch</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="810" calcext:value-type="float">
+      <text:p>810</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1421297N, 18.6097428E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -5120,8 +5469,145 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/nobabemuke</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Roháč</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="803" calcext:value-type="float">
+      <text:p>803</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1856950N, 18.6118189E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Velký Háj</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="803" calcext:value-type="float">
+      <text:p>803</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1495592N, 18.6111925E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
@@ -5187,8 +5673,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/matagehoca</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5257,8 +5742,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5327,8 +5811,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hufategoba</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5397,8 +5880,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5467,8 +5949,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/pukunelafu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5537,8 +6018,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/pukunelafu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Malý Háj</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="790" calcext:value-type="float">
+      <text:p>790</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1477694N, 18.6091594E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5607,8 +6156,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/pukunelafu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kačka</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="773" calcext:value-type="float">
+      <text:p>773</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1739108N, 18.6117667E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5677,8 +6294,283 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kavatakavo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>kota</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="770" calcext:value-type="float">
+      <text:p>770</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1725764N, 18.6123594E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>kota</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="770" calcext:value-type="float">
+      <text:p>770</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1741583N, 18.6117183E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Severná Kačka</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="763" calcext:value-type="float">
+      <text:p>763</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1779931N, 18.6122386E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Prostredná Kačka</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="752" calcext:value-type="float">
+      <text:p>752</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1760942N, 18.6115386E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5747,8 +6639,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kavatakavo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súlovská vyhliadka</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="744" calcext:value-type="float">
+      <text:p>744</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1858803N, 18.6001822E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
@@ -5814,8 +6774,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dasavadone</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
@@ -5884,8 +6843,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/pukunelafu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
@@ -5954,8 +6912,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/nobabemuke</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -6024,8 +6981,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dedasapogo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
@@ -6094,8 +7050,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/nobabemuke</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Štefánikova vyhliadka</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Súľovské skaly </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="690" calcext:value-type="float">
+      <text:p>690</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1839128N, 18.5966711E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -6164,8 +7188,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dedasapogo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -6234,8 +7257,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kavatakavo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -6304,8 +7326,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kavatakavo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -6584,8 +7605,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -6654,8 +7674,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kavatakavo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -6724,8 +7743,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -6794,8 +7812,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kavatakavo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -6864,8 +7881,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -6934,8 +7950,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kavatakavo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7001,8 +8016,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/nodesuluza</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7071,8 +8085,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/nodesuluza</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7141,8 +8154,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -7211,8 +8223,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/buveduvume</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -7278,8 +8289,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dasavadone</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7348,8 +8358,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/nodesuluza</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7418,8 +8427,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kavatakavo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bačova Hora</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Manínska vrchovina</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="542" calcext:value-type="float">
+      <text:p>542</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>49.1948844N, 18.5731214E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -7488,8 +8565,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dasavadone</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -7558,8 +8634,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -7628,8 +8703,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -7698,8 +8772,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dutajocoga</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -7768,8 +8841,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dasavadone</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7838,8 +8910,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7905,8 +8976,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/lahevehuvo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7975,8 +9045,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8045,8 +9114,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kavatakavo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8115,8 +9183,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dutajocoga</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8185,8 +9252,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/jerugefona</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8255,8 +9321,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dasavadone</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8322,8 +9387,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8392,8 +9456,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8459,8 +9522,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8526,8 +9588,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/lahevehuvo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -8596,8 +9657,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/camujacusa</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Nad Skalkou</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slovakia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Manínska vrchovina</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="468" calcext:value-type="float">
+      <text:p>468</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2004728N, 18.5582942E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.2074653N, 18.5533450E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="440" calcext:value-type="float">
+      <text:p>440</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>49.1081439N, 18.6417686E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-15" calcext:value-type="date">
+      <text:p>2026-03-15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/mofogajoge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -8666,8 +9795,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/camujacusa</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -8733,8 +9861,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/lahevehuvo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -8800,8 +9927,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dasavadone</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8867,8 +9993,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8937,11 +10062,12 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>(Považský hrad)</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Slovakia</text:p>
      </table:table-cell>
@@ -9005,8 +10131,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/letekabelo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9072,8 +10197,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9142,8 +10266,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9209,8 +10332,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9279,8 +10401,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9349,8 +10470,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9416,8 +10536,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9483,8 +10602,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9553,8 +10671,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9623,8 +10740,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -9693,8 +10809,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kulerurere</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -9763,8 +10878,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dutajocoga</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9833,8 +10947,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9903,8 +11016,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kahopahudo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -9973,8 +11085,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/mazuranaja</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
@@ -10043,8 +11154,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/loteduhafu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -10113,8 +11223,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/namofubegu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -10180,8 +11289,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dasavadone</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -10250,8 +11358,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kulerurere</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -10317,8 +11424,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dedasapogo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -10384,8 +11490,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dasavadone</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -10454,8 +11559,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dahemogohe</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
@@ -10524,8 +11628,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/becanovubu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -10591,8 +11694,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dedasapogo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
@@ -10661,8 +11763,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dedasapogo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>Drachenfels</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Germany</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Siebengebirge</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="320.6" calcext:value-type="float">
+      <text:p>320.6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>50.6651675N, 7.2101989E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="70" calcext:value-type="float">
+      <text:p>70</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>50.6786469N, 7.1934136E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="50" calcext:value-type="float">
+      <text:p>50</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>50.6734656N, 7.1917211E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="60" calcext:value-type="float">
+      <text:p>60</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>50.6579536N, 7.2107581E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="60" calcext:value-type="float">
+      <text:p>60</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>50.6580233N, 7.2102406E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-08" calcext:value-type="date">
+      <text:p>2026-03-08</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/batumefopu</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
@@ -10731,8 +11901,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kulerurere</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
@@ -10801,8 +11970,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kulerurere</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
@@ -10871,8 +12039,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dasavadone</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
@@ -10938,8 +12105,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/lefetopuco</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
@@ -11008,8 +12174,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dedasapogo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
@@ -11078,8 +12243,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dahemogohe</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
@@ -11148,8 +12312,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/kulerurere</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
@@ -11218,8 +12381,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dedasapogo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>kota</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Great Britain</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Τρόοδος (Trodos)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="280" calcext:value-type="float">
+      <text:p>280</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>34.7051158N, 32.8411844E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>34.6625306N, 32.8002458E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>34.6625306N, 32.8002458E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>34.6597108N, 32.8853389E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>34.6597108N, 32.8853389E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-01" calcext:value-type="date">
+      <text:p>2026-03-01</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/jametaluto</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
@@ -11288,8 +12519,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dasavadone</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
@@ -11358,8 +12588,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/peranocovu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -11428,8 +12657,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dazedepefa</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -11498,8 +12726,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hefuvuhebo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -11568,8 +12795,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hefuvuhebo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -11638,8 +12864,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hefuvuhebo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -11708,8 +12933,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dedasapogo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -11778,8 +13002,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dasavadone</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -11848,8 +13071,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/nenerupaso</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -11918,8 +13140,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/hefuvuhebo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -11988,8 +13209,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/govupucosa</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12058,8 +13278,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dedasapogo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12128,8 +13347,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dedasapogo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12198,8 +13416,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/dazedepefa</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12268,8 +13485,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/cusezosezo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12338,8 +13554,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/cusezosezo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12408,8 +13623,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/cusezosezo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12478,8 +13692,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/cusezosezo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12548,8 +13761,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/cusezosezo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12615,8 +13827,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/jazodojaga</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>kota</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Great Britain</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Τρόοδος (Trodos)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="70" calcext:value-type="float">
+      <text:p>70</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>34.6634706N, 32.8850547E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>34.6625306N, 32.8002458E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>34.6625306N, 32.8002458E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>34.6597108N, 32.8853389E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>34.6597108N, 32.8853389E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="date" office:date-value="2026-03-01" calcext:value-type="date">
+      <text:p>2026-03-01</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://mapy.com/s/jametaluto</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12685,8 +13965,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/bobeloroto</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12755,8 +14034,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/bobeloroto</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12825,8 +14103,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/cobasurujo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12895,8 +14172,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/cobasurujo</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12965,8 +14241,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/jodugupepu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -13035,8 +14310,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/jodugupepu</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -13105,8 +14379,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/cotobemuce</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -13175,8 +14448,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/ladanuzema</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -13245,8 +14517,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/ladanuzema</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -13315,8 +14586,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/botakasohe</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -13385,86 +14655,76 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://mapy.com/s/botakasohe</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16362"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="24"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16384"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Total count</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNT([.D2:.D182])" office:value-type="float" office:value="181" calcext:value-type="float">
-      <text:p>181</text:p>
+     <table:table-cell table:formula="of:=COUNT([.D2:.D203])" office:value-type="float" office:value="202" calcext:value-type="float">
+      <text:p>202</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="20"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16380"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Total elevation</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=SUM([.D2:.D182])" office:value-type="float" office:value="145339.84" calcext:value-type="float">
-      <text:p>145339.84</text:p>
+     <table:table-cell table:formula="of:=SUM([.D2:.D203])" office:value-type="float" office:value="159617.44" calcext:value-type="float">
+      <text:p>159617.44</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="20"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16380"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Average elevation</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[.D189]/[.D188]" office:value-type="float" office:value="802.982541436464" calcext:value-type="float">
-      <text:p>802.982541436464</text:p>
+     <table:table-cell table:formula="of:=[.D210]/[.D209]" office:value-type="float" office:value="790.185346534654" calcext:value-type="float">
+      <text:p>790.185346534654</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="20"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16380"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Median elevation</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:= MEDIAN([.D2:.D182])" office:value-type="float" office:value="610" calcext:value-type="float">
-      <text:p>610</text:p>
+     <table:table-cell table:formula="of:= MEDIAN([.D2:.D203])" office:value-type="float" office:value="648.6" calcext:value-type="float">
+      <text:p>648.6</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="20"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16380"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Total elevation difference</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=SUM([.D2:.D182]) - SUM([.J2:.J182])" office:value-type="float" office:value="107669.84" calcext:value-type="float">
-      <text:p>107669.84</text:p>
+     <table:table-cell table:formula="of:=SUM([.D2:.D203]) - SUM([.J2:.J203])" office:value-type="float" office:value="116317.44" calcext:value-type="float">
+      <text:p>116317.44</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="20"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16380"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Average elevation difference</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[.D192]/[.D188]" office:value-type="float" office:value="594.860994475138" calcext:value-type="float">
-      <text:p>594.860994475138</text:p>
+     <table:table-cell table:formula="of:=[.D213]/[.D209]" office:value-type="float" office:value="575.828910891089" calcext:value-type="float">
+      <text:p>575.828910891089</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="20"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16380"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048382">
-     <table:table-cell table:number-columns-repeated="24"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048361">
+     <table:table-cell table:number-columns-repeated="16384"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="24"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="16360"/>
+     <table:table-cell table:number-columns-repeated="16384"/>
     </table:table-row>
    </table:table>
    <table:table table:name="Additional info" table:style-name="ta1">

@@ -114,6 +114,7 @@ BIOLOGIA:
         Consciousness and the Brain - Deciphering How the Brain Codes Our Thoughts ; Stanislas Dehaene
     Červená královna - sexualita a vývoj lidské přirozenosti ; Matt Ridley
     Granice Życia ; John Postgate
+    Life Ascending - The Ten Great Inventions of Evolution ; Nick Lane
     Natura umysłów ; Daniel C. Dennett
     Oxygen - The molecule that made the world ; Nick Lane
     Rzeka genów ; Richard Dawkins
@@ -227,6 +228,7 @@ POP.SCIENCE :
         Genom ; Matt Ridley
         Geny a osobnost - biologické základy psychiky člověka ; Dean Hamer , Peter Copeland
         Granice Życia ; John Postgate
+        Life Ascending - The Ten Great Inventions of Evolution ; Nick Lane
         Life's Ratchet, How Molecular Machines Extract Order from Chaos ; Peter M. Hoffmann
         Natura umysłów ; Daniel C. Dennett
         Nejbližší příbuzní ; Roger Fouts , Stephen Tukel Mills
@@ -322,6 +324,7 @@ POP.SCIENCE :
         Bojowe szlaki pustynne ; Olgierd Terlecki
         Bolesław Krzywousty 1085-1138 ; Andrzej Feliks Grabski
         Brytania 55-54 p.n.e. ; Tomasz Romanowski
+        Burgundczycy - Książęta równi królom ; Bart van Loo
         Burza Nad Pacyfikiem Tom II ; Zbigniew Flisowski
         Burzliwe dzieje Kalifatu Bagdadzkiego ; Jerzy Hauziński
         Chlodwik król Franków ; Michel Rouche
@@ -343,6 +346,7 @@ POP.SCIENCE :
         Dzieje dawnych Turków ; Lew Gumilow
         Dzieje Grecji ; N.G.L. Hammond
         Dzieje Rzymu ; Max Cary , Howard Hayes Scullard
+        Farsalos 48 p.n.e. ; Romuald Romański
         Fidel & Che - A revolutionary friendship ; Simon Reid-Henry
         Fix melduje centrali... ; Z. Wiatr
         Foiničané ; Sabatino Moscati
