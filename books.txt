@@ -124,6 +124,7 @@ BIOLOGIA:
     The Blank Slate ; Steven Pinker
     The Blind Watchmaker - Why the Evidence of Evolution Reveals a Universe Without Design ; Richard Dawkins
     The Extended Phenotype - The Long Reach of the Gene ; Richard Dawkins
+    The Genetic Book of the Dead: A Darwinian Reverie ; Richard Dawkins
     The Language Instinct - How the Mind Creates Language ; Steven Pinker
     The Vital Question - Energy, Evolution, and the Origins of Complex Life ; Nick Lane
     Transformer - The Deep Chemistry of Life and Death ; Nick Lane
@@ -243,6 +244,7 @@ POP.SCIENCE :
         The Ancestor's Tale - A Pilgrimage to the Dawn of Life ; Richard Dawkins
         The Blank Slate ; Steven Pinker
         The Blind Watchmaker - Why the Evidence of Evolution Reveals a Universe Without Design ; Richard Dawkins
+        The Genetic Book of the Dead: A Darwinian Reverie ; Richard Dawkins
         The Greatest Show On Earth ; Richard Dawkins
         The Language Instinct - How the Mind Creates Language ; Steven Pinker
         The Vital Question - Energy, Evolution, and the Origins of Complex Life ; Nick Lane

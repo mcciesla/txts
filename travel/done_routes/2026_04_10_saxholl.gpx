@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://mapy.com/">
+	<wpt lat="64.851135" lon="-23.924505">
+		<ele>61.286423</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.850850" lon="-23.924446">
+		<ele>60.286259</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851450" lon="-23.927166">
+		<ele>96.797401</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851470" lon="-23.927406">
+		<ele>97.121521</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851944" lon="-23.927666">
+		<ele>102.619957</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851974" lon="-23.927240">
+		<ele>100.594643</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851900" lon="-23.927160">
+		<ele>99.912971</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851970" lon="-23.927214">
+		<ele>100.471718</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851950" lon="-23.926548">
+		<ele>100.373856</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851960" lon="-23.927217">
+		<ele>100.438179</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851944" lon="-23.927649">
+		<ele>102.582352</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851470" lon="-23.927443">
+		<ele>97.130699</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851440" lon="-23.927160">
+		<ele>96.732430</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851440" lon="-23.926650">
+		<ele>96.176422</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851440" lon="-23.927150">
+		<ele>96.724823</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.850840" lon="-23.924473">
+		<ele>60.319782</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.851130" lon="-23.924511">
+		<ele>61.280838</ele>
+		<name>New marker</name>
+	</wpt>
+</gpx>
+

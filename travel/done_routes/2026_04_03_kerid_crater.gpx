@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://mapy.com/">
+	<wpt lat="64.041626" lon="-20.886757">
+		<ele>83.718109</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041870" lon="-20.886360">
+		<ele>82.866264</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041930" lon="-20.886147">
+		<ele>82.047272</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041466" lon="-20.886446">
+		<ele>77.558846</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.039990" lon="-20.885975">
+		<ele>94.602112</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.039840" lon="-20.884916">
+		<ele>97.718788</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.039925" lon="-20.884804">
+		<ele>98.126686</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.039856" lon="-20.884756">
+		<ele>97.383537</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041756" lon="-20.882960">
+		<ele>87.940681</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041720" lon="-20.883083">
+		<ele>87.654785</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041750" lon="-20.882933">
+		<ele>87.969902</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.042310" lon="-20.885990">
+		<ele>81.688164</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041930" lon="-20.886150">
+		<ele>82.078186</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041840" lon="-20.884596">
+		<ele>64.045761</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041460" lon="-20.884048">
+		<ele>66.475807</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041830" lon="-20.884848">
+		<ele>64.412102</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041920" lon="-20.886173">
+		<ele>82.088470</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041770" lon="-20.886446">
+		<ele>82.568230</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="64.041620" lon="-20.886724">
+		<ele>83.348930</ele>
+		<name>New marker</name>
+	</wpt>
+</gpx>
+
