@@ -480,18 +480,23 @@
   - Eyjafjörður ; Forlagið ; Atlaskort ; 18 ; 1:100000
   - Fljótsdalshérað ; Forlagið ; Atlaskort ; 27 ; 1:100000
   - Gullfoss - Geysir - Hekla ; Forlagið ; Sérkort ; 2 ; 1:100000/1:50000
+  - Hornafjörður ; Forlagið ; Atlaskort ; 25 ; 1:100000
+  - Hornstrandir ; Forlagið ; Sérkort ; 9 ; 1:100000/1:50000
   - Iceland ; Rough Guides ; Rough Guide Map ; 1:425000
   - Ísland - Ferðakortabók með Þéttbýliskortum ; Ferðakort ; 1:500000
   - Kjöllur - Langjökull - Kerlingarfjöll ; Forlagið ; Sérkort ; 3 ; 1:100000/1:50000
   - Landmannalaugar - Þórsmörk - Fjallabak ; Forlagið ; Sérkort ; 4 ; 1:100000/1:50000
   - Lónsöræfi - Snæfell ; Forlagið ; Sérkort ; 6 ; 1:100000/1:50000
+  - Nýjabæjarfjall ; Forlagið ; Atlaskort ; 17 ; 1:100000
   - Reykjanes - Þingvellir ; Forlagið ; Sérkort ; 1 ; 1:100000/1:50000
+  - Seyðisfjörður ; Forlagið ; Atlaskort ; 30 ; 1:100000
   - Skaftafell ; Forlagið ; Sérkort ; 5 ; 1:100000/1:50000
   - Snæfellsnes ; Forlagið ; Sérkort ; 10 ; 1:100000/1:55000
   - Suðvesturland - Southwest Iceland - Sud-ouest Islande - Süd West Island ; Ferðakort ; 1:75000
   - Þórsmörk - Landmannalaugar ; Ferðakort ; 1:100000
   - Veiðivötn ; Forlagið ; Atlaskort ; 15 ; 1:100000
   - Vestfirðir - West Fjords ; Forlagið ; Sérkort ; 12 ; 1:200000/1:100000
+  - Vestmannaeyjar ; Forlagið ; Atlaskort ; 13 ; 1:100000
 - Iran
   - Vereinigte arabische emirate - United Araba Emirates - Émirats arabes unis - Emiratos árabes unidos - Объединённые арабские эмираты - Dubai - Abu Dhabi - V.A.E. - UAE - Dubai ; Reise Know-How Verlag ; World Mapping Project ; 1:470000
 - Ireland
@@ -704,6 +709,7 @@
     - Beskid Mały i Makowski ; ExpressMap ; Comfort! map ; 1:50000
     - Beskid Niski ; Compass ; 1:50000
     - Beskid Niski ; ExpressMap ; Comfort! map ; 1:70000
+    - Beskid Sądecki ; ExpressMap ; Comfort! map ; 1:50000
     - Beskid Sądecki - Pieniny ; VKÚ Harmanec ; 159 ; 1:50000
     - Beskid Śląski ; Wydawnictwo Piętka ; 1:50000
     - Beskid Śląski dla wymagających ; Compass ; 1:25000
