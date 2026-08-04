@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://mapy.com/">
+	<wpt lat="50.687530" lon="19.071125">
+		<ele>296.406067</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.687443" lon="19.071220">
+		<ele>296.363922</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.687520" lon="19.074183">
+		<ele>301.557800</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.687595" lon="19.076248">
+		<ele>304.175446</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689404" lon="19.076580">
+		<ele>314.516724</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689360" lon="19.074387">
+		<ele>324.942627</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689320" lon="19.073860">
+		<ele>327.797333</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689377" lon="19.073298">
+		<ele>328.911621</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689495" lon="19.072964">
+		<ele>328.933899</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689674" lon="19.072664">
+		<ele>330.044708</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689598" lon="19.072777">
+		<ele>329.734314</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689434" lon="19.073120">
+		<ele>328.900330</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689354" lon="19.073560">
+		<ele>328.901855</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689323" lon="19.074224">
+		<ele>325.151062</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689346" lon="19.074419">
+		<ele>324.653931</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.689377" lon="19.076622">
+		<ele>314.227142</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.688087" lon="19.076414">
+		<ele>305.894379</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.687595" lon="19.076231">
+		<ele>304.146484</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.687508" lon="19.074139">
+		<ele>301.493317</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.687430" lon="19.071220">
+		<ele>296.331696</ele>
+		<name>New marker</name>
+	</wpt>
+	<wpt lat="50.687523" lon="19.071098">
+		<ele>296.297180</ele>
+		<name>New marker</name>
+	</wpt>
+</gpx>
+

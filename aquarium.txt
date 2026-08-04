@@ -6,8 +6,20 @@ Aquarium (LxWxH)
 -----------------------------------------------------
 Fish
 --------------
-2 Ancistrus (Ancistrus dolichopterus (?))
-4 Paracheirodon innesi
+2 (00) Ancistrus (Zbrojnik) (Ancistrus dolichopterus (Zbrojnik niebieski) (?)) [algae tablety, gotowane warzywa (na dlugosc rozciety groszek, cukinie, ogorek), catfish chips, gelowe jedzenie specyficznie dla zbrojnikow, mrozone max raz na tydzien (bloodworm (larwy ochotki, patentka), artemia (brine shrimp, žábronožka), mysis shrimp (lasonóg))]
+2 (03) Gastrodermus nanus (+4) (Kirysek mały) [platki dla ryb tropikalnych (rozdrobnione), nano-peletki szybko opadajace, micro-granule, mrozone (niedorosla artemia (baby brine shrimp, žábronožka), daphnia, cyclops (oczlik, buchanka)), zywe (niedorosla artemia (baby brine shrimp, žábronožka), daphnia, cyclops (oczlik, buchanka)), rozdrobione algae tablety rzadko]
+6 (00) Gastrodermus pygmaeus (+2) (Kirysek karłowaty) [platki dla ryb tropikalnych (rozdrobnione), nano-peletki szybko opadajace, gelowe jedzenie na dno, gotowane warzywa male kawaleczki nie kazdy dzien (cukinie, ogorki), mrozone (daphnia, cyclops (oczlik, buchanka)), zywe (niedorosla artemia (baby brine shrimp, žábronožka))]
+2 (02) Hoplisoma trilineatum (+4) (Kirysek trójpręgi) [tablety dla ryb jedzacych z dna, catfish peletki, mikro-peletki, mrozone (bloodworm (larwy ochotki, patentka), daphnia, artemia (brine shrimp, žábronožka), tubifex (rurecznik, nitentky)), zywe (bloodworm (larwy ochotki, patentka), daphnia, artemia (brine shrimp, žábronožka), tubifex (rurecznik, nitentky))]
+4 (02) Paracheirodon innesi (+2) (Neon Innesa) [platki dla ryb tropikalnych (rozdrobnione), micro-granule, mrozone (daphnia, artemia (brine shrimp, žábronožka), cyclops (oczlik, buchanka)), zywe (daphnia, artemia (brine shrimp, žábronožka), cyclops (oczlik, buchanka)), gotowane warzywa rzadko (szpinak, cukinie, salatka), mrozone max raz na tydzien (Bloodworm (larwy ochotki, patentka))]
+1 (05) Pseudomugil paskai (+5-7) (Modrook Paskai) [platki dla ryb tropikalnych (rozdrobnione), nano-peletki, mrozone (daphnia, cyclops (oczlik, buchanka), niedorosla artemia (baby brine shrimp, žábronožka)), zywe (daphnia, niedorosla artemia (baby brine shrimp, žábronožka))]
+--------------
+0 (03) Aphyosemion australe (Proporczykowiec z Kap Lopez) [platki dla ryb tropikalnych, nano-peletki, mrozone (daphnia, artemia (brine shrimp, žábronožka), bloodworm (larwy ochotki, patentka)), zywe (niedorosla artemia (baby brine shrimp, žábronožka), white worm (doniczkowiec biały, roupice bělavá), grindal worm (roupice bílá, doniczkowiec mniejszy))]
+0 (02) Paracheirodon axelrodi (+4) (Neon czerwony) [platki dla ryb tropikalnych (rozdrobnione), micro-granule, mrozone (daphnia, artemia (brine shrimp, žábronožka), glass worm (wodzienie, szklarki, koretra)), mrozone max raz na tydzien (bloodworm (larwy ochotki, patentka)), gotowane warzywa rzadko (szpinak, cukinie, salatka)]
+0 (02) Apistogramma borellii (Pielęgniczka Borella) [platki dla ryb tropikalnych, dwarf cichlid peletki, mikro-peletki, gelowe jedzenie, mrozone (daphnia, artemia (brine shrimp, žábronožka)), zywe (daphnia, artemia (brine shrimp, žábronožka)), mrozone wyjatkowo (bloodworm (larwy ochotki, patentka), blackworm (rurecznik kalifornijski, žížalice pestrá)), zywe wyjatkowo (bloodworm (larwy ochotki, patentka), blackworm (rurecznik kalifornijski, žížalice pestrá))]
+-----------------------------------------------------
+Shrimp
+--------------
+4 (02) Caridina multidentata (Krewetka Amano) (+4) [rozdrobione algae tablety, gotowane warzywa (salatka, szpinak, cukinie, ogorek), peletki dla krewetek]
 -----------------------------------------------------
 Snails
 --------------
@@ -30,136 +42,203 @@ Limnophila heterophylla (?)
 Limnobium laevigatum (?) (Amazon Frogbit)
 Ludwigia repens (narrow)
 Sagittaria subulata
+Taxiphyllum barbieri
 Vallisneria tortifolia
 (?)
----
-Betta splendens [1 female][24.5-27.5 C (22-30)][2-5 y][5-6.5 cm] 
-    - male: slender and elongated body, typically long flowing fins, display a dark membrane (beard) protruding from beneath their gill plates
-    - female: mature females have a small and prominent white dot (ovipositor) situated on their underside between the ventral (pelvic) and anal fins, shorter and stockier and rounder body shape, shorter fins especially the dorsal and anal fins, smaller dark membrane (beard) protruding from beneath their gill plates that is usually invisible when they are relaxed
-    - ? - problem z Danio i innymi rybkami co moga sie skusic na pletwy, moze zabic krewetki, moze byc agresywna dla ryb ktore pomyli sobie ze swym gatunkiem i gurami, moze byc agresywna do malych rybek (Poecilia wingei, Epiplatys annulatus, Trigonostigma hengeli), czasami moze by agresywna i dla spokojnych srednich rybek (Otocinclus vittatus)
-Hyphessobrycon amandae (Bystrzyk Amandy, Ember Tetra) [8-10+][24-28 C (20-29)][2-4 Y][1.5-2 cm] 
-    - male: slimmer and streamlined and torpedo-shaped body, more vibrant and deeper orange-red coloration
-    - female: deeper and broader body with a distinctly rounded abdomen
-    - 4.5 PLN
-Microdevario kubotai (Kubotai rasbora) [10-12+ (8-10+)][22-26 C (20-28)][3-5 Y][2-3 cm] 
-    - male: slimmer and sleeker profile, more striking and brilliant metallic lime-green or yellow-green sheen
-    - female: noticeably rounder and deeper abdomen, slightly more muted color
-    - stresuja je aktywne rybki (Poecilia wingei, Corydoras paleatus)
-    - 9 PLN
----
-Ambastaia sidthimunki (Bocja karłowata, Dwarf loach) [6-8+ (10+)][24-28 C (24-30)][8-12 Y (8-20)][5-6 cm] (?? - lepiej nie zwir, zabijaja slimaki, stresuje i moze zranic Amano shrimp, zabije mniejsze krewetki (Neocaridina davidi), stresuje spokojne ryby (Fundulopanchax amieti, Pangio kuhlii, Corydoras pygmaeus, Pseudomugil paskai), konflikty z terytorialnymi rybami zyjacymi na dnie (Apistogramma macmasteri, Apistogramma cacatuoides, Pelvicachromis taeniatus), konflikty z innymi rybami zyjacymi na dnie (Corydoras schultzei)) 29 PLN x
-Ancistrus dolichopterus [1-4][22-27 C][10-15 Y][10-15 cm]
+(?) - powierzchnia
+(?)
+-----------------------------------------------------
+Food
+--------------
+Algae tablety : 
+    - Tropical Hi-Algae Discs - Ancistrus ++
+Flakes : 
+    - Tropical Supervit Flakes - neonki ++, Apistogramma +-
+Gotowane warzywa :
+    - ogorek - Ancistrus ++, slimaki ++, Corydoras +-
+    - cukinia - Ancistrus ++, slimaki ++, krewetki +, Corydoras +-
+    - salatka - slimaki ++, Corydoras -, Ancistrus +-
+Granules : 
+    - Tropical Supervit Granulat +- (chyba za duze dla naszych ryb)
+    - Sera Vipagran Nature +- (chyba za duze dla naszych ryb)
+Micro granules : 
+    - Tropical Supervit Mini Granulat +-
+Mrozone :
+    - dafnia ++
+Tablets :
+    - Tetra Wafer Mix - Ancistrus +-, Corydoras ++, slimaki ++
+    - Tropical Mini Wafers Mix - slimaki ++, Ancistrus +-, Corydoras +
+    - Dajana Tablets Bottom - slimaki ++, Corydoras ++
+-----------------------------------------------------
+Bottom feeder tablets : Tropical Supervit Tablet B
+Catfish chips :
+Catfish pellets :
+Dwarf cichlid pellets : 
+Fast-sinking nano pellets : 
+Gelowe jedzenie : Repashy
+Gelowe jedzenie na dno : Repashy
+Gelowe jedzenie specyficznie dla zbrojnikow : Repashy
+Glass adhesive tablets for all fish : Tropical Supervit Tablet A
+Gotowane warzywa :
+    - cukinie
+    - na dlugosc rozciety groszek
+    - szpinak
+Mrozone :
+    - artemia (brine shrimp, žábronožka)
+    - blackworm (rurecznik kalifornijski, žížalice pestrá)
+    - bloodworm (larwy ochotki, patentka)
+    - cyclops (oczlik, buchanka)
+    - glass worm (wodzienie, szklarki, koretra)
+    - mysis shrimp (lasonóg)
+    - niedorosla artemia (baby brine shrimp, žábronožka)
+    - tubifex (rurecznik, nitentky)
+Nano granules :
+Zywe :
+    - artemia (brine shrimp, žábronožka)
+    - blackworm (rurecznik kalifornijski, žížalice pestrá)
+    - bloodworm (larwy ochotki, patentka)
+    - cyclops (oczlik, buchanka)
+    - daphnia
+    - grindal worm (roupice bílá, doniczkowiec mniejszy)
+    - niedorosla artemia (baby brine shrimp, žábronožka)
+    - tubifex (rurecznik, nitentky)
+    - white worm (doniczkowiec biały, roupice bělavá)
+-----------------------------------------------------
+Ambastaia sidthimunki (Bocja karłowata, Dwarf loach) [6-8+ (10+)][24-28 C (24-30)][8-12 Y (8-20)][5-6 cm][6-7.5 pH (5.5-8)][3-12 dGH (3-20)][2-8 dKH] (?? - lepiej nie zwir, zabijaja slimaki, stresuje i moze zranic Amano shrimp, zabije mniejsze krewetki (Neocaridina davidi), stresuje spokojne ryby (Fundulopanchax amieti, Pangio kuhlii, Corydoras pygmaeus, Pseudomugil paskai), konflikty z terytorialnymi rybami zyjacymi na dnie (Apistogramma macmasteri, Apistogramma cacatuoides, Pelvicachromis taeniatus), konflikty z innymi rybami zyjacymi na dnie (Corydoras schultzei)) 29 PLN x
+Ancistrus dolichopterus [1-4][22-27 C][10-15 Y][10-15 cm][6-7.5 pH (6-8)][5-15 dGH][2-10 dKH]
     - male: long and thick bristles (tentacles) across the middle of the snout and top of the head, larger and more slender, much longer and thicker pectoral fins that grow rows of sharp hair-like odontodes (spikes)
     - female: mostly smooth face, slightly smaller and shorter, noticeably curved and rounded and and wider midsection, pectoral fins are smaller and shorter
-Aphyosemion australe (Proporczykowiec z Kap Lopez) [1 male 2 females][20-24 C (20-26)][1.5-2 Y (1.5-3)][5.5-6 cm] 
+    - algae tablety, gotowane warzywa (na dlugosc rozciety groszek, cukinie, ogorek), catfish chips, gelowe jedzenie specyficznie dla zbrojnikow, mrozone max raz na tydzien (bloodworm (larwy ochotki, patentka), artemia (brine shrimp, žábronožka), mysis shrimp (lasonóg))
+Aphyosemion australe (Proporczykowiec z Kap Lopez) [1 male 2 females][20-24 C (20-26)][1.5-2 Y (1.5-3)][5.5-6 cm][6-7 pH][2-12 dGH (2-10)(3-8)][1-5 dKH]
     - male : vibrant coloring, long and flowing fins that end in distinctive extensions, noticably larger than females
     - female : shorter and (clear or pale) and distinctly rounded at the edges fins, bit rounder in the belly
     - atakuje inne gatunki proporczykow, stresuja ja aktywne rybki i moga je tez wyglodzic (Puntius titteya, Melanotaenia praecox, Pseudomugil furcatus, Poecilia wingei), raczej niekompatybilne z Betta splendens
-    - 18 PLN
-Apistogramma borellii (Pielęgniczka Reitziga, Yellow dwarf cichlid) [2 (para) (3-4 (1 male 2-3 female))][20-26 C (15-27)][3-5 Y (3-8)][6.5-9 cm (females 5-6)] 
+    - platki dla ryb tropikalnych, nano-peletki, mrozone (daphnia, artemia (brine shrimp, žábronožka), bloodworm (larwy ochotki, patentka)), zywe (niedorosla artemia (baby brine shrimp, žábronožka), white worm (doniczkowiec biały, roupice bělavá), grindal worm (roupice bílá, doniczkowiec mniejszy))
+Apistogramma borellii (Pielęgniczka Reitziga, Yellow dwarf cichlid) [2 (para) (3-4 (1 male 2-3 female))][20-26 C (15-27)][3-5 Y (3-8)][6.5-9 cm (females 5-6)][6-7 pH (5.5-7.5)][2-15 dGH (1-10)(1-15)(3-10)][2-6 dKH]
     - male : longer and pointer dorsal and anal fins, extensive metallic blue or yellow striping and patterns around the eyes and cheeks
     - female : little to no blue on the face, solid black edge coupled with a bright yellow hue on pelvic fins
     - bardzo wyjatkowo moze zaatakowac krewetki (Amano shrimp, Neocaridina davidi, moze byc agresywna dla rybek zyjacych na dnie (Corydoras, Pangio kuhlii)), niekompatybilne z innymi gatunkami Apistogramma, raczej niekompatybilne z Betta splendens, bardzo male rybki moze zjesc (Epiplatys annulatus)
-    - 12 PLN
-Apistogramma cacatuoides (Pielęgniczka kakadu) [2 (para) (3-4 (1 male 2-3 female))][24-27 C (27-28)][3-5 Y][7.5-8 cm (5-6 female)] (? - zje mniejsze krewetki (Neocaridina davidi), moze zabic i mniejsze osobniki Amano shrimp, moze byc agresywna dla rybek zyjacych na dnie (Corydoras, Sewellia lineolata, Garra rufa), skomplikowane wspolzycie z rybkami zyjacymi nizej (Danio erythromicron), moze zabic bardzo male rybki (Microdevario kubotai, Epiplatys annulatus), raczej niekompatybilne z Betta splendens, stresuje wieksze ryby nawet przy powierzchni (Trichogaster leeri, Trichogaster chuna), niekompatybilne z innymi gatunkami Apistogramma, moze atakowac i zranic male rybki w ich terytorium (Poecilia wingei)) 15 PLN
-Apistogramma macmasteri (Pielęgniczka czerwonogrzbieta) [2 (para) (3-4 (1 male 2-3 female))][24-27 C (24-28)(24-30)][3-5 Y][6-7.5 cm (female 4-5)] 
+    - platki dla ryb tropikalnych, dwarf cichlid peletki, mikro-peletki, gelowe jedzenie, mrozone (daphnia, artemia (brine shrimp, žábronožka)), zywe (daphnia, artemia (brine shrimp, žábronožka)), mrozone wyjatkowo (bloodworm (larwy ochotki, patentka), blackworm (rurecznik kalifornijski, žížalice pestrá)), zywe wyjatkowo (bloodworm (larwy ochotki, patentka), blackworm (rurecznik kalifornijski, žížalice pestrá))
+Apistogramma cacatuoides (Pielęgniczka kakadu) [2 (para) (3-4 (1 male 2-3 female))][24-27 C (27-28)][3-5 Y][7.5-8 cm (5-6 female)][6-7 pH (5.5-7.5)][1-10 dGH (1-15)][0-5 dKH] (? - zje mniejsze krewetki (Neocaridina davidi), moze zabic i mniejsze osobniki Amano shrimp, moze byc agresywna dla rybek zyjacych na dnie (Corydoras, Sewellia lineolata, Garra rufa), skomplikowane wspolzycie z rybkami zyjacymi nizej (Danio erythromicron, Hoplisoma trilineatum), moze zabic bardzo male rybki (Microdevario kubotai, Epiplatys annulatus), raczej niekompatybilne z Betta splendens, stresuje wieksze ryby nawet przy powierzchni (Trichogaster leeri, Trichogaster chuna), niekompatybilne z innymi gatunkami Apistogramma, moze atakowac i zranic male rybki w ich terytorium (Poecilia wingei)) 15 PLN
+Apistogramma macmasteri (Pielęgniczka czerwonogrzbieta) [2 (para) (3-4 (1 male 2-3 female))][24-27 C (24-28)(24-30)][3-5 Y][6-7.5 cm (female 4-5)][5.5-7 pH (6-6.5)][1-10 dGH (1-5)][3-8 dKH]
     - male : more pointed dorsal and anal fins, front rays of the dorsal fin often extend much higher than the rest, blue outline along the edge of the anal fin, more red coloration around the face and gill plates, bulkier body, high and prominent foreheads, iridescent blue spangling along the body and edges of the fins, ventral fins are long and colorful and may have a blue tint
     - female : noticeably shorter amd more rounded fins, front edges of pelvic fins often feature a stark black stripe , grayish-yellow or light brown base color
-    - ? - lepiej nie zwir, moze czasami atakowac i wieksze krewetki (Amano shrimp), moze zjesc mniejsze krewetki (Neocaridina davidi), moze byc agresywna dla rybek zyjacych na dnie (Pangio kuhlii, Corydoras, Otocinclus vittatus), moze stresowac i przeganiac mniejsze rybki w ich terytorium (Danio erythromicron, Poecilia wingei), moze zabic bardzo male rybki (Microdevario kubotai), raczej niekompatybilne z Betta splendens, moze byc agresywna do wiekszych ryb nawet przy powierzchni (Trichogaster leeri), niekompatybilne z innymi gatunkami Apistogramma
-    - 18 PLN
-Botia lohachata (Bocja siatkowana, Y-loach) [6+][24-28 C][8-12 Y (8-15)][10-15 cm] (?? - wymagaja chyba wieksze akwarium, semi-agresywne, zabije i srednie krewetki (Amano shrimp, Neocaridina davidi)) 15 PLN x
-Corydoras habrosus (Kirysek malutki) [6-8+ (8-12+)][22-26 C (20-27)][3-5 Y][2.5-3.8 cm] 
+    - lepiej nie zwir, moze czasami atakowac i wieksze krewetki (Amano shrimp), moze zjesc mniejsze krewetki (Neocaridina davidi), moze byc agresywna dla rybek zyjacych na dnie (Pangio kuhlii, Corydoras, Otocinclus vittatus), moze stresowac i przeganiac mniejsze rybki w ich terytorium (Danio erythromicron, Poecilia wingei), moze zabic bardzo male rybki (Microdevario kubotai), raczej niekompatybilne z Betta splendens, moze byc agresywna do wiekszych ryb nawet przy powierzchni (Trichogaster leeri), niekompatybilne z innymi gatunkami Apistogramma
+Betta splendens [1 female][24.5-27.5 C (22-30)][2-5 y][5-6.5 cm][6.5-7.8 pH]
+    - male: slender and elongated body, typically long flowing fins, display a dark membrane (beard) protruding from beneath their gill plates
+    - female: mature females have a small and prominent white dot (ovipositor) situated on their underside between the ventral (pelvic) and anal fins, shorter and stockier and rounder body shape, shorter fins especially the dorsal and anal fins, smaller dark membrane (beard) protruding from beneath their gill plates that is usually invisible when they are relaxed
+    - problem z Danio i innymi rybkami co moga sie skusic na pletwy, moze zabic krewetki, moze byc agresywna dla ryb ktore pomyli sobie ze swym gatunkiem i gurami, moze byc agresywna do malych rybek (Poecilia wingei, Epiplatys annulatus, Trigonostigma hengeli), czasami moze by agresywna i dla spokojnych srednich rybek (Otocinclus vittatus)
+Botia lohachata (Bocja siatkowana, Y-loach) [6+][24-28 C][8-12 Y (8-15)][10-15 cm][6-7.5 pH][2-12 dGH][2-10 dKH] (?? - wymagaja chyba wieksze akwarium, semi-agresywne, zabije i srednie krewetki (Amano shrimp, Neocaridina davidi)) 15 PLN x
+Corydoras habrosus (Kirysek malutki) [6-8+ (8-12+)][22-26 C (20-27)][3-5 Y][2.5-3.8 cm][6-7.5 pH (6.5-7)][2-15 dGH]
     - male: sleeker "airplane" or torpedo body shape that tapers, longer and distinctly pointed pelvic fins, shorter and more rounded and fan-shaped pelvic fins
     - female: "raindrop" body shape, broader around the belly and wider at the middle, visibly larger and deeper-bodied from the belly to the dorsal fin
-    - ? - lepiej nie zwir
-    - 10 PLN
-Corydoras paleatus (Kirysek pstry) [6+ (8-12+)(10-15+)][20-26 C (22-24)(18-26)][5-10 Y (5-15)][6.5-7.5 cm] 11 PLN
-Corydoras schultzei (Kirysek czarny, Corydoras black) [6-8+ (10+)][22-26 C (21-28)][5-8 Y (5-10)][5-7.5 cm] 
+    - lepiej nie zwir
+Corydoras paleatus (Kirysek pstry) [6+ (8-12+)(10-15+)][20-26 C (22-24)(18-26)][5-10 Y (5-15)][6.5-7.5 cm][6.5-7.5 pH (6-8)][2-19 dGH]
+Corydoras schultzei (Kirysek czarny, Corydoras black) [6-8+ (10+)][22-26 C (21-28)][5-8 Y (5-10)][5-7.5 cm][6-7.5 pH (6.5-7)][2-15 dGH]
     - male: narrower and more streamlined body that tapers toward the tail often looking more like an airplane, pelvic fins are noticeably longer and more pointed and sometimes slightly more angular
     - female: much wider and more robust body shape that resembles a raindrop, abdomen is visibly fuller, larger, taller body profile, pelvic fins are rounded
-    - ? - lepiej nie zwir
-    - 12 PLN 
-Danio erythromicron (Emerald dwarf rasbora) [6-10+ (8-10+)(10-15+)][22-25 C][3-5 Y][2-3 cm] 
+    - lepiej nie zwir
+Danio erythromicron (Emerald dwarf rasbora) [6-10+ (8-10+)(10-15+)][22-25 C][3-5 Y][2-3 cm][7-8 pH (7.2-7.6)][10-25 dGH]
     - male: more slender and streamlined and torpedo-shaped, slightly smaller , brighter and more highly contrasted, background color is a deeper blue and the vertical bars running along their flanks are sharper and more iridescent, fins exhibit richer red/orange tones
     - female: noticeably larger and longer and deeper-bodied, rounder and plumper abdomens, base color tends to be lighter or more olive-toned and the vertical stripes are less defined
     - bardzo spokojna i stresuja ja aktywne ryby (Melanotaenia praecox), terytorialne ryby zbyt je moga stresowac (Pelvicachromis taeniatus), niesmialosc moze im zabronic w dostepie do jedzenia, aktywne czesciowo agresywne ryby moga je stresowac (Fundulopanchax amieti)
-    - 8 PLN
-Danio margaritatus (Celestial pearl danio, Razbora galaxy) [8-10+ (6-12+)(1-2 males for 6-8 females)][22-26 C (18-26)][3-5 Y][2-2.5 cm] (moga je stresowac ryby je goniace (Betta splendens)) 8 PLN
-Danio rerio [6-8+ (10+)][18-24 C (18-27)][3-5 Y (3-6)][3.8-5 cm] (? - can be fin-nipping, moze wystresowac aktywnoscia mniejsze krewetki (Neocaridina davidi), moze wystresowac spokojne ryby (Apistogramma cacatuoides, Gastrodermus pygmaeus, Pelvicachromis taeniatus, Betta splendens, Apistogramma macmasteri, Fundulopanchax amieti, Aphyosemion australe, Trichogaster leeri, Apistogramma borellii, Epiplatys dageti, Trichogaster chuna), moze wystresowac mniejsze ryby (Pseudomugil paskai, Microdevario kubotai, Hyphessobrycon amandae, Paracheirodon innesi, Pseudomugil gertrudae, Danio margaritatus, Pseudomugil furcatus, Poecilia wingei, Epiplatys annulatus)) 4 PLN
-Devario aequipinnatus (Giant danio, Danio malabarskie) [6+][22-25 C][5-7 Y][7.5-10 cm (7.5-15)] (?? - fin-nipping, moze zjesc mniejsze krewetki (Neocaridina davidi), moze wystresowac spokojne ryby (Pangio kuhlii, Apistogramma cacatuoides, Corydoras schultzei, Gastrodermus pygmaeus, Danio erythromicron, Pelvicachromis taeniatus, Betta splendens),  moze wystresowac mniejsze ryby (Puntius titteya, Pseudomugil paskai, Melanotaenia praecox), moze zjesc bardzo male ryby (Microdevario kubotai, Hyphessobrycon amandae, Paracheirodon innesi)) 6 PLN x
-Epiplatys annulatus (Szczupieńczyk karłowaty, Clown killi) [6-8+ (2-3 females for 1 male)][20-26 C (18-27)][2-3 Y (2-5)][3-3.5 cm] (stresuja je aktywne rybki (Poecilia wingei, Pseudomugil furcatus, Nannostomus beckfordi, Aphyosemion australe, Puntius titteya, Melanotaenia praecox, Trigonostigma heteromorpha), stresuja je terytorialne wieksze ryby (Apistogramma macmasteri))
-Epiplatys dageti (Redchin Panchax, Szczupieńczyk Dageta) [6-8+ (2 females for 1 male)][21-26 C][2-5 Y][4-6 cm] (? - stresuje mniejsze krewetki (Neocaridina davidi) i moze je i zaatakowac, moze stresowac mniejsze rybki zyjace przy powierzchni (Poecilia wingei), w malym akwarium moga byc problematyczne z gatunkami Apistogramma, stresuja je aktywne rybki w gornej czesci akwarium (Pseudomugil furcatus), moze stresowac albo i zabic bardzo male rybki (Danio margaritatus, Gastrodermus pygmaeus, Pseudomugil paskai, Danio erythromicron, Microdevario kubotai, Hyphessobrycon amandae, Epiplatys annulatus, Trigonostigma hengeli), moze stresowac mniejsze rybki (Pseudomugil gertrudae), raczej niekompatybilne z Betta splendens, can fin-nip on some fish (Trichogaster chuna)) 15 PLN
-Fundulopanchax amieti (Aphyosemion amieti, Proporczykowiec Amieti) [1 male 2 females][22-26 C (20-28)][2-3 Y (2-4)][5-7 cm] (? - semi-agresywne, atakuje inne gatunki proporczykow, moze zjesc mniejsze krewetki (Neocaridina davidi), wymaga spokoju i terytorialne ryby moga ja wystresowac (Apistogramma macmasteri, Apistogramma cacatuoides), moze atakowac i zabic male rybki (Gastrodermus pygmaeus, Nannostomus beckfordi, Pseudomugil gertrudae, Danio margaritatus, Corydoras habrosus, Poecilia wingei, Epiplatys annulatus, Trigonostigma hengeli, Trigonostigma heteromorpha), stresuja ja aktywne rybki i moga je tez wyglodzic (Pseudomugil paskai, Melanotaenia praecox, Microdevario kubotai, Paracheirodon innesi, Pseudomugil furcatus), raczej niekompatybilne z Betta splendens i Trichogaster leeri, moze zaatakowc nawet wieksze ryby (Apistogramma borellii, Otocinclus vittatus, Trichogaster chuna)) 20 PLN
-Garra rufa (Brzanka ssąca) [6+][22-26 C (14-28)][5-8 Y (5-10)][10-14 cm] (?? - stresuje krewetki (Amano shrimp, Neocaridina davidi) i moga je i atakowac kiedy glodne, moze stresowac mniejsze ryby i nawet je atakowac (Trigonostigma heteromorpha, Trigonostigma hengeli), moze stresowac spokojne ryby i je wyglodzic (Trichogaster leeri, Pseudomugil paskai, Pseudomugil gertrudae, Pseudomugil furcatus, Poecilia wingei, Paracheirodon innesi, Pangio kuhlii, Otocinclus vittatus, Gastrodermus pygmaeus, Gastrodermus nanus, Epiplatys annulatus, Danio margaritatus, Danio erythromicron, Corydoras schultzei, Corydoras habrosus, Ancistrus dolichopterus, Microdevario kubotai, Hyphessobrycon amandae), moze stresowac i fin-nip spokojniejsze ryby (Trichogaster chuna, Fundulopanchax amieti, Betta splendens), moze stresowac nawet wieksze spokojne ryby (Pelvicachromis taeniatus, Corydoras paleatus, Apistogramma borellii, Aphyosemion australe)) 18 PLN x
-Gastrodermus nanus (Corydoras nanus) [6-8+][22-26 C][5-8 Y (5-10)][4-5 cm] 
+Danio margaritatus (Celestial pearl danio, Razbora galaxy) [8-10+ (6-12+)(1-2 males for 6-8 females)][22-26 C (18-26)][3-5 Y][2-2.5 cm]p[6.5-7.5 pH (6-8)][2-15 dGH]
+    - male: much brighter and dark bluish-slate gray body, fins (especially the dorsal and anal fins) are striking red or orange, slimmer and slightly more elongated
+    - female: lighter olive or blue-green body with paler and less defined spots that can sometimes merge into lines, rounder and stockier and wider in the abdomen, feature a small dark “gravid” spot just near the start of their anal fin, lower fins (like the abdominal fins) are often completely transparent or colorless
+    - moga je stresowac ryby je goniace (Betta splendens)
+Danio rerio [6-8+ (10+)][18-24 C (18-27)][3-5 Y (3-6)][3.8-5 cm][6-8 pH (7-7.5)][5-19 dGH (5-25)] (? - can be fin-nipping, moze wystresowac aktywnoscia mniejsze krewetki (Neocaridina davidi), moze wystresowac spokojne ryby (Apistogramma cacatuoides, Gastrodermus pygmaeus, Pelvicachromis taeniatus, Betta splendens, Apistogramma macmasteri, Fundulopanchax amieti, Aphyosemion australe, Trichogaster leeri, Apistogramma borellii, Epiplatys dageti, Trichogaster chuna), moze wystresowac mniejsze ryby (Pseudomugil paskai, Microdevario kubotai, Hyphessobrycon amandae, Paracheirodon innesi, Pseudomugil gertrudae, Danio margaritatus, Pseudomugil furcatus, Poecilia wingei, Epiplatys annulatus)) 4 PLN
+Devario aequipinnatus (Giant danio, Danio malabarskie) [6+][22-25 C][5-7 Y][7.5-10 cm (7.5-15)][6-8 pH (6.8-7.5)][5-19 dGH] (?? - fin-nipping, moze zjesc mniejsze krewetki (Neocaridina davidi), moze wystresowac spokojne ryby (Pangio kuhlii, Apistogramma cacatuoides, Corydoras schultzei, Gastrodermus pygmaeus, Danio erythromicron, Pelvicachromis taeniatus, Betta splendens),  moze wystresowac mniejsze ryby (Puntius titteya, Pseudomugil paskai, Melanotaenia praecox), moze zjesc bardzo male ryby (Microdevario kubotai, Hyphessobrycon amandae, Paracheirodon innesi)) 6 PLN x
+Epiplatys annulatus (Szczupieńczyk karłowaty, Clown killi) [6-8+ (2-3 females for 1 male)][20-26 C (18-27)][2-3 Y (2-5)][3-3.5 cm][6-7 pH (4.5-7)(6-6.5)][1-8 dGH]
+    - male: flame-shaped and pointed or "rocket" style tail that is bright blue and yellow or orange with vivid red striping in the middle, dorsal and anal fins are bright blue and yellow or orange with vivid red striping in the middle, slightly larger and slimmer
+    - female: tail and other fins are largely transparent or clear or at most they might display a slight yellowish or brownish hue, rounder and fuller belly, smaller
+    - stresuja je aktywne rybki (Poecilia wingei, Pseudomugil furcatus, Nannostomus beckfordi, Aphyosemion australe, Puntius titteya, Melanotaenia praecox, Trigonostigma heteromorpha), stresuja je terytorialne wieksze ryby (Apistogramma macmasteri)
+Epiplatys dageti (Redchin Panchax, Szczupieńczyk Dageta) [6-8+ (2 females for 1 male)][21-26 C][2-5 Y][4-6 cm][6-7 pH][2-12 dGH] (? - stresuje mniejsze krewetki (Neocaridina davidi) i moze je i zaatakowac, moze stresowac mniejsze rybki zyjace przy powierzchni (Poecilia wingei), w malym akwarium moga byc problematyczne z gatunkami Apistogramma, stresuja je aktywne rybki w gornej czesci akwarium (Pseudomugil furcatus), moze stresowac albo i zabic bardzo male rybki (Danio margaritatus, Gastrodermus pygmaeus, Pseudomugil paskai, Danio erythromicron, Microdevario kubotai, Hyphessobrycon amandae, Epiplatys annulatus, Trigonostigma hengeli, Paracheirodon axelrodi), moze stresowac mniejsze rybki (Pseudomugil gertrudae), raczej niekompatybilne z Betta splendens, can fin-nip on some fish (Trichogaster chuna)) 15 PLN
+Fundulopanchax amieti (Aphyosemion amieti, Proporczykowiec Amieti) [1 male 2 females][22-26 C (20-28)][2-3 Y (2-4)][5-7 cm][6-7.5 pH][4-12 dKH] (? - semi-agresywne, atakuje inne gatunki proporczykow, moze zjesc mniejsze krewetki (Neocaridina davidi), wymaga spokoju i terytorialne ryby moga ja wystresowac (Apistogramma macmasteri, Apistogramma cacatuoides), moze atakowac i zabic male rybki (Gastrodermus pygmaeus, Nannostomus beckfordi, Pseudomugil gertrudae, Danio margaritatus, Corydoras habrosus, Poecilia wingei, Epiplatys annulatus, Trigonostigma hengeli, Trigonostigma heteromorpha), stresuja ja aktywne rybki i moga je tez wyglodzic (Pseudomugil paskai, Melanotaenia praecox, Microdevario kubotai, Paracheirodon innesi, Pseudomugil furcatus), raczej niekompatybilne z Betta splendens i Trichogaster leeri, moze zaatakowc nawet wieksze ryby (Apistogramma borellii, Otocinclus vittatus, Trichogaster chuna))
+Garra rufa (Brzanka ssąca) [6+][22-26 C (14-28)][5-8 Y (5-10)][10-14 cm][6-8 pH (6.5-7.5)][3-22 dGH (6-16)][3-18 dKH] (?? - stresuje krewetki (Amano shrimp, Neocaridina davidi) i moga je i atakowac kiedy glodne, moze stresowac mniejsze ryby i nawet je atakowac (Trigonostigma heteromorpha, Trigonostigma hengeli), moze stresowac spokojne ryby i je wyglodzic (Trichogaster leeri, Pseudomugil paskai, Pseudomugil gertrudae, Pseudomugil furcatus, Poecilia wingei, Paracheirodon innesi, Pangio kuhlii, Otocinclus vittatus, Gastrodermus pygmaeus, Gastrodermus nanus, Epiplatys annulatus, Danio margaritatus, Danio erythromicron, Corydoras schultzei, Corydoras habrosus, Ancistrus dolichopterus, Microdevario kubotai, Hyphessobrycon amandae), moze stresowac i fin-nip spokojniejsze ryby (Trichogaster chuna, Fundulopanchax amieti, Betta splendens), moze stresowac nawet wieksze spokojne ryby (Pelvicachromis taeniatus, Corydoras paleatus, Apistogramma borellii, Aphyosemion australe)) 18 PLN x
+Gastrodermus nanus (Corydoras nanus) [6-8+][22-26 C][5-8 Y (5-10)][4-5 cm][6-7.5 pH][2-25 dGH]
     - male: slimmer and more streamlined, more pointed dorsal and pectoral fins
     - female: noticeably larger and wider and much more full-bodied and plumper, shorter, more rounded dorsal and pectoral fin tips
-    - ? - lepiej nie zwir 
-    - 10 PLN
-Gastrodermus pygmaeus (Corydoras pygmaeus) [6-8+ (10+)][22-26 C][3-5 Y][2-3 cm] (? - lepiej nie zwir, aktywne ryby moga je stresowac kiedy chca plywac wyzej (Melanotaenia praecox)) 9 PLN
-Melanotaenia boesemani (Tęczanka Boesemana, Boesemani rainbowfish) [6-8+ (2 females for 1 male)][24-28 C][5-8 Y (5-12)][10-13 cm] (? - wymagaja chyba wieksze akwarium, zbyt aktywne dla spokojnych rybek w tym samym pasmie wodnym (Microdevario kubotai, Paracheirodon innesi, Gastrodermus nanus, Gastrodermus pygmaeus, Fundulopanchax amieti, Aphyosemion australe, Pseudomugil furcatus, Corydoras habrosus, Trichogaster chuna), duza szansa ze zjedza mniejsze (Neocaridina) krewetki, moga wystresowac male spokojne ryby nawet zabic (Danio erythromicron, Pseudomugil paskai, Danio margaritatus, Pseudomugil furcatus, Epiplatys annulatus, Trigonostigma hengeli)) 18 PLN
-Melanotaenia praecox (Tęczanka neonowa, Dwarf Neon Rainbowfish) [6-10+ (2 females for 1 male)][23-28 C][3-5 Y][5-8 cm] (zjedza wiekszosc albo wszystkie nie dorosle mniejsze krewetki)
-Nannostomus beckfordi (Drobnoustek Beckforda, Golden pencilfish) [6-8+ (10+)(2-3 females for 1 male)][22-28 C (24-26)][3-5 Y (2-3)][3.5-5 cm] 18 PLN
-Otocinclus vittatus (Otosek szerokopasy) [6+ (10+)][21-26 C (22-24)][3-5 Y][3.5-5 cm] 10 PLN
-Pangio kuhlii (Piskorek Kuhla, Kuhli loach) [6-8+][23-27 C][8-10 Y (8-14)][7.5-10 cm] 
+    - lepiej nie zwir 
+    - platki dla ryb tropikalnych (rozdrobnione), nano-peletki szybko opadajace, micro-granule, mrozone (niedorosla artemia (baby brine shrimp, žábronožka), daphnia, cyclops (oczlik, buchanka)), zywe (niedorosla artemia (baby brine shrimp, žábronožka), daphnia, cyclops (oczlik, buchanka)), rozdrobione algae tablety rzadko
+Gastrodermus pygmaeus (Corydoras pygmaeus) [6-8+ (10+)][22-26 C][3-5 Y][2-3 cm][6.4-7.4 pH (6.5-7)][2-15 dGH]
+    - male: narrower and more streamlined, sometimes show slightly more vibrant colors with a more pronounced yellow or gold highlight along their bodies and fins
+    - female: from above look like a "raindrop", significantly plumper and wider, larger in both length and overall volume, belly is visibly rounded or swollen
+    - lepiej nie zwir, aktywne ryby moga je stresowac kiedy chca plywac wyzej (Melanotaenia praecox)
+    - platki dla ryb tropikalnych (rozdrobnione), nano-peletki szybko opadajace, gelowe jedzenie na dno, gotowane warzywa male kawaleczki nie kazdy dzien (cukinie, ogorki), mrozone (daphnia, cyclops (oczlik, buchanka)), zywe (niedorosla artemia (baby brine shrimp, žábronožka))
+Hoplisoma trilineatum (Corydoras julii, Kirysek nakrapiany, False Julii Corydoras) [6+ (8+)][22-26 C][5-8 Y (5-15)][5-7 cm][6-7.5 pH (5.8-8)][5-20 dGH]
+    - male: slimmer and more torpedo-shaped, airplane-shaped from above, smaller, more pointed and elongated fin tips
+    - female: larger and more robust, raindrop-shaped, bellies much broader than heads, larger, more rounded fins
+    - tablety dla ryb jedzacych z dna, catfish peletki, mikro-peletki, mrozone (bloodworm (larwy ochotki, patentka), daphnia, artemia (brine shrimp, žábronožka), tubifex (rurecznik, nitentky)), zywe (bloodworm (larwy ochotki, patentka), daphnia, artemia (brine shrimp, žábronožka), tubifex (rurecznik, nitentky))
+Hyphessobrycon amandae (Bystrzyk Amandy, Ember Tetra) [8-10+][24-28 C (20-29)][2-4 Y][1.5-2 cm][5.5-7 pH][1-10 dGH]
+    - male: slimmer and streamlined and torpedo-shaped body, more vibrant and deeper orange-red coloration
+    - female: deeper and broader body with a distinctly rounded abdomen
+Melanotaenia boesemani (Tęczanka Boesemana, Boesemani rainbowfish) [6-8+ (2 females for 1 male)][24-28 C][5-8 Y (5-12)][10-13 cm][7-8 pH][8-20 dGH] (? - wymagaja chyba wieksze akwarium, zbyt aktywne dla spokojnych rybek w tym samym pasmie wodnym (Microdevario kubotai, Paracheirodon innesi, Gastrodermus nanus, Gastrodermus pygmaeus, Fundulopanchax amieti, Aphyosemion australe, Pseudomugil furcatus, Corydoras habrosus, Trichogaster chuna), duza szansa ze zjedza mniejsze (Neocaridina) krewetki, moga wystresowac male spokojne ryby nawet zabic (Danio erythromicron, Pseudomugil paskai, Danio margaritatus, Pseudomugil furcatus, Epiplatys annulatus, Trigonostigma hengeli, Paracheirodon axelrodi))
+Melanotaenia praecox (Tęczanka neonowa, Dwarf Neon Rainbowfish) [6-10+ (2 females for 1 male)][23-28 C][3-5 Y][5-8 cm][6.8-7.5 pH (6.5-8)][5-15 dGH][8-12 dKH] (zjedza wiekszosc albo wszystkie nie dorosle mniejsze krewetki)
+Microdevario kubotai (Kubotai rasbora) [10-12+ (8-10+)][22-26 C (20-28)][3-5 Y][2-3 cm][6-7 pH (6-7.5)][2-10 dGH]
+    - male: slimmer and sleeker profile, more striking and brilliant metallic lime-green or yellow-green sheen
+    - female: noticeably rounder and deeper abdomen, slightly more muted color
+    - stresuja je aktywne rybki (Poecilia wingei, Corydoras paleatus)
+Mikrogeophagus altispinosus
+Nannostomus beckfordi (Drobnoustek Beckforda, Golden pencilfish) [6-8+ (10+)(2-3 females for 1 male)][22-28 C (24-26)][3-5 Y (2-3)][3.5-5 cm][6-7.5 pH (5-7.5)(6-7)][2-12 dGH]
+Otocinclus vittatus (Otosek szerokopasy) [6+ (10+)][21-26 C (22-24)][3-5 Y][3.5-5 cm][6.5-7.5 pH][4-15 dGH]
+Osteogaster aenea (Corydoras aeneus)
+Pangio kuhlii (Piskorek Kuhla, Kuhli loach) [6-8+][23-27 C][8-10 Y (8-14)][7.5-10 cm][5.5-7 pH (6-6.5)][1-10 dGH]
     - male: pectoral fins are larger and thicker and more paddle-shaped and they often feature a milky-white pigment near the front rays
     - female: smaller and clear-looking pectoral fins, larger and longer and noticeably plumper
-    - ? - lepiej nie zwir
-    - 9 PLN
-Paracheirodon innesi [6-8+][22-26 C (21-27)][2-5 Y][3-4 cm]
+    - lepiej nie zwir
+Paracheirodon axelrodi [6-10+][23-27 C][4-5 Y (4-10)][3-4.5 cm][5.5-6.5 pH (4-7.5)][1-8 dGH][1-4 dKH]
+    - male: thinner and more streamlined, blue stripe is noticeably straighter, anal fin occasionally develops tiny and rigid bony hooks
+    - female: fuller and plumper and larger, blue stripe often looks slightly bent or curved, wider in the mid-section
+    - moga je stresowac aktywne rybki (Aphyosemion australe)
+    - platki dla ryb tropikalnych (rozdrobnione), micro-granule, mikro-peletki, mrozone (daphnia, artemia (brine shrimp, žábronožka), glass worm (wodzienie, szklarki, koretra)), mrozone max raz na tydzien (bloodworm (larwy ochotki, patentka)), gotowane warzywa rzadko (szpinak, cukinie, salatka)
+Paracheirodon innesi [6-8+][22-26 C (21-27)][2-5 Y][3-4 cm][6-7 pH (5.5-7)]
     - male: slimmer and narrower and smaller, bright blue stripe is extremely straight from head to tail
     - female: plumper and wider and deeper-bodied, iridescent blue stripe curves slightly due to the rounded belly
-Pelvicachromis pulcher (Barwniak czerwonobrzuchy) [2 (para)][24-28 C (22-29)][5-8 Y][10-12 cm (6-8 females)] (?? - terytorialne z mlodymi, moga przeganiac z terytorium rybki zyjace na dnie (Corydoras), fin-nipping, zjedza mniejsze (Neocaridina) krewetki, raczej niekompatybilne z Betta splendens) x
-Pelvicachromis taeniatus (Barwniak szmaragdowy) [2 (para)][22-26 C (21-28)][3-5 Y][7-9 cm] (? - terytorialne z mlodymi, moga przeganiac z terytorium rybki zyjace na dnie (Corydoras, Pangio kuhlii, Sewellia lineolata, Otocinclus vittatus, Corydoras paleatus, Garra rufa), raczej niekompatybilne z Betta splendens, zjedza mniejsze (Neocaridina) krewetki, moze napadac ryby wplywajace w poblize gniazda (Pethia padamya, Fundulopanchax amieti, Danio margaritatus, Poecilia wingei, Trichogaster chuna), niekompatybilna z gatunkami Apistogramma, moga zjesc duzo mniejsze rybki (Epiplatys annulatus))
-Pethia padamya (Odessa barb) [6-8+ (10+)][22-26 C (22-28)][3-5 Y (3-6)][4.5-7 cm] (?? - fin-nipping, duza szansa ze zjedza mniejsze (Neocaridina) krewetki, moze wystresowac spokojne ryby (Apistogramma cacatuoides, Gastrodermus pygmaeus, Gastrodermus nanus, Pseudomugil paskai, Danio erythromicron, Microdevario kubotai, Betta splendens, Paracheirodon innesi, Apistogramma macmasteri, Fundulopanchax amieti, Aphyosemion australe, Nannostomus beckfordi, Pseudomugil gertrudae, Pseudomugil furcatus, Trichogaster leeri)) 6 PLN x
-Phenacogrammus interruptus (Świecik kongijski, Congo tetra) [6-8+ (8-12)(2-3 females for 1 male)][23-27 C (23-26)][3-5 Y (3-10)][7.5-9 cm (females 6-7 cm)] (?? - wymagaja chyba wieksze akwarium, zabije i srednie krewetki (Amano shrimp, Neocaridina davidi), stresuje spokojne rybki (Aphyosemion australe, Fundulopanchax amieti, Apistogramma cacatuoides, Betta splendens), stresuje duzo mniejsze rybki (Pseudomugil paskai), moze zabic bardzo male rybki (Danio erythromicron, Microdevario kubotai, Hyphessobrycon amandae, Paracheirodon innesi)) 16 PLN x
-Poecilia wingei (Gupik Endlera) [6-8+ (2-3 females for 1 male)][24-28 C (20-29)][2-3 Y (2-5)][3.5-4.5 cm (males 2.5)] 8 PLN
-Pseudomugil furcatus (Modrook słoneczny) [8-10+ (6-8+)(2 females for 1 male)][24-26 C (24-27)][2-3 Y][4-5 cm] 
+    - platki dla ryb tropikalnych (rozdrobnione), micro-granule, mikro-peletki, mrozone (daphnia, artemia (brine shrimp, žábronožka), cyclops (oczlik, buchanka)), zywe (daphnia, artemia (brine shrimp, žábronožka), cyclops (oczlik, buchanka)), gotowane warzywa rzadko (szpinak, cukinie, salatka), mrozone max raz na tydzien (Bloodworm (larwy ochotki, patentka))
+Pelvicachromis pulcher (Barwniak czerwonobrzuchy) [2 (para)][24-28 C (22-29)][5-8 Y][10-12 cm (6-8 females)][6.5-7.5 pH (6.5-8)(5.6-6.2)][8-12 dGH (3-20)] (?? - terytorialne z mlodymi, moga przeganiac z terytorium rybki zyjace na dnie (Corydoras), fin-nipping, zjedza mniejsze (Neocaridina) krewetki, raczej niekompatybilne z Betta splendens) x
+Pelvicachromis taeniatus (Barwniak szmaragdowy) [2 (para)][22-26 C (21-28)][3-5 Y][7-9 cm][6-7.5 pH (6.5-7)][5-15 dGH] (? - terytorialne z mlodymi, moga przeganiac z terytorium rybki zyjace na dnie (Corydoras, Pangio kuhlii, Sewellia lineolata, Otocinclus vittatus, Corydoras paleatus, Garra rufa, Hoplisoma trilineatum), raczej niekompatybilne z Betta splendens, zjedza mniejsze (Neocaridina) krewetki, moze napadac ryby wplywajace w poblize gniazda (Pethia padamya, Fundulopanchax amieti, Danio margaritatus, Poecilia wingei, Trichogaster chuna), niekompatybilna z gatunkami Apistogramma, moga zjesc duzo mniejsze rybki (Epiplatys annulatus))
+Pethia padamya (Odessa barb) [6-8+ (10+)][22-26 C (22-28)][3-5 Y (3-6)][4.5-7 cm][6.5-7.5 pH (6-8.5)][5-15 dGH] (?? - fin-nipping, duza szansa ze zjedza mniejsze (Neocaridina) krewetki, moze wystresowac spokojne ryby (Apistogramma cacatuoides, Gastrodermus pygmaeus, Gastrodermus nanus, Pseudomugil paskai, Danio erythromicron, Microdevario kubotai, Betta splendens, Paracheirodon innesi, Apistogramma macmasteri, Fundulopanchax amieti, Aphyosemion australe, Nannostomus beckfordi, Pseudomugil gertrudae, Pseudomugil furcatus, Trichogaster leeri)) 6 PLN x
+Phenacogrammus interruptus (Świecik kongijski, Congo tetra) [6-8+ (8-12)(2-3 females for 1 male)][23-27 C (23-26)][3-5 Y (3-10)][7.5-9 cm (females 6-7 cm)][6-7.5 Ph (6-6.5)][3-18 dGH (5-10)] (?? - wymagaja chyba wieksze akwarium, zabije i srednie krewetki (Amano shrimp, Neocaridina davidi), stresuje spokojne rybki (Aphyosemion australe, Fundulopanchax amieti, Apistogramma cacatuoides, Betta splendens), stresuje duzo mniejsze rybki (Pseudomugil paskai), moze zabic bardzo male rybki (Danio erythromicron, Microdevario kubotai, Hyphessobrycon amandae, Paracheirodon innesi)) 16 PLN x
+Poecilia wingei (Gupik Endlera) [6-8+ (2-3 females for 1 male)][24-28 C (20-29)][2-3 Y (2-5)][3.5-4.5 cm (males 2.5)][7-8.5 pH][10-20 dGH]
+Pseudomugil furcatus (Modrook słoneczny) [8-10+ (6-8+)(2 females for 1 male)][24-26 C (24-27)][2-3 Y][4-5 cm][7-8 Ph][5-15 dGH]
     - male: dorsal and anal and and caudal (tail) fins are noticeably longer and more pointed and fan out, edges of the fins are a brilliant striking yellow, enlarged and bright yellow "pom-pom" pectoral fins, more intense coloration, in spawning condition chests often develop a bright red or orange tint, larger and deeper-bodied
     - female: fins are shorter and more rounded, pectoral fins are clear or only slightly yellow,  more silvery or grayish-green body, smaller in size and appear sleeker or more slender
-    - (Betta splendens can sometimes nip their fins) 
-    - 15 PLN
-Pseudomugil gertrudae [6-8+ (8-10+)(2 females for 1 male)][22-28 C][1.5-3 Y (1.5-5)][2.5-4 cm] 
+    - Betta splendens can sometimes nip their fins
+Pseudomugil gertrudae [6-8+ (8-10+)(2 females for 1 male)][22-28 C][1.5-3 Y (1.5-5)][2.5-4 cm][6-7.5 pH][3-12 dGH]
     - male: fins significantly longer and larger and more extravagant, dorsal and anal fins stretch out and flare dramatically during displays, brighter shimmery yellow and blue colors with heavier black edging on the fins, darker and more pronounced spots dotting their bodies and fins
     - female: fins shorter and smaller and more translucent, more plain and silvery-grey, more petite and streamlined overall body, bellies become noticeably rounder when carrying eggs
     - moga je stresowac samce innych gatunkow Pseudomugil, terytorialne ryby zbyt je moga stresowac (Pelvicachromis taeniatus), Betta splendens can sometimes nip their fins
-    - 15 PLN
-Pseudomugil paskai [6-10+ (8-10+)(2-3 females for 1 male)][22-26 C (22-28)][2-3 Y (2-4)][3-3.5 cm] 
+Pseudomugil paskai [6-10+ (8-10+)(2-3 females for 1 male)][22-26 C (22-28)][2-3 Y (2-4)][3-3.5 cm][6-7.5 pH (6.5-7)][3-15 dGH]
     - male: striking bright orange to deep red bodies, iridescent blue or neon stripe running along the back, larger and gaudier fins, dorsal and anal fins are significantly elongated sometimes extending into thread-like filaments and will feature distinct white and yellow margins
     - female: mostly transparent or pale yellowish-tan with little to no neon patterning, shorter and rounded and less colorful fins, plumper and rounder especially through the belly
     - samce Melanotaenia praecox moga je przeganiac, terytorialne ryby zbyt je moga stresowac (Pelvicachromis taeniatus), moga je stresowac samce innych gatunkow Pseudomugil
-    - 15 PLN
-Puntius titteya (Cherry barb) [6+ (8-12)(2 females for 1 male)][23-26 C (20-28)][4-6 Y (4-8)][5cm] (? - niekiedy fin-nip, raczej niekompatybilne z Betta splendens, moga wystresowac spokojniejsze ryby (Apistogramma cacatuoides), moga wystresowac i atakowac spokjniejsze ryby w tym samym pasmie akwarium (Fundulopanchax amieti)) 6 PLN
-Sewellia lineolata (Tiger Hillstream Loach, Przylga siatkowana) [4-6+ (2+ females per male)][20-24 C (20-27)][5-8 Y (5-10)][6-8 cm (males 5)] (?? - nie lubia wysokich temperatur, troche terytorialne wiec moga stresowac albo atakowac inne gatunki zyjace na dnie (Corydoras schultzei, Gastrodermus pygmaeus)) 28 PLN x
-Trichogaster chuna (Honey gourami, Prętnik trójbarwny) [2 (para) (3-4 (1 male 2-3 female))][22-28 C (24-26)][4-5 Y (4-8)][3.8-5 cm (3.8-7)] 
+    - platki dla ryb tropikalnych (rozdrobnione), nano-peletki, mrozone (daphnia, cyclops (oczlik, buchanka), niedorosla artemia (baby brine shrimp, žábronožka)), zywe (daphnia, niedorosla artemia (baby brine shrimp, žábronožka))
+Puntius titteya (Cherry barb) [6+ (8-12)(2 females for 1 male)][23-26 C (20-28)][4-6 Y (4-8)][5cm][6-8 pH (6.5-7)][2-19 dGH (5-10)] (? - niekiedy fin-nip, raczej niekompatybilne z Betta splendens, moga wystresowac spokojniejsze ryby (Apistogramma cacatuoides), moga wystresowac i atakowac spokjniejsze ryby w tym samym pasmie akwarium (Fundulopanchax amieti)) 6 PLN
+Sewellia lineolata (Tiger Hillstream Loach, Przylga siatkowana) [4-6+ (2+ females per male)][20-24 C (20-27)][5-8 Y (5-10)][6-8 cm (males 5)][6.5-7.5 pH][5-12 dGH] (?? - nie lubia wysokich temperatur, troche terytorialne wiec moga stresowac albo atakowac inne gatunki zyjace na dnie (Corydoras schultzei, Gastrodermus pygmaeus)) 28 PLN x
+Trichogaster chuna (Honey gourami, Prętnik trójbarwny) [2 (para) (3-4 (1 male 2-3 female))][22-28 C (24-26)][4-5 Y (4-8)][3.8-5 cm (3.8-7)][6.5-7.5 pH (6-8)][5-19 dGH]
     - male : longer and pointed dorsal fin, bright lemon-yellow outer rim on dorsal fin, slender and torpedo-shaped body
     - female : orangish or reddish rim on dorsal fin, continuous and solid and broad stripe from eye to tail, rounder belly
     - moga je stresowac inne gurami (Trichogaster leeri), moga sie wzajemnie stresowac z innymi rybkami zyjacymi przy powierzchni i czesciowo terytorialnymi (Aphyosemion australe), moga je stresowac bardzo aktywne ryby (Trichogaster chuna)
-Trichogaster leeri (Pearl gourami, Gurami mozaikowy) [1-3 (1 male 2 females)][25-28 C][4-6 Y (4-10)][10-12.5 cm]
+Trichogaster leeri (Pearl gourami, Gurami mozaikowy) [1-3 (1 male 2 females)][25-28 C][4-6 Y (4-10)][10-12.5 cm][6-7.5 pH (5.5-8)(6.5-7)][2-18 dGH]
     - male : throat and chest is vibrant orange-red, slimmer and V-shaped body, longer and pointed dorsal fin, longer and (ragged or fringed) anal fin
     - female : rounder belly
     - glodne moga atakowac mniejsze krewetki (Neocaridina davidi), moze stresowac male niesmiale rybki (Danio margaritatus), moze stresowac mniejsze terytorialne rybki w gornym pasie wodnym (Aphyosemion australe), moze zjesc bardzo male rybki w gornym pasie wodnym (Poecilia wingei, Epiplatys annulatus)
-    - 15 PLN
-Trigonostigma hengeli (Razbora Hengela, Glowlight rasbora) [8-12+ (10+)(15+)][22-28 C (24-26)][3-5 Y][2.5-3 cm] 10PLN
-Trigonostigma heteromorpha (Harlequin rasbora, Razbora klinowa) [8-10+][22-26 C (22-28)][3-5 Y (3-8)][3.8-5 cm] 10 PLN
-Xiphophorus hellerii (Mieczyk) [1 male + 2-3 females][22-28 C][3-5 Y][14-16 cm] (??? - problem z ich aktywnoscia i moga byc agresywne, zje jedzenie innym rybom bo zarloczna, moga zabic nano rybki) 18 PLN x
-Yasuhikotakia morleti (Skunk loach, Bocja mysia) [6-8+][24-30 C][5-10 Y (8-10)][10 cm] (?? - lepiej nie zwir, wymagaja raczej wieksze akwarium, fin-nipping, stresuje spokojne ryby, moze atakowac mniejsze rybki) 15 PLN x
+Trigonostigma hengeli (Razbora Hengela, Glowlight rasbora) [8-12+ (10+)(15+)][22-28 C (24-26)][3-5 Y][2.5-3 cm][5.5-7 pH (5.5-7.5)(5-6)][1-12 dGH][1-5 dKH]
+Trigonostigma heteromorpha (Harlequin rasbora, Razbora klinowa) [8-10+][22-26 C (22-28)][3-5 Y (3-8)][3.8-5 cm][6-7 pH (5-7.5)][1-12 dGH]
+Xiphophorus hellerii (Mieczyk) [1 male + 2-3 females][22-28 C][3-5 Y][14-16 cm][7-8.5 pH (7.2-7.5)][10-30 dGH] (??? - problem z ich aktywnoscia i moga byc agresywne, zje jedzenie innym rybom bo zarloczna, moga zabic nano rybki)
+Yasuhikotakia morleti (Skunk loach, Bocja mysia) [6-8+][24-30 C][5-10 Y (8-10)][10 cm][6-7.5 pH (6.5-7)][5-12 dGH] (?? - lepiej nie zwir, wymagaja raczej wieksze akwarium, fin-nipping, stresuje spokojne ryby, moze atakowac mniejsze rybki) 15 PLN x
 ---
-Cambarellus (rak) [1-2(para)][18-26 C(depends on species)][1.5-2 Y][2.5-5 cm] (?? - problem z malymi rybkami i krewetkami) 20 PLN x
-Caridina cantonensis [6-10+][20-23 C][1.5-2 Y (1.5-3)][2.5-4 cm] (?? - zla temperatura, uczulone, de facto musza byc same) x
-Caridina multidentata (Amano shrimp) [3-5+ (6+)][20-22 C (20-25.5)(18-27)][2-3 Y (5-7)][4-6.5 cm] 15 PLN
-Neocaridina davidi (Cherry shrimp) [10+][21-26 C (16-27)][1-2 C (1-5)][2.5-4 cm]
+Cambarellus (rak) [1-2(para)][18-26 C(depends on species)][1.5-2 Y][2.5-5 cm][6.5-7.8 pH][5-20 dGH][3-15 dKH] (?? - problem z malymi rybkami i krewetkami)
+Caridina cantonensis [6-10+][20-23 C][1.5-2 Y (1.5-3)][2.5-4 cm][5.5-6.5 pH][4-6 dGH][0-1 dKH] (?? - zla temperatura, uczulone, de facto musza byc same) x
+Caridina multidentata (Amano shrimp) [3-5+ (6+)][20-22 C (20-25.5)(18-27)][2-3 Y (5-7)][4-6.5 cm][6.5-7.5 pH (6-8)][4-14 dGH (6-10)][2-8 dKH]
+    - rozdrobione algae tablety, gotowane warzywa (salatka, szpinak, cukinie, ogorek), peletki dla krewetek
+Neocaridina davidi (Cherry shrimp) [10+][21-26 C (16-27)][1-2 C (1-5)][2.5-4 cm][7-7.5 pH (6.5-8)][6-8 dGH][2-4 dKH]
 ---
-Anentome helena [22-28 C]
-Clithon corona [22-28 C]
-Filopaludina martensi (White Wizard Snail) (?? - need sand or small round gravel) [20-28 C] 15 PLN x
-Physella acuta [18-28 C]
-Vitta zebra (Nerite snail) [22-26 C (18-29)]
+Anentome helena [22-28 C][7.8-8 pH][8-15 dGH]
+Clithon corona [22-28 C][7-8.5 pH (7-8)(6.5-8.5)][6-20 dGH (8-15)][5-12 dKH (5-10)]
+Filopaludina martensi (White Wizard Snail) [20-28 C (22-26)][7-8.5 pH (6.5-8.5)(7-9)][5-20 dGH][4-12 dKH] (?? - need sand or small round gravel)
+Physella acuta [18-28 C][7-8 pH (7.2-8.5)]
+Vitta zebra (Nerite snail) [22-26 C (18-29)][6.5-8.5 pH (6.5-8)(7-8.5)]
 ----------------------------
-Trichogaster leeri 3 [1 male 2 female] vs Trichogaster chuna 3 [1 male 2 female]
-Apistogramma borellii 2 [para] vs Apistogramma macmasteri 2 [para]
-Aphyosemion australe 3 [1 male 2 females]
-Pangio kuhlii 4-6
-Gastrodermus nanus 6 vs Corydoras schultzei 6
-Pseudomugil furcatus 8 [3 males 5 females] vs Pseudomugil gertrudae 6-8 [2-3 males 4-5 females] vs Pseudomugil paskai 6-8 [2-3 males 4-5 females] vs Hyphessobrycon amandae 8 vs Microdevario kubotai 10 vs Danio erythromicron 8-10
+
 

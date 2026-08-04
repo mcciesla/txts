@@ -172,8 +172,9 @@ PODRÓŻE:
     Zdobywamy Amazonkę ; Arkady Fiedler
     Zwierzęta z lasu dziewiczego ; Arkady Fiedler
 PSYCHOLOGIA:
-    Thinking Fast and Slow ; Daniel Kahneman
     Not Born Yesterday - The Science of Who We Trust and What We Believe ; Hugo Mercier
+    The Enigma of Reason - A New Theory of Human Understanding ; Hugo Mercier , Dan Sperber
+    Thinking Fast and Slow ; Daniel Kahneman
 SOCIOLOGIA:
     The Better Angels of Our Nature - A History of Violence and Humanity ; Steven Pinker
 OTHER:
@@ -210,6 +211,8 @@ SCIENCE :
         LOGIKA:
             Logika a logiky ; Jaroslav Peregrin
             Od jazyka k logice - Filozofický úvod do moderní logiky ; Vladimír Svoboda , Jaroslav Peregrin
+    PSYCHOLOGIA:
+        The Enigma of Reason - A New Theory of Human Understanding ; Hugo Mercier , Dan Sperber
 POP.SCIENCE :
     AKWARIUM:
         Moje akvárium ; Karl-Heinz Tschiesche
@@ -430,6 +433,7 @@ POP.SCIENCE :
         Poczet Wielkich Mistrzów Krzyżackich ; Paweł Pizuński
         Polacy w bitwie o Narwik ; Witold Biegański
         Pomnik w Kalkówce ; Tadeusz Jurga
+        Prusy - Powstanie i upadek 1600-1947 ; Christopher Clark
         Przedmurze Starówki ; Bogusław Szumski
         Přemožitel neviditelných dravců ; František Gel
         Radical Enlightenment - Philosophy and the Making of Modernity 1650-1750 ; Jonathan I. Israel
